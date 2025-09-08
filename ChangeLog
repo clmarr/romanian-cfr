@@ -1,0 +1,174 @@
+Added to temporary rules at the end of the cascade to account for prefixes.
+	i > ɨ / # __ [+nas]
+	a d > a / # __ [+cons]
+
+Deleted yod after stressed a and before r. I need to check properly, but from the end-of-book derivations, it looks like Pardess doesn't look at Latin etyma with -ium.
+	j > ∅ / ˈa __ r
+	
+
+10Cb: ŋ > n to ŋ > m / [+syl,-stres] __ [+ant,+cor]
+This applies correctly more regularly--combine with 10Ca?
+Combined rules, removed prior stress condition. 
+Previously:
+	10Ca ŋ > m /  [+stres] __ [+ant,+cor]
+	10Cb ŋ > n / [+syl,-stres] __ [+ant,+cor]
+New:
+	10Ca ŋ > m /  [+syl] __ [+ant,+cor]
+
+
+R59: Added -stress to prevent devoicing of stressed vowels.
+Old:
+	[+syl,+hi] > w / [+cons] [+cons,+cont,+son] __ #
+    [+syl,+hi] > [-voi,-syl] / __ #
+    [-cons,+hi,-voi,-syl] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
+New:
+	[+syl,+hi,-stres] > w / [+cons] [+cons,+cont,+son] __ #
+    [+syl,+hi,-stres] > [-voi,-syl] / __ #
+    [-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
+
+
+Added before R11: β > ∅ / __ ˈa [+nas]
+Blocks R11:
+	*/kβˈantu/ > */kˈantu/;             (et.879; #kwˈantum# > ... > #kˈɨt#)
+	*/kβˈandoː/ > */kˈandoː/;             (et.1574; #kwˈandoː# > ... > #kˈɨnd#)
+	
+	
+R34: Changed conditioning [-cons] to [+syl] to prevent lj > ɾj
+Old: 
+	l > ɾ / [-cons] __ [-cons]
+New:
+	l > ɾ / [-cons] __ [+syl]
+	
+
+R42: Temporary disjunction--ɾ is identified as -delrel? Prevent ɾ > d͡z.
+Old:
+	[-cont,+ant,+cor,-delrel] > [+delrel,+strid] / __ j
+New:
+	{d;t} > {d͡z;t͡s} / __ j
+	*[-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / __ j
+
+R59: Many problems with many temporary fixes to bleed/feed. Come back to this.
+Old:
+	[+syl,+hi] > [-voi,-syl] / __ #
+    [-cons,+hi,-voi,-syl] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
+    w̥ > ∅
+New:
+	[+syl,+hi,-stres] > w / [+cons] [+cons,+cont,+son] __ #
+	[+syl,+hi,-stres] > [-voi,-syl] / __ #
+	[-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
+	w̥ > ∅ / [+cons] __
+	m n w > m n
+	{w;w̥;j̊} > {u;w;j}
+	a u > a w
+    
+
+R11: This was noted as "implied", but as written, applied incorrectly. The new rule is specific to nkβ > mpβ and ngβ > mbβ clusters.
+Old: 
+    ŋ > m / __ [+cons,+lab]
+New:
+	n [+lab,-strid,+cons] β > m [+lab,-strid,+cons] β
+	 n > m / __ [+lab,-strid,+cons] β
+
+
+Changed ŋ to n in some rules, as it looks like we're using ŋ to represent nasalised g. 
+Changed R59: blocked post C-lateral cluster u-deletion, moved ɾ > r temporary r 0.29484792 0.28988206 0.29298572. [+syl,+hi,-stres] > w / [+cons] [+cons,+cont,+son] __ #
+Added j s > ʃ / [-cons] __ [-cons], which I changed to a disjunction catch-all {j s ə;j s k;j s t} > {ʃ ə; s k;p t}
+Cleaned R33 (not sure what {a;ˈa} > {ə;ˈə} / __ [+nas] [-cont,+ant,+cor,-delrel] does: replaced with {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] [+cons,-nas].
+Added prior consonant to condition 3B to block prefix in > i:.
+Added -strid to following consonant in R11 nasal assimilation rule to block nf > mf. 0.30664184 0.30788330
+Aded prior +cons to R17 0.30788330 0.31905649
+Added [+cons] to prevent jj in R20.
+Glide formation at beginning of cascade--made this happen after vowels, too. (kaelum > kaylum) 0.31967722 0.31967722
+Added [-voi] to R10C to prevent kr > pr.      k > p / [+stres] __ [+ant,+cor,-voi]
+Changed R22D to disjunction.  0.32256060 0.32442511
+Made R40 happen only after an initial C or VC: Ci/VCi > Cji etc to block rri>rrjiu 0.32442511 0.32877564
+Added m n w > m n to 59B.
+Added e̯ ˈa w ə > e̯ ˈa for BR > DR (19 on P135)
+Gliding a u > a w
+Added i e > j e after β deletion in R22E. 0.33747669
+Gliding at beginning: prevent ij unless after consonant--remember that I lso added rule for gliding afterv owels.
+
+R10Ca: Added k > p /  __ t [+stres,-cons]
+Old:
+	k > p / [+stres] __ [+ant,+cor,-voi]
+New: 
+	k > p / [+stres] __ [+ant,+cor,-voi]
+    k > p /  __ t [+stres,-cons]
+
+
+End of cascade: moving d͡ʒ ˈe ultimate stress to the penultimate.
+	[-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ #
+	
+
+
+End of cascade: messy yod disjunction.
+
+
+R14: Added word-initial condition to unstressed e aphaeresis. Probably just forgotten?
+Old:e > ∅ / __ [+strid,+ant] [+cons]
+New: e > ∅ / # __ [+strid,+ant] [+cons]
+	
+	
+	
+R17: Added prior non-nasal condition to block β deletion 
+Old: β > ∅ / [+cons] __ [-cons]
+New: β > ∅ / [+cons,-nas] __ [-cons]
+Problematic--figure out how to only block it after prefixes (secondary stress, maybe?)
+	*/manβˈarju/ > */manˈarju/;             (et.178; #manuˈaːrium# > ... > #amnˈar#)
+	*/manβˈale/ > */manˈale/;             (et.1049; #manuˈaːlem# > ... > #amnˈar#)
+	
+	
+R22: Because Pardess doesn't include prefixes. 
+Old: β > v / # i n __
+New: β > v / # e n __
+	
+R37: added rule to retain stress.
+Old:
+	[+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback]
+New:
+	[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
+	[+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback]
+	
+	
+R49: TEMPORARY? Added [+hi] to post-cluster vowel.
+Old:
+	ə > ɨ / __ r [+cons]
+New:
+	ə > ɨ / __ r [+cons] [+hi]
+	
+R10Cb Added post-locus [-voi] to block k r > s r.
+Old: k > s / [+syl,-stres] __ [+ant,+cor]
+New: k > s / [+syl,-stres] __ [+ant,+cor,-voi]
+
+	
+R37A
+Old:
+	[-cons,+lo,-stres,-long] > ə / [-syl] __
+New:
+	[-cons,+lo,-stres,-long] > ə / [-syl] __ #
+    [-cons,+lo,-stres,-long] > ə / [+cons] __ [+cons]
+
+R39
+Old: i > e / [+cons] __ [+cons]
+New: i > e / [+cons] __ [+cons,+delrel]
+
+
+R47B
+Old: 
+	e > [+hi] /  __ [+cons,+nas]
+	ˈe > [+hi] / __ [+cons,+nas]
+New: 
+	e > [+hi] / [+cons] __ [+cons,+nas]
+	e > [+hi] / # __ [+cons,+nas]
+	ˈe > e̯ ˈa / [+delrel] __ m
+	ˈe > [+hi] / __ [+cons,+nas] [-nas]
+	
+R30 (previously commented out)
+Old: ∅ > j / # __ e
+New: ∅ > j / # __ e [-nas]
+
+R37 Moved R37B before R37 due to necessary feeding in k a b a l l ˈaː r i k i u m , k ə l ə r ˈe t͡s.
+           
+
+Final u-C-um in Latin should correspond to final vowel in Romanian?
+R33 wrong conditions? before non-geminate nasal, but currently before nasal and vowel
