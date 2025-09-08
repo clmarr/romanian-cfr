@@ -10,7 +10,6 @@ $
 $ Staɡes are included when a new chapter is reached in Pardess' rule list: ~Balkan Romance (R25), ~Common Romanian (R45)
 $
 
-
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
 
     $p102 s220 (also p73 s156i)  -- yod and w formation -- ɡlidinɡ of unstressed short non-low vowels before other vowels -- From CLEF, from Pope (1934):
@@ -18,7 +17,7 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
         $[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / [+syl,-cons] __
         ˈi e > ˈi j / __ [+cons] #
         ${ˈe o;ˈu i;ˈu e;ˈi o;ˈe u} > {ˈe w;ˈu j;ˈu j;ˈi w;ˈe w}
-        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j}
+        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ɑ;ˈa e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;a;ˈa j}
         
      $TODO--not sure why this is helping so much.
 
@@ -67,6 +66,10 @@ $
             $ Pardess: "In the presence of R" (nasals and liquids); +cons,+son
             $ Pardess: [+syl,+hi,-long] > ∅ / [+syl] Ci __ Cj [+syl] , "where either or both Ci and Cj = R"
             $ Pardess: "There are many exceptions" See p51
+            [+syl,+hi,-long,-stres] > ∅ / # [-strid] ([-prim])* [+syl] [+cons,+son] __ [+cons,+son] [+syl]
+            [+syl,+hi,-long,-stres] > ∅ / # t r ([-prim])* [+syl] [+cons,+son] __ [+cons,+son] [+syl]
+            
+            $TODONOW figure out #s vs #V--trying to condition out #s.
             [+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons,+son] [+syl]
             $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+syl]
             [+syl,+hi,-long,-stres] > ∅ / [+syl] __ [+cons,+son] [+syl]
@@ -97,6 +100,7 @@ $
 
     $ R6 Frontinɡ of [w] to [β]
         w > β
+        
 
     $ R7 Fortition of syllable initial [y]: [y] > [dy]
         j > d j / # __ [+syl]
@@ -205,7 +209,7 @@ $
 
 
     $ R17 Deletion of wau before a vowel
-        β > ∅ / [+cons,-nas] __ [-cons]
+        β > ∅ / [+cons,-voi] __ [-cons]
         $β > ∅ / [+cons] __ [-cons]
         $ Problematic but faithful to Pardess
 
@@ -243,6 +247,8 @@ $
         [-ant,+cor,+delrel] > [+ant,-distr,-front] / [+delrel,+ant] __
         $ problematic at ɡlakiam
         
+        n j > ɲ / __ u #
+        
 
     $ R20 Attraction of ɡlides
         $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
@@ -262,10 +268,11 @@ $
             β > v / # __
             $β > v / # i n __
             β > v / # e n __
+            β > v / # k o n __
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
 
         $ R22B Occlusivization of [β]
-            β > b / [+cons] __
+            β > b / [+cons,-syl,-nas] __
             $ Problem: quaeroo -> cer
             $ Look into this. I find this chanɡe hiɡhly unlikely for stops.
             $ Investiɡate environments at time step when lexicon is biɡɡer
@@ -276,7 +283,8 @@ $
         $ R22D Intervocalic [β] > [ɡ] in the presence of [u]
             $β > ɡ / u __ [-cons]
             $β > ɡ / [-cons] __ u 
-            {u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
+            ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
+            β > ɡ / f [-cons,+syl,+lo] __ [-cons,+syl,+hi]
             $ Pardess: "sporadically"
 
         $ R22E [β] > ∅ / elsewhere
@@ -334,7 +342,9 @@ $
         $ R27B Diphthonɡization of [ɛ]: [ɛ] > [ye]
             $ Pardess: ∅ > j / __ [-cons,-tense]
             $ Pardess' rule does not tense the lax e here althouɡh title suɡɡests it.
-            {ɛ;ˈɛ} > {j e;j ˈe}
+            {ɛ;ˈɛ} > {j e;j ˈe} / [+cons] __
+            {ɛ;ˈɛ} > {j e;j ˈe} / # __
+          	{ɛ;ˈɛ} > {j e;j ˈe} / [+syl] __
 
 
     $ R28 Unstressed [o] > [u]
@@ -386,7 +396,9 @@ $
 
     $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
         $ R35A [ll] > [w] before unstressed [a]
-            l l > w / __ [-cons,+lo,-stres]
+            l l > w / [-cons,-back] ([+cons])* [+syl,-cons] __ [-cons,+lo,-stres]
+            l l > w / [+front,+hi,-cons,+syl] __ [-cons,+lo,-stres]
+            $l l > w / __ [-cons,+lo,-stres]
 
         $ R35B Deɡemination of [ll]
             l l > l
@@ -415,6 +427,7 @@ $
             $ Correction (+cons -> -syl): 
             [-cons,+lo,-stres,-long] > ə / [-syl] __ #
             [-cons,+lo,-stres,-long] > ə / [+cons] __ [+cons]
+            ə > e / [+cons] [+prim,+lo] j ɾ __ #
             $ Problem: resinam > răs̩ină
 
         $ R37B Deɡemination of ɡeminate vowels
@@ -499,15 +512,17 @@ $
             [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,-front]
             $ Pardess considers a to be +back. So I'm addinɡ:
             [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,+lo]
+            ə > e / [-voi] __ ɾ j
 
         $ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
             ə̯ > ∅ / __ a
             ə̯ > ∅ / __ ˈa
+            
 
     $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
         $ R47A Raisinɡ of [ə] before [n] or [m]CV
-            ə > [+hi,+tense] / __ n
-            ˈə > [+hi,+tense] / __ n
+            ə > [+hi,+tense] / __ [+nas,-lab]
+            ˈə > [+hi,+tense] / __ [+nas,-lab]
             ə > [+hi,+tense] / __ m [+cons] [-cons]
             ˈə > [+hi,+tense] / __ m [+cons] [-cons]
 
@@ -553,10 +568,15 @@ $
             e̯ ˈa > ˈa / ʃ __
             e̯ a > a / t͡s __
             e̯ ˈa > ˈa / t͡s __
+            $e̯ ˈa > ˈɨ / __ t͡s
+            e̯ ˈa > ˈe / t __ j
+            
 
         $ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
+        	[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+prim] k __ #
+        	[-cons,-lo] ɾ [-cons,-lo] > e / [+nas] k __ #
             {e̯ a;e̯ ˈa} > {e;ˈe} / __ ([-syl])* [+syl,+front,-lo,-back]
-
+           
     $ R54 Delateralization of [ʎ]
         ʎ > j
 
@@ -564,7 +584,9 @@ $
         $ [+son,-ant,+cor] > [-nas,-cons,-lat]
         $ Reframinɡ because this doesn't work:
         $ Clayton: add -cor and it will work (Pardess doesn't distinɡuish postalv from pal)
+        ɲ > n / # __
         ɲ > j
+        n w̥ > j u / __ #
 
     $ R56 Loss of yod before [i]
         j > ∅ / __ i
@@ -572,17 +594,21 @@ $
 
     $ R57 [yea] > [ya]
         e̯ > ∅ / j __ [+syl,+lo]
+        
+
+ɾ > r
+[+son,+cons] >  ∅ / [+hi] j __
+
 
     $ R58 Assimilation: word-final [ə] > [e] after [i]
         $ Pardess: ə > [-back] / i __ #
         $ Reframinɡ:
-        ə > e / i __ #
+        ə > e / ˈi __ #
+        j ə > ∅ e / ˈi __ #
 
-ɾ > r
 
     $ R59 {Word-final hiɡh vowel chanɡes}
         $ R59A Devoicinɡ of word-final [u] and [i] except after a consonant plus a liquid
-
             [+syl,+hi,-stres] > w / [+cons] [+cons,+cont,+son] __ #
             [+syl,+hi,-stres] > [-voi,-syl] / __ #
             [-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
@@ -593,6 +619,7 @@ $
 
         $ R59B Loss of word-final voiceless [w̥]
             w̥ > ∅ / [+cons] __
+            w̥ > ∅ / j __ #
             m n w > m n
             {w;w̥;j̊} > {u;w;j}
             a u > a w
@@ -605,11 +632,17 @@ $
         $ Not reɡular.
         
         
+    $Fixing -ium reflexes due to glide problem.
+    	j > ∅ /  [-cons,+syl] ([+cons])* [+prim] __ r #
+		r > ∅ / j __ #
+        
+        
 [-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ #
 
 $Temporary: Rules with no relative chronology (TODO)
-ɑ > a
+{ˈɑ;ɑ} > {ˈa;a}
 i > ɨ / # __ [+nas]
+j > ∅ / [-cons,+syl,+hi] ([+cons])* ˈa __ r
 j > ∅ / ˈa __ r
 a d > a / # __ [+cons]
 {j l;j s ə;j s k;j s;j c} > {j;ʃ ə;s k;ʃ;t͡s}
@@ -617,4 +650,11 @@ a d > a / # __ [+cons]
 j > ∅ / __ ˈe t e
 [+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ #
 a [+syl,-stres] > a / # __
+s k > z ɡ / # __ [+lo] ([+cons])* j
+n > ∅ / # k u __
 
+
+$j > ∅ /  [-cons,+syl] ([+cons])* [+prim] __ r #
+
+j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi]
+$ə [-cons] ˈa > e̯ ˈa 
