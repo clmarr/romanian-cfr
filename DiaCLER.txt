@@ -242,6 +242,7 @@ $
             [-son,-cont] > d͡ʒ / __ d͡ʒ
             s > ʃ / __ t ˈɛ
             s > ʃ / __ t i
+            ˈa β u s > a ˈu ʃ / __ #
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
         {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] __
@@ -608,8 +609,9 @@ $
         n w̥ > j u / __ #
 
     $ R56 Loss of yod before [i]
-        j > ∅ / __ i
-        j > ∅ / __ ˈi
+        $j > ∅ / __ i
+        $j > ∅ / __ ˈi
+        j > ∅ / __ [-cons,+syl,+hi,+front]
 
     $ R57 [yea] > [ya]
         e̯ > ∅ / j __ [+syl,+lo]
@@ -622,8 +624,7 @@ $
     $ R58 Assimilation: word-final [ə] > [e] after [i]
         $ Pardess: ə > [-back] / i __ #
         $ Reframinɡ:
-        ə > e / ˈi __ #
-        j ə > ∅ e / ˈi __ #
+        {ə;j ə} > {e;e} / ˈi __ #
 
 
     $ R59 {Word-final hiɡh vowel chanɡes}
@@ -644,7 +645,8 @@ $
             a u > a w
 
         $ R59C Word-final [ii] > [i]
-            i i > i / __ #
+            $i i > i / __ #
+            [-cons,+syl,+front,+hi] [-cons,+syl,+front,+hi] > ˈi / __ #
 
     $ R60 Loss of final [l] of m sg definite article
         $ l > ∅ / __ # "in m sg definite article"
@@ -663,9 +665,13 @@ $Temporary: Rules with no relative chronology (TODO)
 
 $Yod-Deletion
 j > ∅ / ˈa __ r
-j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi]
+$j > e̯ / [+cons,+voi] __ ˈa ([+cons,-syl])* ə
+j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi] [-syl]
 j > ∅ / __ ˈe t e
 
+
+{ɨ;u} > {i;o} / [+cons] __ [+cons] ([+cons])* j ˈa
+j ˈa > ˈɨ / # p __
 
 $Prefix Rules:
 a d > a / # __ [+cons]
