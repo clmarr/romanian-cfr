@@ -17,7 +17,8 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
         $[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / [+syl,-cons] __
         ˈi e > ˈi j / __ [+cons] #
         ${ˈe o;ˈu i;ˈu e;ˈi o;ˈe u} > {ˈe w;ˈu j;ˈu j;ˈi w;ˈe w}
-        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ɑ;ˈa e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;a;ˈa j}
+        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ɑ;ˈa e̯;a e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;a;ˈa j;a j}
+        {ˈɑ;ɑ;ˈɑː;ɑː;ˌɑ;ˌɑː} > {ˈa;a;ˈaː;aː;ˌa;ˌaː}
         
      $TODO--not sure why this is helping so much.
 
@@ -221,15 +222,15 @@ $
         $ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
             $ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
             $ Above does not work in DiaSim
-            d > d͡ʒ / __ j
-            t > t͡s / __ j [+prim,-round]		$
-            t > t͡ʃ / __ j
+            {d;t} > {d͡z;t͡s} / __ j [+prim,-round]
+            {d;t} > {d͡ʒ;t͡ʃ} / __ j
 
         $ R18C Affrication of velars: [ɡ] > [ǰ], [k] > [č] before yod
             $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ j
             $ ^Also doesn't work in DiaSim
             ɡ > d͡ʒ / __ j
             k > t͡ʃ / __ j
+            s j > ʃ
 
         $ R18D Absorption of yod after affricates
             $ Pardess: j > ∅ / [-son,-cont,+cor,+delrel] __
@@ -239,13 +240,19 @@ $
             $ Not catchinɡ nasals because he (hopefully) didnt intend to?
             [-son,-cont] > t͡ʃ / __ t͡ʃ
             [-son,-cont] > d͡ʒ / __ d͡ʒ
+            s > ʃ / __ t ˈɛ
+            s > ʃ / __ t i
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
-        [-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
+        {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] __
+        {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([-cons,-syl])* __
+        [-son,+cons,-lab] > ∅ / __ [+delrel]
+        
+        	$[-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
         $ Added -distr,-front to rectify chanɡe in DiaSim
         $ TODO this rule affects the first part of ɡeminate ǰǰ but not the second. Should affect both.
         $ Addinɡ a rule:
-        [-ant,+cor,+delrel] > [+ant,-distr,-front] / [+delrel,+ant] __
+        	$[-ant,+cor,+delrel] > [+ant,-distr,-front] / [+delrel,+ant] __
         $ problematic at ɡlakiam
         
         n j > ɲ / __ u #
@@ -271,6 +278,10 @@ $
             β > v / # e n __
             β > v / # k o n __
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
+
+β > ∅ / ɡ __ 
+${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
+$β > ɡ / [-cons,+syl,+round,+hi] __ ([+voi,+cons]) e
 
         $ R22B Occlusivization of [β]
             β > b / [+cons,-syl,-nas] __
@@ -400,6 +411,8 @@ $
             l l > w / [-cons,-back] ([+cons])* [+syl,-cons] __ [-cons,+lo,-stres]
             l l > w / [+front,+hi,-cons,+syl] __ [-cons,+lo,-stres]
             $l l > w / __ [-cons,+lo,-stres]
+            
+            l l > ∅ / j __ [-cons,+syl] #
 
         $ R35B Deɡemination of [ll]
             l l > l
@@ -467,11 +480,13 @@ $
     $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
         $ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
             $[-cont,+ant,+cor,-delrel] > [+delrel,+strid] / __ j
-            [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / __ j
+            [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / # __ j
+            [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / [-cons,+syl] __ j
             $ TODO also ɡain stridency - is this covered by implications?
         
         $ R42B Absorption of yod after an affricate
             j > ∅ / [+delrel] __
+            j > ∅ / [+cons,-son,+cont] t __
 
     $ R43 Palatalization of [l] after a velar consonant
         $ l > [+hi,-ant] / [-cont,-ant,-cor] __
@@ -526,6 +541,8 @@ $
             ˈə > [+hi,+tense] / __ [+nas,-lab]
             ə > [+hi,+tense] / __ m [+cons] [-cons]
             ˈə > [+hi,+tense] / __ m [+cons] [-cons]
+            
+           
 
         $ R47B Raisinɡ of [e] before [n]
             e > [+hi] / [+cons] __ [+cons,+nas]
@@ -536,10 +553,11 @@ $
     
     $ R48 Deɡemination of [nn]: [nn] > [n]
         n n > n
+        m > w̥ / ˈa __ n
 
     $ R49 Raisinɡ of [ə] before [r,s] plus consonant
         ə > ɨ / __ r [+cons] [+hi]
-        ə > ɨ / __ s [+cons]
+        ə > ɨ / __ s [+cons] [+hi]
 
     $ R50 backinɡ of front vowels after [rr]
         $[-cons,+front] > [+back] / r r __
@@ -641,20 +659,22 @@ $
 [-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ #
 
 $Temporary: Rules with no relative chronology (TODO)
-{ˈɑ;ɑ} > {ˈa;a}
-i > ɨ / # __ [+nas]
-j > ∅ / [-cons,+syl,+hi] ([+cons])* ˈa __ r
+
+
+$Yod-Deletion
 j > ∅ / ˈa __ r
-a d > a / # __ [+cons]
-{j l;j s ə;j s k;j s;j c} > {j;ʃ ə;s k;ʃ;t͡s}
-ˈa m n > ˈa w n
+j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi]
 j > ∅ / __ ˈe t e
-[+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ #
-a [+syl,-stres] > a / # __
-s k > z ɡ / # __ [+lo] ([+cons])* j
+
+
+$Prefix Rules:
+a d > a / # __ [+cons]
+i > ɨ / # __ [+nas]
 n > ∅ / # k u __
 
-$j > ∅ /  [-cons,+syl] ([+cons])* [+prim] __ r #
 
-j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi]
-$ə [-cons] ˈa > e̯ ˈa 
+
+
+[+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ #
+a [+syl,-stres] > a / # __
+a > ∅ / # __[+syl,+prim]
