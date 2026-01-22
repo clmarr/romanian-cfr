@@ -37,8 +37,8 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
         [+stres,-prim] > [-stres]
 
 $ CHAPTER 4
-$ THE EARLY CHANɡES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
-$ (FIRST THROUɡH SIXTH CENTURIES A.D.)
+$ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
+$ (FIRST THROUGH SIXTH CENTURIES A.D.)
 $
 
     $ R1 Loss of [h]
@@ -67,6 +67,7 @@ $
 
         $ R3B Reduction of [n] + fricative
             [+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
+		$ Why is [+cons] in this conditioning? Is it part of Pardess's formulation? It seems superfluous.
 
     $ R4 {Syncope, Dissimilation of [tl]}
         $ R4A Syncope
@@ -96,12 +97,14 @@ $
         $ R5B Addition of word-final [e] after [l]
             ∅ > e / l __ #
             $ Pardess also mentions kwen > kwene >> DR cine
+		$ ...but using ∅ > e / [+son,+cons,+cor] __ # instead reduces accuracy. Wiktionary says cine is inherited from a different VL form (quene, not quem)
 
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
-            ∅ > r / __ [+syl] r #
-            r > ∅ / [+syl] __ #
-            $ DONE Reformulate this in the future
+            $ ∅ [+syl] r > r [+syl] ∅ / __ #
+		$ noted a couple of exceptions where blocked by presence of other sonorant. also needs to "jump over" the w in kwattwor
+		∅ w [+syl] r > r w [+syl] ∅ / [-son] __ #
+		∅ [+syl] r > r [+syl] ∅ / [-son] __ #
 
 
     $ R6 Frontinɡ of [w] to [β]
@@ -171,6 +174,8 @@ $
             [-lo,+prim] [-cons] > [-stres] [+long,+prim]
             ${ˈi e;ˈe o} > {i ˈeː;e ˈoː}
             $ Didn't affect deum - Pardess says nothinɡ about this.
+		$ Appears not to happen word-finally... at least most of the time. Investigate in more detail later.
+
 
         $ R13B Raisinɡ of [o] and [e]
             $ (When adjacent to another vowel)
@@ -197,7 +202,7 @@ $
             [-cons,-long,-hi,-lo,+front,+stres] > [-tense]
 
         $ R13F Lenɡtheninɡ of word-final [-i(s)]
-            [-cons,+hi,-back] > [+long] / __ ([+cons]) #
+            [+syl,+hi,-back] > [+long] / __ ([+cons]) #
             $ May not be reɡular sound chanɡe. See note about Kiparsky
             $ Problem: wenit -> *vjej (vine)
 
@@ -345,7 +350,7 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
 
     $ R25 {Final s -> j or ∅}
         $ R25A Development of final -s in monosyllabic words
-            s > j / [+stres] __ 
+            s > j / [+stres] __ #
             $ Pardess' exact rule is [s] > [h] > [ç] > [y] / __ #
             $ Pardess doesn't scope his formal rule to monosyllabic words but the title shows he intends it
 
@@ -743,3 +748,5 @@ e u > e j e
 [+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ #
 a [+syl,-stres] > a / # __
 $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
+
+s > ʃ / __ [-cont] j
