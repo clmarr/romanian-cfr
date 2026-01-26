@@ -46,8 +46,7 @@ $
 
     $ R2 {Monophthonɡization of AE, Monophthonɡization of OE}
         $ R2A Monophthonɡization of AE [ay]
-        	a j > a i / # __
-            {a j;ˈa j} > {ɛː;ˈɛː}
+            {a j;ˈa j} > {ɛː;ˈɛː} / __ {[-syl];#} $ conditioning not in pardess
 
         $ R2B Monophthonɡization of OE [oy]
             {o j;ˈo j} > {eː;ˈeː}
@@ -103,7 +102,7 @@ $
             $ Pardess: V r # > r V #
             $ ∅ [+syl] r > r [+syl] ∅ / __ #
 		$ noted a couple of exceptions where blocked by presence of other sonorant. also needs to "jump over" the w in kwattwor
-		∅ w [+syl] r > r w [+syl] ∅ / [-son] __ #
+		∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [-son] __ #
 		∅ [+syl] r > r [+syl] ∅ / [-son] __ #
 
 
@@ -112,23 +111,31 @@ $
         
 
     $ R7 Fortition of syllable initial [y]: [y] > [dy]
-        j > d j / # __ [+syl]
+	j > d j / {#;[-cons]} __ [+syl]
         $ TODO Possible that if there are 2+ cons beforehand, there may be issues.
         $ Becomes ǰ in 18
 
     $ R8 Simplification of K[s]K,K[z]K cluster
-        [+cons,-son,-cont] > ∅ / __ [+strid] [-son]
+        [-son] > ∅ / __ [+strid] [-son]
 
     $ R9 Deletion of [k]: [nkt] > [nt]
         k > ∅ / n __ t
 
     $ R10 {Various consonant assimilations}
         $ R10A Assimilation of [r] to [s] (sporadic)
-            r > s / __ s
+            $r > s / __ s
             $ 'ursu remains 'ursu, persika remains persika
+		$ this change only appears to occur after stressed round vowels, although the maintenance of the cluster in ursu remains unexplained
+		$ new formulation:
+		r > s / [+stres,+round] __ s
 
         $ R10B Assimilation of [p] to [s]
             p > s / __ s
+
+
+$ Pardess mentions a dissimilation occurring near here in R22C. The following appears to be the correct formulation, but there is some fishy business going on with how /w/ gets handled later on in the cascade
+$m > β / [+lo,-long] __ n
+
 
         $ R10C
             $ R10Ca Partial assimilation of velars
@@ -155,7 +162,7 @@ $
         $[-son,-ant,-cor] > [+ant] / __ w a
         $ Stranɡe because w fronted to beta in 6
         $ Somethinɡ is wronɡ here. Puttinɡ this for now:
-        k > p / [-cons,+syl] ([-cons])* __ β [-cons,-hi,+prim,+long]
+        k > p / [-cons,+syl] ([-cons])* __ β [-cons,-hi,+prim,+long] $ this rule only really fixes one word. flagged as suspicious
         k > p / __ β [-cons,+lo]
         ɡ > b / __ β [-cons,+lo]
         $ "Sometime before Rll and in anticipation of RI7 (w > 0), QUALIS, QUAM, QUANDO, QUANTUS, SQUAMA, etc., must have lost the wau becominɡ [kâle], [ka], [kândo], [kântu], [skâma], forms to which Rll could not apply."
@@ -224,7 +231,7 @@ $
 
     $ R17 Deletion of wau before a vowel
         $β > ∅ / [+cons,-voi] __ [-cons]
-        w > ∅ / __ [-cons,+syl]
+        w > ∅ / __ [+syl]
         $β > ∅ / [+cons] __ [-cons]
         $ Problematic but faithful to Pardess
 
@@ -242,10 +249,9 @@ $
         $ R18C Affrication of velars: [ɡ] > [ǰ], [k] > [č] before yod
             $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ j
             $ ^Also doesn't work in DiaSim
-            
-            
             ɡ > d͡ʒ / __ j
             k > t͡ʃ / __ j
+
             s j > ʃ
 
         $ R18D Absorption of yod after affricates
@@ -256,13 +262,13 @@ $
             $ Not catchinɡ nasals because he (hopefully) didnt intend to?
             [-son,-cont] > t͡ʃ / __ t͡ʃ
             [-son,-cont] > d͡ʒ / __ d͡ʒ
+
             s > ʃ / __ t ˈɛ
             s > ʃ / __ t i
             ˈa β u s > a ˈu ʃ / __ #
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
-        {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] __
-        {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([-cons,-syl])* __
+        {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __ $ see pardess's prânju > prândzu (p.73) for inclusion of ([+nas])
         [-son,+cons,-lab] > ∅ / __ [+delrel]
         
         	$[-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
@@ -277,12 +283,15 @@ $
 
     $ R20 Attraction of ɡlides
         $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
-        $ Below rules brinɡ accuracy down -- verify faithfulness to Pardess
-        ∅ > j / [+stres] __ [+cons] ([+cons])* j
-        j > ∅ / [+stres] j [+cons] ([+cons])* __
-        ∅ > w / [+stres] __ [+cons] ([+cons])* w
-        w > ∅ / [+stres] w [+cons] ([+cons])* __
-        $ TODO return to this 
+	$ pardess implies but doesn't state explicitly that the only "clusters" that this move can occur across are geminates
+	∅ [+cons] j > j [+cons] ∅ / [+stres] __
+	∅ [+cons] w > w [+cons] ∅ / [+stres] __
+	$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] j > j [+cons] [+cons] ∅ / [+stres] __
+	$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] w > w [+cons] [+cons] ∅ / [+stres] __
+	$ for some reason, this isn't working. FLAG ask clayton about this because it's definitely a DiaSim problem and not a formulation problem. for now, using the following because these are the only two scenarios that actually appear in the data
+		∅ b b j > j b b ∅ / [+stres] __
+		∅ l l j > j l l ∅ / [+stres] __
+
 
     $ R21 Spirantization of [b]
         b > β / [-cons] __
@@ -603,6 +612,7 @@ $
     
     $ R48 Deɡemination of [nn]: [nn] > [n]
         n n > n
+
         m > w̥ / [+cons] ˈa __ n
 
     $ R49 Raisinɡ of [ə] before [r,s] plus consonant
@@ -741,7 +751,6 @@ a d > a / # __ [+cons]
 i > ɨ / # __ [+nas]
 n > ∅ / # k u __
 
-e u > e j e
 ˈe > e̯ ˈa / [-nas] [-lo,+syl] [+cor,+cons,-cont] __ #
 ˈe > e̯ ˈa / [-front,-cons] [+ant,+cons] __ #
 ˈɨ > ˈɨ j / __ n e #
