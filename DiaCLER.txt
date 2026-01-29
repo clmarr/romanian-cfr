@@ -28,7 +28,9 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
         ɡ > ŋ / __ n
 
     $ y unrounds, or vacuously any front vowel does.
-        [+front,+round] > [-round,-lab]
+        $[+front,+round] > [-round,-lab]
+        ∅ > j / __ [+front,+round]
+        [+front,+round] > [+back,-front] / __ [+voi]
 
     $ aspiration in ɡk loans is lost
         [+cons,+sg] > [-sg]
@@ -80,12 +82,24 @@ $
             [+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons,+son] [+syl]
             $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+syl]
             [+syl,+hi,-long,-stres] > ∅ / [+syl] __ [+cons,+son] [+syl]
-            [+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons] [+syl]
+            $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons] [+syl]
             $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons] __ [+cons,+son] [+syl]
+            [+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons,+voi] [+syl,-lo]
+            
+            
+            $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons] [+syl,-lo]
+            
+  			{ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
+        	$[+syl,+hi,-long,-stres] > ə / [+syl] [+cons,+son] __ t [+syl,-lo]
+        
+            
 
         $ R4B Dissimilation of [tl]: [tl] > [kl]
             $ Pardess: Contexts created by 4a syncope
             t > k / __ l
+
+$Added: necessary for kw reflections. Counterbled by final-nasal deletion.
+w > ∅ / k __ [+syl,+prim,+lo,+front] [+voi]
 
     $ R5 {Deletion of word-final oral or nasal stop, Addition of word-final [e] after [l], Metathesis of word-final [r]}
         $ R5A Deletion of word-final oral or nasal stop
@@ -154,8 +168,7 @@ $m > β / [+lo,-long] __ n
                 $ŋ > n / [+syl,-stres] __ [+ant,+cor]
                 $ŋ > m / [+syl,-stres] __ [+ant,+cor]
                 $Combined nasal assimilation with 10Ca, removed stress condition.
-                
-β > ∅ / __ ˈa [+nas]
+
                 
 
     $ R11 Labialization of [kw] and [ɡw] before [a]
@@ -316,7 +329,7 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
 
 
         $ R22B Occlusivization of [β]
-            β > b / [+cons,-syl,-nas,+voi] __
+            β > b / [-cons] [+cons,-syl,-nas,+voi] __
             v > b / [+cons,-syl,-nas,+voi] __
 			{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
             {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo]
@@ -354,8 +367,14 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
         
         {ɡ e l;ɡ l} > {ɡ ʎ;ɡ ʎ} / __ ˈa
         
+{k e r u;k e n u;k e n u s} > {k r u;k e n;k e n} / __ #
+        
         k > t͡ʃ / __ [-cons,-back,-lo]
         ɡ > d͡ʒ / __ [+syl,-back,-lo]
+        
+      
+$t͡ʃ > k / __ e [+cons,+son,+voi] u
+
 
     $ R25 {Final s -> j or ∅}
         $ R25A Development of final -s in monosyllabic words
@@ -421,8 +440,6 @@ $
         $ TODO should this be enabled or not?
         $ "found in MR and IR but not in AR."
         
-        
-$e > ˈɛ / __ #
         
 
     $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
@@ -500,6 +517,8 @@ $e > ˈɛ / __ #
             [-cons,+lo,-stres,-long] > ə / @ __ {#;[-syl]}
 
             ə > e / [+cons] [+prim,+lo] j ɾ __ #
+            ɾ > ∅ / [+cons,-voi] [+prim,+lo] j __ e #
+            ɾ > ∅ / [+nas] [+prim,+lo] j __ e #
             $ Problem: resinam > răs̩ină
 
         $ R37B Deɡemination of ɡeminate vowels
@@ -557,6 +576,15 @@ $e > ˈɛ / __ #
         $ə > e / [-cont,+hi,-strid] __
         $ But these are both actually +cont.
         ə > e / [+cons,+hi,+front] __
+        
+        
+$Inserted rule: fronting of u in initial syllables (or after prefixes) and before an n-Plosive cluster.
+$ Also rhˌonkid͡zˈaː > rɨnkezˈa, but false palatalisation of k.   
+	u > ɨ / # ([+cor,+voi])* [+cor,+voi]__ n [+cons,-son,-lab,-voi] [+syl]
+	u > ɨ / # a d ([+cor,+voi])* __ n [+cons,-son,-lab,-voi] [+syl]
+	u > ɨ / f __ n [+cons,-son,-lab] [+syl]        
+
+
 
     $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
         $ R45A Assimilation: [s] > [š] before [č]
@@ -647,7 +675,11 @@ $
             $[-son,+delrel,-ant] > [+cont] / __ [+syl,+round]
 
             [-son,+delrel,-ant] > t͡s / __ u #
-            [-son,+delrel,-ant] > [+cont] / __ [-cons,+round]
+            $[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] [+cor]
+$How to class dorsal vowels (schwa, u)?			
+			[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] ([-cons])* [+cor]
+			[-son,+delrel,-ant] > [+cont] / ə ([+cons])* __ [-cons,+round] ([-cons])* [+cor]
+			$[-son,+delrel,-ant] > [+cont,0delrel] / __ [-cons,+round]
 
     $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
         $ R53A Monophthonɡization of [e̯a] after [š] or [ts]
@@ -660,7 +692,9 @@ $
             e̯ ˈa > ˈe / t __ j
 
 $ these are morphological changes, not sound changes; keeping them here for now for their utility in getting good output, but maybe we should work on this more later
-		[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+prim] k __ #
+		[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+cons,+voi] ([-cons])* [+prim] k __ #
+		[-cons,-lo,-prim] ɾ [-cons,-lo] > e / ([-cons])* [+prim,-lo] k __ #
+		$[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+prim] k __ #
         	[-cons,-lo] ɾ [-cons,-lo] > e / [+nas] k __ #
 
         $ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
@@ -693,6 +727,10 @@ $ these are morphological changes, not sound changes; keeping them here for now 
 
 ɾ > r
 [+son,+cons] >  ∅ / [+hi] j __
+
+
+
+
 
 
     $ R58 Assimilation: word-final [ə] > [e] after [i]
@@ -756,6 +794,7 @@ $e > ∅ / __ j #
 {ɨ;u} > {i;o} / [+cons] __ [+cons] ([+cons])* j ˈa
 j ˈa > ˈɨ / # p __
 
+
 $Prefix Rules:
 a d > a / # __ [+cons]
 i > ɨ / # __ [+nas]
@@ -765,6 +804,12 @@ n > ∅ / # k u __
 ˈe > e̯ ˈa / [-front,-cons] [+ant,+cons] __ #
 ˈɨ > ˈɨ j / __ n e #
 
+
+$j e > a / # __ r [+syl,+hi]
+j e > ∅ / # __ r [+syl,-prim]
+j e > a / # __ r ˈi
+
+
 [+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ #
 a [+syl,-stres] > a / # __
 $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
@@ -772,3 +817,8 @@ $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
 s > ʃ / __ [-cont] j
 
 j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthong
+
+
+
+
+t͡ʃ > k / __ ˈi n [-syl,+hi]
