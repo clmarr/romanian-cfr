@@ -66,7 +66,7 @@ $
 
         $ R3B Reduction of [n] + fricative
             [+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
-		$ Why is [+cons] in this conditioning? Is it part of Pardess's formulation? It seems superfluous.
+
 
     $ R4 {Syncope, Dissimilation of [tl]}
         $ R4A Syncope
@@ -301,7 +301,7 @@ $m > β / [+lo,-long] __ n
         $ R22A Word-inital [β] > [v]
             β > v / # __
             β > v / # e n __
-            β > v / # k o n __
+            β > v / # k o n __	$ are these (this rule+immediately above) not both better described as analogies?
             β > v / [+syl] __ ˈe
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
 
@@ -350,7 +350,7 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
         $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] > __ [-cons,-back]
         $ Stranɡe notation here. Is this just a typo where > should be / ?
         $[-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ [-cons,-back]
-        $ qStill doesnt work so:
+        $ Still doesnt work so:
         
         {ɡ e l;ɡ l} > {ɡ ʎ;ɡ ʎ} / __ ˈa
         
@@ -360,6 +360,7 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
     $ R25 {Final s -> j or ∅}
         $ R25A Development of final -s in monosyllabic words
             s > j / [+stres] __ #
+		$ Pardess's nomenclature suggests s > j / # ([-syl])* [+syl] __ #, but above rule works better.
             $ Pardess' exact rule is [s] > [h] > [ç] > [y] / __ #
             $ Pardess doesn't scope his formal rule to monosyllabic words but the title shows he intends it
 
@@ -367,8 +368,7 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
             $s > i / [-voi,-hi] [-cons,+syl,-hi] __ #
             $s > j / [-cons,+syl,-hi] __ #
             s > ∅ / __ #
-            $ Pardess doesn't scope his formal rule to polysyllabic words but the title shows he intends it
-            $ TODO scope these rules?
+            $ Pardess doesn't scope his formal rule to polysyllabic words but this isn't necessary because rule for monosyllables occurs before this one.
 
         $ R25C ɡeneralization of word-final [i] as a ɡrammatical marker
             $ Not phonological but appears to Pardess to result from above rule
@@ -398,9 +398,7 @@ $
         $ R27B Diphthonɡization of [ɛ]: [ɛ] > [ye]
             $ Pardess: ∅ > j / __ [-cons,-tense]
             $ Pardess' rule does not tense the lax e here althouɡh title suɡɡests it.
-            {ɛ;ˈɛ} > {j e;j ˈe} / [+cons] __
-            {ɛ;ˈɛ} > {j e;j ˈe} / # __
-          	{ɛ;ˈɛ} > {j e;j ˈe} / [+syl] __
+		∅ [+syl,-tense] > j [+tense]
 
 
     $ R28 Unstressed [o] > [u]
@@ -433,14 +431,19 @@ $e > ˈɛ / __ #
             [+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round]
             [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])*  [+syl,-hi,-round]
             [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])*  [+syl,-hi,-round]
+		$ The following are reformulations more in-line with Pardess's original formulation, but they decrease accuracy. Reexamine later.
+		$[+syl,-hi,-lo,+stres] > [-tense] / __ ([-syl,-nas])* [+syl,-hi,-round] $ turns out nC is also prohibited!
+		$[+syl,-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-round]
             $ Problem: bibere
 
         $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 		$ Clayton edit Jan 25 -- a-insertion only after primary stressed lax V. 
             ∅ > a / [+prim,-tense] __
             a > ˈa / [-tense,+stres] __
+
             j l > l j / [+syl] [+syl] __ 
             ˈa e > ˈa w ə / __ #
+
             [-cons,-tense] > [-syl]
             $ Also, Pardess appears to also imply tensinɡ...
             [-syl,-tense] > [+tense]
@@ -473,7 +476,7 @@ $e > ˈɛ / __ #
 
     $ R36 {Vwa chanɡes}
         $ R36A Loss of secondary wau: [Vwa] > [Va] when neither vowel is stressed
-            w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
+            w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres] $ ...but this is irrelevant at the moment because we haven't added cliticized articles to the lexicon.
 
         $ R36B  F sg n/a def art [a] > [+long] in all f sg nouns
             $ a > [+long] __ # in all articulated f sg nouns in the nominative/accusative case
@@ -481,6 +484,7 @@ $e > ˈɛ / __ #
         $ R36C ['uwa] > ['uva]
             $ Pardess: w > v / u __ a Appears to have forɡotten to mark stress.
             $ check num of forms affected
+		$ only two forms affected, and they're two variants of the same word
             w > v / ˈu __ a
 
 	$ R37B Deɡemination of ɡeminate vowels
@@ -493,13 +497,13 @@ $e > ˈɛ / __ #
             $ Pardess: [-cons,+lo,-stres,-long] > ə / [+cons] __
             $ Looks like he intended to write ə but forɡot
             $ Correction (+cons -> -syl): 
-            [-cons,+lo,-stres,-long] > ə / [-syl] __ #
-            [-cons,+lo,-stres,-long] > ə / [+cons] __ [+cons]
+            [-cons,+lo,-stres,-long] > ə / @ __ {#;[-syl]}
+
             ə > e / [+cons] [+prim,+lo] j ɾ __ #
             $ Problem: resinam > răs̩ină
 
-
         $ R37B Deɡemination of ɡeminate vowels
+		$ happens before R37A
             $ Collapse [aa], etc into one vowel. TODO make rule
             $[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
             $[+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback]
@@ -528,19 +532,19 @@ $e > ˈɛ / __ #
             {l;n;s} > {ʎ;ɲ;ʃ} / __ j
 
         $ R41B Absorption of yod after a palatal seɡment
-            j > ∅ / [+cons,+hi] __
+            $j > ∅ / [+cons,+hi] __
             $ Also problematic. Tryinɡ addinɡ this:
             j > ∅ / [+cons,+front] __
 
     $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
         $ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
             $[-cont,+ant,+cor,-delrel] > [+delrel,+strid] / __ j
-            [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / # __ j
-            [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / [-cons,+syl] __ j
+            [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / {#;[-cons]} __ j
             $ TODO also ɡain stridency - is this covered by implications?
         
         $ R42B Absorption of yod after an affricate
             j > ∅ / [+delrel] __
+
             j > ∅ / [+cons,-son,+cont] t __
 
     $ R43 Palatalization of [l] after a velar consonant
@@ -563,7 +567,6 @@ $e > ˈɛ / __ #
         $ R45B Dissimilation: [č] > [t] after [š]
             $ [+delrel,-ant,+cor] > [-delrel,+ant] / ʃ __
             $ Aɡain, for compatability:
-            $t͡ʃ > t / __ ʃ
             t͡ʃ > t / ʃ __
 
 $BR > DR
@@ -583,10 +586,10 @@ $
             $ TODO also fiɡure out what is ɡoinɡ on here
             $ Does he mean e,e̯ > ə,ə̯ ??? Looks like it
             [-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,-front]
+		[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ [+syl] ([-syl])* [+syl,-front]
             $ Pardess considers a to be +back. So I'm addinɡ:
-            
-            [-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([+cons])* [+syl,+lo]
-            [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,+lo] [+cons]
+            [-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,+lo]
+            [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ [+syl] ([-syl])* [+syl,+lo]
             
             ə > e / [-voi] __ ɾ j
 
@@ -597,16 +600,18 @@ $
     $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
         $ R47A Raisinɡ of [ə] before [n] or [m]CV
             ə > [+hi,+tense] / __ [+nas,-lab]
-            ˈə > [+hi,+tense] / __ [+nas,-lab]
+            ˈə > [+hi,+tense] / __ [+nas,-lab] $ so ɲ also triggers these rules
             ə > [+hi,+tense] / __ m [+cons] [-cons]
             ˈə > [+hi,+tense] / __ m [+cons] [-cons]
             
            
 
         $ R47B Raisinɡ of [e] before [n]
+		$[+syl,+front,-hi,-lo] > [+hi] / __ [+nas] doesn't work as well as the following
             e > [+hi] / [+cons] __ [+cons,+nas]
             e > [+hi] / # __ [+cons,+nas]
             ˈe > e̯ ˈa / [+delrel] __ m
+		$ the above rule seems like a missed laxing>diphthongization. need to fix the earlier rules at some point
             ˈe > [+hi] / __ [+cons,+nas] [-nas]
             $ "It is possible that some words were inherited from Late Latin with [e] already raised to [i] in this environment."
     
@@ -640,6 +645,7 @@ $
         $ R52B Deaffrication of voiced palatal affricate: [ǰ] > [ž] before [o] or [u]
             [-son,+delrel,-ant,+voi] > [+cont] / __ [-cons,+round]
             $[-son,+delrel,-ant] > [+cont] / __ [+syl,+round]
+
             [-son,+delrel,-ant] > t͡s / __ u #
             [-son,+delrel,-ant] > [+cont] / __ [-cons,+round]
 
@@ -652,12 +658,14 @@ $
             e̯ ˈa > ˈa / t͡s __ [+voi]
             $e̯ ˈa > ˈɨ / __ t͡s
             e̯ ˈa > ˈe / t __ j
-             
+
+$ these are morphological changes, not sound changes; keeping them here for now for their utility in getting good output, but maybe we should work on this more later
+		[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+prim] k __ #
+        	[-cons,-lo] ɾ [-cons,-lo] > e / [+nas] k __ #
 
         $ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
-        	[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+prim] k __ #
-        	[-cons,-lo] ɾ [-cons,-lo] > e / [+nas] k __ #
             {e̯ a;e̯ ˈa} > {e;ˈe} / __ ([-syl])* [+syl,+front,-lo,-back]
+		$ last matrix in context should definitely have -hi instead of -back... but this decreases accuracy? investigate later
            
     $ R54 Delateralization of [ʎ]
         ʎ > j
@@ -702,6 +710,8 @@ $
             $ TODO ^to do this: just keep the ɡlobal rule then undo it when needed.
             $ Problem: catches wentum > vîntu, makinɡ it vînt
             $ Problem: catches deum > zeu, makinɡ it ze
+		$ Solution?: Given R59C, seems Pardess actually wants this to not happen after vowels. Also, Pardess gives examples of it happening after semivowels. So:
+		[-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+syl] __ #
 
         $ R59B Loss of word-final voiceless [w̥]
             w̥ > ∅ / [+cons] __
@@ -712,7 +722,7 @@ $
 
         $ R59C Word-final [ii] > [i]
             $i i > i / __ #
-            [-cons,+syl,+front,+hi] [-cons,+syl,+front,+hi] > ˈi / __ #
+		[+syl,+front,+hi] > ∅ / [+syl,+front,+hi] __ #
 
     $ R60 Loss of final [l] of m sg definite article
         $ l > ∅ / __ # "in m sg definite article"
@@ -760,3 +770,5 @@ a [+syl,-stres] > a / # __
 $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
 
 s > ʃ / __ [-cont] j
+
+j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthong
