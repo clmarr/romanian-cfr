@@ -20,8 +20,6 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
         {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ɑ;ˈa e̯;a e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;a;ˈa j;a j}
         {ˈɑ;ɑ;ˈɑː;ɑː;ˌɑ;ˌɑː} > {ˈa;a;ˈaː;aː;ˌa;ˌaː}
         
-        
-        
      $TODO--not sure why this is helping so much.
 
     $ ensure orthoɡraphic -ɡn- cluster is phonemically fully nasal - should be applied in lexicon but just in case:
@@ -233,6 +231,10 @@ $m > β / [+lo,-long] __ n
         $ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
         $ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
         e > ∅ / # __ [+strid,+ant] [+cons]
+        
+        e > ∅ / e [-strid,+cons] __ [-delrel,-voi,+cons]
+		e > ∅ / [+syl] [+cons,+voi] [+voi,+cons] __ [-strid,+cons] [+syl] [-delrel,-voi,+cons]
+
 
     $ R15 Contraction of vowels
         [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
@@ -475,6 +477,7 @@ $
         {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] [-cons]
         {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] [+cons,-nas]
         ${a;ˈa} > {ə;ˈə} / __ [+nas] [-cont,+ant,+cor,-delrel]
+        
 
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         l > ɾ / [-cons] __ [+syl]
@@ -649,7 +652,7 @@ $
         m > w̥ / [+cons] ˈa __ n
 
     $ R49 Raisinɡ of [ə] before [r,s] plus consonant
-        ə > ɨ / __ r [+cons] [+hi]
+        ə > ɨ / __ ɾ [+cons] [+hi]
         ə > ɨ / __ s [+cons] [+hi]
 
     $ R50 backinɡ of front vowels after [rr]
@@ -675,8 +678,7 @@ $
             $[-son,+delrel,-ant] > [+cont] / __ [+syl,+round]
 
             [-son,+delrel,-ant] > t͡s / __ u #
-            $[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] [+cor]
-$How to class dorsal vowels (schwa, u)?			
+            $[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] [+cor]	
 			[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] ([-cons])* [+cor]
 			[-son,+delrel,-ant] > [+cont] / ə ([+cons])* __ [-cons,+round] ([-cons])* [+cor]
 			$[-son,+delrel,-ant] > [+cont,0delrel] / __ [-cons,+round]
@@ -799,6 +801,7 @@ $Prefix Rules:
 a d > a / # __ [+cons]
 i > ɨ / # __ [+nas]
 n > ∅ / # k u __
+[+syl,+hi,+back] > ∅ / [+syl,+hi,+back] __
 
 ˈe > e̯ ˈa / [-nas] [-lo,+syl] [+cor,+cons,-cont] __ #
 ˈe > e̯ ˈa / [-front,-cons] [+ant,+cons] __ #
@@ -822,3 +825,6 @@ j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthon
 
 
 t͡ʃ > k / __ ˈi n [-syl,+hi]
+
+
+
