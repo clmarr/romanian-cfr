@@ -17,8 +17,8 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
         $[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / [+syl,-cons] __
         ˈi e > ˈi j / __ [+cons] #
         ${ˈe o;ˈu i;ˈu e;ˈi o;ˈe u} > {ˈe w;ˈu j;ˈu j;ˈi w;ˈe w}
-        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ˈa e̯;a e̯;ˌa e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;ˈa j;a j;ˌa j}
-        [+lo,+back] > [-back,+front]
+        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ɑ;ˈa e̯;a e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;a;ˈa j;a j}
+        {ˈɑ;ɑ;ˈɑː;ɑː;ˌɑ;ˌɑː} > {ˈa;a;ˈaː;aː;ˌa;ˌaː}
         
      $TODO--not sure why this is helping so much.
 
@@ -28,7 +28,7 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
     $ y unrounds, or vacuously any front vowel does.
         $[+front,+round] > [-round,-lab]
         ∅ > j / __ [+front,+round]
-        [+front,+round] > [+back,-front]
+        [+front,+round] > [+back,-front] / __ [+voi]
 
     $ aspiration in ɡk loans is lost
         [+cons,+sg] > [-sg]
@@ -231,8 +231,6 @@ $m > β / [+lo,-long] __ n
         $ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
         $ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
         e > ∅ / # __ [+strid,+ant] [+cons]
-		$ but this rule should not affect eksi>jeʃi, BUT rule below also messes up esta>sta
-		$ e > ∅ / # __ [+strid,+ant] ([+cons])+ [+syl] @
         
         e > ∅ / e [-strid,+cons] __ [-delrel,-voi,+cons]
 		e > ∅ / [+syl] [+cons,+voi] [+voi,+cons] __ [-strid,+cons] [+syl] [-delrel,-voi,+cons]
@@ -281,7 +279,7 @@ $m > β / [+lo,-long] __ n
             [-son,-cont] > d͡ʒ / __ d͡ʒ
 
             s > ʃ / __ t ˈɛ
-            $s > ʃ / __ t i
+            s > ʃ / __ t i
             ˈa β u s > a ˈu ʃ / __ #
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
@@ -301,13 +299,13 @@ $m > β / [+lo,-long] __ n
     $ R20 Attraction of ɡlides
         $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
 	$ pardess implies but doesn't state explicitly that the only "clusters" that this move can occur across are geminates
-	$ also, j is the only glide at this stage
 	∅ [+cons] j > j [+cons] ∅ / [+stres] __
+	∅ [+cons] w > w [+cons] ∅ / [+stres] __
 	$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] j > j [+cons] [+cons] ∅ / [+stres] __
+	$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] w > w [+cons] [+cons] ∅ / [+stres] __
 	$ for some reason, this isn't working. FLAG ask clayton about this because it's definitely a DiaSim problem and not a formulation problem. for now, using the following because these are the only two scenarios that actually appear in the data
 		∅ b b j > j b b ∅ / [+stres] __
 		∅ l l j > j l l ∅ / [+stres] __
-
 
 
     $ R21 Spirantization of [b]
@@ -328,6 +326,7 @@ $m > β / [+lo,-long] __ n
 			β > ɡ / ˈɛ __ u $ this only affects one word; reexamine later
 			β > ɣ / f [+syl] __ [+syl,+hi,+back]
 			ɣ > ɡ
+
 
 
 ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
@@ -358,7 +357,7 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
 
         $ R22E [β] > ∅ / elsewhere
             β > ∅
-            i e > j e
+            {i e} > {j e}
 
     $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]
         $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually riɡht? Why not at this time?
@@ -451,8 +450,8 @@ $
         $ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
             $ TODO reformulate this rule.
             [+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round]
-            [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])* [+syl,-hi,-round]
-            [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])* [+syl,-hi,-round]
+            [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])*  [+syl,-hi,-round]
+            [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])*  [+syl,-hi,-round]
 		$ The following are reformulations more in-line with Pardess's original formulation, but they decrease accuracy. Reexamine later.
 		$[+syl,-hi,-lo,+stres] > [-tense] / __ ([-syl,-nas])* [+syl,-hi,-round] $ turns out nC is also prohibited!
 		$[+syl,-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-round]
@@ -625,7 +624,7 @@ $
             [-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,+lo]
             [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ [+syl] ([-syl])* [+syl,+lo]
             
-            ə > e / [-voi] __ ɾ j
+            $ə > e / [-voi] __ ɾ j
 
         $ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
             ə̯ > ∅ / __ a
@@ -633,17 +632,34 @@ $
 
     $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
         $ R47A Raisinɡ of [ə] before [n] or [m]CV
-            ə > [+hi,+tense] / __ [+nas,-lab]
-            ˈə > [+hi,+tense] / __ [+nas,-lab] $ so ɲ also triggers these rules
-            ə > [+hi,+tense] / __ m [+cons] [-cons]
-            ˈə > [+hi,+tense] / __ m [+cons] [-cons]
             
-           
+            $e > ɨ / # __ [+nas]
+            [-back,-lo,+syl,-prim] > ɨ / # __ [n]
+            [-back,-lo,+syl,-prim] > ɨ / # __ m [+lab] [-cons]
+            
+            ˈə > [+hi,+tense] / __ m [+lab] [-cons]
+            
+            ˈə > [+hi,+tense] / [+cor,+cons,-nas] __ [+nas,-lab]
+            {ə;ˈə} > {ɨ;ˈɨ} / [+cons,αstrid,αlab,-cor] __ [+nas,-lab] ([-syl,-delrel])* ([+syl,-front]) #
+            
+            {ə;ˈə} > {ɨ;ˈɨ} / __ n ([+cons])* ([-cons])* ([+cons])* ([-cons])* t͡s ə #
+            
+            {ə;ˈə} > {ɨ;ˈɨ} / [-strid,αvoi] __ [+nas,-lab,αvoi] (d͡ʒ)* (t͡ʃ)* (t͡s)* [-lo,+syl,-hi]
+            {ə;ˈə} > {ɨ;ˈɨ} / # (ɨ [+nas])* (k u)* (l)* (s k)* (p)* (k)* (v)* __ [+nas,-lab] (t)* (d͡ʒ)* (t͡ʃ)* (t͡s)* ([-lo,+syl,-hi])* [-nas]
+            
+            ə > ɨ / [-αnas,+voi] __ [+nas,-lab] (t)* (d)* (ɡ)* (k)* (n)* [+syl,αfront] #
+            
+            ˈə > [+hi,+tense] / __ [+nas,-lab] (-delrel,-voi)* (t͡s)* u #
+            $ˈə > [+hi,+tense] / __ [+nas,-lab]
+            
+            
+            {ə;ˈə} > {ɨ;ˈɨ} / __ [+nas,-lab]
 
         $ R47B Raisinɡ of [e] before [n]
 		$[+syl,+front,-hi,-lo] > [+hi] / __ [+nas] doesn't work as well as the following
             e > [+hi] / [+cons] __ [+cons,+nas]
             e > [+hi] / # __ [+cons,+nas]
+            ə > a / # __ [+cons,+nas]
             ˈe > e̯ ˈa / [+delrel] __ m
 		$ the above rule seems like a missed laxing>diphthongization. need to fix the earlier rules at some point
             ˈe > [+hi] / __ [+cons,+nas] [-nas]
@@ -731,7 +747,7 @@ $ these are morphological changes, not sound changes; keeping them here for now 
         
 
 ɾ > r
-[+son,+cons] > ∅ / [+hi] j __
+[+son,+cons] >  ∅ / [+hi] j __
 
 
 
@@ -764,7 +780,7 @@ $ these are morphological changes, not sound changes; keeping them here for now 
             u > w / a __ r
 
         $ R59C Word-final [ii] > [i]
-            $ i i > i / __ #
+            $i i > i / __ #
 		[+syl,+front,+hi] > ∅ / [+syl,+front,+hi] __ #
 
     $ R60 Loss of final [l] of m sg definite article
@@ -827,7 +843,4 @@ j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthon
 
 
 
-t͡ʃ > k / __ ˈi n [-syl,+hi] $ this defnitely isn't right, but we do need to investigate instances where R24 does not apply, as there seem to be a lot of them
-
-
-
+t͡ʃ > k / __ ˈi n [-syl,+hi]
