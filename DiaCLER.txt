@@ -10,15 +10,23 @@ $
 $ Staɡes are included when a new chapter is reached in Pardess' rule list: ~Balkan Romance (R25), ~Common Romanian (R45)
 $
 
+$ ae simplification rules
+	$ ae simplifies when between word boundary and sonorant (order irrelevant, vowels count)
+		e̯ > ∅ / # [+lo] __ [+son]
+		e̯ > ∅ / [+son] [+lo] __ #
+	$ ae simplifies when between a nonlateral anterior consonant and a coronal (order matters)
+		e̯ > ∅ / [+ant,-lat,+cons] [+lo] __ [+cor]
+
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
 
     $p102 s220 (also p73 s156i)  -- yod and w formation -- ɡlidinɡ of unstressed short non-low vowels before other vowels -- From CLEF, from Pope (1934):
-        [+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / __ [+syl]
+       	[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / __ [+syl]
         $[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / [+syl,-cons] __
         ˈi e > ˈi j / __ [+cons] #
         ${ˈe o;ˈu i;ˈu e;ˈi o;ˈe u} > {ˈe w;ˈu j;ˈu j;ˈi w;ˈe w}
-        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ɑ;ˈa e̯;a e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;a;ˈa j;a j}
-        {ˈɑ;ɑ;ˈɑː;ɑː;ˌɑ;ˌɑː} > {ˈa;a;ˈaː;aː;ˌa;ˌaː}
+        {ˈa u;ˈa e;ˈaː e;a u;a e;aː e;ˈa e̯;a e̯;ˌa e̯} > {ˈa w;ˈa j;ˈaː j;a w;a j;aː j;ˈa j;a j;ˌa j}
+	e̯ > j / [+round,+syl] __ $ for oe
+        [+lo,+back] > [-back,+front]
         
      $TODO--not sure why this is helping so much.
 
@@ -35,6 +43,8 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
 
     $ iɡnore secondary stress, as it is probably not relevant for Romanian
         [+stres,-prim] > [-stres]
+
+e > a / # __ k k $ TODO: see if we can generalize beyond this!
 
 $ CHAPTER 4
 $ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
@@ -73,37 +83,42 @@ $
             $ Pardess: "In the presence of R" (nasals and liquids); +cons,+son
             $ Pardess: [+syl,+hi,-long] > ∅ / [+syl] Ci __ Cj [+syl] , "where either or both Ci and Cj = R"
             $ Pardess: "There are many exceptions" See p51
-            [+syl,+hi,-long,-stres] > ∅ / # [-strid] ([-prim])* [+syl] [+cons,+son] __ [+cons,+son] [+syl]
-            [+syl,+hi,-long,-stres] > ∅ / # t r ([-prim])* [+syl] [+cons,+son] __ [+cons,+son] [+syl]
-            
-            $TODONOW figure out #s vs #V--trying to condition out #s.
-            [+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons,+son] [+syl]
-            $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+syl]
-            [+syl,+hi,-long,-stres] > ∅ / [+syl] __ [+cons,+son] [+syl]
-            $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons] [+syl]
-            $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons] __ [+cons,+son] [+syl]
-            [+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons,+voi] [+syl,-lo]
-            
-            
-            $[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,+son] __ [+cons] [+syl,-lo]
-            
-  			{ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
-        	$[+syl,+hi,-long,-stres] > ə / [+syl] [+cons,+son] __ t [+syl,-lo]
+
+	$ Found better explanation of this syncope than "There are many exceptions." NB: I'm pretty sure there are other syncopes still being missed; however, these are all the ones that occur in the presence of sonorants.
+		$ Stops must cluster with [l] after syncope.
+			$ Syncope does not occur after labials.
+			$ syncope between alveolars and [l]
+				[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,-cont,+cor] __ l [+syl]
+			$ syncope between velars and [l] (pickier than alveolars: can't be after short low vowels, can't be before palatal vowels)
+				[+syl,+hi,-long,-stres] > ∅ / {[+syl,-lo];[+syl,+long]} [+cons,+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
+		$ Syncope between nasals must come after [o].
+			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
+		$ Syncope after [l] cannot occur in the presence of palatal vowels.
+			[+syl,+hi,-long,-stres] > ∅ / {[+syl,-front];[+syl,+lo]} l __ [+cons] {[+syl,-front];[+syl,+lo]}
+		$ [r] must cluster with voiced consonants after syncope.
+			[+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+
+
+
+  	{ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
         
-            
+
 
         $ R4B Dissimilation of [tl]: [tl] > [kl]
             $ Pardess: Contexts created by 4a syncope
             t > k / __ l
 
 $Added: necessary for kw reflections. Counterbled by final-nasal deletion.
-w > ∅ / k __ [+syl,+prim,+lo,+front] [+voi]
+	$ EDIT: this only happens in the onset of word-initial syllables. conditioning adjusted accordingly
+w > ∅ / # ([-syl])* k __ [+syl,+prim,+lo,+front] [+voi]
 
     $ R5 {Deletion of word-final oral or nasal stop, Addition of word-final [e] after [l], Metathesis of word-final [r]}
         $ R5A Deletion of word-final oral or nasal stop
             [+cons,-cont] > ∅ / __ #
             $ Since we reɡard nasals as +cont, followinɡ rule is also needed:
-            [+nas] > ∅ / __ #
+            $[+nas] > ∅ / __ #
+		$ shouldn't affect in. Updated conditioning:
+			[+nas] > ∅ / @ [-cons] __ #
 
         $ R5B Addition of word-final [e] after [l]
             ∅ > e / l __ #
@@ -232,8 +247,7 @@ $m > β / [+lo,-long] __ n
         $ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
         e > ∅ / # __ [+strid,+ant] [+cons]
         
-        e > ∅ / e [-strid,+cons] __ [-delrel,-voi,+cons]
-		e > ∅ / [+syl] [+cons,+voi] [+voi,+cons] __ [-strid,+cons] [+syl] [-delrel,-voi,+cons]
+e > ∅ / [+syl] [+cons,+voi] r __ [-strid,+cons] [+syl] [-delrel,-voi,+cons] $ this seems like overfitting--may need to remove once we have better syncope rules
 
 
     $ R15 Contraction of vowels
@@ -484,6 +498,10 @@ $
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         l > ɾ / [-cons] __ [+syl]
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
+
+d > l / # a __ l
+
+d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for l, so inserting another rule above that takes care of this
 
     $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
         $ R35A [ll] > [w] before unstressed [a]
@@ -817,7 +835,7 @@ j ˈa > ˈɨ / # p __
 
 
 $Prefix Rules:
-a d > a / # __ [+cons]
+$ (d > ∅ / # a __ [+cons] moved way earlier in the cascade)
 i > ɨ / # __ [+nas]
 n > ∅ / # k u __
 [+syl,+hi,+back] > ∅ / [+syl,+hi,+back] __
@@ -843,4 +861,7 @@ j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthon
 
 
 
-t͡ʃ > k / __ ˈi n [-syl,+hi]
+t͡ʃ > k / __ ˈi n [-syl,+hi] $ this defnitely isn't right, but we do need to investigate instances where R24 does not apply, as there seem to be a lot of them
+
+
+u > w / [+syl] __ $ TODO: generalize later
