@@ -105,8 +105,8 @@ $
 			$ Syncope does not occur after labials.
 			$ syncope between alveolars and [l]
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,-cont,+cor] __ l [+syl]
-			$ syncope between velars and [l] (pickier than alveolars: can't be after syllables where there is a short low vowel with no coda consonant, can't be before palatal vowels, and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
-				[+syl,+hi,-long,-stres] > ∅ / {#;[+cons,+voi,-son];[-cont];[+cons,+voi,-son] [+cons,+son];[-cont] [+cons,+son]} {[+syl,-lo];[+syl,+long];[+syl] [+cons,+cont,-lat]} [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
+			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
+				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] [+son]} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
 		$ Syncope after [l] cannot occur in the presence of palatal vowels.
@@ -129,7 +129,7 @@ $
 $ Added: necessary for kw reflections. Counterbled by final-nasal deletion.
 	$ EDIT: this only happens in the onset of word-initial syllables. conditioning adjusted accordingly
 		$ EDIT: this can occur (analogically)? in prefixed words (add more prefixes whenever necessary)
-			w > ∅ / # (i n) ([-syl])* k __ [+syl,+prim,+lo,+front] [+voi]
+			w > ∅ / # (i n) ([-syl])* k __ {[+syl,+prim,+lo,+front];[+syl,+long,+lo,+front]} [+voi]
 
 $ L-Metathesis (our addition)
 	$ Nasal is optional (hence double rule).
