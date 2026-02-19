@@ -105,8 +105,8 @@ $
 			$ Syncope does not occur after labials.
 			$ syncope between alveolars and [l]
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,-cont,+cor] __ l [+syl]
-			$ syncope between velars and [l] (pickier than alveolars: can't be after short low vowels, can't be before palatal vowels) HOWEVER we can have a nonlateral sonorant before the velar
-				[+syl,+hi,-long,-stres] > ∅ / {[+syl,-lo];[+syl,+long]} ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
+			$ syncope between velars and [l] (pickier than alveolars: can't be after syllables where there is a short low vowel with no coda consonant, can't be before palatal vowels, and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
+				[+syl,+hi,-long,-stres] > ∅ / {#;[+cons,+voi,-son];[-cont];[+cons,+voi,-son] [+cons,+son];[-cont] [+cons,+son]} {[+syl,-lo];[+syl,+long];[+syl] [+cons,+cont,-lat]} [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
 		$ Syncope after [l] cannot occur in the presence of palatal vowels.
@@ -128,7 +128,8 @@ $
 
 $ Added: necessary for kw reflections. Counterbled by final-nasal deletion.
 	$ EDIT: this only happens in the onset of word-initial syllables. conditioning adjusted accordingly
-		w > ∅ / # ([-syl])* k __ [+syl,+prim,+lo,+front] [+voi]
+		$ EDIT: this can occur (analogically)? in prefixed words (add more prefixes whenever necessary)
+			w > ∅ / # (i n) ([-syl])* k __ [+syl,+prim,+lo,+front] [+voi]
 
 $ L-Metathesis (our addition)
 	$ Nasal is optional (hence double rule).
@@ -408,7 +409,7 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
         $[-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ [-cons,-back]
         $ Still doesnt work so:
         
-        {ɡ e l;ɡ l} > {ɡ ʎ;ɡ ʎ} / __ ˈa
+{ɡ e l;ɡ l} > {ɡ ʎ;ɡ ʎ} / __ ˈa
         
 {k e r u;k e n u;k e n u s} > {k r u;k e n;k e n} / __ #
         
@@ -756,7 +757,7 @@ $
             e̯ ˈa > ˈe / t __ j
 
 $ these are morphological changes, not sound changes; keeping them here for now for their utility in getting good output, but maybe we should work on this more later
-		[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+cons,+voi] ([-cons])* [+prim] k __ #
+		$[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+cons,+voi] ([-cons])* [+prim] k __ #
 		[-cons,-lo,-prim] ɾ [-cons,-lo] > e / ([-cons])* [+prim,-lo] k __ #
 		$[-cons,-lo,-prim] ɾ [-cons,-lo] > e / [+prim] k __ #
         	[-cons,-lo] ɾ [-cons,-lo] > e / [+nas] k __ #
