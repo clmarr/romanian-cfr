@@ -33,10 +33,22 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
     $ ensure orthoɡraphic -ɡn- cluster is phonemically fully nasal - should be applied in lexicon but just in case:
         ɡ > ŋ / __ n
 
+
+
+$Found a better explanation of this (see immediately below).
     $ y unrounds, or vacuously any front vowel does.
         $[+front,+round] > [-round,-lab]
-        ∅ > j / __ [+front,+round]
-        [+front,+round] > [+back,-front] / __ [+voi]
+        $∅ > j / __ [+front,+round]
+        $[+front,+round] > [+back,-front]
+
+$Preyodization of [y] occurs when the preceding consonant is a velar (with an optional sonorant in the cluster) and the following consonant is a sonorant:
+	∅ > j / [+cons,+back] ([+cons,+son]) __ [+front,+round] [+cons,+son]
+$Yod-[y] sequences coalesce before [l]:
+	j [+front,+round] > ∅ [-round,-lab] / __ l
+$All remaining [y]s retract.
+	[+front,+round] > [-front,+back]
+
+
 
     $ aspiration in ɡk loans is lost
         [+cons,+sg] > [-sg]
@@ -44,7 +56,11 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
     $ iɡnore secondary stress, as it is probably not relevant for Romanian
         [+stres,-prim] > [-stres]
 
+[+syl] j ˈi > [+prim] j ∅
+
 e > a / # __ k k $ TODO: see if we can generalize beyond this!
+
+
 
 $ CHAPTER 4
 $ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
@@ -56,7 +72,7 @@ $
 
     $ R2 {Monophthonɡization of AE, Monophthonɡization of OE}
         $ R2A Monophthonɡization of AE [ay]
-            {a j;ˈa j} > {ɛː;ˈɛː} / __ {[-syl];#} $ conditioning not in pardess
+            [+syl,+lo] j > [-lo,-tense,+long] ∅ / __ {[-syl];#} $ conditioning not in Pardess
 
         $ R2B Monophthonɡization of OE [oy]
             {o j;ˈo j} > {eː;ˈeː}
@@ -89,8 +105,8 @@ $
 			$ Syncope does not occur after labials.
 			$ syncope between alveolars and [l]
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,-cont,+cor] __ l [+syl]
-			$ syncope between velars and [l] (pickier than alveolars: can't be after short low vowels, can't be before palatal vowels)
-				[+syl,+hi,-long,-stres] > ∅ / {[+syl,-lo];[+syl,+long]} [+cons,+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
+			$ syncope between velars and [l] (pickier than alveolars: can't be after short low vowels, can't be before palatal vowels) HOWEVER we can have a nonlateral sonorant before the velar
+				[+syl,+hi,-long,-stres] > ∅ / {[+syl,-lo];[+syl,+long]} ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
 		$ Syncope after [l] cannot occur in the presence of palatal vowels.
@@ -100,7 +116,7 @@ $
 
 
 
-  	{ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
+{ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
         
 
 
@@ -108,9 +124,18 @@ $
             $ Pardess: Contexts created by 4a syncope
             t > k / __ l
 
-$Added: necessary for kw reflections. Counterbled by final-nasal deletion.
+
+
+$ Added: necessary for kw reflections. Counterbled by final-nasal deletion.
 	$ EDIT: this only happens in the onset of word-initial syllables. conditioning adjusted accordingly
-w > ∅ / # ([-syl])* k __ [+syl,+prim,+lo,+front] [+voi]
+		w > ∅ / # ([-syl])* k __ [+syl,+prim,+lo,+front] [+voi]
+
+$ L-Metathesis (our addition)
+	$ Nasal is optional (hence double rule).
+		∅ [+syl] [-cont,+back] l > l [+syl] [-cont,+back] ∅ / [-cont,+back] __
+		∅ [+syl] [+nas] [-cont,+back] l > l [+syl] [+nas] [-cont,+back] ∅ / [-cont,+back] __
+
+
 
     $ R5 {Deletion of word-final oral or nasal stop, Addition of word-final [e] after [l], Metathesis of word-final [r]}
         $ R5A Deletion of word-final oral or nasal stop
@@ -799,7 +824,7 @@ $ these are morphological changes, not sound changes; keeping them here for now 
 
         $ R59C Word-final [ii] > [i]
             $i i > i / __ #
-		[+syl,+front,+hi] > ∅ / [+syl,+front,+hi] __ #
+		[+syl,+front,+hi,-stres] > ∅ / [+syl,+front,+hi] __ #
 
     $ R60 Loss of final [l] of m sg definite article
         $ l > ∅ / __ # "in m sg definite article"
@@ -858,10 +883,6 @@ s > ʃ / __ [-cont] j
 
 j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthong
 
-
-
-
-t͡ʃ > k / __ ˈi n [-syl,+hi] $ this defnitely isn't right, but we do need to investigate instances where R24 does not apply, as there seem to be a lot of them
 
 
 u > w / [+syl] __ $ TODO: generalize later
