@@ -679,7 +679,10 @@ $
             
             $e > ɨ / # __ [+nas]
             [-back,-lo,+syl,-prim] > ɨ / # __ [n]
-            [-back,-lo,+syl,-prim] > ɨ / # __ m [+lab] [-cons]
+            [-back,-lo,+syl,-prim] > ɨ / # __ m [+lab] (ɾ)* (l)* [-cons]
+            
+            [-back,-lo,+syl,-prim] > ɨ / # __ [n]
+            
             
             ˈə > [+hi,+tense] / __ m [+lab] [-cons]
             
@@ -740,10 +743,18 @@ $
             [-son,+delrel,-ant,+voi] > [+cont] / __ [-cons,+round]
             $[-son,+delrel,-ant] > [+cont] / __ [+syl,+round]
 
-            [-son,+delrel,-ant] > t͡s / __ u #
+            
             $[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] [+cor]	
-			[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] ([-cons])* [+cor]
-			[-son,+delrel,-ant] > [+cont] / ə ([+cons])* __ [-cons,+round] ([-cons])* [+cor]
+			$[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] ([-cons])* [+cor]
+			$[-son,+delrel,-ant] > [+cont] / ə ([+cons])* __ [-cons,+round] ([-cons])* [+cor]
+			
+			
+			[-son,+delrel,-ant] > [+cont] / # [+syl,+back] __ [+back]
+			$[-son,+delrel,-ant] > t͡s / __ [αprim,αfront] #
+			[-son,+delrel,-ant] > t͡s / __ u #
+			[-son,+delrel,-ant] > t͡s / __ ˈa #
+			[-son,+delrel,-ant] > [+cont] / [-voi] ə ([+cons])* __ [-cons,+round] ([-cons])* [+cor]
+			
 			$[-son,+delrel,-ant] > [+cont,0delrel] / __ [-cons,+round]
 
     $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
@@ -862,13 +873,17 @@ j ˈa > ˈɨ / # p __
 
 $Prefix Rules:
 $ (d > ∅ / # a __ [+cons] moved way earlier in the cascade)
-i > ɨ / # __ [+nas]
+$i > ɨ / # __ [+nas]
 n > ∅ / # k u __
 [+syl,+hi,+back] > ∅ / [+syl,+hi,+back] __
 
 ˈe > e̯ ˈa / [-nas] [-lo,+syl] [+cor,+cons,-cont] __ #
 ˈe > e̯ ˈa / [-front,-cons] [+ant,+cons] __ #
 ˈɨ > ˈɨ j / __ n e #
+
+
+a ˈu n e > ə ˈu n / __ #
+∅ > j / ə t͡ʃ __ [+prim]
 
 
 $j e > a / # __ r [+syl,+hi]
