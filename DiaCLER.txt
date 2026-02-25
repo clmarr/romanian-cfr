@@ -279,13 +279,22 @@ e > ∅ / [+syl] [+cons,+voi] r __ [-strid,+cons] [+syl] [-delrel,-voi,+cons] $ 
     $ R15 Contraction of vowels
         [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
        
+t [+syl,+long,-stres,-hi] s > t͡s j / __ #
+t > t͡s / [+syl] ([-son,+cons])* __ [+syl,-back,-long] l
+t > t͡s / # (e n)* __ [+syl,-back,-prim,-long] l
+
+$l > ∅ / [+syl,-back,-long] __ j [+syl,+lo]
 
     $ R16 Loss of vowel lenɡth
         [+syl] > [-long]
+        
+t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
+        
 
 
     $ R17 Deletion of wau before a vowel
         $β > ∅ / [+cons,-voi] __ [-cons]
+        β > ∅ / u __
         w > ∅ / __ [+syl]
         $β > ∅ / [+cons] __ [-cons]
         $ Problematic but faithful to Pardess
@@ -299,6 +308,7 @@ e > ∅ / [+syl] [+cons,+voi] r __ [-strid,+cons] [+syl] [-delrel,-voi,+cons] $ 
             $ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
             $ Above does not work in DiaSim
             {d;t} > {d͡z;t͡s} / __ j [+prim,-round]
+            ${d;t} > {d͡z;t͡s} / __ j [-prim,+syl] #
             {d;t} > {d͡ʒ;t͡ʃ} / __ j
 
         $ R18C Affrication of velars: [ɡ] > [ǰ], [k] > [č] before yod
@@ -354,9 +364,9 @@ e > ∅ / [+syl] [+cons,+voi] r __ [-strid,+cons] [+syl] [-delrel,-voi,+cons] $ 
 
     $ R22 {Beta becomes v/b/w/ɡ/∅}
         $ R22A Word-inital [β] > [v]
-            β > v / # __
-            β > v / # e n __
-            β > v / # k o n __	$ are these (this rule+immediately above) not both better described as analogies?
+            β > v / # (e n)* (k o n)* __
+            $β > v / # e n __
+            $β > v / # k o n __	$ are these (this rule+immediately above) not both better described as analogies?
             β > v / [+syl] __ ˈe
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
 
@@ -398,6 +408,11 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
         $ R22E [β] > ∅ / elsewhere
             β > ∅
             {i e} > {j e}
+  
+            
+$$ Fed by β > v/fet           
+n > ∅ / [+back] __ [-son,+cont]
+
 
     $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]
         $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually riɡht? Why not at this time?
@@ -832,7 +847,9 @@ $ these are morphological changes, not sound changes; keeping them here for now 
             w̥ > ∅ / j __ #
             m n w > m n
             {w;w̥;j̊} > {u;w;j}
-            u > w / a __ r
+            u > ∅ / u __
+            u > w / a __
+            
 
         $ R59C Word-final [ii] > [i]
             $i i > i / __ #
@@ -872,9 +889,7 @@ j ˈa > ˈɨ / # p __
 
 
 $Prefix Rules:
-$ (d > ∅ / # a __ [+cons] moved way earlier in the cascade)
-$i > ɨ / # __ [+nas]
-n > ∅ / # k u __
+
 [+syl,+hi,+back] > ∅ / [+syl,+hi,+back] __
 
 ˈe > e̯ ˈa / [-nas] [-lo,+syl] [+cor,+cons,-cont] __ #
@@ -883,7 +898,7 @@ n > ∅ / # k u __
 
 
 a ˈu n e > ə ˈu n / __ #
-∅ > j / ə t͡ʃ __ [+prim]
+∅ > j / ə (r)* (l)* t͡ʃ __ [+prim]
 
 
 $j e > a / # __ r [+syl,+hi]
