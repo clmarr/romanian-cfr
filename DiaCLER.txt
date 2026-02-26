@@ -474,10 +474,11 @@ $
 
     $ R28 Unstressed [o] > [u]
         $ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
-	o > u / __ {[+syl];#} $ extra cases
-        o > u / __ {[-syl,-son,+lab,+voi];[-syl,-son,-lab];[+lat];[+nas];[-syl,-cons]} {[-syl,-son,+lab,+voi];[-syl,-son,-lab];[+lat];[+nas];[-syl,-cons];[+syl];#} $ new conditioning. blocked by p and r in following consonant cluster (up to two phones away). breaks koktorium>cuptor but everything else works
-	o > u / [+cons,+son] ([+cons]) __ ([+cons]) [+cons,+son] $ another case where doubling up the sonorants lets o>u happen before r
-		$ I still think there are some cases that need more examination, but we can do this later. (TODO)
+	o > u / __ ({[-syl,+lab,+voi];[-syl,-lab]}) {[+syl];#} $ blocks singleton p and all clusters (allowed clusters follow) (also handles cases with no following consonants)
+	o > u / __ {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} {[-syl,+lab,+voi];[-syl,-lab]} $ blocks sonorant-initial clusters while letting sonorant-final clusters pass through...
+	o > u / __ {[-syl,+lab,+voi];[-syl,-lab]} {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} $ ...blocks sonorant-final clusters while letting sonorant-initial clusters pass through
+	o > u / __ {r r;l l;n n;m m} $ geminate handling
+	$ new conditioning. blocked by p in following consonant cluster (up to two phones away) or double sonorant (geminates OK). breaks koktorium>cuptor but everything else works
 
 
     $ R29 {ELLU-related chanɡes (Not reɡular)}
