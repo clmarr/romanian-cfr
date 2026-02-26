@@ -474,7 +474,11 @@ $
 
     $ R28 Unstressed [o] > [u]
         $ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
-        o > u
+	o > u / __ {[+syl];#} $ extra cases
+        o > u / __ {[-syl,-son,+lab,+voi];[-syl,-son,-lab];[+lat];[+nas];[-syl,-cons]} {[-syl,-son,+lab,+voi];[-syl,-son,-lab];[+lat];[+nas];[-syl,-cons];[+syl];#} $ new conditioning. blocked by p and r in following consonant cluster (up to two phones away). breaks koktorium>cuptor but everything else works
+	o > u / [+cons,+son] ([+cons]) __ ([+cons]) [+cons,+son] $ another case where doubling up the sonorants lets o>u happen before r
+		$ I still think there are some cases that need more examination, but we can do this later. (TODO)
+
 
     $ R29 {ELLU-related chanɡes (Not reɡular)}
         $ R29A Loss of stress in the postposed forms of 'ellu
