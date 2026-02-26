@@ -106,13 +106,15 @@ $
 			$ syncope between alveolars and [l]
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,-cont,+cor] __ l [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
-				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] [+son]} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
+				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
 		$ Syncope after [l] cannot occur in the presence of palatal vowels.
 			[+syl,+hi,-long,-stres] > ∅ / {[+syl,-front];[+syl,+lo]} l __ [+cons] {[+syl,-front];[+syl,+lo]}
 		$ [r] must cluster with voiced consonants after syncope.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+		$ [rrVk] syncopates. Since this only applies to etyma related to carricare, there isn't actually a lot of evidence for it. FLAG -- reexamine later.
+			[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [+cons,-voi] [+syl]
 
 
 
@@ -272,8 +274,6 @@ $m > β / [+lo,-long] __ n
         $ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
         $ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
         e > ∅ / # __ [+strid,+ant] [+cons]
-        
-e > ∅ / [+syl] [+cons,+voi] r __ [-strid,+cons] [+syl] [-delrel,-voi,+cons] $ this seems like overfitting--may need to remove once we have better syncope rules
 
 
     $ R15 Contraction of vowels
@@ -281,7 +281,7 @@ e > ∅ / [+syl] [+cons,+voi] r __ [-strid,+cons] [+syl] [-delrel,-voi,+cons] $ 
        
 t [+syl,+long,-stres,-hi] s > t͡s j / __ #
 t > t͡s / [+syl] ([-son,+cons])* __ [+syl,-back,-long] l
-t > t͡s / # (e n)* __ [+syl,-back,-prim,-long] l
+t > t͡s / # (e n) __ [+syl,-back,-prim,-long] l
 
 $l > ∅ / [+syl,-back,-long] __ j [+syl,+lo]
 
@@ -330,7 +330,6 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
 
             s > ʃ / __ t ˈɛ
             s > ʃ / __ t i
-            ˈa β u s > a ˈu ʃ / __ #
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
         {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __ $ see pardess's prânju > prândzu (p.73) for inclusion of ([+nas])
@@ -364,7 +363,7 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
 
     $ R22 {Beta becomes v/b/w/ɡ/∅}
         $ R22A Word-inital [β] > [v]
-            β > v / # (e n)* (k o n)* __
+            β > v / # (e n) (k o n) __
             $β > v / # e n __
             $β > v / # k o n __	$ are these (this rule+immediately above) not both better described as analogies?
             β > v / [+syl] __ ˈe
@@ -376,10 +375,6 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
 			β > ɡ / ˈɛ __ u $ this only affects one word; reexamine later
 			β > ɣ / f [+syl] __ [+syl,+hi,+back]
 			ɣ > ɡ
-
-
-
-${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
 
 
         $ R22B Occlusivization of [β]
@@ -407,7 +402,8 @@ ${u β e;e β u;u β u;a β u} > {u ɡ e;e ɡ u;u ɡ u;a ɡ u}
 
         $ R22E [β] > ∅ / elsewhere
             β > ∅
-            {i e} > {j e}
+
+{i e} > {j e}
   
             
 $$ Fed by β > v/fet           
@@ -418,18 +414,15 @@ n > ∅ / [+back] __ [-son,+cont]
         $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually riɡht? Why not at this time?
         {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
 
+{k e n u;k e n u s} > {k e n;k e n} / __ #
+
     $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
         $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] > __ [-cons,-back]
         $ Stranɡe notation here. Is this just a typo where > should be / ?
         $[-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ [-cons,-back]
         $ Still doesnt work so:
-        
-{ɡ e l;ɡ l} > {ɡ ʎ;ɡ ʎ} / __ ˈa
-        
-{k e r u;k e n u;k e n u s} > {k r u;k e n;k e n} / __ #
-        
-        k > t͡ʃ / __ [-cons,-back,-lo]
-        ɡ > d͡ʒ / __ [+syl,-back,-lo]
+        	k > t͡ʃ / __ [-cons,-back,-lo]
+        	ɡ > d͡ʒ / __ [+syl,-back,-lo]
         
       
 $t͡ʃ > k / __ e [+cons,+son,+voi] u
@@ -476,7 +469,7 @@ $
         $ R27B Diphthonɡization of [ɛ]: [ɛ] > [ye]
             $ Pardess: ∅ > j / __ [-cons,-tense]
             $ Pardess' rule does not tense the lax e here althouɡh title suɡɡests it.
-		∅ [+syl,-tense] > j [+tense]
+		∅ [+syl,-tense] > j [+tense] $ / {#;[-son];[+syl]} __ $ I suspect this is (closer to) the correct conditioning, but right now it brings accuracy down. FLAG: reexamine later.
 
 
     $ R28 Unstressed [o] > [u]
@@ -520,7 +513,7 @@ $
             j l > l j / [+syl] [+syl] __ 
             ˈa e > ˈa w ə / __ #
 
-            [-cons,-tense] > [-syl]
+            [-cons,-tense] > [-syl] / __ [+syl] $ doesn't happen when no a-insertion occurs
             $ Also, Pardess appears to also imply tensinɡ...
             [-syl,-tense] > [+tense]
 
@@ -694,7 +687,7 @@ $
             
             $e > ɨ / # __ [+nas]
             [-back,-lo,+syl,-prim] > ɨ / # __ [n]
-            [-back,-lo,+syl,-prim] > ɨ / # __ m [+lab] (ɾ)* (l)* [-cons]
+            [-back,-lo,+syl,-prim] > ɨ / # __ m [+lab] (ɾ) (l) [-cons]
             
             [-back,-lo,+syl,-prim] > ɨ / # __ [n]
             
@@ -820,10 +813,6 @@ $ these are morphological changes, not sound changes; keeping them here for now 
 [+son,+cons] >  ∅ / [+hi] j __
 
 
-
-
-
-
     $ R58 Assimilation: word-final [ə] > [e] after [i]
         $ Pardess: ə > [-back] / i __ #
         $ Reframinɡ:
@@ -861,7 +850,7 @@ $ these are morphological changes, not sound changes; keeping them here for now 
         
         
     $Fixing -ium reflexes due to glide problem.
-    	j > ∅ /  [-cons,+syl] ([+cons])* [+prim] __ r #
+    	j > ∅ / [-cons,+syl] ([+cons])* [+prim] __ r #
 		r > ∅ / j __ #
         
         
@@ -897,8 +886,7 @@ $Prefix Rules:
 ˈɨ > ˈɨ j / __ n e #
 
 
-a ˈu n e > ə ˈu n / __ #
-∅ > j / ə (r)* (l)* t͡ʃ __ [+prim]
+a ˈu n e > ə ˈu n / __ # $ needs reexamined
 
 
 $j e > a / # __ r [+syl,+hi]
@@ -913,7 +901,5 @@ $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
 s > ʃ / __ [-cont] j
 
 j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthong
-
-
 
 u > w / [+syl] __ $ TODO: generalize later
