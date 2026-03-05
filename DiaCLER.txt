@@ -102,7 +102,8 @@ $
 
 	$ Found better explanation of this syncope than "There are many exceptions." NB: I'm pretty sure there are other syncopes still being missed; however, these are all the ones that occur in the presence of sonorants.
 		$ Stops must cluster with [l] after syncope.
-			$ Syncope does not occur after labials.
+			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
+				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
 			$ syncope between alveolars and [l]
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,-cont,+cor] __ l [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
@@ -119,6 +120,12 @@ $
 
 {ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
         
+
+$ NEW RULE: Forward spreading of [n] to singleton stop across [u] (manukˈulum>mənˈukj can be explained as stress shift causing (currently missed) syncope, which blocks this)
+	∅ > n / [+syl] n [+syl,+hi,+round] __ [-cont] [+syl]
+
+$ NEW RULE: Intervocalic [n]-tapping before [un]
+	n > r / [+syl] __ [+syl,+hi,+round] n
 
 
         $ R4B Dissimilation of [tl]: [tl] > [kl]
@@ -685,9 +692,10 @@ $
         $ R47A Raisinɡ of [ə] before [n] or [m]CV
             $ (An adaptation of) Pardess's original formulation:
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ {n;m [+cons,+lab] [+syl];ɲ} $ EDIT: added +lab and ɲ
+			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
 
-$ ADDED BY US: Raising of [ə] before C + plosive
-	$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont] [-cont,-delrel]
+$ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster (blocked by following high (semi)vowel)
+	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αcor] [-cont,-αcor] {[-hi];#}
 
             $e > ɨ / # __ [+nas]
             $[-back,-lo,+syl,-prim] > ɨ / # __ n
@@ -739,8 +747,8 @@ e > ə / [-prim,+syl] [-lab,+cons,+son,+ant] __ t
 e > ə / __ t
 
     $ R49 Raisinɡ of [ə] before [r,s] plus consonant
-        ə > ɨ / __ ɾ [+cons] [+hi]
-        ə > ɨ / __ s [+cons] [+hi]
+        ə > ɨ / __ {ɾ;r} [+cons] [+hi,+syl]
+        ə > ɨ / __ s [+cons] [+hi,+syl]
 
     $ R50 backinɡ of front vowels after [rr]
         $[-cons,+front] > [+back] / r r __
@@ -919,3 +927,6 @@ s > ʃ / __ [-cont] j
 j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthong
 
 u > w / [+syl] __ $ TODO: generalize later
+
+$ NEW RULE: Backwards [n]-spreading across affricate+[i]
+	∅ > n / [+syl] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
