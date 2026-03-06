@@ -367,6 +367,12 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
         b > β / [-cons] __
         
 
+$ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)+double alveolar (adding a syncope that affects vet(e)ranum will also make this rule more impactful)
+	$ Additional constraint: first alveolar must not be a sonorant.
+		$β > b / # __ e [+cor,+ant,-son] [+cor,+ant]
+			$ TODO: needs tweaked a little bit before implementation
+
+
     $ R22 {Beta becomes v/b/w/ɡ/∅}
         $ R22A Word-inital [β] > [v]
             β > v / # (e n) (k o n) __
@@ -694,8 +700,8 @@ $
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ {n;m [+cons,+lab] [+syl];ɲ} $ EDIT: added +lab and ɲ
 			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
 
-$ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster (blocked by following high (semi)vowel)
-	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αcor] [-cont,-αcor] {[-hi];#}
+$ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements (Poorly attested. TODO: Either find more examples of this raising or modify/remove this rule so it isn't overfitting.)
+	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback]
 
             $e > ɨ / # __ [+nas]
             $[-back,-lo,+syl,-prim] > ɨ / # __ n
