@@ -105,7 +105,7 @@ $
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
 			$ syncope between alveolars and [l]
-				[+syl,+hi,-long,-stres] > ∅ / [+syl] [+cons,-cont,+cor] __ l [+syl]
+				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) [+cons,-cont,+cor] __ l [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
 				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
@@ -121,7 +121,7 @@ $
 {ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
         
 
-$ NEW RULE: Forward spreading of [n] to singleton stop across [u] (manukˈulum>mənˈukj can be explained as stress shift causing (currently missed) syncope, which blocks this)
+$ NEW RULE: Forward spreading of [n] to singleton stop across [u]
 	∅ > n / [+syl] n [+syl,+hi,+round] __ [-cont] [+syl]
 
 $ NEW RULE: Intervocalic [n]-tapping before [un]
@@ -161,10 +161,17 @@ $ L-Metathesis (our addition)
 
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
-            $ ∅ [+syl] r > r [+syl] ∅ / __ #
-		$ noted a couple of exceptions where blocked by presence of other sonorant. also needs to "jump over" the w in kwattwor
-		∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [-son] __ #
-		∅ [+syl] r > r [+syl] ∅ / [-son] __ #
+		$ can't occur after single [t]
+            		∅ [+syl] r > r [+syl] ∅ / [+syl] ([+cons]) [+cons,-cor] __ #
+			∅ [+syl] r > r [+syl] ∅ / [+syl] [+cor] [+cor] __ #
+			∅ [+syl] r > r [+syl] ∅ / [+syl] [+cor,+voi] __ #
+				$ at the moment, these three rules should take care of all our non-[t] cases
+		$ needs to "jump over" the w in kwattwor
+			∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+syl] ([+cons])+ __ #
+
+
+$ NEW RULE: Word-final [r] deletion after stop (and vowel)
+	r > ∅ / [-cont] [+syl] __ #
 
 
     $ R6 Frontinɡ of [w] to [β]
@@ -371,6 +378,7 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 	$ Additional constraint: first alveolar must not be a sonorant.
 		$β > b / # __ e [+cor,+ant,-son] [+cor,+ant]
 			$ TODO: needs tweaked a little bit before implementation
+				$ this also definitely isn't correct, given Pardess's >berbec example...
 
 
     $ R22 {Beta becomes v/b/w/ɡ/∅}
@@ -384,7 +392,7 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 
 	$ New Ordered/Conditioning for β > ɡ:
 			β > ∅ / ɡ __ 
-			β > ɡ / ˈɛ __ u $ this only affects one word; reexamine later
+			β > ɣ / ˈɛ __ u $ this only affects one word; reexamine later
 			β > ɣ / f [+syl] __ [+syl,+hi,+back]
 			ɣ > ɡ
 
@@ -398,7 +406,6 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
             $ Problem: quaeroo -> cer
             $ Look into this. I find this chanɡe hiɡhly unlikely for stops.
             $ Investiɡate environments at time step when lexicon is biɡɡer
-            
 
         $ R22C [β] becomes the velar ɡlide [w] before a resonant
             β > w / __ [+son,+cons]
@@ -885,7 +892,7 @@ $Temporary: Rules with no relative chronology (TODO)
 
 $Stress changes        
 [-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ #
-[-cons,+syl,+hi,-stres] n ˈe > [+prim] n [-stres] 
+[-cons,+syl,+hi,-stres] n ˈe > [+prim] n [-stres] / {[-cont];[+son,-nas]} __ $ this may be overfitting at this point, and because of t>ts in tenere>tsine, this probably takes place much earlier in the cascade... TODO: investigate this later
 b ə t ˈe > b ˈa t [-stres]
 
 
