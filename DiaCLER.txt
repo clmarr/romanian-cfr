@@ -101,6 +101,9 @@ $
             $ Pardess: "There are many exceptions" See p51
 
 	$ Found better explanation of this syncope than "There are many exceptions." NB: I'm pretty sure there are other syncopes still being missed; however, these are all the ones that occur in the presence of sonorants.
+		$ Syncope will occur when the first consonant is a glide.
+			[+syl,+hi,-long,-stres] > ∅ / [+syl] [-cons,-syl] __ [+cons] [+syl]
+		$ There are no examples in our lexicon in which syncope could occur before a glide.
 		$ Stops must cluster with [l] after syncope.
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
@@ -159,6 +162,9 @@ $ L-Metathesis (our addition)
             $ Pardess also mentions kwen > kwene >> DR cine
 		$ ...but using ∅ > e / [+son,+cons,+cor] __ # instead reduces accuracy. Wiktionary says cine is inherited from a different VL form (quene, not quem)
 
+$ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 1:
+∅ > ʏ / b e r __ #
+
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
 		$ can't occur after single [t]
@@ -168,6 +174,9 @@ $ L-Metathesis (our addition)
 				$ at the moment, these three rules should take care of all our non-[t] cases
 		$ needs to "jump over" the w in kwattwor
 			∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+syl] ([+cons])+ __ #
+
+$ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 2:
+ʏ > ∅ / b e r __ #
 
 
 $ NEW RULE: Word-final [r] deletion after stop (and vowel)
@@ -383,24 +392,30 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 
     $ R22 {Beta becomes v/b/w/ɡ/∅}
         $ R22A Word-inital [β] > [v]
-            β > v / # (e n) (k o n) __
-            $β > v / # e n __
-            $β > v / # k o n __	$ are these (this rule+immediately above) not both better described as analogies?
+		$ Including prefixal analogies for utility.
+            		β > v / # (e n) (k o n) (r e) __
             β > v / [+syl] __ ˈe
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
 
 
+β > ∅ / ɡ __
+
+
 	$ New Ordered/Conditioning for β > ɡ:
-			β > ∅ / ɡ __ 
-			β > ɣ / ˈɛ __ u $ this only affects one word; reexamine later
+		$ Beta gammatizes after word-initial sonorants followed by certain vowels (poorly attested but consistent), of course only before [(ˈ)u].
+			β > ɣ / # [+cons,+son] [+syl,αhi,αround] __ [+syl,+hi,+back]
+		$ The exact reverse of the above rule should also apply, but the only valid target is ˈuβer (which is ideal).
+			β > ɣ / [+syl,+hi,+back] __ [+syl,αhi,αround] [+cons,+son] #
+		$ Beta also dissimilates from preceding voiceless labials (only [f] at this stage).
 			β > ɣ / f [+syl] __ [+syl,+hi,+back]
+		$ Finally, gamma fortifies.
 			ɣ > ɡ
 
 
         $ R22B Occlusivization of [β]
             β > b / [-cons] [+cons,-syl,-nas,+voi] __
             v > b / [+cons,-syl,-nas,+voi] __
-			{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
+		{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
             {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo]
        		$β > b / [+cons,-syl,-nas] __
             $ Problem: quaeroo -> cer
