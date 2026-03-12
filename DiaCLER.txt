@@ -943,3 +943,9 @@ u > w / [+syl] __ $ TODO: generalize later
 
 $ NEW RULE: Backwards [n]-spreading across affricate+[i]
 	∅ > n / [+syl] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
+	∅ > n / n [+syl,-lo] __ [+delrel,-cont,+ant] [+syl] #
+	
+	r > n / [+syl,-lo] __ ([-syl,-cons])* [+syl] n [+syl,-hi] #
+	
+$Stupid rule:	
+	r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
