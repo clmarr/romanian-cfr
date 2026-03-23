@@ -17,6 +17,8 @@ $ ae simplification rules
 	$ ae simplifies when between a nonlateral anterior consonant and a coronal (order matters)
 		e̯ > ∅ / [+ant,-lat,+cons] [+lo] __ [+cor]
 
+u > w / u __ $ viduum fixing
+
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
 
     $p102 s220 (also p73 s156i)  -- yod and w formation -- ɡlidinɡ of unstressed short non-low vowels before other vowels -- From CLEF, from Pope (1934):
@@ -87,11 +89,22 @@ $
             m > ∅ / [-stres] __ #
             m > n / __ #
             
-ˈeː u > ˈe w / __ #
-            
+
+
+$ Our addition: desyllabification of vowels between stressed vowel and word boundary        
+	[+syl,+round] > w / [+syl,+stres] __ #
+
+
 
         $ R3B Reduction of [n] + fricative
             [+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
+
+
+$ NEW RULE: Forward spreading of [n] to singleton stop across [u]
+	∅ > n / [+syl] n [+syl,+hi,+round] __ [-cont] [+syl]
+
+$ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
+	n > r / [+syl] __ [+syl,+hi,+round] [+nas]
 
 
     $ R4 {Syncope, Dissimilation of [tl]}
@@ -122,13 +135,6 @@ $
 
 
 {ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
-        
-
-$ NEW RULE: Forward spreading of [n] to singleton stop across [u]
-	∅ > n / [+syl] n [+syl,+hi,+round] __ [-cont] [+syl]
-
-$ NEW RULE: Intervocalic [n]-tapping before [un]
-	n > r / [+syl] __ [+syl,+hi,+round] n
 
 
         $ R4B Dissimilation of [tl]: [tl] > [kl]
@@ -175,12 +181,13 @@ $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis 
 		$ needs to "jump over" the w in kwattwor
 			∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+syl] ([+cons])+ __ #
 
-$ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 2:
-ʏ > ∅ / b e r __ #
-
 
 $ NEW RULE: Word-final [r] deletion after stop (and vowel)
 	r > ∅ / [-cont] [+syl] __ #
+
+
+$ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 2:
+ʏ > ∅ / b e r __ #
 
 
     $ R6 Frontinɡ of [w] to [β]
@@ -412,8 +419,12 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 			ɣ > ɡ
 
 
+$ NEW RULE: [s]-voicing word-initially before a voiced obstruent
+	s > z / # __ [+voi,-son]
+
+
         $ R22B Occlusivization of [β]
-            β > b / [-cons] [+cons,-syl,-nas,+voi] __
+            β > b / [-cons] [+cons,-nas,+voi] __
             v > b / [+cons,-syl,-nas,+voi] __
 		{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
             {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo]
@@ -436,6 +447,7 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 
         $ R22E [β] > ∅ / elsewhere
             β > ∅
+
 
 {i e} > {j e}
   
