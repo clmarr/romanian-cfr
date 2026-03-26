@@ -98,6 +98,12 @@ $ Our addition: desyllabification of vowels between stressed vowel and word boun
             [+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
 
 
+
+$ NEW RULE: Syncope of palatal vowels in word-initial syllables to create [-cont]rV(N)[-cont] syllables
+	[+syl,+front,-lo] > ∅ / # ([+syl,+front,+hi] n) [-cont] __ r [+syl] ([+nas]) [-cont] $ parenthetical included for utility, but this is really an analogical process
+
+
+
 $ NEW RULE: Forward spreading of [n] to singleton stop across [u]
 	∅ > n / [+syl] n [+syl,+hi,+round] __ [-cont] [+syl]
 
@@ -134,9 +140,9 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ k [+syl]
 
 
+
 {ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
         
-
 
 
         $ R4B Dissimilation of [tl]: [tl] > [kl]
@@ -172,7 +178,6 @@ $ L-Metathesis (our addition)
 
 $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 1:
 ∅ > ʏ / b e r __ #
-
 
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
@@ -879,6 +884,12 @@ $ these are morphological changes, not sound changes; keeping them here for now 
         $ Pardess: ə > [-back] / i __ #
         $ Reframinɡ:
         {ə;j ə} > {e;e} / ˈi __ #
+
+
+
+$ NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
+	k > ɡ / [-cont,-voi] r [+syl] __ [-stres] #
+		$ This is EXTREMELY poorly attested--only affects apricum>aprig and vitricus>vitreg in our lexicon. FLAG -- reexamine later
 
 
     $ R59 {Word-final hiɡh vowel chanɡes}
