@@ -89,12 +89,9 @@ $
             m > ∅ / [-stres] __ #
             m > n / __ #
             
-
-
 $ Our addition: desyllabification of vowels between stressed vowel and word boundary        
 	[+syl,+round] > w / [+syl,+stres] __ #
-
-
+            
 
         $ R3B Reduction of [n] + fricative
             [+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
@@ -107,6 +104,7 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 	n > r / [+syl] __ [+syl,+hi,+round] [+nas]
 
 
+
     $ R4 {Syncope, Dissimilation of [tl]}
         $ R4A Syncope
             $ Pardess: "In the presence of R" (nasals and liquids); +cons,+son
@@ -117,6 +115,7 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 		$ Syncope will occur when the first consonant is a glide.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] [-cons,-syl] __ [+cons] [+syl]
 		$ There are no examples in our lexicon in which syncope could occur before a glide.
+	
 		$ Stops must cluster with [l] after syncope.
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
@@ -135,6 +134,8 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 
 
 {ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
+        
+
 
 
         $ R4B Dissimilation of [tl]: [tl] > [kl]
@@ -171,6 +172,7 @@ $ L-Metathesis (our addition)
 $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 1:
 ∅ > ʏ / b e r __ #
 
+
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
 		$ can't occur after single [t]
@@ -184,7 +186,6 @@ $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis 
 
 $ NEW RULE: Word-final [r] deletion after stop (and vowel)
 	r > ∅ / [-cont] [+syl] __ #
-
 
 $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 2:
 ʏ > ∅ / b e r __ #
@@ -295,6 +296,9 @@ $m > β / [+lo,-long] __ n
             [+syl,+hi,-back] > [+long] / __ ([+cons]) #
             $ May not be reɡular sound chanɡe. See note about Kiparsky
             $ Problem: wenit -> *vjej (vine)
+            
+            
+            
 
         $ R13ɡ Lowerinɡ of [i]: Stressed or unstressed [i] > [e]
             [+syl,-long,+hi,-back] > [-hi]
@@ -399,14 +403,12 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 
     $ R22 {Beta becomes v/b/w/ɡ/∅}
         $ R22A Word-inital [β] > [v]
-		$ Including prefixal analogies for utility.
-            		β > v / # (e n) (k o n) (r e) __
+         $ Including prefixal analogies for utility.
+            β > v / # (e n) (k o n) (r e) __
             β > v / [+syl] __ ˈe
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
 
-
 β > ∅ / ɡ __
-
 
 	$ New Ordered/Conditioning for β > ɡ:
 		$ Beta gammatizes after word-initial sonorants followed by certain vowels (poorly attested but consistent), of course only before [(ˈ)u].
@@ -426,7 +428,7 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
         $ R22B Occlusivization of [β]
             β > b / [-cons] [+cons,-nas,+voi] __
             v > b / [+cons,-syl,-nas,+voi] __
-		{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
+			{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
             {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo]
        		$β > b / [+cons,-syl,-nas] __
             $ Problem: quaeroo -> cer
@@ -447,7 +449,6 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 
         $ R22E [β] > ∅ / elsewhere
             β > ∅
-
 
 {i e} > {j e}
   
@@ -891,6 +892,9 @@ $ these are morphological changes, not sound changes; keeping them here for now 
 		$ Solution?: Given R59C, seems Pardess actually wants this to not happen after vowels. Also, Pardess gives examples of it happening after semivowels. So:
 		[-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+syl] __ #
 
+e > ə / # (j)* ([+cons,-voi])* __ (+cons)* (-cons)* (+cons)* (-cons)* (+cons)* (-cons)* (+cons)* (-cons)* [+cons,-voi] w̥ #
+
+
         $ R59B Loss of word-final voiceless [w̥]
             w̥ > ∅ / [+cons] __
             w̥ > ∅ / j __ #
@@ -968,11 +972,26 @@ j > i / [-syl] __ [-syl] $ resyllabification before a triphthong/rising diphthon
 
 u > w / [+syl] __ $ TODO: generalize later
 
+
 $ NEW RULE: Backwards [n]-spreading across affricate+[i]
 	∅ > n / [+syl] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
 	∅ > n / n [+syl,-lo] __ [+delrel,-cont,+ant] [+syl] #
+	$Somehow need to capture d͡ʒinˈukj >> d͡ʒenˈunkj.
 	
 	r > n / [+syl,-lo] __ ([-syl,-cons])* [+syl] n [+syl,-hi] #
 	
 $Stupid rule:	
 	r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
+	
+
+j > j e / [-lab] [+voi,-nas] [-lo,αsyl,-nas] [-round,-αvoi,-nas] __ #
+j > ∅ / k __ e #
+j > r / [+lab,+voi] [+prim] __ e
+
+
+
+e > ə / [αson, αvoi, -cor] ˈa [+ant,-voi,+cons] __
+$e > ə / [αnas,αvoi,+cons,+ant] ˈa r __
+
+[-αvoi] ˈa [+cor,+cons,αvoi] e > [+cons] [-αstres,-αprim] [+cons] [+hi,+front,αprim] / __ (k)* (r)* (ə)* #
+$e > ə / # [+cons] ([+cons])* __ ([+cons])* 
