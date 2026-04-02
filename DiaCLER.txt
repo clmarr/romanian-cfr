@@ -381,13 +381,15 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
     $ R20 Attraction of ɡlides
         $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
 	$ pardess implies but doesn't state explicitly that the only "clusters" that this move can occur across are geminates
-	∅ [+cons] j > j [+cons] ∅ / [+stres] __
+	$∅ [+cons] j > j [+cons] ∅ / [+stres] __
+		$ This one actually seems like it only occurs across [r]...
+		r j > j r / [+stres] __
 	∅ [+cons] w > w [+cons] ∅ / [+stres] __
 	$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] j > j [+cons] [+cons] ∅ / [+stres] __
 	$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] w > w [+cons] [+cons] ∅ / [+stres] __
 	$ for some reason, this isn't working. FLAG ask clayton about this because it's definitely a DiaSim problem and not a formulation problem. for now, using the following because these are the only two scenarios that actually appear in the data
 		∅ b b j > j b b ∅ / [+stres] __
-		∅ l l j > j l l ∅ / [+stres] __
+		$∅ l l j > j l l ∅ / [+stres] __ $ This seems wrong now...
 
     $ R21 Spirantization of [b]
         b > β / [-cons] __
@@ -572,21 +574,31 @@ $
     $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
         {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
 
+
+d > l / # a __ l
+d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for l, so inserting another rule above that takes care of this
+
+
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         l > ɾ / [-cons] __ [+syl]
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
 
-d > l / # a __ l
 
-d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for l, so inserting another rule above that takes care of this
+$ R37B (vowel degemination)
+	[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
+	[+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
+	[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback] __
+
 
     $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
         $ R35A [ll] > [w] before unstressed [a]
-            l l > w / [-cons,-back] ([+cons])* [+syl,-cons] __ [-cons,+lo,-stres]
-            l l > w / [+front,+hi,-cons,+syl] __ [-cons,+lo,-stres]
+		$ This is blocked by a labial segment across the leftward syllabic vowel from the [ll]... for some reason. (Only three such cases, but consistent.)
+			l l > w / [-lab] [+syl] __ a
+            $l l > w / [-cons,-back] ([+cons])* [+syl,-cons] __ [-cons,+lo,-stres]
+            $l l > w / [+front,+hi,-cons,+syl] __ [-cons,+lo,-stres]
             $l l > w / __ [-cons,+lo,-stres]
             
-            l l > ∅ / j __ [-cons,+syl] #
+            $l l > ∅ / j __ [-cons,+syl] #
 
         $ R35B Deɡemination of [ll]
             l l > l
@@ -604,11 +616,6 @@ d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that prod
 		$ only two forms affected, and they're two variants of the same word
             w > v / ˈu __ a
 
-	$ R37B Deɡemination of ɡeminate vowels
-            $ Collapse [aa], etc into one vowel. TODO make rule
-            [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
-            [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback]
-
     $ R37 {Raisinɡ of non-initial, non-ɡeminate, unstressed [a], Deɡemination of ɡeminate vowels}
         $ R37A Raisinɡ of non-initial, non-ɡeminate, unstressed [a]
             $ Pardess: [-cons,+lo,-stres,-long] > ə / [+cons] __
@@ -623,7 +630,9 @@ d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that prod
 
         $ R37B Deɡemination of ɡeminate vowels
 		$ happens before R37A
+			$ ...also happens before R35
             $ Collapse [aa], etc into one vowel. TODO make rule
+		$ Done!
             $[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
             $[+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback]
 
@@ -649,6 +658,7 @@ d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that prod
             $ Pardess: [+cont,+ant,+cor] > [+hi,-ant] / __ j
             $ problematic with received symdefs -- makinɡ a disjunction for now:
             {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+		$ this rule does NOT occur before intervocalic [l]-flapping...
 
         $ R41B Absorption of yod after a palatal seɡment
             $j > ∅ / [+cons,+hi] __
@@ -911,8 +921,7 @@ e > ə / # (j)* ([+cons,-voi])* __ (+cons)* (-cons)* (+cons)* (-cons)* (+cons)* 
         
         
     $Fixing -ium reflexes due to glide problem.
-    	j > ∅ / [-cons,+syl] ([+cons])* [+prim] __ r #
-		r > ∅ / j __ #
+    	j > ∅ / __ r #
         
         
 $Temporary: Rules with no relative chronology (TODO)
