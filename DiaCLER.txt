@@ -11,7 +11,7 @@ $ Staɡes are included when a new chapter is reached in Pardess' rule list: ~Bal
 $
 
 $ ae simplification rules
-	$ ae simplifies when between word boundary and sonorant (order irrelevant, vowels count)
+	$ ae simplifies when between word boundary and sonorant (order irrelevant; vowels count)
 		e̯ > ∅ / # [+lo] __ [+son]
 		e̯ > ∅ / [+son] [+lo] __ #
 	$ ae simplifies when between a nonlateral anterior consonant and a coronal (order matters)
@@ -209,7 +209,10 @@ $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis 
         w > β
 
     $ R7 Fortition of syllable initial [y]: [y] > [dy]
-	j > d j / {#;[-cons]} __ [+syl]
+	$ Cannot be followed by Vj if it happens word-initially ([+cons] takes care of the one case where this is relevant):
+		j > d j / # __ [+syl] [+cons]
+	$ Must be before a round vowel and after an unstressed vowel if it happens word-medially:
+		j > d j / [+syl,-stres] __ [+syl,+round]
         $ TODO Possible that if there are 2+ cons beforehand, there may be issues.
         $ Becomes ǰ in 18
 
@@ -517,7 +520,12 @@ $
         $ R27B Diphthonɡization of [ɛ]: [ɛ] > [ye]
             $ Pardess: ∅ > j / __ [-cons,-tense]
             $ Pardess' rule does not tense the lax e here althouɡh title suɡɡests it.
-		∅ [+syl,-tense] > j [+tense] $ / {#;[-son];[+syl]} __ $ I suspect this is (closer to) the correct conditioning, but right now it brings accuracy down. FLAG: reexamine later.
+		$ [j]-insertion only allowed after consonant cluster if cluster is [mn] (only attested with one word... FLAG -- reexamine later):
+			∅ > j / [-cons] __ [-cons,-tense]
+			∅ > j / {#;[-cons]} [+cons] __ [-cons,-tense]
+			∅ > j / m n __ [-cons,-tense]
+		$ [ɛ] always tenses regardless of [j]-insertion:
+			[-cons,-tense] > [+tense]
 
     $ R28 Unstressed [o] > [u]
         $ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
@@ -537,8 +545,7 @@ $
             $ "e > ∅ / # __ in the postposed article"
 
     $ R30 Preyodization of initial [e]: [e] > [ye]
-        ∅ > j / # __ e [-nas]
-        ∅ > j / # __ ˈe 
+        ∅ > j / # __ ˈe [-nas]
         $ "in some words"; "probably due to Slavic influence"
         $ TODO should this be enabled or not?
         $ "found in MR and IR but not in AR."
@@ -547,7 +554,7 @@ $
         $ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
             $ TODO reformulate this rule.
             [+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round]
-            [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])*  [+syl,-hi,-round]
+            [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])* [+syl,-hi,-round]
             [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])*  [+syl,-hi,-round]
 		$ The following are reformulations more in-line with Pardess's original formulation, but they decrease accuracy. Reexamine later.
 		$[+syl,-hi,-lo,+stres] > [-tense] / __ ([-syl,-nas])* [+syl,-hi,-round] $ turns out nC is also prohibited!
@@ -580,7 +587,7 @@ d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that prod
 
 
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
-        l > ɾ / [-cons] __ [+syl]
+        l > ɾ / [+syl] __ [+syl]
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
 
 
@@ -948,7 +955,7 @@ n > m / __ [-cont,+lab]
 
 
 ${ɨ;u} > {i;o} / [+cons] __ [+cons] ([+cons])* j ˈa $ doesn't seem to be doing anything?
-j ˈa > ˈɨ / # p __
+j ˈa > ˈɨ / # p __ $ this only improves one word -- FLAG: reexamine later and consider for removal
 
 
 $Prefix Rules:
