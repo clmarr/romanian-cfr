@@ -748,9 +748,19 @@ $
     $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
         $ R47A Raisinɡ of [ə] before [n] or [m]CV
             $ (An adaptation of) Pardess's original formulation:
-		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ {n;m [+cons,+lab] [+syl];ɲ} $ EDIT: added +lab and ɲ
-			
+		
+		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / [-syl] __ [+nas,-lab]
+		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / [-syl,-lat] __ m [+cons,+lab] [+syl]
+		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / # __ n
+		[+syl,-back,-front,-hi,-lo,+prim] > [+hi,+tense] / # __ m
+		
+		[+syl,+hi,+tense,-back,-front,-prim] > [-hi,0tense] / [+cons,-nas,+lab,-delrel] __ n
+		[+syl,+hi,+tense,-back,-front,+prim] > [-hi,0tense] / [+cons,-nas,+lab,-delrel] __ n (n) u
+		
+		ə > i / [+cons] [+cons,-nas,+lab,-delrel] __ n
 			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
+			$ Stupid, but the rule above fixes this...
+
 
 $ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements (Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.)
 	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback]
@@ -1014,3 +1024,4 @@ $e > ə / [αnas,αvoi,+cons,+ant] ˈa r __
 
 [-αvoi] ˈa [+cor,+cons,αvoi] e > [+cons] [-αstres,-αprim] [+cons] [+hi,+front,αprim] / __ (k)* (r)* (ə)* #
 $e > ə / # [+cons] ([+cons])* __ ([+cons])* 
+
