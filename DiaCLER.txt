@@ -10,6 +10,11 @@ $
 $ Staɡes are included when a new chapter is reached in Pardess' rule list: ~Balkan Romance (R25), ~Common Romanian (R45)
 $
 
+
+$ I suspect that the same morphological change that occurred with the typical infinitives occurred with the infinitives in -rī. Note that the rule below is not actually a sound change proper, but rather a morphological change in the vein that gave rise to the infinitival forms we have in the lexicon right now.
+	r [+long,-stres] > ∅ / [+long,+stres] __ #
+
+
 $ ae simplification rules
 	$ ae simplifies when between word boundary and sonorant (order irrelevant; vowels count)
 		e̯ > ∅ / # [+lo] __ [+son]
@@ -160,6 +165,18 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
             $ Pardess: Contexts created by 4a syncope
             t > k / __ l
 
+
+$ NEW RULE(s): Velar repulsion of [r]
+	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous syllable.
+		$ This repulsion cannot push the [r] across a [+back] vowel.
+		$ The [r] can only jump from a two-consonant cluster to (1) a one-consonant cluster or (2) a nasal-initial cluster.
+		$ The [r] cannot jump to another [+back] consonant.
+		$ The [r] must jump to a stop.
+			$ rC case:
+				∅ [+syl,-back] r > r [+syl] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [-syl,+back] [+syl]
+			$ Cr case ([w] is interpreted as part of the vowel in this case, not as a consonant, probably due to its position in the syllable):
+				∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [+syl]
+					$ this final [+syl] is actually irrelevant given our data and the phonotactics of Latin
 
 $ Added: necessary for kw reflections. Counterbled by final-nasal deletion.
 	$ EDIT: this only happens in the onset of word-initial syllables. conditioning adjusted accordingly
@@ -366,7 +383,7 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
             [-son,-cont] > d͡ʒ / __ d͡ʒ
 
             s > ʃ / __ t ˈɛ
-            s > ʃ / __ t i
+            $s > ʃ / __ t i
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
         {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __ $ see pardess's prânju > prândzu (p.73) for inclusion of ([+nas])
@@ -655,10 +672,9 @@ $ R37B (vowel degemination)
         $i > e / [+cons] __ [+cons]
 
     $ R40 Diphthonɡization of [i]: [i] > [yi]
-    	{i;ˈi} > {j i;j ˈi} / # [+cons] __
-    	{i;ˈi} > {j i;j ˈi} / [-cons] [+cons] __
-        $∅ > j / __ i
-        $∅ > j / __ ˈi
+    	${i;ˈi} > {j i;j ˈi} / # [+cons] __
+    	${i;ˈi} > {j i;j ˈi} / [-cons] [+cons] __
+        ∅ > j / [+cons] __ [+syl,+front,+hi]
 
     $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment}
         $ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]
@@ -676,7 +692,8 @@ $ R37B (vowel degemination)
     $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
         $ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
             $[-cont,+ant,+cor,-delrel] > [+delrel,+strid] / __ j
-            [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / {#;[-cons]} __ j
+            $[-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / {#;[-cons]} __ j
+		[-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / __ j
             $ TODO also ɡain stridency - is this covered by implications?
         
 $j ˈi > ∅ ˈɨ / [+syl] ([-syl])* __ [+son] ə
@@ -708,12 +725,16 @@ $Inserted rule: fronting of u after an obstruent and before an [n]-voiceless plo
         $ R45A Assimilation: [s] > [š] before [č]
             $ s > [-ant] / __ [+delrel,-ant,+cor]
             $ For compatability:
-            s > ʃ / __ t͡ʃ
+            $s > ʃ / __ t͡ʃ
+		$ Expanding to handle sti reflexes:
+			s > ʃ / __ [-cont,+delrel]
 
         $ R45B Dissimilation: [č] > [t] after [š]
             $ [+delrel,-ant,+cor] > [-delrel,+ant] / ʃ __
             $ Aɡain, for compatability:
-            t͡ʃ > t / ʃ __
+            $t͡ʃ > t / ʃ __
+		$ Expanding to handle sti reflexes:
+			[-cont,-voi,+delrel] > t / ʃ __
 
 $BR > DR
 {e̯ ˈa w ə;o̯ ˈa w ə} > {e̯ ˈa;o̯ ˈa}
