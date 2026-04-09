@@ -672,11 +672,15 @@ $ R37B (vowel degemination)
             $ Also problematic. Tryinɡ addinɡ this:
             j > ∅ / [+cons,+front] __
 
+
     $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
         $ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
             $[-cont,+ant,+cor,-delrel] > [+delrel,+strid] / __ j
             [-cont,+ant,+cor,-delrel,-son] > [+delrel,+strid] / {#;[-cons]} __ j
             $ TODO also ɡain stridency - is this covered by implications?
+        
+$j ˈi > ∅ ˈɨ / [+syl] ([-syl])* __ [+son] ə
+j ˈi > ∅ ˈə / [+syl] ([-syl])* __ [+son] ə
         
         $ R42B Absorption of yod after an affricate
             j > ∅ / [+delrel] __
@@ -745,6 +749,7 @@ $
         $ R47A Raisinɡ of [ə] before [n] or [m]CV
             $ (An adaptation of) Pardess's original formulation:
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ {n;m [+cons,+lab] [+syl];ɲ} $ EDIT: added +lab and ɲ
+			
 			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
 
 $ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements (Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.)
@@ -1001,7 +1006,8 @@ j > j e / [-lab] [+voi,-nas] [-lo,αsyl,-nas] [-round,-αvoi,-nas] __ #
 j > ∅ / k __ e #
 j > r / [+lab,+voi] [+prim] __ e
 
-
+e > ə / ə [-syl,+lab] __
+ˈə [-syl,+lab] e > ˈa [-syl] ə		$Incorrectly creates fˈamə instead of fo̯ˈame, so likely bled by something related to diphthongisation somewhere)
 
 e > ə / [αson, αvoi, -cor] ˈa [+ant,-voi,+cons] __
 $e > ə / [αnas,αvoi,+cons,+ant] ˈa r __
