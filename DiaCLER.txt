@@ -139,7 +139,7 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 		$ Stops must cluster with [l] after syncope.
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
-			$ syncope between alveolars and [l]
+			$ syncope between alveolars and [l] (optional [s] in cluster)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) [+cons,-cont,+cor] __ l [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
 				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
@@ -538,7 +538,7 @@ $
             $ Pardess: ∅ > j / __ [-cons,-tense]
             $ Pardess' rule does not tense the lax e here althouɡh title suɡɡests it.
 		$ [j]-insertion only allowed after consonant cluster if cluster is [mn] (only attested with one word... FLAG -- reexamine later):
-			∅ > j / [-cons] __ [-cons,-tense]
+			∅ > j / [+syl] __ [-cons,-tense]
 			∅ > j / {#;[-cons]} [+cons] __ [-cons,-tense]
 			∅ > j / m n __ [-cons,-tense]
 		$ [ɛ] always tenses regardless of [j]-insertion:
@@ -914,7 +914,10 @@ $ these are morphological changes, not sound changes; keeping them here for now 
         j > ∅ / # __ [-cons,+syl,+hi,+front]
 
     $ R57 [yea] > [ya]
-        e̯ > ∅ / j __ [+syl,+lo]
+        e̯ > ∅ / {#;[+lab]} j __ [+syl,+lo]
+		$ EDIT: only occurs after labials and word boundary
+		$ ...and [j] gets deleted instead in these cases:
+			j > ∅ / __ e̯ [+syl,+lo]
         
 
 ɾ > r
@@ -991,7 +994,7 @@ n > m / __ [-cont,+lab]
 
 
 ${ɨ;u} > {i;o} / [+cons] __ [+cons] ([+cons])* j ˈa $ doesn't seem to be doing anything?
-j ˈa > ˈɨ / # p __ $ this only improves one word -- FLAG: reexamine later and consider for removal
+$j ˈa > ˈɨ / # p __ $ this only improves one word -- FLAG: reexamine later and consider for removal
 
 
 $Prefix Rules:
