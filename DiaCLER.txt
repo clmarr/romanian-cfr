@@ -268,6 +268,9 @@ $m > β / [+lo,-long] __ n
 
             $ R10Cb Total assimilation of velars
                 $ Pardess: [-cont,-ant,-cor] > [+ant,+cor] / [+syl,-stres] __ [+cons,+ant,+cor]
+                
+                k > p / __ t
+                
                 k > s / [+syl,-stres] __ [+ant,+cor,-voi]
                 $ŋ > n / [+syl,-stres] __ [+ant,+cor]
                 $ŋ > m / [+syl,-stres] __ [+ant,+cor]
@@ -379,8 +382,8 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
 
         $ R18E Assimilation of stops to affricates
             $ Not catchinɡ nasals because he (hopefully) didnt intend to?
-            [-son,-cont] > t͡ʃ / __ t͡ʃ
-            [-son,-cont] > d͡ʒ / __ d͡ʒ
+            [-son,-cont,-lab] > t͡ʃ / __ t͡ʃ
+            [-son,-cont,-lab] > d͡ʒ / __ d͡ʒ
 
             s > ʃ / __ t ˈɛ
             $s > ʃ / __ t i
@@ -573,6 +576,13 @@ $
             [+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round]
             [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])* [+syl,-hi,-round]
             [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])*  [+syl,-hi,-round]
+            
+            [+syl,-hi,-lo,+stres] > [-tense] / [+strid] __ (l)* (ɾ)* j u
+            ˈu > ˈɔ / __ j (l)* (ɾ)* a
+            u > e / [+strid] [+prim,-tense] (l)* (ɾ)* j __
+            a > e / ˈɔ j (l)* (ɾ)* __    $TODO: figure out where this goes...
+            $ This rule set should probably catch #torkwˈeː# > #to̯ˈart͡ʃe#, but doesn't because of stress.
+            
 		$ The following are reformulations more in-line with Pardess's original formulation, but they decrease accuracy. Reexamine later.
 		$[+syl,-hi,-lo,+stres] > [-tense] / __ ([-syl,-nas])* [+syl,-hi,-round] $ turns out nC is also prohibited!
 		$[+syl,-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-round]
@@ -786,6 +796,9 @@ $
 $ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements (Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.)
 	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback]
 
+
+           e > ə / [-delrel] __ n [+lo,+prim]
+
             $e > ɨ / # __ [+nas]
             $[-back,-lo,+syl,-prim] > ɨ / # __ n
             $[-back,-lo,+syl,-prim] > ɨ / # __ m [+lab] (ɾ) (l) [-cons]
@@ -809,6 +822,7 @@ $ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster
 
         $ R47B Raisinɡ of [e] before [n]
 		$[+syl,+front,-hi,-lo] > [+hi] / __ [+nas] doesn't work as well as the following
+            
             e > [+hi] / [+cons] __ [+cons,+nas]
             e > [+hi] / # __ [+cons,+nas]
             ə > a / # __ [+cons,+nas]
@@ -820,7 +834,7 @@ $ ADDED BY US: Raising of [ə] before non-homorganic fricative+occlusive cluster
 
 $ Non-Pardessian [i]-backing rules
 	i > ɨ / # __ [+nas]
-	i > ɨ / m __ [+nas]
+	i > ɨ / m __ [+nas] [+voi]
 
 
     $ R48 Deɡemination of [nn]: [nn] > [n]
@@ -919,6 +933,8 @@ $ these are morphological changes, not sound changes; keeping them here for now 
 		$ ...and [j] gets deleted instead in these cases:
 			j > ∅ / __ e̯ [+syl,+lo]
         
+
+∅ > j / # (ɨ m)* p __ e [-delrel]
 
 ɾ > r
 [+son,+cons] >  ∅ / [+hi] j __
@@ -1038,7 +1054,7 @@ $Stupid rule:
 
 j > j e / [-lab] [+voi,-nas] [-lo,αsyl,-nas] [-round,-αvoi,-nas] __ #
 j > ∅ / k __ e #
-j > r / [+lab,+voi] [+prim] __ e
+$j > r / [+lab,+voi] [+prim] __ e
 
 e > ə / ə [-syl,+lab] __
 ˈə [-syl,+lab] e > ˈa [-syl] ə		$Incorrectly creates fˈamə instead of fo̯ˈame, so likely bled by something related to diphthongisation somewhere)
