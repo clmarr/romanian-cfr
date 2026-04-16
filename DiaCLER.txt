@@ -65,8 +65,8 @@ $ All remaining [y]s retract.
 
 
 
-$ Highly dubious new rule: [k] voices before V{[-cont];w}[ˈoː]
-	k > ɡ / __ [+syl] {[-cont];w} ˈoː
+$ Highly dubious new rule: [k] voices before V̆{[-cont];w}[ˈoː]
+	k > ɡ / __ [+syl,-long] {[-cont];w} ˈoː
 		$ This doesn't happen for coronam for some reason, hence the exclusion of [r].
 			$ Only affects 3 words... FLAG -- reexamine later
 
@@ -221,6 +221,13 @@ $ NEW RULE: Word-final [r] deletion after stop (and vowel)
 
 $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 2:
 ʏ > ∅ / b e r __ #
+
+
+
+$ Attested well, but too specific: -tore > -tor		$ FLAG -- try to expand beyond this!
+	e > ∅ / t ˈoː r __ #
+
+
 
     $ R6 Frontinɡ of [w] to [β]
         w > β
@@ -575,7 +582,7 @@ $
             $ TODO reformulate this rule.
             [+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round]
             [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])* [+syl,-hi,-round]
-            [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])*  [+syl,-hi,-round]
+            [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])* [+syl,-hi,-round]
             
             [+syl,-hi,-lo,+stres] > [-tense] / [+strid] __ (l)* (ɾ)* j u
             ˈu > ˈɔ / __ j (l)* (ɾ)* a
@@ -856,12 +863,14 @@ e > ə / __ t
         $[-cons,+front] > [+back] / r r __
         $ Pardess calls it a 'backinɡ' but it is not simply [+back]
         $ i is just -front, e is -front,0tense
-        {e;ˈe} > {ə;ˈə} / r r __
-        {i;ˈi} > {ɨ;ˈɨ} / r r __
+        ${e;ˈe} > {ə;ˈə} / r r __
+        ${i;ˈi} > {ɨ;ˈɨ} / r r __
+		$ moved to after R56
 
     $ R51 Simplification of [rr] to [r]
         $ r r > [-rep]
-        r r > ɾ
+        $r r > ɾ
+		$ moved to after R56
 
     $ R52 {dz > z, d͡ʒ > ʒ before o/u}
         $ R52A Deaffrication of voiced alveolar affricate: [dz] > [z]
@@ -926,6 +935,14 @@ $ these are morphological changes, not sound changes; keeping them here for now 
         j > ∅ / [-hi] ([-cons,+syl,-lo])* __ [-cons,+syl,+hi,+front]
         j > ∅ / [+cons,-voi] __ [-cons,+syl,+hi,+front]
         j > ∅ / # __ [-cons,+syl,+hi,+front]
+
+
+	$ (R50 + R51)
+		{e;ˈe} > {ə;ˈə} / r r __
+        	{i;ˈi} > {ɨ;ˈɨ} / r r __
+
+		r r > ɾ
+
 
     $ R57 [yea] > [ya]
         e̯ > ∅ / {#;[+lab]} j __ [+syl,+lo]
@@ -1065,7 +1082,6 @@ $e > ə / [αnas,αvoi,+cons,+ant] ˈa r __
 [-αvoi] ˈa [+cor,+cons,αvoi] e > [+cons] [-αstres,-αprim] [+cons] [+hi,+front,αprim] / __ (k)* (r)* (ə)* #
 $e > ə / # [+cons] ([+cons])* __ ([+cons])* 
 
-
 [+syl,-hi,-lo,-prim] > i / [+syl] [+son,-lat] __ k [-prim]
 [+syl,-hi,-lo,-prim] > i / [+syl,-lo,-hi] [-delrel] __ k
 
@@ -1074,3 +1090,7 @@ i > e / {r;s;k} __ m
 
 i > e / [+lab] __ [+nas] ([-lo,+syl])* #
 
+$ [e] apocope: deleted after plosive + high vowel + [j] (sparsely attested)
+	e > ∅ / [-cont] [+syl,+hi] j __ #
+
+j > ∅ / [+cons] ˈi __ e $ although I think words with <ie> are probably all /ie/ with epenthetic [j] and the people who make phonemic transcriptions on Wiktionary need to choose one or the other
