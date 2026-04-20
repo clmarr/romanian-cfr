@@ -71,6 +71,10 @@ $ Highly dubious new rule: [k] voices before V̆{[-cont];w}[ˈoː]
 			$ Only affects 3 words... FLAG -- reexamine later
 
 
+$ Highly dubious new rule: [w]-deletion in word-initial syllables before velar consonants
+	$ Only affects 2 words... FLAG -- reexamine later
+		w > ∅ / # [+syl] __ [+cons,+back]
+
 
 [+syl] j ˈi > [+prim] j ∅
 
@@ -139,8 +143,8 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 		$ Stops must cluster with [l] after syncope.
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
-			$ syncope between alveolars and [l] (optional [s] in cluster)
-				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) [+cons,-cont,+cor] __ l [+syl]
+			$ syncope between alveolars and [l] (optional [s] or [b] in cluster)
+				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) (b) [+cons,-cont,+cor] __ l [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
 				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
@@ -150,7 +154,8 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 		$ [r] must cluster with voiced consonants after syncope.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
 		$ [rrVk] syncopates. Since this only applies to etyma related to carricare, there isn't actually a lot of evidence for it. FLAG -- reexamine later.
-			[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ k [+syl]
+			$ Actually, I think we also see it in corrigia>curea. Expanding the rule to include all velar stops...
+				[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
 
 
 	$ NEW SONORANT-FREE SYNCOPE: Syncope will occur between a fricative and an obstruent.
@@ -457,7 +462,7 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 
 
         $ R22B Occlusivization of [β]
-            β > b / [-cons] [+cons,-nas,+voi] __
+            β > b / {[-cons];#} [+cons,-nas,+voi] __
             v > b / [+cons,-syl,-nas,+voi] __
 			{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
             {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo]
@@ -577,6 +582,12 @@ $
         $ TODO should this be enabled or not?
         $ "found in MR and IR but not in AR."
 
+
+$ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
+        l > ɾ / [+syl] __ [+syl]
+        $ "It did not apply to words of Slavic oriɡin" with more info, see p100
+
+
     $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
         $ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
             $ TODO reformulate this rule.
@@ -621,8 +632,9 @@ d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that prod
 
 
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
-        l > ɾ / [+syl] __ [+syl]
+        $l > ɾ / [+syl] __ [+syl]
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
+		$ Moved to before R31
 
 
 $ R37B (vowel degemination)
