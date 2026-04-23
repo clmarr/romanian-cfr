@@ -76,6 +76,11 @@ $ Highly dubious new rule: [w]-deletion in word-initial syllables before velar c
 		w > ∅ / # [+syl] __ [+cons,+back]
 
 
+$ Highly dubious new rule: early syncope of [e] between [l] and [w]
+	$ Only affects 2 words... FLAG -- reexamine later
+		[+syl,+front,-hi,-lo,-stres] > ∅ / l __ w $ [-stres] here is redundant but including for the sake of completeness
+
+
 [+syl] j ˈi > [+prim] j ∅
 
 e > a / # __ k k $ TODO: see if we can generalize beyond this!
@@ -585,7 +590,7 @@ $
 
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         l > ɾ / [+syl] __ [+syl]
-        l > e ɾ / [+syl] j __ [+syl]
+        l > e ɾ / [+syl] j __ [+syl] $ both of the words that this fixes have dubious etymologies... FLAG -- reexamine later
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
 
 
