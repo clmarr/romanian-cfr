@@ -1033,10 +1033,10 @@ $Yod-Deletion
 j > ∅ / ˈa __ r
 $j > e̯ / [+cons,+voi] __ ˈa ([+cons,-syl])* ə
 j > e̯ / ɡ __ ˈa
-ɡ j ˈɨ > ɡ ˈi
+i > ∅ / f __ j [+syl]
+j ˈɨ > ˈi / [+cons,-son,-cor] __
 j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi] [-cont]
 j > ∅ / __ ˈe t e
-$e > ∅ / __ j #
 
 
 $Nasal assimilation
@@ -1059,11 +1059,6 @@ $Prefix Rules:
 a ˈu n e > ə ˈu n / __ # $ needs reexamined
 
 
-$j e > a / # __ r [+syl,+hi]
-j e > ∅ / # __ r [+syl,-prim]
-j e > a / # __ r ˈi
-
-
 [+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ #
 a [+syl,-stres] > a / # __
 $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
@@ -1076,29 +1071,29 @@ u > w / [+syl] __ $ TODO: generalize later
 
 
 $ NEW RULE: Backwards [n]-spreading across affricate+[i]
-	∅ > n / [+syl] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
-	∅ > n / n [+syl,-lo] __ [+delrel,-cont,+ant] [+syl] #
+	∅ > n / [+front,+hi] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
+	∅ > n / n [+syl,-lo] __ [+delrel,-cont,+ant] [+syl] #  $would be caught by previous rule if vowel was correct (ə > i rule feeding)
 	$Somehow need to capture d͡ʒinˈukj >> d͡ʒenˈunkj.
 	
 	r > n / [+syl,-lo] __ ([-syl,-cons])* [+syl] n [+syl,-hi] #
 	
 $Stupid rule:	
 	r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
-	
 
 j > j e / [-lab] [+voi,-nas] [-lo,αsyl,-nas] [-round,-αvoi,-nas] __ #
-j > ∅ / k __ e #
+j > ∅ / [+syl] k __ e #
 $j > r / [+lab,+voi] [+prim] __ e
 
-e > ə / ə [-syl,+lab] __
 ˈə [-syl,+lab] e > ˈa [-syl] ə		$Incorrectly creates fˈamə instead of fo̯ˈame, so likely bled by something related to diphthongisation somewhere)
 
-e > ə / [αson, αvoi, -cor] ˈa [+ant,-voi,+cons] __
-$e > ə / [αnas,αvoi,+cons,+ant] ˈa r __
+e > ə / [αson, αvoi, -cor] ˈa [+ant,-voi,-lat,+cor] __
 
 [-αvoi] ˈa [+cor,+cons,αvoi] e > [+cons] [-αstres,-αprim] [+cons] [+hi,+front,αprim] / __ (k)* (r)* (ə)* #
 $e > ə / # [+cons] ([+cons])* __ ([+cons])* 
+ə > i / # [+cons,+lab,+voi,-nas] __ [+ant,-voi,+strid]
+b > v / __ [+syl,+hi,-back] t͡s
 [+syl,-hi,-lo,-prim] > i / [+syl] [+son,-lat] __ k [-prim]
+
 
 [+syl,-hi,-lo,-prim] > i / [+syl,-lo,-hi] [-delrel] __ k
 
