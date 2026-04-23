@@ -585,6 +585,7 @@ $
 
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         l > ɾ / [+syl] __ [+syl]
+        l > e ɾ / [+syl] j __ [+syl]
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
 
 
@@ -611,7 +612,8 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
             ∅ > a / [+prim,-tense] __
             a > ˈa / [-tense,+stres] __
 
-            j l > l j / [+syl] [+syl] __ 
+            $l j > j / [+syl] [+syl] __ 
+            
             ˈa e > ˈa w ə / __ #
 
             [-cons,-tense] > [-syl] / __ [+syl] $ doesn't happen when no a-insertion occurs
@@ -745,6 +747,7 @@ j ˈi > ∅ ˈə / [+syl] ([-syl])* __ [+son] ə
         ə > e / [+cons,+hi,+front] __
         
         
+        
 $Inserted rule: fronting of u after an obstruent and before an [n]-voiceless plosive cluster.  
 	u > ɨ / [-son] __ n [-cont,-voi]
 		$ Also should be noted that this rule only fixes a couple of words, so it is dubious. FLAG: reexamine later.
@@ -865,7 +868,9 @@ e > ə / [+cons,+cor,-lab,-delrel] [-prim,+syl] [-lab,+cons,+son,+ant] __ #
 e > ə / [+cons,+cor,-lab,+delrel] [-prim,+syl,-hi] [-lab,+cons,+son,+ant] __ #
 $e > ə / [+cons,+cor,-lab] [-prim,+syl] [-lab,+cons,+son,+ant] __ #       Previous rules do not capture cases where ɡ > d͡ʒ incorrectly applied.
 e > ə / [-prim,+syl] [-lab,+cons,+son,+ant] __ t
-e > ə / __ t
+
+$e > ə / [αstrid,ǃαant] __ t
+e > ə / [+voi,+cons,-cont,-strid] __ t
 
     $ R49 Raisinɡ of [ə] before [r,s] plus consonant
         ə > ɨ / __ {ɾ;r} [+cons] [+hi,+syl]
@@ -1093,8 +1098,8 @@ $e > ə / [αnas,αvoi,+cons,+ant] ˈa r __
 
 [-αvoi] ˈa [+cor,+cons,αvoi] e > [+cons] [-αstres,-αprim] [+cons] [+hi,+front,αprim] / __ (k)* (r)* (ə)* #
 $e > ə / # [+cons] ([+cons])* __ ([+cons])* 
-
 [+syl,-hi,-lo,-prim] > i / [+syl] [+son,-lat] __ k [-prim]
+
 [+syl,-hi,-lo,-prim] > i / [+syl,-lo,-hi] [-delrel] __ k
 
 i > e / # [+cons,-nas] __ [+nas] [+cont,-lo]
@@ -1106,3 +1111,6 @@ $ [e] apocope: deleted after plosive + high vowel + [j] (sparsely attested)
 	e > ∅ / [-cont] [+syl,+hi] j __ #
 
 j > ∅ / [+cons] ˈi __ e $ although I think words with <ie> are probably all /ie/ with epenthetic [j] and the people who make phonemic transcriptions on Wiktionary need to choose one or the other
+
+ə > e / p __ [+ant,+cons,-strid] ˈe
+ə > e /[+front,+prim] p __ [+ant,+cons,-strid] 
