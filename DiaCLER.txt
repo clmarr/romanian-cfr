@@ -65,7 +65,7 @@ $ All remaining [y]s retract.
 
 
 
-$ Highly dubious new rule: [k] voices before V̆{[-cont];w}[ˈoː]
+$ Highly dubious new rule: [k] voices before V̆{[-cont];w}[ˈoː]		(reflecting voiced aspirate stops>w in latin?)
 	k > ɡ / __ [+syl,-long] {[-cont];w} ˈoː
 		$ This doesn't happen for coronam for some reason, hence the exclusion of [r].
 			$ Only affects 3 words... FLAG -- reexamine later
@@ -79,6 +79,11 @@ $ Highly dubious new rule: [w]-deletion in word-initial syllables before velar c
 $ Highly dubious new rule: early syncope of [e] between [l] and [w]
 	$ Only affects 2 words... FLAG -- reexamine later
 		[+syl,+front,-hi,-lo,-stres] > ∅ / l __ w $ [-stres] here is redundant but including for the sake of completeness
+
+
+$ EXTREMELY dubious new rule: intervocalic [n]-tapping before stressed vowel and ***cluster*** with [r]
+	$ Only affects fenestra>fereastră... FLAG -- reexamine later
+		n > r / [+syl] __ [+stres] ([-syl])+ r
 
 
 [+syl] j ˈi > [+prim] j ∅
@@ -149,7 +154,7 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
 			$ syncope between alveolars and [l] (optional [s] or [b] in cluster)
-				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) (b) [+cons,-cont,+cor] __ l [+syl]
+				[+syl,+hi,-long,-stres] > ∅ / [+syl] ({s;b}) [+cons,-cont,+cor] __ l [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
 				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
@@ -351,6 +356,7 @@ $m > β / [+lo,-long] __ n
         $ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
         $ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
         e > ∅ / # __ [+strid,+ant] [+cons]
+	$ Doesn't happen in exi>ieși... [e] reinforced by palatal vowel? But this doesn't bear out for other forms with palatal vowels...
 
     $ R15 Contraction of vowels
         [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
@@ -710,7 +716,10 @@ $ R37B (vowel degemination)
     $ R40 Diphthonɡization of [i]: [i] > [yi]
     	${i;ˈi} > {j i;j ˈi} / # [+cons] __
     	${i;ˈi} > {j i;j ˈi} / [-cons] [+cons] __
-        ∅ > j / [+cons] __ [+syl,+front,+hi]
+        $∅ > j / [+cons] __ [+syl,+front,+hi]
+		$ EDIT: only occurs after obstruents and [l]
+			∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+			∅ > j / l __ [+syl,+front,+hi]
 
     $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment}
         $ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]
@@ -744,7 +753,8 @@ j ˈi > ∅ ˈə / [+syl] ([-syl])* __ [+son] ə
         $ l > [+hi,-ant] / [-cont,-ant,-cor] __
         $ For now ɡoinɡ to run with this:
         l > ʎ / [-cont,-ant,-cor] __
-        l > ʎ / [-cont,-ant,-cor] e __
+
+        $l > ʎ / [-cont,-ant,-cor] e __
 
     $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
         $ə > e / [-cont,+hi,-strid] __
@@ -794,8 +804,11 @@ $
             [-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,-front]
 		[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ [+syl] ([-syl])* [+syl,-front]
             $ Pardess considers a to be +back. So I'm addinɡ:
-            [-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,+lo]
-            [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ [+syl] ([-syl])* [+syl,+lo]
+            $[-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,+lo]
+            $[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ [+syl] ([-syl])* [+syl,+lo]
+		$ EDIT: e̯ˈa not affected!
+			[-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ ([-syl,+cons])* [+syl,+lo]
+			[-cons,-back,-hi,-lo,+syl] > [-front,0tense] / [+cons,+lab] __ [+syl] ([-syl,+cons])* [+syl,+lo]
             
             $ə > e / [-voi] __ ɾ j
 
@@ -992,9 +1005,10 @@ $ NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
 
     $ R59 {Word-final hiɡh vowel chanɡes}
         $ R59A Devoicinɡ of word-final [u] and [i] except after a consonant plus a liquid
-            [+syl,+hi,-stres] > w / [+cons] [+cons,+cont,+son] __ #
+            [+syl,+hi,-stres] > [-syl] / [+cons] [+cons,+son,-nas] __ #
+		$ edited to be [-nas], as it seems to be what Pardess meant by "liquid" (this also improved accuracy)
             [+syl,+hi,-stres] > [-voi,-syl] / __ #
-            [-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
+            $[-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
             $ TODO Have not implemented exception
             $ TODO ^to do this: just keep the ɡlobal rule then undo it when needed.
             $ Problem: catches wentum > vîntu, makinɡ it vînt
@@ -1002,11 +1016,11 @@ $ NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
 		$ Solution?: Given R59C, seems Pardess actually wants this to not happen after vowels. Also, Pardess gives examples of it happening after semivowels. So:
 		[-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+syl] __ #
 
-e > ə / # (j)* ([+cons,-voi])* __ (+cons)* (-cons)* (+cons)* (-cons)* (+cons)* (-cons)* (+cons)* (-cons)* [+cons,-voi] w̥ #
+e > ə / # s __ (@)* [+cons,-voi] w̥ #
 
         $ R59B Loss of word-final voiceless [w̥]
-            w̥ > ∅ / [+cons] __
-            w̥ > ∅ / j __ #
+            w̥ > ∅ / [-syl] __ #
+            $w̥ > ∅ / j __ #
             m n w > m n
             {w;w̥;j̊} > {u;w;j}
             u > ∅ / u __
