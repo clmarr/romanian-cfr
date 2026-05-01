@@ -367,6 +367,12 @@ t > t͡s / # (e n) __ [+syl,-back,-prim,-long] l
 
 $l > ∅ / [+syl,-back,-long] __ j [+syl,+lo]
 
+
+$ NEW RULE: [e] apocope after long vowels
+	$e > ∅ / {#;[+syl]} [+lab,+cons] ([+son]) [+long] [+cons] __ #
+		$ Doesn't work -- workshop later.
+
+
     $ R16 Loss of vowel lenɡth
         [+syl] > [-long]
         
