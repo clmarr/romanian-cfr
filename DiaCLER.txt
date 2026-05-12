@@ -184,11 +184,11 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 $ NEW RULE(s): Velar repulsion of [r]
 	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous syllable.
 		$ This repulsion cannot push the [r] across a [+back] vowel.
-		$ The [r] can only jump from a two-consonant cluster to (1) a one-consonant cluster or (2) a nasal-initial cluster.
+		$ The [r] can only jump from a two-consonant cluster to (1) a one-consonant cluster or (2) a nasal-initial cluster. (Following [j] allowed.)
 		$ The [r] cannot jump to another [+back] consonant.
 		$ The [r] must jump to a stop.
 			$ rC case:
-				∅ [+syl,-back] r > r [+syl] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [-syl,+back] [+syl]
+				∅ [+syl,-back] r > r [+syl] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [-syl,+back] (j) [+syl]
 			$ Cr case ([w] is interpreted as part of the vowel in this case, not as a consonant, probably due to its position in the syllable):
 				∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [+syl]
 					$ this final [+syl] is actually irrelevant given our data and the phonotactics of Latin
@@ -458,7 +458,8 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
         $ R22A Word-inital [β] > [v]
          $ Including prefixal analogies for utility.
             β > v / # (e n) (k o n) (r e) __
-            β > v / [+syl] __ ˈe
+            β > v / [+syl,+front,-hi] __ [+syl,+front,-hi,-lo,+tense] [+cons,+voi,-lat] $ avea (inf.) analogical?
+		β > v / [+syl] __ ˈe $ to fix avea infinitive for now
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
 
 β > ∅ / ɡ __
@@ -481,8 +482,8 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
         $ R22B Occlusivization of [β]
             β > b / {[-cons];#} [+cons,-nas,+voi] __
             v > b / [+cons,-syl,-nas,+voi] __
-			{v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* 
-            {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo]
+			${v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* $ not doing anything
+            {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo] $ only fixes one word(?)--suspicious
        		$β > b / [+cons,-syl,-nas] __
             $ Problem: quaeroo -> cer
             $ Look into this. I find this chanɡe hiɡhly unlikely for stops.
@@ -928,7 +929,6 @@ e > ə / [+voi,+cons,-cont,-strid] __ t
 			$[-son,+delrel,-ant] > [+cont] / [-cons,+hi] ([+cons])* __ [-cons,+round,-hi] ([-cons])* [+cor]
 			$[-son,+delrel,-ant] > [+cont] / ə ([+cons])* __ [-cons,+round] ([-cons])* [+cor]
 			
-			
 			[-son,+delrel,-ant] > [+cont] / # [+syl,+back] __ [+back]
 			$[-son,+delrel,-ant] > t͡s / __ [αprim,αfront] #
 			[-son,+delrel,-ant] > t͡s / __ u #
@@ -944,6 +944,7 @@ e > ə / [+voi,+cons,-cont,-strid] __ t
             e̯ ˈa > ˈa / ʃ __
             e̯ a > a / t͡s __
             e̯ ˈa > ˈa / t͡s __ [+voi]
+
             $e̯ ˈa > ˈɨ / __ t͡s
             e̯ ˈa > ˈe / t __ j
 
@@ -968,7 +969,7 @@ $ these are morphological changes, not sound changes; keeping them here for now 
         ɲ > n / # __
         ɨ ɲ > n / __ e̯ ˈa #
         ɲ > j
-        n w̥ > j u / __ #
+        $n w̥ > j u / __ #
 
     $ R56 Loss of yod before [i]
         $j > ∅ / __ i
@@ -1049,9 +1050,10 @@ $Temporary: Rules with no relative chronology (TODO)
 
 
 $Stress changes        
-[-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ #
+$[-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ # $ This was only fixing words in the lexicon that were erroneously given in the second conjugation instead of the third. And mulge. Wiktionary suggests that mulge changed conjugations in VL. We should ask Clayton about this.
+$b ə t ˈe > b ˈa t [-stres] $ This was only fixing words in the lexicon that were erroneously given in the second conjugation instead of the third.
+
 [-cons,+syl,+hi,-stres] n ˈe > [+prim] n [-stres] / {[-cont];[+son,-nas]} __ $ this may be overfitting at this point, and because of t>ts in tenere>tsine, this probably takes place much earlier in the cascade... TODO: investigate this later
-b ə t ˈe > b ˈa t [-stres]
 
 
 $Yod-Deletion
@@ -1084,7 +1086,7 @@ $Prefix Rules:
 a ˈu n e > ə ˈu n / __ # $ needs reexamined
 
 
-[+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ #
+[+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ # $ this only improves one word -- FLAG: reexamine later and consider for removal
 a [+syl,-stres] > a / # __
 $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
 
@@ -1111,9 +1113,9 @@ $j > r / [+lab,+voi] [+prim] __ e
 
 ˈə [-syl,+lab] e > ˈa [-syl] ə		$Incorrectly creates fˈamə instead of fo̯ˈame, so likely bled by something related to diphthongisation somewhere)
 
-e > ə / [αson, αvoi, -cor] ˈa [+ant,-voi,-lat,+cor] __
+e > ə / [αson,αvoi,-cor] ˈa [+ant,-voi,-lat,+cor] __ $ this only improves one word -- FLAG: reexamine later and consider for removal
 
-[-αvoi] ˈa [+cor,+cons,αvoi] e > [+cons] [-αstres,-αprim] [+cons] [+hi,+front,αprim] / __ (k)* (r)* (ə)* #
+$[-αvoi] ˈa [+cor,+cons,αvoi] e > [+cons] [-αstres,-αprim] [+cons] [+hi,+front,αprim] / __ (k)* (r)* (ə)* #
 $e > ə / # [+cons] ([+cons])* __ ([+cons])* 
 ə > i / # [+cons,+lab,+voi,-nas] __ [+ant,-voi,+strid]
 b > v / __ [+syl,+hi,-back] t͡s
@@ -1133,4 +1135,4 @@ $ [e] apocope: deleted after plosive + high vowel + [j] (sparsely attested)
 j > ∅ / [+cons] ˈi __ e $ although I think words with <ie> are probably all /ie/ with epenthetic [j] and the people who make phonemic transcriptions on Wiktionary need to choose one or the other
 
 ə > e / p __ [+ant,+cons,-strid] ˈe
-ə > e /[+front,+prim] p __ [+ant,+cons,-strid] 
+ə > e / [+front,+prim] p __ [+ant,+cons,-strid] 
