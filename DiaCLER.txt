@@ -22,7 +22,13 @@ $ ae simplification rules
 	$ ae simplifies when between a nonlateral anterior consonant and a coronal (order matters)
 		e̯ > ∅ / [+ant,-lat,+cons] [+lo] __ [+cor]
 
-u > w / u __ $ viduum fixing
+u > w / u __ $ viduum fixing (still isn't working)
+
+
+$ New rule: cōn- stressing.
+	[+long,+round,-hi] > [+prim] / # k __ n ([-syl])* [+round,+prim]
+	[+prim] > [-stres] / [+prim] ([-syl])* __
+
 
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
 
@@ -39,7 +45,6 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
 
     $ ensure orthoɡraphic -ɡn- cluster is phonemically fully nasal - should be applied in lexicon but just in case:
         ɡ > ŋ / __ n
-
 
 
 $ Found a better explanation of this (see immediately below).
@@ -69,6 +74,13 @@ $ Highly dubious new rule: [k] voices before V̆{[-cont];w}[ˈoː]		(reflecting 
 	k > ɡ / __ [+syl,-long] {[-cont];w} ˈoː
 		$ This doesn't happen for coronam for some reason, hence the exclusion of [r].
 			$ Only affects 3 words... FLAG -- reexamine later
+
+
+$ Extremely dubious new rule: labial-attractive metathesis
+	$ Only affects aucupare>apuca... FLAG -- reexamine later
+		$ In theory: [-cont,-lab,αcor,βback] [+syl] [-cont,+lab] > [+lab,0cor,0back] [+syl] [-lab,αcor,βback] / [+lab] __
+		$ We only need to alter one word, so:
+			k [+syl] p > p [+syl] k / [+lab] __
 
 
 $ Highly dubious new rule: [w]-deletion in word-initial syllables before velar consonants
@@ -127,7 +139,7 @@ $ Our addition: desyllabification of vowels between stressed vowel and word boun
 
 
 $ NEW RULE: Syncope of palatal vowels in word-initial syllables to create [-cont]rV(N)[-cont] syllables
-	[+syl,+front,-lo] > ∅ / # ([+syl,+front,+hi] n) [-cont] __ r [+syl] ([+nas]) [-cont]
+	[+syl,+front,-lo,-stres] > ∅ / # ([+syl,+front,+hi] n) [-cont] __ r [+syl] ([+nas]) [-cont]
 		$ parenthetical included for utility, but this is really an analogical process
 
 
@@ -217,8 +229,16 @@ $ L-Metathesis (our addition)
             $ Pardess also mentions kwen > kwene >> DR cine
 		$ ...but using ∅ > e / [+son,+cons,+cor] __ # instead reduces accuracy. Wiktionary says cine is inherited from a different VL form (quene, not quem)
 
+
+$ Highly dubious new rule: [-ro~u] apocope after singleton [t]
+	$ Only affects 2 words... FLAG -- reexamine later
+		r [+syl,-stres,+round] > ∅ / [+syl] t __ #
+
+
+
 $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 1:
 ∅ > ʏ / b e r __ #
+
 
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
@@ -233,6 +253,7 @@ $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis 
 
 $ NEW RULE: Word-final [r] deletion after stop (and vowel)
 	r > ∅ / [-cont] [+syl] __ #
+
 
 $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 2:
 ʏ > ∅ / b e r __ #
@@ -1051,7 +1072,7 @@ $Temporary: Rules with no relative chronology (TODO)
 
 
 $Stress changes        
-$[-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ # $ This was only fixing words in the lexicon that were erroneously given in the second conjugation instead of the third. And mulge. Wiktionary suggests that mulge changed conjugations in VL. We should ask Clayton about this.
+$[-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ # $ This was only fixing words in the lexicon that were erroneously given in the second conjugation instead of the third. And mulge. Wiktionary suggests that mulge changed conjugations in VL. We should ask Clayton about this. FLAG
 $b ə t ˈe > b ˈa t [-stres] $ This was only fixing words in the lexicon that were erroneously given in the second conjugation instead of the third.
 
 [-cons,+syl,+hi,-stres] n ˈe > [+prim] n [-stres] / {[-cont];[+son,-nas]} __ $ this may be overfitting at this point, and because of t>ts in tenere>tsine, this probably takes place much earlier in the cascade... TODO: investigate this later
