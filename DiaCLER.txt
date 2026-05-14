@@ -1132,7 +1132,9 @@ i > e / [+lab] __ [+nas] ([-lo,+syl])* #
 $ [e] apocope: deleted after plosive + high vowel + [j] (sparsely attested)
 	e > ∅ / [-cont] [+syl,+hi] j __ #
 
-j > ∅ / [+cons] ˈi __ e $ although I think words with <ie> are probably all /ie/ with epenthetic [j] and the people who make phonemic transcriptions on Wiktionary need to choose one or the other
+$j > ∅ / [+cons] ˈi __ e $ although I think words with <ie> are probably all /ie/ with epenthetic [j] and the people who make phonemic transcriptions on Wiktionary need to choose one or the other $ EDIT: updated lexicon file to only have epenthetic [j]
+∅ > j / ˈi __ e $ to fix the ones that end up in hiatus after beta-deletion
+i > j / [+syl] __ $ only fixing gallinaceum>gainat; perhaps this word is actually an exception to the anti-hiatus tendency of Romanian diachrony?
 
 ə > e / p __ [+ant,+cons,-strid] ˈe
 ə > e / [+front,+prim] p __ [+ant,+cons,-strid] 
