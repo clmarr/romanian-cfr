@@ -22,6 +22,7 @@ $ ae simplification rules
 	$ ae simplifies when between a nonlateral anterior consonant and a coronal (order matters)
 		e̯ > ∅ / [+ant,-lat,+cons] [+lo] __ [+cor]
 
+
 u > w / u __ $ viduum fixing (still isn't working)
 
 
@@ -185,6 +186,11 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 			$ This hypothesis is only supported by one word... either try to find more examples or consider for removal.
 
 
+	$ There seems to be an oddball syncope in monticellus>muncel. We can condition a nasal-plosive cluster–plosive syncope to only occur pretonically and after a round vowel, but this is hyperspecific and ought to be reexamined in the future. FLAG
+		[+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-cont,-delrel] __ [-cont,-delrel] [+prim]	
+			$ The now cluster-medial [t] is then deleted--incorporating this into later [nkt]>[nt] rule.
+
+
 {ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
         
 
@@ -280,7 +286,9 @@ $ Attested well, but too specific: -tore > -tor		$ FLAG -- try to expand beyond 
         [-son] > ∅ / __ [+strid] [-son]
 
     $ R9 Deletion of [k]: [nkt] > [nt]
-        k > ∅ / n __ t
+        $k > ∅ / n __ t
+        	$ EDIT: expanding to encompass all nTT clusters
+        		[-cont] > ∅ / n __ [-cont]
 
     $ R10 {Various consonant assimilations}
         $ R10A Assimilation of [r] to [s] (sporadic)
@@ -382,7 +390,7 @@ $m > β / [+lo,-long] __ n
     $ R15 Contraction of vowels
         [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
        
-t [+syl,+long,-stres,-hi] s > t͡s j / __ #
+$t [+syl,+long,-stres,-hi] s > t͡s j / __ #
 t > t͡s / [+syl] ([-son,+cons])* __ [+syl,-back,-long] l
 t > t͡s / # (e n) __ [+syl,-back,-prim,-long] l
 
