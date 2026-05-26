@@ -144,13 +144,19 @@ $ NEW RULE: Syncope of palatal vowels in word-initial syllables to create [-cont
 		$ parenthetical included for utility, but this is really an analogical process
 
 
+$ NEW RULE: in a two-stop cluster, the first consonant nasalizes in this position. FLAG -- this only affects nuptiae>nunti; reexamine later.
+	$ Rule placed here instead of with later [n]-spreading rule because this happens in Aromanian (see numtã) while later [n]-spreading does not (see minut).
+		$ Except moving the other rule to after split ruins conditioning...FLAG -- fix later
+			[-cont] > [+voi,+nas,+cont,+son] / n [+syl,+hi,+round] __ [-cont] [-cons] $ why is the restriction that the n must be preceded by a vowel (present in later rule) not present here?
 
-$ NEW RULE: Forward spreading of [n] to singleton stop across [u]
-	∅ > n / [+syl] n [+syl,+hi,+round] __ [-cont] [+syl]
+
+$ NEW RULE: Forward spreading of [n] to singleton stop across [(ˈ)u]
+	∅ > n / [-cons] n [+syl,+hi,+round] __ [-cont,-son] [-cons]
+	
 
 $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 	n > r / [+syl] __ [+syl,+hi,+round] [+nas]
-
+	
 
 
     $ R4 {Syncope, Dissimilation of [tl]}
@@ -267,8 +273,19 @@ $ wonky fix for uber>uger for now, but we need to actually fix the r metathesis 
 
 
 $ Attested well, but too specific: -tore > -tor		$ FLAG -- try to expand beyond this!
-	e > ∅ / t ˈoː r __ #
+	$ EDIT: doesn't affect putorem>putoare for some reason? blocking it from occurring after round segments fixes it, but now we have an even more hyperspecific rule...
+		e > ∅ / [-round] t ˈoː r __ #
 
+
+$ NEW RULE: Interlabial rounding of /a/.
+	$ Does not occur before [b].
+	$ Does not occur after [p].
+	$ Does not occur in familiam>fəmeje...no idea why, given that famem>foamə. FLAG -- investigate more later.
+		[+syl,+lo] > [-lo,-front,+back,+round,+lab] / {[+lab,+voi,+cons];f} __ [+lab,αvoi,αnas]
+
+
+$ NEW RULE: [p]-deletion between non-palatal vowels and stops.
+	p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
 
 
     $ R6 Frontinɡ of [w] to [β]
@@ -344,9 +361,11 @@ $m > β / [+lo,-long] __ n
         ∅ > i / # __ s [+cons,-son]
         $ Problem: scire -> *eʃt͡ʃˈire (s̩ti)
 
+ˈi j > ˈiː $ diem fixing
+
     $ R13 {Many sequential vowel chanɡes}
         $ R13A Lenɡtheninɡ of second vowel in vowel combinations and concommitant shift in stress
-            [-lo,+prim] [-cons] > [-stres] [+long,+prim]
+            [-lo,+prim] [-cons] > [-stres] [+long,+prim] / __ @
             ${ˈi e;ˈe o} > {i ˈeː;e ˈoː}
             $ Didn't affect deum - Pardess says nothinɡ about this.
 		$ Appears not to happen word-finally... at least most of the time. Investigate in more detail later.
@@ -442,12 +461,17 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
             $ Not catchinɡ nasals because he (hopefully) didnt intend to?
             [-son,-cont,-lab] > t͡ʃ / __ t͡ʃ
             [-son,-cont,-lab] > d͡ʒ / __ d͡ʒ
-
+            [-son,-cont,-lab] > t͡s / __ t͡s
+            [-son,-cont,-lab] > d͡z / __ d͡z
+            
+            [-son,+cons,-lab] > ∅ / __ [+delrel]
+			
             s > ʃ / __ t ˈɛ
             $s > ʃ / __ t i
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
         {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __ $ see pardess's prânju > prândzu (p.73) for inclusion of ([+nas])
+        
         [-son,+cons,-lab] > ∅ / __ [+delrel]
         
         	$[-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
@@ -613,6 +637,7 @@ $
 	o > u / __ {[-syl,+lab,+voi];[-syl,-lab]} {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} $ ...blocks sonorant-final clusters while letting sonorant-initial clusters pass through
 	o > u / __ {r r;l l;n n;m m} $ geminate handling
 	$ new conditioning. blocked by p in following consonant cluster (up to two phones away) or double sonorant (geminates OK). breaks koktorium>cuptor but everything else works
+		$ now that we have [p]-deletion and know that it has to precede k>p, vocalism in baptidza(re)>boteza and baptidionem>botejune are no longer accurately explained by this conditioning... FLAG -- reexamine later
 
     $ R29 {ELLU-related chanɡes (Not reɡular)}
         $ R29A Loss of stress in the postposed forms of 'ellu
