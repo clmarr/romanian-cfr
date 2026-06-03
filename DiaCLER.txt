@@ -106,6 +106,11 @@ eː > a / # __ ([+cons])* [+hi]
 $[+syl,-hi,-lo,-back,αlong] > a / # __ [+cons,αvoi,-αcont] ([+cons,αvoi,-αcont])* ([-syl,-cons])* [+hi,+syl]
 
 
+$ [d] assimilations
+	d > l / [+syl,+lo] __ l
+	d > ∅ / [+syl,+lo] __ [-syl] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for l, so inserting another rule above that takes care of this
+
+
 $ CHAPTER 4
 $ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
 $ (FIRST THROUGH SIXTH CENTURIES A.D.)
@@ -185,11 +190,15 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 		$ [rrVk] syncopates. Since this only applies to etyma related to carricare, there isn't actually a lot of evidence for it. FLAG -- reexamine later.
 			$ Actually, I think we also see it in corrigia>curea. Expanding the rule to include all velar stops...
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
+		$ Syncope between nasals and stops must come after [(ˈ)i(ː)] and before an unstressed nonlow vowel. (Other consonant allowed after the stop.) Poorly evidenced. FLAG -- reexamine later.
+			[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ([-syl]) [+syl,-stres,-lo]
 
 
 	$ NEW SONORANT-FREE SYNCOPE: Syncope will occur between a fricative and an obstruent.
 		[+syl,+hi,-long,-stres] > ∅ / [+syl] [-son,+cont] __ [-son] [+syl]
 			$ This hypothesis is only supported by one word... either try to find more examples or consider for removal.
+		$ Can also occur when fricative is followed by a stop, but only when preceding vowel is [+hi]? (Unsure on conditioning. FLAG -- reexamine later.)
+			[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
 
 
 	$ There seems to be an oddball syncope in monticellus>muncel. We can condition a nasal-plosive cluster–plosive syncope to only occur pretonically and after a round vowel, but this is hyperspecific and ought to be reexamined in the future. FLAG
@@ -215,7 +224,7 @@ $ NEW RULE(s): Velar repulsion of [r]
 				∅ [+syl,-back] r > r [+syl] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [-syl,+back] (j) [+syl]
 			$ Cr case ([w] is interpreted as part of the vowel in this case, not as a consonant, probably due to its position in the syllable):
 				∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [+syl]
-					$ this final [+syl] is actually irrelevant given our data and the phonotactics of Latin
+					$ note that this final [+syl] is actually irrelevant given our data and the phonotactics of Latin
 
 $ Added: necessary for kw reflections. Counterbled by final-nasal deletion.
 	$ EDIT: this only happens in the onset of word-initial syllables. conditioning adjusted accordingly
@@ -280,8 +289,9 @@ $ Attested well, but too specific: -tore > -tor		$ FLAG -- try to expand beyond 
 $ NEW RULE: Interlabial rounding of /a/.
 	$ Does not occur before [b].
 	$ Does not occur after [p].
-	$ Does not occur in familiam>fəmeje...no idea why, given that famem>foamə. FLAG -- investigate more later.
-		[+syl,+lo] > [-lo,-front,+back,+round,+lab] / {[+lab,+voi,+cons];f} __ [+lab,αvoi,αnas]
+	$ Does not occur in familiam>fəmeje...no idea why, given that famem>foamə.
+		$ EDIT: Maybe this is just because it won't happen when following syllable contains a stressed vowel? Adding this to the rule, but it seems poorly motivated...FLAG -- reexamine later.
+		[+syl,+lo] > [-lo,-front,+back,+round,+lab] / {[+lab,+voi,+cons];f} __ [+lab,αvoi,αnas] ([-syl])* [-stres]
 
 
 $ NEW RULE: [p]-deletion between non-palatal vowels and stops.
@@ -305,7 +315,8 @@ $ NEW RULE: [p]-deletion between non-palatal vowels and stops.
     $ R9 Deletion of [k]: [nkt] > [nt]
         $k > ∅ / n __ t
         	$ EDIT: expanding to encompass all nTT clusters
-        		[-cont] > ∅ / n __ [-cont]
+        		$ ADDITIONAL EDIT: expanding to encompass all clusters of consonant + stop + voiceless obstruent
+        			[-cont] > ∅ / [+cons] __ [-son,-voi]
 
     $ R10 {Various consonant assimilations}
         $ R10A Assimilation of [r] to [s] (sporadic)
@@ -701,11 +712,6 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
     $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
         {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
 
-
-d > l / # a __ l
-d > ∅ / # a __ [+cons] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for l, so inserting another rule above that takes care of this
-
-
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         $l > ɾ / [+syl] __ [+syl]
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
@@ -953,8 +959,8 @@ $e > ə / [αstrid,ǃαant] __ t
 e > ə / [+voi,+cons,-cont,-strid] __ t
 
     $ R49 Raisinɡ of [ə] before [r,s] plus consonant
-        ə > ɨ / __ {ɾ;r} [+cons] [+hi,+syl]
-        ə > ɨ / __ s [+cons] [+hi,+syl]
+        ə > ɨ / __ ɾ [+cons,-cont,+cor,+ant] $ only happens when the consonant is an alveolar occlusive. împărți could be analogical since it's transparently derived from parte and a/ă alternation is common in Romanian.
+        $ə > ɨ / __ s [+cons] [+hi,+syl] $ The one example of this occurring in our lexicon is already handled by the rule "Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements" in the middle of R47. The only other example given by Pardess is a borrowing from Bulgarian.
 
     $ R50 backinɡ of front vowels after [rr]
         $[-cons,+front] > [+back] / r r __
