@@ -18,12 +18,27 @@ $ I suspect that the same morphological change that occurred with the typical in
 $ ae simplification rules
 	$ ae simplifies when between word boundary and sonorant (order irrelevant; vowels count)
 		e̯ > ∅ / # [+lo] __ [+son]
-		e̯ > ∅ / [+son] [+lo] __ #
-	$ ae simplifies when between a nonlateral anterior consonant and a coronal (order matters)
-		e̯ > ∅ / [+ant,-lat,+cons] [+lo] __ [+cor]
+		$e̯ > ∅ / [+son] [+lo] __ #
+		$ EDIT: turns out, this only occurs in genae > geană. exchanging [+son] with [+nas], but this is very poorly attested. FLAG -- reexamine later.
+			e̯ > ∅ / [+nas] [+lo] __ #
+	$ ae simplifies when between a labial consonant (w/ optional [r] in cluster) and a coronal (order matters)
+		e̯ > ∅ / [+lab,+cons] (r) [+lo] __ [+cor]
 
 
 u > w / u __ $ viduum fixing (still isn't working)
+
+
+$ Extremely dubious new rule: cVv > qu
+	$ Only affects civitatem > cetate... FLAG -- reexamine later.
+		[+syl,+hi,-prim] > ∅ / k __ w [+syl] $ [+syl] is redundant for the one affected word in our lexicon, but it makes sense to have.
+
+
+$ Extremely dubious new rule: #s'VCV > #sC'V (super > sper)
+	$ Labialism of first vowel and consonant have to match.
+	$ Frontness of first vowel and consonant also have to match.
+	$ Syncopated vowel must be short.
+		[+prim,αround,βfront,-long] [-cont,αlab,βfront] [+syl] > ∅ [-cont] [+prim] / # s __
+			$ This only affects super > spre. FLAG -- reexamine later.
 
 
 $ New rule: cōn- stressing.
@@ -161,7 +176,16 @@ $ NEW RULE: Forward spreading of [n] to singleton stop across [(ˈ)u]
 
 $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
 	n > r / [+syl] __ [+syl,+hi,+round] [+nas]
-	
+
+
+$ NEW RULE: Forward velar repulsion of [r]
+	$ If [r] is in a cluster with a [+back] consonant, it will be repulsed to the following cluster.
+		$ This repulsion must push the [r] across a [+back] vowel. (opposite of backward velar repulsion!!!)
+		$ The [r] can only jump to a one-consonant cluster.
+		$ The [r] cannot jump to another [+back] consonant.
+		$ The [r] must jump to a stop.
+			r [+syl,+back] ∅ > ∅ [+syl] r / [+cons,+back] __ [-cont,-back] [+syl]
+				$ This only affects one word, but since we can see that the exact reverse phenomenon is relatively well-attested, it feels more firm. Still, FLAG -- reexamine later.
 
 
     $ R4 {Syncope, Dissimilation of [tl]}
@@ -214,10 +238,10 @@ $ NEW RULE: Intervocalic [n]-tapping before [(ˈ)u]+nasal
             t > k / __ l
 
 
-$ NEW RULE(s): Velar repulsion of [r]
-	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous syllable.
-		$ This repulsion cannot push the [r] across a [+back] vowel.
-		$ The [r] can only jump from a two-consonant cluster to (1) a one-consonant cluster or (2) a nasal-initial cluster. (Following [j] allowed.)
+$ NEW RULE(s): Backward velar repulsion of [r]
+	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous cluster.
+		$ This repulsion cannot push the [r] across a [+back] vowel. (opposite of forward velar repulsion!!!)
+		$ The [r] can only jump from a two-consonant cluster (following [j] allowed) to (1) a one-consonant cluster or (2) a nasal-initial cluster.
 		$ The [r] cannot jump to another [+back] consonant.
 		$ The [r] must jump to a stop.
 			$ rC case:
@@ -226,10 +250,12 @@ $ NEW RULE(s): Velar repulsion of [r]
 				∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [+syl]
 					$ note that this final [+syl] is actually irrelevant given our data and the phonotactics of Latin
 
+
 $ Added: necessary for kw reflections. Counterbled by final-nasal deletion.
 	$ EDIT: this only happens in the onset of word-initial syllables. conditioning adjusted accordingly
 		$ EDIT: this can occur (analogically)? in prefixed words (add more prefixes whenever necessary)
 			w > ∅ / # (i n) ([-syl])* k __ {[+syl,+prim,+lo,+front];[+syl,+long,+lo,+front]} [+voi]
+
 
 $ L-Metathesis (our addition)
 	$ Nasal is optional (hence double rule).
@@ -256,29 +282,26 @@ $ Highly dubious new rule: [-ro~u] apocope after singleton [t]
 		r [+syl,-stres,+round] > ∅ / [+syl] t __ #
 
 
-
-$ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 1:
-∅ > ʏ / b e r __ #
-
-
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
-		$ can't occur after single [t]
-            		∅ [+syl] r > r [+syl] ∅ / [+syl] ([+cons]) [+cons,-cor] __ #
-			∅ [+syl] r > r [+syl] ∅ / [+syl] [+cor] [+cor] __ #
-			∅ [+syl] r > r [+syl] ∅ / [+syl] [+cor,+voi] __ #
-				$ at the moment, these three rules should take care of all our non-[t] cases
-		$ needs to "jump over" the w in kwattwor
-			∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+syl] ([+cons])+ __ #
+            
+            $ Abandoned conditioning:
+			$ can't occur after single [t]
+            		$∅ [+syl] r > r [+syl] ∅ / [+syl] ([+cons]) [+cons,-cor] __ #
+				$∅ [+syl] r > r [+syl] ∅ / [+syl] [+cor] [+cor] __ #
+				$∅ [+syl] r > r [+syl] ∅ / [+syl] [+cor,+voi] __ #
+					$ at the moment, these three rules should take care of all our non-[t] cases
+			$ needs to "jump over" the w in kwattwor
+				$∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+syl] ([+cons])+ __ #
+			
+		$ NEW CONDITIONING: only happens after two consonants, at least the second of which is an obstruent.
+			∅ [+syl] r > r [+syl] ∅ / [+cons] [-son] __ #
+				$ needs to "jump over" the w in kwattwor
+					∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+cons] [-son] __ #
 
 
-$ NEW RULE: Word-final [r] deletion after stop (and vowel)
-	r > ∅ / [-cont] [+syl] __ #
-
-
-$ wonky fix for uber>uger for now, but we need to actually fix the r metathesis at some point (TODO) part 2:
-ʏ > ∅ / b e r __ #
-
+$ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel)
+	r > ∅ / {[+cor];p} [+syl] __ #
 
 
 $ Attested well, but too specific: -tore > -tor		$ FLAG -- try to expand beyond this!
@@ -299,7 +322,9 @@ $ NEW RULE: [p]-deletion between non-palatal vowels and stops.
 
 
     $ R6 Frontinɡ of [w] to [β]
-        w > β
+        $w > β
+        $EDIT: only happens in front of [p] when it happens in front of a consonant
+        	w > β / __ {[-cons];p;#}
 
     $ R7 Fortition of syllable initial [y]: [y] > [dy]
 	$ Cannot be followed by Vj if it happens word-initially ([+cons] takes care of the one case where this is relevant):
@@ -372,7 +397,9 @@ $m > β / [+lo,-long] __ n
         ∅ > i / # __ s [+cons,-son]
         $ Problem: scire -> *eʃt͡ʃˈire (s̩ti)
 
+
 ˈi j > ˈiː $ diem fixing
+
 
     $ R13 {Many sequential vowel chanɡes}
         $ R13A Lenɡtheninɡ of second vowel in vowel combinations and concommitant shift in stress
@@ -475,14 +502,16 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
             [-son,-cont,-lab] > t͡s / __ t͡s
             [-son,-cont,-lab] > d͡z / __ d͡z
             
-            [-son,+cons,-lab] > ∅ / __ [+delrel]
 			
             s > ʃ / __ t ˈɛ
             $s > ʃ / __ t i
 
+
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
         {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __ $ see pardess's prânju > prândzu (p.73) for inclusion of ([+nas])
         
+        s t͡ʃ > ʃ		$ christianum may have been reborrowed, which would explain ʃt
+        s t͡s > ʃ t͡ʃ
         [-son,+cons,-lab] > ∅ / __ [+delrel]
         
         	$[-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
@@ -528,7 +557,7 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 
 β > ∅ / ɡ __
 
-	$ New Ordered/Conditioning for β > ɡ:
+	$ New Ordering/Conditioning for β > ɡ:
 		$ Beta gammatizes after word-initial sonorants followed by certain vowels (poorly attested but consistent), of course only before [(ˈ)u].
 			β > ɣ / # [+cons,+son] [+syl,αhi,αround] __ [+syl,+hi,+back]
 		$ The exact reverse of the above rule should also apply, but the only valid target is ˈuβer (which is ideal).
@@ -711,6 +740,8 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 
     $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
         {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
+        	$ Corollary: [ˈa] does not do this before [mV]. Instead of convoluting the rule above even further, simply reversing its effects below.
+        		ˈə > ˈa / __ m [-cons]
 
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         $l > ɾ / [+syl] __ [+syl]
@@ -1147,7 +1178,9 @@ $Prefix Rules:
 a ˈu n e > ə ˈu n / __ # $ needs reexamined
 
 
-[+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ # $ this only improves one word -- FLAG: reexamine later and consider for removal
+$[+prim,+stres,-lo] [-delrel,-voi] r e > ∅ [-delrel] r ˈe / __ # $ this only improves one word -- FLAG: reexamine later and consider for removal
+	$ EDIT: replaced with rule earlier in the cascade
+
 a [+syl,-stres] > a / # __
 $ʃ > t͡s / [+son,-nas,+cons] __ #		$More sibilant things. Figure this out.
 
@@ -1199,3 +1232,8 @@ i > j / [+syl] __ $ only fixing gallinaceum>gainat; perhaps this word is actuall
 
 ə > e / p __ [+ant,+cons,-strid] ˈe
 ə > e / [+front,+prim] p __ [+ant,+cons,-strid] 
+
+
+$ NEW RULE: Word-inital [t͡ʃe] > [t͡ʃi] before a single [r] or [k].
+	$ This only affects three words, so it's a bit iffy, especially since the conditioning is so specific. FLAG -- reexamine later.
+		e > i / # t͡ʃ __ {r;k} [-cons]
