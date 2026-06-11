@@ -123,7 +123,8 @@ $[+syl,-hi,-lo,-back,αlong] > a / # __ [+cons,αvoi,-αcont] ([+cons,αvoi,-αc
 
 $ [d] assimilations
 	d > l / [+syl,+lo] __ l
-	d > ∅ / [+syl,+lo] __ [-syl] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for l, so inserting another rule above that takes care of this
+	d > r / [+syl,+lo] __ r
+	d > ∅ / [+syl,+lo] __ [-syl] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for r and l, so inserting rules above that take care of this
 
 
 $ CHAPTER 4
@@ -201,8 +202,8 @@ $ NEW RULE: Forward velar repulsion of [r]
 		$ Stops must cluster with [l] after syncope.
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
 				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
-			$ syncope between alveolars and [l] (optional [s] or [b] in cluster)
-				[+syl,+hi,-long,-stres] > ∅ / [+syl] ({s;b}) [+cons,-cont,+cor] __ l [+syl]
+			$ syncope between alveolars and [l] (optional [s] or [b] in cluster) (optional glide after [l])
+				[+syl,+hi,-long,-stres] > ∅ / [+syl] ({s;b}) [+cons,-cont,+cor] __ l ([-cons,-syl]) [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
 				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
 		$ Syncope between nasals must come after [o].
@@ -214,6 +215,8 @@ $ NEW RULE: Forward velar repulsion of [r]
 		$ [rrVk] syncopates. Since this only applies to etyma related to carricare, there isn't actually a lot of evidence for it. FLAG -- reexamine later.
 			$ Actually, I think we also see it in corrigia>curea. Expanding the rule to include all velar stops...
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
+		$ [llVk] also syncopates, but only in ollicellam>ulcea. For now, conditioning it on the following [ˈe], but we should really try to find more examples of this kind of syncope to determine the conditioning better. FLAG -- TODO
+			[+syl,+hi,-long,-stres] > ∅ / [+syl] l l __ [-cont,+back] [+syl,-lo]
 		$ Syncope between nasals and stops must come after [(ˈ)i(ː)] and before an unstressed nonlow vowel. (Other consonant allowed after the stop.) Poorly evidenced. FLAG -- reexamine later.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ([-syl]) [+syl,-stres,-lo]
 
@@ -230,7 +233,7 @@ $ NEW RULE: Forward velar repulsion of [r]
 			$ The now cluster-medial [t] is then deleted--incorporating this into later [nkt]>[nt] rule.
 
 
-{ˈoː;ˈe} > {ˈɔ;ˈɛ} / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo]
+ˈoː > ˈɔ / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo] $ only helping soricem>șoarece. FLAG -- reexamine later; consider for removal.
         
 
         $ R4B Dissimilation of [tl]: [tl] > [kl]
@@ -282,6 +285,8 @@ $ Highly dubious new rule: [-ro~u] apocope after singleton [t]
 		r [+syl,-stres,+round] > ∅ / [+syl] t __ #
 
 
+
+
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
             
@@ -298,6 +303,8 @@ $ Highly dubious new rule: [-ro~u] apocope after singleton [t]
 			∅ [+syl] r > r [+syl] ∅ / [+cons] [-son] __ #
 				$ needs to "jump over" the w in kwattwor
 					∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+cons] [-son] __ #
+
+
 
 
 $ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel)
@@ -378,7 +385,10 @@ $m > β / [+lo,-long] __ n
                 k > s / [+syl,-stres] __ [+ant,+cor,-voi]
                 $ŋ > n / [+syl,-stres] __ [+ant,+cor]
                 $ŋ > m / [+syl,-stres] __ [+ant,+cor]
-                $Combined nasal assimilation with 10Ca, removed stress condition.   
+                $Combined nasal assimilation with 10Ca, removed stress condition. 
+                
+				$ It actually probably makes more sense (given the k>p's that end up happening pretonically instead of posttonically) to state this as a general rule without consideration for stress and then have assimilation rules elsewhere. TODO  
+
 
     $ R11 Labialization of [kw] and [ɡw] before [a]
         $[-son,-ant,-cor] > [+ant] / __ w a
@@ -446,10 +456,12 @@ $m > β / [+lo,-long] __ n
 
     $ R15 Contraction of vowels
         [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
-       
+
+
 $t [+syl,+long,-stres,-hi] s > t͡s j / __ #
-t > t͡s / [+syl] ([-son,+cons])* __ [+syl,-back,-long] l
-t > t͡s / # (e n) __ [+syl,-back,-prim,-long] l
+$t > t͡s / [+syl] ([-son,+cons])* __ [+syl,-back,-long] l
+
+t > t͡s / # e n __ [+syl,-back,-prim,-long] l $ only affects etyma beginning with intel- (all etymologically related). FLAG -- reexamine later.
 
 $l > ∅ / [+syl,-back,-long] __ j [+syl,+lo]
 
@@ -461,8 +473,10 @@ $ NEW RULE: [e] apocope after long vowels
 
     $ R16 Loss of vowel lenɡth
         [+syl] > [-long]
-        
-t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
+
+
+t > t͡s / {#;[-cons]} __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant] $ confusing ordering thing: seems like this might be better explained by i>e preceding e laxing, but changing the order lowers accuracy. FLAG -- reexamine later.
+
 
     $ R17 Deletion of wau before a vowel
         $β > ∅ / [+cons,-voi] __ [-cons]
@@ -474,7 +488,7 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
     $ R18 {Many C+j-related chanɡes}
         $ R18A ɡemination of stop when after a vowel and before yod
             $ Pardess: V [-son,-cont] y > V [-son,-cont] [-son,-cont] y
-            {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ;} / [+syl] __ j
+            {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 
         $ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
             $ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
@@ -486,10 +500,10 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
         $ R18C Affrication of velars: [ɡ] > [ǰ], [k] > [č] before yod
             $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ j
             $ ^Also doesn't work in DiaSim
-            ɡ > d͡ʒ / __ j
-            k > t͡ʃ / __ j
+                	ɡ > d͡ʒ / __ j
+            	k > t͡ʃ / __ j
 
-            s j > ʃ
+            $s j > ʃ
 
         $ R18D Absorption of yod after affricates
             $ Pardess: j > ∅ / [-son,-cont,+cor,+delrel] __
@@ -497,23 +511,26 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
 
         $ R18E Assimilation of stops to affricates
             $ Not catchinɡ nasals because he (hopefully) didnt intend to?
-            [-son,-cont,-lab] > t͡ʃ / __ t͡ʃ
-            [-son,-cont,-lab] > d͡ʒ / __ d͡ʒ
-            [-son,-cont,-lab] > t͡s / __ t͡s
-            [-son,-cont,-lab] > d͡z / __ d͡z
+            $[-son,-cont,-lab] > t͡ʃ / __ t͡ʃ
+            $[-son,-cont,-lab] > d͡ʒ / __ d͡ʒ
+            $[-son,-cont,-lab] > t͡s / __ t͡s
+            $[-son,-cont,-lab] > d͡z / __ d͡z
+            $ For the sake of simplicity and probably also accuracy:
+            	[-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
+            	[-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
             
 			
-            s > ʃ / __ t ˈɛ
+            $s > ʃ / __ t ˈɛ
             $s > ʃ / __ t i
 
 
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
-        {t͡ʃ t͡ʃ;d͡ʒ d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __ $ see pardess's prânju > prândzu (p.73) for inclusion of ([+nas])
+        {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __ $ see pardess's prânju > prândzu (p.73) for inclusion of ([+nas])
         
         s t͡ʃ > ʃ		$ christianum may have been reborrowed, which would explain ʃt
         s t͡s > ʃ t͡ʃ
-        [-son,+cons,-lab] > ∅ / __ [+delrel]
         
+        $[-son,+cons,-lab] > ∅ / __ [+delrel]
         	$[-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
         $ Added -distr,-front to rectify chanɡe in DiaSim
         $ TODO this rule affects the first part of ɡeminate ǰǰ but not the second. Should affect both.
@@ -521,7 +538,7 @@ t > t͡s / __ [+syl,-lo,-back,-hi,+front] [+cons,-voi,+ant]
         	$[-ant,+cor,+delrel] > [+ant,-distr,-front] / [+delrel,+ant] __
         $ problematic at ɡlakiam
         
-        n j > ɲ / __ u #
+        $n j > ɲ / __ u #
 
     $ R20 Attraction of ɡlides
         $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
@@ -555,7 +572,7 @@ $ NEW RULE: Word-initial beta fortification before [e] (specifically unstressed)
 		β > v / [+syl] __ ˈe $ to fix avea infinitive for now
             $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
 
-β > ∅ / ɡ __
+$β > ∅ / ɡ __
 
 	$ New Ordering/Conditioning for β > ɡ:
 		$ Beta gammatizes after word-initial sonorants followed by certain vowels (poorly attested but consistent), of course only before [(ˈ)u].
@@ -575,6 +592,7 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
         $ R22B Occlusivization of [β]
             β > b / {[-cons];#} [+cons,-nas,+voi] __
             v > b / [+cons,-syl,-nas,+voi] __
+			
 			${v ˈɛ;v ˈe} > {b ˈɛ;b ˈe} / # __ [+cons,+ant,-voi] ([+cons])* $ not doing anything
             {v ɛ;v e} > {b ə;b ə} / # __ [+cons,+ant,-voi] ([+cons])* [+syl,+front,+prim,-lo] $ only fixes one word(?)--suspicious
        		$β > b / [+cons,-syl,-nas] __
@@ -584,7 +602,9 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 
         $ R22C [β] becomes the velar ɡlide [w] before a resonant
             β > w / __ [+son,+cons]
-            {β s;β d} > {w s;w d} / # ([+cons]) [-cons,+lo,+front] __
+            
+            ${β s;β d} > {w s;w d} / # ([+cons]) [-cons,+lo,+front] __
+            
             β > w̥ / __ #
 
         $ R22D Intervocalic [β] > [ɡ] in the presence of [u]
@@ -601,14 +621,15 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 i e > j e
   
             
-$$ Fed by β > v/fet           
-n > ∅ / [+back] __ [-son,+cont]
+$ Fed by β > v/fet           
+	n > ∅ / [+back] __ [-son,+cont]
+
 
     $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]
         $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually riɡht? Why not at this time?
-        {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
+        {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
 
-{k e n u;k e n u s} > {k e n;k e n} / __ #
+${k e n u;k e n u s} > {k e n;k e n} / __ #
 
     $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
         $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] > __ [-cons,-back]
@@ -667,6 +688,8 @@ $
 			∅ > j / [+syl] __ [-cons,-tense]
 			∅ > j / {#;[-cons]} [+cons] __ [-cons,-tense]
 			∅ > j / m n __ [-cons,-tense]
+				$ EDIT: also seems to happen after [st]
+					∅ > j / s t __ [-cons,-tense]
 		$ [ɛ] always tenses regardless of [j]-insertion:
 			[-cons,-tense] > [+tense]
 
@@ -701,16 +724,22 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         $ "It did not apply to words of Slavic oriɡin" with more info, see p100
 
 
+$ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
+	ˈo > ˈu / [+nas] __ [+nas]
+
+
     $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
         $ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
-            $ TODO reformulate this rule.
-            [+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round]
-            [+syl,-hi,-lo,+stres] > [-tense] / [+cons] ([-cons,-syl])* __ ([-nas])* [+syl,-hi,-round]
-            [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])* [+syl,-hi,-round]
+            $ NOT IN PARDESS: Allowed before two-nasal cluster.
+            	[+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-back,-lo] $ (this case doesn't happen before [e] for some reason?)
+            $ Nasalless case.
+            	[+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])* [+syl,-hi,-back]
+            $ Single [m] case.
+            	[+syl,-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-back]
             
-            [+syl,-hi,-lo,+stres] > [-tense] / [+strid] __ (l)* (ɾ)* j u
+            $[+syl,-hi,-lo,+stres] > [-tense] / [+strid] __ (l)* (ɾ)* j u
             ˈu > ˈɔ / __ j (l)* (ɾ)* a
-            u > e / [+strid] [+prim,-tense] (l)* (ɾ)* j __
+            $u > e / [+strid] [+prim,-tense] (l)* (ɾ)* j __
             a > e / ˈɔ j (l)* (ɾ)* __    $TODO: figure out where this goes...
             $ This rule set should probably catch #torkwˈeː# > #to̯ˈart͡ʃe#, but doesn't because of stress.
 		$ Fixed! (torquere (and its derivatives) switched conjugations in the descent to Romanian--see REW 8798)
@@ -739,9 +768,10 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         $ e > e̯ / __ [-cons,+lo] DEACTIVATED: this happens later in 38
 
     $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
-        {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
-        	$ Corollary: [ˈa] does not do this before [mV]. Instead of convoluting the rule above even further, simply reversing its effects below.
-        		ˈə > ˈa / __ m [-cons]
+        ${a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
+        	$ Corollary: does not happen before [mV].
+        		{a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] {[-cons];[+cons,-nas];#}
+        		{a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context
 
     $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
         $l > ɾ / [+syl] __ [+syl]
@@ -757,8 +787,8 @@ $ R37B (vowel degemination)
 
     $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
         $ R35A [ll] > [w] before unstressed [a]
-		$ This is blocked by a labial segment across the leftward syllabic vowel from the [ll]... for some reason. (Only three such cases, but consistent.)
-			l l > w / [-lab] [+syl] __ a
+		$ This only occurs after [ˈu], [ˈi], and [e̯ˈa]. As such, it may have occured before vowel laxing and breaking (which still wouldn't give us a natural class), but it works fine here.
+			l l > w / {[+syl,+hi];e̯ ˈa} __ a
             $l l > w / [-cons,-back] ([+cons])* [+syl,-cons] __ [-cons,+lo,-stres]
             $l l > w / [+front,+hi,-cons,+syl] __ [-cons,+lo,-stres]
             $l l > w / __ [-cons,+lo,-stres]
@@ -883,7 +913,9 @@ $Inserted rule: fronting of u after an obstruent and before an [n]-voiceless plo
 			[-cont,-voi,+delrel] > t / ʃ __
 
 $BR > DR
-{e̯ ˈa w ə;o̯ ˈa w ə} > {e̯ ˈa;o̯ ˈa}
+${e̯ ˈa w ə;o̯ ˈa w ə} > {e̯ ˈa;o̯ ˈa} $ reformulated below
+	w ə > ∅ / [-cons,-syl] [+syl] __ #
+
 o̯ ˈa > ˈo w̥ / [+cons,-strid] __ #
 o̯ ˈa > ˈo j / __ #
 
@@ -1088,7 +1120,7 @@ $ these are morphological changes, not sound changes; keeping them here for now 
 ∅ > j / # (ɨ m)* p __ e [-delrel]
 
 ɾ > r
-[+son,+cons] >  ∅ / [+hi] j __
+[+son,+cons] > ∅ / [+hi] j __
 
 
     $ R58 Assimilation: word-final [ə] > [e] after [i]
@@ -1145,7 +1177,14 @@ $Stress changes
 $[-cons,+syl] [+cons,+voi] d͡ʒ ˈe > [+stres,+prim] [+cons,+voi] d͡ʒ e / __ # $ This was only fixing words in the lexicon that were erroneously given in the second conjugation instead of the third. And mulge. Wiktionary suggests that mulge changed conjugations in VL. We should ask Clayton about this. FLAG
 $b ə t ˈe > b ˈa t [-stres] $ This was only fixing words in the lexicon that were erroneously given in the second conjugation instead of the third.
 
-[-cons,+syl,+hi,-stres] n ˈe > [+prim] n [-stres] / {[-cont];[+son,-nas]} __ $ this may be overfitting at this point, and because of t>ts in tenere>tsine, this probably takes place much earlier in the cascade... TODO: investigate this later
+
+$[-cons,+syl,+hi,-stres] n ˈe > [+prim] n [-stres] / {[-cont];[+son,-nas]} __
+
+
+$ [jˈɨ] coalescence
+	j ˈɨ > ˈi
+		$ (hiatus resolution:)
+			i > ∅ / __ ˈi
 
 
 $Yod-Deletion
@@ -1153,7 +1192,6 @@ j > ∅ / ˈa __ r
 $j > e̯ / [+cons,+voi] __ ˈa ([+cons,-syl])* ə
 j > e̯ / ɡ __ ˈa
 i > ∅ / f __ j [+syl]
-j ˈɨ > ˈi / [+cons,-son,-cor] __
 j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi] [-cont]
 j > ∅ / __ ˈe t e
 
@@ -1201,7 +1239,8 @@ $ NEW RULE: Backwards [n]-spreading across affricate+[i]
 $Stupid rule:	
 	r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
 
-j > j e / [-lab] [+voi,-nas] [-lo,αsyl,-nas] [-round,-αvoi,-nas] __ #
+j > e / [+cor,-lat,-nas] [+syl] k __ # $ seems to be describing an analogical reformation rather than an actual change. FLAG -- reexamine later
+
 j > ∅ / [+syl] k __ e #
 $j > r / [+lab,+voi] [+prim] __ e
 
@@ -1224,7 +1263,8 @@ i > e / {r;s;k} __ m
 i > e / [+lab] __ [+nas] ([-lo,+syl])* #
 
 $ [e] apocope: deleted after plosive + high vowel + [j] (sparsely attested)
-	e > ∅ / [-cont] [+syl,+hi] j __ #
+	$e > ∅ / [-cont] [+syl,+hi] j __ #
+		$...actually appears to be completely wrong.
 
 $j > ∅ / [+cons] ˈi __ e $ although I think words with <ie> are probably all /ie/ with epenthetic [j] and the people who make phonemic transcriptions on Wiktionary need to choose one or the other $ EDIT: updated lexicon file to only have epenthetic [j]
 ∅ > j / ˈi __ e $ to fix the ones that end up in hiatus after beta-deletion
