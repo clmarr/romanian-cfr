@@ -114,6 +114,14 @@ $ EXTREMELY dubious new rule: intervocalic [n]-tapping before stressed vowel and
 		n > r / [+syl] __ [+stres] ([-syl])+ r
 
 
+$ Somewhat dubious new rule: anti-[+hi] dissimilation in word endings.
+	$ [i] > [a] when sandwiched between [+stres,+hi] and [+syl,+hi] (at ends of words).
+		$ Following consonant must be [+son].
+			$ Only affects three words, but solves a lot of problems (namely false palatalization and conditioning for ˈe > ˈɛ).
+				i > a / [+stres,+hi] ([-syl])* __ [+cons,+son] [+syl,+hi] m #
+		
+
+
 [+syl] j ˈi > [+prim] j ∅
 
 e > a / # __ k k $ TODO: see if we can generalize beyond this!
@@ -189,6 +197,13 @@ $ NEW RULE: Forward velar repulsion of [r]
 				$ This only affects one word, but since we can see that the exact reverse phenomenon is relatively well-attested, it feels more firm. Still, FLAG -- reexamine later.
 
 
+$ NEW RULE: ˈu > ˈo / [+nas] __ r.
+	$ Only valid inputs in our lexicon are nurum and muriam.
+		$ We can also extend input to all [+hi,+stres] vowels. There are no sequences of [+nas] ˈi(ː) r in our lexicon.
+			$ Has to take place before breakup of Eastern Romance -- we see nor(ã) in Aromanian and noră in Megleno-Romanian.
+				[+hi,+stres] > [-hi] / [+nas] __ r
+
+
     $ R4 {Syncope, Dissimilation of [tl]}
         $ R4A Syncope
             $ Pardess: "In the presence of R" (nasals and liquids); +cons,+son
@@ -201,7 +216,7 @@ $ NEW RULE: Forward velar repulsion of [r]
 		$ There are no examples in our lexicon in which syncope could occur before a glide.
 		$ Stops must cluster with [l] after syncope.
 			$ Syncope between [b] and [l] (might only be syncope of [u]? FLAG check this later)
-				[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
+				[+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
 			$ syncope between alveolars and [l] (optional [s] or [b] in cluster) (optional glide after [l])
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] ({s;b}) [+cons,-cont,+cor] __ l ([-cons,-syl]) [+syl]
 			$ syncope between velars and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
@@ -314,6 +329,11 @@ $ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel)
 $ Attested well, but too specific: -tore > -tor		$ FLAG -- try to expand beyond this!
 	$ EDIT: doesn't affect putorem>putoare for some reason? blocking it from occurring after round segments fixes it, but now we have an even more hyperspecific rule...
 		e > ∅ / [-round] t ˈoː r __ #
+
+
+$ -riam reflexes: -ia > -e / r __ #
+	j [+syl,+lo,-stres] > e / r __ #
+		$ also possible that the [j] drops later; see aream>arie. FLAG -- fix arie later.
 
 
 $ NEW RULE: Interlabial rounding of /a/.
@@ -730,17 +750,17 @@ $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
 
     $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
         $ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
-            $ NOT IN PARDESS: Allowed before two-nasal cluster.
-            	[+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-back,-lo] $ (this case doesn't happen before [e] for some reason?)
+        	$ NOT IN PARDESS: Allowed before two-nasal cluster.
+            	[+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-back,+lo] $ (this case doesn't happen before [e] for some reason?)
             $ Nasalless case.
-            	[+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])* [+syl,-hi,-back]
+            	[+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas,+cons])* [+syl,-hi,-back] $ Must precede a consonant.
             $ Single [m] case.
             	[+syl,-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-back]
             
             $[+syl,-hi,-lo,+stres] > [-tense] / [+strid] __ (l)* (ɾ)* j u
-            ˈu > ˈɔ / __ j (l)* (ɾ)* a
+            $ˈu > ˈɔ / __ j (l)* (ɾ)* a $ only affects muria>moare.
             $u > e / [+strid] [+prim,-tense] (l)* (ɾ)* j __
-            a > e / ˈɔ j (l)* (ɾ)* __    $TODO: figure out where this goes...
+            $a > e / ˈɔ j (l)* (ɾ)* __    $TODO: figure out where this goes...
             $ This rule set should probably catch #torkwˈeː# > #to̯ˈart͡ʃe#, but doesn't because of stress.
 		$ Fixed! (torquere (and its derivatives) switched conjugations in the descent to Romanian--see REW 8798)
             
