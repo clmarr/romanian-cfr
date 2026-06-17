@@ -753,7 +753,7 @@ $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
         	$ NOT IN PARDESS: Allowed before two-nasal cluster.
             	[+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-back,+lo] $ (this case doesn't happen before [e] for some reason?)
             $ Nasalless case.
-            	[+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas,+cons])* [+syl,-hi,-back] $ Must precede a consonant.
+            	[+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas,-syl])* [+syl,-hi,-back] $ Must precede a consonant.
             $ Single [m] case.
             	[+syl,-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-back]
             
