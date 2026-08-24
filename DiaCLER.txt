@@ -1196,17 +1196,14 @@ $ NEW RULE: Backwards [n]-spreading across affricate+[i]
 	
 $ NEW RULE: [r] to [n] assimilation
 	$ Only occurs intervocalically.
-	$ [n] must not be followed by an alveolar.
-	$ Occurs in serenum>senin but not merendae>merinde.
-	$ Occurs in corona(re)>cununa but not currendum>curând.
-	$ Conditioning: Of the three segments 12r3n, if only one of them is labial, the change does not occur.
-	$ Labialless case:
-		r > n / [-lab] [-lab,+syl] __ [-lab,+syl] n {[-cor];[-ant];#}
-			$ This only impacts serenum>senin. FLAG
-	$ 2- and 3-labial cases:
-		r > n / [+lab] [+lab,+syl] __ [+syl] n {[-cor];[-ant];#}
-		r > n / [+lab] [+syl] __ [+lab,+syl] n {[-cor];[-ant];#}
-		r > n / [+lab,+syl] __ [+lab,+syl] n {[-cor];[-ant];#}
+	$ [n] must not be followed by an alveolar. ([-ant] handles this since we don't have any following labials.)
+	$ Preceding vowel must be [-lo].
+	$ For the exclusion of phalanga>părângă, we can condition with [αant,αcont], but this seems ill-motivated. Including for now.
+		$ Doing this also allows us to use [+syl] instead of [+syl,-lo], but we will leave [+syl,-lo] for now because it seems to be relevant.
+		$ (Higher sonority of preceding vowel may make the sonorant consonant more distinct.)
+			r > n / [αant,αcont] [+syl,-lo] __ [+syl] n {[-ant];#}
+				$ Does not occur in in renunculum>rărunchi because of reinforcement from preceding [r]. Undoing below.
+					n > r / r [+syl] __ [+syl] n
 	
 $Stupid rule:	
 	r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
