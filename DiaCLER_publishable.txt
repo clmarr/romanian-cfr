@@ -502,10 +502,12 @@ $ R18 {Many C+j-related chanɡes}
 $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
 	{t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __
 
-s t͡ʃ > ʃ		$ christianum may have been reborrowed, which would explain ʃt
-s t͡s > ʃ t͡ʃ
+$ NEW RULE: [stʃ] > ... > [ʃ]
+	s t͡ʃ > ʃ
+		$ Likely that this actually occurred in two steps, with [tʃ] first assimilating in manner to the preceding [s] and the resulting [sʃ] sequence then reducing to [ʃ].
+		$ christianum>creștin was likely reborrowed at some point after this change took place.
 
-$ NEW (moved from later in cascade and reformulated) RULE: Depalatalization before [ˈa]
+$ NEW RULE: Depalatalization before [ˈa]
 	{t͡ʃ;d͡ʒ} > {t͡s;d͡z} / __ ˈa
 
 $ R20 Attraction of ɡlides
@@ -1066,7 +1068,7 @@ $ Word-final two-stop heterolaryngeal cluster reduction
 $ NEW RULE: [+lo] > [-lo] / j __ j
 	[+lo] > [-lo] / j __ j
 
-$ Reflexes of -riVm.
+$ -riVm reflexes
 	j > ∅ / __ r
 
 $ [s] palatalizes before [j] < [ʎ]
@@ -1127,10 +1129,8 @@ $ NEW RULE: [r] to [n] assimilation
 			r > n / [αant,αcont] [+syl,-lo] __ [+syl] n {[-ant];#}
 				$ Does not occur in in renunculum>rărunchi because of reinforcement from preceding [r]. Undoing below.
 					n > r / r [+syl] __ [+syl] n
-	
-$Stupid rule:	
-	r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
 
+r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
 ə > i / # [+cons,+lab,+voi,-nas] __ [+ant,-voi,+strid]
 [+syl,-hi,-lo,-prim] > i / [+syl,-lo,-hi] [-delrel] __ k
 ə > e / [+front,+prim] p __ [+ant,+cons,-strid]
