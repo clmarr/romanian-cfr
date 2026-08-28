@@ -1,6 +1,6 @@
 #make alphabetized version of CatLLex and check for duplicates.
 
-LEX_LOC = "cRoLLex_clayton_temp_vsn.txt"
+LEX_LOC = "RoLLex.txt"
 
 with open(LEX_LOC,mode='r',encoding='utf-8') as o:
     #lines = [(ln+'$').split('$')[0].strip() for ln in o.readlines()]
@@ -13,7 +13,7 @@ lines = sorted(lines)
 
 lines_with_comments = sorted([ln for ln in lines_with_comments if ln != '' and ln[0] != '$'])
 
-with open("alphasorted.txt",mode='w',encoding='utf-8') as o:
+with open(LEX_LOC.replace(".txt","_alphasorted.txt"),mode='w',encoding='utf-8') as o:
     for i in range(len(lines)-1):
         o.write(lines_with_comments[i] + "\n")
         if lines[i] == lines[i+1]:
