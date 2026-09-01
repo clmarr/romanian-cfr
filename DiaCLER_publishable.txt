@@ -162,12 +162,13 @@ $ R3 {Reduction of final [m], Reduction of [n] + fricative}
 			m > ∅ / [-stres] __ #
 			m > n / __ #
 
-$ R3B Reduction of [n] + fricative
-	$[+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
-	$ EDIT: Does not occur when the vowel follows a consonant cluster.
-		[+syl] n > [+long] ∅ / {#;[-cons]} [+cons] __ [-son,+cont]
-		$ Geminates don't count as clusters for the purposes of this rule (only relevant etymon is appensa(re)>apăsa).
-			[+syl] n > [+long] ∅ / p p __ [-son,+cont]
+	$ R3B Reduction of [n] + fricative
+		$[+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
+		$ EDIT: Does not occur when the vowel follows a consonant cluster.
+			$[+syl] n > [+long] ∅ / {#;[-cons]} [+cons] __ [-son,+cont]
+			$ Geminates don't count as clusters for the purposes of this rule (only relevant etymon is appensa(re)>apăsa).
+				$[+syl] n > [+long] ∅ / p p __ [-son,+cont]
+					$ Moved to after R6.
 
 $ Desyllabification of vowels between stressed vowel and word boundary        
 	[+syl,+round] > w / [+syl,+stres] __ #
@@ -233,12 +234,10 @@ $ NEW SONORANT-FREE SYNCOPE: Syncope will occur between a fricative and an obstr
 
 $ There seems to be an oddball syncope in monticellus>muncel. We can condition a nasal-plosive cluster–plosive syncope to only occur pretonically and after a round vowel, but this is hyperspecific and ought to be reexamined in the future.
 	[+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-cont,-delrel] __ [-cont,-delrel] [+prim]	
-		$ The now cluster-medial [t] is then deleted--incorporating this into later [nkt]>[nt] rule.
 	
 $ Another oddball syncope in drepanellam>drepnea.
 	a > ∅ / [+syl] p __ n [+syl]
-		$ Also, this should probably take place after a>ă, since schwa is a much more likely target for syncope.
-	
+
 $ Yet another oddball syncope in cubitum>cot.
 	[+syl,+hi,-long,-stres] > ∅ / [+syl,+round] b __ t [+syl]
 
@@ -253,6 +252,11 @@ $ NEW RULE: [l] metathesis 1
 	$ Otherwise, the [l] moves to just before the [t].
 		p l [+syl] ∅ t > p ∅ [+syl] l t
 	$ Each of these only affects one word, so they're both dubious, especially given the specificity of the conditioning.
+
+$ NEW RULE: RTR cluster reduction
+	$ The stop in the cluster must be voiceless.
+	$ Preceding consonant cannot be coronal.
+		[+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
 
 $ NEW RULE: Backward velar repulsion of [r]
 	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous cluster.
@@ -298,9 +302,9 @@ $ NEW RULE: [-ro~u] apocope after singleton [t]
 
 	$ R5C Metathesis of word-final [r]
 		$ Pardess: V r # > r V #
-		$ NEW CONDITIONING: only happens after two consonants, at least the second of which is an obstruent.
+		$ EDIT: Only happens after two consonants, at least the second of which is an obstruent.
 			∅ [+syl] r > r [+syl] ∅ / [+cons] [-son] __ #
-				$ needs to "jump over" the w in kwattwor
+				$ Needs to "jump over" the w in kwattwor:
 					∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+cons] [-son] __ #
 
 $ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel)
@@ -326,6 +330,13 @@ $ R6 Frontinɡ of [w] to [β]
 	$w > β
 	$ EDIT: This does not occur before consonants.
 		w > β / __ {[-cons];#}
+
+$ R3B Reduction of [n] + fricative
+		$[+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
+		$ EDIT: Does not occur when the vowel follows a consonant cluster.
+			[+syl] n > [+long] ∅ / {#;[-cons]} [+cons] __ [-son,+cont]
+			$ Geminates don't count as clusters for the purposes of this rule (only relevant etymon is appensa(re)>apăsa).
+				[+syl] n > [+long] ∅ / p p __ [-son,+cont]
 
 $ R7 Fortition of syllable initial [y]: [y] > [dy]
 	$ Cannot be followed by Vj if it happens word-initially ([+cons] takes care of the one case where this is relevant):
@@ -377,8 +388,8 @@ $ R10C Velar assimilation
 		$ Major notes: Stress placement is only relevant for assimilations before [s], as evidence for stress relevance for ŋ > m / __ n presented in Pardess is limited to cognoscere>cunoaște, which is more easily explained by widely-evidenced alternative conoscere being the origin for this word (see Walther von Wartburg's Französisches Etymologisches Wörterbuch, volume 2: C Q K, page 848, https://lecteur-few.atilf.fr/lire/20/848). Stress relevance for k > p / __ t is better explained by dissimilation for the few words which appear not to have undergone the rule (see below), although this does not explain the lack of [p] in arăta. Perhaps source for arăta is incorrect, though.
 		$ k > p / __ t in all positions.
 			k > p / __ t
-		$ k > p / __ s only happens posttonically, but not for fraxinum>frasin and texere>țese. also might not happen in advix>abi(a), but if it does happen in that word, we already have a following dissimilation rule for victima(re)>vătăma that will remove the [p].
-			$ very unsure for conditioning for this rule. for now, using [αfront,αhi], but this seems poorly motivated.
+		$ k > p / __ s only happens posttonically, but not for fraxinum>frasin and texere>țese. Also might not happen in advix>abi(a), but if it does happen in that word, we already have a following dissimilation rule for victima(re)>vătăma that will remove the [p].
+			$ Very unsure for conditioning for this rule. for now, using [αfront,αhi], but this seems poorly motivated.
 				k > p / [+syl,+stres,αfront,αhi] __ s
 		$ k > s / __ s elsewhere.
 			k > s / __ s
@@ -396,7 +407,7 @@ $ R11 Labialization of [kw] and [ɡw] before [a]
 		ɡ > b / __ β [-cons,+lo]
 	$ "Sometime before R11 and in anticipation of R17 (w > 0), QUALIS, QUAM, QUANDO, QUANTUS, SQUAMA, etc., must have lost the wau becominɡ [kâle], [ka], [kândo], [kântu], [skâma], forms to which R11 could not apply."
 		$ We are handling this with the new rule "<qu> > <c> word-initially before stressed or long low vowel" above.
-	$ And [ŋ] assimilates when expected. Pardess did not formally include this but implies it.
+	$ And [n] assimilates when expected. Pardess did not formally include this but implies it.
 		n > m / __ [+lab,-strid,+cons] β
 
 $ R12 Prothesis: initial [s]C > [is]C
@@ -436,7 +447,6 @@ $ R13 {Many sequential vowel chanɡes}
 	$ R13F Lenɡtheninɡ of word-final [-i(s)]
 		[+syl,+hi,-back] > [+long] / __ ([+cons]) #
 			$ May not be reɡular sound chanɡe. See note about Kiparsky.
-			$ Problem: wenit -> *vjej (vine)
 
 	$ R13G Lowerinɡ of [i]: Stressed or unstressed [i] > [e]
 		[+syl,-long,+hi,-back] > [-hi]
@@ -452,9 +462,9 @@ $ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a conso
 	$ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
 	$ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
 		$e > ∅ / # __ [+strid,+ant] [+cons]
-			$ EDIT: Following palatal vowel blocks this change's occurrence, but only for [essV]. This only fixes ieși, though, so it's suspicious.
-				e > ∅ / # __ [+strid,+ant] {[-cont];[+cont,-strid];[+cont,-ant]}
-				e > ∅ / # __ s s [+syl,αfront,αlo]
+		$ EDIT: Following palatal vowel blocks this change's occurrence, but only for [essV]. This only fixes ieși, though, so it's suspicious.
+			e > ∅ / # __ [+strid,+ant] {[-cont];[+cont,-strid];[+cont,-ant]}
+			e > ∅ / # __ s s [+syl,αfront,αlo]
 
 $ R15 Contraction of vowels
 	[+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
@@ -468,7 +478,7 @@ $ t > ț in intel > ... > înțel
 
 $ R17 Deletion of wau before a vowel
 	w > ∅ / __ [+syl]
-		$ Problematic but faithful to Pardess
+		$ Problematic, but faithful to Pardess.
 
 $ R18 {Many C+j-related chanɡes}
 	$ R18A ɡemination of stop when after a vowel and before yod
@@ -490,11 +500,6 @@ $ R18 {Many C+j-related chanɡes}
 			j > ∅ / [+delrel] __
 
 	$ R18E Assimilation of stops to affricates
-		$ Not catchinɡ nasals because he (hopefully) didnt intend to?
-		$[-son,-cont,-lab] > t͡ʃ / __ t͡ʃ
-		$[-son,-cont,-lab] > d͡ʒ / __ d͡ʒ
-		$[-son,-cont,-lab] > t͡s / __ t͡s
-		$[-son,-cont,-lab] > d͡z / __ d͡z
 		$ For the sake of simplicity and probably also phonetic accuracy:
 			[-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
 			[-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
@@ -529,7 +534,7 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 
 $ R21 Spirantization of [b]
 	$b > β / [-cons] __
-	$ EDIT: does not occur before stops
+	$ EDIT: Does not occur before stops.
 		b > β / [-cons] __ [+cont]
 
 $ NEW RULE: [β] > [b] word-initally before [(ˈ)e] and two coronals, the first of which must be an obstruent
@@ -539,7 +544,7 @@ $ NEW RULE: [β] > [b] word-initally before [(ˈ)e] and two coronals, the first 
 $ R22 {Beta becomes v/b/w/ɡ/∅}
 	$ R22A Word-inital [β] > [v]
 		$ Including prefixal analogies for utility.
-			β > v / # (e n) (k o n) (r e) (p r e) __
+			β > v / # (e n) (k o) (r e) (p r e) __
 				$ Pardess: Occasionally yielded /b/ instead: berbec, bătrân
 				$ The Latin word from which berbec descends (vervex) apparently became berbex before the breakup of Latin (REW 9270).
 				$ The other exceptions are handled by preceding new rule.
@@ -589,9 +594,6 @@ $ HIATUS RESOLUTION RULES
 		∅ > j / ˈi __ [+syl,-hi]
 	$ [e] preyodizes after non-palatal vowels
 		∅ > j / [+syl,+stres,αfront,αlo] __ e
-
-$ Fed by β > v/fet           
-	n > ∅ / [+back] __ [-son,+cont,+lab]
 
 $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]
 	{p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
@@ -656,7 +658,7 @@ $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 
 $ R28 Unstressed [o] > [u]
 	$ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
-	$ EDITː Blocked by p in following consonant cluster (up to two phones away) or double sonorant (geminates OK). breaks koktorium>cuptor but everything else works
+	$ EDITː Blocked by p in following consonant cluster (up to two phones away) or double sonorant (geminates OK).
 		o > u / __ ({[+cons,+lab,+voi];[-syl,-lab]}) {[+syl];#} $ blocks singleton p and all clusters (allowed clusters follow) (also handles cases with no following consonants)
 			$ Additional note on the above rule: The first feature matrix has [+cons] because this does not occur before [w]. This does, however, occur before [j], hence the [-syl] in the second matrix.
 		o > u / __ {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} {[-syl,+lab,+voi];[-syl,-lab]} $ blocks sonorant-initial clusters while letting sonorant-final clusters pass through...
@@ -676,7 +678,7 @@ $ R30 Preyodization of initial [e]: [e] > [ye]
 	$ "in some words"; "probably due to Slavic influence"
 	$ "found in MR and IR but not in AR."
 		$∅ > j / # __ [+syl,+front,-hi,-lo]
-		$ Updated formulation:
+		$ REFORMULATION:
 			$ For unstressed [e], this does not occur before sonorants.
 				∅ > j / # __ e [-son]
 			$ For stressed [ˈe], this does not occur before nasals, but it occurs before other kinds of sonorants.
@@ -765,7 +767,8 @@ $ R36 {Vwa chanɡes}
 		$ a > [+long] __ # in all articulated f sg nouns in the nominative/accusative case
 
 	$ R36C ['uwa] > ['uva]
-		$ Pardess: w > v / u __ a Appears to have forɡotten to mark stress.
+		$ Pardess: w > v / u __ a
+		$ Appears to have forɡotten to mark stress.
 			$w > v / ˈu __ a
 			$ EDIT: Also occurs in viduum>văduv. Following [a] is irrelevant. Stress is irrelevant.
 				[-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
@@ -877,6 +880,9 @@ $ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}
 			$[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([+syl]) ([-syl])+ [+syl,αfront,αlo]
 			$ EDIT: Does not occur when there are [+front] elements between the target syllable and the trigger syllable.
 				[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([+syl]) ([-syl,-front])+ [+syl,αfront,αlo]
+			$ EDIT: Does not occur after [ˈi].
+				[-cons,-back,-hi,-lo,-front] > [+front,+tense] / ˈi ([-syl])* __ @
+					$ This is a much more general way to state this that has the same effect in our lexicon. It may have just been a different change.
 
 	$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
 		ə̯ > ∅ / __ [+syl,+lo]
@@ -911,7 +917,7 @@ $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 		$ EDIT: Does not occur after a vowel.
 			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
 			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
-				$ Moved to just before "iN- > îN-".
+				$ Moved to just before new rule "Reversal of R47A..."
 
 	$ R47B Raisinɡ of [e] before [n]
 		$[+syl,+front,-hi,-lo] > [+hi] / __ [+nas]
@@ -926,7 +932,7 @@ $ R48 Deɡemination of [nn]: [nn] > [n]
 
 $ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant, unless labiality is reinforced by preceding [o]/[o̯ˈa] or following consonant is a sibilant or a lateral
 	$ Labelling this a new rule rather than a simple edit because it affects words whose schwas do not result from R46A.
-	$ Also, it takes place after R48.
+	$ Also, it doesn't take place until after R48.
 		[+syl,-front,-back,-hi] > [+front,+tense] / {#;[+syl,+round,+hi];# ([-cons,-syl,-round]) [+syl,-round];[+cons] ([-cons,-syl,-round]) [+syl,-round]} [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] {[-cons];#}
 			$ This is a very overdetailed formulation of this rule for this lexicon (RoLLex.txt).
 			$ It should handle most cases, notably not those where the following consonant cluster has three or more consonants in it.
@@ -936,10 +942,8 @@ $ R47A Raisinɡ of [ə] before [n] or [m]CV
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
 
-		[+syl,+hi,+tense,-back,-front,-prim] > [-hi,0tense] / [+cons,-nas,+lab,-delrel] __ n
-		[+syl,+hi,+tense,-back,-front,+prim] > [-hi,0tense] / [+cons,-nas,+lab,-delrel] __ n (n) u
-			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
-			$ Stupid, but the rule above fixes this...
+$ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
+	[+syl,+hi,+tense,-back,-front,αprim] > [-hi,0tense] / p __ n [+syl,-αfront]
 
 $ iN- > îN-
 	[+syl,+front,+hi] > [-front] / # __ [+nas]
@@ -949,8 +953,7 @@ $ Non-Pardessian [e]-backing rules
 	e > ə / s __ [+cons,αson,αlat] [+cons]
 
 $ R49 Raisinɡ of [ə] before [r,s] plus consonant
-	ə > ɨ / __ r [+cons,-cont,+cor,+ant]
-		$ EDIT: This only happens when the consonant is an alveolar occlusive.
+	ə > ɨ / __ r [+cons,-cont,+cor,+ant] $ EDIT: This only happens when the consonant is an alveolar occlusive.
 		$ împărți could be analogical since it's transparently derived from parte and a/ă alternation is common in Romanian.
 	$ə > ɨ / __ s [+cons] [+hi,+syl] $ Deactivated.
 		$ The one example of this occurring in our lexicon is already handled by the new rule "Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements" in the middle of R47.
@@ -1039,8 +1042,6 @@ $ R59
 				$ Reformulated to be [-nas], as it seems to be what Pardess meant by "liquid".
 		$ Next, devoicing and desyllabifying the rest of the word-final [u]s and [i]s.
 			[+syl,+hi,-stres] > [-voi,-syl] / __ #
-		$ EDIT: Given R59C, it seems Pardess actually wants this to not happen after vowels. Also, Pardess gives examples of it happening after semivowels. So:
-			[-cons,+hi,-voi,-syl,-stres] > [+voi,+syl] / [+syl] __ #
 
 	$ R59B Loss of word-final voiceless [w̥]
 		$ First, deleting word-final [w̥] when not after a vowel.
@@ -1086,9 +1087,14 @@ $ NEW RULE: [e] raises to [i] after [r] when surrounding consonants have matchin
 	e > i / [+cons,αlab] r __ [+cons,αlab]
 		$ Arguably should be followed with @, but variant vitrig (for standard vitreg) also attested.
 
-$ NEW RULE: [e] raises to [i] between a voiced continuant and a voiceless coronal when one of the previous two phones is labial
+$ NEW RULE: [ə] assimilates to [(ˈ)e] when after a labial consonant
+	$ Affects fabrica(re)>fereca, mastica(re)>mesteca, familiam>femeie, parietem>perete, pariculam>pereche, and basilicam>*beserica>biserică.
+		ə > e / [+lab,+cons] __ ([-syl])* [+syl,+front,-hi,-lo]
+
+$ NEW RULE: [e] raises to [i] between a voiced consonant and a voiceless coronal when one of the previous two phones is labial
 	$ Following vowel cannot be [+hi].
-		e > i / {[+cont,+voi,+lab];[+lab] [+cont,+voi]} __ [+cor,-voi] [+syl,-hi]
+	$ Preceding consonant cannot be [+front].
+		e > i / {[+cons,+voi,-front,+lab];[+lab] [+cons,+voi,-front]} __ [+cor,-voi] [+syl,-hi]
 			$ mărita probably analogized to mărit, as allowing the labial to be up to three phones away would incorrectly affect ferece and șoarece.
 
 $ NEW RULE: Partial assimilation of [j] to following low vowel after singleton velar stops
@@ -1107,7 +1113,8 @@ $ Nasal assimilation
 	n > m / __ [-cont,+lab]
 
 $ NEW RULE: [j] excrescence between [ˈɨ] and [n] + a palatal (semi)vowel
-	∅ > j / ˈɨ __ n [-cons,+front,-lo]
+	∅ > j / ˈɨ __ n [-cons,+front,-lo] ([+syl]) #
+		$ This does not occur in mânecă, hence the conditioning making the vowel be word-final.
 		$ NB: This has to have happened after the breakup of Common Romanian; see Aromanian mãni, pãni, cãni for Daco-Romanian mâine, pâine, and câine.
 		$ As such, words like genitive/dative române for singular română are likely analogical,
 		$ as the difference between Latin -ae and -em must have been eliminated by the time this change took place.
@@ -1130,14 +1137,10 @@ $ NEW RULE: [r] to [n] assimilation
 				$ Does not occur in in renunculum>rărunchi because of reinforcement from preceding [r]. Undoing below.
 					n > r / r [+syl] __ [+syl] n
 
-r > n / s [+syl] [+nas] ([-syl,-cons,])* [+syl,-hi,-prim] __ ([+syl,-hi])* #
-ə > i / # [+cons,+lab,+voi,-nas] __ [+ant,-voi,+strid]
-[+syl,-hi,-lo,-prim] > i / [+syl,-lo,-hi] [-delrel] __ k
-ə > e / [+front,+prim] p __ [+ant,+cons,-strid]
-
-$ NEW RULE: [ə] assimilates to [(ˈ)e] when after a labial consonant
-	$ Affects fabrica(re)>fereca, mastica(re)>mesteca, familiam>femeie, parietem>perete, and pariculam>pereche.
-		ə > e / [+lab,+cons] __ ([-syl])* [+syl,+front,-hi,-lo]
+$ [r] assimilates to preceding nasal in seamăn and semăna
+	$ If we condition this to only occur among [-hi] vowels, only the target words are affected.
+	$ However, this only works because seamăn has a final vowel at this stage that may have been deleted earlier.
+		r > n / [+syl,-hi] [+nas] [+syl,-hi] __ [+syl,-hi]
 
 $ NEW RULE: Word-inital [t͡ʃe] > [t͡ʃi] before a single [r]
 	$ This only affects two words, so it's a bit dubious, especially since the conditioning is so specific.
