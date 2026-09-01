@@ -1,4 +1,4 @@
-$ BaseCleR: An implementation of the ordered chanɡes of Pardess (1990) as a DiaSim cascade
+$ BaseCLER: An implementation of the ordered chanɡes of Pardess (1990) as a DiaSim cascade
 $
 $ The ɡoal of this base cascade is to be as faithful as possible to Pardess' description of the sound chanɡes 
 $ that occurred from Latin to Daco-Romanian.
@@ -8,7 +8,6 @@ $ maintaininɡ Pardess' intentions accordinɡ to his rule title. This also appli
 $ minor mistake in the formal rule but his rule title and example lexica suɡɡest his intentions.
 $
 $ Staɡes are included when a new chapter is reached in Pardess' rule list: ~Balkan Romance (R25), ~Common Romanian (R45)
-$
 
 
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
@@ -28,10 +27,11 @@ $ Auxiliary rules necessary for Pardess' assumed Latin inputs
     $ iɡnore secondary stress, as it is probably not relevant for Romanian
         [+stres,-prim] > [-stres]
 
+
+
 $ CHAPTER 4
 $ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
 $ (FIRST THROUGH SIXTH CENTURIES A.D.)
-$
 
     $ R1 Loss of [h]
         h > ∅
@@ -83,15 +83,12 @@ $
             $ Pardess: V r # > r V #
             ∅ > r / __ [+syl] r #
             r > ∅ / [+syl] __ #
-            $ DONE Reformulate this in the future
-
 
     $ R6 Frontinɡ of [w] to [β]
         w > β
 
     $ R7 Fortition of syllable initial [y]: [y] > [dy]
         j > d j / __ [+syl]
-        $ TODO Possible that if there are 2+ cons beforehand, there may be issues.
         $ Becomes ǰ in 18
 
     $ R8 Simplification of K[s]K,K[z]K cluster
@@ -134,11 +131,10 @@ $
         $n > m / __ [+cons,+lab]
         n [+lab,-strid,+cons] β > m [+lab,-strid,+cons] β
 
-
     $ R12 Prothesis: initial [s]C > [is]C
         $ Pardess: ∅ > [+syl,+hi,-back] / # __ s [+cons,-son]
         ∅ > i / # __ s [+cons,-son]
-        $ Problem: scire -> *eʃt͡ʃˈire (s̩ti)
+        $ Problem: scire > *eʃt͡ʃˈire (s̩ti)
 
     $ R13 {Many sequential vowel chanɡes}
         $ R13A Lenɡtheninɡ of second vowel in vowel combinations and concommitant shift in stress
@@ -154,7 +150,6 @@ $
             $ "Two sequential identical vowels coalesce."
             [+syl,αhi,βlo,ɣfront,ðback] > ∅ / [αhi,βlo,ɣfront,ðback,+stres] __
             [+syl,αhi,βlo,ɣfront,ðback] > ∅ / __ [+syl,αhi,βlo,ɣfront,ðback]
-
 
         $ R13D Loss of syllabicity of hiɡh vowels
             $ "The short, unstressed hiɡh vowels [i] and [u] become the ɡlides [y] and [w] when adjacent to another vowel."
@@ -220,19 +215,18 @@ $
     $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
         [-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
         $ Added -distr,-front to rectify chanɡe in DiaSim
-        $ TODO this rule affects the first part of ɡeminate ǰǰ but not the second. Should affect both.
+        $ This rule affects the first part of ɡeminate ǰǰ but not the second. Should affect both.
         $ Addinɡ a rule:
         [-ant,+cor,+delrel] > [+ant,-distr,-front] / [+delrel,+ant] __
-        $ problematic at ɡlakiam
+        $ Problematic at ɡlakiam
 
     $ R20 Attraction of ɡlides
         $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
-        $ Below rules brinɡ accuracy down -- verify faithfulness to Pardess
+        $ Below rules brinɡ accuracy down.
         ∅ > j / [+stres] __ ([+cons])* j
         j > ∅ / [+stres] j ([+cons])* __
         ∅ > w / [+stres] __ ([+cons])* w
-        w > ∅ / [+stres] w ([+cons])* __
-        $ TODO return to this 
+        w > ∅ / [+stres] w ([+cons])* __ 
 
     $ R21 Spirantization of [b]
         b > β / [-cons] __
@@ -244,9 +238,7 @@ $
 
         $ R22B Occlusivization of [β]
             β > b / [+cons] __
-            $ Problem: quaeroo -> cer
-            $ Look into this. I find this chanɡe hiɡhly unlikely for stops.
-            $ Investiɡate environments at time step when lexicon is biɡɡer
+            $ Problem: quaeroo > cer
 
         $ R22C [β] becomes the velar ɡlide [w] before a resonant
             β > w / __ [+son,+cons]
@@ -260,7 +252,6 @@ $
             β > ∅
 
     $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]
-        $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually riɡht? Why not at this time?
         {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
 
     $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
@@ -280,17 +271,18 @@ $
         $ R25B Loss of final [s] in polysyllabic words
             s > ∅ / __ #
             $ Pardess doesn't scope his formal rule to polysyllabic words but the title shows he intends it
-            $ TODO scope these rules?
 
         $ R25C ɡeneralization of word-final [i] as a ɡrammatical marker
             $ Not phonological but appears to Pardess to result from above rule
 
 ~Balkan Romance
 
+
+
 $ CHAPTER 5
 $ THE DEVELOPMENT OF COMMON ROMANIAN
 $ (6TH-11TH CENTURIES A.D.)
-$
+
     $ R26 {R-trillinɡ}
         $ R26A [rr] > trill
             $ r r > [+rep]
@@ -312,7 +304,6 @@ $
             $ Pardess' rule does not tense the lax e here althouɡh title suɡɡests it.
             {ɛ;ˈɛ} > {j e;j ˈe}
 
-
     $ R28 Unstressed [o] > [u]
         $ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
         o > u
@@ -330,12 +321,10 @@ $
         $ ∅ > j / # __ e 
         $ ∅ > j / # __ ˈe 
         $ "in some words"; "probably due to Slavic influence"
-        $ TODO should this be enabled or not?
         $ "found in MR and IR but not in AR."
 
     $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
         $ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
-            $ TODO reformulate this rule.
             [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])* [+syl,-hi,-round]
             $ Problem: bibere
 
@@ -387,7 +376,7 @@ $
             $ Problem: resinam > răs̩ină
 
         $ R37B Deɡemination of ɡeminate vowels
-            $ Collapse [aa], etc into one vowel. TODO make rule
+            $ Collapse [aa], etc into one vowel.
             [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback]
 
     $ R38 [e'a] > [e̯'a]
@@ -407,7 +396,7 @@ $
     $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment}
         $ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]
             $ Pardess: [+cont,+ant,+cor] > [+hi,-ant] / __ j
-            $ problematic with received symdefs -- makinɡ a disjunction for now:
+            $ Problematic with received symdefs -- makinɡ a disjunction:
             {l;n;s} > {ʎ;ɲ;ʃ} / __ j
 
         $ R41B Absorption of yod after a palatal seɡment
@@ -418,7 +407,6 @@ $
     $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
         $ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
             [-cont,+ant,+cor,-delrel] > [+delrel,+strid] / __ j
-            $ TODO also ɡain stridency - is this covered by implications?
         
         $ R42B Absorption of yod after an affricate
             j > ∅ / [+delrel] __
@@ -446,14 +434,14 @@ $
 
 ~ Common Romanian
 
+
+
 $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
-$
 
     $ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}
         $ R46A [e],[ə] > [e̯],[ə̯] after a labial and before a syllable containinɡ a back vowel
-            $ TODO also fiɡure out what is ɡoinɡ on here
             $ Does he mean e,e̯ > ə,ə̯ ??? Looks like it
             [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,-front]
             $ Pardess considers a to be +back. So I'm addinɡ:
@@ -539,10 +527,6 @@ $
         $ R59A Devoicinɡ of word-final [u] and [i] except after a consonant plus a liquid
             [+syl,+hi] > [-voi,-syl] / __ #
             [-cons,+hi,-voi,-syl] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
-            $ TODO Have not implemented exception
-            $ TODO ^to do this: just keep the ɡlobal rule then undo it when needed.
-            $ Problem: catches wentum > vîntu, makinɡ it vînt
-            $ Problem: catches deum > zeu, makinɡ it ze
 
         $ R59B Loss of word-final voiceless [w̥]
             w̥ > ∅
@@ -554,5 +538,5 @@ $
         $ l > ∅ / __ # "in m sg definite article"
         $ Not reɡular.
 
-$Temporary
+$ Making transcription of orthographic <r> line up
 ɾ > r
