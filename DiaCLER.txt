@@ -417,8 +417,8 @@ $ R9 Deletion of [k]: [nkt] > [nt]
 $ R10 {Various consonant assimilations}
 	$ R10A Assimilation of [r] to [s] (sporadic)
 		$r > s / __ s
-		$ EDIT: This change only appears to occur after stressed round vowels.
-			r > s / [+stres,+round] __ s
+		$ EDIT: This change only appears to occur after stressed round vowels. Now changed again by CM 9/16.
+			$r > s / [+stres,+round] __ s
 				$ Notes on conditioning:
 					$ If we assumed a long [ˈoː] for deorsum (per REW 2567), and if we also assumed that attested dossum was the source for dos instead of dorsum (per REW 2755),
 					$ we would be able to condition this rule on the length of the preceding vowel and keep ursum>urs in our lexicon.
@@ -426,6 +426,8 @@ $ R10 {Various consonant assimilations}
 					$ (In fact, we might do well to place this change much earlier than Pardess places it, as it seems to have occurred before the breakup of Latin.)
 					$ As such, it seems safer to assume that ursum would have become *us by regular sound change alone,
 					$ but it was reborrowed into the language in its more archaic form sometime after the application of this rule (hence its exclusion).
+		$ CM EDIT 9/16/26: the actual conditioning is more likely that this occurs only when a coronal stands on the other side of the vocoid or vocoid sequence before the /rs/. This is more likely as it would be motivated by reducing the number of distinct articulations at the same place of articulation (coronal). In this way morsica and ursus are regular without hyperconditioning for stress or removal from the lexicon. 
+			r > s / [+cor] ([-cons])* __ s
 
 	$ R10B Assimilation of [p] to [s]
 		p > s / __ s
