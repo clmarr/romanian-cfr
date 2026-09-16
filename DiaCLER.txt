@@ -809,8 +809,8 @@ $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
 
 $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
 	$ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
-		$ NOT IN PARDESS: Allowed before two-nasal cluster.
-			[+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-back,+lo] $ (this case doesn't happen before [e] for some reason?)
+		$ NOT IN PARDESS: Allowed before two-nasal cluster. CM: this is in Pardess -- see his example penna > pană. His exception is only to single n, and to m followed by a consonant. 
+			[-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-back,+lo] $ (this case doesn't happen before [e] for some reason?)
 		$ Nasalless case.
 			[+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas,-syl])* [+syl,-hi,-back]
 		$ Non-immediate nasal case.
@@ -833,23 +833,31 @@ $ [ˈɛe] hiatus resolution
 	e > ∅ / ˈɛ __
 
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
-	$ EDIT: a-insertion only after primary stressed lax V. 
-		∅ > a / [+prim,-tense] __
-		a > ˈa / [-tense,+stres] __
-		[-cons,-tense] > [-syl] / __ [+syl] $ Doesn't happen when no a-insertion occurs (hence / __ [+syl]).
+	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
+		∅ > a / [-tense] __
+
+		$a > ˈa / [-tense,+stres] __
+		$[-cons,-tense] > [-syl] / __ [+syl] $ Doesn't happen when no a-insertion occurs (hence / __ [+syl]).
 	$ Also, Pardess appears to also imply tensinɡ...
-		[-syl,-tense] > [+tense]
+		$[-syl,-tense] > [+tense]
+	$ CM 9/16/26 edit R31B RESOLUTION -- consolidation of the three above, as well as R32 below, into one rule; 
+	[-hi,-lo,+prim] a > [-syl,+tense] [+prim] 
+	
 
 $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
-	ˈe a > e ˈa
+		$CM EDIT 9/16 -- consolidated into R31B RESOLUTION 
+	$ˈe a > e ˈa
 	$ Implied by rule nameː
 		$ e > e̯ / __ [-cons,+lo] DEACTIVATED: This happens later in R38.
 
 $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
 	${a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
 	$ EDIT: does not happen before [mV].
-		{a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] {[-cons];[+cons,-nas];#}
-		{a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context.
+		${a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] {[-cons];[+cons,-nas];#}
+		${a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context.
+	$ CM edit 9/16 -- consolidated the above to two rather than four. Functionally equivalent -- except a third rule (EDIT) that covers mN only for unstressed o and a (miel, cumnat, dumestic)
+	{a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
+	{a;o} > {ə;u} / __ m [-syl]
 
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	$l > ɾ / [+syl] __ [+syl]
