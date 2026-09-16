@@ -739,12 +739,15 @@ $ R26 {R-trillinɡ}
 	$ R26A [rr] > trill
 		$ r r > [+rep]
 		$ Rather, we'll tap all non-ɡeminates:
-			r > ɾ
-			ɾ ɾ > r r
+			$r > ɾ
+			$ɾ ɾ > r r
 
-	$ R26B Initial [r] > [rr]
-		$ r > [+rep] / # __
-			ɾ > r r / # __
+	$ CM 9/16/26 -- consolidation of R26 in way that also informs later rules-- r > ɾ IF NOT FOLLOWED BY A VOCOID OR NASAL (e.g. merge treated as trill, miere with tap, by later je > e rule; adormi treated as before tap) .
+		r > ɾ / __ [nnas,ncons]
+
+	$ R26B Initial [r] > [rr]; adjusted - CM 9/16/26
+		$ r > [+rep] / # __ $ɾ > r r / # __ 
+		∅ > r / # __ ɾ
 
 $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 	$ R27A Tensinɡ of [ɛ] before nasal + oral consonant
@@ -769,7 +772,7 @@ $ R28 Unstressed [o] > [u]
 			$ Additional note on the above rule: The first feature matrix has [+cons] because this does not occur before [w]. This does, however, occur before [j], hence the [-syl] in the second matrix.
 		o > u / __ {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} {[-syl,+lab,+voi];[-syl,-lab]} $ blocks sonorant-initial clusters while letting sonorant-final clusters pass through...
 		o > u / __ {[-syl,+lab,+voi];[-syl,-lab]} {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} $ ...blocks sonorant-final clusters while letting sonorant-initial clusters pass through
-		o > u / __ {r r;l l;n n;m m} $ geminate handling
+		o > u / __ {r;l l;n n;m m} $ geminate handling
 			$ Now that we have [p]-deletion and know that it has to precede k>p, vocalism in baptidza(re)>boteza and baptidionem>botejune is no longer accurately explained by this conditioning... FLAG -- reexamine later
 
 $ R29 {ELLU-related chanɡes (Not reɡular)}
@@ -808,17 +811,23 @@ $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
 
 
 $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
-	$ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant
-		$ NOT IN PARDESS: Allowed before two-nasal cluster. CM: this is in Pardess -- see his example penna > pană. His exception is only to single n, and to m followed by a consonant. 
-			[-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-back,+lo] $ (this case doesn't happen before [e] for some reason?)
-		$ Nasalless case.
-			[+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas,-syl])* [+syl,-hi,-back]
-		$ Non-immediate nasal case.
-			[+syl,-hi,-lo,+stres] > [-tense] / __ [+cons,-nas] [+nas] [+syl,-back,+lo] $ (this case also doesn't happen before [e]...)
+	$ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant. CM 9/16/26 -- removed +syl from feat matrices with +stres -- this is redundant per feature implications.
+		$ NOT IN PARDESS: Allowed before two-nasal cluster. CM: this is in Pardess -- see his example penna > pană. His exception is only to single n, and to m followed by a consonant; what isn't in pardess is that this hits mn (doamna, toamna); what pardess seems to miss is that it DOESN'T happen before n + non-nasal cons. 
+			[-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round] $ (this case doesn't happen before [e] for some reason? -- CM EDIT 9/16 nope, it is just undone by R53B before [e] -- final element now as [+syl,-hi,-round] not [+syl,-back,+lo])
+
+		$ Nasalless case. -- consolidated per CM 9/16/26
+			$[-hi,-lo,+stres] > [-tense] / __ ([-nas,-syl])* [+syl,-hi,-round]
+		$ Non-immediate nasal case.-- consolidated per CM 9/16/26
+			$[-hi,-lo,+stres] > [-tense] / __ [+cons,-nas] [+nas] [+syl,-hi,-round] $ (this case also doesn't happen before [e]...) (CM EDIT 9/16 nope, it is just undone by R53B before [e] -- final element now as [+syl,-hi,-round] not [+syl,-back,+lo])
+		$ cases not before nasals cosnolidated by CM 9/16/26
+		[-hi,-lo,+stres] > [-tense] / __ ([-nas,-syl] ([-syl])*) [+syl,-hi,-round]
+
 		$ Single [m] case.
-			[+syl,-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-back]
+			[-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-back]
+
+
 		$ EDIT: This doesn't occur before [w]. We can simply undo the change below.
-			[+syl,-hi,-lo,-tense] > [+tense] / __ w
+			[+stres,-hi,-lo] > [+tense] / __ w
 	
 		$ This change should be occurring in the second-conjugation infinitives, but since we're representing them without final -re in our lexicon, this is not taking place.
 		$ Thankfully, with the exception of the words spre, pe, and ie, all words with final [ˈe] at this point in the lexicon are second-conjugation verbs.
@@ -1009,15 +1018,14 @@ $ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}
 	$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
 		ə̯ > ∅ / __ [+syl,+lo]
 
-$ R50 + R51
-	$ R50 backinɡ of front vowels after [rr]
-		{e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r r __
-		
-	$ R51 Simplification of [rr] to [r]
-		r r > ɾ
-
-$ <r> trilling
-	ɾ > r
+$ R50 + R51. 
+	$ R50 backinɡ of front vowels after [rr].  ${e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r r __
+	$ R51 Simplification of [rr] to [r] $r r > ɾ
+	$ CM EDIT 9/16 -- now r r is r ɾ medially and initially. Revised accordingly.
+		$new R50: 
+	{ɾ;r} > {∅;∅} / r __ 
+		$new R51
+	{e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
 
 $ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u] [+nas]
 	n > r / ə __ [+syl,+hi,+back] [+nas]
@@ -1033,6 +1041,12 @@ $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of
 
 	$ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
 		e̯ ˈa > ˈe / __ ([-syl])* [+syl,+front,-lo,-hi]
+
+$ CM EDIT 9/16/2026 -- new rule -- fed by R53B (53B was already before 47B) -- non-initial jˈe > ˈe before (r/s) (T-voi) front (non-low): cireși, dumestec/-ic, arete, merge, perete, vechi. Counterfed by l-tapping. e/ʎ/ʃ/d͡ʒ treated as class -- +front,-lo.
+	j > ∅ / @ __ ˈe ([+cor,+cont,-nas,-lat]) ([-voi,-cont]) [+front,-lo]
+
+$ <r> trilling. CM 9/16/26 - moved to after je > e rule. 
+	ɾ > r
 
 $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 	$ R47A Raisinɡ of [ə] before [n] or [m]CV
@@ -1235,10 +1249,11 @@ $ NEW RULE: [e] raises to [i] between a voiced consonant and a voiceless coronal
 			$ mărita probably analogized to mărit, as allowing the labial to be up to three phones away would incorrectly affect ferece and șoarece.
 
 $ NEW RULE: Partial assimilation of [j] to following low vowel after singleton velar stops
-	j > e̯ / {#;[+syl]} [-cont,+back] __ [+lo]
+	$j > e̯ / {#;[+syl]} [-cont,+back] __ [+lo] -- CONSOLIDATED CM 9/16/26
+	j > e̯ / # ((@)* [+syl]) [-cont,+back] __ [+lo]
 
-$ Yod deletion
-	j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi] [-cont]
+$ Yod deletion -- CM EDIT 9/16/26 -- NOW REDUNDANT GIVEN je > e rule earlier added 9/16/26
+	$j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi] [-cont]
 	
 $ [ij] > [j] before a vowel
 	i > ∅ / __ j [+syl]
