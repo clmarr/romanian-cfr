@@ -215,6 +215,7 @@ w > ∅ / [+syl,+hi,+back] __
 [+stres,-hi,-lo] > [+tense,-cons,-lat,+cont,0delrel] / __ w
 [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
 e > ∅ / ˈɛ __
+[+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,+stres,-hi]
 ∅ > a / [-tense] __
 [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
 {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
@@ -229,7 +230,6 @@ l l > l
 w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
 [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
 [-cons,+lo,-stres,-long] > ə / @ __
-e > e̯ / __ [-cons,+lo]
 i > e / [+cons] __ [+cons,+delrel]
 w ə > ∅ / [-cons,-syl] [+syl] __ #
 ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
@@ -260,7 +260,6 @@ j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
 [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
 [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
 [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
-[+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,+stres,-hi]
 n n > n 
 [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
 [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] #

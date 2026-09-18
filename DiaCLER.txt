@@ -842,6 +842,9 @@ $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
 $ [ˈɛe] hiatus resolution
 	e > ∅ / ˈɛ __
 
+	$ CM 9/18/26 -- earlier raising of e before non-high stress vowels. Counterbled by diphthongization (unless we want to complicate the formulation), feeds affrication. 
+[+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,+stres,-hi]
+
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
 		∅ > a / [-tense] __
@@ -919,7 +922,8 @@ $ R38 [e'a] > [e̯'a]
 	$ Not sure why the a is accented in the rule name. Mistake?
 	$ The only example he provides is v'ulpea.
 	$ But it looks like stressed case needs accounted for too so:
-		e > [-syl] / __ [-cons,+lo]
+		$e > [-syl] / __ [-cons,+lo]
+	$9/18/26 CM -- removed, no domain. Should be handled with the existing ea > e̯a stress rule. 
 
 $ R39 Lowerinɡ of unstressed internal [i]
 	i > e / [+cons] __ [+cons,+delrel]
@@ -1061,8 +1065,10 @@ $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 		$ EDIT: When this occurs before [m], it must be followed by a nonnasal consonant.
 		$ EDIT: When this occurs before [n], if it is immediately followed by a stressed vowel, that vowel must be [-hi].
 			[+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-			[+syl,+front,-hi,-lo] > [+hi] / __ n {[+cons];[+syl,-stres];[+syl,+stres,-hi]}
+			[+syl,+front,-hi,-lo] > [+hi] / __ n {[+cons];[+syl,-stres]} $ removed 9/18/26 by CM see note 1 below -- [+syl,+stres,-hi]}
 				$ "It is possible that some words were inherited from Late Latin with [e] already raised to [i] in this environment."
+				$ CM 9/18/2026 note 1 -- raising before non-high stressed vowels moved earlier -- cases of adineauri and ținea show it either sees through e̯ or happens before e̯ occurs; ținea shows it feeding affrication, which does not occur for casses in __ N C (timp, adins, dinte, tindă etc), nor for cases in __ n V-stres (cătină, piedin..). 
+				$ CM 9/18/2026 note 2 -- execptions pepene noaten pieptene have pattern... TODO
 
 $ R48 Deɡemination of [nn]: [nn] > [n]
 	n n > n
