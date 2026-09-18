@@ -878,9 +878,6 @@ $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
 		$CM 9/18/26 fix -- this is much simpler. It happens for ALL posttonicll before a, and before a stressed vowel, with at least one non-labial element beforehand, which can be the prior tonic vowel. All exceptions have no non-labials beforehand: pulla to pulă, molla to moală, olla to oală; or, they are after non-tonic vowels: călăreți etc. As such, however, it must come before diphthongization in moală and oală. 
 	l l > w / # (@)* [-lab] (@)* __ a (([-syl])* [-prim])* ([-syl])* #
 
-$ R35B Deɡemination of [ll]
-		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R35 so that R35 now acts upon single l.
-		{l l;m m} > {l;m}
 
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
@@ -893,6 +890,9 @@ $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ CM 9/16/26 edit R31B RESOLUTION -- consolidation of the three above, as well as R32 below, into one rule; 
 	[-hi,-lo,+prim] a > [-syl,+tense] [+prim] 
 	
+$ R35B Deɡemination of [ll]
+		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R35 so that R35 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. 
+		{l l;m m} > {l;m}
 
 $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
 		$CM EDIT 9/16 -- consolidated into R31B RESOLUTION 

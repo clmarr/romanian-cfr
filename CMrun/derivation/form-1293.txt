@@ -1,19 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1293:
-#parˈietem# >>> *#peɾʲˈete# ( GOLD : #perˈete#) :
-p a r ˈi e t e m 
-*#parˈiete# | 44 : m > ∅ / [-stres] __ #
-*#pariˈeːte# | 123 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#parjˈeːte# | 129 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#parjˈete# | 136 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#parjˈete#
-*#paɾjˈete# | 176 : r > ɾ / __ [nnas,ncons]
-*#paɾjˈɛte# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#paɾjˈɛate# | 217 : ∅ > a / [-tense] __
-*#paɾje̯ˈate# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pəɾje̯ˈate# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pəɾʲje̯ˈate# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pəɾʲe̯ˈate# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#pəɾʲe̯ˈate#
-*#pəɾʲˈete# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#peɾʲˈete# | 302 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
-Final form : *#peɾʲˈete#
+#lˈakweum# >>> *#lˈat͡sʲ# ( GOLD : #lˈat͡s#) :
+l ˈa k w e u m 
+*#lˈakwjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#lˈakjum# | 17 : [-cons,-syl] > ∅ / [+cons] __ [-cons,-syl] [+syl,+hi]
+*#lˈakju# | 44 : m > ∅ / [-stres] __ #
+*#lˈakkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#lˈakc͡ɕu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
+*#lˈatc͡ɕu# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
+*#lˈatt͡sʲu# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
+*#lˈat͡sʲu# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#lˈat͡sʲu#
+Common Romanian stage form : *#lˈat͡sʲu#
+*#lˈat͡sʲw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lˈat͡sʲ# | 291 : w̥ > ∅ / [-syl] __ #
+Final form : *#lˈat͡sʲ#

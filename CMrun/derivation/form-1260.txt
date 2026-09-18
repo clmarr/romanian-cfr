@@ -1,9 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1260:
-#kˈaput# >>> *#kˈap# ( GOLD : #kˈap#) :
-k ˈa p u t 
-*#kˈapu# | 88 : [+cons,-cont] > ∅ / __ #
-Balkan Romance stage form : *#kˈapu#
-Common Romanian stage form : *#kˈapu#
-*#kˈapw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kˈap# | 291 : w̥ > ∅ / [-syl] __ #
-Final form : *#kˈap#
+#tˈenet# >>> *#tʲˈine# ( GOLD : #t͡sˈine#) :
+t ˈe n e t 
+*#tˈene# | 88 : [+cons,-cont] > ∅ / __ #
+*#tˈɛne# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#tˈɛne#
+*#tjˈɛne# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#tjˈene# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tʲjˈene# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tʲˈene# | 233 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#tʲˈene#
+*#tʲˈine# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+Final form : *#tʲˈine#

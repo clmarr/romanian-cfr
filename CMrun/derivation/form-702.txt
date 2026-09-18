@@ -1,22 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 702:
-#mˌikstˈiːkium# >>> *#mestʲˈit͡sʲ# ( GOLD : #mistrˈet͡s#) :
-m ˌi k s t ˈiː k i u m 
-*#mˌikstˈiːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mikstˈiːkjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#mikstˈiːkju# | 44 : m > ∅ / [-stres] __ #
-*#mistˈiːkju# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#mistˈiːkkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#mestˈiːkkju# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#mestˈikkju# | 136 : [+syl] > [-long,-splng] 
-*#mestˈikc͡ɕu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#mestˈitc͡ɕu# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
-*#mestˈitt͡sʲu# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-*#mestˈit͡sʲu# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#mestˈit͡sʲu#
-*#mestjˈit͡sʲu# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#mestʲjˈit͡sʲu# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mestʲˈit͡sʲu# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#mestʲˈit͡sʲu#
-*#mestʲˈit͡sʲw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mestʲˈit͡sʲ# | 291 : w̥ > ∅ / [-syl] __ #
-Final form : *#mestʲˈit͡sʲ#
+#sˈoːrikem# >>> *#so̯ˈaret͡ʃe# ( GOLD : #ʃo̯ˈaret͡ʃe#) :
+s ˈoː r i k e m 
+*#sˈoːrike# | 44 : m > ∅ / [-stres] __ #
+*#sˈoːreke# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#sˈoreke# | 136 : [+syl] > [-long,-splng] 
+*#sˈoret͡ʃe# | 171 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#sˈoret͡ʃe#
+*#sˈoɾet͡ʃe# | 176 : r > ɾ / __ [nnas,ncons]
+*#sˈɔɾet͡ʃe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sˈɔaɾet͡ʃe# | 216 : ∅ > a / [-tense] __
+*#so̯ˈaɾet͡ʃe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+Common Romanian stage form : *#so̯ˈaɾet͡ʃe#
+*#so̯ˈaret͡ʃe# | 251 : ɾ > r 
+Final form : *#so̯ˈaret͡ʃe#

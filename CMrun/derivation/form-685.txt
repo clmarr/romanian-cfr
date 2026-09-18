@@ -1,14 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 685:
-#pˌorkˈiːnam# >>> *#purt͡ʃˈinə# ( GOLD : #purt͡ʃˈinə#) :
-p ˌo r k ˈiː n a m 
-*#porkˈiːnam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈiːna# | 44 : m > ∅ / [-stres] __ #
-*#porkˈina# | 136 : [+syl] > [-long,-splng] 
-*#port͡ʃˈina# | 171 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#port͡ʃˈina#
-*#purt͡ʃˈina# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#purt͡ʃˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#purt͡ʃjˈinə# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#purt͡ʃˈinə# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#purt͡ʃˈinə#
-Final form : *#purt͡ʃˈinə#
+#rˈubeum# >>> *#rˈujb# ( GOLD : #rˈojb#) :
+r ˈu b e u m 
+*#rˈubjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rˈubju# | 44 : m > ∅ / [-stres] __ #
+*#rˈubbju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#rˈujbbu# | 151 : b b j > j b b / [+stres] __
+*#rˈujbu# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#rˈujbu#
+*#ɾˈujbu# | 176 : r > ɾ / __ [nnas,ncons]
+*#rɾˈujbu# | 177 : ∅ > r / # __ ɾ
+Common Romanian stage form : *#rɾˈujbu#
+*#rˈujbu# | 244 : {ɾ;r} > {∅;∅} / r __
+*#rˈujbw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rˈujb# | 291 : w̥ > ∅ / [-syl] __ #
+Final form : *#rˈujb#

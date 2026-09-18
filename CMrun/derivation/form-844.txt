@@ -1,19 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 844:
-#juːdˈikium# >>> *#ʑudˈet͡sʲ# ( GOLD : #ʒudˈet͡s#) :
-j uː d ˈi k i u m 
-*#juːdˈikjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juːdˈikju# | 44 : m > ∅ / [-stres] __ #
-*#djuːdˈikju# | 106 : j > d j / # __ [+syl] [+cons]
-*#djuːdˈikkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#djuːdˈekkju# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#djudˈekkju# | 136 : [+syl] > [-long,-splng] 
-*#ɟ͡ʑudˈekc͡ɕu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#ɟ͡ʑudˈetc͡ɕu# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
-*#ɟ͡ʑudˈett͡sʲu# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-*#ɟ͡ʑudˈet͡sʲu# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɟ͡ʑudˈet͡sʲu#
-Common Romanian stage form : *#ɟ͡ʑudˈet͡sʲu#
-*#ʑudˈet͡sʲu# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʑudˈet͡sʲw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʑudˈet͡sʲ# | 291 : w̥ > ∅ / [-syl] __ #
-Final form : *#ʑudˈet͡sʲ#
+#juːraːmˈentum# >>> *#ʑurəmˈɨnt# ( GOLD : #ʒurəmˈɨnt#) :
+j uː r aː m ˈe n t u m 
+*#juːraːmˈentu# | 44 : m > ∅ / [-stres] __ #
+*#djuːraːmˈentu# | 106 : j > d j / # __ [+syl] [+cons]
+*#djuːraːmˈɛntu# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#djuramˈɛntu# | 136 : [+syl] > [-long,-splng] 
+*#ɟ͡ʑuramˈɛntu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
+Balkan Romance stage form : *#ɟ͡ʑuramˈɛntu#
+*#ɟ͡ʑuɾamˈɛntu# | 176 : r > ɾ / __ [nnas,ncons]
+*#ɟ͡ʑuɾamˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#ɟ͡ʑuɾəmˈentu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ɟ͡ʑuɾəmˈentu#
+*#ɟ͡ʑuɾəmˈəntu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#ɟ͡ʑurəmˈəntu# | 251 : ɾ > r 
+*#ɟ͡ʑurəmˈɨntu# | 265 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#ʑurəmˈɨntu# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ʑurəmˈɨntw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʑurəmˈɨnt# | 291 : w̥ > ∅ / [-syl] __ #
+Final form : *#ʑurəmˈɨnt#

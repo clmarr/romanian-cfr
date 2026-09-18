@@ -1,19 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 672:
-#kˌatˈellam# >>> *#kətʲe̯ˈa# ( GOLD : #kət͡se̯ˈa#) :
-k ˌa t ˈe l l a m 
-*#katˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#katˈella# | 44 : m > ∅ / [-stres] __ #
-*#katˈɛlla# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#katˈɛlla#
-*#katjˈɛlla# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
-*#katjˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#katjˈɛlla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#katjˈɛwa# | 215 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#katjˈɛawa# | 217 : ∅ > a / [-tense] __
-*#katje̯ˈawa# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kətje̯ˈawə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kətje̯ˈa# | 229 : w ə > ∅ / [-cons,-syl] [+syl] __ #
-*#kətʲje̯ˈa# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kətʲe̯ˈa# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#kətʲe̯ˈa#
-Final form : *#kətʲe̯ˈa#
+#kˈokkinum# >>> *#ko̯ˈat͡ʃin# ( GOLD : #ko̯ˈat͡ʃin#) :
+k ˈo k k i n u m 
+*#kˈokkinu# | 44 : m > ∅ / [-stres] __ #
+*#kˈokkenu# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#kˈokenu# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#kˈot͡ʃenu# | 171 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kˈot͡ʃenu#
+*#kˈɔt͡ʃenu# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kˈɔat͡ʃenu# | 216 : ∅ > a / [-tense] __
+*#ko̯ˈat͡ʃenu# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+Common Romanian stage form : *#ko̯ˈat͡ʃenu#
+*#ko̯ˈat͡ʃinu# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#ko̯ˈat͡ʃinw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ko̯ˈat͡ʃin# | 291 : w̥ > ∅ / [-syl] __ #
+Final form : *#ko̯ˈat͡ʃin#

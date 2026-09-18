@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 678:
-#iˌuwˈenkam# >>> *#ʑuˈinkə# ( GOLD : #ʒˈunkə#) :
-i ˌu w ˈe n k a m 
-*#jˌuwˈenkam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juwˈenkam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#juwˈenka# | 44 : m > ∅ / [-stres] __ #
-*#juβˈenka# | 101 : w > β / __ [-cons]
-*#djuβˈenka# | 106 : j > d j / # __ [+syl] [+cons]
-*#djuβˈɛnka# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɟ͡ʑuβˈɛnka# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#ɟ͡ʑuˈɛnka# | 165 : β > ∅ 
-Balkan Romance stage form : *#ɟ͡ʑuˈɛnka#
-*#ɟ͡ʑuˈenka# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#ɟ͡ʑuˈenkə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ɟ͡ʑuˈenkə#
-*#ɟ͡ʑuˈinkə# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ʑuˈinkə# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Final form : *#ʑuˈinkə#
+#ˌowˈiːnam# >>> *#o̯ˈajnə# ( GOLD : #ˈojnə#) :
+ˌo w ˈiː n a m 
+*#owˈiːnam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ˈowinam# | 31 : [+syl] [-cons,-syl,+hi] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
+*#ˈowina# | 44 : m > ∅ / [-stres] __ #
+*#ˈoβina# | 101 : w > β / __ [-cons]
+*#ˈoβena# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#ˈoena# | 165 : β > ∅ 
+*#ˈojena# | 169 : ∅ > j / [+syl,+stres,αfront,αlo] __ e
+Balkan Romance stage form : *#ˈojena#
+*#ˈɔjena# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔajena# | 216 : ∅ > a / [-tense] __
+*#o̯ˈajena# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈajenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#o̯ˈajenə#
+*#o̯ˈajinə# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#o̯ˈainə# | 279 : j > ∅ / __ [+syl,+front,+hi]
+*#o̯ˈajnə# | 307 : i > j / [+syl] __
+Final form : *#o̯ˈajnə#

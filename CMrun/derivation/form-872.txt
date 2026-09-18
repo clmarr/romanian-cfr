@@ -1,12 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 872:
-#jejuːnˈaː# >>> *#jeʑunˈa# ( GOLD : #aʒunˈa#) :
-j e j uː n ˈaː 
-*#jedjuːnˈaː# | 107 : j > d j / [+syl,-stres] __ [+syl,+round]
-*#jeddjuːnˈaː# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#jeddjunˈa# | 136 : [+syl] > [-long,-splng] 
-*#jedɟ͡ʑunˈa# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#jeɟ͡ʑunˈa# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#jeɟ͡ʑunˈa#
-Common Romanian stage form : *#jeɟ͡ʑunˈa#
-*#jeʑunˈa# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Final form : *#jeʑunˈa#
+#inklinˈaː# >>> *#ɨnkjinˈa# ( GOLD : #ɨnkjinˈa#) :
+i n k l i n ˈaː 
+*#enklenˈaː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#enklenˈa# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enklenˈa#
+*#enklinˈa# | 214 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#enkljinˈa# | 231 : ∅ > j / l __ [+syl,+front,+hi]
+*#enkʎjinˈa# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#enkʎinˈa# | 233 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#enkʎinˈa#
+*#inkʎinˈa# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnkʎinˈa# | 269 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnkjinˈa# | 275 : ʎ > j 
+*#ɨnkinˈa# | 279 : j > ∅ / __ [+syl,+front,+hi]
+*#ɨnkjinˈa# | 280 : ∅ > j / [-cont,+back] __ [+syl,+front,+hi]
+Final form : *#ɨnkjinˈa#

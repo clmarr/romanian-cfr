@@ -1,19 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 909:
-#pertraːjˈike# >>> *#petrˈet͡ʃe# ( GOLD : #petrˈet͡ʃe#) :
-p e r t r aː j ˈi k e 
-*#pertrˈaːjike# | 31 : [+syl] [-cons,-syl,+hi] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#pertrˈaːjke# | 32 : i > ∅ / j __
-*#pertrˈɛːke# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
-*#petrˈɛːke# | 79 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#petrˈɛke# | 136 : [+syl] > [-long,-splng] 
-*#petrˈɛt͡ʃe# | 171 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#petrˈɛt͡ʃe#
-*#petɾˈɛt͡ʃe# | 176 : r > ɾ / __ [nnas,ncons]
-*#petɾˈet͡ʃe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#petɾˈɛt͡ʃe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#petɾˈɛat͡ʃe# | 217 : ∅ > a / [-tense] __
-*#petɾe̯ˈat͡ʃe# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-Common Romanian stage form : *#petɾe̯ˈat͡ʃe#
-*#petɾˈet͡ʃe# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#petrˈet͡ʃe# | 251 : ɾ > r 
-Final form : *#petrˈet͡ʃe#
+#kaːnˈuːtum# >>> *#kərˈunt# ( GOLD : #kərˈunt#) :
+k aː n ˈuː t u m 
+*#kaːnˈuːtu# | 44 : m > ∅ / [-stres] __ #
+*#kanˈutu# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kanˈutu#
+*#kənˈutu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#kənˈutu#
+*#kənˈuntu# | 240 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#kərˈuntu# | 246 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#kərˈuntw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kərˈunt# | 291 : w̥ > ∅ / [-syl] __ #
+Final form : *#kərˈunt#
