@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1224:
-#korrˈiɡiam# >>> *#kure̯ˈadzʲe# ( GOLD : #kure̯ˈa#) :
+#korrˈiɡiam# >>> *#kure̯ˈazʲe# ( GOLD : #kure̯ˈa#) :
 k o r r ˈi ɡ i a m 
 *#korrˈiɡjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#korrˈiɡja# | 44 : m > ∅ / [-stres] __ #
@@ -8,15 +8,16 @@ k o r r ˈi ɡ i a m
 *#korrˈeɡɟ͡ʑa# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
 *#korrˈedɟ͡ʑa# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
 *#korrˈedd͡zʲa# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-Balkan Romance stage form : *#korrˈedd͡zʲa#
-*#korɾˈedd͡zʲa# | 176 : r > ɾ / __ [nnas,ncons]
-*#kurɾˈedd͡zʲa# | 197 : o > u / __ r
-*#kurɾˈɛdd͡zʲa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kurɾˈɛadd͡zʲa# | 215 : ∅ > a / [-tense] __
-*#kurɾe̯ˈadd͡zʲa# | 216 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kurɾe̯ˈadd͡zʲə# | 228 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kurɾe̯ˈadd͡zʲə#
-*#kure̯ˈadd͡zʲə# | 245 : {ɾ;r} > {∅;∅} / r __
-*#kure̯ˈadzʲə# | 274 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#kure̯ˈadzʲe# | 288 : ə > e / [+front,+hi] __ #
-Final form : *#kure̯ˈadzʲe#
+*#korrˈed͡zʲa# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#korrˈed͡zʲa#
+*#korɾˈed͡zʲa# | 176 : r > ɾ / __ [nnas,ncons]
+*#kurɾˈed͡zʲa# | 197 : o > u / __ r
+*#kurɾˈɛd͡zʲa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kurɾˈɛad͡zʲa# | 217 : ∅ > a / [-tense] __
+*#kurɾe̯ˈad͡zʲa# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kurɾe̯ˈad͡zʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kurɾe̯ˈad͡zʲə#
+*#kure̯ˈad͡zʲə# | 244 : {ɾ;r} > {∅;∅} / r __
+*#kure̯ˈazʲə# | 273 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#kure̯ˈazʲe# | 287 : ə > e / [+front,+hi] __ #
+Final form : *#kure̯ˈazʲe#

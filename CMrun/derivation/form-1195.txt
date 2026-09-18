@@ -3,15 +3,15 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1195:
 t ˈe k s e 
 *#tˈesse# | 115 : k > s / __ s
 *#tˈɛsse# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#tˈɛse# | 170 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+*#tˈɛse# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 Balkan Romance stage form : *#tˈɛse#
 *#tjˈɛse# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
 *#tjˈese# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
 *#tjˈɛse# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tjˈɛase# | 215 : ∅ > a / [-tense] __
-*#tje̯ˈase# | 216 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#tʲje̯ˈase# | 233 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tʲe̯ˈase# | 234 : j > ∅ / [+cons,+front] __
+*#tjˈɛase# | 217 : ∅ > a / [-tense] __
+*#tje̯ˈase# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tʲje̯ˈase# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tʲe̯ˈase# | 233 : j > ∅ / [+cons,+front] __
 Common Romanian stage form : *#tʲe̯ˈase#
-*#tʲˈese# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#tʲˈese# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
 Final form : *#tʲˈese#

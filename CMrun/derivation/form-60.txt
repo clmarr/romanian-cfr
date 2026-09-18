@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 60:
-#ˌamaːrˈitiam# >>> *#aməre̯ˈatt͡sʲe# ( GOLD : #aməre̯ˈat͡sə#) :
+#ˌamaːrˈitiam# >>> *#aməre̯ˈat͡sʲe# ( GOLD : #aməre̯ˈat͡sə#) :
 ˌa m aː r ˈi t i a m 
 *#ˌamaːrˈitjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#amaːrˈitjam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
@@ -9,13 +9,14 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 60:
 *#amarˈettja# | 136 : [+syl] > [-long,-splng] 
 *#amarˈetc͡ɕa# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
 *#amarˈett͡sʲa# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-Balkan Romance stage form : *#amarˈett͡sʲa#
-*#amaɾˈett͡sʲa# | 176 : r > ɾ / __ [nnas,ncons]
-*#amaɾˈɛtt͡sʲa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#amaɾˈɛatt͡sʲa# | 215 : ∅ > a / [-tense] __
-*#amaɾe̯ˈatt͡sʲa# | 216 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#aməɾe̯ˈatt͡sʲə# | 228 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#aməɾe̯ˈatt͡sʲə#
-*#aməre̯ˈatt͡sʲə# | 252 : ɾ > r 
-*#aməre̯ˈatt͡sʲe# | 288 : ə > e / [+front,+hi] __ #
-Final form : *#aməre̯ˈatt͡sʲe#
+*#amarˈet͡sʲa# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#amarˈet͡sʲa#
+*#amaɾˈet͡sʲa# | 176 : r > ɾ / __ [nnas,ncons]
+*#amaɾˈɛt͡sʲa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#amaɾˈɛat͡sʲa# | 217 : ∅ > a / [-tense] __
+*#amaɾe̯ˈat͡sʲa# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#aməɾe̯ˈat͡sʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#aməɾe̯ˈat͡sʲə#
+*#aməre̯ˈat͡sʲə# | 251 : ɾ > r 
+*#aməre̯ˈat͡sʲe# | 287 : ə > e / [+front,+hi] __ #
+Final form : *#aməre̯ˈat͡sʲe#

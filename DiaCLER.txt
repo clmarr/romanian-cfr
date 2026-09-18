@@ -702,9 +702,14 @@ $ HIATUS RESOLUTION RULES
 		∅ > j / [+syl,+stres,αfront,αlo] __ e
 
 
-$ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]
-	{p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
-		$ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually riɡht? Why not at this time?
+$ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]. 
+		$ ll,nn,rr simplified later because of conditioning of later phenomena... excluded unless this can be postdated to after these. 
+		$ CM 9/18/26 -- DEGEMINATION CONSOLIDATION -- all obstruents degeminate at this time. Mm is handled later with ll. 
+			$ applies also to t/d+palatal, but does not degeminate pt
+			$ can actually capture this with just agreement in two features: cont and lab
+		$formerly:	{p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
+	[-son,scont,blab] > ∅ / __ [-son,scont,blab] 
+
 
 $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
 	$ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] > __ [-cons,-back]
@@ -769,6 +774,7 @@ $ R26 {R-trillinɡ}
 		$ r > [+rep] / # __ $ɾ > r r / # __ 
 		∅ > r / # __ ɾ
 
+
 $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 	$ R27A Tensinɡ of [ɛ] before nasal + oral consonant
 		[-cons] > [+tense] / __ [+nas] [+cons,-nas]
@@ -819,7 +825,6 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	l > ɾ / [+syl] __ [+syl]
 		$ "It did not apply to words of Slavic oriɡin" with more info, see p100
 
-
 $ Unstressed high vowel becomes a glide after another vowel
 	[+hi,-stres] > [-syl] / [+syl] __
 
@@ -864,6 +869,19 @@ $ [ˈɛe] hiatus resolution
 	$ CM 9/18/26 -- earlier raising of e before non-high stress vowels. Counterbled by diphthongization (unless we want to complicate the formulation), feeds affrication. 
 [+syl,+front,-hi,-lo] > [+hi] / __ n ([-cons,-syl]) [+syl,+stres,-hi]
 
+	
+
+$ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
+	$ R35A [ll] > [w] before unstressed [a]
+		$ This only occurs after [ˈu], [ˈi], and [e̯ˈa]. As such, it may have occured before vowel laxing and breaking (which still wouldn't give us a natural class), but it works fine here.
+			$l l > w / {[+syl,+hi];e̯ ˈa} __ a
+		$CM 9/18/26 fix -- this is much simpler. It happens for ALL posttonicll before a, and before a stressed vowel, with at least one non-labial element beforehand, which can be the prior tonic vowel. All exceptions have no non-labials beforehand: pulla to pulă, molla to moală, olla to oală; or, they are after non-tonic vowels: călăreți etc. As such, however, it must come before diphthongization in moală and oală. 
+	l l > w / # (@)* [-lab] (@)* __ a (([-syl])* [-prim])* ([-syl])* #
+
+$ R35B Deɡemination of [ll]
+		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R35 so that R35 now acts upon single l.
+		{l l;m m} > {l;m}
+
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
 		∅ > a / [-tense] __
@@ -896,20 +914,11 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	$ "It did not apply to words of Slavic oriɡin" with more info, see p100
 		$ Moved to before R31.
 
-
 $ R37B (vowel degemination)
 	[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
 	[+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
 	[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback] __
 
-
-$ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
-	$ R35A [ll] > [w] before unstressed [a]
-		$ This only occurs after [ˈu], [ˈi], and [e̯ˈa]. As such, it may have occured before vowel laxing and breaking (which still wouldn't give us a natural class), but it works fine here.
-			l l > w / {[+syl,+hi];e̯ ˈa} __ a
-
-	$ R35B Deɡemination of [ll]
-		l l > l
 
 $ R36 {Vwa chanɡes}
 	$ R36A Loss of secondary wau: [Vwa] > [Va] when neither vowel is stressed
@@ -979,7 +988,7 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 			j > ∅ / [+cons,+front] __
 		$ this now handles all loss of j per 9/18 SECOND PALATALIZATION CONSOLIDATION
 
-	$ PER 9/18 SECOND PALATALIZATION CONSOLIDATION: resolution 
+	$ PER 9/18 SECOND PALATALIZATION CONSOLIDATION: resolution. Perhaps postdate to later
 
 $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 	$ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]

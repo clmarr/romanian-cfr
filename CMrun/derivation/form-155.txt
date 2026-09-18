@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 155:
-#ˌinwˌitiˈaː# >>> *#ɨnvett͡sʲˈa# ( GOLD : #ɨnvət͡sˈa#) :
+#ˌinwˌitiˈaː# >>> *#ɨnvit͡sʲˈa# ( GOLD : #ɨnvət͡sˈa#) :
 ˌi n w ˌi t i ˈaː 
 *#ˌinwˌitjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#inwitjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
@@ -10,8 +10,10 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 155:
 *#enβetc͡ɕˈa# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
 *#enβett͡sʲˈa# | 148 : [+delrel] > [+cor,+ant,-distr] / __ ˈa
 *#envett͡sʲˈa# | 154 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#envett͡sʲˈa#
-Common Romanian stage form : *#envett͡sʲˈa#
-*#invett͡sʲˈa# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnvett͡sʲˈa# | 270 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnvett͡sʲˈa#
+*#envet͡sʲˈa# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#envet͡sʲˈa#
+Common Romanian stage form : *#envet͡sʲˈa#
+*#invet͡sʲˈa# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnvet͡sʲˈa# | 269 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnvit͡sʲˈa# | 303 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
+Final form : *#ɨnvit͡sʲˈa#

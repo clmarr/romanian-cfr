@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 145:
-#ˌinpˌerɡˈyːrum# >>> *#ɨmpredʑˈur# ( GOLD : #ɨmpreʒˈur#) :
+#ˌinpˌerɡˈyːrum# >>> *#ɨmpreʑˈur# ( GOLD : #ɨmpreʒˈur#) :
 ˌi n p ˌe r ɡ ˈyː r u m 
 *#inperɡˈyːrum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#inperɡjˈyːrum# | 18 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
@@ -11,14 +11,15 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 145:
 *#enpreɡɡjˈuru# | 136 : [+syl] > [-long,-splng] 
 *#enpreɡɟ͡ʑˈuru# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
 *#enpredɟ͡ʑˈuru# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
-Balkan Romance stage form : *#enpredɟ͡ʑˈuru#
-*#enpɾedɟ͡ʑˈuɾu# | 176 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#enpɾedɟ͡ʑˈuɾu#
-*#enpredɟ͡ʑˈuru# | 252 : ɾ > r 
-*#inpredɟ͡ʑˈuru# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnpredɟ͡ʑˈuru# | 270 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨnpredʑˈuru# | 275 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ɨnpredʑˈurw̥# | 291 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨnpredʑˈur# | 292 : w̥ > ∅ / [-syl] __ #
-*#ɨmpredʑˈur# | 309 : n > m / __ [-cont,+lab]
-Final form : *#ɨmpredʑˈur#
+*#enpreɟ͡ʑˈuru# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#enpreɟ͡ʑˈuru#
+*#enpɾeɟ͡ʑˈuɾu# | 176 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#enpɾeɟ͡ʑˈuɾu#
+*#enpreɟ͡ʑˈuru# | 251 : ɾ > r 
+*#inpreɟ͡ʑˈuru# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnpreɟ͡ʑˈuru# | 269 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnpreʑˈuru# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ɨnpreʑˈurw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨnpreʑˈur# | 291 : w̥ > ∅ / [-syl] __ #
+*#ɨmpreʑˈur# | 308 : n > m / __ [-cont,+lab]
+Final form : *#ɨmpreʑˈur#
