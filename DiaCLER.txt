@@ -367,7 +367,8 @@ $ NEW RULE: -tore > -tor		$ FLAG -- try to expand beyond this!
 
 
 $ -riam reflexes: a > e / r j __ #
-	a > e / r j __ #
+		$ CM 9/18/26 -- now handled by R44.
+	$a > e / r j __ #
 
 
 $ NEW RULE: Interlabial rounding of /a/.
@@ -639,14 +640,16 @@ $ R20 Attraction of ɡlides
 	$ Pardess implies but doesn't state explicitly that the only "clusters" that this move can occur across are geminates
 		$∅ [+cons] j > j [+cons] ∅ / [+stres] __
 		$ This one actually seems like it only occurs across [r]...
-			r j > j r / @ [+stres] __
+			$r j > j r / @ [+stres] __
+						$ CM 9/18/26  -- now handled by palatal r unpacking.
 				$ This does not occur in aream>arie, hence the @.
-		∅ [+cons] w > w [+cons] ∅ / [+stres] __
+		$∅ [+cons] w > w [+cons] ∅ / [+stres] __  $ -- CM 9/18/26 -- suppressed, no effect.
 		$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] j > j [+cons] [+cons] ∅ / [+stres] __
 		$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] w > w [+cons] [+cons] ∅ / [+stres] __
 			$ For some reason, these aren't working. FLAG -- Ask clayton about this because it's definitely a DiaSim problem and not a formulation problem. For now, using the following because these are the only two scenarios that actually appear in the data.
 				∅ b b j > j b b ∅ / [+stres] __
-				$∅ l l j > j l l ∅ / [+stres] __ $ This one appears not to have occurred.
+				$∅ l l j > j l l ∅ / [+stres] __ $ This one appears not to have occurred; causes wrong effects bleeding ʎ 
+	
 
 $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 	s > z / # __ [+voi,-son]
@@ -1062,13 +1065,19 @@ $ TODO CONSOLIDATE INTO EARLIER?
 	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
 	[-son,+front,ðant] > [+delrel,+cor,-hi,-ðfront,-ðdistr,+strid,-back]
 
-		$CM 9/18/26 -- ɾʲ unpacks instead. 
-	ɾʲ > ɾ j
-
 $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 	$ ə > e / [-cont,+hi,-strid] __
 	$ But these are both actually [+cont].
-		ə > e / [+cons,+hi,+front,-strid] __
+		$ə > e / [+cons,+hi,+front,-strid] __
+		$ CM 9/18/26 -- its actually happening specifically after SONORANT palatal consonants
+			$ occurs after ɾʲ 
+	ə > e / [+cons,+front,+son] __ 
+
+		$CM 9/18/26 PALATAL r UNPACKING
+			$ -- ɾʲ unpacks instead of depalatalizing -- but it counterfeeds R44.
+			$ becomes j ɾ after non-initial tonic vowel. Otherwise ɾ j 
+	ɾʲ > j ɾ / @ [+prim] __
+	ɾʲ > ɾ j
 
 
 $ NEW RULE: Fronting of u after an obstruent and before an [n]-voiceless plosive cluster.  

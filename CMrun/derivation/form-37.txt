@@ -5,16 +5,16 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 37:
 *#adjˈuːnum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ajˈuːnum# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
 *#ajˈuːnu# | 44 : m > ∅ / [-stres] __ #
-*#adjˈuːnu# | 107 : j > d j / [+syl,-stres] __ [+syl,+round]
-*#addjˈuːnu# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#addjˈunu# | 136 : [+syl] > [-long,-splng] 
-*#addʲˈunu# | 144 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#adɡʲˈunu# | 147 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#aɡʲˈunu# | 169 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#adjˈuːnu# | 106 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#addjˈuːnu# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#addjˈunu# | 135 : [+syl] > [-long,-splng] 
+*#addʲˈunu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲˈunu# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#aɡʲˈunu# | 166 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 Balkan Romance stage form : *#aɡʲˈunu#
-*#ad͡ʒˈunu# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
+*#ad͡ʒˈunu# | 233 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
 Common Romanian stage form : *#ad͡ʒˈunu#
-*#aʒˈunu# | 276 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#aʒˈunw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#aʒˈun# | 293 : w̥ > ∅ / [-syl] __ #
+*#aʒˈunu# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#aʒˈunw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#aʒˈun# | 291 : w̥ > ∅ / [-syl] __ #
 Final form : *#aʒˈun#
