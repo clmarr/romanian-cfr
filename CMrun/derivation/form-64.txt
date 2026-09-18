@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 64:
-#ˌammˌutˈiː# >>> *#amutʲˈi# ( GOLD : #amut͡sˈi#) :
+#ˌammˌutˈiː# >>> *#amut͡sˈi# ( GOLD : #amut͡sˈi#) :
 ˌa m m ˌu t ˈiː 
 *#ammutˈiː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ammutˈi# | 136 : [+syl] > [-long,-splng] 
@@ -7,6 +7,8 @@ Balkan Romance stage form : *#ammutˈi#
 *#amutˈi# | 218 : {l l;m m} > {l;m} 
 *#amutjˈi# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 *#amutʲjˈi# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#amutʲˈi# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#amutʲˈi#
-Final form : *#amutʲˈi#
+*#amut͡sʲjˈi# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#amut͡sʲˈi# | 234 : j > ∅ / [+cons,+front] __
+*#amut͡sˈi# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#amut͡sˈi#
+Final form : *#amut͡sˈi#

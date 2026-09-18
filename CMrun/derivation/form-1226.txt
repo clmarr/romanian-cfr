@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1226:
-#fˈimbriam# >>> *#fˈimbɾʲe# ( GOLD : #frɨnɡjˈije#) :
+#fˈimbriam# >>> *#fˈimb?1e# ( GOLD : #frɨnɡjˈije#) :
 f ˈi m b r i a m 
 *#fˈimbrjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#fˈimbrja# | 44 : m > ∅ / [-stres] __ #
@@ -8,7 +8,9 @@ f ˈi m b r i a m
 Balkan Romance stage form : *#fˈembrje#
 *#fˈembɾje# | 176 : r > ɾ / __ [nnas,ncons]
 *#fˈembɾʲje# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fˈembɾʲe# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#fˈembɾʲe#
-*#fˈimbɾʲe# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-Final form : *#fˈimbɾʲe#
+*#fˈemb?0je# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#fˈemb?0e# | 234 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#fˈemb?0e#
+*#fˈimb?0e# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#fˈimb?1e# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#fˈimb?1e#

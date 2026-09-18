@@ -981,7 +981,10 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 			$ whether something goes all the way to palatal is determined by continuance: l n s go all the way, t d ɾ do not (r cannot occur before palatals -- only rɾj can) 
 		$ this cannot quite become a single coalescence rule because j also has to delete after the existing t͡ʃ and d͡ʒ segments.
 		$ preserving the lack of application if the coronal comes after a lateral. Note that former llj is affected, so its gemination thus FEEDS this rule
+		$ occlusives are the ones that remain coronal (t d ɾ > t͡sʲ d͡zʲ ɾʲ) -- alpha feature s. Continuants n l s palatalize to ɲ ʎ ɕ
 	[+cor,+ant,scont] > [+front,-sant,-scor,+hi] / # ((@)* [-lat]) __ j 
+			$ CM 9/18/26 -- no need for separate phonemes tʲ dʲ -- merged into existing t͡sʲ and d͡zʲ 
+	[-cont,+front] > [+delrel,+strid] 
 
 	$ R41B Absorption of yod after a palatal seɡment
 		$j > ∅ / [+cons,+hi] __
@@ -1039,6 +1042,13 @@ $ NEW RULE: -ăune > -ăun
 	$ This has to have occurred before the breakup of Common Romanian; see Aromanian pãun for Romanian păun.
 		e > ∅ / [+syl] [+prim] [+cons] __ #
 
+	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
+		$ t͡sʲ d͡zʲ 
+		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ
+		$ ɲ ʎ stay put
+		$ ɾʲ has special behavior (see below) 
+	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
+	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
 
 ~ Common Romanian
 

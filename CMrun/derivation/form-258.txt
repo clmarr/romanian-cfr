@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 258:
-#sˌentˈiː# >>> *#simtʲˈi# ( GOLD : #simt͡sˈi#) :
+#sˌentˈiː# >>> *#simt͡sˈi# ( GOLD : #simt͡sˈi#) :
 s ˌe n t ˈiː 
 *#sentˈiː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#sentˈi# | 136 : [+syl] > [-long,-splng] 
@@ -7,7 +7,9 @@ s ˌe n t ˈiː
 Balkan Romance stage form : *#semtˈi#
 *#semtjˈi# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 *#semtʲjˈi# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#semtʲˈi# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#semtʲˈi#
-*#simtʲˈi# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-Final form : *#simtʲˈi#
+*#semt͡sʲjˈi# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#semt͡sʲˈi# | 234 : j > ∅ / [+cons,+front] __
+*#semt͡sˈi# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#semt͡sˈi#
+*#simt͡sˈi# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+Final form : *#simt͡sˈi#

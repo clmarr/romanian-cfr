@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1057:
-#impartˈiː# >>> *#ɨmpɨrtʲˈi# ( GOLD : #ɨmpərt͡sˈi#) :
+#impartˈiː# >>> *#ɨmpɨrt͡sˈi# ( GOLD : #ɨmpərt͡sˈi#) :
 i m p a r t ˈiː 
 *#empartˈiː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 *#empartˈi# | 136 : [+syl] > [-long,-splng] 
@@ -7,9 +7,11 @@ Balkan Romance stage form : *#empartˈi#
 *#empərtˈi# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
 *#empərtjˈi# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 *#empərtʲjˈi# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#empərtʲˈi# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#empərtʲˈi#
-*#impərtʲˈi# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#ɨmpərtʲˈi# | 269 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨmpɨrtʲˈi# | 272 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
-Final form : *#ɨmpɨrtʲˈi#
+*#empərt͡sʲjˈi# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#empərt͡sʲˈi# | 234 : j > ∅ / [+cons,+front] __
+*#empərt͡sˈi# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#empərt͡sˈi#
+*#impərt͡sˈi# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#ɨmpərt͡sˈi# | 271 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨmpɨrt͡sˈi# | 274 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
+Final form : *#ɨmpɨrt͡sˈi#

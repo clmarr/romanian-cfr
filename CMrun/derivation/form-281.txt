@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 281:
-#kˌastiːɡˈaː# >>> *#kəstʲiɡˈa# ( GOLD : #kɨʃtiɡˈa#) :
+#kˌastiːɡˈaː# >>> *#kɨʃtiɡˈa# ( GOLD : #kɨʃtiɡˈa#) :
 k ˌa s t iː ɡ ˈaː 
 *#kastiːɡˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#kastiɡˈa# | 136 : [+syl] > [-long,-splng] 
@@ -7,6 +7,10 @@ Balkan Romance stage form : *#kastiɡˈa#
 *#kəstiɡˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
 *#kəstjiɡˈa# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 *#kəstʲjiɡˈa# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kəstʲiɡˈa# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#kəstʲiɡˈa#
-Final form : *#kəstʲiɡˈa#
+*#kəst͡sʲjiɡˈa# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#kəst͡sʲiɡˈa# | 234 : j > ∅ / [+cons,+front] __
+*#kəʃt͡sʲiɡˈa# | 238 : s > ʃ / __ [+delrel]
+*#kəʃtiɡˈa# | 239 : [-cont,-voi,+delrel] > t / ʃ __
+Common Romanian stage form : *#kəʃtiɡˈa#
+*#kɨʃtiɡˈa# | 249 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
+Final form : *#kɨʃtiɡˈa#

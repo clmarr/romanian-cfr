@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 701:
-#mˌikstˈiːkium# >>> *#mestʲˈit͡sʲ# ( GOLD : #mistrˈet͡s#) :
+#mˌikstˈiːkium# >>> *#meʃtˈit͡s# ( GOLD : #mistrˈet͡s#) :
 m ˌi k s t ˈiː k i u m 
 *#mˌikstˈiːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#mikstˈiːkjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
@@ -15,8 +15,12 @@ m ˌi k s t ˈiː k i u m
 Balkan Romance stage form : *#mestˈit͡sʲu#
 *#mestjˈit͡sʲu# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 *#mestʲjˈit͡sʲu# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mestʲˈit͡sʲu# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#mestʲˈit͡sʲu#
-*#mestʲˈit͡sʲw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mestʲˈit͡sʲ# | 291 : w̥ > ∅ / [-syl] __ #
-Final form : *#mestʲˈit͡sʲ#
+*#mest͡sʲjˈit͡sʲu# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#mest͡sʲˈit͡sʲu# | 234 : j > ∅ / [+cons,+front] __
+*#meʃt͡sʲˈit͡sʲu# | 238 : s > ʃ / __ [+delrel]
+*#meʃtˈit͡sʲu# | 239 : [-cont,-voi,+delrel] > t / ʃ __
+*#meʃtˈit͡su# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#meʃtˈit͡su#
+*#meʃtˈit͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#meʃtˈit͡s# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#meʃtˈit͡s#

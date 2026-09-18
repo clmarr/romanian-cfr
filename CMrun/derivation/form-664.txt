@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 664:
-#ˌarˈietem# >>> *#aɾʲˈete# ( GOLD : #arˈete#) :
+#ˌarˈietem# >>> *#a?1ˈete# ( GOLD : #arˈete#) :
 ˌa r ˈi e t e m 
 *#arˈietem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#arˈiete# | 44 : m > ∅ / [-stres] __ #
@@ -12,7 +12,9 @@ Balkan Romance stage form : *#arjˈete#
 *#aɾjˈɛate# | 216 : ∅ > a / [-tense] __
 *#aɾje̯ˈate# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
 *#aɾʲje̯ˈate# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#aɾʲe̯ˈate# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#aɾʲe̯ˈate#
-*#aɾʲˈete# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#aɾʲˈete#
+*#a?0je̯ˈate# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#a?0e̯ˈate# | 234 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#a?0e̯ˈate#
+*#a?0ˈete# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#a?1ˈete# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#a?1ˈete#

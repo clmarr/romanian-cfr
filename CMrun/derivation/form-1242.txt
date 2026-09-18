@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1242:
-#prehˈende# >>> *#pɾʲˈinde# ( GOLD : #prˈinde#) :
+#prehˈende# >>> *#p?1ˈinde# ( GOLD : #prˈinde#) :
 p r e h ˈe n d e 
 *#preˈende# | 40 : h > ∅ 
 *#priˈende# | 124 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
@@ -9,7 +9,9 @@ Balkan Romance stage form : *#prjˈɛnde#
 *#pɾjˈɛnde# | 176 : r > ɾ / __ [nnas,ncons]
 *#pɾjˈende# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
 *#pɾʲjˈende# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pɾʲˈende# | 233 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#pɾʲˈende#
-*#pɾʲˈinde# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Final form : *#pɾʲˈinde#
+*#p?0jˈende# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#p?0ˈende# | 234 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#p?0ˈende#
+*#p?0ˈinde# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#p?1ˈinde# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#p?1ˈinde#

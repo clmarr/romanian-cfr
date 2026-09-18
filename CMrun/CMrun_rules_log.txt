@@ -231,6 +231,7 @@ w ə > ∅ / [-cons,-syl] [+syl] __ #
 ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 ∅ > j / l __ [+syl,+front,+hi]
 [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+[-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
 j > ∅ / [+cons,+front] __
 l > ʎ / [-cont,-ant,-cor] __
 ə > e / [+cons,+hi,+front,-strid] __
@@ -238,6 +239,7 @@ u > ɨ / [-son] __ n [-cont,-voi]
 s > ʃ / __ [+delrel]
 [-cont,-voi,+delrel] > t / ʃ __
 e > ∅ / [+syl] [+prim] [+cons] __ #
+[-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
 [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
 [-cons,-back,-hi,-lo,-front] > [+front,+tense,-cons,-lat,+cont,0delrel] / ˈi ( [-syl] )* __ @

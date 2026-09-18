@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 618:
-#raːdˈiːkula# >>> *#rədʲˈikje# ( GOLD : #ridˈikje#) :
+#raːdˈiːkula# >>> *#rəzˈikje# ( GOLD : #ridˈikje#) :
 r aː d ˈiː k u l a 
 *#raːdˈiːkla# | 57 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
 *#radˈikla# | 136 : [+syl] > [-long,-splng] 
@@ -9,10 +9,13 @@ Balkan Romance stage form : *#radˈikla#
 *#rɾədˈiklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
 *#rɾədjˈiklə# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 *#rɾədʲjˈiklə# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾədʲˈiklə# | 233 : j > ∅ / [+cons,+front] __
-*#rɾədʲˈikʎə# | 234 : l > ʎ / [-cont,-ant,-cor] __
-*#rɾədʲˈikʎe# | 235 : ə > e / [+cons,+hi,+front,-strid] __
-Common Romanian stage form : *#rɾədʲˈikʎe#
-*#rədʲˈikʎe# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rədʲˈikje# | 275 : ʎ > j 
-Final form : *#rədʲˈikje#
+*#rɾəd͡zʲjˈiklə# | 233 : [-cont,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#rɾəd͡zʲˈiklə# | 234 : j > ∅ / [+cons,+front] __
+*#rɾəd͡zʲˈikʎə# | 235 : l > ʎ / [-cont,-ant,-cor] __
+*#rɾəd͡zʲˈikʎe# | 236 : ə > e / [+cons,+hi,+front,-strid] __
+*#rɾəd͡zˈikʎe# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾəd͡zˈikʎe#
+*#rəd͡zˈikʎe# | 246 : {ɾ;r} > {∅;∅} / r __
+*#rəzˈikʎe# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#rəzˈikje# | 277 : ʎ > j 
+Final form : *#rəzˈikje#
