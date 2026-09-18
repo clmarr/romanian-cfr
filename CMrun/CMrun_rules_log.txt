@@ -222,6 +222,8 @@ i > e / [+cons] __ [+cons,+delrel]
 j > ∅ / [+cons,+front] __
 ∅ > a / [-tense] __
 [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+{l l;m m} > {l;m} 
+[-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
 {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
 {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
 {a;o} > {ə;u} / __ m [-syl]
