@@ -1,17 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1344:
-#nˈiɡrae̯# >>> *#nˈeɡre# ( GOLD : #nˈeɡre#) :
-n ˈi ɡ r a e̯ 
-*#nˈiɡraj# | 12 : e̯ > j 
-*#nˈiɡrɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ #
-*#nˈeɡrɛː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#nˈeɡrɛ# | 136 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#nˈeɡrɛ#
-*#nˈeɡɾɛ# | 176 : r > ɾ / __ [nnas,ncons]
-*#nˈeɡɾe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#nˈɛɡɾe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#nˈɛaɡɾe# | 216 : ∅ > a / [-tense] __
-*#ne̯ˈaɡɾe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-Common Romanian stage form : *#ne̯ˈaɡɾe#
-*#nˈeɡɾe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#nˈeɡre# | 254 : ɾ > r 
-Final form : *#nˈeɡre#
+#dˈekem# >>> *#zˈet͡ʃe# ( GOLD : #zˈet͡ʃe#) :
+d ˈe k e m 
+*#dˈeke# | 44 : m > ∅ / [-stres] __ #
+*#dˈɛke# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dˈɛc͡ɕe# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#dˈɛc͡ɕe#
+*#djˈɛc͡ɕe# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#djˈec͡ɕe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#djˈɛc͡ɕe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#djˈɛac͡ɕe# | 216 : ∅ > a / [-tense] __
+*#dje̯ˈac͡ɕe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dʲje̯ˈac͡ɕe# | 231 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#d͡zʲje̯ˈac͡ɕe# | 232 : [-cont,-son,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#d͡zʲe̯ˈac͡ɕe# | 233 : j > ∅ / [+cons,+front] __
+*#d͡ze̯ˈat͡ʃe# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ze̯ˈat͡ʃe#
+*#d͡zˈet͡ʃe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#zˈet͡ʃe# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#zˈet͡ʃe#

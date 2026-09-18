@@ -1,16 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 950:
-#hˈaːkdˈieː# >>> *#ˈaze# ( GOLD : #ˈazj#) :
-h ˈaː k d ˈi eː 
-*#hˈaːkdieː# | 7 : [+prim] > [-stres,-prim,+syl,+son] / [+prim] ( [-syl] )* __
-*#hˈaːkdjeː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ˈaːkdjeː# | 40 : h > ∅ 
-*#ˈakdje# | 136 : [+syl] > [-long,-splng] 
-*#ˈakɟ͡ʑe# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#ˈadɟ͡ʑe# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
-*#ˈadd͡zʲe# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-*#ˈad͡zʲe# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ˈad͡zʲe#
-*#ˈad͡ze# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ˈad͡ze#
-*#ˈaze# | 276 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#ˈaze#
+#illˈaːk# >>> *#lˈa# ( GOLD : #lˈa#) :
+i l l ˈaː k 
+*#illˈaː# | 88 : [+cons,-cont] > ∅ / __ #
+*#ellˈaː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#ellˈa# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ellˈa#
+*#elˈa# | 218 : {l l;m m} > {l;m} 
+Common Romanian stage form : *#elˈa#
+*#lˈa# | 283 : e > ∅ / # __ [-syl] [-cons]
+Final form : *#lˈa#
