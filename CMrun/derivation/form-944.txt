@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 944:
-#ˌaddˌeːˌinˈillahoːram# >>> *#adine̯ˈawərə# ( GOLD : #adine̯ˈawrj#) :
+#ˌaddˌeːˌinˈillahoːram# >>> *#azine̯ˈawərə# ( GOLD : #adine̯ˈawrj#) :
 ˌa d d ˌeː ˌi n ˈi l l a h oː r a m 
 *#ˌaddˌeːnˈillahoːram# | 4 : [+syl,-long] > ∅ / [+syl,+long] __
 *#addeːnˈillahoːram# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
@@ -12,11 +12,15 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 944:
 Balkan Romance stage form : *#adenˈellara#
 *#adenˈellaɾa# | 179 : r > ɾ / __ [nnas,ncons]
 *#adenˈɛllaɾa# | 212 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#adenˈɛallaɾa# | 217 : ∅ > a / [-tense] __
-*#adene̯ˈallaɾa# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#adene̯ˈawaɾa# | 226 : l l > w / e̯ ˈa __ a
-*#adene̯ˈawəɾə# | 230 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#adene̯ˈawəɾə#
-*#adene̯ˈawərə# | 258 : ɾ > r 
-*#adine̯ˈawərə# | 262 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-hi] ) [+syl,+stres,-hi]
-Final form : *#adine̯ˈawərə#
+*#adinˈɛllaɾa# | 217 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#adinˈɛallaɾa# | 218 : ∅ > a / [-tense] __
+*#adine̯ˈallaɾa# | 219 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#adine̯ˈawaɾa# | 227 : l l > w / e̯ ˈa __ a
+*#adine̯ˈawəɾə# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
+*#adjine̯ˈawəɾə# | 234 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#ad͡zjine̯ˈawəɾə# | 239 : [-cont,+ant,+cor,-son] > [+delrel,+strid,-cont,+cons,0tense] / [-lat] __ j
+*#ad͡zine̯ˈawəɾə# | 240 : j > ∅ / [+delrel] __
+Common Romanian stage form : *#ad͡zine̯ˈawəɾə#
+*#ad͡zine̯ˈawərə# | 258 : ɾ > r 
+*#azine̯ˈawərə# | 280 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#azine̯ˈawərə#

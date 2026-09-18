@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 723:
-#hˌirundinˈellam# >>> *#rundee̯ˈa# ( GOLD : #rɨndune̯ˈa#) :
+#hˌirundinˈellam# >>> *#runzie̯ˈa# ( GOLD : #rɨndune̯ˈa#) :
 h ˌi r u n d i n ˈe l l a m 
 *#hirundinˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#irundinˈellam# | 40 : h > ∅ 
@@ -11,16 +11,21 @@ Balkan Romance stage form : *#erundenˈɛlla#
 *#eɾundenjˈɛlla# | 184 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
 *#eɾundenjˈella# | 187 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
 *#eɾundenjˈɛlla# | 212 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#eɾundenjˈɛalla# | 217 : ∅ > a / [-tense] __
-*#eɾundenje̯ˈalla# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#eɾundenje̯ˈawa# | 226 : l l > w / e̯ ˈa __ a
-*#eɾundenje̯ˈawə# | 230 : [-cons,+lo,-stres,-long] > ə / @ __
-*#eɾundenje̯ˈa# | 233 : w ə > ∅ / [-cons,-syl] [+syl] __ #
-*#eɾundeɲje̯ˈa# | 236 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#eɾundeɲe̯ˈa# | 237 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#eɾundeɲe̯ˈa#
-*#erundeɲe̯ˈa# | 258 : ɾ > r 
-*#erundeje̯ˈa# | 285 : ɲ > j 
-*#rundeje̯ˈa# | 289 : e > ∅ / # __ [-syl] [-cons]
-*#rundee̯ˈa# | 293 : j > ∅ / __ e̯ [+syl,+lo]
-Final form : *#rundee̯ˈa#
+*#eɾundinjˈɛlla# | 217 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#eɾundinjˈɛalla# | 218 : ∅ > a / [-tense] __
+*#eɾundinje̯ˈalla# | 219 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#eɾundinje̯ˈawa# | 227 : l l > w / e̯ ˈa __ a
+*#eɾundinje̯ˈawə# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
+*#eɾundinje̯ˈa# | 233 : w ə > ∅ / [-cons,-syl] [+syl] __ #
+*#eɾundjinje̯ˈa# | 234 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#eɾundjiɲje̯ˈa# | 236 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+*#eɾundjiɲe̯ˈa# | 237 : j > ∅ / [+cons,+front] __
+*#eɾund͡zjiɲe̯ˈa# | 239 : [-cont,+ant,+cor,-son] > [+delrel,+strid,-cont,+cons,0tense] / [-lat] __ j
+*#eɾund͡ziɲe̯ˈa# | 240 : j > ∅ / [+delrel] __
+Common Romanian stage form : *#eɾund͡ziɲe̯ˈa#
+*#erund͡ziɲe̯ˈa# | 258 : ɾ > r 
+*#erunziɲe̯ˈa# | 280 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#erunzije̯ˈa# | 284 : ɲ > j 
+*#runzije̯ˈa# | 288 : e > ∅ / # __ [-syl] [-cons]
+*#runzie̯ˈa# | 292 : j > ∅ / __ e̯ [+syl,+lo]
+Final form : *#runzie̯ˈa#
