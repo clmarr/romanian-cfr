@@ -567,7 +567,7 @@ $ R18 {Many C+j-related chanɡes}
 
 	$ CM 9/18/26 CONSOLIDATION OF FIRST PALATAL COALESCENCE -- dtgk > palatal affricates, with absorption of j, in a SINGLE rule. 
 		$treating these as proper palatal (affricates) for now is best for other reasons, because they pattern with palatalized s produced of SECOND PALATAL COALESCENCE. 
-	[-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel] ∅
+	[-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid] ∅
 
 	$ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
 		$ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
@@ -601,20 +601,22 @@ $ R18 {Many C+j-related chanɡes}
 
 
 $ NEW RULE: [stʃ] > ... > [ʃ]. CM 9/18/26 per consolidation of first palatalization -- made neutral between t͡ʃ and c͡ç
-	s [+delrel] > ʃ
+	$s [+delrel] > ʃ
 		$ christianum may have been reborrowed, which would explain ʃt -- CM 9/18 yes it is borrowed from Middle Proto-Albanian *krɩstɛːnʊ
 		$ CM 9/18/26 moved before R19 depalatalization, to allow greater simplicity in that rule. 
+		$ CM 9/18/26 -- sending it to ɕ instead, to maintain coherence in the phonological system, after consolidation of first palatalization. 
+	s [+delrel] > ɕ	
 
 $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
 		$ CM 9/18/26 adjusted based on consolidation of first palatalization and it producing palatals for now. Sees thru t/d. Made simpler, and neutral between PoA of result of first palatalization. Does not totally depalatalize yet.  
 			$ formerly: {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __
 			$ as of 9/18/26, BLED by stʲ > sʲ rule -- so can just see through any prior consonants, incl. obstruents, and no need for the big disjunction. 
-	[+delrel] > [+cor,+ant,-distr,+strid] / [+prim] ([-syl])* __
+	[+delrel] > [+cor,+ant,-distr] / [+prim] ([-syl])* __
 	
 
 $ NEW (moved from later in cascade and reformulated) RULE: Depalatalization before [ˈa]
 		$CM 9/18/26 per consolidation of first palatalization -- made neutral between palatal and postalveolar affricate PoA. Loss of palatality comes later. Formerly: {t͡ʃ;d͡ʒ} > {t͡s;d͡z} / __ ˈa
-	[+delrel] > [+cor,+ant,-distr,+strid] / __ ˈa
+	[+delrel] > [+cor,+ant,-distr] / __ ˈa
 
 $ R20 Attraction of ɡlides
 	$ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
