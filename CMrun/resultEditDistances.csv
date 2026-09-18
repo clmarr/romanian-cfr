@@ -123,7 +123,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 121,*/at͡ʃˈest/,/at͡ʃˈest/,0,0.0,0.0,5,5
 122,*/sˈalbed/,/sˈarbəd/,2,0.3333333333333333,0.09615384615384616,6,6
 123,*/skəde̯ˈa/,/skəde̯ˈa/,0,0.0,0.0,6,6
-124,*/skɨmbjˈa/,/skjimbˈa/,3,0.42857142857142855,0.8461538461538461,7,7
+124,*/skɨmbjˈa/,/skimbˈa/,2,0.3333333333333333,0.5,7,6
 125,*/skəpˈa/,/skəpˈa/,0,0.0,0.0,5,5
 126,*/skərmenˈa/,/skərmənˈa/,1,0.125,0.057692307692307696,8,8
 127,*/smˈuld͡ʒe/,/smˈuld͡ʒe/,0,0.0,0.0,6,6
@@ -953,7 +953,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 951,*/ˈaze/,/ˈazj/,1,0.3333333333333333,0.11538461538461539,3,3
 952,*/lˈa/,/lˈa/,0,0.0,0.0,2,2
 953,*/ˈɨn/,/ˈɨn/,0,0.0,0.0,2,2
-954,*/ɨnəˈənte/,/ɨnaˈinte/,2,0.2857142857142857,0.19230769230769232,7,7
+954,*/ɨnəvˈinte/,/ɨnaˈinte/,2,0.2857142857142857,0.7307692307692307,8,7
 955,*/ɨnədˈintru/,/ɨnəˈuntru/,2,0.25,0.8653846153846154,9,8
 956,*/ɨnəpˈoj/,/ɨnapˈoj/,1,0.16666666666666666,0.09615384615384616,6,6
 957,*/ɨnko̯ˈatrə/,/ɨnkˈotro/,3,0.42857142857142855,0.9038461538461539,8,7
@@ -1163,7 +1163,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 1161,*/despojˈa/,/despujˈa/,1,0.14285714285714285,0.038461538461538464,7,7
 1162,*/ɨnfrˈɨnd͡ʒe/,/ɨnfrˈɨnd͡ʒe/,0,0.0,0.0,8,8
 1163,*/ɨnfruntˈa/,/ɨnfruntˈa/,0,0.0,0.0,8,8
-1164,*/ɨnvˈint͡ʃe/,/ɨnvˈind͡ʒe/,1,0.14285714285714285,0.038461538461538464,7,7
+1164,*/ɨnvˈint͡ʃe/,/ɨnvˈint͡ʃe/,0,0.0,0.0,7,7
 1165,*/lˈuptə/,/lˈuptə/,0,0.0,0.0,5,5
 1166,*/luptˈa/,/luptˈa/,0,0.0,0.0,5,5
 1167,*/prədˈa/,/prədˈa/,0,0.0,0.0,5,5
@@ -1250,7 +1250,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 1248,*/fˈət/,/fˈət/,0,0.0,0.0,3,3
 1249,*/fˈatə/,/fˈatə/,0,0.0,0.0,4,4
 1250,*/askultˈa/,/askultˈa/,0,0.0,0.0,7,7
-1251,*/t͡ʃˈe/,/t͡ʃˈine/,3,0.75,1.2692307692307692,2,4
+1251,*/t͡ʃˈine/,/t͡ʃˈine/,0,0.0,0.0,4,4
 1252,*/pˈəs/,/pˈəs/,0,0.0,0.0,3,3
 1253,*/prˈins/,/prˈins/,0,0.0,0.0,5,5
 1254,*/rəspˈuns/,/rəspˈuns/,0,0.0,0.0,7,7
