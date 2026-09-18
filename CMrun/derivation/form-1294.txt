@@ -1,18 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1294:
-#ɡlˈakiam# >>> *#ɡe̯ˈat͡sə# ( GOLD : #ɡe̯ˈat͡sə#) :
-ɡ l ˈa k i a m 
-*#ɡlˈakjam# | 7 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ɡlˈakja# | 43 : m > ∅ / [-stres] __ #
-*#ɡlˈakkja# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ɡlˈakt͡ʃja# | 144 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
-*#ɡlˈakt͡ʃa# | 145 : j > ∅ / [+delrel] __
-*#ɡlˈatt͡ʃa# | 146 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-*#ɡlˈatt͡sa# | 148 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#ɡlˈat͡sa# | 172 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-Balkan Romance stage form : *#ɡlˈat͡sa#
-*#ɡlˈat͡sə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɡʎˈat͡sə# | 240 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#ɡʎˈat͡sə#
-*#ɡjˈat͡sə# | 282 : ʎ > j 
-*#ɡe̯ˈat͡sə# | 312 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
-Final form : *#ɡe̯ˈat͡sə#
+#lˈakweum# >>> *#lˈat͡s# ( GOLD : #lˈat͡s#) :
+l ˈa k w e u m 
+*#lˈakwjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#lˈakjum# | 17 : [-cons,-syl] > ∅ / [+cons] __ [-cons,-syl] [+syl,+hi]
+*#lˈakju# | 44 : m > ∅ / [-stres] __ #
+*#lˈakkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#lˈakt͡ʃju# | 145 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
+*#lˈakt͡ʃu# | 146 : j > ∅ / [+delrel] __
+*#lˈatt͡ʃu# | 147 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
+*#lˈatt͡su# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
+*#lˈat͡su# | 173 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+Balkan Romance stage form : *#lˈat͡su#
+Common Romanian stage form : *#lˈat͡su#
+*#lˈat͡sw̥# | 298 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lˈat͡s# | 299 : w̥ > ∅ / [-syl] __ #
+Final form : *#lˈat͡s#

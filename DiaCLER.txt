@@ -26,8 +26,9 @@ $ High vowel desyllabification after [(ˈ)u].
 
 $ <de> proclisis.
 	$ The <de> vowel appears to delete the following vowel and assume its stress.
-		[+syl,+long] [+syl,-long,αprim,βstres] > [αprim,βstres] ∅
-
+		$CM 9/18 -- fixed to prevent ē from LOSING stress. Formerly: [+syl,+long] [+syl,-long,αprim,βstres] > [αprim,βstres] ∅. dē always already has countertonic stress
+		[+syl,+long] > [+prim] / __ [+syl,-long,+prim]
+		[+syl,-long] > ∅ / [+syl,+long] __
 
 $ NEW RULE: #s'VCV > #sC'V (super > sper)
 	$ Labialism of first vowel and consonant have to match.

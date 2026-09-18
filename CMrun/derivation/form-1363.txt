@@ -1,20 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1363:
-#famˈiliam# >>> *#femˈeje# ( GOLD : #femˈeje#) :
-f a m ˈi l i a m 
-*#famˈiljam# | 7 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#famˈilja# | 43 : m > ∅ / [-stres] __ #
-*#famˈelja# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#famˈelja#
-*#famˈɛlja# | 211 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#famˈɛalja# | 216 : ∅ > a / [-tense] __
-*#fame̯ˈalja# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fəme̯ˈalja# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#fəme̯ˈaljə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fəme̯ˈaʎjə# | 235 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#fəme̯ˈaʎə# | 236 : j > ∅ / [+cons,+front] __
-*#fəme̯ˈaʎe# | 241 : ə > e / [+cons,+hi,+front,-strid] __
-Common Romanian stage form : *#fəme̯ˈaʎe#
-*#fəmˈeʎe# | 255 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#fəmˈeje# | 282 : ʎ > j 
-*#femˈeje# | 309 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
-Final form : *#femˈeje#
+#tˈempum# >>> *#tˈimp# ( GOLD : #tˈimp#) :
+t ˈe m p u m 
+*#tˈempu# | 44 : m > ∅ / [-stres] __ #
+*#tˈɛmpu# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#tˈɛmpu#
+*#tˈempu# | 181 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#tˈempu#
+*#tˈimpu# | 259 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#tˈimpw̥# | 298 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#tˈimp# | 299 : w̥ > ∅ / [-syl] __ #
+Final form : *#tˈimp#

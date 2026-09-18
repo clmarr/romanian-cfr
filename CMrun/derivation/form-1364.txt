@@ -1,14 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1364:
-#ˈipsum# >>> *#ˈɨns# ( GOLD : #ˈɨns#) :
-ˈi p s u m 
-*#ˈipsu# | 43 : m > ∅ / [-stres] __ #
-*#ˈimsu# | 47 : p > m / [+syl,+prim,+hi] __ [+cor,-son]
-*#ˈemsu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#ˈensu# | 174 : m > n / __ [+cor,-voi]
-Balkan Romance stage form : *#ˈensu#
-Common Romanian stage form : *#ˈensu#
-*#ˈinsu# | 259 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ˈɨnsu# | 276 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ˈɨnsw̥# | 297 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈɨns# | 298 : w̥ > ∅ / [-syl] __ #
-Final form : *#ˈɨns#
+#famˈiliam# >>> *#femˈeje# ( GOLD : #femˈeje#) :
+f a m ˈi l i a m 
+*#famˈiljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#famˈilja# | 44 : m > ∅ / [-stres] __ #
+*#famˈelja# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#famˈelja#
+*#famˈɛlja# | 212 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#famˈɛalja# | 217 : ∅ > a / [-tense] __
+*#fame̯ˈalja# | 218 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fəme̯ˈalja# | 220 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#fəme̯ˈaljə# | 230 : [-cons,+lo,-stres,-long] > ə / @ __
+*#fəme̯ˈaʎjə# | 236 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+*#fəme̯ˈaʎə# | 237 : j > ∅ / [+cons,+front] __
+*#fəme̯ˈaʎe# | 242 : ə > e / [+cons,+hi,+front,-strid] __
+Common Romanian stage form : *#fəme̯ˈaʎe#
+*#fəmˈeʎe# | 256 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#fəmˈeje# | 283 : ʎ > j 
+*#femˈeje# | 310 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
+Final form : *#femˈeje#

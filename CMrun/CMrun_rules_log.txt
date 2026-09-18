@@ -1,7 +1,8 @@
 e̯ > ∅ / # [+lo] __ [+son]
 e̯ > ∅ / [+lab,+cons] ( r ) [+lo] __ [+cor]
 [+syl,-long,-stres,+hi] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+syl,+hi,+back] __
-[+syl,+long] [+syl,-long,αprim,βstres] > [αprim,βstres] ∅
+[+syl,+long] > [+prim,+stres,+syl,+son] / __ [+syl,-long,+prim]
+[+syl,-long] > ∅ / [+syl,+long] __
 [+prim,αround,βfront,-long] [-cont,αlab,βfront] [+syl] > ∅ [-cont,+cons,0tense] [+prim,+stres,+syl,+son]/ # s __
 [+long,+round,-hi] > [+prim,+stres,+syl,+son] / # k __ n ( [-syl] )* [+round,+prim]
 [+prim] > [-stres,-prim,+syl,+son] / [+prim] ( [-syl] )* __
