@@ -1,20 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 481:
-#fˌiːliˈaːnum# >>> *#fiˈin# ( GOLD : #fˈin#) :
-f ˌiː l i ˈaː n u m 
-*#fˌiːljˈaːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#fiːljˈaːnum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#fiːljˈaːnu# | 44 : m > ∅ / [-stres] __ #
-*#filjˈanu# | 136 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#filjˈanu#
-*#fjiljˈanu# | 217 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
-*#fjiʎjˈanu# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fjiʎˈanu# | 221 : j > ∅ / [+cons,+front] __
-*#fjiʎˈənu# | 224 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#fjiʎˈənu#
-*#fjiʎˈɨnu# | 267 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#fjijˈɨnu# | 277 : ʎ > j 
-*#fjijˈinu# | 280 : [+syl,+hi,-front,-back] > [+front] / j __
-*#fiˈinu# | 281 : j > ∅ / __ [+syl,+front,+hi]
-*#fiˈinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fiˈin# | 293 : w̥ > ∅ / [-syl] __ #
-Final form : *#fiˈin#
+#nˈonnum# >>> *#nˈun# ( GOLD : #nˈun#) :
+n ˈo n n u m 
+*#nˈonnu# | 44 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#nˈonnu#
+*#nˈunnu# | 207 : ˈo > ˈu / [+nas] __ [+nas]
+Common Romanian stage form : *#nˈunnu#
+*#nˈunu# | 257 : n n > n 
+*#nˈunw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nˈun# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#nˈun#

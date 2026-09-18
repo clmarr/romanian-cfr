@@ -1,19 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 683:
-#pˌorkˈellam# >>> *#purt͡ʃe̯ˈa# ( GOLD : #purt͡ʃe̯ˈa#) :
-p ˌo r k ˈe l l a m 
-*#porkˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈella# | 44 : m > ∅ / [-stres] __ #
-*#porkˈɛlla# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#porc͡ɕˈɛlla# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#porc͡ɕˈɛlla#
-*#porc͡ɕˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#purc͡ɕˈella# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#purc͡ɕˈɛlla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#purc͡ɕˈɛwa# | 215 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#purc͡ɕˈɛawa# | 222 : ∅ > a / [-tense] __
-*#purc͡ɕe̯ˈawa# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#purc͡ɕe̯ˈawə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#purc͡ɕe̯ˈa# | 233 : w ə > ∅ / [-cons,-syl] ˈa __ #
-*#purt͡ʃe̯ˈa# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#purt͡ʃe̯ˈa#
-Final form : *#purt͡ʃe̯ˈa#
+#pˌorkˈiːnam# >>> *#purt͡ʃˈinə# ( GOLD : #purt͡ʃˈinə#) :
+p ˌo r k ˈiː n a m 
+*#porkˈiːnam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#porkˈiːna# | 44 : m > ∅ / [-stres] __ #
+*#porkˈina# | 136 : [+syl] > [-long,-splng] 
+*#porc͡ɕˈina# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#porc͡ɕˈina#
+*#purc͡ɕˈina# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
+*#purc͡ɕjˈina# | 217 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
+*#purc͡ɕˈina# | 221 : j > ∅ / [+cons,+front] __
+*#purc͡ɕˈinə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
+*#purt͡ʃˈinə# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#purt͡ʃˈinə#
+Final form : *#purt͡ʃˈinə#

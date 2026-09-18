@@ -1,21 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 664:
-#ˌarˈietem# >>> *#arˈete# ( GOLD : #arˈete#) :
-ˌa r ˈi e t e m 
-*#arˈietem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#arˈiete# | 44 : m > ∅ / [-stres] __ #
-*#ariˈeːte# | 123 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#arjˈeːte# | 129 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#arjˈete# | 136 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#arjˈete#
-*#aɾjˈete# | 176 : r > ɾ / __ [nnas,ncons]
-*#aɾjˈɛte# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#aɾʲjˈɛte# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#aɾʲˈɛte# | 221 : j > ∅ / [+cons,+front] __
-*#aɾʲˈɛate# | 222 : ∅ > a / [-tense] __
-*#aɾʲe̯ˈate# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#aɾje̯ˈate# | 241 : ɾʲ > ɾ j 
-Common Romanian stage form : *#aɾje̯ˈate#
-*#aɾjˈete# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#aɾˈete# | 252 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
-*#arˈete# | 253 : ɾ > r 
-Final form : *#arˈete#
+#ˈasinum# >>> *#ˈasin# ( GOLD : #ˈasin#) :
+ˈa s i n u m 
+*#ˈasinu# | 44 : m > ∅ / [-stres] __ #
+*#ˈasenu# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ˈasenu#
+Common Romanian stage form : *#ˈasenu#
+*#ˈasinu# | 256 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#ˈasinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈasin# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#ˈasin#

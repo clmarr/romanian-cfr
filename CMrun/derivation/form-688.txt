@@ -1,17 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 688:
-#tˌertiˈaːnum# >>> *#tert͡sˈɨn# ( GOLD : #tert͡sˈɨn#) :
-t ˌe r t i ˈaː n u m 
-*#tˌertjˈaːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#tertjˈaːnum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#tertjˈaːnu# | 44 : m > ∅ / [-stres] __ #
-*#tertjˈanu# | 136 : [+syl] > [-long,-splng] 
-*#terc͡ɕˈanu# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#tert͡sʲˈanu# | 148 : [+delrel] > [+cor,+ant,-distr] / __ [+lo]
-Balkan Romance stage form : *#tert͡sʲˈanu#
-*#tert͡sʲˈənu# | 224 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#tert͡sˈənu# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tert͡sˈənu#
-*#tert͡sˈɨnu# | 267 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#tert͡sˈɨnw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#tert͡sˈɨn# | 293 : w̥ > ∅ / [-syl] __ #
-Final form : *#tert͡sˈɨn#
+#tertˈiːwum# >>> *#tert͡sˈiw# ( GOLD : #tert͡sˈiw#) :
+t e r t ˈiː w u m 
+*#tertˈiːwu# | 44 : m > ∅ / [-stres] __ #
+*#tertˈiːβu# | 101 : w > β / __ [-cons]
+*#tertˈiβu# | 136 : [+syl] > [-long,-splng] 
+*#tertˈiu# | 165 : β > ∅ 
+Balkan Romance stage form : *#tertˈiu#
+*#tertˈiw# | 205 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+*#tertjˈiw# | 217 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
+*#tertʲjˈiw# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tert͡sʲjˈiw# | 220 : [-cont,-son,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#tert͡sʲˈiw# | 221 : j > ∅ / [+cons,+front] __
+*#tert͡sˈiw# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#tert͡sˈiw#
+Final form : *#tert͡sˈiw#

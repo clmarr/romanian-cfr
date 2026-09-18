@@ -1,15 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 692:
-#bˌerbˈeːkem# >>> *#berbˈet͡ʃe# ( GOLD : #berbˈet͡ʃe#) :
-b ˌe r b ˈeː k e m 
-*#berbˈeːkem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#berbˈeːke# | 44 : m > ∅ / [-stres] __ #
-*#berbˈeke# | 136 : [+syl] > [-long,-splng] 
-*#berbˈec͡ɕe# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#berbˈec͡ɕe#
-*#berbˈɛc͡ɕe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#berbˈɛac͡ɕe# | 222 : ∅ > a / [-tense] __
-*#berbe̯ˈac͡ɕe# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#berbe̯ˈat͡ʃe# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#berbe̯ˈat͡ʃe#
-*#berbˈet͡ʃe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#berbˈet͡ʃe#
+#wˌitˈellam# >>> *#vet͡se̯ˈa# ( GOLD : #vit͡se̯ˈa#) :
+w ˌi t ˈe l l a m 
+*#witˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#witˈella# | 44 : m > ∅ / [-stres] __ #
+*#βitˈella# | 101 : w > β / __ [-cons]
+*#βitˈɛlla# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βetˈɛlla# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#vetˈɛlla# | 154 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vetˈɛlla#
+*#vetjˈɛlla# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
+*#vetjˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vetjˈɛlla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vetjˈɛwa# | 215 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#vetʲjˈɛwa# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vet͡sʲjˈɛwa# | 220 : [-cont,-son,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#vet͡sʲˈɛwa# | 221 : j > ∅ / [+cons,+front] __
+*#vet͡sʲˈɛawa# | 222 : ∅ > a / [-tense] __
+*#vet͡sʲe̯ˈawa# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#vet͡sʲe̯ˈawə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
+*#vet͡sʲe̯ˈa# | 233 : w ə > ∅ / [-cons,-syl] ˈa __ #
+*#vet͡se̯ˈa# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#vet͡se̯ˈa#
+Final form : *#vet͡se̯ˈa#

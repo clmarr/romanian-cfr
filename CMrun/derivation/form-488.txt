@@ -1,19 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 488:
-#hˌospˈitium# >>> *#ospˈət͡s# ( GOLD : #ospˈət͡s#) :
-h ˌo s p ˈi t i u m 
-*#hˌospˈitjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#hospˈitjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ospˈitjum# | 40 : h > ∅ 
-*#ospˈitju# | 44 : m > ∅ / [-stres] __ #
-*#ospˈittju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ospˈettju# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#ospˈetc͡ɕu# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#ospˈett͡sʲu# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-*#ospˈet͡sʲu# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ospˈet͡sʲu#
-*#ospˈet͡su# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ospˈet͡su#
-*#ospˈət͡su# | 243 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#ospˈət͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ospˈət͡s# | 293 : w̥ > ∅ / [-syl] __ #
-Final form : *#ospˈət͡s#
+#ˌinˌuksorˈaː# >>> *#ɨnsurˈa# ( GOLD : #ɨnsurˈa#) :
+ˌi n ˌu k s o r ˈaː 
+*#inuksorˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inksorˈaː# | 70 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ( [-syl] ) [+syl,-stres,-lo]
+*#insorˈaː# | 109 : [-cont] > ∅ / [+cons] __ [-son,-voi]
+*#ensorˈaː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#ensorˈa# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ensorˈa#
+*#ensoɾˈa# | 176 : r > ɾ / __ [nnas,ncons]
+*#ensuɾˈa# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
+Common Romanian stage form : *#ensuɾˈa#
+*#ensurˈa# | 253 : ɾ > r 
+*#insurˈa# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnsurˈa# | 271 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Final form : *#ɨnsurˈa#

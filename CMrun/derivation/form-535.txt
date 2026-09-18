@@ -1,23 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 535:
-#hˌibˈernam# >>> *#jˈarnə# ( GOLD : #jˈarnə#) :
-h ˌi b ˈe r n a m 
-*#hibˈernam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ibˈernam# | 40 : h > ∅ 
-*#ibˈerna# | 44 : m > ∅ / [-stres] __ #
-*#ibˈɛrna# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#iβˈɛrna# | 133 : b > β / [-cons] __ [+cont]
-*#eβˈɛrna# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#eˈɛrna# | 165 : β > ∅ 
-Balkan Romance stage form : *#eˈɛrna#
-*#eˈɛɾna# | 176 : r > ɾ / __ [nnas,ncons]
-*#ejˈɛɾna# | 179 : ∅ > j / [+syl] __ [-cons,-tense,+prim]
-*#ejˈeɾna# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ejˈɛɾna# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ejˈɛaɾna# | 222 : ∅ > a / [-tense] __
-*#eje̯ˈaɾna# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#eje̯ˈaɾnə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#eje̯ˈaɾnə#
-*#eje̯ˈarnə# | 253 : ɾ > r 
-*#je̯ˈarnə# | 283 : e > ∅ / # __ [-syl] [-cons]
-*#jˈarnə# | 284 : e̯ > ∅ / # j __ [+syl,+lo]
-Final form : *#jˈarnə#
+#wˈeːram# >>> *#vˈarə# ( GOLD : #vˈarə#) :
+w ˈeː r a m 
+*#wˈeːra# | 44 : m > ∅ / [-stres] __ #
+*#βˈeːra# | 101 : w > β / __ [-cons]
+*#βˈera# | 136 : [+syl] > [-long,-splng] 
+*#vˈera# | 154 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈera#
+*#vˈeɾa# | 176 : r > ɾ / __ [nnas,ncons]
+*#vˈɛɾa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛaɾa# | 222 : ∅ > a / [-tense] __
+*#ve̯ˈaɾa# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈaɾə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ve̯ˈaɾə#
+*#və̯ˈaɾə# | 243 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈaɾə# | 245 : ə̯ > ∅ / __ [+syl,+lo]
+*#vˈarə# | 253 : ɾ > r 
+Final form : *#vˈarə#

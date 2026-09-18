@@ -1,11 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1159:
-#deːspoliˈaː# >>> *#despojˈa# ( GOLD : #despujˈa#) :
-d eː s p o l i ˈaː 
-*#deːspoljˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#despoljˈa# | 136 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#despoljˈa#
-*#despoʎjˈa# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#despoʎˈa# | 221 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#despoʎˈa#
-*#despojˈa# | 277 : ʎ > j 
-Final form : *#despojˈa#
+#ˌinfrˈanɡe# >>> *#ɨnfrˈɨnd͡ʒe# ( GOLD : #ɨnfrˈɨnd͡ʒe#) :
+ˌi n f r ˈa n ɡ e 
+*#infrˈanɡe# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enfrˈanɡe# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#enfrˈanɟ͡ʑe# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#enfrˈanɟ͡ʑe#
+*#enfɾˈanɟ͡ʑe# | 176 : r > ɾ / __ [nnas,ncons]
+*#enfɾˈənɟ͡ʑe# | 224 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#enfɾˈənd͡ʒe# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#enfɾˈənd͡ʒe#
+*#enfrˈənd͡ʒe# | 253 : ɾ > r 
+*#infrˈənd͡ʒe# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#infrˈɨnd͡ʒe# | 267 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#ɨnfrˈɨnd͡ʒe# | 271 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Final form : *#ɨnfrˈɨnd͡ʒe#

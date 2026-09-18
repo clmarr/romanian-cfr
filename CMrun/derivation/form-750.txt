@@ -1,24 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 750:
-#ˌoe̯strˈikulam# >>> *#strˈekje# ( GOLD : #strˈekje#) :
-ˌo e̯ s t r ˈi k u l a m 
-*#ˌojstrˈikulam# | 12 : e̯ > j 
-*#ojstrˈikulam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eːstrˈikulam# | 43 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
-*#eːstrˈikula# | 44 : m > ∅ / [-stres] __ #
-*#eːstrˈikla# | 59 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#eːstrˈekla# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrˈekla# | 136 : [+syl] > [-long,-splng] 
-*#strˈekla# | 137 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strˈekla#
-*#stɾˈekla# | 176 : r > ɾ / __ [nnas,ncons]
-*#stɾˈɛkla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#stɾˈɛakla# | 222 : ∅ > a / [-tense] __
-*#stɾe̯ˈakla# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#stɾe̯ˈaklə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#stɾe̯ˈakʎə# | 234 : l > ʎ / [-cont,-ant,-cor] __
-*#stɾe̯ˈakʎe# | 235 : ə > e / [+cons,+hi,+front,-strid] __
-Common Romanian stage form : *#stɾe̯ˈakʎe#
-*#stɾˈekʎe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#strˈekʎe# | 253 : ɾ > r 
-*#strˈekje# | 277 : ʎ > j 
-Final form : *#strˈekje#
+#pˌeːdˈukulum# >>> *#pədˈukj# ( GOLD : #pədˈukje#) :
+p ˌeː d ˈu k u l u m 
+*#peːdˈukulum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#peːdˈukulu# | 44 : m > ∅ / [-stres] __ #
+*#peːdˈuklu# | 56 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#pedˈuklu# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pedˈuklu#
+*#pedˈukʎu# | 234 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#pedˈukʎu#
+*#pədˈukʎu# | 243 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pədˈukju# | 277 : ʎ > j 
+*#pədˈukjw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pədˈukj# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#pədˈukj#

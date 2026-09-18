@@ -1,31 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 722:
-#hˌirundinˈellam# >>> *#runzie̯ˈa# ( GOLD : #rɨndune̯ˈa#) :
-h ˌi r u n d i n ˈe l l a m 
-*#hirundinˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#irundinˈellam# | 40 : h > ∅ 
-*#irundinˈella# | 44 : m > ∅ / [-stres] __ #
-*#irundinˈɛlla# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#erundenˈɛlla# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#erundenˈɛlla#
-*#eɾundenˈɛlla# | 176 : r > ɾ / __ [nnas,ncons]
-*#eɾundenjˈɛlla# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
-*#eɾundenjˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#eɾundenjˈɛlla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#eɾundinjˈɛlla# | 214 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#eɾundinjˈɛwa# | 215 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#eɾundjinjˈɛwa# | 217 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
-*#eɾundʲjiɲjˈɛwa# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#eɾund͡zʲjiɲjˈɛwa# | 220 : [-cont,-son,+front] > [+delrel,+strid,-cont,+cons,0tense] 
-*#eɾund͡zʲiɲˈɛwa# | 221 : j > ∅ / [+cons,+front] __
-*#eɾund͡zʲiɲˈɛawa# | 222 : ∅ > a / [-tense] __
-*#eɾund͡zʲiɲe̯ˈawa# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#eɾund͡zʲiɲe̯ˈawə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#eɾund͡zʲiɲe̯ˈa# | 233 : w ə > ∅ / [-cons,-syl] ˈa __ #
-*#eɾund͡ziɲe̯ˈa# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#eɾund͡ziɲe̯ˈa#
-*#erund͡ziɲe̯ˈa# | 253 : ɾ > r 
-*#erunziɲe̯ˈa# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#erunzije̯ˈa# | 279 : ɲ > j 
-*#runzije̯ˈa# | 283 : e > ∅ / # __ [-syl] [-cons]
-*#runzie̯ˈa# | 287 : j > ∅ / __ e̯ [+syl,+lo]
-Final form : *#runzie̯ˈa#
+#mˈerulam# >>> *#mjˈarlə# ( GOLD : #mjˈerlə#) :
+m ˈe r u l a m 
+*#mˈerula# | 44 : m > ∅ / [-stres] __ #
+*#mˈerla# | 67 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#mˈɛrla# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛrla#
+*#mjˈɛrla# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#mjˈerla# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈɛarla# | 222 : ∅ > a / [-tense] __
+*#mje̯ˈarla# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mje̯ˈarlə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mje̯ˈarlə#
+*#mjˈarlə# | 286 : e̯ > ∅ / [+lab] j __ [+syl,+lo] [+cons] [+cons,+son]
+Final form : *#mjˈarlə#

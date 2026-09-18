@@ -1,15 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1048:
-#ekspulwerˈaː# >>> *#spulberˈa# ( GOLD : #spulberˈa#) :
-e k s p u l w e r ˈaː 
-*#ekspulβerˈaː# | 101 : w > β / __ [-cons]
-*#espulβerˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espulβerˈa# | 136 : [+syl] > [-long,-splng] 
-*#spulβerˈa# | 137 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#spulberˈa# | 160 : β > b / [-cons] [+cons,-nas,+voi] __
-Balkan Romance stage form : *#spulberˈa#
-*#spulbeɾˈa# | 176 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#spulbeɾˈa#
-*#spulbəɾˈa# | 243 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#spulbərˈa# | 253 : ɾ > r 
-*#spulberˈa# | 260 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / [+syl,+round,+hi] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-Final form : *#spulberˈa#
+#ekstˈerɡe# >>> *#ʃtˈerd͡ʒe# ( GOLD : #ʃtˈerd͡ʒe#) :
+e k s t ˈe r ɡ e 
+*#estˈerɡe# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estˈɛrɡe# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#stˈɛrɡe# | 137 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#stˈɛrɟ͡ʑe# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#stˈɛrɟ͡ʑe#
+*#stjˈɛrɟ͡ʑe# | 183 : ∅ > j / s t __ [-cons,-tense,+prim]
+*#stjˈerɟ͡ʑe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#stjˈɛrɟ͡ʑe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stʲjˈɛrɟ͡ʑe# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#st͡sʲjˈɛrɟ͡ʑe# | 220 : [-cont,-son,+front] > [+delrel,+strid,-cont,+cons,0tense] 
+*#st͡sʲˈɛrɟ͡ʑe# | 221 : j > ∅ / [+cons,+front] __
+*#st͡sʲˈɛarɟ͡ʑe# | 222 : ∅ > a / [-tense] __
+*#st͡sʲe̯ˈarɟ͡ʑe# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ʃt͡sʲe̯ˈarɟ͡ʑe# | 237 : s > ʃ / __ [+delrel]
+*#ʃte̯ˈarɟ͡ʑe# | 238 : [-cont,-voi,+delrel] > t / ʃ __
+*#ʃte̯ˈard͡ʒe# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ʃte̯ˈard͡ʒe#
+*#ʃtˈerd͡ʒe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Final form : *#ʃtˈerd͡ʒe#

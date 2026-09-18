@@ -1,20 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 678:
-#ˌowˈiːnam# >>> *#o̯ˈajnə# ( GOLD : #ˈojnə#) :
-ˌo w ˈiː n a m 
-*#owˈiːnam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ˈowinam# | 31 : [+syl] [-cons,-syl,+hi] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#ˈowina# | 44 : m > ∅ / [-stres] __ #
-*#ˈoβina# | 101 : w > β / __ [-cons]
-*#ˈoβena# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#ˈoena# | 165 : β > ∅ 
-*#ˈojena# | 169 : ∅ > j / [+syl,+stres,αfront,αlo] __ e
-Balkan Romance stage form : *#ˈojena#
-*#ˈɔjena# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ˈɔajena# | 222 : ∅ > a / [-tense] __
-*#o̯ˈajena# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#o̯ˈajenə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#o̯ˈajenə#
-*#o̯ˈajinə# | 256 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
-*#o̯ˈainə# | 281 : j > ∅ / __ [+syl,+front,+hi]
-*#o̯ˈajnə# | 309 : i > j / [+syl] __
-Final form : *#o̯ˈajnə#
+#ˈowem# >>> *#o̯ˈaje# ( GOLD : #o̯ˈaje#) :
+ˈo w e m 
+*#ˈowe# | 44 : m > ∅ / [-stres] __ #
+*#ˈoβe# | 101 : w > β / __ [-cons]
+*#ˈoe# | 165 : β > ∅ 
+*#ˈoje# | 169 : ∅ > j / [+syl,+stres,αfront,αlo] __ e
+Balkan Romance stage form : *#ˈoje#
+*#ˈɔje# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔaje# | 222 : ∅ > a / [-tense] __
+*#o̯ˈaje# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+Common Romanian stage form : *#o̯ˈaje#
+Final form : *#o̯ˈaje#

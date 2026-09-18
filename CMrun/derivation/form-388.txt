@@ -1,18 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 388:
-#kalkeamˈentum# >>> *#kəlt͡səmˈɨnt# ( GOLD : #kəlt͡səmˈɨnt#) :
-k a l k e a m ˈe n t u m 
-*#kalkjamˈentum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kalkjamˈentu# | 44 : m > ∅ / [-stres] __ #
-*#kalkjamˈɛntu# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kalc͡ɕamˈɛntu# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#kalt͡sʲamˈɛntu# | 148 : [+delrel] > [+cor,+ant,-distr] / __ [+lo]
-Balkan Romance stage form : *#kalt͡sʲamˈɛntu#
-*#kalt͡sʲamˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#kəlt͡sʲəmˈentu# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəlt͡səmˈentu# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kəlt͡səmˈentu#
-*#kəlt͡səmˈəntu# | 243 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#kəlt͡səmˈɨntu# | 267 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#kəlt͡səmˈɨntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kəlt͡səmˈɨnt# | 293 : w̥ > ∅ / [-syl] __ #
-Final form : *#kəlt͡səmˈɨnt#
+#aːnˈellum# >>> *#ɨjˈel# ( GOLD : #inˈel#) :
+aː n ˈe l l u m 
+*#aːnˈellu# | 44 : m > ∅ / [-stres] __ #
+*#aːnˈɛllu# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#anˈɛllu# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#anˈɛllu#
+*#anjˈɛllu# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
+*#anjˈellu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#anjˈelu# | 218 : {l l;m m} > {l;m} 
+*#aɲjˈelu# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#aɲˈelu# | 221 : j > ∅ / [+cons,+front] __
+*#əɲˈelu# | 224 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əɲˈelu#
+*#ɨɲˈelu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # __ [+nas,-lab]
+*#ɨjˈelu# | 279 : ɲ > j 
+*#ɨjˈelw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨjˈel# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#ɨjˈel#
