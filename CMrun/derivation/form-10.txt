@@ -8,16 +8,17 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 10:
 *#adjuːtˈoːrju# | 107 : j > d j / [+syl,-stres] __ [+syl,+round]
 *#addjuːtˈoːrju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#addjutˈorju# | 136 : [+syl] > [-long,-splng] 
-*#adɟ͡ʑutˈorju# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#adɟ͡ʑutˈojru# | 149 : r j > j r / @ [+stres] __
-*#aɟ͡ʑutˈojru# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#aɟ͡ʑutˈojru#
-*#aɟ͡ʑutˈojɾu# | 176 : r > ɾ / __ [nnas,ncons]
-*#ad͡ʒutˈojɾu# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#addʲutˈorju# | 144 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲutˈorju# | 147 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#adɡʲutˈojru# | 148 : r j > j r / @ [+stres] __
+*#aɡʲutˈojru# | 169 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#aɡʲutˈojru#
+*#aɡʲutˈojɾu# | 175 : r > ɾ / __ [nnas,ncons]
+*#ad͡ʒutˈojɾu# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
 Common Romanian stage form : *#ad͡ʒutˈojɾu#
-*#ad͡ʒutˈojru# | 255 : ɾ > r 
-*#aʒutˈojru# | 278 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#aʒutˈojrw̥# | 294 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#aʒutˈojr# | 295 : w̥ > ∅ / [-syl] __ #
-*#aʒutˈor# | 301 : j > ∅ / __ r
+*#ad͡ʒutˈojru# | 253 : ɾ > r 
+*#aʒutˈojru# | 276 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#aʒutˈojrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#aʒutˈojr# | 293 : w̥ > ∅ / [-syl] __ #
+*#aʒutˈor# | 299 : j > ∅ / __ r
 Final form : *#aʒutˈor#

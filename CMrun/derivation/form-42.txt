@@ -5,12 +5,11 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 42:
 *#aksˈunɡjam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#aksˈunɡja# | 44 : m > ∅ / [-stres] __ #
 *#assˈunɡja# | 115 : k > s / __ s
-*#assˈunɟ͡ʑa# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#assˈund͡zʲa# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-*#asˈund͡zʲa# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#asˈund͡zʲa#
-*#asˈund͡zʲə# | 234 : [-cons,+lo,-stres,-long] > ə / @ __
-*#asˈund͡zə# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#assˈundʲa# | 144 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#asˈundʲa# | 169 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#asˈundʲa#
+*#asˈundʲə# | 233 : [-cons,+lo,-stres,-long] > ə / @ __
+*#asˈund͡zə# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
 Common Romanian stage form : *#asˈund͡zə#
-*#asˈunzə# | 277 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#asˈunzə# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
 Final form : *#asˈunzə#

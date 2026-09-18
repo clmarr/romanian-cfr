@@ -9,18 +9,19 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 145:
 *#inpreɡɡjˈuːru# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#enpreɡɡjˈuːru# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 *#enpreɡɡjˈuru# | 136 : [+syl] > [-long,-splng] 
-*#enpreɡɟ͡ʑˈuru# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#enpredɟ͡ʑˈuru# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
-*#enpreɟ͡ʑˈuru# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#enpreɟ͡ʑˈuru#
-*#enpɾeɟ͡ʑˈuɾu# | 176 : r > ɾ / __ [nnas,ncons]
-*#enpɾed͡ʒˈuɾu# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#enpreɡdʲˈuru# | 144 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#enpreddʲˈuru# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#enpredɡʲˈuru# | 147 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#enpreɡʲˈuru# | 169 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#enpreɡʲˈuru#
+*#enpɾeɡʲˈuɾu# | 175 : r > ɾ / __ [nnas,ncons]
+*#enpɾed͡ʒˈuɾu# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
 Common Romanian stage form : *#enpɾed͡ʒˈuɾu#
-*#enpred͡ʒˈuru# | 255 : ɾ > r 
-*#inpred͡ʒˈuru# | 257 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnpred͡ʒˈuru# | 273 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨnpreʒˈuru# | 278 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ɨnpreʒˈurw̥# | 294 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨnpreʒˈur# | 295 : w̥ > ∅ / [-syl] __ #
-*#ɨmpreʒˈur# | 312 : n > m / __ [-cont,+lab]
+*#enpred͡ʒˈuru# | 253 : ɾ > r 
+*#inpred͡ʒˈuru# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnpred͡ʒˈuru# | 271 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnpreʒˈuru# | 276 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ɨnpreʒˈurw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨnpreʒˈur# | 293 : w̥ > ∅ / [-syl] __ #
+*#ɨmpreʒˈur# | 310 : n > m / __ [-cont,+lab]
 Final form : *#ɨmpreʒˈur#

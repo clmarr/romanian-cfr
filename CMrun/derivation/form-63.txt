@@ -4,12 +4,11 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 63:
 *#ammortˈiː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ammortˈi# | 136 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#ammortˈi#
-*#ammurtˈi# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#ammurtjˈi# | 217 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
-*#amurtjˈi# | 218 : {l l;m m} > {l;m} 
-*#amurtʲjˈi# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#amurt͡sʲjˈi# | 220 : [-cont,-son,+front] > [+delrel,+strid,-cont,+cons,0tense] 
-*#amurt͡sʲˈi# | 221 : j > ∅ / [+cons,+front] __
-*#amurt͡sˈi# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#ammurtˈi# | 195 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
+*#ammurtjˈi# | 216 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
+*#amurtjˈi# | 217 : {l l;m m} > {l;m} 
+*#amurtʲjˈi# | 218 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#amurtʲˈi# | 219 : j > ∅ / [+cons,+front] __
+*#amurt͡sˈi# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
 Common Romanian stage form : *#amurt͡sˈi#
 Final form : *#amurt͡sˈi#

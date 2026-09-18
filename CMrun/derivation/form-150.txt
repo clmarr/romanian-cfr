@@ -5,12 +5,11 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 150:
 *#inaltjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#enaltjˈaː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 *#enaltjˈa# | 136 : [+syl] > [-long,-splng] 
-*#enalc͡ɕˈa# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#enalt͡sʲˈa# | 148 : [+delrel] > [+cor,+ant,-distr] / __ [+lo]
-Balkan Romance stage form : *#enalt͡sʲˈa#
-*#enəlt͡sʲˈa# | 234 : [-cons,+lo,-stres,-long] > ə / @ __
-*#enəlt͡sˈa# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#enaltʲˈa# | 144 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+Balkan Romance stage form : *#enaltʲˈa#
+*#enəltʲˈa# | 233 : [-cons,+lo,-stres,-long] > ə / @ __
+*#enəlt͡sˈa# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
 Common Romanian stage form : *#enəlt͡sˈa#
-*#inəlt͡sˈa# | 258 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
-*#ɨnəlt͡sˈa# | 273 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#inəlt͡sˈa# | 256 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#ɨnəlt͡sˈa# | 271 : [+syl,+front,+hi] > [-front] / # __ [+nas]
 Final form : *#ɨnəlt͡sˈa#

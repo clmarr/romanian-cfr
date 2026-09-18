@@ -565,9 +565,14 @@ $ R18 {Many C+j-related chanɡes}
 			${p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 				$ Moved to just after R13F.
 
-	$ CM 9/18/26 CONSOLIDATION OF FIRST PALATAL COALESCENCE -- dtgk > palatal affricates, with absorption of j, in a SINGLE rule. 
-		$treating these as proper palatal (affricates) for now is best for other reasons, because they pattern with palatalized s produced of SECOND PALATAL COALESCENCE. 
-	[-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid] ∅
+	$ CM 9/18/26 CONSOLIDATION OF FIRST PALATAL COALESCENCE -- dtgk > palatalized stops tʲ dʲ, 
+			$ with absorption of j, in a SINGLE rule. 
+			$ these become gʲ kʲ in areas they were not formerly thought to DEPALATALIZE
+		$CM 9/18/26 -- treating these as proper palatal stops for now is best for other reasons:
+			$ there is a depalatalization rule that hits both kʲ gʲ and later produced tʲ dʲ sʲ , producing k g t d j 
+			$ sʲ patterns with palatalized s produced by second palatal coalescence
+			$ no need to posit extra places of articulation if we don't need to.  
+	[-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
 
 	$ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
 		$ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
@@ -597,27 +602,37 @@ $ R18 {Many C+j-related chanɡes}
 			$[-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
 			$[-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
 		$CM 9/18/26 consolidated into single rule:
-	[-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
+	[-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
 
 
 $ NEW RULE: [stʃ] > ... > [ʃ]. CM 9/18/26 per consolidation of first palatalization -- made neutral between t͡ʃ and c͡ç
 	$s [+delrel] > ʃ
 		$ christianum may have been reborrowed, which would explain ʃt -- CM 9/18 yes it is borrowed from Middle Proto-Albanian *krɩstɛːnʊ
 		$ CM 9/18/26 moved before R19 depalatalization, to allow greater simplicity in that rule. 
-		$ CM 9/18/26 -- sending it to ɕ instead, to maintain coherence in the phonological system, after consolidation of first palatalization. 
-	s [+delrel] > ɕ	
+		$ CM 9/18/26 -- sending it to sʲ instead, to maintain coherence in the phonological system,
+			$ after consolidation of first palatalization. 
+			$ this shares outcomse with s > ʃ that emerges later. 
+	s [-cont,+front] > sʲ
 
+	$ CM 9/18/26 reinterpretation of depalatalization rules as actually the inverse of a backing rule for tʲ and dʲ 
 $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
 		$ CM 9/18/26 adjusted based on consolidation of first palatalization and it producing palatals for now. Sees thru t/d. Made simpler, and neutral between PoA of result of first palatalization. Does not totally depalatalize yet.  
 			$ formerly: {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __
 			$ as of 9/18/26, BLED by stʲ > sʲ rule -- so can just see through any prior consonants, incl. obstruents, and no need for the big disjunction. 
-	[+delrel] > [+cor,+ant,-distr] / [+prim] ([-syl])* __
-	
+		$ CM 9/18/26 -- reinterpreted as kʲ gʲ > tʲ dʲ 
+	$[+delrel] > [+cor,+ant,-distr] / [+prim] ([-syl])* __
+		$CM 9/18/26 -- consolidated/reinterpreted as palatal backing Tʲ > Kʲ 	
 
 $ NEW (moved from later in cascade and reformulated) RULE: Depalatalization before [ˈa]
 		$CM 9/18/26 per consolidation of first palatalization -- made neutral between palatal and postalveolar affricate PoA. Loss of palatality comes later. Formerly: {t͡ʃ;d͡ʒ} > {t͡s;d͡z} / __ ˈa
 			$ CM 9/18/26 furthemore: it's actually before ANY a. 
-	[+delrel] > [+cor,+ant,-distr] / __ [+lo]
+	$[+delrel] > [+cor,+ant,-distr] / __ [+lo]
+		$CM 9/18/26 -- consolidated/reinterpreted as palatal backing Tʲ > Kʲ 	
+
+	$ CM 9/18/26 -- PALATAL STOP BACKING to form kʲ gʲ 
+		$ new rule consolidating reinterpreting as palatal backing -- it is actually in these situations that tʲ dʲ REMAIN anterior. 
+		$ otherwise -- before non-low segments, and after anything but a tonic syllable -- they retract to kʲ gʲ
+	[-cont,+front] > [-cor,-ant,+back] / # ((@)* [-prim]) ([-syl])* __ [-lo]
 
 $ R20 Attraction of ɡlides
 	$ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
@@ -719,7 +734,7 @@ $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
 		$ Still doesnt work so:
 			${ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
 		$ CM FIRST PALATALIZATION CONSOLIDATION: sent instead to palatal affricates, no need for extra phonemes or extra distinctions. This does not totally merge with the first palatalization, however, as it doesn't show the same depalatalization behavior, for example not depalatalizing in post-tonic position. 
-	[-cont,+back] > [+front,-back,+delrel,+strid] / __ [-cons,-back,-lo]
+	[-cont,+back] > [+front] / __ [-cons,-back,-lo]
 			
 $ Nasal assimilation
 	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
@@ -883,7 +898,8 @@ $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
 
 	$ CM 9/18/26 -- moved R39 and R40 before R31B, in order to enable new depalatalization rule. 
 $ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tăciune 
-	i > e / [+cons] __ [+cons,+delrel]
+		$ CM 9/18/26 -- now before palatals proper, not before affricates per se.
+	i > e / [+cons] __ [+cons,+front]
 
 
 
@@ -907,15 +923,13 @@ $ R41 Post-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 	$ CM 9/18/26 SECOND PALATALIZATION consolidation 
 		$ combine loss of j in 41B and 42B into a single rule since itțs a single phenomenon. 
 		$ likewise, combine palatalizations of 41A and 42A sine they are a single phenomenon
-		$-- j is going to delete after palatal consonants, t͡s and d͡z from palatalized t and d are treated as t͡sʲ and d͡zʲ 
-			$ whether something goes all the way to palatal is determined by continuance: l n s go all the way, t d ɾ do not (r cannot occur before palatals -- only rɾj can) 
+		$-- j is going to delete after palatal consonants,  palatalized t and d are treated as tʲ and dʲ for now 
+				$ becuase they DEPALATALIZE into these (CM 9/18 depalatalization rule)
 		$ this cannot quite become a single coalescence rule because j also has to delete after the existing t͡ʃ and d͡ʒ segments.
 		$ preserving the lack of application if the coronal comes after a lateral. Note that former llj is affected, so its gemination thus FEEDS this rule
-		$ occlusives are the ones that remain coronal (t d ɾ > t͡sʲ d͡zʲ ɾʲ) -- alpha feature s. Continuants n l s palatalize to ɲ ʎ ɕ
-	[+cor,+ant,scont] > [+front,-sant,-scor,+hi] / # ((@)* [-lat]) __ j 
-			$ CM 9/18/26 -- no need for separate phonemes tʲ dʲ -- merged into existing t͡sʲ and d͡zʲ 
-	[-cont,-son,+front] > [+delrel,+strid] 
-
+		$ affrication happens later, depalatalization happens first
+	[+cor,+ant] > [+front,+hi] / # ((@)* [-lat]) __ j 
+			
 	$ R41B Absorption of yod after a palatal seɡment
 		$j > ∅ / [+cons,+hi] __
 		$ Also problematic. Tryinɡ addinɡ this:
@@ -927,11 +941,24 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 		$[-cont,+ant,+cor,-son] > [+delrel,+strid] / __ j
 		$ EDIT: Does not occur after laterals.
 			$[-cont,+ant,+cor,-son] > [+delrel,+strid] / {#;[-lat]} __ j
-		$ consolidated SECOND PALATALIZATION by CM 9/18/26
+		$ consolidated SECOND PALATALIZATION by CM 9/18/26,
+			$ affrication now happens only after DEPALATALIZATION RULE 
 
 	$ R42B Absorption of yod after an affricate
 		$j > ∅ / [+delrel] __
 		$ consolidated SECOND PALATALIZATION by CM 9/18/26
+
+	$ CM 9/18/26 -- retraction of palatalized coronal continuants here. 
+		$ counterbleeds DEPALATALIZATION outcome for sʲ -- see frasinet 
+			$ ɾ is not treated as continuant (!!) -- must be AFTER it is tapped.
+				$ (r cannot occur before palatals -- only rɾj can) 
+	[+front,+cons,+cont] > [-cor,-ant,+hi]	
+
+	$ CM 9/18/26 -- now the affrication of palatal stops occurs -- 
+		$ tʲ dʲ kʲ gʲ 
+					$ occlusives are the ones that remain coronal (t d ɾ > t͡sʲ d͡zʲ ɾʲ) -- alpha feature s. Continuants n l s palatalize to ɲ ʎ ɕ
+	$[-cont,-son,+front] > [+delrel,+strid,-back] 
+
 
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
@@ -1025,6 +1052,19 @@ $ R43 Palatalization of [l] after a velar consonant
 	$ For compatibility:
 		l > ʎ / [-cont,-ant,-cor] __
 
+$ TODO CONSOLIDATE INTO EARLIER? 
+	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
+			$ BLEEDS R44
+		$ t͡sʲ d͡zʲ 
+		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
+		$ ɲ ʎ stay put
+		$ ɾʲ has special behavior (see below) 
+	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
+	[-son,+front,ðant] > [+delrel,+cor,-hi,-ðfront,-ðdistr,+strid,-back]
+
+		$CM 9/18/26 -- ɾʲ unpacks instead. 
+	ɾʲ > ɾ j
+
 $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 	$ ə > e / [-cont,+hi,-strid] __
 	$ But these are both actually [+cont].
@@ -1042,30 +1082,23 @@ $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
 		$ For compatibility:
 			$s > ʃ / __ t͡ʃ
 			$ Expanding to handle sti reflexes:
-				s > ʃ / __ [+delrel]
+				$s > ʃ / __ [+delrel]
 
 	$ R45B Dissimilation: [č] > [t] after [š]
 		$ [+delrel,-ant,+cor] > [-delrel,+ant] / ʃ __
 		$ Aɡain, for compatibility:
 			$t͡ʃ > t / ʃ __
-			$ Expanding to handle sti reflexes:
-				[-cont,-voi,+delrel] > t / ʃ __
+			$ EDIT: Expanding to handle sti reflexes:
+				$[-cont,-voi,+delrel] > t / ʃ __
 
+	$CM 9/18/26 -- consolidated R45 to single rule, without dependence on +delrel but rather palatality it refers to. 
+	s [-cont,+front] > ʃ t
 
 $ NEW RULE: -ăune > -ăun
 	$ This has to have occurred before the breakup of Common Romanian; see Aromanian pãun for Romanian păun.
 		e > ∅ / [+syl] [+prim] [+cons] __ #
 
-	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
-		$ t͡sʲ d͡zʲ 
-		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
-		$ ɲ ʎ stay put
-		$ ɾʲ has special behavior (see below) 
-	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
-	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
-
-		$CM 9/18/26 -- ɾʲ unpacks instead. 
-	ɾʲ > ɾ j
+	
 
 ~ Common Romanian
 

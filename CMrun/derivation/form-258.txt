@@ -3,13 +3,12 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 258:
 s ˌe n t ˈiː 
 *#sentˈiː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#sentˈi# | 136 : [+syl] > [-long,-splng] 
-*#semtˈi# | 173 : n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
+*#semtˈi# | 172 : n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
 Balkan Romance stage form : *#semtˈi#
-*#semtjˈi# | 217 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
-*#semtʲjˈi# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#semt͡sʲjˈi# | 220 : [-cont,-son,+front] > [+delrel,+strid,-cont,+cons,0tense] 
-*#semt͡sʲˈi# | 221 : j > ∅ / [+cons,+front] __
-*#semt͡sˈi# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#semtjˈi# | 216 : ∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
+*#semtʲjˈi# | 218 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#semtʲˈi# | 219 : j > ∅ / [+cons,+front] __
+*#semt͡sˈi# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
 Common Romanian stage form : *#semt͡sˈi#
-*#simt͡sˈi# | 256 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#simt͡sˈi# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
 Final form : *#simt͡sˈi#

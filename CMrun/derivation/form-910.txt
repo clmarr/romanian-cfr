@@ -1,16 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 910:
-#rˈoseum# >>> *#rˈoʃ# ( GOLD : #rˈoʃ#) :
+#rˈoseum# >>> *#rˈot͡ʃ# ( GOLD : #rˈoʃ#) :
 r ˈo s e u m 
 *#rˈosjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#rˈosju# | 44 : m > ∅ / [-stres] __ #
 Balkan Romance stage form : *#rˈosju#
-*#ɾˈosju# | 176 : r > ɾ / __ [nnas,ncons]
-*#rɾˈosju# | 177 : ∅ > r / # __ ɾ
-*#rɾˈoɕju# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾˈoɕu# | 221 : j > ∅ / [+cons,+front] __
-*#rɾˈoʃu# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾˈoʃu#
-*#rˈoʃu# | 248 : {ɾ;r} > {∅;∅} / r __
-*#rˈoʃw̥# | 294 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rˈoʃ# | 295 : w̥ > ∅ / [-syl] __ #
-Final form : *#rˈoʃ#
+*#ɾˈosju# | 175 : r > ɾ / __ [nnas,ncons]
+*#rɾˈosju# | 176 : ∅ > r / # __ ɾ
+*#rɾˈosʲju# | 218 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rɾˈosʲu# | 219 : j > ∅ / [+cons,+front] __
+*#rɾˈoɕu# | 220 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#rɾˈot͡ʃu# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
+Common Romanian stage form : *#rɾˈot͡ʃu#
+*#rˈot͡ʃu# | 246 : {ɾ;r} > {∅;∅} / r __
+*#rˈot͡ʃw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rˈot͡ʃ# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#rˈot͡ʃ#

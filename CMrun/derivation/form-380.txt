@@ -1,17 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 380:
-#kamˈisiam# >>> *#kəme̯ˈaʃə# ( GOLD : #kəmˈaʃə#) :
+#kamˈisiam# >>> *#kəme̯ˈat͡ʃə# ( GOLD : #kəmˈaʃə#) :
 k a m ˈi s i a m 
 *#kamˈisjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#kamˈisja# | 44 : m > ∅ / [-stres] __ #
 *#kamˈesja# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 Balkan Romance stage form : *#kamˈesja#
-*#kamˈɛsja# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kamˈɛɕja# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kamˈɛɕa# | 221 : j > ∅ / [+cons,+front] __
-*#kamˈɛaɕa# | 222 : ∅ > a / [-tense] __
-*#kame̯ˈaɕa# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kəme̯ˈaɕa# | 227 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#kəme̯ˈaɕə# | 234 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəme̯ˈaʃə# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kəme̯ˈaʃə#
-Final form : *#kəme̯ˈaʃə#
+*#kamˈɛsja# | 208 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kamˈɛsʲja# | 218 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kamˈɛsʲa# | 219 : j > ∅ / [+cons,+front] __
+*#kamˈɛɕa# | 220 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#kamˈɛaɕa# | 221 : ∅ > a / [-tense] __
+*#kame̯ˈaɕa# | 222 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kəme̯ˈaɕa# | 226 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#kəme̯ˈaɕə# | 233 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kəme̯ˈat͡ʃə# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
+Common Romanian stage form : *#kəme̯ˈat͡ʃə#
+Final form : *#kəme̯ˈat͡ʃə#

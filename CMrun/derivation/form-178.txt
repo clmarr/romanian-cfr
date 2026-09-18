@@ -1,20 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 178:
-#sˈerram# >>> *#ʃˈarə# ( GOLD : #ʃˈarə#) :
+#sˈerram# >>> *#t͡ʃˈarə# ( GOLD : #ʃˈarə#) :
 s ˈe r r a m 
 *#sˈerra# | 44 : m > ∅ / [-stres] __ #
 *#sˈɛrra# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 Balkan Romance stage form : *#sˈɛrra#
-*#sˈɛrɾa# | 176 : r > ɾ / __ [nnas,ncons]
-*#sjˈɛrɾa# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
-*#sjˈerɾa# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛrɾa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ɕjˈɛrɾa# | 219 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɕˈɛrɾa# | 221 : j > ∅ / [+cons,+front] __
-*#ɕˈɛarɾa# | 222 : ∅ > a / [-tense] __
-*#ɕe̯ˈarɾa# | 223 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɕe̯ˈarɾə# | 234 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ʃe̯ˈarɾə# | 242 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃe̯ˈarɾə#
-*#ʃe̯ˈarə# | 248 : {ɾ;r} > {∅;∅} / r __
-*#ʃˈarə# | 252 : e̯ ˈa > ˈa / ʃ __
-Final form : *#ʃˈarə#
+*#sˈɛrɾa# | 175 : r > ɾ / __ [nnas,ncons]
+*#sjˈɛrɾa# | 179 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#sjˈerɾa# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sjˈɛrɾa# | 208 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sʲjˈɛrɾa# | 218 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#sʲˈɛrɾa# | 219 : j > ∅ / [+cons,+front] __
+*#ɕˈɛrɾa# | 220 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ɕˈɛarɾa# | 221 : ∅ > a / [-tense] __
+*#ɕe̯ˈarɾa# | 222 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɕe̯ˈarɾə# | 233 : [-cons,+lo,-stres,-long] > ə / @ __
+*#t͡ʃe̯ˈarɾə# | 236 : [-son,+front,ðant] > [+delrel,+cor,-hi,!ðfront,!ðdistr,+strid,-back,-cont,+cons,0tense] 
+Common Romanian stage form : *#t͡ʃe̯ˈarɾə#
+*#t͡ʃe̯ˈarə# | 246 : {ɾ;r} > {∅;∅} / r __
+*#t͡ʃˈarə# | 288 : e̯ > ∅ / # [+cons,αcont] __ ˈa [+cons,!αcont] ə #
+Final form : *#t͡ʃˈarə#
