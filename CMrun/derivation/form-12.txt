@@ -1,16 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 12:
-#ˌadlˈeɡe# >>> *#alˈed͡ʒe# ( GOLD : #alˈed͡ʒe#) :
+#ˌadlˈeɡe# >>> *#alˈeɟ͡ʑe# ( GOLD : #alˈed͡ʒe#) :
 ˌa d l ˈe ɡ e 
 *#adlˈeɡe# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#allˈeɡe# | 35 : d > l / [+syl,+lo] __ l
 *#allˈɛɡe# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#allˈɛd͡ʒe# | 171 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#allˈɛd͡ʒe#
-*#allˈed͡ʒe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#allˈɛd͡ʒe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#allˈɛad͡ʒe# | 216 : ∅ > a / [-tense] __
-*#alle̯ˈad͡ʒe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ale̯ˈad͡ʒe# | 218 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#ale̯ˈad͡ʒe#
-*#alˈed͡ʒe# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#alˈed͡ʒe#
+*#allˈɛɟ͡ʑe# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#allˈɛɟ͡ʑe#
+*#allˈeɟ͡ʑe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#allˈɛɟ͡ʑe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#allˈɛaɟ͡ʑe# | 216 : ∅ > a / [-tense] __
+*#alle̯ˈaɟ͡ʑe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ale̯ˈaɟ͡ʑe# | 218 : {l l;m m} > {l;m} 
+Common Romanian stage form : *#ale̯ˈaɟ͡ʑe#
+*#alˈeɟ͡ʑe# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Final form : *#alˈeɟ͡ʑe#

@@ -142,7 +142,7 @@ e > ∅ / # __ s s [+syl,αfront,αlo]
 [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
 t > t͡s / # e n __ [+syl,-back,-prim,-long] l
 w > ∅ / __ [+syl]
-[-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
+[-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
 [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
 s [+delrel] > ɕ
 [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
@@ -169,7 +169,7 @@ i e > j e
 ∅ > j / ˈi __ [+syl,-hi]
 ∅ > j / [+syl,+stres,αfront,αlo] __ e
 [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-{ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
+[-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
 m > n / __ [+cor,-voi]
 n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
 s > j / [+stres] __ #

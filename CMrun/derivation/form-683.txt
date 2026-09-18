@@ -1,18 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 683:
-#pˌorkˈellam# >>> *#purt͡ʃe̯ˈa# ( GOLD : #purt͡ʃe̯ˈa#) :
+#pˌorkˈellam# >>> *#purc͡ɕe̯ˈa# ( GOLD : #purt͡ʃe̯ˈa#) :
 p ˌo r k ˈe l l a m 
 *#porkˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#porkˈella# | 44 : m > ∅ / [-stres] __ #
 *#porkˈɛlla# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#port͡ʃˈɛlla# | 171 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#port͡ʃˈɛlla#
-*#port͡ʃˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#purt͡ʃˈella# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#purt͡ʃˈɛlla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#purt͡ʃˈɛwa# | 215 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#purt͡ʃˈɛawa# | 216 : ∅ > a / [-tense] __
-*#purt͡ʃe̯ˈawa# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#purt͡ʃe̯ˈawə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#purt͡ʃe̯ˈa# | 229 : w ə > ∅ / [-cons,-syl] [+syl] __ #
-Common Romanian stage form : *#purt͡ʃe̯ˈa#
-Final form : *#purt͡ʃe̯ˈa#
+*#porc͡ɕˈɛlla# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#porc͡ɕˈɛlla#
+*#porc͡ɕˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#purc͡ɕˈella# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
+*#purc͡ɕˈɛlla# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#purc͡ɕˈɛwa# | 215 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#purc͡ɕˈɛawa# | 216 : ∅ > a / [-tense] __
+*#purc͡ɕe̯ˈawa# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#purc͡ɕe̯ˈawə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#purc͡ɕe̯ˈa# | 229 : w ə > ∅ / [-cons,-syl] [+syl] __ #
+Common Romanian stage form : *#purc͡ɕe̯ˈa#
+Final form : *#purc͡ɕe̯ˈa#

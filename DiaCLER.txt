@@ -567,7 +567,7 @@ $ R18 {Many C+j-related chanɡes}
 
 	$ CM 9/18/26 CONSOLIDATION OF FIRST PALATAL COALESCENCE -- dtgk > palatal affricates, with absorption of j, in a SINGLE rule. 
 		$treating these as proper palatal (affricates) for now is best for other reasons, because they pattern with palatalized s produced of SECOND PALATAL COALESCENCE. 
-	[-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,+strid] ∅
+	[-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid] ∅
 
 	$ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
 		$ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
@@ -716,9 +716,10 @@ $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
 	$ Stranɡe notation here. Is this just a typo where > should be / ?
 		$[-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ [-cons,-back]
 		$ Still doesnt work so:
-			{ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
-
-
+			${ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
+		$ CM FIRST PALATALIZATION CONSOLIDATION: sent instead to palatal affricates, no need for extra phonemes or extra distinctions. This does not totally merge with the first palatalization, however, as it doesn't show the same depalatalization behavior, for example not depalatalizing in post-tonic position. 
+	[-cont,+back] > [+front,-back,+delrel,+strid] / __ [-cons,-back,-lo]
+			
 $ Nasal assimilation
 	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
 	$ new rule "[n] dissimilates to [m] between voiceless coronals" has to have taken place before Aromanian and Daco-Romanian diverged,
@@ -971,7 +972,7 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 	$ Problematic with received symdefs -- makinɡ a disjunction for now:
 		${l;n;s} > {ʎ;ɲ;ʃ} / __ j
 			$ This rule does NOT occur before intervocalic [l]-flapping.
-				$ consolidated in to 9/18 SECOND PALATALIZATION CONSOLIDATION
+				$ consolidated in to 9/18 SECOND PALATALIZATION CONSOLIDATION; no need for extra place of articulation at this time; use ɕ already established as palatalized s. 
 
 	$ CM 9/18/26 second palatalization consolidation 
 		$ combine loss of j in 41B and 42B into a single rule since itțs a single phenomenon. 
@@ -988,7 +989,7 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 			j > ∅ / [+cons,+front] __
 		$ this now handles all loss of j per 9/18 SECOND PALATALIZATION CONSOLIDATION
 
-	$ PER 9/18 SECOND PALATALIZATION CONSOLIDATION: resolution. Perhaps postdate to later
+	
 
 $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 	$ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
@@ -1037,8 +1038,6 @@ $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
 $ NEW RULE: -ăune > -ăun
 	$ This has to have occurred before the breakup of Common Romanian; see Aromanian pãun for Romanian păun.
 		e > ∅ / [+syl] [+prim] [+cons] __ #
-
-
 
 
 ~ Common Romanian
