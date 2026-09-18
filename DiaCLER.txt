@@ -286,7 +286,7 @@ $ Yet another oddball syncope in cubitum>cot. FLAG -- reexamine later.
 
 
 $ˈoː > ˈɔ / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo] $ only helping soricem>șoarece. FLAG -- reexamine later; consider for removal.
-	$ Removing for now, even though it decreases accuracy. There's some sort of s>ș phenomenon that occurs in this word, șerpânță, and ședea that we're missing, but it needs something more expansive than this rule to explain it.
+	$ Removing for now, even though it decreases accuracy. There's some sort of s>ș phenomenon that occurs in this word, șerpânță, and ședea that we're missing, but it needs something more expansive than this rule to explain it. $ (also așeza?)
 
 
 $ NEW RULE: [l] metathesis 1
@@ -940,8 +940,13 @@ $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 		$a > ˈa / [-tense,+stres] __
 		$[-cons,-tense] > [-syl] / __ [+syl] $ Doesn't happen when no a-insertion occurs (hence / __ [+syl]).
 	$ Also, Pardess appears to also imply tensinɡ...
-		$[-syl,-tense] > [+tense] $consolidated into R32/R31B reslution 
-	$CM 9/18/26 -- these are consolidated in to R32. 
+		$[-syl,-tense] > [+tense]
+	$ CM 9/16/26 edit R31B RESOLUTION -- consolidation of the three above, as well as R32 below, into one rule; 
+	[-hi,-lo,+prim] a > [-syl,+tense] [+prim] 
+	
+$ R35B Deɡemination of [ll]
+		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both degeminate at this time. Moved to before R35 so that R35 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. 
+		{l l;m m} > {l;m}
 
 $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
 		$CM EDIT 9/16 -- consolidated into R31B RESOLUTION 
@@ -1053,7 +1058,7 @@ $ NEW RULE: -ăune > -ăun
 
 	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
 		$ t͡sʲ d͡zʲ 
-		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ
+		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
 		$ ɲ ʎ stay put
 		$ ɾʲ has special behavior (see below) 
 	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
@@ -1249,7 +1254,7 @@ $ NEW RULE: [e̯ˈa] > [ˈa] in words of shape [αcont]e̯ˈa[-αcont]ə
 
 $ R58 Assimilation: word-final [ə] > [e] after [i]
 	$ Pardess: ə > [-back] / i __ #
-	$ EDIT: need to capture [j] as a potential context as well):
+	$ EDIT: need to capture [j] as a potential context as well:
 		ə > e / [+front,+hi] __ #
 
 
