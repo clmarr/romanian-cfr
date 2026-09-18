@@ -954,17 +954,18 @@ $ R38 [e'a] > [e̯'a]
 		$e > [-syl] / __ [-cons,+lo]
 	$9/18/26 CM -- removed, no domain. Should be handled with the existing ea > e̯a stress rule. 
 
-$ R39 Lowerinɡ of unstressed internal [i]
+$ R39 Lowerinɡ of unstressed internal [i] before affricates. 
 	i > e / [+cons] __ [+cons,+delrel]
-
-$ NEW RULE: Reflex of Latin -llam when preceding vowel tenses and breaks
-	w ə > ∅ / [-cons,-syl] [+syl] __ #
-		$ Quite possibly the schwa was deleted first and the resulting triphthong was dispreferred, so the [w] was subsequently deleted as well.
 
 $ R40 Diphthonɡization of [i]: [i] > [yi]
 	$∅ > j / [+cons] __ [+syl,+front,+hi]
 	$ EDIT: only occurs after obstruents and [l]
-		∅ > j / {[+cons,-son];l} __ [+syl,+front,+hi]
+		∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
+
+$ NEW RULE: Reflex of Latin -llam lost when preceding vowel tenses and breaks
+	w ə > ∅ / [-cons,-syl] ˈa __ #
+		$ Quite possibly the schwa was deleted first and the resulting triphthong was dispreferred, so the [w] was subsequently deleted as well.
+		$ CM 9/18/26 -- only after ˈa (not just [+syl]) -- not after ji. 
 
 $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment}
 	$ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]

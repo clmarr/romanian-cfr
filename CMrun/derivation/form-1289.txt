@@ -1,14 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1289:
-#ˌinterroɡˈaː# >>> *#ɨnteruɡˈa# ( GOLD : #ɨntrebˈa#) :
-ˌi n t e r r o ɡ ˈaː 
-*#interroɡˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enterroɡˈaː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#enterroɡˈa# | 136 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enterroɡˈa#
-*#enterɾoɡˈa# | 176 : r > ɾ / __ [nnas,ncons]
-*#enterɾuɡˈa# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
-Common Romanian stage form : *#enterɾuɡˈa#
-*#enteruɡˈa# | 247 : {ɾ;r} > {∅;∅} / r __
-*#interuɡˈa# | 256 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnteruɡˈa# | 272 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnteruɡˈa#
+#mulˈierem# >>> *#mujˈere# ( GOLD : #mujˈere#) :
+m u l ˈi e r e m 
+*#mulˈiere# | 44 : m > ∅ / [-stres] __ #
+*#muliˈeːre# | 123 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#muljˈeːre# | 129 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#muljˈere# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#muljˈere#
+*#muljˈeɾe# | 176 : r > ɾ / __ [nnas,ncons]
+*#muljˈɛɾe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#muljˈɛaɾe# | 216 : ∅ > a / [-tense] __
+*#mulje̯ˈaɾe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#muʎje̯ˈaɾe# | 231 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#muʎe̯ˈaɾe# | 233 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#muʎe̯ˈaɾe#
+*#muʎˈeɾe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#muʎˈere# | 253 : ɾ > r 
+*#mujˈere# | 277 : ʎ > j 
+Final form : *#mujˈere#
