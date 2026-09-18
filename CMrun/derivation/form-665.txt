@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 665:
-#ˌarˈietem# >>> *#arˈete# ( GOLD : #arˈete#) :
+#ˌarˈietem# >>> *#aɾʲˈete# ( GOLD : #arˈete#) :
 ˌa r ˈi e t e m 
 *#arˈietem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#arˈiete# | 44 : m > ∅ / [-stres] __ #
@@ -7,12 +7,12 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 665:
 *#arjˈeːte# | 129 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
 *#arjˈete# | 136 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#arjˈete#
-*#aɾjˈete# | 179 : r > ɾ / __ [nnas,ncons]
-*#aɾjˈɛte# | 212 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#aɾjˈɛate# | 218 : ∅ > a / [-tense] __
-*#aɾje̯ˈate# | 219 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-Common Romanian stage form : *#aɾje̯ˈate#
-*#aɾjˈete# | 256 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#aɾˈete# | 257 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
-*#arˈete# | 258 : ɾ > r 
-Final form : *#arˈete#
+*#aɾjˈete# | 177 : r > ɾ / __ [nnas,ncons]
+*#aɾjˈɛte# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#aɾjˈɛate# | 216 : ∅ > a / [-tense] __
+*#aɾje̯ˈate# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#aɾʲje̯ˈate# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#aɾʲe̯ˈate# | 235 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#aɾʲe̯ˈate#
+*#aɾʲˈete# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Final form : *#aɾʲˈete#

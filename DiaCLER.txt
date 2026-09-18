@@ -565,20 +565,28 @@ $ R18 {Many C+j-related chanɡes}
 			${p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 				$ Moved to just after R13F.
 
+	$ CM 9/18/26 CONSOLIDATION OF FIRST PALATAL COALESCENCE -- dtgk > palatal affricates, with absorption of j, in a SINGLE rule. 
+		$treating these as proper palatal (affricates) for now is best for other reasons, because they pattern with palatalized s produced of SECOND PALATAL COALESCENCE. 
+	[-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel] ∅
+
 	$ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
 		$ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
 		$ Above does not work in DiaSim.
-			{d;t} > {d͡ʒ;t͡ʃ} / __ j
+			${d;t} > {d͡ʒ;t͡ʃ} / __ j
+		$9/18/26 CM consolidated -> 1st palatal coalescence (PC1) 
 
 	$ R18C Affrication of velars: [ɡ] > [ǰ], [k] > [č] before yod
 		$ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ j
-		$ Also doesn't work in DiaSim.
-			{ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
+		$ Also doesn't work in DiaSim.	
+			$ CM 9/18/26 CONSOLIDATED {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
+			$ CM 9/18/26 -- 		$9/18/26 CM consolidated -> 1st palatal coalescence (PC1) 
+
 
 	$ R18D Absorption of yod after affricates
 		$ Pardess: j > ∅ / [-son,-cont,+cor,+delrel] __
-			j > ∅ / [+delrel] __
-
+			$j > ∅ / [+delrel] __
+				$9/18/26 CM consolidated -> 1st palatal coalescence (PC1) 
+	
 	$ R18E Assimilation of stops to affricates
 		$ Not catchinɡ nasals because he (hopefully) didnt intend to?
 		$[-son,-cont,-lab] > t͡ʃ / __ t͡ʃ
@@ -941,22 +949,37 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 	$ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]
 	$ Pardess: [+cont,+ant,+cor] > [+hi,-ant] / __ j
 	$ Problematic with received symdefs -- makinɡ a disjunction for now:
-		{l;n;s} > {ʎ;ɲ;ʃ} / __ j
+		${l;n;s} > {ʎ;ɲ;ʃ} / __ j
 			$ This rule does NOT occur before intervocalic [l]-flapping.
+				$ consolidated in to 9/18 PALATALIZATION CONSOLIDATION
+	$ CM 9/18/26 palatalization consolidation 
+		$ combine loss of j in 41B and 42B into a single rule since itțs a single phenomenon. 
+		$ likewise, combine palatalizations of 41A and 42A sine they are a single phenomenon
+		$-- j is going to delete after palatal consonants, t͡s and d͡z from palatalized t and d are treated as t͡sʲ and d͡zʲ 
+			$ whether something goes all the way to palatal is determined by continuance: l n s go all the way, t d ɾ do not (r cannot occur before palatals -- only rɾj can) 
+		$ this cannot quite become a single coalescence rule because j also has to delete after the existing t͡ʃ and d͡ʒ segments.
+		$ preserving the lack of application if the coronal comes after a lateral. Note that former llj is affected, so its gemination thus FEEDS this rule
+	[+cor,+ant,scont] > [+front,-sant,-scor,+hi] / # ((@)* [-lat]) __ j 
 
 	$ R41B Absorption of yod after a palatal seɡment
 		$j > ∅ / [+cons,+hi] __
 		$ Also problematic. Tryinɡ addinɡ this:
 			j > ∅ / [+cons,+front] __
+		$ this now handles all loss of j per 9/18 PALATALIZATION CONSOLIDATION
+
+	$ PER 9/18 PALATALIZATION CONSOLIDATION: resolution 
 
 $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 	$ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
 		$[-cont,+ant,+cor,-son] > [+delrel,+strid] / __ j
 		$ EDIT: Does not occur after laterals.
-			[-cont,+ant,+cor,-son] > [+delrel,+strid] / {#;[-lat]} __ j
+			$[-cont,+ant,+cor,-son] > [+delrel,+strid] / {#;[-lat]} __ j
+		$ consolidated in to 9/18 PALATALIZATION CONSOLIDATION
 
 	$ R42B Absorption of yod after an affricate
-		j > ∅ / [+delrel] __
+		$j > ∅ / [+delrel] __
+		$ consolidated in to 9/18 PALATALIZATION CONSOLIDATION
+	
 
 $ R43 Palatalization of [l] after a velar consonant
 	$ l > [+hi,-ant] / [-cont,-ant,-cor] __

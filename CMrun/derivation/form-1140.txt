@@ -1,22 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1140:
-#wakkarˈitiam# >>> *#vəkəre̯ˈat͡sə# ( GOLD : #vəkəre̯ˈat͡sə#) :
+#wakkarˈitiam# >>> *#vəkərˈetc͡çe# ( GOLD : #vəkəre̯ˈat͡sə#) :
 w a k k a r ˈi t i a m 
 *#wakkarˈitjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#wakkarˈitja# | 44 : m > ∅ / [-stres] __ #
 *#βakkarˈitja# | 101 : w > β / __ [-cons]
 *#βakkarˈittja# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#βakkarˈettja# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#βakkarˈett͡ʃja# | 144 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#βakkarˈett͡ʃa# | 146 : j > ∅ / [+delrel] __
-*#βakkarˈett͡sa# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#vakkarˈett͡sa# | 157 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vakarˈet͡sa# | 173 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-Balkan Romance stage form : *#vakarˈet͡sa#
-*#vakaɾˈet͡sa# | 179 : r > ɾ / __ [nnas,ncons]
-*#vakaɾˈɛt͡sa# | 212 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vakaɾˈɛat͡sa# | 218 : ∅ > a / [-tense] __
-*#vakaɾe̯ˈat͡sa# | 219 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#vəkəɾe̯ˈat͡sə# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#vəkəɾe̯ˈat͡sə#
-*#vəkəre̯ˈat͡sə# | 258 : ɾ > r 
-Final form : *#vəkəre̯ˈat͡sə#
+*#βakkarˈetc͡ça# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+*#vakkarˈetc͡ça# | 155 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vakarˈetc͡ça# | 171 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
+Balkan Romance stage form : *#vakarˈetc͡ça#
+*#vakaɾˈetc͡ça# | 177 : r > ɾ / __ [nnas,ncons]
+*#vakaɾˈɛtc͡ça# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vakaɾˈɛatc͡ça# | 216 : ∅ > a / [-tense] __
+*#vakaɾe̯ˈatc͡ça# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#vəkəɾe̯ˈatc͡çə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
+*#vəkəɾe̯ˈatc͡çe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
+Common Romanian stage form : *#vəkəɾe̯ˈatc͡çe#
+*#vəkəɾˈetc͡çe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#vəkərˈetc͡çe# | 253 : ɾ > r 
+Final form : *#vəkərˈetc͡çe#

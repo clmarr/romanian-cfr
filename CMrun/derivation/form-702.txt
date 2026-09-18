@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 702:
-#mˌikstˈiːkium# >>> *#meʃtˈit͡s# ( GOLD : #mistrˈet͡s#) :
+#mˌikstˈiːkium# >>> *#mestʲˈitc͡ç# ( GOLD : #mistrˈet͡s#) :
 m ˌi k s t ˈiː k i u m 
 *#mˌikstˈiːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#mikstˈiːkjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
@@ -8,18 +8,13 @@ m ˌi k s t ˈiː k i u m
 *#mistˈiːkkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#mestˈiːkkju# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 *#mestˈikkju# | 136 : [+syl] > [-long,-splng] 
-*#mestˈikt͡ʃju# | 145 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
-*#mestˈikt͡ʃu# | 146 : j > ∅ / [+delrel] __
-*#mestˈitt͡ʃu# | 147 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-*#mestˈitt͡su# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#mestˈit͡su# | 173 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-Balkan Romance stage form : *#mestˈit͡su#
-*#mestjˈit͡su# | 234 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#mest͡sjˈit͡su# | 239 : [-cont,+ant,+cor,-son] > [+delrel,+strid,-cont,+cons,0tense] / [-lat] __ j
-*#mest͡sˈit͡su# | 240 : j > ∅ / [+delrel] __
-*#meʃt͡sˈit͡su# | 244 : s > ʃ / __ [-cont,+delrel]
-*#meʃtˈit͡su# | 245 : [-cont,-voi,+delrel] > t / ʃ __
-Common Romanian stage form : *#meʃtˈit͡su#
-*#meʃtˈit͡sw̥# | 297 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#meʃtˈit͡s# | 298 : w̥ > ∅ / [-syl] __ #
-Final form : *#meʃtˈit͡s#
+*#mestˈikc͡çu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+*#mestˈitc͡çu# | 145 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
+Balkan Romance stage form : *#mestˈitc͡çu#
+*#mestjˈitc͡çu# | 232 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#mestʲjˈitc͡çu# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mestʲˈitc͡çu# | 235 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#mestʲˈitc͡çu#
+*#mestʲˈitc͡çw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mestʲˈitc͡ç# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#mestʲˈitc͡ç#

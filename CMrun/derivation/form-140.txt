@@ -1,26 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 140:
-#ɡˌalliːnˈaːkeum# >>> *#ɡəjnˈat͡s# ( GOLD : #ɡəjnˈat͡s#) :
+#ɡˌalliːnˈaːkeum# >>> *#ɡəjnˈatc͡ç# ( GOLD : #ɡəjnˈat͡s#) :
 ɡ ˌa l l iː n ˈaː k e u m 
 *#ɡˌalliːnˈaːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#ɡalliːnˈaːkjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ɡalliːnˈaːkju# | 44 : m > ∅ / [-stres] __ #
 *#ɡalliːnˈaːkkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#ɡallinˈakkju# | 136 : [+syl] > [-long,-splng] 
-*#ɡallinˈakt͡ʃju# | 145 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
-*#ɡallinˈakt͡ʃu# | 146 : j > ∅ / [+delrel] __
-*#ɡallinˈatt͡ʃu# | 147 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-*#ɡallinˈatt͡su# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#ɡallinˈat͡su# | 173 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-Balkan Romance stage form : *#ɡallinˈat͡su#
-*#ɡalinˈat͡su# | 228 : l l > l 
-*#ɡəlinˈat͡su# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɡəljinˈat͡su# | 235 : ∅ > j / l __ [+syl,+front,+hi]
-*#ɡəʎjinˈat͡su# | 236 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#ɡəʎinˈat͡su# | 237 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#ɡəʎinˈat͡su#
-*#ɡəjinˈat͡su# | 282 : ʎ > j 
-*#ɡəinˈat͡su# | 286 : j > ∅ / __ [+syl,+front,+hi]
-*#ɡəinˈat͡sw̥# | 297 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɡəinˈat͡s# | 298 : w̥ > ∅ / [-syl] __ #
-*#ɡəjnˈat͡s# | 314 : i > j / [+syl] __
-Final form : *#ɡəjnˈat͡s#
+*#ɡallinˈakc͡çu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+*#ɡallinˈatc͡çu# | 145 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
+Balkan Romance stage form : *#ɡallinˈatc͡çu#
+*#ɡalinˈatc͡çu# | 226 : l l > l 
+*#ɡəlinˈatc͡çu# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɡəljinˈatc͡çu# | 233 : ∅ > j / l __ [+syl,+front,+hi]
+*#ɡəʎjinˈatc͡çu# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɡəʎinˈatc͡çu# | 235 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#ɡəʎinˈatc͡çu#
+*#ɡəjinˈatc͡çu# | 277 : ʎ > j 
+*#ɡəinˈatc͡çu# | 281 : j > ∅ / __ [+syl,+front,+hi]
+*#ɡəinˈatc͡çw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɡəinˈatc͡ç# | 293 : w̥ > ∅ / [-syl] __ #
+*#ɡəjnˈatc͡ç# | 309 : i > j / [+syl] __
+Final form : *#ɡəjnˈatc͡ç#

@@ -1,22 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 793:
-#ˌannoːtˈertioː# >>> *#anut͡sˈert͡s# ( GOLD : #ant͡sˈərt͡s#) :
+#ˌannoːtˈertioː# >>> *#anutʲˈerc͡ç# ( GOLD : #ant͡sˈərt͡s#) :
 ˌa n n oː t ˈe r t i oː 
 *#ˌannoːtˈertjoː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#annoːtˈertjoː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#annoːtˈɛrtjoː# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#annotˈɛrtjo# | 136 : [+syl] > [-long,-splng] 
-*#annotˈɛrt͡ʃjo# | 144 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#annotˈɛrt͡ʃo# | 146 : j > ∅ / [+delrel] __
-*#annotˈɛrt͡so# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-Balkan Romance stage form : *#annotˈɛrt͡so#
-*#annotjˈɛrt͡so# | 184 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
-*#annotjˈert͡so# | 187 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#annotjˈert͡su# | 189 : o > u / __ ( [+cons,+lab,+voi] ) #
-*#annutjˈert͡su# | 195 : o > u / __ [-syl,-lab,-son] [-syl,-lab]
-*#annut͡sjˈert͡su# | 239 : [-cont,+ant,+cor,-son] > [+delrel,+strid,-cont,+cons,0tense] / [-lat] __ j
-*#annut͡sˈert͡su# | 240 : j > ∅ / [+delrel] __
-Common Romanian stage form : *#annut͡sˈert͡su#
-*#anut͡sˈert͡su# | 262 : n n > n 
-*#anut͡sˈert͡sw̥# | 297 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#anut͡sˈert͡s# | 298 : w̥ > ∅ / [-syl] __ #
-Final form : *#anut͡sˈert͡s#
+*#annotˈɛrc͡ço# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+Balkan Romance stage form : *#annotˈɛrc͡ço#
+*#annotjˈɛrc͡ço# | 182 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
+*#annotjˈerc͡ço# | 185 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#annotjˈerc͡çu# | 187 : o > u / __ ( [+cons,+lab,+voi] ) #
+*#annutjˈerc͡çu# | 193 : o > u / __ [-syl,-lab,-son] [-syl,-lab]
+*#annutʲjˈerc͡çu# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#annutʲˈerc͡çu# | 235 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#annutʲˈerc͡çu#
+*#anutʲˈerc͡çu# | 257 : n n > n 
+*#anutʲˈerc͡çw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#anutʲˈerc͡ç# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#anutʲˈerc͡ç#

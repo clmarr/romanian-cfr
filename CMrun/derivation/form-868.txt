@@ -1,19 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 868:
-#kʰriːstiˈaːnum# >>> *#kriʃˈɨn# ( GOLD : #kreʃtˈin#) :
-kʰ r iː s t i ˈaː n u m 
-*#kʰriːstjˈaːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kriːstjˈaːnum# | 15 : [+cons,+sg] > [-sg] 
-*#kriːstjˈaːnu# | 44 : m > ∅ / [-stres] __ #
-*#kristjˈanu# | 136 : [+syl] > [-long,-splng] 
-*#krist͡ʃjˈanu# | 144 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#krist͡ʃˈanu# | 146 : j > ∅ / [+delrel] __
-*#kriʃˈanu# | 150 : s t͡ʃ > ʃ 
-Balkan Romance stage form : *#kriʃˈanu#
-*#kɾiʃˈanu# | 179 : r > ɾ / __ [nnas,ncons]
-*#kɾiʃˈənu# | 220 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#kɾiʃˈənu#
-*#kriʃˈənu# | 258 : ɾ > r 
-*#kriʃˈɨnu# | 272 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#kriʃˈɨnw̥# | 297 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kriʃˈɨn# | 298 : w̥ > ∅ / [-syl] __ #
-Final form : *#kriʃˈɨn#
+#krˌistˈɛːnu# >>> *#kristʲˈin# ( GOLD : #kreʃtˈin#) :
+k r ˌi s t ˈɛː n u 
+*#kristˈɛːnu# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#krestˈɛːnu# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#krestˈɛnu# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#krestˈɛnu#
+*#kɾestˈɛnu# | 177 : r > ɾ / __ [nnas,ncons]
+*#kɾestjˈɛnu# | 184 : ∅ > j / s t __ [-cons,-tense,+prim]
+*#kɾestjˈenu# | 185 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kɾestʲjˈenu# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kɾestʲˈenu# | 235 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#kɾestʲˈenu#
+*#krestʲˈenu# | 253 : ɾ > r 
+*#krestʲˈinu# | 256 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#krestʲˈinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#krestʲˈin# | 293 : w̥ > ∅ / [-syl] __ #
+*#kristʲˈin# | 303 : e > i / [+cons,αlab] r __ [+cons,αlab]
+Final form : *#kristʲˈin#

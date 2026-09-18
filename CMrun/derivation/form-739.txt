@@ -1,17 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 739:
-#sˌerpˈentiam# >>> *#serpˈɨnt͡sə# ( GOLD : #ʃerpˈɨnt͡sə#) :
+#sˌerpˈentiam# >>> *#serpˈinc͡çe# ( GOLD : #ʃerpˈɨnt͡sə#) :
 s ˌe r p ˈe n t i a m 
 *#sˌerpˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#serpˈentjam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#serpˈentja# | 44 : m > ∅ / [-stres] __ #
 *#serpˈɛntja# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#serpˈɛnt͡ʃja# | 144 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#serpˈɛnt͡ʃa# | 146 : j > ∅ / [+delrel] __
-*#serpˈɛnt͡sa# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-Balkan Romance stage form : *#serpˈɛnt͡sa#
-*#serpˈent͡sa# | 181 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#serpˈent͡sə# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#serpˈent͡sə#
-*#serpˈənt͡sə# | 248 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#serpˈɨnt͡sə# | 272 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Final form : *#serpˈɨnt͡sə#
+*#serpˈɛnc͡ça# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+Balkan Romance stage form : *#serpˈɛnc͡ça#
+*#serpˈenc͡ça# | 179 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#serpˈenc͡çə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
+*#serpˈenc͡çe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
+Common Romanian stage form : *#serpˈenc͡çe#
+*#serpˈinc͡çe# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Final form : *#serpˈinc͡çe#

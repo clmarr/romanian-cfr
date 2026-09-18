@@ -1,20 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1051:
-#ekstˈerɡe# >>> *#ʃtˈerd͡ʒe# ( GOLD : #ʃtˈerd͡ʒe#) :
+#ekstˈerɡe# >>> *#stʲˈerd͡ʒe# ( GOLD : #ʃtˈerd͡ʒe#) :
 e k s t ˈe r ɡ e 
 *#estˈerɡe# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
 *#estˈɛrɡe# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#stˈɛrɡe# | 137 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#stˈɛrd͡ʒe# | 174 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
+*#stˈɛrd͡ʒe# | 172 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#stˈɛrd͡ʒe#
-*#stjˈɛrd͡ʒe# | 186 : ∅ > j / s t __ [-cons,-tense,+prim]
-*#stjˈerd͡ʒe# | 187 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#stjˈɛrd͡ʒe# | 212 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#stjˈɛard͡ʒe# | 218 : ∅ > a / [-tense] __
-*#stje̯ˈard͡ʒe# | 219 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#st͡sje̯ˈard͡ʒe# | 239 : [-cont,+ant,+cor,-son] > [+delrel,+strid,-cont,+cons,0tense] / [-lat] __ j
-*#st͡se̯ˈard͡ʒe# | 240 : j > ∅ / [+delrel] __
-*#ʃt͡se̯ˈard͡ʒe# | 244 : s > ʃ / __ [-cont,+delrel]
-*#ʃte̯ˈard͡ʒe# | 245 : [-cont,-voi,+delrel] > t / ʃ __
-Common Romanian stage form : *#ʃte̯ˈard͡ʒe#
-*#ʃtˈerd͡ʒe# | 256 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#ʃtˈerd͡ʒe#
+*#stjˈɛrd͡ʒe# | 184 : ∅ > j / s t __ [-cons,-tense,+prim]
+*#stjˈerd͡ʒe# | 185 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#stjˈɛrd͡ʒe# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stjˈɛard͡ʒe# | 216 : ∅ > a / [-tense] __
+*#stje̯ˈard͡ʒe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#stʲje̯ˈard͡ʒe# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#stʲe̯ˈard͡ʒe# | 235 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#stʲe̯ˈard͡ʒe#
+*#stʲˈerd͡ʒe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Final form : *#stʲˈerd͡ʒe#

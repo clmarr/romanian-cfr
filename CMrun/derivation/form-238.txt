@@ -1,18 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 238:
-#brˈakʰkʰium# >>> *#brˈat͡s# ( GOLD : #brˈat͡s#) :
+#brˈakʰkʰium# >>> *#brˈatc͡ç# ( GOLD : #brˈat͡s#) :
 b r ˈa kʰ kʰ i u m 
 *#brˈakʰkʰjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#brˈakkjum# | 15 : [+cons,+sg] > [-sg] 
 *#brˈakkju# | 44 : m > ∅ / [-stres] __ #
-*#brˈakt͡ʃju# | 145 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
-*#brˈakt͡ʃu# | 146 : j > ∅ / [+delrel] __
-*#brˈatt͡ʃu# | 147 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-*#brˈatt͡su# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#brˈat͡su# | 173 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-Balkan Romance stage form : *#brˈat͡su#
-*#bɾˈat͡su# | 179 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#bɾˈat͡su#
-*#brˈat͡su# | 258 : ɾ > r 
-*#brˈat͡sw̥# | 297 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#brˈat͡s# | 298 : w̥ > ∅ / [-syl] __ #
-Final form : *#brˈat͡s#
+*#brˈakc͡çu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+*#brˈatc͡çu# | 145 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
+Balkan Romance stage form : *#brˈatc͡çu#
+*#bɾˈatc͡çu# | 177 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#bɾˈatc͡çu#
+*#brˈatc͡çu# | 253 : ɾ > r 
+*#brˈatc͡çw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#brˈatc͡ç# | 293 : w̥ > ∅ / [-syl] __ #
+Final form : *#brˈatc͡ç#

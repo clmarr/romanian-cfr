@@ -1,16 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 851:
-#potˈentiam# >>> *#putˈint͡sə# ( GOLD : #putˈint͡sə#) :
+#potˈentiam# >>> *#putˈinc͡çe# ( GOLD : #putˈint͡sə#) :
 p o t ˈe n t i a m 
 *#potˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#potˈentja# | 44 : m > ∅ / [-stres] __ #
 *#potˈɛntja# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#potˈɛnt͡ʃja# | 144 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#potˈɛnt͡ʃa# | 146 : j > ∅ / [+delrel] __
-*#potˈɛnt͡sa# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-Balkan Romance stage form : *#potˈɛnt͡sa#
-*#potˈent͡sa# | 181 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#putˈent͡sa# | 190 : o > u / __ ( [-syl,-lab] ) [+syl]
-*#putˈent͡sə# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#putˈent͡sə#
-*#putˈint͡sə# | 260 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Final form : *#putˈint͡sə#
+*#potˈɛnc͡ça# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+Balkan Romance stage form : *#potˈɛnc͡ça#
+*#potˈenc͡ça# | 179 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#putˈenc͡ça# | 188 : o > u / __ ( [-syl,-lab] ) [+syl]
+*#putˈenc͡çə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
+*#putˈenc͡çe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
+Common Romanian stage form : *#putˈenc͡çe#
+*#putˈinc͡çe# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Final form : *#putˈinc͡çe#

@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 835:
-#konweniˈentiam# >>> *#kuviˈint͡sə# ( GOLD : #kuviˈint͡sə#) :
+#konweniˈentiam# >>> *#kuviˈinc͡çe# ( GOLD : #kuviˈint͡sə#) :
 k o n w e n i ˈe n t i a m 
 *#konwenjˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#konwenjˈentja# | 44 : m > ∅ / [-stres] __ #
@@ -7,20 +7,19 @@ k o n w e n i ˈe n t i a m
 *#koːβenjˈentja# | 103 : [+syl] n > [+long] ∅/ # [+cons] __ [-son,+cont]
 *#koːβenjˈɛntja# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#koβenjˈɛntja# | 136 : [+syl] > [-long,-splng] 
-*#koβenjˈɛnt͡ʃja# | 144 : {d;t} > {d͡ʒ;t͡ʃ} / __ j
-*#koβenjˈɛnt͡ʃa# | 146 : j > ∅ / [+delrel] __
-*#koβenjˈɛnt͡sa# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#kovenjˈɛnt͡sa# | 157 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#kovenjˈɛnt͡sa#
-*#kovenjˈent͡sa# | 181 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#kuvenjˈent͡sa# | 188 : o > u / __ ( [+cons,+lab,+voi] ) [+syl]
-*#kuvinjˈent͡sa# | 217 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#kuvinjˈent͡sə# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kuvjinjˈent͡sə# | 234 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#kuvjiɲjˈent͡sə# | 236 : {l;n;s} > {ʎ;ɲ;ʃ} / __ j
-*#kuvjiɲˈent͡sə# | 237 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#kuvjiɲˈent͡sə#
-*#kuvjiɲˈint͡sə# | 260 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#kuvjijˈint͡sə# | 284 : ɲ > j 
-*#kuviˈint͡sə# | 286 : j > ∅ / __ [+syl,+front,+hi]
-Final form : *#kuviˈint͡sə#
+*#koβenjˈɛnc͡ça# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+*#kovenjˈɛnc͡ça# | 155 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#kovenjˈɛnc͡ça#
+*#kovenjˈenc͡ça# | 179 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#kuvenjˈenc͡ça# | 186 : o > u / __ ( [+cons,+lab,+voi] ) [+syl]
+*#kuvinjˈenc͡ça# | 215 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#kuvinjˈenc͡çə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kuvjinjˈenc͡çə# | 232 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+*#kuvjiɲjˈenc͡çə# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kuvjiɲˈenc͡çə# | 235 : j > ∅ / [+cons,+front] __
+*#kuvjiɲˈenc͡çe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
+Common Romanian stage form : *#kuvjiɲˈenc͡çe#
+*#kuvjiɲˈinc͡çe# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#kuvjijˈinc͡çe# | 279 : ɲ > j 
+*#kuviˈinc͡çe# | 281 : j > ∅ / __ [+syl,+front,+hi]
+Final form : *#kuviˈinc͡çe#

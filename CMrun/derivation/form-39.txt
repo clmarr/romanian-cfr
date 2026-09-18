@@ -1,15 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 39:
-#ˈakiam# >>> *#ˈat͡sə# ( GOLD : #ˈat͡sə#) :
+#ˈakiam# >>> *#ˈatc͡çe# ( GOLD : #ˈat͡sə#) :
 ˈa k i a m 
 *#ˈakjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#ˈakja# | 44 : m > ∅ / [-stres] __ #
 *#ˈakkja# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ˈakt͡ʃja# | 145 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
-*#ˈakt͡ʃa# | 146 : j > ∅ / [+delrel] __
-*#ˈatt͡ʃa# | 147 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-*#ˈatt͡sa# | 149 : {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
-*#ˈat͡sa# | 173 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-Balkan Romance stage form : *#ˈat͡sa#
-*#ˈat͡sə# | 231 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ˈat͡sə#
-Final form : *#ˈat͡sə#
+*#ˈakc͡ça# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+*#ˈatc͡ça# | 145 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
+Balkan Romance stage form : *#ˈatc͡ça#
+*#ˈatc͡çə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ˈatc͡çe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
+Common Romanian stage form : *#ˈatc͡çe#
+Final form : *#ˈatc͡çe#

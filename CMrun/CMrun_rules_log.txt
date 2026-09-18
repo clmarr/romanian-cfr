@@ -142,9 +142,7 @@ e > ∅ / # __ s s [+syl,αfront,αlo]
 [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
 t > t͡s / # e n __ [+syl,-back,-prim,-long] l
 w > ∅ / __ [+syl]
-{d;t} > {d͡ʒ;t͡ʃ} / __ j
-{ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
-j > ∅ / [+delrel] __
+[-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
 [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
 [-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
 {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ( [+son,-syl] )* __
@@ -234,11 +232,8 @@ i > e / [+cons] __ [+cons,+delrel]
 w ə > ∅ / [-cons,-syl] [+syl] __ #
 ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
 ∅ > j / l __ [+syl,+front,+hi]
-{l;n;s} > {ʎ;ɲ;ʃ} / __ j
+[+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
 j > ∅ / [+cons,+front] __
-[-cont,+ant,+cor,-son] > [+delrel,+strid,-cont,+cons,0tense] / # __ j
-[-cont,+ant,+cor,-son] > [+delrel,+strid,-cont,+cons,0tense] / [-lat] __ j
-j > ∅ / [+delrel] __
 l > ʎ / [-cont,-ant,-cor] __
 ə > e / [+cons,+hi,+front,-strid] __
 u > ɨ / [-son] __ n [-cont,-voi]

@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 145:
-#ˌinpˌerɡˈyːrum# >>> *#ɨmpreʒˈur# ( GOLD : #ɨmpreʒˈur#) :
+#ˌinpˌerɡˈyːrum# >>> *#ɨmpredʝˈur# ( GOLD : #ɨmpreʒˈur#) :
 ˌi n p ˌe r ɡ ˈyː r u m 
 *#inperɡˈyːrum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#inperɡjˈyːrum# | 18 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
@@ -9,18 +9,16 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 145:
 *#inpreɡɡjˈuːru# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#enpreɡɡjˈuːru# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 *#enpreɡɡjˈuru# | 136 : [+syl] > [-long,-splng] 
-*#enpreɡd͡ʒjˈuru# | 145 : {ɡ;k} > {d͡ʒ;t͡ʃ} / __ j
-*#enpreɡd͡ʒˈuru# | 146 : j > ∅ / [+delrel] __
-*#enpredd͡ʒˈuru# | 148 : [-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
-*#enpred͡ʒˈuru# | 173 : {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ} 
-Balkan Romance stage form : *#enpred͡ʒˈuru#
-*#enpɾed͡ʒˈuɾu# | 179 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#enpɾed͡ʒˈuɾu#
-*#enpred͡ʒˈuru# | 258 : ɾ > r 
-*#inpred͡ʒˈuru# | 260 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnpred͡ʒˈuru# | 276 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨnpreʒˈuru# | 281 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ɨnpreʒˈurw̥# | 297 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨnpreʒˈur# | 298 : w̥ > ∅ / [-syl] __ #
-*#ɨmpreʒˈur# | 315 : n > m / __ [-cont,+lab]
-Final form : *#ɨmpreʒˈur#
+*#enpreɡɟ͡ʝˈuru# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
+*#enpredɟ͡ʝˈuru# | 146 : [-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
+Balkan Romance stage form : *#enpredɟ͡ʝˈuru#
+*#enpɾedɟ͡ʝˈuɾu# | 177 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#enpɾedɟ͡ʝˈuɾu#
+*#enpredɟ͡ʝˈuru# | 253 : ɾ > r 
+*#inpredɟ͡ʝˈuru# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnpredɟ͡ʝˈuru# | 271 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnpredʝˈuru# | 276 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ɨnpredʝˈurw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨnpredʝˈur# | 293 : w̥ > ∅ / [-syl] __ #
+*#ɨmpredʝˈur# | 310 : n > m / __ [-cont,+lab]
+Final form : *#ɨmpredʝˈur#
