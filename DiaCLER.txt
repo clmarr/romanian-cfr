@@ -1265,9 +1265,10 @@ $ NEW RULE: [e] backs to schwa between schwa and a high vowel
 	e > ə / ə ([-syl])* __ ([-syl])* [+syl,+hi]
 
 $ NEW RULE: [e] raises to [i] after [r] when surrounding consonants have matching labiality
-	e > i / [+cons,αlab] r __ [+cons,αlab]
 		$ Arguably should be followed with @, but variant vitrig (for standard vitreg) also attested.
-
+		$ CM 9/18/26 fix -- does NOT happen before coronals: credință not cridință, crestat not cristat, creștin not criștin, putred not putrid. Formerly: e > i / [+cons,αlab] r __ [+cons,αlab]
+	e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+	
 $ NEW RULE: [ə] assimilates to [(ˈ)e] when after a labial consonant
 	$ Affects fabrica(re)>fereca, mastica(re)>mesteca, familiam>femeie, parietem>perete, pariculam>pereche, and basilicam>*beserica>biserică.
 		ə > e / [+lab,+cons] __ ([-syl])* [+syl,+front,-hi,-lo]
