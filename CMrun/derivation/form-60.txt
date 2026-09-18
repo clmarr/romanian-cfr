@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 60:
-#ˌamaːrˈitiam# >>> *#amenˈetc͡çe# ( GOLD : #aməre̯ˈat͡sə#) :
+#ˌamaːrˈitiam# >>> *#aməre̯ˈatt͡sʲe# ( GOLD : #aməre̯ˈat͡sə#) :
 ˌa m aː r ˈi t i a m 
 *#ˌamaːrˈitjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#amaːrˈitjam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
@@ -8,16 +8,14 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 60:
 *#amaːrˈettja# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 *#amarˈettja# | 136 : [+syl] > [-long,-splng] 
 *#amarˈetc͡ça# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
-Balkan Romance stage form : *#amarˈetc͡ça#
-*#amaɾˈetc͡ça# | 177 : r > ɾ / __ [nnas,ncons]
-*#amaɾˈɛtc͡ça# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#amaɾˈɛatc͡ça# | 216 : ∅ > a / [-tense] __
-*#amaɾe̯ˈatc͡ça# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#aməɾe̯ˈatc͡çə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
-*#aməɾe̯ˈatc͡çe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
-Common Romanian stage form : *#aməɾe̯ˈatc͡çe#
-*#aməɾˈetc͡çe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#amərˈetc͡çe# | 253 : ɾ > r 
-*#amerˈetc͡çe# | 304 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
-*#amenˈetc͡çe# | 317 : r > n / [+syl,-hi] [+nas] [+syl,-hi] __ [+syl,-hi]
-Final form : *#amenˈetc͡çe#
+*#amarˈett͡sʲa# | 147 : [+delrel] > [+cor,+ant,-distr,+strid] / [+prim] ( [-syl] )* __
+Balkan Romance stage form : *#amarˈett͡sʲa#
+*#amaɾˈett͡sʲa# | 176 : r > ɾ / __ [nnas,ncons]
+*#amaɾˈɛtt͡sʲa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#amaɾˈɛatt͡sʲa# | 215 : ∅ > a / [-tense] __
+*#amaɾe̯ˈatt͡sʲa# | 216 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#aməɾe̯ˈatt͡sʲə# | 228 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#aməɾe̯ˈatt͡sʲə#
+*#aməre̯ˈatt͡sʲə# | 252 : ɾ > r 
+*#aməre̯ˈatt͡sʲe# | 288 : ə > e / [+front,+hi] __ #
+Final form : *#aməre̯ˈatt͡sʲe#

@@ -1,21 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1224:
-#korrˈiɡiam# >>> *#kurˈedɟ͡ʝe# ( GOLD : #kure̯ˈa#) :
+#korrˈiɡiam# >>> *#kure̯ˈadzʲe# ( GOLD : #kure̯ˈa#) :
 k o r r ˈi ɡ i a m 
 *#korrˈiɡjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#korrˈiɡja# | 44 : m > ∅ / [-stres] __ #
 *#korrˈiɡɡja# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#korrˈeɡɡja# | 134 : [+syl,-long,+hi,-back] > [-hi] 
 *#korrˈeɡɟ͡ʝa# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
-*#korrˈedɟ͡ʝa# | 146 : [-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
-Balkan Romance stage form : *#korrˈedɟ͡ʝa#
-*#korɾˈedɟ͡ʝa# | 177 : r > ɾ / __ [nnas,ncons]
-*#kurɾˈedɟ͡ʝa# | 198 : o > u / __ r
-*#kurɾˈɛdɟ͡ʝa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kurɾˈɛadɟ͡ʝa# | 216 : ∅ > a / [-tense] __
-*#kurɾe̯ˈadɟ͡ʝa# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kurɾe̯ˈadɟ͡ʝə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kurɾe̯ˈadɟ͡ʝe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
-Common Romanian stage form : *#kurɾe̯ˈadɟ͡ʝe#
-*#kure̯ˈadɟ͡ʝe# | 246 : {ɾ;r} > {∅;∅} / r __
-*#kurˈedɟ͡ʝe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#kurˈedɟ͡ʝe#
+*#korrˈedɟ͡ʝa# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
+*#korrˈedd͡zʲa# | 147 : [+delrel] > [+cor,+ant,-distr,+strid] / [+prim] ( [-syl] )* __
+Balkan Romance stage form : *#korrˈedd͡zʲa#
+*#korɾˈedd͡zʲa# | 176 : r > ɾ / __ [nnas,ncons]
+*#kurɾˈedd͡zʲa# | 197 : o > u / __ r
+*#kurɾˈɛdd͡zʲa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kurɾˈɛadd͡zʲa# | 215 : ∅ > a / [-tense] __
+*#kurɾe̯ˈadd͡zʲa# | 216 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kurɾe̯ˈadd͡zʲə# | 228 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kurɾe̯ˈadd͡zʲə#
+*#kure̯ˈadd͡zʲə# | 245 : {ɾ;r} > {∅;∅} / r __
+*#kure̯ˈadzʲə# | 274 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#kure̯ˈadzʲe# | 288 : ə > e / [+front,+hi] __ #
+Final form : *#kure̯ˈadzʲe#

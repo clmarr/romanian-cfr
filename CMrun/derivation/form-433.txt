@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 433:
-#wiːnˈaːkeum# >>> *#vinˈatc͡ç# ( GOLD : #vinˈat͡s#) :
+#wiːnˈaːkeum# >>> *#vinˈatt͡sʲ# ( GOLD : #vinˈat͡s#) :
 w iː n ˈaː k e u m 
 *#wiːnˈaːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#wiːnˈaːkju# | 44 : m > ∅ / [-stres] __ #
@@ -7,12 +7,13 @@ w iː n ˈaː k e u m
 *#βiːnˈaːkkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#βinˈakkju# | 136 : [+syl] > [-long,-splng] 
 *#βinˈakc͡çu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
-*#βinˈatc͡çu# | 145 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-*#vinˈatc͡çu# | 155 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vinˈatc͡çu#
-*#vjinˈatc͡çu# | 232 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-Common Romanian stage form : *#vjinˈatc͡çu#
-*#vinˈatc͡çu# | 281 : j > ∅ / __ [+syl,+front,+hi]
-*#vinˈatc͡çw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vinˈatc͡ç# | 293 : w̥ > ∅ / [-syl] __ #
-Final form : *#vinˈatc͡ç#
+*#βinˈatc͡çu# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
+*#βinˈatt͡sʲu# | 147 : [+delrel] > [+cor,+ant,-distr,+strid] / [+prim] ( [-syl] )* __
+*#vinˈatt͡sʲu# | 154 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vinˈatt͡sʲu#
+*#vjinˈatt͡sʲu# | 231 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
+Common Romanian stage form : *#vjinˈatt͡sʲu#
+*#vinˈatt͡sʲu# | 280 : j > ∅ / __ [+syl,+front,+hi]
+*#vinˈatt͡sʲw̥# | 291 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vinˈatt͡sʲ# | 292 : w̥ > ∅ / [-syl] __ #
+Final form : *#vinˈatt͡sʲ#

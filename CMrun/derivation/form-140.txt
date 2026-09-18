@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 140:
-#ɡˌalliːnˈaːkeum# >>> *#ɡəjnˈatc͡ç# ( GOLD : #ɡəjnˈat͡s#) :
+#ɡˌalliːnˈaːkeum# >>> *#ɡəjnˈatt͡sʲ# ( GOLD : #ɡəjnˈat͡s#) :
 ɡ ˌa l l iː n ˈaː k e u m 
 *#ɡˌalliːnˈaːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#ɡalliːnˈaːkjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
@@ -7,17 +7,18 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 140:
 *#ɡalliːnˈaːkkju# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#ɡallinˈakkju# | 136 : [+syl] > [-long,-splng] 
 *#ɡallinˈakc͡çu# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
-*#ɡallinˈatc͡çu# | 145 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-Balkan Romance stage form : *#ɡallinˈatc͡çu#
-*#ɡalinˈatc͡çu# | 226 : l l > l 
-*#ɡəlinˈatc͡çu# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɡəljinˈatc͡çu# | 233 : ∅ > j / l __ [+syl,+front,+hi]
-*#ɡəʎjinˈatc͡çu# | 234 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɡəʎinˈatc͡çu# | 235 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#ɡəʎinˈatc͡çu#
-*#ɡəjinˈatc͡çu# | 277 : ʎ > j 
-*#ɡəinˈatc͡çu# | 281 : j > ∅ / __ [+syl,+front,+hi]
-*#ɡəinˈatc͡çw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɡəinˈatc͡ç# | 293 : w̥ > ∅ / [-syl] __ #
-*#ɡəjnˈatc͡ç# | 309 : i > j / [+syl] __
-Final form : *#ɡəjnˈatc͡ç#
+*#ɡallinˈatc͡çu# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
+*#ɡallinˈatt͡sʲu# | 147 : [+delrel] > [+cor,+ant,-distr,+strid] / [+prim] ( [-syl] )* __
+Balkan Romance stage form : *#ɡallinˈatt͡sʲu#
+*#ɡalinˈatt͡sʲu# | 225 : l l > l 
+*#ɡəlinˈatt͡sʲu# | 228 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɡəljinˈatt͡sʲu# | 232 : ∅ > j / l __ [+syl,+front,+hi]
+*#ɡəʎjinˈatt͡sʲu# | 233 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɡəʎinˈatt͡sʲu# | 234 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#ɡəʎinˈatt͡sʲu#
+*#ɡəjinˈatt͡sʲu# | 276 : ʎ > j 
+*#ɡəinˈatt͡sʲu# | 280 : j > ∅ / __ [+syl,+front,+hi]
+*#ɡəinˈatt͡sʲw̥# | 291 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɡəinˈatt͡sʲ# | 292 : w̥ > ∅ / [-syl] __ #
+*#ɡəjnˈatt͡sʲ# | 308 : i > j / [+syl] __
+Final form : *#ɡəjnˈatt͡sʲ#

@@ -1,13 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1312:
-#fˈakiam# >>> *#fˈatc͡çe# ( GOLD : #fˈat͡sə#) :
+#fˈakiam# >>> *#fˈatt͡sʲe# ( GOLD : #fˈat͡sə#) :
 f ˈa k i a m 
 *#fˈakjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#fˈakja# | 44 : m > ∅ / [-stres] __ #
 *#fˈakkja# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#fˈakc͡ça# | 144 : [-cont,-lab] j > [-ant,-cor,+front,-back,+hi,+delrel,0distr,-cont,+cons,0tense] ∅
-*#fˈatc͡ça# | 145 : [-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-Balkan Romance stage form : *#fˈatc͡ça#
-*#fˈatc͡çə# | 229 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fˈatc͡çe# | 237 : ə > e / [+cons,+hi,+front,-strid] __
-Common Romanian stage form : *#fˈatc͡çe#
-Final form : *#fˈatc͡çe#
+*#fˈatc͡ça# | 145 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
+*#fˈatt͡sʲa# | 147 : [+delrel] > [+cor,+ant,-distr,+strid] / [+prim] ( [-syl] )* __
+Balkan Romance stage form : *#fˈatt͡sʲa#
+*#fˈatt͡sʲə# | 228 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fˈatt͡sʲə#
+*#fˈatt͡sʲe# | 288 : ə > e / [+front,+hi] __ #
+Final form : *#fˈatt͡sʲe#

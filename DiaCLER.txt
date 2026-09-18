@@ -594,18 +594,27 @@ $ R18 {Many C+j-related chanɡes}
 		$[-son,-cont,-lab] > t͡s / __ t͡s
 		$[-son,-cont,-lab] > d͡z / __ d͡z
 		$ For the sake of simplicity and probably also phonetic accuracy:
-			[-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
-			[-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
+			$[-son,-cont,-lab] > t / __ [-cont,+delrel,-voi]
+			$[-son,-cont,-lab] > d / __ [-cont,+delrel,+voi]
+		$CM 9/18/26 consolidated into single rule:
+	[-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [+delrel,βvoi]
+
+
+$ NEW RULE: [stʃ] > ... > [ʃ]. CM 9/18/26 per consolidation of first palatalization -- made neutral between t͡ʃ and c͡ç
+	s [+delrel] > ʃ
+		$ christianum may have been reborrowed, which would explain ʃt -- CM 9/18 yes it is borrowed from Middle Proto-Albanian *krɩstɛːnʊ
+		$ CM 9/18/26 moved before R19 depalatalization, to allow greater simplicity in that rule. 
 
 $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
-	{t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __
-
-$ NEW RULE: [stʃ] > ... > [ʃ]
-	s t͡ʃ > ʃ
-		$ christianum may have been reborrowed, which would explain ʃt
+		$ CM 9/18/26 adjusted based on consolidation of first palatalization and it producing palatals for now. Sees thru t/d. Made simpler, and neutral between PoA of result of first palatalization. Does not totally depalatalize yet.  
+			$ formerly: {t t͡ʃ;d d͡ʒ;t͡ʃ;d͡ʒ} > {t t͡s;d d͡z;t͡s;d͡z} / [+prim,-cons] ([+son,-syl])* __
+			$ as of 9/18/26, BLED by stʲ > sʲ rule -- so can just see through any prior consonants, incl. obstruents, and no need for the big disjunction. 
+	[+delrel] > [+cor,+ant,-distr,+strid] / [+prim] ([-syl])* __
+	
 
 $ NEW (moved from later in cascade and reformulated) RULE: Depalatalization before [ˈa]
-	{t͡ʃ;d͡ʒ} > {t͡s;d͡z} / __ ˈa
+		$CM 9/18/26 per consolidation of first palatalization -- made neutral between palatal and postalveolar affricate PoA. Loss of palatality comes later. Formerly: {t͡ʃ;d͡ʒ} > {t͡s;d͡z} / __ ˈa
+	[+delrel] > [+cor,+ant,-distr,+strid] / __ ˈa
 
 $ R20 Attraction of ɡlides
 	$ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
@@ -951,8 +960,9 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 	$ Problematic with received symdefs -- makinɡ a disjunction for now:
 		${l;n;s} > {ʎ;ɲ;ʃ} / __ j
 			$ This rule does NOT occur before intervocalic [l]-flapping.
-				$ consolidated in to 9/18 PALATALIZATION CONSOLIDATION
-	$ CM 9/18/26 palatalization consolidation 
+				$ consolidated in to 9/18 SECOND PALATALIZATION CONSOLIDATION
+
+	$ CM 9/18/26 second palatalization consolidation 
 		$ combine loss of j in 41B and 42B into a single rule since itțs a single phenomenon. 
 		$ likewise, combine palatalizations of 41A and 42A sine they are a single phenomenon
 		$-- j is going to delete after palatal consonants, t͡s and d͡z from palatalized t and d are treated as t͡sʲ and d͡zʲ 
@@ -965,20 +975,20 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 		$j > ∅ / [+cons,+hi] __
 		$ Also problematic. Tryinɡ addinɡ this:
 			j > ∅ / [+cons,+front] __
-		$ this now handles all loss of j per 9/18 PALATALIZATION CONSOLIDATION
+		$ this now handles all loss of j per 9/18 SECOND PALATALIZATION CONSOLIDATION
 
-	$ PER 9/18 PALATALIZATION CONSOLIDATION: resolution 
+	$ PER 9/18 SECOND PALATALIZATION CONSOLIDATION: resolution 
 
 $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 	$ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
 		$[-cont,+ant,+cor,-son] > [+delrel,+strid] / __ j
 		$ EDIT: Does not occur after laterals.
 			$[-cont,+ant,+cor,-son] > [+delrel,+strid] / {#;[-lat]} __ j
-		$ consolidated in to 9/18 PALATALIZATION CONSOLIDATION
+		$ consolidated SECOND PALATALIZATION by CM 9/18/26
 
 	$ R42B Absorption of yod after an affricate
 		$j > ∅ / [+delrel] __
-		$ consolidated in to 9/18 PALATALIZATION CONSOLIDATION
+		$ consolidated SECOND PALATALIZATION by CM 9/18/26
 	
 
 $ R43 Palatalization of [l] after a velar consonant
