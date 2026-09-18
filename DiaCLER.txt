@@ -616,7 +616,8 @@ $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
 
 $ NEW (moved from later in cascade and reformulated) RULE: Depalatalization before [ˈa]
 		$CM 9/18/26 per consolidation of first palatalization -- made neutral between palatal and postalveolar affricate PoA. Loss of palatality comes later. Formerly: {t͡ʃ;d͡ʒ} > {t͡s;d͡z} / __ ˈa
-	[+delrel] > [+cor,+ant,-distr] / __ ˈa
+			$ CM 9/18/26 furthemore: it's actually before ANY a. 
+	[+delrel] > [+cor,+ant,-distr] / __ [+lo]
 
 $ R20 Attraction of ɡlides
 	$ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
@@ -880,6 +881,58 @@ $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
 	l l > w / # (@)* [-lab] (@)* __ a (([-syl])* [-prim])* ([-syl])* #
 
 
+	$ CM 9/18/26 -- moved R39 and R40 before R31B, in order to enable new depalatalization rule. 
+$ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tăciune 
+	i > e / [+cons] __ [+cons,+delrel]
+
+
+
+$ R40 Diphthonɡization of [i]: [i] > [yi]
+	$∅ > j / [+cons] __ [+syl,+front,+hi]
+	$ EDIT: only occurs after obstruents and [l]
+		∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
+
+$ R35B Deɡemination of [ll]
+		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R35 so that R35 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. Feeds second palatalization. 
+		{l l;m m} > {l;m}
+
+$ R41 Post-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
+	$ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]
+	$ Pardess: [+cont,+ant,+cor] > [+hi,-ant] / __ j
+	$ Problematic with received symdefs -- makinɡ a disjunction for now:
+		${l;n;s} > {ʎ;ɲ;ʃ} / __ j
+			$ This rule does NOT occur before intervocalic [l]-flapping.
+				$ consolidated in to 9/18 SECOND PALATALIZATION CONSOLIDATION; no need for extra place of articulation at this time; use ɕ already established as palatalized s. 
+
+	$ CM 9/18/26 SECOND PALATALIZATION consolidation 
+		$ combine loss of j in 41B and 42B into a single rule since itțs a single phenomenon. 
+		$ likewise, combine palatalizations of 41A and 42A sine they are a single phenomenon
+		$-- j is going to delete after palatal consonants, t͡s and d͡z from palatalized t and d are treated as t͡sʲ and d͡zʲ 
+			$ whether something goes all the way to palatal is determined by continuance: l n s go all the way, t d ɾ do not (r cannot occur before palatals -- only rɾj can) 
+		$ this cannot quite become a single coalescence rule because j also has to delete after the existing t͡ʃ and d͡ʒ segments.
+		$ preserving the lack of application if the coronal comes after a lateral. Note that former llj is affected, so its gemination thus FEEDS this rule
+		$ occlusives are the ones that remain coronal (t d ɾ > t͡sʲ d͡zʲ ɾʲ) -- alpha feature s. Continuants n l s palatalize to ɲ ʎ ɕ
+	[+cor,+ant,scont] > [+front,-sant,-scor,+hi] / # ((@)* [-lat]) __ j 
+			$ CM 9/18/26 -- no need for separate phonemes tʲ dʲ -- merged into existing t͡sʲ and d͡zʲ 
+	[-cont,-son,+front] > [+delrel,+strid] 
+
+	$ R41B Absorption of yod after a palatal seɡment
+		$j > ∅ / [+cons,+hi] __
+		$ Also problematic. Tryinɡ addinɡ this:
+			j > ∅ / [+cons,+front] __
+		$ this now handles all loss of j per 9/18 SECOND PALATALIZATION CONSOLIDATION
+
+$ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
+	$ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
+		$[-cont,+ant,+cor,-son] > [+delrel,+strid] / __ j
+		$ EDIT: Does not occur after laterals.
+			$[-cont,+ant,+cor,-son] > [+delrel,+strid] / {#;[-lat]} __ j
+		$ consolidated SECOND PALATALIZATION by CM 9/18/26
+
+	$ R42B Absorption of yod after an affricate
+		$j > ∅ / [+delrel] __
+		$ consolidated SECOND PALATALIZATION by CM 9/18/26
+
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
 		∅ > a / [-tense] __
@@ -887,19 +940,18 @@ $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 		$a > ˈa / [-tense,+stres] __
 		$[-cons,-tense] > [-syl] / __ [+syl] $ Doesn't happen when no a-insertion occurs (hence / __ [+syl]).
 	$ Also, Pardess appears to also imply tensinɡ...
-		$[-syl,-tense] > [+tense]
-	$ CM 9/16/26 edit R31B RESOLUTION -- consolidation of the three above, as well as R32 below, into one rule; 
-	[-hi,-lo,+prim] a > [-syl,+tense] [+prim] 
-	
-$ R35B Deɡemination of [ll]
-		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R35 so that R35 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. 
-		{l l;m m} > {l;m}
+		$[-syl,-tense] > [+tense] $consolidated into R32/R31B reslution 
+	$CM 9/18/26 -- these are consolidated in to R32. 
 
 $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
 		$CM EDIT 9/16 -- consolidated into R31B RESOLUTION 
 	$ˈe a > e ˈa
 	$ Implied by rule nameː
 		$ e > e̯ / __ [-cons,+lo] DEACTIVATED: This happens later in R38.
+	$ CM 9/16/26 edit R31B + R32 RESOLUTION -- ˈɛa ˈea ˈɔa become rising sonority diphthongs e̯a e̯a o̯a. Single rule for 3 rules in R31B + 1 as R32. 
+	[-hi,-lo,+prim] a > [-syl,+tense] [+prim] 
+
+
 
 $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
 	${a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
@@ -954,57 +1006,13 @@ $ R38 [e'a] > [e̯'a]
 		$e > [-syl] / __ [-cons,+lo]
 	$9/18/26 CM -- removed, no domain. Should be handled with the existing ea > e̯a stress rule. 
 
-$ R39 Lowerinɡ of unstressed internal [i] before affricates. 
-	i > e / [+cons] __ [+cons,+delrel]
 
-$ R40 Diphthonɡization of [i]: [i] > [yi]
-	$∅ > j / [+cons] __ [+syl,+front,+hi]
-	$ EDIT: only occurs after obstruents and [l]
-		∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
 
 $ NEW RULE: Reflex of Latin -llam lost when preceding vowel tenses and breaks
 	w ə > ∅ / [-cons,-syl] ˈa __ #
 		$ Quite possibly the schwa was deleted first and the resulting triphthong was dispreferred, so the [w] was subsequently deleted as well.
 		$ CM 9/18/26 -- only after ˈa (not just [+syl]) -- not after ji. 
 
-$ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment}
-	$ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]
-	$ Pardess: [+cont,+ant,+cor] > [+hi,-ant] / __ j
-	$ Problematic with received symdefs -- makinɡ a disjunction for now:
-		${l;n;s} > {ʎ;ɲ;ʃ} / __ j
-			$ This rule does NOT occur before intervocalic [l]-flapping.
-				$ consolidated in to 9/18 SECOND PALATALIZATION CONSOLIDATION; no need for extra place of articulation at this time; use ɕ already established as palatalized s. 
-
-	$ CM 9/18/26 second palatalization consolidation 
-		$ combine loss of j in 41B and 42B into a single rule since itțs a single phenomenon. 
-		$ likewise, combine palatalizations of 41A and 42A sine they are a single phenomenon
-		$-- j is going to delete after palatal consonants, t͡s and d͡z from palatalized t and d are treated as t͡sʲ and d͡zʲ 
-			$ whether something goes all the way to palatal is determined by continuance: l n s go all the way, t d ɾ do not (r cannot occur before palatals -- only rɾj can) 
-		$ this cannot quite become a single coalescence rule because j also has to delete after the existing t͡ʃ and d͡ʒ segments.
-		$ preserving the lack of application if the coronal comes after a lateral. Note that former llj is affected, so its gemination thus FEEDS this rule
-		$ occlusives are the ones that remain coronal (t d ɾ > t͡sʲ d͡zʲ ɾʲ) -- alpha feature s. Continuants n l s palatalize to ɲ ʎ ɕ
-	[+cor,+ant,scont] > [+front,-sant,-scor,+hi] / # ((@)* [-lat]) __ j 
-			$ CM 9/18/26 -- no need for separate phonemes tʲ dʲ -- merged into existing t͡sʲ and d͡zʲ 
-	[-cont,-son,+front] > [+delrel,+strid] 
-
-	$ R41B Absorption of yod after a palatal seɡment
-		$j > ∅ / [+cons,+hi] __
-		$ Also problematic. Tryinɡ addinɡ this:
-			j > ∅ / [+cons,+front] __
-		$ this now handles all loss of j per 9/18 SECOND PALATALIZATION CONSOLIDATION
-
-	
-
-$ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
-	$ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
-		$[-cont,+ant,+cor,-son] > [+delrel,+strid] / __ j
-		$ EDIT: Does not occur after laterals.
-			$[-cont,+ant,+cor,-son] > [+delrel,+strid] / {#;[-lat]} __ j
-		$ consolidated SECOND PALATALIZATION by CM 9/18/26
-
-	$ R42B Absorption of yod after an affricate
-		$j > ∅ / [+delrel] __
-		$ consolidated SECOND PALATALIZATION by CM 9/18/26
 	
 
 $ R43 Palatalization of [l] after a velar consonant
