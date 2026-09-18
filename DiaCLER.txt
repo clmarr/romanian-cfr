@@ -984,7 +984,7 @@ $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
 		$ occlusives are the ones that remain coronal (t d ɾ > t͡sʲ d͡zʲ ɾʲ) -- alpha feature s. Continuants n l s palatalize to ɲ ʎ ɕ
 	[+cor,+ant,scont] > [+front,-sant,-scor,+hi] / # ((@)* [-lat]) __ j 
 			$ CM 9/18/26 -- no need for separate phonemes tʲ dʲ -- merged into existing t͡sʲ and d͡zʲ 
-	[-cont,+front] > [+delrel,+strid] 
+	[-cont,-son,+front] > [+delrel,+strid] 
 
 	$ R41B Absorption of yod after a palatal seɡment
 		$j > ∅ / [+cons,+hi] __
@@ -1049,6 +1049,9 @@ $ NEW RULE: -ăune > -ăun
 		$ ɾʲ has special behavior (see below) 
 	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
 	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
+
+		$CM 9/18/26 -- ɾʲ unpacks instead. 
+	ɾʲ > ɾ j
 
 ~ Common Romanian
 
