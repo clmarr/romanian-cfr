@@ -1,16 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1226:
-#fˈimbriam# >>> *#fˈimbrje# ( GOLD : #frɨnɡjˈije#) :
-f ˈi m b r i a m 
-*#fˈimbrjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#fˈimbrja# | 44 : m > ∅ / [-stres] __ #
-*#fˈimbrje# | 97 : a > e / r j __ #
-*#fˈembrje# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#fˈembrje#
-*#fˈembɾje# | 176 : r > ɾ / __ [nnas,ncons]
-*#fˈembɾʲje# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fˈembɾʲe# | 234 : j > ∅ / [+cons,+front] __
-*#fˈembɾje# | 242 : ɾʲ > ɾ j 
-Common Romanian stage form : *#fˈembɾje#
-*#fˈembrje# | 254 : ɾ > r 
-*#fˈimbrje# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-Final form : *#fˈimbrje#
+#fˈorfikem# >>> *#fo̯ˈarfet͡ʃe# ( GOLD : #fo̯ˈarfet͡ʃe#) :
+f ˈo r f i k e m 
+*#fˈorfike# | 44 : m > ∅ / [-stres] __ #
+*#fˈorfeke# | 134 : [+syl,-long,+hi,-back] > [-hi] 
+*#fˈorfec͡ɕe# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#fˈorfec͡ɕe#
+*#fˈɔrfec͡ɕe# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#fˈɔarfec͡ɕe# | 216 : ∅ > a / [-tense] __
+*#fo̯ˈarfec͡ɕe# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fo̯ˈarfet͡ʃe# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fo̯ˈarfet͡ʃe#
+Final form : *#fo̯ˈarfet͡ʃe#

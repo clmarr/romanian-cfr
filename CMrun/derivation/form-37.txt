@@ -1,7 +1,9 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 37:
-#ˌajˈuːnum# >>> *#aʒˈun# ( GOLD : #aʒˈun#) :
-ˌa j ˈuː n u m 
-*#ajˈuːnum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+#ˌadiˈuːnum# >>> *#aʒˈun# ( GOLD : #aʒˈun#) :
+ˌa d i ˈuː n u m 
+*#ˌadjˈuːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#adjˈuːnum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ajˈuːnum# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
 *#ajˈuːnu# | 44 : m > ∅ / [-stres] __ #
 *#adjˈuːnu# | 107 : j > d j / [+syl,-stres] __ [+syl,+round]
 *#addjˈuːnu# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j

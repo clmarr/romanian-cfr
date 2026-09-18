@@ -1,22 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1139:
-#wakkarˈitiam# >>> *#vəkəre̯ˈat͡sə# ( GOLD : #vəkəre̯ˈat͡sə#) :
-w a k k a r ˈi t i a m 
-*#wakkarˈitjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wakkarˈitja# | 44 : m > ∅ / [-stres] __ #
-*#βakkarˈitja# | 101 : w > β / __ [-cons]
-*#βakkarˈittja# | 132 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#βakkarˈettja# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#βakkarˈetc͡ɕa# | 144 : [-cont,-lab] j > [-ant,-cor,+hi,+front,-back,+delrel,+strid,0distr,-cont,+cons,0tense] ∅
-*#βakkarˈett͡sʲa# | 147 : [+delrel] > [+cor,+ant,-distr] / [+prim] ( [-syl] )* __
-*#vakkarˈett͡sʲa# | 154 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vakarˈet͡sʲa# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#vakarˈet͡sʲa#
-*#vakaɾˈet͡sʲa# | 176 : r > ɾ / __ [nnas,ncons]
-*#vakaɾˈɛt͡sʲa# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vakaɾˈɛat͡sʲa# | 216 : ∅ > a / [-tense] __
-*#vakaɾe̯ˈat͡sʲa# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#vəkəɾe̯ˈat͡sʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#vəkəɾe̯ˈat͡sə# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vəkəɾe̯ˈat͡sə#
-*#vəkəre̯ˈat͡sə# | 254 : ɾ > r 
-Final form : *#vəkəre̯ˈat͡sə#
+#bowˈaːrium# >>> *#bowˈar# ( GOLD : #bowˈar#) :
+b o w ˈaː r i u m 
+*#bowˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#bowˈaːrju# | 44 : m > ∅ / [-stres] __ #
+*#boβˈaːrju# | 101 : w > β / __ [-cons]
+*#boβˈarju# | 136 : [+syl] > [-long,-splng] 
+*#boβˈajru# | 149 : r j > j r / @ [+stres] __
+*#bowˈajru# | 164 : β > w / [+syl,+round,-hi] __ [+syl,+lo]
+Balkan Romance stage form : *#bowˈajru#
+*#bowˈajɾu# | 176 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#bowˈajɾu#
+*#bowˈajru# | 254 : ɾ > r 
+*#bowˈajrw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#bowˈajr# | 294 : w̥ > ∅ / [-syl] __ #
+*#bowˈar# | 300 : j > ∅ / __ r
+Final form : *#bowˈar#

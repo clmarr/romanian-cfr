@@ -1,23 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 880:
-#kwadraːɡˈeːsimam# >>> *#pərəd͡ʒˈesimə# ( GOLD : #pərˈesimj#) :
-k w a d r aː ɡ ˈeː s i m a m 
-*#kwarraːɡˈeːsimam# | 36 : d > r / [+syl,+lo] __ r
-*#kwarraːɡˈeːsima# | 44 : m > ∅ / [-stres] __ #
-*#kβarraːɡˈeːsima# | 101 : w > β / __ [-cons]
-*#pβarraːɡˈeːsima# | 118 : k > p / __ β [-cons,+lo]
-*#pβarraːɡˈeːsema# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#pβarraɡˈesema# | 136 : [+syl] > [-long,-splng] 
-*#parraɡˈesema# | 165 : β > ∅ 
-*#parraɟ͡ʑˈesema# | 171 : [-cont,+back] > [+front,-back,+delrel,+strid,-cont,+cons,0tense] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#parraɟ͡ʑˈesema#
-*#parɾaɟ͡ʑˈesema# | 176 : r > ɾ / __ [nnas,ncons]
-*#parɾaɟ͡ʑˈɛsema# | 209 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#parɾaɟ͡ʑˈɛasema# | 216 : ∅ > a / [-tense] __
-*#parɾaɟ͡ʑe̯ˈasema# | 217 : [-hi,-lo,+prim] a > [-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pərɾəɟ͡ʑe̯ˈasemə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pərɾəd͡ʒe̯ˈasemə# | 241 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pərɾəd͡ʒe̯ˈasemə#
-*#pərəd͡ʒe̯ˈasemə# | 247 : {ɾ;r} > {∅;∅} / r __
-*#pərəd͡ʒˈesemə# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pərəd͡ʒˈesimə# | 302 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-Final form : *#pərəd͡ʒˈesimə#
+#roɡˈaː# >>> *#ruɡˈa# ( GOLD : #ruɡˈa#) :
+r o ɡ ˈaː 
+*#roɡˈa# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#roɡˈa#
+*#ɾoɡˈa# | 176 : r > ɾ / __ [nnas,ncons]
+*#rɾoɡˈa# | 177 : ∅ > r / # __ ɾ
+*#rɾuɡˈa# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
+Common Romanian stage form : *#rɾuɡˈa#
+*#ruɡˈa# | 247 : {ɾ;r} > {∅;∅} / r __
+Final form : *#ruɡˈa#

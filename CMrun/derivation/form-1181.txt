@@ -1,13 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1181:
-#ˌinkolikˈaː# >>> *#ɨnkulkˈa# ( GOLD : #ɨnkurkˈa#) :
-ˌi n k o l i k ˈaː 
-*#inkolikˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkolkˈaː# | 64 : [+syl,+hi,-long,-stres] > ∅ / [+syl,-front] l __ [+cons] [+syl,+lo]
-*#enkolkˈaː# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkolkˈa# | 136 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkolkˈa#
-*#enkulkˈa# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-Common Romanian stage form : *#enkulkˈa#
-*#inkulkˈa# | 256 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnkulkˈa# | 272 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnkulkˈa#
+#sˈuːbulum# >>> *#sˈul# ( GOLD : #sˈul#) :
+s ˈuː b u l u m 
+*#sˈuːbulu# | 44 : m > ∅ / [-stres] __ #
+*#sˈuːblu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
+*#sˈuːβlu# | 133 : b > β / [-cons] __ [+cont]
+*#sˈuβlu# | 136 : [+syl] > [-long,-splng] 
+*#sˈuwlu# | 162 : β > w / __ [+son,+cons]
+Balkan Romance stage form : *#sˈuwlu#
+*#sˈulu# | 206 : w > ∅ / [+syl,+hi,+back] __
+Common Romanian stage form : *#sˈulu#
+*#sˈulw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈul# | 294 : w̥ > ∅ / [-syl] __ #
+Final form : *#sˈul#

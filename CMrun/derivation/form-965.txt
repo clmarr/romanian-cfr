@@ -1,15 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 965:
-#sˈuper# >>> *#sprˈe# ( GOLD : #sprˈe#) :
-s ˈu p e r 
-*#spˈer# | 5 : [+prim,αround,βfront,-long] [-cont,αlab,βfront] [+syl] > ∅ [-cont,+cons,0tense] [+prim,+stres,+syl,+son]/ # s __
-*#sprˈe# | 92 : ∅ [+syl] r > r [+syl,+son] ∅/ [+cons] [-son] __ #
-*#isprˈe# | 121 : ∅ > i / # __ s [+cons,-son]
-*#isprˈɛ# | 130 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#esprˈɛ# | 134 : [+syl,-long,+hi,-back] > [-hi] 
-*#sprˈɛ# | 137 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#sprˈɛ#
-*#spɾˈɛ# | 176 : r > ɾ / __ [nnas,ncons]
-*#spɾˈe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#spɾˈe#
-*#sprˈe# | 254 : ɾ > r 
-Final form : *#sprˈe#
+#sˈuːrsum# >>> *#sˈus# ( GOLD : #sˈus#) :
+s ˈuː r s u m 
+*#sˈuːrsu# | 44 : m > ∅ / [-stres] __ #
+*#sˈuːssu# | 110 : r > s / [+cor] ( [-cons] )* __ s
+*#sˈussu# | 136 : [+syl] > [-long,-splng] 
+*#sˈusu# | 170 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#sˈusu#
+Common Romanian stage form : *#sˈusu#
+*#sˈusw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈus# | 294 : w̥ > ∅ / [-syl] __ #
+Final form : *#sˈus#

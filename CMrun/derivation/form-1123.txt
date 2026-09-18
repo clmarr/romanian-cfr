@@ -1,18 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1123:
-#wˈiːneam# >>> *#vˈije# ( GOLD : #vˈije#) :
-w ˈiː n e a m 
-*#wˈiːnjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wˈiːnja# | 44 : m > ∅ / [-stres] __ #
-*#βˈiːnja# | 101 : w > β / __ [-cons]
-*#βˈinja# | 136 : [+syl] > [-long,-splng] 
-*#vˈinja# | 154 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vˈinja#
-*#vˈinjə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#vjˈinjə# | 230 : ∅ > j / [+cons,-son] __ [+syl,+front,+hi]
-*#vjˈiɲjə# | 232 : [+cor,+ant,scont] > [+front,!sant,!scor,+hi] / # ( ( @ )* [-lat] ) __ j
-*#vjˈiɲə# | 234 : j > ∅ / [+cons,+front] __
-*#vjˈiɲe# | 236 : ə > e / [+cons,+hi,+front,-strid] __
-Common Romanian stage form : *#vjˈiɲe#
-*#vjˈije# | 280 : ɲ > j 
-*#vˈije# | 282 : j > ∅ / __ [+syl,+front,+hi]
-Final form : *#vˈije#
+#manˈukulum# >>> *#mənˈunkj# ( GOLD : #mənˈunkj#) :
+m a n ˈu k u l u m 
+*#manˈukulu# | 44 : m > ∅ / [-stres] __ #
+*#manˈuklu# | 60 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+Balkan Romance stage form : *#manˈuklu#
+*#mənˈuklu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#mənˈukʎu# | 235 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#mənˈukʎu#
+*#mənˈunkʎu# | 243 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#mərˈunkʎu# | 249 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#mərˈunkju# | 278 : ʎ > j 
+*#mərˈunkjw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mərˈunkj# | 294 : w̥ > ∅ / [-syl] __ #
+*#mənˈunkj# | 315 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n [-ant]
+Final form : *#mənˈunkj#
