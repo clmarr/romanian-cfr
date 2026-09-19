@@ -912,7 +912,8 @@ $ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tă
 $ R40 Diphthonɡization of [i]: [i] > [yi]
 	$∅ > j / [+cons] __ [+syl,+front,+hi]
 	$ EDIT: only occurs after obstruents and [l]
-		∅ > j / [ʎlat,ʎson] __ [+syl,+front,+hi]
+		$ CM 9/18/26 -- not after labials. 
+		∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
 
 $ R35B Deɡemination of [ll]
 		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R35 so that R35 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. Feeds second palatalization. 
@@ -967,13 +968,13 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 			nʲ > n / # ((@)* [-nas]) __ [+front,-lo] [-nas]
 
 
+		$ coronal palatal depalatalization 
+	[+cor,-son,+front] > [-front,-hi] / [alo,-around] (n) __ i [nnas,ncont] [+prim,-round,-hi]
+
 		$ velars specifically (???) after ra (N) 
 			$ TODO need to work on this one. Very sus as it is :(. Looks way less nice than expected. needs to have a u > a rule beforehand?? 
 	[+back,+front] > [-front] / ɾ [alo,-around] (n) __ [+front,-lo] (n) ([-cont,-lab]) [+prim,-round,-hi]
 
-
-		$ coronal palatals 
-	[+cor,-son,+front] > [-front,-hi] / [alo,-around] (n) __ i [nnas,ncont] [+prim,-round,-hi]
 
 	$ CM 9/18/26 -- retraction of palatalized coronal continuants here. 
 		$ counterbleeds DEPALATALIZATION outcome for sʲ -- see frasinet 
@@ -1183,18 +1184,14 @@ $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of
 	$ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
 		e̯ ˈa > ˈe / __ ([-syl])* [+syl,+front,-lo,-hi]
 
-$ CM EDIT 9/16/2026 -- new rule -- fed by R53B (53B was already before 47B) -- non-initial jˈe > ˈe before (r/s) (T-voi) front (non-low): cireși, dumestec/-ic, arete, merge, perete, vechi. Counterfed by l-tapping. e/ʎ/ʃ/d͡ʒ treated as class -- +front,-lo.
-	j > ∅ / @ __ ˈe ([+cor,+cont,-nas,-lat]) ([-voi,-cont]) [+front,-lo]
 
-$ <r> trilling. CM 9/16/26 - moved to after je > e rule. 
-	ɾ > r
+$ R54 Delateralization of [ʎ]
+	$ʎ > j $ CM 9/18/26 -- consolidated 
 
-$ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
-	$ R47A Raisinɡ of [ə] before [n] or [m]CV
-		$ EDIT: Does not occur after a vowel.
-			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
-			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
-				$ Moved to just before new rule "Reversal of R47A...".
+
+$ [s] palatalizes before [j] < [ʎ]. Feeds iea > ea .
+	s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
+
 
 	$ R47B Raisinɡ of [e] before [n]
 		$[+syl,+front,-hi,-lo] > [+hi] / __ [+nas]
@@ -1206,8 +1203,46 @@ $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 				$ CM 9/18/2026 note 1 -- raising before non-high stressed vowels moved earlier -- cases of adineauri and ținea show it either sees through e̯ or happens before e̯ occurs; ținea shows it feeding affrication, which does not occur for casses in __ N C (timp, adins, dinte, tindă etc), nor for cases in __ n V-stres (cătină, piedin..). 
 				$ CM 9/18/2026 note 2 -- execptions pepene noaten pieptene have pattern... TODO
 
+
+$ NEW RULE: [e] aphaeresis. Feeds iea > ea phenomena. Bled by en > in. 
+	e > ∅ / # __ [-syl] [-cons]
+
+$ CM EDIT 9/16/2026 -- new rule -- fed by R53B (53B was already before 47B) -- non-initial jˈe > ˈe before (r/s) (T-voi) front (non-low): cireși, dumestec/-ic, arete, merge, perete, vechi. Counterfed by l-tapping. e/ʎ/ʃ/d͡ʒ treated as class -- +front,-lo.
+	j > ∅ / @ __ ˈe ([+cor,+cont,-nas,-lat]) ([-voi,-cont]) [+front,-lo]
+
+$ R57 [yea] > [ya]
+	$e̯ > ∅ / j __ [+syl,+lo]
+	$ REFORMULATION:
+		$ This change always occurs when preceded by a word boundary.
+		$ It also occurs in novellam>nuia, so including [u] in the conditioning here, although it is a bit clunky.
+			e̯ > ∅ / # ((@)* u) j __ [+syl,+lo]
+		$ When not preceded by a word boundary, this change only occurs between a labial and a CR cluster.
+			e̯ > ∅ / [+lab] j __ [+syl,+lo] [+cons] [+cons,+son,-nas]
+		$ [j] gets deleted instead in other cases. CM 9/18/26 -- only after consonants, also happens to ʎ 
+			[+front,+son,-syl] > ∅ / [+cons] (ə) __ e̯ [+syl,+lo]
+	$ CM 9/18/26 -- moved back here -- consider further consolidations. 
+
+$ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
+	$ R47A Raisinɡ of [ə] before [n] or [m]CV
+		$ EDIT: Does not occur after a vowel.
+			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
+			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
+				$ Moved to just before new rule "Reversal of R47A...".
+
+
 $ R48 Deɡemination of [nn]: [nn] > [n]
 	n n > n
+
+$ NEW RULE: [e̯ˈa] > [ˈa] in words of shape [αcont]e̯ˈa[-αcont]ə
+	$ Doesn't happen in ceram>ceară; could be a matter of how we're transcribing <ceV>?
+			$ CMː -- its because there are separate criteria for after stridents. (moved)
+		e̯ > ∅ / # [+cons,αcont,-strid] __ ˈa [+cons,-αcont] ə #
+			$ for stridents: limited to after t͡s and d͡z, and before voiced coronals (TODO why though?)
+		e̯ > ∅ / [+delrel,-distr] __ ˈa [+voi,+cor]
+
+$ <r> trilling. CM 9/16/26 - moved to after je > e rule. 
+	ɾ > r
+
 
 $ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant, unless labiality is reinforced by preceding [o]/[o̯ˈa] or following consonant is a sibilant or a lateral
 	$ Labelling this a new rule rather than a simple edit because it affects words whose schwas do not result from R46A.
@@ -1222,6 +1257,17 @@ $ R47A Raisinɡ of [ə] before [n] or [m]CV
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
 			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
 				$ pənetˈe, pˈən(n)uɾə, and depənˈa taken care of by following rule.
+
+$ R55 Denasalization of [ñ]
+	$ [+son,-ant,+cor] > [-nas,-cons,-lat]
+	$ Reframinɡ because this doesn't work:
+	$ Clayton: add -cor and it will work (Pardess doesn't distinɡuish postalv from pal)
+		$ɲ > n / # __
+			$ CM 9/18/26 -- removed initial depalatalization -- this is now handled by the nasal depalatalization at the end of Common Romanian -- words affected also show nʲ > n in Aromanian etc.
+		$ɲ > j $ CM 9/18/26 -- consolidated 
+
+	$ CM 9/18/26 consolidation of ɲ/ʎ gliding to single rule
+	[+son,+cons,+front] > j
 
 $ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
 	[+syl,+hi,+tense,-back,-front,αprim] > [-hi,0tense] / p __ n [+syl,-αfront]
@@ -1276,20 +1322,6 @@ $ R53 moved to just before R47.
 			$e̯ ˈa > ˈe / __ ([-syl])* [+syl,+front,-lo,-hi]
 
 
-$ R54 Delateralization of [ʎ]
-	$ʎ > j $ CM 9/18/26 -- consolidated 
-
-$ R55 Denasalization of [ñ]
-	$ [+son,-ant,+cor] > [-nas,-cons,-lat]
-	$ Reframinɡ because this doesn't work:
-	$ Clayton: add -cor and it will work (Pardess doesn't distinɡuish postalv from pal)
-		$ɲ > n / # __
-			$ CM 9/18/26 -- removed initial depalatalization -- this is now handled by the nasal depalatalization at the end of Common Romanian -- words affected also show nʲ > n in Aromanian etc.
-		$ɲ > j $ CM 9/18/26 -- consolidated 
-
-	$ CM 9/18/26 consolidation of ɲ/ʎ gliding to single rule
-	[+son,+cons,+front] > j
-
 $ NEW RULE: Assimilation of /ɨ/ to /j/
 	[+syl,+hi,-front,-back] > [+front] / j __
 
@@ -1298,27 +1330,6 @@ $ R56 Loss of yod before [i]
 	j > ∅ / __ [+syl,+front,+hi]
 	$ EDIT: Does not happen after velar stops. Simply readding here:
 		∅ > j / [-cont,+back] __ [+syl,+front,+hi]
-
-
-$ NEW RULE: [e] aphaeresis
-	e > ∅ / # __ [-syl] [-cons]
-
-
-$ R57 [yea] > [ya]
-	$e̯ > ∅ / j __ [+syl,+lo]
-	$ REFORMULATION:
-		$ This change always occurs when preceded by a word boundary.
-		$ It also occurs in novellam>nuia, so including [u] in the conditioning here, although it is a bit clunky.
-			e̯ > ∅ / {#;u} j __ [+syl,+lo]
-		$ When not preceded by a word boundary, this change only occurs between a labial and a CR cluster.
-			e̯ > ∅ / [+lab] j __ [+syl,+lo] [+cons] [+cons,+son]
-		$ [j] gets deleted instead in other cases.
-			j > ∅ / __ e̯ [+syl,+lo]
-
-
-$ NEW RULE: [e̯ˈa] > [ˈa] in words of shape [αcont]e̯ˈa[-αcont]ə
-	$ Doesn't happen in ceram>ceară; could be a matter of how we're transcribing <ceV>?
-		e̯ > ∅ / # [+cons,αcont] __ ˈa [+cons,-αcont] ə #
 
 
 $ R58 Assimilation: word-final [ə] > [e] after [i]
@@ -1368,9 +1379,6 @@ $ NEW RULE: [+lo] > [-lo] / j __ j
 
 $ Reflexes of -riVm.
 	j > ∅ / __ r
-
-$ [s] palatalizes before [j] < [ʎ]
-	s > ʃ / __ [-cont] j
 
 $ NEW RULE: Posttonic [e] raises to [i] before a non-alveolar, non-final consonant
 	$ "Non-final" is probably actually contributing more in the way of the following segment; this is likely dissimilatory from the schwa that is always found after the consonant at this stage when it isn't word-final.
