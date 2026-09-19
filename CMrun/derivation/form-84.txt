@@ -1,13 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 84:
-#bˌaptid͡zˈaː# >>> *#butezˈa# ( GOLD : #botezˈa#) :
-b ˌa p t i d͡z ˈaː 
-*#baptid͡zˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#boptid͡zˈaː# | 97 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
-*#botid͡zˈaː# | 99 : p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
-*#boted͡zˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#boted͡zˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#boted͡zˈa#
-*#buted͡zˈa# | 183 : o > u / __ ( [-syl,-lab] ) [+syl]
+#bˌaptidiˈaː# >>> *#butezˈa# ( GOLD : #botezˈa#) :
+b ˌa p t i d i ˈaː 
+*#bˌaptidjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#baptidjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#boptidjˈaː# | 97 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
+*#botidjˈaː# | 99 : p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
+*#botiddjˈaː# | 130 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#boteddjˈaː# | 132 : [+syl,-long,+hi,-back] > [-hi] 
+*#boteddjˈa# | 134 : [+syl] > [-long,-splng] 
+*#boteddʲˈa# | 142 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#botedʲˈa# | 165 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#botedʲˈa#
+*#butedʲˈa# | 182 : o > u / __ ( [-syl,-lab] ) [+syl]
+*#buted͡zʲˈa# | 237 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#buted͡zˈa# | 238 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#buted͡zˈa#
-*#butezˈa# | 275 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#butezˈa# | 274 : [+delrel,+ant,+voi] > [0delrel,+cont] 
 Final form : *#butezˈa#
