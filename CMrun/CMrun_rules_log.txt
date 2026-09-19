@@ -216,6 +216,8 @@ i > e / [+cons] __ [+cons,+front]
 [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
 j > ∅ / [+cons,+front] __
 nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
+[+back,+front] > [-front] / ɾ [alo,!around] ( n ) __ [+front,-lo] ( n ) ( [-cont,-lab] ) [+prim,-round,-hi]
+[+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
 [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
 ∅ > a / [-tense] __
 [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
