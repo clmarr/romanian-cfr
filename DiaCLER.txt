@@ -904,8 +904,6 @@ $ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tă
 		$ CM 9/18/26 -- now before palatals proper, not before affricates per se.
 	i > e / [+cons] __ [+cons,+front]
 
-
-
 $ R40 Diphthonɡization of [i]: [i] > [yi]
 	$∅ > j / [+cons] __ [+syl,+front,+hi]
 	$ EDIT: only occurs after obstruents and [l]
@@ -950,6 +948,22 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 	$ R42B Absorption of yod after an affricate
 		$j > ∅ / [+delrel] __
 		$ consolidated SECOND PALATALIZATION by CM 9/18/26
+
+	$ CM 9/18/26 -- COMMON ROMANIAN DEPALATALIZATION RULE here
+		$ fed by the latest Common Romanian palatalization rules
+			$ but outcomes suggest it must come before the affrication of palatal stops
+			$ and before the retraction of sʲ (frasinet) counterbled by the 
+		$ first, nʲ depalatalizes before front vowels if they're followed by non-nasal asyllabics, and not after a nasal
+				$ #hˌirundinˈellam  > *eɾundʲinʲˈɛwa > rîndunea, inel, neg, negură, nestemat
+					$not after nasal -- agnellum > amnʲˈelu > miel
+					$ not if nasal is after the vowel -- #konweniˈentiam# > *#kuvjinʲˈentʲa#  > *#kuviˈint͡sə
+					$ not before a non-front (or low) vowel -- aranʲa > rˈɨje, puɾˈonʲu > purˈoj, vjinʲa > viie -- 7 other such cases
+							$ cases of râie and viie -- show it must come before a > ə > e phenomenon R44  
+			nʲ > n / # ((@)* [-nas]) __ [+front,-lo] [-nas]
+
+		$ in the case of kʲ, it unpacks to kj, and only happens before e -- not i. 
+		$kʲ > k j / 
+	
 
 	$ CM 9/18/26 -- retraction of palatalized coronal continuants here. 
 		$ counterbleeds DEPALATALIZATION outcome for sʲ -- see frasinet 
@@ -1253,15 +1267,18 @@ $ R53 moved to just before R47.
 
 
 $ R54 Delateralization of [ʎ]
-	ʎ > j
+	$ʎ > j $ CM 9/18/26 -- consolidated 
 
 $ R55 Denasalization of [ñ]
 	$ [+son,-ant,+cor] > [-nas,-cons,-lat]
 	$ Reframinɡ because this doesn't work:
 	$ Clayton: add -cor and it will work (Pardess doesn't distinɡuish postalv from pal)
-		ɲ > n / # __
-		ɲ > j
+		$ɲ > n / # __
+			$ CM 9/18/26 -- removed initial depalatalization -- this is now handled by the nasal depalatalization at the end of Common Romanian -- words affected also show nʲ > n in Aromanian etc.
+		$ɲ > j $ CM 9/18/26 -- consolidated 
 
+	$ CM 9/18/26 consolidation of ɲ/ʎ gliding to single rule
+	[+son,+cons,+front] > j
 
 $ NEW RULE: Assimilation of /ɨ/ to /j/
 	[+syl,+hi,-front,-back] > [+front] / j __
