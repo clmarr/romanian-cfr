@@ -857,6 +857,8 @@ $ NEW RULE: [w] > ∅ / [(ˈ)u] __
 $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
 	ˈo > ˈu / [+nas] __ [+nas]
 
+$ CM 9/18/26 -- umV after velar simplifies to oa
+u m > o / [+back] __ [+syl]
 
 $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
 	$ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant. CM 9/16/26 -- removed +syl from feat matrices with +stres -- this is redundant per feature implications.
@@ -991,11 +993,7 @@ $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ Also, Pardess appears to also imply tensinɡ...
 		$[-syl,-tense] > [+tense]
 	$ CM 9/16/26 edit R31B RESOLUTION -- consolidation of the three above, as well as R32 below, into one rule; 
-	[-hi,-lo,+prim] a > [-syl,+tense] [+prim] 
-	
-$ R35B Deɡemination of [ll]
-		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both degeminate at this time. Moved to before R35 so that R35 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. 
-		{l l;m m} > {l;m}
+
 
 $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
 		$CM EDIT 9/16 -- consolidated into R31B RESOLUTION 
@@ -1003,9 +1001,8 @@ $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
 	$ Implied by rule nameː
 		$ e > e̯ / __ [-cons,+lo] DEACTIVATED: This happens later in R38.
 	$ CM 9/16/26 edit R31B + R32 RESOLUTION -- ˈɛa ˈea ˈɔa become rising sonority diphthongs e̯a e̯a o̯a. Single rule for 3 rules in R31B + 1 as R32. 
-	[-hi,-lo,+prim] a > [-syl,+tense] [+prim] 
-
-
+	[-hi,-lo,+prim] a > [+tense] [+prim] 
+	[-hi,-lo,+syl] > [-syl] / __ [+lo]
 
 $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
 	${a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
