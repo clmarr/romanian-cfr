@@ -961,8 +961,10 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 							$ cases of râie and viie -- show it must come before a > ə > e phenomenon R44  
 			nʲ > n / # ((@)* [-nas]) __ [+front,-lo] [-nas]
 
-		$ in the case of kʲ, it unpacks to kj, and only happens before e -- not i. 
-		$kʲ > k j / 
+		$ palatal obstruents unpack in a context...
+			$ not after a high segment
+			$ before unstressed e or i, followed by n (nasal or stop) ˈe/ˈɛ/ˈa 
+			$  TODO HERE 
 	
 
 	$ CM 9/18/26 -- retraction of palatalized coronal continuants here. 
@@ -1069,16 +1071,6 @@ $ R43 Palatalization of [l] after a velar consonant
 	$ For compatibility:
 		l > ʎ / [-cont,-ant,-cor] __
 
-$ TODO CONSOLIDATE INTO EARLIER? 
-	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
-			$ BLEEDS R44
-		$ t͡sʲ d͡zʲ 
-		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
-		$ ɲ ʎ stay put
-		$ ɾʲ has special behavior (see below) 
-	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
-	[-son,+front,ðant] > [+delrel,+cor,-hi,-ðfront,-ðdistr,+strid,-back]
-
 $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 	$ ə > e / [-cont,+hi,-strid] __
 	$ But these are both actually [+cont].
@@ -1092,12 +1084,6 @@ $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 			$ becomes j ɾ after non-initial tonic vowel. Otherwise ɾ j 
 	ɾʲ > j ɾ / @ [+prim] __
 	ɾʲ > ɾ j
-
-
-$ NEW RULE: Fronting of u after an obstruent and before an [n]-voiceless plosive cluster.  
-	u > ɨ / [-son] __ n [-cont,-voi] $ possible intermediate stage of [ʉ]
-		$ Also should be noted that this rule only fixes a couple of words, so it is dubious. FLAG: reexamine later.
-
 
 $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
 	$ R45A Assimilation: [s] > [š] before [č]
@@ -1115,7 +1101,28 @@ $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
 				$[-cont,-voi,+delrel] > t / ʃ __
 
 	$CM 9/18/26 -- consolidated R45 to single rule, without dependence on +delrel but rather palatality it refers to. 
+		$ move to before second palatalization resolution, which bleeds this. 
 	s [-cont,+front] > ʃ t
+
+$ TODO CONSOLIDATE INTO EARLIER? 
+	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
+			$ BLEEDS R44, COUNTERBLEEDS R45
+		$ t͡sʲ d͡zʲ 
+		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
+		$ ɲ ʎ stay put
+		$ ɾʲ has special behavior (see below) 
+	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
+		$ affrication as special rule is necessary because otherwise it will sweep up ɕ
+	[-cont,+front] > [+delrel,+strid,-back]
+		$ fronting of palatals etc.: 
+	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
+
+
+$ NEW RULE: Fronting of u after an obstruent and before an [n]-voiceless plosive cluster.  
+	u > ɨ / [-son] __ n [-cont,-voi] $ possible intermediate stage of [ʉ]
+		$ Also should be noted that this rule only fixes a couple of words, so it is dubious. FLAG: reexamine later.
+
+
 
 $ NEW RULE: -ăune > -ăun
 	$ This has to have occurred before the breakup of Common Romanian; see Aromanian pãun for Romanian păun.
