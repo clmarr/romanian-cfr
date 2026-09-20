@@ -30,7 +30,8 @@ $ <de> proclisis.
 		[+syl,+long] > [+prim] / __ [+syl,-long,+prim]
 		[+syl,-long] > ∅ / [+syl,+long] __
 
-$ NEW RULE: #s'VCV > #sC'V (super > sper)
+
+$ NEW RULE: #s'VCV > #sC'V (super > *sper > spre)
 	$ Labialism of first vowel and consonant have to match.
 	$ Frontness of first vowel and consonant also have to match.
 	$ Syncopated vowel must be short.
@@ -161,7 +162,13 @@ $ [d] assimilations
 	d > r / [+syl,+lo] __ r
 	d > w / [+syl,+lo] __ w
 	d > n / [+syl,+lo] __ n
+	d > m / [+syl,+lo] __ m
 	d > ∅ / [+syl,+lo] __ [-syl] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for r and l, so inserting rules above that take care of this
+
+
+$ NEW RULE: Aphaeresis before [+son][i]
+	[+syl,-prim] > ∅ / # __ [+son] i
+		$ Affects *amitusia>mătușă and animalia>nămaie.
 
 
 $ CHAPTER 4
@@ -467,6 +474,13 @@ $ NEW RULE: [p] dissimilation after [β]
 		p > ∅ / β [+syl,+front,+hi,-long] __
 
 
+$ NEW RULE: [a] aphaeresis before stressed heavy syllables
+	$ The consonant after the stressed vowel must be coronal.
+	$ If the [a] is followed by a consonant, that consonant can only be voiced if it is a sonorant.
+	$ Besides simply being heavy, the following syllable must also have a coronal sonorant somewhere other than the first consonant of the onset. (splitting annotinu as a.nno.ti.nu :/)
+		a > ∅ / # __ {([+cons,ason,avoi]) ([+cor,+son]) [+stres] [+cor,+son] [-syl];[+cons,ason,avoi] [+cor,+son] [+stres,+long]}
+
+
 $ R11 Labialization of [kw] and [ɡw] before [a]
 	$[-son,-ant,-cor] > [+ant] / __ w a
 	$ Stranɡe because w fronted to beta in 6
@@ -615,7 +629,7 @@ $ NEW RULE: [stʃ] > ... > [ʃ]. CM 9/18/26 per consolidation of first palataliz
 		$ CM 9/18/26 moved before R19 depalatalization, to allow greater simplicity in that rule. 
 		$ CM 9/18/26 -- sending it to sʲ instead, to maintain coherence in the phonological system,
 			$ after consolidation of first palatalization. 
-			$ this shares outcomse with s > ʃ that emerges later. 
+			$ this shares outcomes with s > ʃ that emerges later. 
 	s [-cont,+front] > sʲ
 
 	$ CM 9/18/26 reinterpretation of depalatalization rules as actually the inverse of a backing rule for tʲ and dʲ 
@@ -748,7 +762,7 @@ $ Nasal assimilation
 	$ given Aromanian strimtu/strãmtu and simtu/sãmtu, and "[n] dissimilates to [m] between voiceless coronals" has to counterfeed this change.
 	$ Given that Aromanian also has a variant nuntã for numtã, it is safe to assume that the following change did not occur in some parts of the Common Romanian speech area,
 	$ and this variation was levelled in Daco-Romanian while remaining somewhat stable in Aromanian.
-		m > n / __ [+cor,-voi]
+		m > n / __ [+cor,-lab,-nas]
 
 
 $ NEW RULE: [n] dissimilates to [m] between voiceless alveolars
@@ -916,7 +930,7 @@ $ R40 Diphthonɡization of [i]: [i] > [yi]
 		∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
 
 $ R35B Deɡemination of [ll]
-		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R35 so that R35 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. Feeds second palatalization. 
+		$CM 9/18/26 DEGEMINATION CONSOLIDATION -- ll and mm both denasalize at this time. Moved to before R41 so that R41 now acts upon single l. Nn does not degeminate at this time because otherwise it would feed the same vocalic phenomena. Mm must degeminate before R33 -- but nn must not. Nn degemination also doesn't feed ŋ r phenomena which is well after that. Counterbleeds R35A. Feeds second palatalization. 
 		{l l;m m} > {l;m}
 
 $ R41 Post-j palatalization of l,n,s, Absorption of yod after a palatal seɡment
@@ -961,7 +975,7 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 			$ and before the retraction of sʲ (frasinet) counterbled by the 
 		$ first, nʲ depalatalizes before front vowels if they're followed by non-nasal asyllabics, and not after a nasal
 				$ #hˌirundinˈellam  > *eɾundʲinʲˈɛwa > rîndunea, inel, neg, negură, nestemat
-					$not after nasal -- agnellum > amnʲˈelu > miel
+					$ not after nasal -- agnellum > amnʲˈelu > miel
 					$ not if nasal is after the vowel -- #konweniˈentiam# > *#kuvjinʲˈentʲa#  > *#kuviˈint͡sə
 					$ not before a non-front (or low) vowel -- aranʲa > rˈɨje, puɾˈonʲu > purˈoj, vjinʲa > viie -- 7 other such cases
 							$ cases of râie and viie -- show it must come before a > ə > e phenomenon R44  
@@ -1084,7 +1098,7 @@ $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 	ə > e / [+cons,+front,+son] __ 
 
 		$CM 9/18/26 PALATAL r UNPACKING
-			$ -- ɾʲ unpacks instead of depalatalizing -- but it counterfeeds R44.
+			$ -- ɾʲ unpacks instead of depalatalizing -- but it counterbleeds R44.
 			$ becomes j ɾ after non-initial tonic vowel. Otherwise ɾ j 
 	ɾʲ > j ɾ / @ [+prim] __
 	ɾʲ > ɾ j
@@ -1122,9 +1136,10 @@ $ TODO CONSOLIDATE INTO EARLIER?
 	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
 
 
-$ NEW RULE: Fronting of u after an obstruent and before an [n]-voiceless plosive cluster.  
+$ NEW RULE: Fronting of [u] after an obstruent and before an [n]-voiceless plosive cluster.  
 	u > ɨ / [-son] __ n [-cont,-voi] $ possible intermediate stage of [ʉ]
 		$ Also should be noted that this rule only fixes a couple of words, so it is dubious. FLAG: reexamine later.
+		$ aduncum>adânc also appears to be affected; however, this may be due to analogy with adânca.
 
 
 
@@ -1259,7 +1274,7 @@ $ R47A Raisinɡ of [ə] before [n] or [m]CV
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
 		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
 			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
-				$ pənetˈe, pˈən(n)uɾə, and depənˈa taken care of by following rule.
+				$ pənetˈe, pˈən(n)uɾə, and depənˈa taken care of by new rule "Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel".
 
 $ R55 Denasalization of [ñ]
 	$ [+son,-ant,+cor] > [-nas,-cons,-lat]
@@ -1285,7 +1300,7 @@ $ Non-Pardessian [e]-backing rules
 $ R49 Raisinɡ of [ə] before [r,s] plus consonant
 	ə > ɨ / __ r [+cons,-cont,+cor,+ant]
 		$ EDIT: This only happens when the consonant is an alveolar occlusive.
-		$ împărți could be analogical since it's transparently derived from parte and a/ă alternation is common in Romanian.
+		$ împărți could be analogical since it's transparently derived from parte and a/ă alternation is common in Daco-Romanian.
 	$ə > ɨ / __ s [+cons] [+hi,+syl] $ Deactivated.
 		$ The one example of this occurring in our lexicon is already handled by the new rule "Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements" in the middle of R47.
 		$ The only other example given by Pardess is a borrowing from Bulgarian.
