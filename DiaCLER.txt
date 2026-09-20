@@ -1160,10 +1160,14 @@ $ NEW RULE: Fronting of [u] after an obstruent and before an [n]-voiceless plosi
 		$ aduncum>adânc also appears to be affected; however, this may be due to analogy with adânca.
 
 
-
 $ NEW RULE: -ăune > -ăun
 	$ This has to have occurred before the breakup of Common Romanian; see Aromanian pãun for Romanian păun.
 		e > ∅ / [+syl] [+prim] [+cons] __ #
+
+
+$ NEW RULE: [ˈu] > [ˈo] between a cluster of voiced coronals and a front sonorant
+	ˈu > ˈo / # ((@)* [+syl]) ([+cor,+voi])+ __ [+front,+son]
+
 
 	
 
