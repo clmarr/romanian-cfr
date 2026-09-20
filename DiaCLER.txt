@@ -144,8 +144,13 @@ $ NEW RULE: [e] lowering after [+son][+round][w]
 
 
 $ NEW RULE: Stress shift off of [ˈi(ː)] to create diphthongs
-	[+syl] [-cons,-syl,+hi] [+syl,+prim,+hi,+front] > [+prim] [-cons,-syl] i
-		$ [i] drops in the [ji] case:
+	$[+syl] [-cons,-syl,+hi] [+syl,+prim,+hi,+front] > [+prim] [-cons,-syl] i
+		$ EDIT: Doesn't happen in ovina(m)>oină. Explanation: semivowel must be completely homorganic with one of the surrounding vowels.
+			$ Homorganic with following vowel (since shift has to be off of [ˈi(ː)], this means semivowel must be [j] in this case):
+				[+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim] [-cons,-syl] i
+			$ Homorganic with preceding vowel:
+				[+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+hi,+front] > [+prim] [-cons,-syl] i
+		$ [i] drops when [ji] is produced:
 			i > ∅ / j __
 
 
