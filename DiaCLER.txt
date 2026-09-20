@@ -258,7 +258,7 @@ $ R4 {Syncope, Dissimilation of [tl]}
 		$ [r] must cluster with voiced consonants after syncope.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
 		$ [rrVk] syncopates. Since this only applies to etyma related to carricare, there isn't actually a lot of evidence for it. FLAG -- reexamine later.
-			$ Actually, I think we also see it in corrigia>curea. Expanding the rule to include all velar stops...
+			$ Actually, I think we also see it in corrigia>curea. Expanding the rule to include all velar stops... $ EDIT: No we don't.
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
 		$ [llVk] also syncopates, but only in ollicellam>ulcea. For now, conditioning it on the following [ˈe], but we should really try to find more examples of this kind of syncope to determine the conditioning better. FLAG -- TODO
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] l l __ [-cont,+back] [+syl,-lo]
@@ -402,6 +402,10 @@ $ R3B Reduction of [n] + fricative
 		[+syl] n > [+long] ∅ / {#;[-cons]} [+cons] __ [-son,+cont]
 		$ Geminates don't count as clusters for the purposes of this rule (only relevant etymon is appensa(re)>apăsa).
 			[+syl] n > [+long] ∅ / p p __ [-son,+cont]
+				$ manuarium>mâner likely reformed from mână + -er. Alternatively, this did occur in the place in the cascade that Pardess claimed it did,
+				$ and <co-> words are analogical (although a rule would have to be inferred that makes a regular alternation <co-> vs. <con-> dependent upon
+				$ whether the following segment is a vowel; not impossible, but slightly complicated given that the inherited data at the theoretical time of analogy
+				$ would give <con-> before [β]). For now, commenting out manuarium>mâner.
 
 
 $ R7 Fortition of syllable initial [y]: [y] > [dy]
@@ -994,6 +998,7 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 
 		$ coronal palatal depalatalization 
 	[+cor,-son,+front] > [-front,-hi] / [alo,-around] (n) __ i [nnas,ncont] [+prim,-round,-hi]
+			$ TODO need to expand this somehow to depalatalize radicula>ridiche
 
 		$ velars specifically (???) after ra (N) 
 			$ TODO need to work on this one. Very sus as it is :(. Looks way less nice than expected. needs to have a u > a rule beforehand?? 
@@ -1141,7 +1146,7 @@ $ TODO CONSOLIDATE INTO EARLIER?
 		$ t͡sʲ d͡zʲ 
 		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
 		$ ɲ ʎ stay put
-		$ ɾʲ has special behavior (see below) 
+		$ ɾʲ has special behavior (see above) 
 	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
 		$ affrication as special rule is necessary because otherwise it will sweep up ɕ
 	[-cont,+front] > [+delrel,+strid,-back]
