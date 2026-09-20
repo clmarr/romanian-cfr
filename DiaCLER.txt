@@ -1020,6 +1020,10 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 	$[-cont,-son,+front] > [+delrel,+strid,-back] 
 
 
+$ NEW RULE: Vowel tensing between Cj (NOT Cʲ) and two nonnasal sonorant consonants
+	[-tense] > [+tense] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
+
+
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
 		∅ > a / [-tense] __
