@@ -45,13 +45,19 @@ $ NEW RULE: cōn- stressing.
 		[+prim] > [-stres] / [+prim] ([-syl])* __
 
 
+$ NEW RULE: [k] voices before (either primarily or secondarily) stressed [aw]
+	$ Counterbled by loss of secondary stress.
+		k > ɡ / __ [+lo,+stres] w
+
+
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
 	$ p102 s220 (also p73 s156i)  -- yod and w formation -- ɡlidinɡ of unstressed short non-low vowels before other vowels -- From CLEF, from Pope (1934):
 		[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / __ [+syl]
 			$ Repair instances where this rule creates Crw cluster:
 				w > ∅ / [+cons] r __
 			$ Repair instances where this rule creates rjVː sequence:
-				j > ∅ / r __ [+long]
+				$j > ∅ / r __ [+long]
+					$ NSP EDIT 9/20/26: This is now handled by later depalatalization rule.
 
 	$ Yod and w formation also occurs after /a/ and /o/.
 		[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / [+syl,-hi,αfront,αlo] __
@@ -90,13 +96,6 @@ $ OUTCOMES OF LATIN [y]
 
 $ NEW RULE: [aw] > [o] / C __ [+cons,+cont]
 	a w > o / [+cons] __ [+cons,+cont]
-
-
-$ NEW RULE: [k] voices before V̆{[-cont];w}[ˈoː]
-	k > ɡ / __ [+syl,-long] {[-cont];w} ˈoː
-		$ Aromanian cognates also have voiced consonants in the affected etyma.
-		$ This doesn't happen for coronam for some reason, hence the exclusion of [r].
-		$ This isn't affecting enough words; see excavum>zgău, excoria(ri)>zgâria, cavulam>gaură. FLAG
 
 
 $ NEW RULE: Labial-attractive metathesis
@@ -704,7 +703,7 @@ $ NEW RULE: [β] > [v] between vowel and [ˈe]
 			ɣ > ɡ
 
 	$ R22B Occlusivization of [β]
-		β > b / {[-cons];#} [+cons,-nas,+voi] __
+		β > b / # ((@)* [-cons]) [+cons,-nas,+voi] __
 
 	$ R22C [β] becomes the velar ɡlide [w] before a resonant
 		β > w / __ [+son,+cons]
@@ -762,7 +761,7 @@ $ Nasal assimilation
 	$ given Aromanian strimtu/strãmtu and simtu/sãmtu, and "[n] dissimilates to [m] between voiceless coronals" has to counterfeed this change.
 	$ Given that Aromanian also has a variant nuntã for numtã, it is safe to assume that the following change did not occur in some parts of the Common Romanian speech area,
 	$ and this variation was levelled in Daco-Romanian while remaining somewhat stable in Aromanian.
-		m > n / __ [+cor,-lab,-nas]
+		m > n / __ [+cons,-lab,-nas]
 
 
 $ NEW RULE: [n] dissimilates to [m] between voiceless alveolars
@@ -804,12 +803,23 @@ $ R26 {R-trillinɡ}
 			$r > ɾ
 			$ɾ ɾ > r r
 
-	$ CM 9/16/26 -- consolidation of R26 in way that also informs later rules-- r > ɾ IF NOT FOLLOWED BY A VOCOID OR NASAL (e.g. merge treated as trill, miere with tap, by later je > e rule; adormi treated as before tap) .
+	$ CM 9/16/26 -- consolidation of R26 in way that also informs later rules-- r > ɾ IF FOLLOWED BY A VOCOID OR NASAL (e.g. merge treated as trill, miere with tap, by later je > e rule; adormi treated as before tap) .
 		r > ɾ / __ [nnas,ncons]
 
 	$ R26B Initial [r] > [rr]; adjusted - CM 9/16/26
 		$ r > [+rep] / # __ $ɾ > r r / # __ 
 		∅ > r / # __ ɾ
+
+
+$ NEW RULE: [k] voices before an unstressed back vowel when the following consonant is [+cor,-cont] and the next syllable is stressed
+	$ One of the two relevant syllables must be heavy.
+	$ The following consonant may only cluster with semivowels. (in formulation: [-cons]}
+	$ [+cor] is only excluding cucurbita>curcubetă. FLAG -- maybe something else is relevant here?
+		k > ɡ / __ [+back,-stres] {[+cor,-cont] [-syl,-cons] [+prim];[+cor,-cont] [+prim] [+son] [-syl]}
+
+	$ REAPPLICATION: [s]-voicing word-initially before a voiced obstruent
+		s > z / # __ [+voi,-son]
+			$ Has to apply both before beta rules and after above new rule.
 
 
 $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
@@ -989,6 +999,9 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 			$ TODO need to work on this one. Very sus as it is :(. Looks way less nice than expected. needs to have a u > a rule beforehand?? 
 	[+back,+front] > [-front] / ɾ [alo,-around] (n) __ [+front,-lo] (n) ([-cont,-lab]) [+prim,-round,-hi]
 
+		$ NSP 9/20/26: ɾʲ depalatalizes after a [+hi] segment
+			$ ([i] and [k] treated as natural class; outcomes after [(ˈ)u] happen to be identical regardless of depalatalization under current cascade)
+				ɾʲ > ɾ / [+hi] __
 
 	$ CM 9/18/26 -- retraction of palatalized coronal continuants here. 
 		$ counterbleeds DEPALATALIZATION outcome for sʲ -- see frasinet 
