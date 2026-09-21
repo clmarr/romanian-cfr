@@ -249,6 +249,7 @@ s [-cont,+front] > ʃ t
 u > ɨ / [-son] __ n [-cont,-voi]
 e > ∅ / [+syl] [+prim] [+cons] __ #
 ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
+[+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
 ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
 [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
 [-cons,-back,-hi,-lo,-front] > [+front,+tense,-cons,-lat,+cont,0delrel] / ˈi ( [-syl] )* __ @
@@ -331,3 +332,4 @@ e > i / # t͡ʃ __ r [-cons]
 [+syl,+hi] > [-hi] / [+cons] __ ə
 ə > w / [+syl,+round,-hi] __
 w > ∅ / [-lab] [+syl,+round] __ r
+j > ∅ / [+hi,+front] __ e

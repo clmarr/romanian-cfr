@@ -693,10 +693,11 @@ $ NEW RULE: [β] > [b] word-initally before [(ˈ)e] and two coronals, the first 
 $ R22 {Beta becomes v/b/w/ɡ/∅}
 	$ R22A Word-inital [β] > [v]
 		$ Including prefixal analogies for utility.
-			β > v / # (e n) (k o) (r e) (p r e) __
+			β > v / # (e n) (k o) (r e) (p r e) __ 
 				$ Pardess: Occasionally yielded /b/ instead: berbec, bătrân
 				$ The Latin word from which berbec descends (vervex) apparently became berbex before the breakup of Latin (REW 9270).
 				$ The other exceptions are handled by preceding new rule.
+
 			
 $ NEW RULE: [β] > [v] between vowel and [ˈe]
 	β > v / [+syl] __ ˈe
@@ -1186,6 +1187,12 @@ $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
 
+$ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
+	$ vie, vie, mie, fie -- -ie not -ije endings
+	$ necessary for filium > fiu, vânăt, fân, pe, abi 
+		$ posterior syllable cannot be -a, or -ă -- todo use =lo when can, but using efront,-eback for now because ə is treated as ə at this stage not ɐ as it perhaps should be.
+[+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ([+hi,+front,+syl]) __ ([+syl,-lo,efront,-eback] ([+nas] (@)*)) #
+
 $ NEW RULE: Forward spreading of [n] to following occlusive
 	$ Only occurs across a [+hi] vowel.
 	$ Does not occur before labial stops.
@@ -1518,3 +1525,6 @@ $ NEW RULES: Handling of various outcomes of *uă
 			ə > w / [+syl,+round,-hi] __
 		$ 4: [w] deletion between [ˈo] and [r] when not reinforced by a labial (nour > nor)
 			w > ∅ / [-lab] [+syl,+round] __ r
+
+$ CM 9/21 NEW RULE : iie > ie phenomenon. Fairly recent -- iie attested for ie etc. 
+j > ∅ / [+hi,+front] __ e

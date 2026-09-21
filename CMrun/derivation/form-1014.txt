@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1014:
-#ˌadwˈiks# >>> *#abˈij# ( GOLD : #abˈi#) :
+#ˌadwˈiks# >>> *#abˈi# ( GOLD : #abˈi#) :
 ˌa d w ˈi k s 
 *#adwˈiks# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#awwˈiks# | 36 : d > w / [+syl,+lo] __ w
@@ -13,4 +13,5 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1014:
 *#abˈij# | 171 : s > j / [+stres] __ #
 Balkan Romance stage form : *#abˈij#
 Common Romanian stage form : *#abˈij#
-Final form : *#abˈij#
+*#abˈi# | 251 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+Final form : *#abˈi#
