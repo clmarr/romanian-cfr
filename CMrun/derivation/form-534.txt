@@ -1,24 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 534:
-#hˌibˈernam# >>> *#jˈarnə# ( GOLD : #jˈarnə#) :
-h ˌi b ˈe r n a m 
-*#hibˈernam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ibˈernam# | 40 : h > ∅ 
-*#ibˈerna# | 44 : m > ∅ / [-stres] __ #
-*#ibˈɛrna# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#iβˈɛrna# | 131 : b > β / [-cons] __ [+cont]
-*#eβˈɛrna# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#eˈɛrna# | 160 : β > ∅ 
-Balkan Romance stage form : *#eˈɛrna#
-*#eˈɛɾna# | 171 : r > ɾ / __ [nnas,ncons]
-*#ejˈɛɾna# | 174 : ∅ > j / [+syl] __ [-cons,-tense,+prim]
-*#ejˈeɾna# | 179 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ejˈɛɾna# | 205 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ejˈɛaɾna# | 221 : ∅ > a / [-tense] __
-*#ejˈeˈaɾna# | 222 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#eje̯ˈaɾna# | 223 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#eje̯ˈaɾnə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#eje̯ˈaɾnə#
-*#je̯ˈaɾnə# | 257 : e > ∅ / # __ [-syl] [-cons]
-*#jˈaɾnə# | 260 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
-*#jˈarnə# | 266 : ɾ > r 
-Final form : *#jˈarnə#
+#pawiːmˈentum# >>> *#pəmˈɨnt# ( GOLD : #pəmˈɨnt#) :
+p a w iː m ˈe n t u m 
+*#pawiːmˈentu# | 45 : m > ∅ / [-stres] __ #
+*#paβiːmˈentu# | 101 : w > β / __ [-cons]
+*#paβiːmˈɛntu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#paβimˈɛntu# | 137 : [+syl] > [-long,-splng] 
+*#paimˈɛntu# | 162 : β > ∅ 
+*#pamˈɛntu# | 163 : [+syl,-stres] > ∅ / a __
+Balkan Romance stage form : *#pamˈɛntu#
+*#pamˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#pəmˈentu# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pəmˈentu#
+*#pəmˈəntu# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəmˈɨntu# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#pəmˈɨntw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəmˈɨnt# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#pəmˈɨnt#

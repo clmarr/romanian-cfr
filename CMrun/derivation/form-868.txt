@@ -1,19 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 868:
-#dˈeum# >>> *#zˈew# ( GOLD : #zˈew#) :
-d ˈe u m 
-*#dˈeu# | 44 : m > ∅ / [-stres] __ #
-*#dˈew# | 46 : [+syl,+round] > w / [+syl,+stres] __ #
-*#dˈeβ# | 101 : w > β / __ #
-*#dˈɛβ# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɛw̥# | 158 : β > w̥ / __ #
-Balkan Romance stage form : *#dˈɛw̥#
-*#djˈɛw̥# | 175 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
-*#djˈew̥# | 179 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dʲjˈew̥# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dʲˈew̥# | 216 : j > ∅ / [+cons,+front] __
-*#d͡zʲˈew̥# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡zˈew̥# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡zˈew̥#
-*#zˈew̥# | 285 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#zˈew# | 295 : {w̥;j̊} > {w;j} 
-Final form : *#zˈew#
+#liːbertˈaː# >>> *#jertˈa# ( GOLD : #jertˈa#) :
+l iː b e r t ˈaː 
+*#liːβertˈaː# | 134 : b > β / [-cons] __ [+cont]
+*#liβertˈa# | 137 : [+syl] > [-long,-splng] 
+*#liertˈa# | 162 : β > ∅ 
+*#ljertˈa# | 164 : i e > j e 
+Balkan Romance stage form : *#ljertˈa#
+*#lʲjertˈa# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lʲertˈa# | 221 : j > ∅ / [+cons,+front] __
+*#ʎertˈa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#ʎertˈa#
+*#jertˈa# | 287 : [+son,+cons,+front] > j 
+Final form : *#jertˈa#

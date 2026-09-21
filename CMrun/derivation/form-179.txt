@@ -1,26 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 179:
-#skˌintˈiliam# >>> *#ʃtintˈeje# ( GOLD : #skɨntˈeje#) :
-s k ˌi n t ˈi l i a m 
-*#skˌintˈiljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#skintˈiljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#skintˈilja# | 44 : m > ∅ / [-stres] __ #
-*#iskintˈilja# | 119 : ∅ > i / # __ s [+cons,-son]
-*#eskentˈelja# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#skentˈelja# | 135 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#skʲentˈelja# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#skʲentˈelja#
-*#skʲentˈɛlja# | 205 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#skʲentˈɛlʲja# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#skʲentˈɛlʲa# | 216 : j > ∅ / [+cons,+front] __
-*#skʲentˈɛʎa# | 220 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#skʲentˈɛaʎa# | 221 : ∅ > a / [-tense] __
-*#skʲentˈeˈaʎa# | 222 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#skʲente̯ˈaʎa# | 223 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#skʲente̯ˈaʎə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#skʲente̯ˈaʎe# | 235 : ə > e / [+cons,+front,+son] __
-*#ʃtente̯ˈaʎe# | 238 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#ʃtente̯ˈaʎe#
-*#ʃtentˈeʎe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#ʃtintˈeʎe# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ʃtintˈeje# | 279 : [+son,+cons,+front] > j 
-Final form : *#ʃtintˈeje#
+#strˈambum# >>> *#strˈɨmb# ( GOLD : #strˈɨmb#) :
+s t r ˈa m b u m 
+*#strˈambu# | 45 : m > ∅ / [-stres] __ #
+*#istrˈambu# | 122 : ∅ > i / # __ s [+cons,-son]
+*#estrˈambu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#strˈambu# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#strˈambu#
+*#stɾˈambu# | 173 : r > ɾ / __ [nnas,ncons]
+*#stɾˈəmbu# | 232 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#stɾˈəmbu#
+*#strˈəmbu# | 274 : ɾ > r 
+*#strˈɨmbu# | 286 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ m [+cons]
+*#strˈɨmbw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#strˈɨmb# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#strˈɨmb#

@@ -1,12 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 492:
-#petˈiː# >>> *#pet͡sˈi# ( GOLD : #pet͡sˈi#) :
-p e t ˈiː 
-*#petˈi# | 134 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#petˈi#
-*#petjˈi# | 213 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#petʲjˈi# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#petʲˈi# | 216 : j > ∅ / [+cons,+front] __
-*#pet͡sʲˈi# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pet͡sˈi# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pet͡sˈi#
-Final form : *#pet͡sˈi#
+#kˈirkinum# >>> *#t͡ʃe̯ˈarkɨn# ( GOLD : #t͡ʃe̯ˈarkən#) :
+k ˈi r k i n u m 
+*#kˈirkanum# | 27 : i > a / [+stres,+hi,αlab] ( [-syl,αlab] )* __ [+cons,+son] [+syl,+hi] m #
+*#kˈirkanu# | 45 : m > ∅ / [-stres] __ #
+*#kˈerkanu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#kʲˈerkanu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲˈerkanu#
+*#kʲˈɛrkanu# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kʲˈɛarkanu# | 228 : ∅ > a / [-tense] __
+*#kʲˈeˈarkanu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kʲe̯ˈarkanu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kʲe̯ˈarkənu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#c͡ɕe̯ˈarkənu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃe̯ˈarkənu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃe̯ˈarkənu#
+*#t͡ʃe̯ˈarkɨnu# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#t͡ʃe̯ˈarkɨnw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃe̯ˈarkɨn# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#t͡ʃe̯ˈarkɨn#

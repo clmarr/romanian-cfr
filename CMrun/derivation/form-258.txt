@@ -1,15 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 258:
-#sˌentˈiː# >>> *#simt͡sˈi# ( GOLD : #simt͡sˈi#) :
-s ˌe n t ˈiː 
-*#sentˈiː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#sentˈi# | 134 : [+syl] > [-long,-splng] 
-*#semtˈi# | 168 : n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
-Balkan Romance stage form : *#semtˈi#
-*#semtjˈi# | 213 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#semtʲjˈi# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#semtʲˈi# | 216 : j > ∅ / [+cons,+front] __
-*#semt͡sʲˈi# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#semt͡sˈi# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#semt͡sˈi#
-*#simt͡sˈi# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-Final form : *#simt͡sˈi#
+#stˌernuːtˈaː# >>> *#sternutˈa# ( GOLD : #strənutˈa#) :
+s t ˌe r n uː t ˈaː 
+*#sternuːtˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#isternuːtˈaː# | 122 : ∅ > i / # __ s [+cons,-son]
+*#esternuːtˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#esternutˈa# | 137 : [+syl] > [-long,-splng] 
+*#sternutˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sternutˈa#
+*#steɾnutˈa# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#steɾnutˈa#
+*#sternutˈa# | 274 : ɾ > r 
+Final form : *#sternutˈa#

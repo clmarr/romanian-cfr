@@ -1,9 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 262:
-#ˌassudˈaː# >>> *#asudˈa# ( GOLD : #asudˈa#) :
-ˌa s s u d ˈaː 
-*#assudˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#assudˈa# | 134 : [+syl] > [-long,-splng] 
-*#asudˈa# | 165 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#asudˈa#
-Common Romanian stage form : *#asudˈa#
-Final form : *#asudˈa#
+#fˈamem# >>> *#fo̯ˈame# ( GOLD : #fo̯ˈame#) :
+f ˈa m e m 
+*#fˈame# | 45 : m > ∅ / [-stres] __ #
+*#fˈome# | 99 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / f __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
+Balkan Romance stage form : *#fˈome#
+*#fˈɔme# | 211 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
+*#fˈɔame# | 228 : ∅ > a / [-tense] __
+*#fˈoˈame# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fo̯ˈame# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#fo̯ˈame#
+Final form : *#fo̯ˈame#

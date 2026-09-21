@@ -1,16 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 572:
-#semˈentiam# >>> *#semˈɨnt͡sə# ( GOLD : #səmˈɨnt͡sə#) :
-s e m ˈe n t i a m 
-*#semˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#semˈentja# | 44 : m > ∅ / [-stres] __ #
-*#semˈɛntja# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#semˈɛntʲa# | 142 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#semˈɛntʲa#
-*#semˈentʲa# | 173 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#semˈentʲə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#semˈent͡sʲə# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#semˈent͡sə# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#semˈent͡sə#
-*#semˈənt͡sə# | 244 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#semˈɨnt͡sə# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Final form : *#semˈɨnt͡sə#
+#wˈirɡam# >>> *#vˈarɡə# ( GOLD : #vˈarɡə#) :
+w ˈi r ɡ a m 
+*#wˈirɡa# | 45 : m > ∅ / [-stres] __ #
+*#βˈirɡa# | 101 : w > β / __ [-cons]
+*#βˈerɡa# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈerɡa# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈerɡa#
+*#vˈɛrɡa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛarɡa# | 228 : ∅ > a / [-tense] __
+*#vˈeˈarɡa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈarɡa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ve̯ˈarɡə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ve̯ˈarɡə#
+*#və̯ˈarɡə# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈarɡə# | 254 : ə̯ > ∅ / __ [+syl,+lo]
+Final form : *#vˈarɡə#

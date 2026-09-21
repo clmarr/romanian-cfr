@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 415:
-#prˈandium# >>> *#prˈɨnz# ( GOLD : #prˈɨnz#) :
-p r ˈa n d i u m 
-*#prˈandjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#prˈandju# | 44 : m > ∅ / [-stres] __ #
-*#prˈandʲu# | 142 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#prˈandʲu#
-*#pɾˈandʲu# | 171 : r > ɾ / __ [nnas,ncons]
-*#pɾˈəndʲu# | 224 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#pɾˈənd͡zʲu# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pɾˈənd͡zu# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pɾˈənd͡zu#
-*#prˈənd͡zu# | 266 : ɾ > r 
-*#prˈɨnd͡zu# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#prˈɨnzu# | 285 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#prˈɨnzw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#prˈɨnz# | 294 : w̥ > ∅ / [-syl] __ #
-Final form : *#prˈɨnz#
+#kʰˈyːlum# >>> *#t͡ʃˈir# ( GOLD : #t͡ʃˈir#) :
+kʰ ˈyː l u m 
+*#kˈyːlum# | 15 : [+cons,+sg] > [-sg] 
+*#kjˈyːlum# | 18 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
+*#kˈiːlum# | 19 : j [+front,+round] > ∅ [-round,-lab]/ __ l
+*#kˈiːlu# | 45 : m > ∅ / [-stres] __ #
+*#kˈilu# | 137 : [+syl] > [-long,-splng] 
+*#kʲˈilu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲˈilu#
+*#kʲˈiɾu# | 204 : l > ɾ / [+syl] __ [+syl]
+*#kʲjˈiɾu# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#kʲˈiɾu# | 221 : j > ∅ / [+cons,+front] __
+*#c͡ɕˈiɾu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃˈiɾu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃˈiɾu#
+*#t͡ʃˈiru# | 274 : ɾ > r 
+*#t͡ʃˈirw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃˈir# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#t͡ʃˈir#

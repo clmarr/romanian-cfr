@@ -1,15 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 750:
-#pˌeːdˈukulum# >>> *#pədˈukj# ( GOLD : #pədˈukje#) :
-p ˌeː d ˈu k u l u m 
-*#peːdˈukulum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#peːdˈukulu# | 44 : m > ∅ / [-stres] __ #
-*#peːdˈuklu# | 56 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#pedˈuklu# | 134 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pedˈuklu#
-*#pedˈukʎu# | 234 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#pedˈukʎu#
-*#pədˈukʎu# | 244 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#pədˈukju# | 279 : [+son,+cons,+front] > j 
-*#pədˈukjw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pədˈukj# | 294 : w̥ > ∅ / [-syl] __ #
-Final form : *#pədˈukj#
+#wˈespam# >>> *#ve̯ˈaspə# ( GOLD : #ve̯ˈaspə#) :
+w ˈe s p a m 
+*#wˈespa# | 45 : m > ∅ / [-stres] __ #
+*#βˈespa# | 101 : w > β / __ [-cons]
+*#βˈɛspa# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛspa# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛspa#
+*#vjˈɛspa# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#vjˈespa# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vjˈɛspa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vjˈɛaspa# | 228 : ∅ > a / [-tense] __
+*#vjˈeˈaspa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#vje̯ˈaspa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#vje̯ˈaspə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#vje̯ˈaspə#
+*#ve̯ˈaspə# | 270 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
+Final form : *#ve̯ˈaspə#

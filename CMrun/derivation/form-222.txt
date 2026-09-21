@@ -1,20 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 222:
-#mˌinuːtˈaliam# >>> *#məruntˈaje# ( GOLD : #məruntˈaje#) :
-m ˌi n uː t ˈa l i a m 
-*#mˌinuːtˈaljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#minuːtˈaljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#minuːtˈalja# | 44 : m > ∅ / [-stres] __ #
-*#menuːtˈalja# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#menutˈalja# | 134 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#menutˈalja#
-*#menutˈalʲja# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#menutˈalʲa# | 216 : j > ∅ / [+cons,+front] __
-*#menutˈaʎa# | 220 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#menutˈaʎə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#menutˈaʎe# | 235 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#menutˈaʎe#
-*#menuntˈaʎe# | 243 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-*#mənuntˈaʎe# | 244 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#məruntˈaʎe# | 249 : n > r / ə __ [+syl,+hi,+back] [+nas]
-*#məruntˈaje# | 279 : [+son,+cons,+front] > j 
-Final form : *#məruntˈaje#
+#pˈiskem# >>> *#pˈeʃte# ( GOLD : #pˈeʃte#) :
+p ˈi s k e m 
+*#pˈiske# | 45 : m > ∅ / [-stres] __ #
+*#pˈeske# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#pˈeskʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#pˈeskʲe#
+*#pˈɛskʲe# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pˈɛaskʲe# | 228 : ∅ > a / [-tense] __
+*#pˈeˈaskʲe# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pe̯ˈaskʲe# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pe̯ˈaʃte# | 245 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#pe̯ˈaʃte#
+*#pˈeʃte# | 260 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Final form : *#pˈeʃte#

@@ -1,14 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 819:
-#rˌetˈundum# >>> *#rətˈund# ( GOLD : #rətˈund#) :
-r ˌe t ˈu n d u m 
-*#retˈundum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#retˈundu# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#retˈundu#
-*#ɾetˈundu# | 171 : r > ɾ / __ [nnas,ncons]
-*#rɾetˈundu# | 172 : ∅ > r / # __ ɾ
-Common Romanian stage form : *#rɾetˈundu#
-*#retˈundu# | 247 : {ɾ;r} > {∅;∅} / r __
-*#rətˈundu# | 248 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rətˈundw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rətˈund# | 294 : w̥ > ∅ / [-syl] __ #
-Final form : *#rətˈund#
+#strˈinktum# >>> *#strˈimt# ( GOLD : #strˈɨmt#) :
+s t r ˈi n k t u m 
+*#strˈinktu# | 45 : m > ∅ / [-stres] __ #
+*#strˈintu# | 109 : [-cont] > ∅ / [+cons] __ [-son,-voi]
+*#istrˈintu# | 122 : ∅ > i / # __ s [+cons,-son]
+*#estrˈentu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#strˈentu# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#strˈemtu# | 170 : n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
+Balkan Romance stage form : *#strˈemtu#
+*#stɾˈemtu# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#stɾˈemtu#
+*#stɾˈimtu# | 262 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#strˈimtu# | 274 : ɾ > r 
+*#strˈimtw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#strˈimt# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#strˈimt#

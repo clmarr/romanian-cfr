@@ -1,13 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 883:
-#pˈaskʰae̯# >>> *#pˈaʃte# ( GOLD : #pˈaʃte#) :
-p ˈa s kʰ a e̯ 
-*#pˈaskʰaj# | 12 : e̯ > j 
-*#pˈaskaj# | 15 : [+cons,+sg] > [-sg] 
-*#pˈaskɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ #
-*#pˈaskɛ# | 134 : [+syl] > [-long,-splng] 
-*#pˈaskʲɛ# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#pˈaskʲɛ#
-*#pˈaskʲe# | 179 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈaʃte# | 238 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#pˈaʃte#
-Final form : *#pˈaʃte#
+#monumˈentum# >>> *#monmˈɨnt# ( GOLD : #mormˈɨnt#) :
+m o n u m ˈe n t u m 
+*#monumˈentu# | 45 : m > ∅ / [-stres] __ #
+*#monmˈentu# | 63 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
+*#monmˈɛntu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#monmˈɛntu#
+*#monmˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#monmˈentu#
+*#monmˈəntu# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#monmˈɨntu# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#monmˈɨntw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#monmˈɨnt# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#monmˈɨnt#

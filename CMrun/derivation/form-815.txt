@@ -1,18 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 815:
-#kwˌiˈeːtum# >>> *#t͡ʃˈet# ( GOLD : #t͡ʃˈet#) :
-k w ˌi ˈeː t u m 
-*#kwiˈeːtum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwiˈeːtu# | 44 : m > ∅ / [-stres] __ #
-*#kβiˈeːtu# | 100 : w > β / __ [-cons]
-*#kβjˈeːtu# | 127 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#kβjˈetu# | 134 : [+syl] > [-long,-splng] 
-*#kjˈetu# | 160 : β > ∅ 
-*#kʲjˈetu# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲjˈetu#
-*#kʲˈetu# | 216 : j > ∅ / [+cons,+front] __
-*#c͡ɕˈetu# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃˈetu# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃˈetu#
-*#t͡ʃˈetw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡ʃˈet# | 294 : w̥ > ∅ / [-syl] __ #
-Final form : *#t͡ʃˈet#
+#rˌetˈundum# >>> *#rətˈund# ( GOLD : #rətˈund#) :
+r ˌe t ˈu n d u m 
+*#retˈundum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#retˈundu# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#retˈundu#
+*#ɾetˈundu# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾetˈundu# | 174 : ∅ > r / # __ ɾ
+Common Romanian stage form : *#rɾetˈundu#
+*#retˈundu# | 255 : {ɾ;r} > {∅;∅} / r __
+*#rətˈundu# | 256 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rətˈundw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rətˈund# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#rətˈund#

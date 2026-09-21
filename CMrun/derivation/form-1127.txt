@@ -1,13 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1127:
-#ˌinsiɡnˈaː# >>> *#ɨnsemnˈa# ( GOLD : #ɨnsemnˈa#) :
-ˌi n s i ɡ n ˈaː 
-*#ˌinsiŋnˈaː# | 13 : ɡ > ŋ / __ n
-*#insiŋnˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#insimnˈaː# | 115 : ŋ > m / __ n
-*#ensemnˈaː# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#ensemnˈa# | 134 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ensemnˈa#
-Common Romanian stage form : *#ensemnˈa#
-*#insemnˈa# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnsemnˈa# | 281 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnsemnˈa#
+#nuːtrˈiːkium# >>> *#nutrˈit͡s# ( GOLD : #nutrˈet͡s#) :
+n uː t r ˈiː k i u m 
+*#nuːtrˈiːkjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#nuːtrˈiːkju# | 45 : m > ∅ / [-stres] __ #
+*#nuːtrˈiːkkju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#nutrˈikkju# | 137 : [+syl] > [-long,-splng] 
+*#nutrˈiktʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#nutrˈittʲu# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#nutrˈitʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#nutrˈitʲu#
+*#nutɾˈitʲu# | 173 : r > ɾ / __ [nnas,ncons]
+*#nutɾˈit͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#nutɾˈit͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#nutɾˈit͡su#
+*#nutrˈit͡su# | 274 : ɾ > r 
+*#nutrˈit͡sw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nutrˈit͡s# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#nutrˈit͡s#

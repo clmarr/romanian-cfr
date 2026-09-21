@@ -1,14 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 567:
-#pˈaleam# >>> *#pˈaje# ( GOLD : #pˈaje#) :
-p ˈa l e a m 
-*#pˈaljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#pˈalja# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#pˈalja#
-*#pˈalʲja# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pˈalʲa# | 216 : j > ∅ / [+cons,+front] __
-*#pˈaʎa# | 220 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#pˈaʎə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pˈaʎe# | 235 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#pˈaʎe#
-*#pˈaje# | 279 : [+son,+cons,+front] > j 
-Final form : *#pˈaje#
+#raːdiːkˈiːnam# >>> *#rədət͡ʃˈinə# ( GOLD : #rədət͡ʃˈinə#) :
+r aː d iː k ˈiː n a m 
+*#raːdiːkˈiːna# | 45 : m > ∅ / [-stres] __ #
+*#radikˈina# | 137 : [+syl] > [-long,-splng] 
+*#radikʲˈina# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#radikʲˈina#
+*#ɾadikʲˈina# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾadikʲˈina# | 174 : ∅ > r / # __ ɾ
+*#rɾadekʲˈina# | 217 : i > e / [+cons] __ [+cons,+front]
+*#rɾadekʲjˈina# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#rɾadekʲˈina# | 221 : j > ∅ / [+cons,+front] __
+*#rɾədekʲˈinə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#rɾədec͡ɕˈinə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rɾədet͡ʃˈinə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾədet͡ʃˈinə#
+*#rədet͡ʃˈinə# | 255 : {ɾ;r} > {∅;∅} / r __
+*#rədət͡ʃˈinə# | 310 : e > ə / ə ( [-syl] )* __ ( [-syl] )* [+syl,+hi]
+Final form : *#rədət͡ʃˈinə#

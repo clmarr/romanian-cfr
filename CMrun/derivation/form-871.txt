@@ -1,27 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 871:
-#inkliːnaːtiˈoːnem# >>> *#ɨnkjinət͡ʃˈune# ( GOLD : #ɨnkjinət͡ʃˈune#) :
-i n k l iː n aː t i ˈoː n e m 
-*#inkliːnaːtjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inkliːnaːtjˈoːne# | 44 : m > ∅ / [-stres] __ #
-*#inkliːnaːttjˈoːne# | 130 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#enkliːnaːttjˈoːne# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#enklinattjˈone# | 134 : [+syl] > [-long,-splng] 
-*#enklinattʲˈone# | 142 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enklinatkʲˈone# | 145 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#enklinakʲˈone# | 165 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#enklinakʲˈone#
-*#enkljinakʲˈone# | 213 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#enklʲjinakʲˈone# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#enklʲinakʲˈone# | 216 : j > ∅ / [+cons,+front] __
-*#enkʎinakʲˈone# | 220 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#enkʎinakʲˈune# | 224 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#enkʎinəkʲˈune# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#enkʎinəc͡ɕˈune# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#enkʎinət͡ʃˈune# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#enkʎinət͡ʃˈune#
-*#inkʎinət͡ʃˈune# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inkjinət͡ʃˈune# | 279 : [+son,+cons,+front] > j 
-*#ɨnkjinət͡ʃˈune# | 281 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨnkinət͡ʃˈune# | 288 : j > ∅ / __ [+syl,+front,+hi]
-*#ɨnkjinət͡ʃˈune# | 289 : ∅ > j / [-cont,+back] __ [+syl,+front,+hi]
-Final form : *#ɨnkjinət͡ʃˈune#
+#paːɡaːnitˈaːtem# >>> *#pəɡɨnətˈate# ( GOLD : #pəɡɨnətˈate#) :
+p aː ɡ aː n i t ˈaː t e m 
+*#paːɡaːnitˈaːte# | 45 : m > ∅ / [-stres] __ #
+*#paːɡaːnetˈaːte# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#paɡanetˈate# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#paɡanetˈate#
+*#paɡənetˈate# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pəɡənetˈate# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pəɡənetˈate#
+*#pəɡɨnetˈate# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#pəɡɨnətˈate# | 290 : e > ə / [-back] n __ t
+Final form : *#pəɡɨnətˈate#

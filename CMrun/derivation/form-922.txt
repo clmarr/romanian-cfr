@@ -1,19 +1,10 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 922:
-#apprehˈende# >>> *#aprˈinde# ( GOLD : #aprˈinde#) :
-a p p r e h ˈe n d e 
-*#appreˈende# | 40 : h > ∅ 
-*#appriˈende# | 122 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#apprjˈende# | 127 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#apprjˈɛnde# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#aprjˈɛnde# | 165 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#aprjˈɛnde#
-*#apɾjˈɛnde# | 171 : r > ɾ / __ [nnas,ncons]
-*#apɾjˈende# | 173 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#apɾʲjˈende# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#apɾʲˈende# | 216 : j > ∅ / [+cons,+front] __
-*#apɾjˈende# | 237 : ɾʲ > ɾ j 
-Common Romanian stage form : *#apɾjˈende#
-*#apɾjˈinde# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#aprjˈinde# | 266 : ɾ > r 
-*#aprˈinde# | 288 : j > ∅ / __ [+syl,+front,+hi]
-Final form : *#aprˈinde#
+#fˈakulam# >>> *#fˈakurə# ( GOLD : #flˈakərə#) :
+f ˈa k u l a m 
+*#fˈakula# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#fˈakula#
+*#fˈakuɾa# | 204 : l > ɾ / [+syl] __ [+syl]
+*#fˈakuɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fˈakuɾə#
+*#fˈakurə# | 274 : ɾ > r 
+Final form : *#fˈakurə#

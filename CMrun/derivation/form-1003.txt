@@ -1,13 +1,10 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1003:
-#kˌomprˈende# >>> *#koprˈinde# ( GOLD : #kuprˈinde#) :
-k ˌo m p r ˈe n d e 
-*#komprˈende# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#koprˈende# | 79 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#koprˈɛnde# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#koprˈɛnde#
-*#kopɾˈɛnde# | 171 : r > ɾ / __ [nnas,ncons]
-*#kopɾˈende# | 173 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#kopɾˈende#
-*#kopɾˈinde# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#koprˈinde# | 266 : ɾ > r 
-Final form : *#koprˈinde#
+#frikˈaː# >>> *#frekˈa# ( GOLD : #frekˈa#) :
+f r i k ˈaː 
+*#frekˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#frekˈa# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#frekˈa#
+*#fɾekˈa# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#fɾekˈa#
+*#frekˈa# | 274 : ɾ > r 
+Final form : *#frekˈa#

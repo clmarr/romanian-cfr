@@ -1,19 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 358:
-#jˌakˈeː# >>> *#zət͡ʃe̯ˈa# ( GOLD : #zət͡ʃe̯ˈa#) :
-j ˌa k ˈeː 
-*#jakˈeː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#djakˈeː# | 105 : j > d j / # __ [+syl] [+cons]
-*#djakˈe# | 134 : [+syl] > [-long,-splng] 
-*#dʲakˈe# | 142 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲakʲˈe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#dʲakʲˈe#
-*#dʲakʲˈɛ# | 208 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#dʲakʲˈɛa# | 221 : ∅ > a / [-tense] __
-*#dʲakʲˈeˈa# | 222 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dʲakʲe̯ˈa# | 223 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#dʲəkʲe̯ˈa# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#d͡zʲəc͡ɕe̯ˈa# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡zət͡ʃe̯ˈa# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡zət͡ʃe̯ˈa#
-*#zət͡ʃe̯ˈa# | 285 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#zət͡ʃe̯ˈa#
+#lˌanɡwˈeːskoː# >>> *#lɨnd͡ʒˈesk# ( GOLD : #lɨnd͡ʒˈesk#) :
+l ˌa n ɡ w ˈeː s k oː 
+*#lanɡwˈeːskoː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#lanɡβˈeːskoː# | 101 : w > β / __ [-cons]
+*#lanɡβˈesko# | 137 : [+syl] > [-long,-splng] 
+*#lanɡˈesko# | 162 : β > ∅ 
+*#lanɡʲˈesko# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#lanɡʲˈesko#
+*#lanɡʲˈesku# | 186 : o > u / __ ( [+cons,+lab,+voi] ) #
+*#lənɡʲˈesku# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#lənɟ͡ʑˈesku# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#lənd͡ʒˈesku# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#lənd͡ʒˈesku#
+*#lɨnd͡ʒˈesku# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#lɨnd͡ʒˈeskw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lɨnd͡ʒˈesk# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#lɨnd͡ʒˈesk#

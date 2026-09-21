@@ -1,18 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1239:
-#prehˈende# >>> *#prˈinde# ( GOLD : #prˈinde#) :
-p r e h ˈe n d e 
-*#preˈende# | 40 : h > ∅ 
-*#priˈende# | 122 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#prjˈende# | 127 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#prjˈɛnde# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#prjˈɛnde#
-*#pɾjˈɛnde# | 171 : r > ɾ / __ [nnas,ncons]
-*#pɾjˈende# | 173 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#pɾʲjˈende# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pɾʲˈende# | 216 : j > ∅ / [+cons,+front] __
-*#pɾjˈende# | 237 : ɾʲ > ɾ j 
-Common Romanian stage form : *#pɾjˈende#
-*#pɾjˈinde# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#prjˈinde# | 266 : ɾ > r 
-*#prˈinde# | 288 : j > ∅ / __ [+syl,+front,+hi]
-Final form : *#prˈinde#
+#fˈoe̯tum# >>> *#fˈət# ( GOLD : #fˈət#) :
+f ˈo e̯ t u m 
+*#fˈojtum# | 12 : e̯ > j 
+*#fˈeːtum# | 44 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
+*#fˈeːtu# | 45 : m > ∅ / [-stres] __ #
+*#fˈetu# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈetu#
+Common Romanian stage form : *#fˈetu#
+*#fˈətu# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#fˈətw̥# | 301 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fˈət# | 302 : w̥ > ∅ / [-syl] __ #
+Final form : *#fˈət#

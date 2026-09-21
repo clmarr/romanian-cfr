@@ -1,18 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 854:
-#neae̯stimˈaːtum# >>> *#nestemˈat# ( GOLD : #nestemˈat#) :
-n e a e̯ s t i m ˈaː t u m 
-*#njae̯stimˈaːtum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#njajstimˈaːtum# | 12 : e̯ > j 
-*#njɛːstimˈaːtum# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
-*#njɛːstimˈaːtu# | 44 : m > ∅ / [-stres] __ #
-*#njɛːstemˈaːtu# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#njɛstemˈatu# | 134 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#njɛstemˈatu#
-*#njestemˈatu# | 179 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#nʲjestemˈatu# | 215 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#nʲestemˈatu# | 216 : j > ∅ / [+cons,+front] __
-*#nestemˈatu# | 217 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
-Common Romanian stage form : *#nestemˈatu#
-*#nestemˈatw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#nestemˈat# | 294 : w̥ > ∅ / [-syl] __ #
-Final form : *#nestemˈat#
+#improːmuːtuˈaː# >>> *#ɨmprumutˈa# ( GOLD : #ɨmprumutˈa#) :
+i m p r oː m uː t u ˈaː 
+*#improːmuːtwˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#improːmuːtβˈaː# | 101 : w > β / __ [-cons]
+*#emproːmuːtβˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#empromutβˈa# | 137 : [+syl] > [-long,-splng] 
+*#empromutˈa# | 162 : β > ∅ 
+Balkan Romance stage form : *#empromutˈa#
+*#empɾomutˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#empɾumutˈa# | 185 : o > u / __ ( [+cons,+lab,+voi] ) [+syl]
+Common Romanian stage form : *#empɾumutˈa#
+*#impɾumutˈa# | 262 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#imprumutˈa# | 274 : ɾ > r 
+*#ɨmprumutˈa# | 289 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Final form : *#ɨmprumutˈa#

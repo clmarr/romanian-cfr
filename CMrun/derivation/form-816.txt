@@ -1,21 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 816:
-#kwˌiˈeːtam# >>> *#t͡ʃe̯ˈatə# ( GOLD : #t͡ʃe̯ˈatə#) :
-k w ˌi ˈeː t a m 
-*#kwiˈeːtam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwiˈeːta# | 44 : m > ∅ / [-stres] __ #
-*#kβiˈeːta# | 100 : w > β / __ [-cons]
-*#kβjˈeːta# | 127 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#kβjˈeta# | 134 : [+syl] > [-long,-splng] 
-*#kjˈeta# | 160 : β > ∅ 
-*#kʲjˈeta# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲjˈeta#
-*#kʲjˈɛta# | 205 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kʲˈɛta# | 216 : j > ∅ / [+cons,+front] __
-*#kʲˈɛata# | 221 : ∅ > a / [-tense] __
-*#kʲˈeˈata# | 222 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kʲe̯ˈata# | 223 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kʲe̯ˈatə# | 232 : [-cons,+lo,-stres,-long] > ə / @ __
-*#c͡ɕe̯ˈatə# | 239 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃe̯ˈatə# | 240 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃe̯ˈatə#
-Final form : *#t͡ʃe̯ˈatə#
+#skrˈobulam# >>> *#skˈorburə# ( GOLD : #skˈorburə#) :
+s k r ˈo b u l a m 
+*#skrˈobula# | 45 : m > ∅ / [-stres] __ #
+*#skˈorbula# | 50 : r [+syl,+back] ∅ > ∅ [+syl,+son] r/ [+cons,+back] __ [-cont,-back] [+syl]
+*#iskˈorbula# | 122 : ∅ > i / # __ s [+cons,-son]
+*#eskˈorbula# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#skˈorbula# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skˈorbula#
+*#skˈorbuɾa# | 204 : l > ɾ / [+syl] __ [+syl]
+*#skˈorbuɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skˈorbuɾə#
+*#skˈorburə# | 274 : ɾ > r 
+Final form : *#skˈorburə#
