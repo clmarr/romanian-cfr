@@ -1,18 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1276:
-#ˌadiˌuːtˈaː# >>> *#aʒutˈa# ( GOLD : #aʒutˈa#) :
-ˌa d i ˌuː t ˈaː 
-*#ˌadjˌuːtˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#adjuːtˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ajuːtˈaː# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adjuːtˈaː# | 107 : j > d j / [+syl,-stres] __ [+syl,+round]
-*#addjuːtˈaː# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#addjutˈa# | 137 : [+syl] > [-long,-splng] 
-*#addʲutˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#adɡʲutˈa# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#aɡʲutˈa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#aɡʲutˈa#
-*#aɟ͡ʑutˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ad͡ʒutˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ad͡ʒutˈa#
-*#aʒutˈa# | 295 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Final form : *#aʒutˈa#
+#kˈerrum# >>> *#t͡ʃˈer# ( GOLD : #t͡ʃˈer#) :
+k ˈe r r u m 
+*#kˈerru# | 45 : m > ∅ / [-stres] __ #
+*#kˈɛrru# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kʲˈɛrru# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲˈɛrru#
+*#kʲˈɛrɾu# | 173 : r > ɾ / __ [nnas,ncons]
+*#kʲjˈɛrɾu# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#kʲjˈerɾu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʲˈerɾu# | 221 : j > ∅ / [+cons,+front] __
+*#c͡ɕˈerɾu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃˈerɾu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃˈerɾu#
+*#t͡ʃˈeru# | 256 : {ɾ;r} > {∅;∅} / r __
+*#t͡ʃˈerw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃˈer# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#t͡ʃˈer#
