@@ -1,14 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 370:
-#tˌussˈiː# >>> *#tuʃˈi# ( GOLD : #tuʃˈi#) :
-t ˌu s s ˈiː 
-*#tussˈiː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#tussˈi# | 137 : [+syl] > [-long,-splng] 
-*#tusˈi# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#tusˈi#
-*#tusjˈi# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#tusʲjˈi# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tusʲˈi# | 221 : j > ∅ / [+cons,+front] __
-*#tuɕˈi# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#tuʃˈi# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tuʃˈi#
-Final form : *#tuʃˈi#
+#rˌepˈoːne# >>> *#rəpˈune# ( GOLD : #rəpˈune#) :
+r ˌe p ˈoː n e 
+*#repˈoːne# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#repˈone# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#repˈone#
+*#ɾepˈone# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾepˈone# | 174 : ∅ > r / # __ ɾ
+*#rɾepˈune# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#rɾepˈune#
+*#repˈune# | 256 : {ɾ;r} > {∅;∅} / r __
+*#rəpˈune# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Final form : *#rəpˈune#

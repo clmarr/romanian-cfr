@@ -1,21 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 658:
-#dˌomˈestikum# >>> *#dumˈestek# ( GOLD : #dumˈestek#) :
-d ˌo m ˈe s t i k u m 
-*#domˈestikum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#domˈestiku# | 45 : m > ∅ / [-stres] __ #
-*#domˈɛstiku# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#domˈɛsteku# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#domˈɛsteku#
-*#domjˈɛsteku# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
-*#domjˈesteku# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#domjˈɛsteku# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#domjˈɛasteku# | 228 : ∅ > a / [-tense] __
-*#domjˈeˈasteku# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#domje̯ˈasteku# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#dumje̯ˈasteku# | 232 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#dumje̯ˈasteku#
-*#dumjˈesteku# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#dumˈesteku# | 268 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
-*#dumˈestekw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dumˈestek# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#dumˈestek#
+#ˌanimˈaːliam# >>> *#nemˈaje# ( GOLD : #nəmˈaje#) :
+ˌa n i m ˈaː l i a m 
+*#ˌanimˈaːljam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#animˈaːljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#nimˈaːljam# | 40 : [+syl,-prim] > ∅ / # __ [+son] i
+*#nimˈaːlja# | 45 : m > ∅ / [-stres] __ #
+*#nemˈaːlja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#nemˈalja# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#nemˈalja#
+*#nemˈalʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#nemˈalʲa# | 221 : j > ∅ / [+cons,+front] __
+*#nemˈaʎa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#nemˈaʎə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#nemˈaʎe# | 242 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#nemˈaʎe#
+*#nemˈaje# | 288 : [+son,+cons,+front] > j 
+Final form : *#nemˈaje#

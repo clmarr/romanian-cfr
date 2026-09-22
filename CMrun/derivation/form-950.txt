@@ -1,17 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 950:
-#tiːtiˈoːnem# >>> *#tet͡ʃˈune# ( GOLD : #tət͡ʃˈune#) :
-t iː t i ˈoː n e m 
-*#tiːtjˈoːnem# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#tiːtjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#tiːttjˈoːne# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#tittjˈone# | 137 : [+syl] > [-long,-splng] 
-*#tittʲˈone# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#titkʲˈone# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#tikʲˈone# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#tikʲˈone#
-*#tekʲˈone# | 217 : i > e / [+cons] __ [+cons,+front]
-*#tekʲˈune# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#tec͡ɕˈune# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#tet͡ʃˈune# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tet͡ʃˈune#
-Final form : *#tet͡ʃˈune#
+#stˈinɡwe# >>> *#stˈind͡ʒe# ( GOLD : #stˈind͡ʒe#) :
+s t ˈi n ɡ w e 
+*#stˈinɡβe# | 101 : w > β / __ [-cons]
+*#istˈinɡβe# | 122 : ∅ > i / # __ s [+cons,-son]
+*#estˈenɡβe# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#stˈenɡβe# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#stˈenɡe# | 162 : β > ∅ 
+*#stˈenɡʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#stˈenɡʲe#
+*#stˈenɟ͡ʑe# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#stˈend͡ʒe# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#stˈend͡ʒe#
+*#stˈind͡ʒe# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Final form : *#stˈind͡ʒe#

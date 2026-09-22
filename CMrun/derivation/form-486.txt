@@ -1,16 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 486:
-#wˈiduum# >>> *#vˈəduv# ( GOLD : #vˈəduv#) :
-w ˈi d u u m 
-*#wˈiduwm# | 2 : [+syl,-long,-stres,+hi] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+syl,+hi,+back] __
-*#wˈiduwn# | 46 : m > n / __ #
-*#wˈiduw# | 90 : [+nas] > ∅ / @ [-cons] __ #
-*#βˈiduw# | 101 : w > β / __ [-cons]
-*#βˈiduβ# | 102 : w > β / __ #
-*#βˈeduβ# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#vˈeduβ# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vˈeduw̥# | 160 : β > w̥ / __ #
-Balkan Romance stage form : *#vˈeduw̥#
-*#vˈeduv# | 238 : [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
-Common Romanian stage form : *#vˈeduv#
-*#vˈəduv# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-Final form : *#vˈəduv#
+#ˈorpʰanum# >>> *#o̯ˈarfɨn# ( GOLD : #o̯ˈarfən#) :
+ˈo r pʰ a n u m 
+*#ˈorfanum# | 14 : pʰ > f / @ __
+*#ˈorfanu# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈorfanu#
+*#ˈɔrfanu# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔarfanu# | 228 : ∅ > a / [-tense] __
+*#ˈoˈarfanu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈarfanu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#o̯ˈarfənu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#o̯ˈarfənu#
+*#o̯ˈarfɨnu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#o̯ˈarfɨnw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#o̯ˈarfɨn# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#o̯ˈarfɨn#

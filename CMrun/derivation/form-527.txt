@@ -1,24 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 527:
-#mˈedianˈokte# >>> *#me̯ˈazɨno̯ˈapte# ( GOLD : #mjazəno̯ˈapte#) :
-m ˈe d i a n ˈo k t e 
-*#mˈedjanˈokte# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈedjanˈopte# | 113 : k > p / __ t
-*#mˈɛdjanˈopte# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛddjanˈopte# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#mˈɛddʲanˈopte# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#mˈɛdʲanˈopte# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#mˈɛdʲanˈopte#
-*#mjˈɛdʲanˈopte# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
-*#mjˈedʲanˈopte# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mjˈɛdʲanˈɔpte# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mjˈɛadʲanˈɔapte# | 228 : ∅ > a / [-tense] __
-*#mjˈeˈadʲanˈoˈapte# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#mje̯ˈadʲano̯ˈapte# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#mje̯ˈadʲəno̯ˈapte# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#mje̯ˈad͡zʲəno̯ˈapte# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mje̯ˈad͡zəno̯ˈapte# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mje̯ˈad͡zəno̯ˈapte#
-*#me̯ˈad͡zəno̯ˈapte# | 271 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
-*#me̯ˈad͡zɨno̯ˈapte# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#me̯ˈazɨno̯ˈapte# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#me̯ˈazɨno̯ˈapte#
+#dˌeːmˌaːnˈitia# >>> *#demɨne̯ˈat͡sə# ( GOLD : #dimine̯ˈat͡sə#) :
+d ˌeː m ˌaː n ˈi t i a 
+*#dˌeːmˌaːnˈitja# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#deːmaːnˈitja# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːmaːnˈittja# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#deːmaːnˈettja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#demanˈettja# | 137 : [+syl] > [-long,-splng] 
+*#demanˈettʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#demanˈetʲa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#demanˈetʲa#
+*#demanˈɛtʲa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#demanˈɛatʲa# | 228 : ∅ > a / [-tense] __
+*#demanˈeˈatʲa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#demane̯ˈatʲa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#deməne̯ˈatʲa# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#deməne̯ˈatʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#deməne̯ˈat͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#deməne̯ˈat͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#deməne̯ˈat͡sə#
+*#demɨne̯ˈat͡sə# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Final form : *#demɨne̯ˈat͡sə#
