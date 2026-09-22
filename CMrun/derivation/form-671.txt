@@ -1,21 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 671:
-#pˌorkˈellam# >>> *#purt͡ʃe̯ˈa# ( GOLD : #purt͡ʃe̯ˈa#) :
-p ˌo r k ˈe l l a m 
-*#porkˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈella# | 45 : m > ∅ / [-stres] __ #
-*#porkˈɛlla# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#porkʲˈɛlla# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#porkʲˈɛlla#
-*#porkʲˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#purkʲˈella# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#purkʲˈɛlla# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#purkʲˈɛwa# | 216 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#purkʲˈɛawa# | 228 : ∅ > a / [-tense] __
-*#purkʲˈeˈawa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#purkʲe̯ˈawa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#purkʲe̯ˈawə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#purkʲe̯ˈa# | 240 : w ə > ∅ / [-cons,-syl] ˈa __ #
-*#purc͡ɕe̯ˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#purt͡ʃe̯ˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#purt͡ʃe̯ˈa#
-Final form : *#purt͡ʃe̯ˈa#
+#skrˈoːfam# >>> *#skro̯ˈafə# ( GOLD : #skro̯ˈafə#) :
+s k r ˈoː f a m 
+*#skrˈoːfa# | 45 : m > ∅ / [-stres] __ #
+*#iskrˈoːfa# | 122 : ∅ > i / # __ s [+cons,-son]
+*#eskrˈoːfa# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskrˈofa# | 137 : [+syl] > [-long,-splng] 
+*#skrˈofa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skrˈofa#
+*#skɾˈofa# | 173 : r > ɾ / __ [nnas,ncons]
+*#skɾˈɔfa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#skɾˈɔafa# | 228 : ∅ > a / [-tense] __
+*#skɾˈoˈafa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#skɾo̯ˈafa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#skɾo̯ˈafə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skɾo̯ˈafə#
+*#skro̯ˈafə# | 275 : ɾ > r 
+Final form : *#skro̯ˈafə#

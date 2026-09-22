@@ -1,16 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 639:
-#ˌinkˌaballikˈaː# >>> *#ɨnkəlekˈa# ( GOLD : #ɨnkəlekˈa#) :
-ˌi n k ˌa b a l l i k ˈaː 
-*#inkaballikˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkaβallikˈaː# | 134 : b > β / [-cons] __ [+cont]
-*#enkaβallekˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkaβallekˈa# | 137 : [+syl] > [-long,-splng] 
-*#enkaallekˈa# | 162 : β > ∅ 
-*#enkallekˈa# | 163 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#enkallekˈa#
-*#enkalekˈa# | 219 : {l l;m m} > {l;m} 
-*#enkəlekˈa# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#enkəlekˈa#
-*#inkəlekˈa# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnkəlekˈa# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnkəlekˈa#
+#pˈantikem# >>> *#pˈɨntet͡ʃe# ( GOLD : #pˈɨntet͡ʃe#) :
+p ˈa n t i k e m 
+*#pˈantike# | 45 : m > ∅ / [-stres] __ #
+*#pˈanteke# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#pˈantekʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#pˈantekʲe#
+*#pˈəntekʲe# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pˈəntec͡ɕe# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pˈəntet͡ʃe# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pˈəntet͡ʃe#
+*#pˈɨntet͡ʃe# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Final form : *#pˈɨntet͡ʃe#

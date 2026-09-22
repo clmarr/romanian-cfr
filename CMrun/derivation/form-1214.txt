@@ -1,11 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1214:
-#respˈonde# >>> *#rəspˈunde# ( GOLD : #rəspˈunde#) :
-r e s p ˈo n d e 
-Balkan Romance stage form : *#respˈonde#
-*#ɾespˈonde# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾespˈonde# | 174 : ∅ > r / # __ ɾ
-*#rɾespˈunde# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#rɾespˈunde#
-*#respˈunde# | 256 : {ɾ;r} > {∅;∅} / r __
-*#rəspˈunde# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Final form : *#rəspˈunde#
+#kwˈenem# >>> *#t͡ʃˈine# ( GOLD : #t͡ʃˈine#) :
+k w ˈe n e m 
+*#kwˈene# | 45 : m > ∅ / [-stres] __ #
+*#kβˈene# | 101 : w > β / __ [-cons]
+*#kβˈɛne# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɛne# | 162 : β > ∅ 
+*#kʲˈɛne# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲˈɛne#
+*#kʲjˈɛne# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#kʲjˈene# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʲˈene# | 221 : j > ∅ / [+cons,+front] __
+*#c͡ɕˈene# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃˈene# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃˈene#
+*#t͡ʃˈine# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+Final form : *#t͡ʃˈine#

@@ -1,17 +1,10 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 196:
-#kˌerˈebrum# >>> *#krˈewr# ( GOLD : #krˈejer#) :
-k ˌe r ˈe b r u m 
-*#kerˈebrum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kerˈebru# | 45 : m > ∅ / [-stres] __ #
-*#krˈebru# | 48 : [+syl,+front,-lo,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
-*#krˈɛbru# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#krˈɛβru# | 134 : b > β / [-cons] __ [+cont]
-*#krˈɛwru# | 159 : β > w / __ [+son,+cons]
-Balkan Romance stage form : *#krˈɛwru#
-*#kɾˈɛwɾu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kɾˈewɾu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#kɾˈewɾu#
-*#krˈewru# | 275 : ɾ > r 
-*#krˈewrw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#krˈewr# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#krˈewr#
+#dˈentem# >>> *#dˈinte# ( GOLD : #dˈinte#) :
+d ˈe n t e m 
+*#dˈente# | 45 : m > ∅ / [-stres] __ #
+*#dˈɛnte# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#dˈɛnte#
+*#dˈente# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#dˈente#
+*#dˈinte# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Final form : *#dˈinte#

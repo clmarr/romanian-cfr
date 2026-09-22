@@ -1,17 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1218:
-#habˈeːbat# >>> *#ave̯ˈa# ( GOLD : #ave̯ˈa#) :
-h a b ˈeː b a t 
-*#abˈeːbat# | 41 : h > ∅ 
-*#abˈeːba# | 89 : [+cons,-cont] > ∅ / __ #
-*#aβˈeːβa# | 134 : b > β / [-cons] __ [+cont]
-*#aβˈeβa# | 137 : [+syl] > [-long,-splng] 
-*#avˈeβa# | 153 : β > v / [+syl] __ ˈe
-*#avˈea# | 162 : β > ∅ 
-Balkan Romance stage form : *#avˈea#
-*#avˈɛa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#avˈɛaa# | 228 : ∅ > a / [-tense] __
-*#avˈeˈaa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ave̯ˈaa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ave̯ˈa# | 234 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
-Common Romanian stage form : *#ave̯ˈa#
-Final form : *#ave̯ˈa#
+#respˈoːnsum# >>> *#rəspˈuns# ( GOLD : #rəspˈuns#) :
+r e s p ˈoː n s u m 
+*#respˈoːnsu# | 45 : m > ∅ / [-stres] __ #
+*#respˈonsu# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#respˈonsu#
+*#ɾespˈonsu# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾespˈonsu# | 174 : ∅ > r / # __ ɾ
+*#rɾespˈunsu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#rɾespˈunsu#
+*#respˈunsu# | 256 : {ɾ;r} > {∅;∅} / r __
+*#rəspˈunsu# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rəspˈunsw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rəspˈuns# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#rəspˈuns#

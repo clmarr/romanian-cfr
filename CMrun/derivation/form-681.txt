@@ -1,25 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 681:
-#wˌitˈellam# >>> *#vet͡se̯ˈa# ( GOLD : #vit͡se̯ˈa#) :
-w ˌi t ˈe l l a m 
-*#witˈellam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#witˈella# | 45 : m > ∅ / [-stres] __ #
-*#βitˈella# | 101 : w > β / __ [-cons]
-*#βitˈɛlla# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#βetˈɛlla# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#vetˈɛlla# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vetˈɛlla#
-*#vetjˈɛlla# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
-*#vetjˈella# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vetjˈɛlla# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vetjˈɛwa# | 216 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#vetʲjˈɛwa# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#vetʲˈɛwa# | 221 : j > ∅ / [+cons,+front] __
-*#vetʲˈɛawa# | 228 : ∅ > a / [-tense] __
-*#vetʲˈeˈawa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#vetʲe̯ˈawa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#vetʲe̯ˈawə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#vetʲe̯ˈa# | 240 : w ə > ∅ / [-cons,-syl] ˈa __ #
-*#vet͡sʲe̯ˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vet͡se̯ˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vet͡se̯ˈa#
-Final form : *#vet͡se̯ˈa#
+#wˌitˈuleam# >>> *#vətˈuje# ( GOLD : #vətˈuje#) :
+w ˌi t ˈu l e a m 
+*#wˌitˈuljam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#witˈuljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#witˈulja# | 45 : m > ∅ / [-stres] __ #
+*#βitˈulja# | 101 : w > β / __ [-cons]
+*#βetˈulja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#vetˈulja# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vetˈulja#
+*#vetˈulʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vetˈulʲa# | 221 : j > ∅ / [+cons,+front] __
+*#vetˈuʎa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#vetˈuʎə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#vetˈuʎe# | 242 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#vetˈuʎe#
+*#vətˈuʎe# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vətˈuje# | 288 : [+son,+cons,+front] > j 
+Final form : *#vətˈuje#

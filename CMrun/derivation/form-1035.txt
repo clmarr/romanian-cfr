@@ -1,13 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1035:
-#ekstrikˈaː# >>> *#strikˈa# ( GOLD : #strikˈa#) :
-e k s t r i k ˈaː 
-*#estrikˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estrekˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrekˈa# | 137 : [+syl] > [-long,-splng] 
-*#strekˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strekˈa#
-*#stɾekˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#stɾekˈa#
-*#strekˈa# | 275 : ɾ > r 
-*#strikˈa# | 312 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Final form : *#strikˈa#
+#implantˈaː# >>> *#ɨmplɨntˈa# ( GOLD : #ɨmplɨntˈa#) :
+i m p l a n t ˈaː 
+*#emplantˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#emplantˈa# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#emplantˈa#
+*#empləntˈa# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#empləntˈa#
+*#impləntˈa# | 263 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#implɨntˈa# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#ɨmplɨntˈa# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Final form : *#ɨmplɨntˈa#

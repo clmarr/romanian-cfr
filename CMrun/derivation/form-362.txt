@@ -1,18 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 362:
-#pˌetˈiːɡinem# >>> *#pet͡sˈind͡ʒine# ( GOLD : #pet͡ʃˈind͡ʒine#) :
-p ˌe t ˈiː ɡ i n e m 
-*#petˈiːɡinem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#petˈiːɡine# | 45 : m > ∅ / [-stres] __ #
-*#petˈiːɡene# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#petˈiɡene# | 137 : [+syl] > [-long,-splng] 
-*#petˈiɡʲene# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#petˈiɡʲene#
-*#petjˈiɡʲene# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#petʲjˈiɡʲene# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#petʲˈiɡʲene# | 221 : j > ∅ / [+cons,+front] __
-*#pet͡sʲˈiɟ͡ʑene# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pet͡sˈid͡ʒene# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pet͡sˈid͡ʒene#
-*#pet͡sˈid͡ʒine# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
-*#pet͡sˈind͡ʒine# | 322 : ∅ > n / [+front,+hi] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
-Final form : *#pet͡sˈind͡ʒine#
+#puːrˈoːnium# >>> *#purˈoj# ( GOLD : #purˈoj#) :
+p uː r ˈoː n i u m 
+*#puːrˈoːnjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#puːrˈoːnju# | 45 : m > ∅ / [-stres] __ #
+*#purˈonju# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#purˈonju#
+*#puɾˈonju# | 173 : r > ɾ / __ [nnas,ncons]
+*#puɾˈonʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#puɾˈonʲu# | 221 : j > ∅ / [+cons,+front] __
+*#puɾˈoɲu# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#puɾˈuɲu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#puɾˈoɲu# | 250 : ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
+Common Romanian stage form : *#puɾˈoɲu#
+*#purˈoɲu# | 275 : ɾ > r 
+*#purˈoju# | 288 : [+son,+cons,+front] > j 
+*#purˈojw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#purˈoj# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#purˈoj#

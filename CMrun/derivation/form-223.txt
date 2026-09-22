@@ -1,20 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 223:
-#rˌenˈunkulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
-r ˌe n ˈu n k u l u m 
-*#renˈunkulum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#renˈunkulu# | 45 : m > ∅ / [-stres] __ #
-*#renˈunklu# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-Balkan Romance stage form : *#renˈunklu#
-*#ɾenˈunklu# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾenˈunklu# | 174 : ∅ > r / # __ ɾ
-*#rɾenˈunkʎu# | 241 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#rɾenˈunkʎu#
-*#renˈunkʎu# | 256 : {ɾ;r} > {∅;∅} / r __
-*#rənˈunkʎu# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rərˈunkʎu# | 258 : n > r / ə __ [+syl,+hi,+back] [+nas]
-*#rərˈunkju# | 288 : [+son,+cons,+front] > j 
-*#rərˈunkjw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rərˈunkj# | 303 : w̥ > ∅ / [-syl] __ #
-*#rənˈunkj# | 323 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n [-ant]
-*#rərˈunkj# | 325 : n > r / r [+syl] __ [+syl] n
-Final form : *#rərˈunkj#
+#sˈinum# >>> *#sˈin# ( GOLD : #sˈɨn#) :
+s ˈi n u m 
+*#sˈinu# | 45 : m > ∅ / [-stres] __ #
+*#sˈenu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#sˈenu#
+Common Romanian stage form : *#sˈenu#
+*#sˈinu# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#sˈinw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈin# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#sˈin#
