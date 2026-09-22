@@ -1,14 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 299:
-#ˌekstˌemperˈaː# >>> *#stimpərˈa# ( GOLD : #stɨmpərˈa#) :
-ˌe k s t ˌe m p e r ˈaː 
-*#ekstemperˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#estemperˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estemperˈa# | 137 : [+syl] > [-long,-splng] 
-*#stemperˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stemperˈa#
-*#stempeɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#stempeɾˈa#
-*#stempəɾˈa# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#stimpəɾˈa# | 263 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#stimpərˈa# | 275 : ɾ > r 
-Final form : *#stimpərˈa#
+#ˌekspˌawiːmentˈaː# >>> *#spemɨntˈa# ( GOLD : #spəjmɨntˈa#) :
+ˌe k s p ˌa w iː m e n t ˈaː 
+*#ekspawiːmentˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekspaβiːmentˈaː# | 101 : w > β / __ [-cons]
+*#espaβiːmentˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espaβimentˈa# | 137 : [+syl] > [-long,-splng] 
+*#spaβimentˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#spaimentˈa# | 162 : β > ∅ 
+*#spamentˈa# | 163 : [+syl,-stres] > ∅ / a __
+Balkan Romance stage form : *#spamentˈa#
+*#spəmentˈa# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#spəmentˈa#
+*#spəməntˈa# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#speməntˈa# | 276 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
+*#spemɨntˈa# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Final form : *#spemɨntˈa#

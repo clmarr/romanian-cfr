@@ -1,18 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 839:
-#kwˌiˈeːtum# >>> *#t͡ʃˈet# ( GOLD : #t͡ʃˈet#) :
-k w ˌi ˈeː t u m 
-*#kwiˈeːtum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwiˈeːtu# | 45 : m > ∅ / [-stres] __ #
-*#kβiˈeːtu# | 101 : w > β / __ [-cons]
-*#kβjˈeːtu# | 130 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#kβjˈetu# | 137 : [+syl] > [-long,-splng] 
-*#kjˈetu# | 162 : β > ∅ 
-*#kʲjˈetu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲjˈetu#
-*#kʲˈetu# | 221 : j > ∅ / [+cons,+front] __
-*#c͡ɕˈetu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃˈetu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃˈetu#
-*#t͡ʃˈetw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡ʃˈet# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#t͡ʃˈet#
+#nˈitidum# >>> *#nˈeted# ( GOLD : #nˈeted#) :
+n ˈi t i d u m 
+*#nˈitidu# | 45 : m > ∅ / [-stres] __ #
+*#nˈetedu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#nˈetedu#
+*#nˈɛtedu# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈɛatedu# | 228 : ∅ > a / [-tense] __
+*#nˈeˈatedu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ne̯ˈatedu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ne̯ˈatedu#
+*#nˈetedu# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#nˈetedw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nˈeted# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#nˈeted#

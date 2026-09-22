@@ -1,19 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 446:
-#kooperiːmˈentum# >>> *#koperimˈɨnt# ( GOLD : #koperəmˈɨnt#) :
-k o o p e r iː m ˈe n t u m 
-*#kwoperiːmˈentum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kwoperiːmˈentu# | 45 : m > ∅ / [-stres] __ #
-*#kβoperiːmˈentu# | 101 : w > β / __ [-cons]
-*#kβoperiːmˈɛntu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kβoperimˈɛntu# | 137 : [+syl] > [-long,-splng] 
-*#koperimˈɛntu# | 162 : β > ∅ 
-Balkan Romance stage form : *#koperimˈɛntu#
-*#kopeɾimˈɛntu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kopeɾimˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#kopeɾimˈentu#
-*#kopeɾimˈəntu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#koperimˈəntu# | 275 : ɾ > r 
-*#koperimˈɨntu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#koperimˈɨntw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#koperimˈɨnt# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#koperimˈɨnt#
+#kellˈaːrium# >>> *#t͡ʃelˈar# ( GOLD : #t͡ʃelˈar#) :
+k e l l ˈaː r i u m 
+*#kellˈaːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kellˈaːrju# | 45 : m > ∅ / [-stres] __ #
+*#kellˈarju# | 137 : [+syl] > [-long,-splng] 
+*#kʲellˈarju# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲellˈarju#
+*#kʲellˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
+*#kʲelˈaɾju# | 219 : {l l;m m} > {l;m} 
+*#kʲelˈaɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kʲelˈaɾʲu# | 221 : j > ∅ / [+cons,+front] __
+*#kʲelˈajɾu# | 243 : ɾʲ > j ɾ / @ [+prim] __
+*#c͡ɕelˈajɾu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃelˈajɾu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃelˈajɾu#
+*#t͡ʃelˈajru# | 275 : ɾ > r 
+*#t͡ʃelˈajrw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃelˈajr# | 303 : w̥ > ∅ / [-syl] __ #
+*#t͡ʃelˈar# | 309 : j > ∅ / __ r
+Final form : *#t͡ʃelˈar#
