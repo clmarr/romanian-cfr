@@ -1,23 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 686:
-#rhˌonkidiˈaː# >>> *#runkezˈa# ( GOLD : #rɨnkezˈa#) :
-r h ˌo n k i d i ˈaː 
-*#rhˌonkidjˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#rhonkidjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ronkidjˈaː# | 41 : h > ∅ 
-*#ronkiddjˈaː# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ronkeddjˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#ronkeddjˈa# | 137 : [+syl] > [-long,-splng] 
-*#ronkeddʲˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ronkedʲˈa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ronkʲedʲˈa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#ronkʲedʲˈa#
-*#ɾonkʲedʲˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾonkʲedʲˈa# | 174 : ∅ > r / # __ ɾ
-*#rɾunkʲedʲˈa# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#rɾunkedʲˈa# | 224 : [+back,+front] [+syl] > [-front] [-hi]/ [+cor,+son] [+syl] ( n ) __ ( [+voi,-syl] ) [+prim,-round,-hi]
-*#rɾunked͡zʲˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾunked͡zˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾunked͡zˈa#
-*#runked͡zˈa# | 256 : {ɾ;r} > {∅;∅} / r __
-*#runkezˈa# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#runkezˈa#
+#urtˈiːkam# >>> *#urt͡sˈɨkə# ( GOLD : #urzˈikə#) :
+u r t ˈiː k a m 
+*#urtˈiːka# | 45 : m > ∅ / [-stres] __ #
+*#urtˈika# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#urtˈika#
+*#urtjˈika# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#urtʲjˈika# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#urtʲˈika# | 221 : j > ∅ / [+cons,+front] __
+*#urtʲˈikə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#urt͡sʲˈikə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#urt͡sˈikə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#urt͡sˈikə#
+*#urt͡sˈɨkə# | 328 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
+Final form : *#urt͡sˈɨkə#

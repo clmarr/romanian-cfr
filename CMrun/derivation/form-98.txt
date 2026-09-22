@@ -1,15 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 98:
-#kˌapˈistrum# >>> *#kəpˈəstru# ( GOLD : #kəpˈəstru#) :
-k ˌa p ˈi s t r u m 
-*#kapˈistrum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kapˈistru# | 45 : m > ∅ / [-stres] __ #
-*#kapˈestru# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#kapˈestru#
-*#kapˈestɾu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kəpˈestɾu# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kəpˈestɾu#
-*#kəpˈəstɾu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#kəpˈəstru# | 275 : ɾ > r 
-*#kəpˈəstrw# | 301 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#kəpˈəstru# | 305 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-Final form : *#kəpˈəstru#
+#kˌantikˈellum# >>> *#kɨntet͡ʃˈel# ( GOLD : #kɨntet͡ʃˈel#) :
+k ˌa n t i k ˈe l l u m 
+*#kantikˈellum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kantikˈellu# | 45 : m > ∅ / [-stres] __ #
+*#kantikˈɛllu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kantekˈɛllu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#kantekʲˈɛllu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kantekʲˈɛllu#
+*#kantekʲjˈɛllu# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
+*#kantekʲjˈellu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kantekʲjˈelu# | 219 : {l l;m m} > {l;m} 
+*#kantekʲˈelu# | 221 : j > ∅ / [+cons,+front] __
+*#kəntekʲˈelu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#kəntec͡ɕˈelu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#kəntet͡ʃˈelu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kəntet͡ʃˈelu#
+*#kɨntet͡ʃˈelu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#kɨntet͡ʃˈelw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kɨntet͡ʃˈel# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#kɨntet͡ʃˈel#

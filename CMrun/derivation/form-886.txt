@@ -1,16 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 886:
-#improːmuːtuˈaː# >>> *#ɨmprumutˈa# ( GOLD : #ɨmprumutˈa#) :
-i m p r oː m uː t u ˈaː 
-*#improːmuːtwˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#improːmuːtβˈaː# | 101 : w > β / __ [-cons]
-*#emproːmuːtβˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#empromutβˈa# | 137 : [+syl] > [-long,-splng] 
-*#empromutˈa# | 162 : β > ∅ 
-Balkan Romance stage form : *#empromutˈa#
-*#empɾomutˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#empɾumutˈa# | 185 : o > u / __ ( [+cons,+lab,+voi] ) [+syl]
-Common Romanian stage form : *#empɾumutˈa#
-*#impɾumutˈa# | 263 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#imprumutˈa# | 275 : ɾ > r 
-*#ɨmprumutˈa# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨmprumutˈa#
+#kˈohortem# >>> *#ko̯ˈarte# ( GOLD : #kˈurte#) :
+k ˈo h o r t e m 
+*#kˈoortem# | 41 : h > ∅ 
+*#kˈoorte# | 45 : m > ∅ / [-stres] __ #
+*#koˈoːrte# | 124 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#kuˈoːrte# | 125 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+*#kwˈoːrte# | 130 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#kwˈorte# | 137 : [+syl] > [-long,-splng] 
+*#kˈorte# | 144 : w > ∅ / __ [+syl]
+Balkan Romance stage form : *#kˈorte#
+*#kˈɔrte# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kˈɔarte# | 228 : ∅ > a / [-tense] __
+*#kˈoˈarte# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ko̯ˈarte# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ko̯ˈarte#
+Final form : *#ko̯ˈarte#

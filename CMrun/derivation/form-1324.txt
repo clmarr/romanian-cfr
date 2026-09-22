@@ -1,15 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1324:
-#fˈakiam# >>> *#fˈat͡sə# ( GOLD : #fˈat͡sə#) :
-f ˈa k i a m 
-*#fˈakjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#fˈakja# | 45 : m > ∅ / [-stres] __ #
-*#fˈakkja# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#fˈaktʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#fˈattʲa# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#fˈatʲa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#fˈatʲa#
-*#fˈatʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fˈat͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fˈat͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fˈat͡sə#
-Final form : *#fˈat͡sə#
+#pˈektinem# >>> *#pjˈeptine# ( GOLD : #pjˈeptene#) :
+p ˈe k t i n e m 
+*#pˈektine# | 45 : m > ∅ / [-stres] __ #
+*#pˈeptine# | 113 : k > p / __ t
+*#pˈɛptine# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛptene# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛptene#
+*#pjˈɛptene# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#pjˈeptene# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛptene# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛaptene# | 228 : ∅ > a / [-tense] __
+*#pjˈeˈaptene# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈaptene# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#pje̯ˈaptene#
+*#pjˈeptene# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈeptine# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+Final form : *#pjˈeptine#

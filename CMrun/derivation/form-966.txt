@@ -1,18 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 966:
-#dˌeːˌekkeˈinde# >>> *#det͡ʃˈinde# ( GOLD : #det͡ʃˈinde#) :
-d ˌeː ˌe k k e ˈi n d e 
-*#dˌeːkkeˈinde# | 4 : [+syl,-long] > ∅ / [+syl,+long] __
-*#dˌeːkkjˈinde# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#deːkkjˈinde# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#deːkkjˈende# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#dekkjˈende# | 137 : [+syl] > [-long,-splng] 
-*#dektʲˈende# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dettʲˈende# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#detkʲˈende# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#dekʲˈende# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#dekʲˈende#
-*#dec͡ɕˈende# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#det͡ʃˈende# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#det͡ʃˈende#
-*#det͡ʃˈinde# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Final form : *#det͡ʃˈinde#
+#wˈenetum# >>> *#vˈinət# ( GOLD : #vˈɨnət#) :
+w ˈe n e t u m 
+*#wˈenetu# | 45 : m > ∅ / [-stres] __ #
+*#βˈenetu# | 101 : w > β / __ [-cons]
+*#βˈɛnetu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛnetu# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛnetu#
+*#vjˈɛnetu# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#vjˈenetu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#vjˈenetu#
+*#vˈenetu# | 251 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+*#vˈinetu# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#vˈinətu# | 291 : e > ə / [-back] n __ t
+*#vˈinətw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈinət# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#vˈinət#

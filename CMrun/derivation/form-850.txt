@@ -1,17 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 850:
-#strˈinktum# >>> *#strˈimt# ( GOLD : #strˈɨmt#) :
-s t r ˈi n k t u m 
-*#strˈinktu# | 45 : m > ∅ / [-stres] __ #
-*#strˈintu# | 109 : [-cont] > ∅ / [+cons] __ [-son,-voi]
-*#istrˈintu# | 122 : ∅ > i / # __ s [+cons,-son]
-*#estrˈentu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#strˈentu# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#strˈemtu# | 170 : n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
-Balkan Romance stage form : *#strˈemtu#
-*#stɾˈemtu# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#stɾˈemtu#
-*#stɾˈimtu# | 263 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#strˈimtu# | 275 : ɾ > r 
-*#strˈimtw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#strˈimt# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#strˈimt#
+#ˈasperum# >>> *#ˈasper# ( GOLD : #ˈaspru#) :
+ˈa s p e r u m 
+*#ˈasperu# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈasperu#
+*#ˈaspeɾu# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#ˈaspeɾu#
+*#ˈaspəɾu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#ˈaspəru# | 275 : ɾ > r 
+*#ˈasperu# | 280 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( [-cons,-syl,-round] ) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
+*#ˈasperw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈasper# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#ˈasper#

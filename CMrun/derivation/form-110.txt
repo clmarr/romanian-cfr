@@ -1,17 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 110:
-#kˌottidiˈaː# >>> *#kutezˈa# ( GOLD : #kutezˈa#) :
-k ˌo t t i d i ˈaː 
-*#kˌottidjˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kottidjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kottiddjˈaː# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#kotteddjˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#kotteddjˈa# | 137 : [+syl] > [-long,-splng] 
-*#kotteddʲˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#kotedʲˈa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#kotedʲˈa#
-*#kutedʲˈa# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
-*#kuted͡zʲˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#kuted͡zˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kuted͡zˈa#
-*#kutezˈa# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#kutezˈa#
+#kˈorwum# >>> *#kˈorb# ( GOLD : #kˈorb#) :
+k ˈo r w u m 
+*#kˈorwu# | 45 : m > ∅ / [-stres] __ #
+*#kˈorβu# | 101 : w > β / __ [-cons]
+*#kˈorbu# | 158 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+Balkan Romance stage form : *#kˈorbu#
+Common Romanian stage form : *#kˈorbu#
+*#kˈorbw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈorb# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#kˈorb#

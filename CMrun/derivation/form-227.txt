@@ -1,20 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 227:
-#tˈitiam# >>> *#t͡sˈɨt͡sə# ( GOLD : #t͡sˈɨt͡sə#) :
-t ˈi t i a m 
-*#tˈitjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#tˈitja# | 45 : m > ∅ / [-stres] __ #
-*#tˈittja# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#tˈettja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#tˈittja# | 136 : [+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
-*#tˈittʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#tˈitʲa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#tˈitʲa#
-*#tjˈitʲa# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#tʲjˈitʲa# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tʲˈitʲa# | 221 : j > ∅ / [+cons,+front] __
-*#tʲˈitʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#t͡sʲˈit͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡sˈit͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡sˈit͡sə#
-*#t͡sˈɨt͡sə# | 328 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
-Final form : *#t͡sˈɨt͡sə#
+#mˌinuːtˈaliam# >>> *#məruntˈaje# ( GOLD : #məruntˈaje#) :
+m ˌi n uː t ˈa l i a m 
+*#mˌinuːtˈaljam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#minuːtˈaljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#minuːtˈalja# | 45 : m > ∅ / [-stres] __ #
+*#menuːtˈalja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#menutˈalja# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#menutˈalja#
+*#menutˈalʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#menutˈalʲa# | 221 : j > ∅ / [+cons,+front] __
+*#menutˈaʎa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#menutˈaʎə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#menutˈaʎe# | 242 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#menutˈaʎe#
+*#menuntˈaʎe# | 252 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#mənuntˈaʎe# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#məruntˈaʎe# | 258 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#məruntˈaje# | 288 : [+son,+cons,+front] > j 
+Final form : *#məruntˈaje#

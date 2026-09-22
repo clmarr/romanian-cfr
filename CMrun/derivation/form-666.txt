@@ -1,18 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 666:
-#ˌanimˈaːliam# >>> *#nemˈaje# ( GOLD : #nəmˈaje#) :
-ˌa n i m ˈaː l i a m 
-*#ˌanimˈaːljam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#animˈaːljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#nimˈaːljam# | 40 : [+syl,-prim] > ∅ / # __ [+son] i
-*#nimˈaːlja# | 45 : m > ∅ / [-stres] __ #
-*#nemˈaːlja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#nemˈalja# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#nemˈalja#
-*#nemˈalʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#nemˈalʲa# | 221 : j > ∅ / [+cons,+front] __
-*#nemˈaʎa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#nemˈaʎə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#nemˈaʎe# | 242 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#nemˈaʎe#
-*#nemˈaje# | 288 : [+son,+cons,+front] > j 
-Final form : *#nemˈaje#
+#pˈepinem# >>> *#pˈepine# ( GOLD : #pˈepene#) :
+p ˈe p i n e m 
+*#pˈepine# | 45 : m > ∅ / [-stres] __ #
+*#pˈɛpine# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛpene# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛpene#
+*#pjˈɛpene# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#pjˈepene# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛpene# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛapene# | 228 : ∅ > a / [-tense] __
+*#pjˈeˈapene# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈapene# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#pje̯ˈapene#
+*#pjˈepene# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈepine# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#pˈepine# | 268 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+Final form : *#pˈepine#

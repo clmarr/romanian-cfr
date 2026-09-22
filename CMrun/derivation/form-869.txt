@@ -1,21 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 869:
-#juːdˈikium# >>> *#ʒudˈet͡s# ( GOLD : #ʒudˈet͡s#) :
-j uː d ˈi k i u m 
-*#juːdˈikjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juːdˈikju# | 45 : m > ∅ / [-stres] __ #
-*#djuːdˈikju# | 106 : j > d j / # __ [+syl] [+cons]
-*#djuːdˈikkju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#djuːdˈekkju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#djudˈekkju# | 137 : [+syl] > [-long,-splng] 
-*#dʲudˈektʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲudˈettʲu# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#ɡʲudˈettʲu# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲudˈetʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɡʲudˈetʲu#
-*#ɟ͡ʑudˈet͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒudˈet͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒudˈet͡su#
-*#ʒudˈet͡su# | 295 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒudˈet͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒudˈet͡s# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#ʒudˈet͡s#
+#kwˌiˈeːtum# >>> *#t͡ʃˈet# ( GOLD : #t͡ʃˈet#) :
+k w ˌi ˈeː t u m 
+*#kwiˈeːtum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kwiˈeːtu# | 45 : m > ∅ / [-stres] __ #
+*#kβiˈeːtu# | 101 : w > β / __ [-cons]
+*#kβjˈeːtu# | 130 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#kβjˈetu# | 137 : [+syl] > [-long,-splng] 
+*#kjˈetu# | 162 : β > ∅ 
+*#kʲjˈetu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲjˈetu#
+*#kʲˈetu# | 221 : j > ∅ / [+cons,+front] __
+*#c͡ɕˈetu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃˈetu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃˈetu#
+*#t͡ʃˈetw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃˈet# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#t͡ʃˈet#

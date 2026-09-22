@@ -1,16 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 974:
-#hˈaːkdˈieː# >>> *#ˈaze# ( GOLD : #ˈazj#) :
-h ˈaː k d ˈi eː 
-*#hˈaːkdieː# | 7 : [+prim] > [-stres,-prim,+syl,+son] / [+prim] ( [-syl] )* __
-*#hˈaːkdjeː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ˈaːkdjeː# | 41 : h > ∅ 
-*#ˈakdje# | 137 : [+syl] > [-long,-splng] 
-*#ˈakdʲe# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ˈaddʲe# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#ˈadʲe# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ˈadʲe#
-*#ˈad͡zʲe# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ˈad͡ze# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ˈad͡ze#
-*#ˈaze# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#ˈaze#
+#ferwˈentem# >>> *#ferbˈinte# ( GOLD : #fjerbˈinte#) :
+f e r w ˈe n t e m 
+*#ferwˈente# | 45 : m > ∅ / [-stres] __ #
+*#ferβˈente# | 101 : w > β / __ [-cons]
+*#ferβˈɛnte# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ferbˈɛnte# | 158 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+Balkan Romance stage form : *#ferbˈɛnte#
+*#ferbˈente# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#ferbˈente#
+*#ferbˈinte# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Final form : *#ferbˈinte#

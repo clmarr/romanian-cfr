@@ -1,15 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 958:
-#stˈinɡwe# >>> *#stˈind͡ʒe# ( GOLD : #stˈind͡ʒe#) :
-s t ˈi n ɡ w e 
-*#stˈinɡβe# | 101 : w > β / __ [-cons]
-*#istˈinɡβe# | 122 : ∅ > i / # __ s [+cons,-son]
-*#estˈenɡβe# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#stˈenɡβe# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#stˈenɡe# | 162 : β > ∅ 
-*#stˈenɡʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#stˈenɡʲe#
-*#stˈenɟ͡ʑe# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#stˈend͡ʒe# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#stˈend͡ʒe#
-*#stˈind͡ʒe# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Final form : *#stˈind͡ʒe#
+#jokˈaː# >>> *#ʒukˈa# ( GOLD : #ʒukˈa#) :
+j o k ˈaː 
+*#djokˈaː# | 106 : j > d j / # __ [+syl] [+cons]
+*#djokˈa# | 137 : [+syl] > [-long,-splng] 
+*#dʲokˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲokˈa# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#ɡʲokˈa#
+*#ɡʲukˈa# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
+*#ɟ͡ʑukˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒukˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒukˈa#
+*#ʒukˈa# | 295 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Final form : *#ʒukˈa#

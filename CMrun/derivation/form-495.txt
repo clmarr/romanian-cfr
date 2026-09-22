@@ -1,16 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 495:
-#wˈiduum# >>> *#vˈəduv# ( GOLD : #vˈəduv#) :
-w ˈi d u u m 
-*#wˈiduwm# | 2 : [+syl,-long,-stres,+hi] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+syl,+hi,+back] __
-*#wˈiduwn# | 46 : m > n / __ #
-*#wˈiduw# | 90 : [+nas] > ∅ / @ [-cons] __ #
-*#βˈiduw# | 101 : w > β / __ [-cons]
-*#βˈiduβ# | 102 : w > β / __ #
-*#βˈeduβ# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#vˈeduβ# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vˈeduw̥# | 160 : β > w̥ / __ #
-Balkan Romance stage form : *#vˈeduw̥#
-*#vˈeduv# | 238 : [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
-Common Romanian stage form : *#vˈeduv#
-*#vˈəduv# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-Final form : *#vˈəduv#
+#ɡˈeminum# >>> *#d͡ʒe̯ˈamɨn# ( GOLD : #d͡ʒe̯ˈamən#) :
+ɡ ˈe m i n u m 
+*#ɡˈeminu# | 45 : m > ∅ / [-stres] __ #
+*#ɡˈɛminu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈɛmenu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#ɡʲˈɛmenu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ɡʲˈɛmenu#
+*#ɡʲjˈɛmenu# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#ɡʲjˈemenu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ɡʲjˈɛmenu# | 211 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
+*#ɡʲˈɛmenu# | 221 : j > ∅ / [+cons,+front] __
+*#ɡʲˈɛamenu# | 228 : ∅ > a / [-tense] __
+*#ɡʲˈeˈamenu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɡʲe̯ˈamenu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ɟ͡ʑe̯ˈamenu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒe̯ˈamenu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒe̯ˈamenu#
+*#d͡ʒe̯ˈamənu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#d͡ʒe̯ˈamɨnu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#d͡ʒe̯ˈamɨnw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#d͡ʒe̯ˈamɨn# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#d͡ʒe̯ˈamɨn#

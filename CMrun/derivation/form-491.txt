@@ -1,18 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 491:
-#spˈurium# >>> *#spˈur# ( GOLD : #spˈur#) :
-s p ˈu r i u m 
-*#spˈurjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#spˈurju# | 45 : m > ∅ / [-stres] __ #
-*#ispˈurju# | 122 : ∅ > i / # __ s [+cons,-son]
-*#espˈurju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#spˈurju# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spˈurju#
-*#spˈuɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#spˈuɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#spˈuɾʲu# | 221 : j > ∅ / [+cons,+front] __
-*#spˈuɾu# | 225 : ɾʲ > ɾ / [+hi] __
-Common Romanian stage form : *#spˈuɾu#
-*#spˈuru# | 275 : ɾ > r 
-*#spˈurw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#spˈur# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#spˈur#
+#amitˈusiam# >>> *#mətˈuʃə# ( GOLD : #mətˈuʃə#) :
+a m i t ˈu s i a m 
+*#amitˈusjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mitˈusjam# | 40 : [+syl,-prim] > ∅ / # __ [+son] i
+*#mitˈusja# | 45 : m > ∅ / [-stres] __ #
+*#metˈusja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#metˈusja#
+*#metˈusʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#metˈusʲa# | 221 : j > ∅ / [+cons,+front] __
+*#metˈuɕa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#metˈuɕə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#metˈuʃə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#metˈuʃə#
+*#mətˈuʃə# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+Final form : *#mətˈuʃə#

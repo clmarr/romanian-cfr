@@ -1,13 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 773:
-#lˌumbrˈiːkum# >>> *#lumbrˈik# ( GOLD : #limbrˈik#) :
-l ˌu m b r ˈiː k u m 
-*#lumbrˈiːkum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#lumbrˈiːku# | 45 : m > ∅ / [-stres] __ #
-*#lumbrˈiku# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#lumbrˈiku#
-*#lumbɾˈiku# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#lumbɾˈiku#
-*#lumbrˈiku# | 275 : ɾ > r 
-*#lumbrˈikw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lumbrˈik# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#lumbrˈik#
+#mˈerulam# >>> *#mjˈerlə# ( GOLD : #mjˈerlə#) :
+m ˈe r u l a m 
+*#mˈerula# | 45 : m > ∅ / [-stres] __ #
+*#mˈerla# | 68 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#mˈɛrla# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛrla#
+*#mjˈɛrla# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#mjˈerla# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrla# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈerla# | 227 : [-tense] > [+tense,-cons,-lat,+cont,0delrel] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
+*#mjˈerlə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mjˈerlə#
+Final form : *#mjˈerlə#

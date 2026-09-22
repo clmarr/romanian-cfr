@@ -1,22 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 82:
-#bˌaptidiˈoːnem# >>> *#buteʒˈune# ( GOLD : #boteʒˈune#) :
-b ˌa p t i d i ˈoː n e m 
-*#bˌaptidjˈoːnem# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#baptidjˈoːnem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#baptidjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#boptidjˈoːne# | 98 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
-*#botidjˈoːne# | 100 : p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
-*#botiddjˈoːne# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#boteddjˈoːne# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#boteddjˈone# | 137 : [+syl] > [-long,-splng] 
-*#boteddʲˈone# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#botedɡʲˈone# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#boteɡʲˈone# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#boteɡʲˈone#
-*#buteɡʲˈone# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
-*#buteɡʲˈune# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#buteɟ͡ʑˈune# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#buted͡ʒˈune# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#buted͡ʒˈune#
-*#buteʒˈune# | 295 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Final form : *#buteʒˈune#
+#ˌaːrsˈuːram# >>> *#arsˈurə# ( GOLD : #arsˈurə#) :
+ˌaː r s ˈuː r a m 
+*#aːrsˈuːram# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aːrsˈuːra# | 45 : m > ∅ / [-stres] __ #
+*#arsˈura# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#arsˈura#
+*#arsˈuɾa# | 173 : r > ɾ / __ [nnas,ncons]
+*#arsˈuɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#arsˈuɾə#
+*#arsˈurə# | 275 : ɾ > r 
+Final form : *#arsˈurə#
