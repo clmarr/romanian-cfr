@@ -1,21 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 653:
-#ˌarmissˈaːrium# >>> *#arməsˈar# ( GOLD : #arməsˈar#) :
-ˌa r m i s s ˈaː r i u m 
-*#ˌarmissˈaːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#armissˈaːrjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#armissˈaːrju# | 45 : m > ∅ / [-stres] __ #
-*#armessˈaːrju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#armessˈarju# | 137 : [+syl] > [-long,-splng] 
-*#armesˈarju# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#armesˈarju#
-*#aɾmesˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾmesˈaɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#aɾmesˈaɾʲu# | 221 : j > ∅ / [+cons,+front] __
-*#aɾmesˈajɾu# | 243 : ɾʲ > j ɾ / @ [+prim] __
-Common Romanian stage form : *#aɾmesˈajɾu#
-*#aɾməsˈajɾu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#arməsˈajru# | 275 : ɾ > r 
-*#arməsˈajrw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#arməsˈajr# | 303 : w̥ > ∅ / [-syl] __ #
-*#arməsˈar# | 309 : j > ∅ / __ r
-Final form : *#arməsˈar#
+#ˌannˈoːtinum# >>> *#no̯ˈatin# ( GOLD : #no̯ˈaten#) :
+ˌa n n ˈoː t i n u m 
+*#annˈoːtinum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#annˈoːtinu# | 45 : m > ∅ / [-stres] __ #
+*#nnˈoːtinu# | 119 : a > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
+*#nnˈoːtenu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#nnˈotenu# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#nnˈotenu#
+*#nnˈɔtenu# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nnˈɔatenu# | 228 : ∅ > a / [-tense] __
+*#nnˈoˈatenu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#nno̯ˈatenu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#nno̯ˈatenu#
+*#nno̯ˈatinu# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#no̯ˈatinu# | 272 : n n > n 
+*#no̯ˈatinw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#no̯ˈatin# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#no̯ˈatin#

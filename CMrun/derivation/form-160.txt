@@ -1,14 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 160:
-#pˌaːwˈoːnem# >>> *#pəˈun# ( GOLD : #pəˈun#) :
-p ˌaː w ˈoː n e m 
-*#paːwˈoːnem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#paːwˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#paːβˈoːne# | 101 : w > β / __ [-cons]
-*#paβˈone# | 137 : [+syl] > [-long,-splng] 
-*#paˈone# | 162 : β > ∅ 
-Balkan Romance stage form : *#paˈone#
-*#paˈune# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#pəˈune# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pəˈun# | 249 : e > ∅ / [+syl] [+prim] [+cons] __ #
-Common Romanian stage form : *#pəˈun#
-Final form : *#pəˈun#
+#pˌekˈulium# >>> *#pəkˈuj# ( GOLD : #pəkˈuj#) :
+p ˌe k ˈu l i u m 
+*#pˌekˈuljum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#pekˈuljum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#pekˈulju# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#pekˈulju#
+*#pekˈulʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#pekˈulʲu# | 221 : j > ∅ / [+cons,+front] __
+*#pekˈuʎu# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#pekˈuʎu#
+*#pəkˈuʎu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəkˈuju# | 288 : [+son,+cons,+front] > j 
+*#pəkˈujw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəkˈuj# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#pəkˈuj#
