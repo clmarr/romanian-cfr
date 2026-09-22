@@ -1,19 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 463:
-#skˈorteam# >>> *#sko̯ˈart͡sə# ( GOLD : #sko̯ˈart͡sə#) :
-s k ˈo r t e a m 
-*#skˈortjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#skˈortja# | 45 : m > ∅ / [-stres] __ #
-*#iskˈortja# | 122 : ∅ > i / # __ s [+cons,-son]
-*#eskˈortja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#skˈortja# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#skˈortʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#skˈortʲa#
-*#skˈɔrtʲa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#skˈɔartʲa# | 228 : ∅ > a / [-tense] __
-*#skˈoˈartʲa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#sko̯ˈartʲa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#sko̯ˈartʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#sko̯ˈart͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#sko̯ˈart͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#sko̯ˈart͡sə#
-Final form : *#sko̯ˈart͡sə#
+#kapitˈaːneum# >>> *#kəpətˈɨj# ( GOLD : #kəpətˈɨj#) :
+k a p i t ˈaː n e u m 
+*#kapitˈaːnjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kapitˈaːnju# | 45 : m > ∅ / [-stres] __ #
+*#kapetˈaːnju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#kapetˈanju# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kapetˈanju#
+*#kapetˈanʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kapetˈanʲu# | 221 : j > ∅ / [+cons,+front] __
+*#kapetˈaɲu# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#kapetˈəɲu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#kəpetˈəɲu# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kəpetˈəɲu#
+*#kəpətˈəɲu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#kəpətˈɨɲu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#kəpətˈɨju# | 288 : [+son,+cons,+front] > j 
+*#kəpətˈɨjw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kəpətˈɨj# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#kəpətˈɨj#

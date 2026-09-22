@@ -1,20 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 421:
-#kˌarnˈakeum# >>> *#kərnˈat͡s# ( GOLD : #kɨrnˈat͡s#) :
-k ˌa r n ˈa k e u m 
-*#kˌarnˈakjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#karnˈakjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#karnˈakju# | 45 : m > ∅ / [-stres] __ #
-*#karnˈakkju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#karnˈaktʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#karnˈattʲu# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#karnˈatʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#karnˈatʲu#
-*#kaɾnˈatʲu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kəɾnˈatʲu# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəɾnˈat͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#kəɾnˈat͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kəɾnˈat͡su#
-*#kərnˈat͡su# | 275 : ɾ > r 
-*#kərnˈat͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kərnˈat͡s# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#kərnˈat͡s#
+#prˈandium# >>> *#prˈɨnz# ( GOLD : #prˈɨnz#) :
+p r ˈa n d i u m 
+*#prˈandjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#prˈandju# | 45 : m > ∅ / [-stres] __ #
+*#prˈandʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+Balkan Romance stage form : *#prˈandʲu#
+*#pɾˈandʲu# | 173 : r > ɾ / __ [nnas,ncons]
+*#pɾˈəndʲu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pɾˈənd͡zʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pɾˈənd͡zu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pɾˈənd͡zu#
+*#prˈənd͡zu# | 275 : ɾ > r 
+*#prˈɨnd͡zu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#prˈɨnzu# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#prˈɨnzw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#prˈɨnz# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#prˈɨnz#

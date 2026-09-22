@@ -1,10 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1025:
-#bˈattue# >>> *#bˈate# ( GOLD : #bˈate#) :
-b ˈa t t u e 
-*#bˈattwe# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#bˈattβe# | 101 : w > β / __ [-cons]
-*#bˈatte# | 162 : β > ∅ 
-*#bˈate# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#bˈate#
-Common Romanian stage form : *#bˈate#
-Final form : *#bˈate#
+#ˌadreːktˈaː# >>> *#arəptˈa# ( GOLD : #arətˈa#) :
+ˌa d r eː k t ˈaː 
+*#adreːktˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#arreːktˈaː# | 35 : d > r / [+syl,+lo] __ r
+*#arreːptˈaː# | 113 : k > p / __ t
+*#arreptˈa# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#arreptˈa#
+*#arɾeptˈa# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#arɾeptˈa#
+*#areptˈa# | 256 : {ɾ;r} > {∅;∅} / r __
+*#arəptˈa# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Final form : *#arəptˈa#

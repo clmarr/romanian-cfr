@@ -1,13 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1196:
-#ˌinkolikˈaː# >>> *#ɨnkulkˈa# ( GOLD : #ɨnkurkˈa#) :
-ˌi n k o l i k ˈaː 
-*#inkolikˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkolkˈaː# | 65 : [+syl,+hi,-long,-stres] > ∅ / [+syl,-front] l __ [+cons] [+syl,+lo]
-*#enkolkˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkolkˈa# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkolkˈa#
-*#enkulkˈa# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-Common Romanian stage form : *#enkulkˈa#
-*#inkulkˈa# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnkulkˈa# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnkulkˈa#
+#fustikˈellum# >>> *#fuʃtˈel# ( GOLD : #fuʃtˈel#) :
+f u s t i k ˈe l l u m 
+*#fustikˈellu# | 45 : m > ∅ / [-stres] __ #
+*#fustkˈellu# | 73 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
+*#fuskˈellu# | 109 : [-cont] > ∅ / [+cons] __ [-son,-voi]
+*#fuskˈɛllu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fuskʲˈɛllu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#fuskʲˈɛllu#
+*#fuskʲˈellu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fuskʲˈelu# | 219 : {l l;m m} > {l;m} 
+*#fuʃtˈelu# | 245 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#fuʃtˈelu#
+*#fuʃtˈelw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fuʃtˈel# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#fuʃtˈel#

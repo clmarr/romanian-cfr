@@ -944,6 +944,8 @@ $ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tă
 		$ CM 9/18/26 -- now before palatals proper, not before affricates per se.
 	i > e / [+cons] __ [+cons,+front]
 
+	$ CM 9/22/26 -- final -dV lost if V is unstressed and is after unstressed
+
 $ R40 Diphthonɡization of [i]: [i] > [yi]
 	$∅ > j / [+cons] __ [+syl,+front,+hi]
 	$ EDIT: only occurs after obstruents and [l]
@@ -1003,13 +1005,12 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 			nʲ > n / # ((@)* [-nas]) __ [+front,-lo] [-nas]
 
 
-		$ coronal palatal depalatalization 
+		$ CM 9/18/26  coronal palatal depalatalization 
 	[+cor,-son,+front] > [-front,-hi] / [alo,-around] (n) __ i [nnas,ncont] [+prim,-round,-hi]
 			$ TODO need to expand this somehow to depalatalize radicula>ridiche
 
-		$ velars specifically (???) after ra (N) 
-			$ TODO need to work on this one. Very sus as it is :(. Looks way less nice than expected. needs to have a u > a rule beforehand?? 
-	[+back,+front] > [-front] / ɾ [alo,-around] (n) __ [+front,-lo] (n) ([-cont,-lab]) [+prim,-round,-hi]
+		$ CM 9/18/26  velars specifically, with concimittant lowering (???) after Ra (N) __ (Cvoi) ˈV -- trăgăna legăna runcheza. 
+	[+back,+front] [+syl] > [-front] [-hi] / [+cor,+son] [+syl] (n) __ ([+voi,-syl]) [+prim,-round,-hi]
 
 		$ NSP 9/20/26: ɾʲ depalatalizes after a [+hi] segment
 			$ ([i] and [k] treated as natural class; outcomes after [(ˈ)u] happen to be identical regardless of depalatalization under current cascade)
