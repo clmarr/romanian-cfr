@@ -1,16 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1087:
-#inkarrikatˈuːram# >>> *#ɨnkərkətˈurə# ( GOLD : #ɨnkərkətˈurə#) :
-i n k a r r i k a t ˈuː r a m 
-*#inkarrikatˈuːra# | 45 : m > ∅ / [-stres] __ #
-*#inkarrkatˈuːra# | 69 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
-*#enkarrkatˈuːra# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkarrkatˈura# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkarrkatˈura#
-*#enkarrkatˈuɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#enkərrkətˈuɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#enkərrkətˈuɾə#
-*#enkərkətˈuɾə# | 256 : {ɾ;r} > {∅;∅} / r __
-*#inkərkətˈuɾə# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inkərkətˈurə# | 275 : ɾ > r 
-*#ɨnkərkətˈurə# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnkərkətˈurə#
+#pˈedikam# >>> *#pjˈedikə# ( GOLD : #pjˈedikə#) :
+p ˈe d i k a m 
+*#pˈedika# | 45 : m > ∅ / [-stres] __ #
+*#pˈɛdika# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛdeka# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛdeka#
+*#pjˈɛdeka# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#pjˈedeka# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛdeka# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛadeka# | 228 : ∅ > a / [-tense] __
+*#pjˈeˈadeka# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈadeka# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pje̯ˈadekə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pje̯ˈadekə#
+*#pjˈedekə# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈedikə# | 310 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
+Final form : *#pjˈedikə#
