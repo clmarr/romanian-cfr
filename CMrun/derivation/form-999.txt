@@ -1,18 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 999:
-#erraːtikˈiː# >>> *#rətət͡ʃˈi# ( GOLD : #rətət͡ʃˈi#) :
-e r r aː t i k ˈiː 
-*#erraːtekˈiː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#erratekˈi# | 137 : [+syl] > [-long,-splng] 
-*#erratekʲˈi# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#erratekʲˈi#
-*#erɾatekʲˈi# | 173 : r > ɾ / __ [nnas,ncons]
-*#erɾatekʲjˈi# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#erɾatekʲˈi# | 221 : j > ∅ / [+cons,+front] __
-*#erɾətekʲˈi# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#erɾətec͡ɕˈi# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#erɾətet͡ʃˈi# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#erɾətet͡ʃˈi#
-*#erətet͡ʃˈi# | 256 : {ɾ;r} > {∅;∅} / r __
-*#rətet͡ʃˈi# | 266 : e > ∅ / # __ [-syl] [-cons]
-*#rətət͡ʃˈi# | 311 : e > ə / ə ( [-syl] )* __ ( [-syl] )* [+syl,+hi]
-Final form : *#rətət͡ʃˈi#
+#assediˈaː# >>> *#asezˈa# ( GOLD : #aʃezˈa#) :
+a s s e d i ˈaː 
+*#assedjˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#asseddjˈaː# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#asseddjˈa# | 137 : [+syl] > [-long,-splng] 
+*#asseddʲˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#asedʲˈa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#asedʲˈa#
+*#ased͡zʲˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ased͡zˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ased͡zˈa#
+*#asezˈa# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#asezˈa#

@@ -1,16 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 844:
-#tˌakˈeː# >>> *#tət͡ʃe̯ˈa# ( GOLD : #tət͡ʃe̯ˈa#) :
-t ˌa k ˈeː 
-*#takˈeː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#takˈe# | 137 : [+syl] > [-long,-splng] 
-*#takʲˈe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#takʲˈe#
-*#takʲˈɛ# | 213 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#takʲˈɛa# | 228 : ∅ > a / [-tense] __
-*#takʲˈeˈa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#takʲe̯ˈa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#təkʲe̯ˈa# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#təc͡ɕe̯ˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#tət͡ʃe̯ˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tət͡ʃe̯ˈa#
-Final form : *#tət͡ʃe̯ˈa#
+#skrˈobulam# >>> *#skˈorburə# ( GOLD : #skˈorburə#) :
+s k r ˈo b u l a m 
+*#skrˈobula# | 45 : m > ∅ / [-stres] __ #
+*#skˈorbula# | 50 : r [+syl,+back] ∅ > ∅ [+syl,+son] r/ [+cons,+back] __ [-cont,-back] [+syl]
+*#iskˈorbula# | 122 : ∅ > i / # __ s [+cons,-son]
+*#eskˈorbula# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#skˈorbula# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skˈorbula#
+*#skˈorbuɾa# | 204 : l > ɾ / [+syl] __ [+syl]
+*#skˈorbuɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skˈorbuɾə#
+*#skˈorburə# | 275 : ɾ > r 
+Final form : *#skˈorburə#

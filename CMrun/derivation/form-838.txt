@@ -1,14 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 838:
-#rˌetˈundum# >>> *#rətˈund# ( GOLD : #rətˈund#) :
-r ˌe t ˈu n d u m 
-*#retˈundum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#retˈundu# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#retˈundu#
-*#ɾetˈundu# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾetˈundu# | 174 : ∅ > r / # __ ɾ
-Common Romanian stage form : *#rɾetˈundu#
-*#retˈundu# | 256 : {ɾ;r} > {∅;∅} / r __
-*#rətˈundu# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rətˈundw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rətˈund# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#rətˈund#
+#nˈitidum# >>> *#nˈeted# ( GOLD : #nˈeted#) :
+n ˈi t i d u m 
+*#nˈitidu# | 45 : m > ∅ / [-stres] __ #
+*#nˈetedu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#nˈetedu#
+*#nˈɛtedu# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈɛatedu# | 228 : ∅ > a / [-tense] __
+*#nˈeˈatedu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ne̯ˈatedu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ne̯ˈatedu#
+*#nˈetedu# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#nˈetedw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nˈeted# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#nˈeted#

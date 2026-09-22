@@ -1,21 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 861:
-#juːdˈikium# >>> *#ʒudˈet͡s# ( GOLD : #ʒudˈet͡s#) :
-j uː d ˈi k i u m 
-*#juːdˈikjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juːdˈikju# | 45 : m > ∅ / [-stres] __ #
-*#djuːdˈikju# | 106 : j > d j / # __ [+syl] [+cons]
-*#djuːdˈikkju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#djuːdˈekkju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#djudˈekkju# | 137 : [+syl] > [-long,-splng] 
-*#dʲudˈektʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲudˈettʲu# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#ɡʲudˈettʲu# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲudˈetʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɡʲudˈetʲu#
-*#ɟ͡ʑudˈet͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒudˈet͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒudˈet͡su#
-*#ʒudˈet͡su# | 295 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒudˈet͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒudˈet͡s# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#ʒudˈet͡s#
+#frˈankum# >>> *#frˈɨnk# ( GOLD : #frˈɨnk#) :
+f r ˈa n k u m 
+*#frˈanku# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#frˈanku#
+*#fɾˈanku# | 173 : r > ɾ / __ [nnas,ncons]
+*#fɾˈənku# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#fɾˈənku#
+*#frˈənku# | 275 : ɾ > r 
+*#frˈɨnku# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#frˈɨnkw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frˈɨnk# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#frˈɨnk#
