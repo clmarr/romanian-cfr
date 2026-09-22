@@ -1,13 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1147:
-#ˌekspantikˈaː# >>> *#spentekˈa# ( GOLD : #spintekˈa#) :
-ˌe k s p a n t i k ˈaː 
-*#ekspantikˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#espantikˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espantekˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#espantekˈa# | 137 : [+syl] > [-long,-splng] 
-*#spantekˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spantekˈa#
-*#spəntekˈa# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#spəntekˈa#
-*#spentekˈa# | 276 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-Final form : *#spentekˈa#
+#deːspoliˈaː# >>> *#despojˈa# ( GOLD : #despujˈa#) :
+d eː s p o l i ˈaː 
+*#deːspoljˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#despoljˈa# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#despoljˈa#
+*#despolʲjˈa# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#despolʲˈa# | 221 : j > ∅ / [+cons,+front] __
+*#despoʎˈa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#despoʎˈa#
+*#despojˈa# | 288 : [+son,+cons,+front] > j 
+Final form : *#despojˈa#

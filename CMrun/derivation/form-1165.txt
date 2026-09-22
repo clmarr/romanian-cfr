@@ -1,12 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1165:
-#kˈaiulum# >>> *#kˈajur# ( GOLD : #kˈajer#) :
-k ˈa i u l u m 
-*#kˈajulum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kˈajulu# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#kˈajulu#
-*#kˈajuɾu# | 204 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#kˈajuɾu#
-*#kˈajuru# | 275 : ɾ > r 
-*#kˈajurw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kˈajur# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#kˈajur#
+#fustikˈellum# >>> *#fuʃtˈel# ( GOLD : #fuʃtˈel#) :
+f u s t i k ˈe l l u m 
+*#fustikˈellu# | 45 : m > ∅ / [-stres] __ #
+*#fustkˈellu# | 73 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
+*#fuskˈellu# | 109 : [-cont] > ∅ / [+cons] __ [-son,-voi]
+*#fuskˈɛllu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fuskʲˈɛllu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#fuskʲˈɛllu#
+*#fuskʲˈellu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fuskʲˈelu# | 219 : {l l;m m} > {l;m} 
+*#fuʃtˈelu# | 245 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#fuʃtˈelu#
+*#fuʃtˈelw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fuʃtˈel# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#fuʃtˈel#
