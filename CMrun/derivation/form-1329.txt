@@ -1,14 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1329:
-#ˈeste# >>> *#jˈeste# ( GOLD : #jˈeste#) :
-ˈe s t e 
-*#ˈɛste# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ˈɛste#
-*#ˈeste# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈeste# | 202 : ∅ > j / # __ ˈe [-nas]
-*#jˈɛste# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#jˈɛaste# | 228 : ∅ > a / [-tense] __
-*#jˈeˈaste# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#je̯ˈaste# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#je̯ˈaste#
-*#jˈeste# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#jˈeste#
+#horrˈeːskoː# >>> *#urˈɨsk# ( GOLD : #urˈɨsk#) :
+h o r r ˈeː s k oː
+*#orrˈeːskoː# | 41 : h > ∅ 
+*#orrˈesko# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#orrˈesko#
+*#orɾˈesko# | 173 : r > ɾ / __ [nnas,ncons]
+*#orɾˈesku# | 186 : o > u / __ ( [+cons,+lab,+voi] ) #
+*#urɾˈesku# | 197 : o > u / __ r
+Common Romanian stage form : *#urɾˈesku#
+*#urˈesku# | 256 : {ɾ;r} > {∅;∅} / r __
+*#urˈəsku# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#urˈɨsku# | 259 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
+*#urˈɨskw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#urˈɨsk# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#urˈɨsk#

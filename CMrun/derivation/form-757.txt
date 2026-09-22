@@ -1,25 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 757:
-#ˌoe̯strˈikulam# >>> *#strˈekje# ( GOLD : #strˈekje#) :
-ˌo e̯ s t r ˈi k u l a m 
-*#ˌojstrˈikulam# | 12 : e̯ > j 
-*#ojstrˈikulam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eːstrˈikulam# | 44 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
-*#eːstrˈikula# | 45 : m > ∅ / [-stres] __ #
-*#eːstrˈikla# | 60 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#eːstrˈekla# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrˈekla# | 137 : [+syl] > [-long,-splng] 
-*#strˈekla# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strˈekla#
-*#stɾˈekla# | 173 : r > ɾ / __ [nnas,ncons]
-*#stɾˈɛkla# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#stɾˈɛakla# | 228 : ∅ > a / [-tense] __
-*#stɾˈeˈakla# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#stɾe̯ˈakla# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#stɾe̯ˈaklə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#stɾe̯ˈakʎə# | 241 : l > ʎ / [-cont,-ant,-cor] __
-*#stɾe̯ˈakʎe# | 242 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#stɾe̯ˈakʎe#
-*#stɾˈekʎe# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#strˈekʎe# | 275 : ɾ > r 
-*#strˈekje# | 288 : [+son,+cons,+front] > j 
-Final form : *#strˈekje#
+#kˈaːrium# >>> *#kˈar# ( GOLD : #kˈar#) :
+k ˈaː r i u m 
+*#kˈaːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˈaːrju# | 45 : m > ∅ / [-stres] __ #
+*#kˈarju# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kˈarju#
+*#kˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
+*#kˈaɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kˈaɾʲu# | 221 : j > ∅ / [+cons,+front] __
+*#kˈajɾu# | 243 : ɾʲ > j ɾ / @ [+prim] __
+Common Romanian stage form : *#kˈajɾu#
+*#kˈajru# | 275 : ɾ > r 
+*#kˈajrw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈajr# | 303 : w̥ > ∅ / [-syl] __ #
+*#kˈar# | 309 : j > ∅ / __ r
+Final form : *#kˈar#

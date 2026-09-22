@@ -1,13 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1349:
-#pˌortˈaːbat# >>> *#purtˈa# ( GOLD : #purtˈa#) :
-p ˌo r t ˈaː b a t 
-*#portˈaːbat# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#portˈaːba# | 89 : [+cons,-cont] > ∅ / __ #
-*#portˈaːβa# | 134 : b > β / [-cons] __ [+cont]
-*#portˈaβa# | 137 : [+syl] > [-long,-splng] 
-*#portˈaa# | 162 : β > ∅ 
-Balkan Romance stage form : *#portˈaa#
-*#purtˈaa# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#purtˈa# | 234 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
-Common Romanian stage form : *#purtˈa#
-Final form : *#purtˈa#
+#sˈeːram# >>> *#se̯ˈarə# ( GOLD : #se̯ˈarə#) :
+s ˈeː r a m 
+*#sˈeːra# | 45 : m > ∅ / [-stres] __ #
+*#sˈera# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sˈera#
+*#sˈeɾa# | 173 : r > ɾ / __ [nnas,ncons]
+*#sˈɛɾa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sˈɛaɾa# | 228 : ∅ > a / [-tense] __
+*#sˈeˈaɾa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#se̯ˈaɾa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#se̯ˈaɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#se̯ˈaɾə#
+*#se̯ˈarə# | 275 : ɾ > r 
+Final form : *#se̯ˈarə#

@@ -1,17 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 497:
-#kˌalˈoːrem# >>> *#kəro̯ˈare# ( GOLD : #kəro̯ˈare#) :
-k ˌa l ˈoː r e m 
-*#kalˈoːrem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kalˈoːre# | 45 : m > ∅ / [-stres] __ #
-*#kalˈore# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kalˈore#
-*#kalˈoɾe# | 173 : r > ɾ / __ [nnas,ncons]
-*#kaɾˈoɾe# | 204 : l > ɾ / [+syl] __ [+syl]
-*#kaɾˈɔɾe# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kaɾˈɔaɾe# | 228 : ∅ > a / [-tense] __
-*#kaɾˈoˈaɾe# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kaɾo̯ˈaɾe# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kəɾo̯ˈaɾe# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kəɾo̯ˈaɾe#
-*#kəro̯ˈare# | 275 : ɾ > r 
-Final form : *#kəro̯ˈare#
+#kˈirkinum# >>> *#t͡ʃe̯ˈarkɨn# ( GOLD : #t͡ʃe̯ˈarkən#) :
+k ˈi r k i n u m 
+*#kˈirkanum# | 27 : i > a / [+stres,+hi,αlab] ( [-syl,αlab] )* __ [+cons,+son] [+syl,+hi] m #
+*#kˈirkanu# | 45 : m > ∅ / [-stres] __ #
+*#kˈerkanu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#kʲˈerkanu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲˈerkanu#
+*#kʲˈɛrkanu# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kʲˈɛarkanu# | 228 : ∅ > a / [-tense] __
+*#kʲˈeˈarkanu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kʲe̯ˈarkanu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kʲe̯ˈarkənu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#c͡ɕe̯ˈarkənu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃe̯ˈarkənu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃe̯ˈarkənu#
+*#t͡ʃe̯ˈarkɨnu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#t͡ʃe̯ˈarkɨnw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃe̯ˈarkɨn# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#t͡ʃe̯ˈarkɨn#

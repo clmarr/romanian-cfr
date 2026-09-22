@@ -1,12 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 751:
-#fˌormˈiːkam# >>> *#formˈikə# ( GOLD : #furnˈikə#) :
-f ˌo r m ˈiː k a m 
-*#formˈiːkam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#formˈiːka# | 45 : m > ∅ / [-stres] __ #
-*#formˈika# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#formˈika#
-*#foɾmˈika# | 173 : r > ɾ / __ [nnas,ncons]
-*#foɾmˈikə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#foɾmˈikə#
-*#formˈikə# | 275 : ɾ > r 
-Final form : *#formˈikə#
+#pˌiskˈaːrium# >>> *#pəskˈar# ( GOLD : #pəskˈar#) :
+p ˌi s k ˈaː r i u m 
+*#pˌiskˈaːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#piskˈaːrjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#piskˈaːrju# | 45 : m > ∅ / [-stres] __ #
+*#peskˈaːrju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#peskˈarju# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#peskˈarju#
+*#peskˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
+*#peskˈaɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#peskˈaɾʲu# | 221 : j > ∅ / [+cons,+front] __
+*#peskˈajɾu# | 243 : ɾʲ > j ɾ / @ [+prim] __
+Common Romanian stage form : *#peskˈajɾu#
+*#pəskˈajɾu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəskˈajru# | 275 : ɾ > r 
+*#pəskˈajrw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəskˈajr# | 303 : w̥ > ∅ / [-syl] __ #
+*#pəskˈar# | 309 : j > ∅ / __ r
+Final form : *#pəskˈar#

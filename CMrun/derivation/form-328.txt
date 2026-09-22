@@ -1,21 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 328:
-#ˌintˌelleːktiˈoːnem# >>> *#ɨnt͡selept͡ʃˈune# ( GOLD : #ɨnt͡selept͡ʃˈune#) :
-ˌi n t ˌe l l eː k t i ˈoː n e m 
-*#ˌintˌelleːktjˈoːnem# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#intelleːktjˈoːnem# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#intelleːktjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#intelleːptjˈoːne# | 113 : k > p / __ t
-*#entelleːptjˈoːne# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#entelleptjˈone# | 137 : [+syl] > [-long,-splng] 
-*#ent͡selleptjˈone# | 143 : t > t͡s / # e n __ [+syl,-back,-prim,-long] l
-*#ent͡selleptʲˈone# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ent͡sellepkʲˈone# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-Balkan Romance stage form : *#ent͡sellepkʲˈone#
-*#ent͡selepkʲˈone# | 219 : {l l;m m} > {l;m} 
-*#ent͡selepkʲˈune# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ent͡selepc͡ɕˈune# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ent͡selept͡ʃˈune# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ent͡selept͡ʃˈune#
-*#int͡selept͡ʃˈune# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnt͡selept͡ʃˈune# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnt͡selept͡ʃˈune#
+#kˌonˈoːske# >>> *#kuno̯ˈaʃte# ( GOLD : #kuno̯ˈaʃte#) :
+k ˌo n ˈoː s k e 
+*#konˈoːske# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#konˈoske# | 137 : [+syl] > [-long,-splng] 
+*#konˈoskʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#konˈoskʲe#
+*#kunˈoskʲe# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
+*#kunˈɔskʲe# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kunˈɔaskʲe# | 228 : ∅ > a / [-tense] __
+*#kunˈoˈaskʲe# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kuno̯ˈaskʲe# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kuno̯ˈaʃte# | 245 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#kuno̯ˈaʃte#
+Final form : *#kuno̯ˈaʃte#

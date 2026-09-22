@@ -1,22 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1131:
-#fˌeːnˈikea# >>> *#fine̯ˈat͡sə# ( GOLD : #fɨne̯ˈat͡sə#) :
-f ˌeː n ˈi k e a 
-*#fˌeːnˈikja# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːnˈikja# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːnˈikkja# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#feːnˈekkja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#fenˈekkja# | 137 : [+syl] > [-long,-splng] 
-*#fenˈektʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#fenˈettʲa# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#fenˈetʲa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#fenˈetʲa#
-*#fenˈɛtʲa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#finˈɛtʲa# | 215 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#finˈɛatʲa# | 228 : ∅ > a / [-tense] __
-*#finˈeˈatʲa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fine̯ˈatʲa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#fine̯ˈatʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fine̯ˈat͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fine̯ˈat͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fine̯ˈat͡sə#
-Final form : *#fine̯ˈat͡sə#
+#wˈiːneam# >>> *#vˈie# ( GOLD : #vˈie#) :
+w ˈiː n e a m 
+*#wˈiːnjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#wˈiːnja# | 45 : m > ∅ / [-stres] __ #
+*#βˈiːnja# | 101 : w > β / __ [-cons]
+*#βˈinja# | 137 : [+syl] > [-long,-splng] 
+*#vˈinja# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈinja#
+*#vˈinʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vˈinʲa# | 221 : j > ∅ / [+cons,+front] __
+*#vˈiɲa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#vˈiɲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#vˈiɲe# | 242 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#vˈiɲe#
+*#vˈie# | 251 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+Final form : *#vˈie#

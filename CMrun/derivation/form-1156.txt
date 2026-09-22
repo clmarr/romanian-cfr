@@ -1,13 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1156:
-#ˌekspantikˈaː# >>> *#spentekˈa# ( GOLD : #spintekˈa#) :
-ˌe k s p a n t i k ˈaː 
-*#ekspantikˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#espantikˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espantekˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#espantekˈa# | 137 : [+syl] > [-long,-splng] 
-*#spantekˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spantekˈa#
-*#spəntekˈa# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#spəntekˈa#
-*#spentekˈa# | 276 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-Final form : *#spentekˈa#
+#fawˈulum# >>> *#fəɡˈur# ( GOLD : #faɡˈur#) :
+f a w ˈu l u m 
+*#fawˈulu# | 45 : m > ∅ / [-stres] __ #
+*#faβˈulu# | 101 : w > β / __ [-cons]
+*#faɣˈulu# | 156 : β > ɣ / f [+syl] __ [+syl,+hi,+back]
+*#faɡˈulu# | 157 : ɣ > ɡ 
+Balkan Romance stage form : *#faɡˈulu#
+*#faɡˈuɾu# | 204 : l > ɾ / [+syl] __ [+syl]
+*#fəɡˈuɾu# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fəɡˈuɾu#
+*#fəɡˈuru# | 275 : ɾ > r 
+*#fəɡˈurw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fəɡˈur# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#fəɡˈur#

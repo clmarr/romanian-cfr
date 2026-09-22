@@ -1,15 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 972:
-#sˈuper# >>> *#sprˈe# ( GOLD : #sprˈe#) :
-s ˈu p e r 
-*#spˈer# | 5 : [+prim,αround,βfront,-long] [-cont,αlab,βfront] [+syl] > ∅ [-cont,+cons,0tense] [+prim,+stres,+syl,+son]/ # s __
-*#sprˈe# | 93 : ∅ [+syl] r > r [+syl,+son] ∅/ [+cons] [-son] __ #
-*#isprˈe# | 122 : ∅ > i / # __ s [+cons,-son]
-*#isprˈɛ# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#esprˈɛ# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#sprˈɛ# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#sprˈɛ#
-*#spɾˈɛ# | 173 : r > ɾ / __ [nnas,ncons]
-*#spɾˈe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#spɾˈe#
-*#sprˈe# | 275 : ɾ > r 
-Final form : *#sprˈe#
+#ˌindˈeretro# >>> *#ɨndˈeret# ( GOLD : #ɨndˈərət#) :
+ˌi n d ˈe r e t r o 
+*#indˈeretro# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#indˈeret# | 92 : r [+syl,-stres,+round] > ∅/ [+syl] t __ #
+*#indˈɛret# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#endˈɛret# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#endˈɛret#
+*#endˈɛɾet# | 173 : r > ɾ / __ [nnas,ncons]
+*#endˈeɾet# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#endˈɛɾet# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#endˈɛaɾet# | 228 : ∅ > a / [-tense] __
+*#endˈeˈaɾet# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ende̯ˈaɾet# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ende̯ˈaɾet#
+*#endˈeɾet# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#indˈeɾet# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#indˈeret# | 275 : ɾ > r 
+*#ɨndˈeret# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Final form : *#ɨndˈeret#

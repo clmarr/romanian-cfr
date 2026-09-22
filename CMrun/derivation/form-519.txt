@@ -1,18 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 519:
-#mˌerˈiːdieːm# >>> *#merˈize# ( GOLD : #merˈizə#) :
-m ˌe r ˈiː d i eː m 
-*#mˌerˈiːdjeːm# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#merˈiːdjeːm# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#merˈiːdjeː# | 45 : m > ∅ / [-stres] __ #
-*#merˈiːddjeː# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#merˈiddje# | 137 : [+syl] > [-long,-splng] 
-*#merˈiddʲe# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#merˈidʲe# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#merˈidʲe#
-*#meɾˈidʲe# | 173 : r > ɾ / __ [nnas,ncons]
-*#meɾˈid͡zʲe# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#meɾˈid͡ze# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#meɾˈid͡ze#
-*#merˈid͡ze# | 275 : ɾ > r 
-*#merˈize# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#merˈize#
+#wˈentum# >>> *#vˈɨnt# ( GOLD : #vˈɨnt#) :
+w ˈe n t u m 
+*#wˈentu# | 45 : m > ∅ / [-stres] __ #
+*#βˈentu# | 101 : w > β / __ [-cons]
+*#βˈɛntu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛntu# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛntu#
+*#vˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#vˈentu#
+*#vˈəntu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈɨntu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#vˈɨntw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈɨnt# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#vˈɨnt#

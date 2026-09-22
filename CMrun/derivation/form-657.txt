@@ -1,13 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 657:
-#ˌekstˈirpum# >>> *#stˈerp# ( GOLD : #stˈerp#) :
-ˌe k s t ˈi r p u m 
-*#ekstˈirpum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekstˈirpu# | 45 : m > ∅ / [-stres] __ #
-*#estˈirpu# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estˈerpu# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#stˈerpu# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stˈerpu#
-Common Romanian stage form : *#stˈerpu#
-*#stˈerpw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#stˈerp# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#stˈerp#
+#ˌanimˈaːliam# >>> *#nemˈaje# ( GOLD : #nəmˈaje#) :
+ˌa n i m ˈaː l i a m 
+*#ˌanimˈaːljam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#animˈaːljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#nimˈaːljam# | 40 : [+syl,-prim] > ∅ / # __ [+son] i
+*#nimˈaːlja# | 45 : m > ∅ / [-stres] __ #
+*#nemˈaːlja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#nemˈalja# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#nemˈalja#
+*#nemˈalʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#nemˈalʲa# | 221 : j > ∅ / [+cons,+front] __
+*#nemˈaʎa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#nemˈaʎə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#nemˈaʎe# | 242 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#nemˈaʎe#
+*#nemˈaje# | 288 : [+son,+cons,+front] > j 
+Final form : *#nemˈaje#

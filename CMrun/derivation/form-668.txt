@@ -1,23 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 668:
-#rhˌonkidiˈaː# >>> *#runkezˈa# ( GOLD : #rɨnkezˈa#) :
-r h ˌo n k i d i ˈaː 
-*#rhˌonkidjˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#rhonkidjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ronkidjˈaː# | 41 : h > ∅ 
-*#ronkiddjˈaː# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ronkeddjˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#ronkeddjˈa# | 137 : [+syl] > [-long,-splng] 
-*#ronkeddʲˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ronkedʲˈa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ronkʲedʲˈa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#ronkʲedʲˈa#
-*#ɾonkʲedʲˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾonkʲedʲˈa# | 174 : ∅ > r / # __ ɾ
-*#rɾunkʲedʲˈa# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-*#rɾunkedʲˈa# | 224 : [+back,+front] > [-front] / ɾ [alo,!around] ( n ) __ [+front,-lo] ( n ) ( [-cont,-lab] ) [+prim,-round,-hi]
-*#rɾunked͡zʲˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾunked͡zˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾunked͡zˈa#
-*#runked͡zˈa# | 256 : {ɾ;r} > {∅;∅} / r __
-*#runkezˈa# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#runkezˈa#
+#ˌinkˌaballikˈaː# >>> *#ɨnkəlekˈa# ( GOLD : #ɨnkəlekˈa#) :
+ˌi n k ˌa b a l l i k ˈaː 
+*#inkaballikˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inkaβallikˈaː# | 134 : b > β / [-cons] __ [+cont]
+*#enkaβallekˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkaβallekˈa# | 137 : [+syl] > [-long,-splng] 
+*#enkaallekˈa# | 162 : β > ∅ 
+*#enkallekˈa# | 163 : [+syl,-stres] > ∅ / a __
+Balkan Romance stage form : *#enkallekˈa#
+*#enkalekˈa# | 219 : {l l;m m} > {l;m} 
+*#enkəlekˈa# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#enkəlekˈa#
+*#inkəlekˈa# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnkəlekˈa# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Final form : *#ɨnkəlekˈa#
