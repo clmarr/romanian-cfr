@@ -1,13 +1,10 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1155:
-#ˌinkolikˈaː# >>> *#ɨnkulkˈa# ( GOLD : #ɨnkurkˈa#) :
-ˌi n k o l i k ˈaː 
-*#inkolikˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkolkˈaː# | 65 : [+syl,+hi,-long,-stres] > ∅ / [+syl,-front] l __ [+cons] [+syl,+lo]
-*#enkolkˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkolkˈa# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkolkˈa#
-*#enkulkˈa# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
-Common Romanian stage form : *#enkulkˈa#
-*#inkulkˈa# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnkulkˈa# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Final form : *#ɨnkulkˈa#
+#depaːnˈaː# >>> *#depənˈa# ( GOLD : #depənˈa#) :
+d e p aː n ˈaː 
+*#depanˈa# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#depanˈa#
+*#depənˈa# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#depənˈa#
+*#depɨnˈa# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#depənˈa# | 289 : [+syl,+hi,+tense,-back,-front,αprim] > [-hi,0tense] / p __ n [+syl,!αfront]
+Final form : *#depənˈa#

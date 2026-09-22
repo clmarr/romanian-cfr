@@ -1,18 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1267:
-#fˈakitis# >>> *#fˈat͡ʃet͡sj# ( GOLD : #fˈat͡ʃet͡sj#) :
-f ˈa k i t i s 
-*#fˈakitiːs# | 132 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#fˈaketiːs# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#fˈaketis# | 137 : [+syl] > [-long,-splng] 
-*#fˈakʲetis# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#fˈakʲeti# | 172 : s > ∅ / __ #
-Balkan Romance stage form : *#fˈakʲeti#
-*#fˈakʲetji# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#fˈakʲetʲji# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fˈakʲetʲi# | 221 : j > ∅ / [+cons,+front] __
-*#fˈac͡ɕet͡sʲi# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fˈat͡ʃet͡si# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fˈat͡ʃet͡si#
-*#fˈat͡ʃet͡sj̊# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fˈat͡ʃet͡sj# | 304 : {w̥;j̊} > {w;j} 
-Final form : *#fˈat͡ʃet͡sj#
+#parˈietem# >>> *#perˈete# ( GOLD : #perˈete#) :
+p a r ˈi e t e m 
+*#parˈiete# | 45 : m > ∅ / [-stres] __ #
+*#pariˈeːte# | 124 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#parjˈeːte# | 130 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#parjˈete# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#parjˈete#
+*#paɾjˈete# | 173 : r > ɾ / __ [nnas,ncons]
+*#paɾjˈɛte# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#paɾʲjˈɛte# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#paɾʲˈɛte# | 221 : j > ∅ / [+cons,+front] __
+*#paɾʲˈɛate# | 228 : ∅ > a / [-tense] __
+*#paɾʲˈeˈate# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#paɾʲe̯ˈate# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pəɾʲe̯ˈate# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pəɾje̯ˈate# | 244 : ɾʲ > ɾ j 
+Common Romanian stage form : *#pəɾje̯ˈate#
+*#pəɾjˈete# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pəɾˈete# | 268 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#pərˈete# | 275 : ɾ > r 
+*#perˈete# | 313 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
+Final form : *#perˈete#

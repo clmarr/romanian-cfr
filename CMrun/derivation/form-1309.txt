@@ -1,13 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1309:
-#ˈeo# >>> *#jˈew# ( GOLD : #jˈew#) :
-ˈe o 
-*#ˈew# | 47 : [+syl,+round] > w / [+syl,+stres] __ #
-*#ˈeβ# | 102 : w > β / __ #
-*#ˈɛβ# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛw̥# | 160 : β > w̥ / __ #
-Balkan Romance stage form : *#ˈɛw̥#
-*#ˈew̥# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈew̥# | 202 : ∅ > j / # __ ˈe [-nas]
-Common Romanian stage form : *#jˈew̥#
-*#jˈew# | 304 : {w̥;j̊} > {w;j} 
-Final form : *#jˈew#
+#ˈeste# >>> *#jˈeste# ( GOLD : #jˈeste#) :
+ˈe s t e 
+*#ˈɛste# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#ˈɛste#
+*#ˈeste# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈeste# | 202 : ∅ > j / # __ ˈe [-nas]
+*#jˈɛste# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#jˈɛaste# | 228 : ∅ > a / [-tense] __
+*#jˈeˈaste# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#je̯ˈaste# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#je̯ˈaste#
+*#jˈeste# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Final form : *#jˈeste#

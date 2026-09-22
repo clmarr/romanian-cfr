@@ -1,16 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1226:
-#rˌespˈoːnsum# >>> *#rəspˈuns# ( GOLD : #rəspˈuns#) :
-r ˌe s p ˈoː n s u m 
-*#respˈoːnsum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#respˈoːnsu# | 45 : m > ∅ / [-stres] __ #
-*#respˈonsu# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#respˈonsu#
-*#ɾespˈonsu# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾespˈonsu# | 174 : ∅ > r / # __ ɾ
-*#rɾespˈunsu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#rɾespˈunsu#
-*#respˈunsu# | 256 : {ɾ;r} > {∅;∅} / r __
-*#rəspˈunsu# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rəspˈunsw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rəspˈuns# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#rəspˈuns#
+#fˈoe̯tam# >>> *#fˈatə# ( GOLD : #fˈatə#) :
+f ˈo e̯ t a m 
+*#fˈojtam# | 12 : e̯ > j 
+*#fˈeːtam# | 44 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
+*#fˈeːta# | 45 : m > ∅ / [-stres] __ #
+*#fˈeta# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈeta#
+*#fˈɛta# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#fˈɛata# | 228 : ∅ > a / [-tense] __
+*#fˈeˈata# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fe̯ˈata# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#fe̯ˈatə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fe̯ˈatə#
+*#fə̯ˈatə# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#fˈatə# | 255 : ə̯ > ∅ / __ [+syl,+lo]
+Final form : *#fˈatə#
