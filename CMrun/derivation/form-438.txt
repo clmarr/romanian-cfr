@@ -1,7 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 438:
-#kˈulmen# >>> *#kˈulme# ( GOLD : #kˈulme#) :
-k ˈu l m e n 
-*#kˈulme# | 90 : [+nas] > ∅ / @ [-cons] __ #
-Balkan Romance stage form : *#kˈulme#
-Common Romanian stage form : *#kˈulme#
-Final form : *#kˈulme#
+#fenˈestram# >>> *#fere̯ˈastrə# ( GOLD : #fere̯ˈastrə#) :
+f e n ˈe s t r a m 
+*#ferˈestram# | 26 : n > r / [+syl] __ [+stres] [-syl] ( [-syl] )* r
+*#ferˈestra# | 45 : m > ∅ / [-stres] __ #
+*#ferˈɛstra# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#ferˈɛstra#
+*#feɾˈɛstɾa# | 173 : r > ɾ / __ [nnas,ncons]
+*#feɾjˈɛstɾa# | 181 : ∅ > j / [-cons] [+cons] __ [-cons,-tense,+prim]
+*#feɾjˈestɾa# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#feɾjˈɛstɾa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#feɾʲjˈɛstɾa# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#feɾʲˈɛstɾa# | 221 : j > ∅ / [+cons,+front] __
+*#feɾʲˈɛastɾa# | 228 : ∅ > a / [-tense] __
+*#feɾʲˈeˈastɾa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#feɾʲe̯ˈastɾa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#feɾʲe̯ˈastɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#feɾje̯ˈastɾə# | 244 : ɾʲ > ɾ j 
+Common Romanian stage form : *#feɾje̯ˈastɾə#
+*#feɾe̯ˈastɾə# | 271 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
+*#fere̯ˈastrə# | 275 : ɾ > r 
+Final form : *#fere̯ˈastrə#
