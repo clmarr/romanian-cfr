@@ -1,22 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1111:
-#fˌeːnˈikea# >>> *#fine̯ˈat͡sə# ( GOLD : #fɨne̯ˈat͡sə#) :
-f ˌeː n ˈi k e a 
-*#fˌeːnˈikja# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːnˈikja# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːnˈikkja# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#feːnˈekkja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#fenˈekkja# | 137 : [+syl] > [-long,-splng] 
-*#fenˈektʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#fenˈettʲa# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#fenˈetʲa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#fenˈetʲa#
-*#fenˈɛtʲa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#finˈɛtʲa# | 215 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#finˈɛatʲa# | 228 : ∅ > a / [-tense] __
-*#finˈeˈatʲa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fine̯ˈatʲa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#fine̯ˈatʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fine̯ˈat͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fine̯ˈat͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fine̯ˈat͡sə#
-Final form : *#fine̯ˈat͡sə#
+#mˈolam# >>> *#mo̯ˈarə# ( GOLD : #mo̯ˈarə#) :
+m ˈo l a m 
+*#mˈola# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#mˈola#
+*#mˈoɾa# | 204 : l > ɾ / [+syl] __ [+syl]
+*#mˈɔɾa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mˈɔaɾa# | 228 : ∅ > a / [-tense] __
+*#mˈoˈaɾa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mo̯ˈaɾa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#mo̯ˈaɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mo̯ˈaɾə#
+*#mo̯ˈarə# | 275 : ɾ > r 
+Final form : *#mo̯ˈarə#

@@ -1,17 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 702:
-#ɡˌallˈiːnam# >>> *#ɡəˈinə# ( GOLD : #ɡəˈinə#) :
-ɡ ˌa l l ˈiː n a m 
-*#ɡallˈiːnam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɡallˈiːna# | 45 : m > ∅ / [-stres] __ #
-*#ɡallˈina# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɡallˈina#
-*#ɡalljˈina# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ɡaljˈina# | 219 : {l l;m m} > {l;m} 
-*#ɡalʲjˈina# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɡalʲˈina# | 221 : j > ∅ / [+cons,+front] __
-*#ɡaʎˈina# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɡəʎˈinə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ɡəʎˈinə#
-*#ɡəjˈinə# | 288 : [+son,+cons,+front] > j 
-*#ɡəˈinə# | 297 : j > ∅ / __ [+syl,+front,+hi]
-Final form : *#ɡəˈinə#
+#wˌitˈuleam# >>> *#vətˈuje# ( GOLD : #vətˈuje#) :
+w ˌi t ˈu l e a m 
+*#wˌitˈuljam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#witˈuljam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#witˈulja# | 45 : m > ∅ / [-stres] __ #
+*#βitˈulja# | 101 : w > β / __ [-cons]
+*#βetˈulja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#vetˈulja# | 152 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vetˈulja#
+*#vetˈulʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vetˈulʲa# | 221 : j > ∅ / [+cons,+front] __
+*#vetˈuʎa# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#vetˈuʎə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#vetˈuʎe# | 242 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#vetˈuʎe#
+*#vətˈuʎe# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vətˈuje# | 288 : [+son,+cons,+front] > j 
+Final form : *#vətˈuje#

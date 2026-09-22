@@ -1,16 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 851:
-#neɡˈoːtium# >>> *#neɡˈot͡s# ( GOLD : #neɡˈot͡s#) :
-n e ɡ ˈoː t i u m 
-*#neɡˈoːtjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#neɡˈoːtju# | 45 : m > ∅ / [-stres] __ #
-*#neɡˈoːttju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#neɡˈottju# | 137 : [+syl] > [-long,-splng] 
-*#neɡˈottʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#neɡˈotʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#neɡˈotʲu#
-*#neɡˈot͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#neɡˈot͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#neɡˈot͡su#
-*#neɡˈot͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#neɡˈot͡s# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#neɡˈot͡s#
+#juːrˈaː# >>> *#ʒurˈa# ( GOLD : #ʒurˈa#) :
+j uː r ˈaː 
+*#djuːrˈaː# | 106 : j > d j / # __ [+syl] [+cons]
+*#djurˈa# | 137 : [+syl] > [-long,-splng] 
+*#dʲurˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲurˈa# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#ɡʲurˈa#
+*#ɡʲuɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#ɟ͡ʑuɾˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒuɾˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒuɾˈa#
+*#d͡ʒurˈa# | 275 : ɾ > r 
+*#ʒurˈa# | 295 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Final form : *#ʒurˈa#

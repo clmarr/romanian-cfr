@@ -1,12 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 922:
-#ˌaddˌeːˈante# >>> *#adˈinte# ( GOLD : #adˈinte#) :
-ˌa d d ˌeː ˈa n t e 
-*#ˌaddˈeːˈante# | 3 : [+syl,+long] > [+prim,+stres,+syl,+son] / __ [+syl,-long,+prim]
-*#ˌaddˈeːnte# | 4 : [+syl,-long] > ∅ / [+syl,+long] __
-*#addˈeːnte# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#adˈeːnte# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adˈente# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#adˈente#
-Common Romanian stage form : *#adˈente#
-*#adˈinte# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Final form : *#adˈinte#
+#dulkˈorem# >>> *#dulko̯ˈare# ( GOLD : #dulko̯ˈare#) :
+d u l k ˈo r e m 
+*#dulkˈore# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#dulkˈore#
+*#dulkˈoɾe# | 173 : r > ɾ / __ [nnas,ncons]
+*#dulkˈɔɾe# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dulkˈɔaɾe# | 228 : ∅ > a / [-tense] __
+*#dulkˈoˈaɾe# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dulko̯ˈaɾe# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#dulko̯ˈaɾe#
+*#dulko̯ˈare# | 275 : ɾ > r 
+Final form : *#dulko̯ˈare#

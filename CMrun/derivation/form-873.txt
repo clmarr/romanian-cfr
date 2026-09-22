@@ -1,13 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 873:
-#pˈaskʰae̯# >>> *#pˈaʃte# ( GOLD : #pˈaʃte#) :
-p ˈa s kʰ a e̯ 
-*#pˈaskʰaj# | 12 : e̯ > j 
-*#pˈaskaj# | 15 : [+cons,+sg] > [-sg] 
-*#pˈaskɛː# | 43 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ #
-*#pˈaskɛ# | 137 : [+syl] > [-long,-splng] 
-*#pˈaskʲɛ# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#pˈaskʲɛ#
-*#pˈaskʲe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pˈaʃte# | 245 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#pˈaʃte#
-Final form : *#pˈaʃte#
+#ˈanɡelum# >>> *#ˈɨnd͡ʒer# ( GOLD : #ˈɨnd͡ʒer#) :
+ˈa n ɡ e l u m 
+*#ˈanɡelu# | 45 : m > ∅ / [-stres] __ #
+*#ˈanɡʲelu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ˈanɡʲelu#
+*#ˈanɡʲeɾu# | 204 : l > ɾ / [+syl] __ [+syl]
+*#ˈənɡʲeɾu# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ˈənɟ͡ʑeɾu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ˈənd͡ʒeɾu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ˈənd͡ʒeɾu#
+*#ˈənd͡ʒeru# | 275 : ɾ > r 
+*#ˈɨnd͡ʒeru# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # __ [+nas,-lab]
+*#ˈɨnd͡ʒerw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈɨnd͡ʒer# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#ˈɨnd͡ʒer#

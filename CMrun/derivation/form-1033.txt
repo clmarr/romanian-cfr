@@ -1,22 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1033:
-#ekstˈerɡe# >>> *#ʃtˈerd͡ʒe# ( GOLD : #ʃtˈerd͡ʒe#) :
-e k s t ˈe r ɡ e 
-*#estˈerɡe# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estˈɛrɡe# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#stˈɛrɡe# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#stˈɛrɡʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#stˈɛrɡʲe#
-*#stjˈɛrɡʲe# | 183 : ∅ > j / s t __ [-cons,-tense,+prim]
-*#stjˈerɡʲe# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#stjˈɛrɡʲe# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#stʲjˈɛrɡʲe# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#stʲˈɛrɡʲe# | 221 : j > ∅ / [+cons,+front] __
-*#stʲˈɛarɡʲe# | 228 : ∅ > a / [-tense] __
-*#stʲˈeˈarɡʲe# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#stʲe̯ˈarɡʲe# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ʃte̯ˈarɡʲe# | 245 : s [-cont,+front] > ʃ t
-*#ʃte̯ˈarɟ͡ʑe# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ʃte̯ˈard͡ʒe# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃte̯ˈard͡ʒe#
-*#ʃtˈerd͡ʒe# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#ʃtˈerd͡ʒe#
+#rˈeum# >>> *#rˈəw# ( GOLD : #rˈəw#) :
+r ˈe u m 
+*#rˈeu# | 45 : m > ∅ / [-stres] __ #
+*#rˈew# | 47 : [+syl,+round] > w / [+syl,+stres] __ #
+*#rˈeβ# | 102 : w > β / __ #
+*#rˈɛβ# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈɛw̥# | 160 : β > w̥ / __ #
+Balkan Romance stage form : *#rˈɛw̥#
+*#ɾˈɛw̥# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾˈɛw̥# | 174 : ∅ > r / # __ ɾ
+*#rɾˈew̥# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#rɾˈew̥#
+*#rˈew̥# | 256 : {ɾ;r} > {∅;∅} / r __
+*#rˈəw̥# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rˈəw# | 304 : {w̥;j̊} > {w;j} 
+Final form : *#rˈəw#

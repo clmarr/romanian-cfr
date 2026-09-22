@@ -1,17 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 899:
-#rˈoseum# >>> *#rˈoʃ# ( GOLD : #rˈoʃ#) :
-r ˈo s e u m 
-*#rˈosjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#rˈosju# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#rˈosju#
-*#ɾˈosju# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾˈosju# | 174 : ∅ > r / # __ ɾ
-*#rɾˈosʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾˈosʲu# | 221 : j > ∅ / [+cons,+front] __
-*#rɾˈoɕu# | 226 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#rɾˈoʃu# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾˈoʃu#
-*#rˈoʃu# | 256 : {ɾ;r} > {∅;∅} / r __
-*#rˈoʃw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rˈoʃ# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#rˈoʃ#
+#skrˈiːbe# >>> *#skrˈie# ( GOLD : #skrˈie#) :
+s k r ˈiː b e 
+*#iskrˈiːbe# | 122 : ∅ > i / # __ s [+cons,-son]
+*#iskrˈiːβe# | 134 : b > β / [-cons] __ [+cont]
+*#eskrˈiːβe# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskrˈiβe# | 137 : [+syl] > [-long,-splng] 
+*#skrˈiβe# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#skrˈie# | 162 : β > ∅ 
+*#skrˈije# | 165 : ∅ > j / ˈi __ [+syl,-hi]
+Balkan Romance stage form : *#skrˈije#
+*#skɾˈije# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#skɾˈije#
+*#skrˈije# | 275 : ɾ > r 
+*#skrˈie# | 334 : j > ∅ / [+hi,+front] __ e
+Final form : *#skrˈie#

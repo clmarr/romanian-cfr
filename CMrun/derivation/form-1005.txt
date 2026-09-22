@@ -1,17 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1005:
-#ˌadwˈiks# >>> *#abˈi# ( GOLD : #abˈi#) :
-ˌa d w ˈi k s 
-*#adwˈiks# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#awwˈiks# | 36 : d > w / [+syl,+lo] __ w
-*#aββˈiks# | 101 : w > β / __ [-cons]
-*#aββˈips# | 114 : k > p / [+syl,+stres,αfront,αhi] __ s
-*#aββˈis# | 117 : p > ∅ / β [+syl,+front,+hi,-long] __
-*#aββˈiːs# | 132 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#aββˈis# | 137 : [+syl] > [-long,-splng] 
-*#aβbˈis# | 158 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-*#abˈis# | 162 : β > ∅ 
-*#abˈij# | 171 : s > j / [+stres] __ #
-Balkan Romance stage form : *#abˈij#
-Common Romanian stage form : *#abˈij#
-*#abˈi# | 251 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
-Final form : *#abˈi#
+#ˌadreːktˈaː# >>> *#arəptˈa# ( GOLD : #arətˈa#) :
+ˌa d r eː k t ˈaː 
+*#adreːktˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#arreːktˈaː# | 35 : d > r / [+syl,+lo] __ r
+*#arreːptˈaː# | 113 : k > p / __ t
+*#arreptˈa# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#arreptˈa#
+*#arɾeptˈa# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#arɾeptˈa#
+*#areptˈa# | 256 : {ɾ;r} > {∅;∅} / r __
+*#arəptˈa# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Final form : *#arəptˈa#
