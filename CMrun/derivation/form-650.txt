@@ -1,12 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 650:
-#rˌiːmˈaː# >>> *#rɨmˈa# ( GOLD : #rɨmˈa#) :
-r ˌiː m ˈaː 
-*#riːmˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#rimˈa# | 137 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rimˈa#
-*#ɾimˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾimˈa# | 174 : ∅ > r / # __ ɾ
-Common Romanian stage form : *#rɾimˈa#
-*#rimˈa# | 256 : {ɾ;r} > {∅;∅} / r __
-*#rɨmˈa# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Final form : *#rɨmˈa#
+#ˌarmissˈaːrium# >>> *#arməsˈar# ( GOLD : #arməsˈar#) :
+ˌa r m i s s ˈaː r i u m 
+*#ˌarmissˈaːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#armissˈaːrjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#armissˈaːrju# | 45 : m > ∅ / [-stres] __ #
+*#armessˈaːrju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#armessˈarju# | 137 : [+syl] > [-long,-splng] 
+*#armesˈarju# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#armesˈarju#
+*#aɾmesˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
+*#aɾmesˈaɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#aɾmesˈaɾʲu# | 221 : j > ∅ / [+cons,+front] __
+*#aɾmesˈajɾu# | 243 : ɾʲ > j ɾ / @ [+prim] __
+Common Romanian stage form : *#aɾmesˈajɾu#
+*#aɾməsˈajɾu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#arməsˈajru# | 275 : ɾ > r 
+*#arməsˈajrw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#arməsˈajr# | 303 : w̥ > ∅ / [-syl] __ #
+*#arməsˈar# | 309 : j > ∅ / __ r
+Final form : *#arməsˈar#

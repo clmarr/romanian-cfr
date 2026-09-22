@@ -1,19 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1114:
-#nuːtrˈiːkium# >>> *#nutrˈit͡s# ( GOLD : #nutrˈet͡s#) :
-n uː t r ˈiː k i u m 
-*#nuːtrˈiːkjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#nuːtrˈiːkju# | 45 : m > ∅ / [-stres] __ #
-*#nuːtrˈiːkkju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#nutrˈikkju# | 137 : [+syl] > [-long,-splng] 
-*#nutrˈiktʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#nutrˈittʲu# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#nutrˈitʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#nutrˈitʲu#
-*#nutɾˈitʲu# | 173 : r > ɾ / __ [nnas,ncons]
-*#nutɾˈit͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#nutɾˈit͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#nutɾˈit͡su#
-*#nutrˈit͡su# | 275 : ɾ > r 
-*#nutrˈit͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#nutrˈit͡s# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#nutrˈit͡s#
+#stimulˈaːriam# >>> *#stemurˈare# ( GOLD : #strəmurˈare#) :
+s t i m u l ˈaː r i a m 
+*#stimulˈaːrjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#stimulˈaːrja# | 45 : m > ∅ / [-stres] __ #
+*#istimulˈaːrja# | 122 : ∅ > i / # __ s [+cons,-son]
+*#estemulˈaːrja# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#estemulˈarja# | 137 : [+syl] > [-long,-splng] 
+*#stemulˈarja# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stemulˈarja#
+*#stemulˈaɾja# | 173 : r > ɾ / __ [nnas,ncons]
+*#stemuɾˈaɾja# | 204 : l > ɾ / [+syl] __ [+syl]
+*#stemuɾˈaɾʲja# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#stemuɾˈaɾʲa# | 221 : j > ∅ / [+cons,+front] __
+*#stemuɾˈaɾʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#stemuɾˈaɾʲe# | 242 : ə > e / [+cons,+front,+son] __
+*#stemuɾˈajɾe# | 243 : ɾʲ > j ɾ / @ [+prim] __
+Common Romanian stage form : *#stemuɾˈajɾe#
+*#stemurˈajre# | 275 : ɾ > r 
+*#stemurˈare# | 309 : j > ∅ / __ r
+Final form : *#stemurˈare#
