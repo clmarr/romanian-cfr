@@ -1,18 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 471:
-#spˈurium# >>> *#spˈur# ( GOLD : #spˈur#) :
-s p ˈu r i u m 
-*#spˈurjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#spˈurju# | 45 : m > ∅ / [-stres] __ #
-*#ispˈurju# | 122 : ∅ > i / # __ s [+cons,-son]
-*#espˈurju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#spˈurju# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spˈurju#
-*#spˈuɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#spˈuɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#spˈuɾʲu# | 221 : j > ∅ / [+cons,+front] __
-*#spˈuɾu# | 225 : ɾʲ > ɾ / [+hi] __
-Common Romanian stage form : *#spˈuɾu#
-*#spˈuru# | 275 : ɾ > r 
-*#spˈurw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#spˈur# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#spˈur#
+#sˈokiam# >>> *#so̯ˈat͡sə# ( GOLD : #so̯ˈat͡sə#) :
+s ˈo k i a m 
+*#sˈokjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#sˈokja# | 45 : m > ∅ / [-stres] __ #
+*#sˈokkja# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#sˈoktʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#sˈottʲa# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#sˈotʲa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#sˈotʲa#
+*#sˈɔtʲa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sˈɔatʲa# | 228 : ∅ > a / [-tense] __
+*#sˈoˈatʲa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#so̯ˈatʲa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#so̯ˈatʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#so̯ˈat͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#so̯ˈat͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#so̯ˈat͡sə#
+Final form : *#so̯ˈat͡sə#

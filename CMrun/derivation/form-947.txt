@@ -1,27 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 947:
-#ˌaddˌeːˌinˈillahoːram# >>> *#adine̯ˈawərə# ( GOLD : #adine̯ˈawrj#) :
-ˌa d d ˌeː ˌi n ˈi l l a h oː r a m 
-*#ˌaddˌeːnˈillahoːram# | 4 : [+syl,-long] > ∅ / [+syl,+long] __
-*#addeːnˈillahoːram# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#adeːnˈillahoːram# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adeːnˈillaoːram# | 41 : h > ∅ 
-*#adeːnˈillaoːra# | 45 : m > ∅ / [-stres] __ #
-*#adeːnˈellaoːra# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#adenˈellaora# | 137 : [+syl] > [-long,-splng] 
-*#adenˈellara# | 163 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#adenˈellara#
-*#adenˈellaɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#adenˈɛllaɾa# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#adinˈɛllaɾa# | 215 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#adinˈɛwaɾa# | 216 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#adjinˈɛwaɾa# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#adʲjinˈɛwaɾa# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#adʲinˈɛwaɾa# | 221 : j > ∅ / [+cons,+front] __
-*#adinˈɛwaɾa# | 223 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
-*#adinˈɛawaɾa# | 228 : ∅ > a / [-tense] __
-*#adinˈeˈawaɾa# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#adine̯ˈawaɾa# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#adine̯ˈawəɾə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#adine̯ˈawəɾə#
-*#adine̯ˈawərə# | 275 : ɾ > r 
-Final form : *#adine̯ˈawərə#
+#kurrˈendum# >>> *#kurˈɨnd# ( GOLD : #kurˈɨnd#) :
+k u r r ˈe n d u m 
+*#kurrˈendu# | 45 : m > ∅ / [-stres] __ #
+*#kurrˈɛndu# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#kurrˈɛndu#
+*#kurɾˈɛndu# | 173 : r > ɾ / __ [nnas,ncons]
+*#kurɾˈendu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#kurɾˈendu#
+*#kurˈendu# | 256 : {ɾ;r} > {∅;∅} / r __
+*#kurˈəndu# | 257 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#kurˈɨndu# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#kurˈɨndw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kurˈɨnd# | 303 : w̥ > ∅ / [-syl] __ #
+Final form : *#kurˈɨnd#

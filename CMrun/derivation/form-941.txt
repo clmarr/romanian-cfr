@@ -1,19 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 941:
-#ˌadhˈikke# >>> *#aˈet͡ʃe# ( GOLD : #aˈit͡ʃj#) :
-ˌa d h ˈi k k e 
-*#adhˈikke# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ahˈikke# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#aˈikke# | 41 : h > ∅ 
-*#aˈekke# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#aˈeke# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#aˈekʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#aˈekʲe#
-*#aˈɛkʲe# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#aˈɛakʲe# | 228 : ∅ > a / [-tense] __
-*#aˈeˈakʲe# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ae̯ˈakʲe# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ae̯ˈac͡ɕe# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ae̯ˈat͡ʃe# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ae̯ˈat͡ʃe#
-*#aˈet͡ʃe# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Final form : *#aˈet͡ʃe#
+#tiːtiˈoːnem# >>> *#tet͡ʃˈune# ( GOLD : #tət͡ʃˈune#) :
+t iː t i ˈoː n e m 
+*#tiːtjˈoːnem# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#tiːtjˈoːne# | 45 : m > ∅ / [-stres] __ #
+*#tiːttjˈoːne# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#tittjˈone# | 137 : [+syl] > [-long,-splng] 
+*#tittʲˈone# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#titkʲˈone# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#tikʲˈone# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#tikʲˈone#
+*#tekʲˈone# | 217 : i > e / [+cons] __ [+cons,+front]
+*#tekʲˈune# | 231 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#tec͡ɕˈune# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#tet͡ʃˈune# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#tet͡ʃˈune#
+Final form : *#tet͡ʃˈune#
