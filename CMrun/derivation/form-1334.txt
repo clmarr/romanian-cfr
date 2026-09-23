@@ -1,17 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1334:
-#lˈakweum# >>> *#lˈat͡s# ( GOLD : #lˈat͡s#) :
-l ˈa k w e u m 
-*#lˈakwjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#lˈakjum# | 17 : [-cons,-syl] > ∅ / [+cons] __ [-cons,-syl] [+syl,+hi]
-*#lˈakju# | 45 : m > ∅ / [-stres] __ #
-*#lˈakkju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#lˈaktʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#lˈattʲu# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#lˈatʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#lˈatʲu#
-*#lˈat͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#lˈat͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#lˈat͡su#
-*#lˈat͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lˈat͡s# | 303 : w̥ > ∅ / [-syl] __ #
-Final form : *#lˈat͡s#
+#ɡlˈakiam# >>> *#ɡe̯ˈat͡sə# ( GOLD : #ɡe̯ˈat͡sə#) :
+ɡ l ˈa k i a m 
+*#ɡlˈakjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɡlˈakja# | 45 : m > ∅ / [-stres] __ #
+*#ɡlˈakkja# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#ɡlˈaktʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡlˈattʲa# | 146 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#ɡlˈatʲa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#ɡlˈatʲa#
+*#ɡlˈatʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɡʎˈatʲə# | 241 : l > ʎ / [-cont,-ant,-cor] __
+*#ɡʎˈat͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ɡʎˈat͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ɡʎˈat͡sə#
+*#ɡjˈat͡sə# | 288 : [+son,+cons,+front] > j 
+*#ɡe̯ˈat͡sə# | 316 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
+Final form : *#ɡe̯ˈat͡sə#
