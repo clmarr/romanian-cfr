@@ -1,23 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 747:
-#wˌitˈellum# >>> *#vit͡sˈel# ( GOLD : #vit͡sˈel#) :
-w ˌi t ˈe l l u m 
-*#witˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#witˈellu# | 44 : m > ∅ / [-stres] __ #
-*#βitˈellu# | 100 : w > β / __ [-cons]
-*#βitˈɛllu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#βetˈɛllu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#vetˈɛllu# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vetˈɛllu#
-*#vetjˈɛllu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#vetjˈellu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vetjˈelu# | 207 : {l l;m m} > {l;m} 
-*#vetʲjˈelu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#vetʲˈelu# | 209 : j > ∅ / [+cons,+front] __
-*#vet͡sʲˈelu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vet͡sˈelu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vet͡sˈelu#
-*#vet͡sˈelw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vet͡sˈel# | 291 : w̥ > ∅ / [-syl] __ #
-*#vit͡sˈel# | 302 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Old Romanian stage form : *#vit͡sˈel#
-Final form : *#vit͡sˈel#
+#wˌitˈuleum# >>> *#vətˈuj# ( GOLD : #vətˈuj#) :
+w ˌi t ˈu l e u m 
+*#wˌitˈuljum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#witˈuljum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#witˈulju# | 44 : m > ∅ / [-stres] __ #
+*#βitˈulju# | 100 : w > β / __ [-cons]
+*#βetˈulju# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#vetˈulju# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vetˈulju#
+*#vetˈulʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vetˈulʲu# | 209 : j > ∅ / [+cons,+front] __
+*#vetˈuʎu# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#vetˈuʎu#
+*#vətˈuʎu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vətˈuju# | 278 : [+son,+cons,+front] > j 
+*#vətˈujw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vətˈuj# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vətˈuj#
+Final form : *#vətˈuj#

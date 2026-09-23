@@ -1,17 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 896:
-#jˈuːdeks# >>> *#ʒˈude# ( GOLD : #ʒˈude#) :
-j ˈuː d e k s 
-*#djˈuːdeks# | 105 : j > d j / # __ [+syl] [+cons]
-*#djˈuːdess# | 113 : k > s / __ s
-*#djˈudess# | 135 : [+syl] > [-long,-splng] 
-*#dʲˈudess# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡʲˈudess# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲˈudes# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ɡʲˈude# | 172 : s > ∅ / __ #
-Balkan Romance stage form : *#ɡʲˈude#
-*#ɟ͡ʑˈude# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈude# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒˈude#
-*#ʒˈude# | 283 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#ʒˈude#
-Final form : *#ʒˈude#
+#juːdˈikium# >>> *#ʒudˈet͡s# ( GOLD : #ʒudˈet͡s#) :
+j uː d ˈi k i u m 
+*#juːdˈikjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#juːdˈikju# | 44 : m > ∅ / [-stres] __ #
+*#djuːdˈikju# | 105 : j > d j / # __ [+syl] [+cons]
+*#djuːdˈikkju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#djuːdˈekkju# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#djudˈekkju# | 135 : [+syl] > [-long,-splng] 
+*#dʲudˈektʲu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#dʲudˈettʲu# | 144 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#ɡʲudˈettʲu# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲudˈetʲu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#ɡʲudˈetʲu#
+*#ɟ͡ʑudˈet͡sʲu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒudˈet͡su# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒudˈet͡su#
+*#ʒudˈet͡su# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ʒudˈet͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʒudˈet͡s# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ʒudˈet͡s#
+Final form : *#ʒudˈet͡s#

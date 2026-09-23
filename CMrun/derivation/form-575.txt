@@ -1,25 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 575:
-#hˌibˈernam# >>> *#jˈarnə# ( GOLD : #jˈarnə#) :
-h ˌi b ˈe r n a m 
-*#hibˈernam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ibˈernam# | 40 : h > ∅ 
-*#ibˈerna# | 44 : m > ∅ / [-stres] __ #
-*#ibˈɛrna# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#iβˈɛrna# | 132 : b > β / [-cons] __ [+cont]
-*#eβˈɛrna# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#eˈɛrna# | 163 : β > ∅ 
-Balkan Romance stage form : *#eˈɛrna#
-*#eˈɛɾna# | 173 : r > ɾ / __ [nnas,ncons]
-*#ejˈɛɾna# | 179 : ∅ > j / [+syl] __ [-cons,-tense,+prim]
-*#ejˈeɾna# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ejˈɛɾna# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ejˈɛaɾna# | 216 : ∅ > a / [-tense] __
-*#ejˈeˈaɾna# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#eje̯ˈaɾna# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#eje̯ˈaɾnə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#eje̯ˈaɾnə#
-*#je̯ˈaɾnə# | 254 : e > ∅ / # __ [-syl] [-cons]
-*#jˈaɾnə# | 257 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
-*#jˈarnə# | 263 : ɾ > r 
-Old Romanian stage form : *#jˈarnə#
-Final form : *#jˈarnə#
+#wˈeːram# >>> *#vˈarə# ( GOLD : #vˈarə#) :
+w ˈeː r a m 
+*#wˈeːra# | 44 : m > ∅ / [-stres] __ #
+*#βˈeːra# | 100 : w > β / __ [-cons]
+*#βˈera# | 135 : [+syl] > [-long,-splng] 
+*#vˈera# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈera#
+*#vˈeɾa# | 173 : r > ɾ / __ [nnas,ncons]
+*#vˈɛɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛaɾa# | 216 : ∅ > a / [-tense] __
+*#vˈeˈaɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈaɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ve̯ˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ve̯ˈaɾə#
+*#və̯ˈaɾə# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈaɾə# | 243 : ə̯ > ∅ / __ [+syl,+lo]
+*#vˈarə# | 265 : ɾ > r 
+Old Romanian stage form : *#vˈarə#
+Final form : *#vˈarə#

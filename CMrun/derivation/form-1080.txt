@@ -1,10 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1080:
-#kwˈam# >>> *#kˈa# ( GOLD : #kˈa#) :
-k w ˈa m 
-*#kwˈan# | 45 : m > n / __ #
-*#kˈan# | 84 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+prim,+lo] [+voi]
-*#kˈa# | 89 : [+nas] > ∅ / @ [-cons] __ #
-Balkan Romance stage form : *#kˈa#
-Common Romanian stage form : *#kˈa#
-Old Romanian stage form : *#kˈa#
-Final form : *#kˈa#
+#rˈeum# >>> *#rˈəw# ( GOLD : #rˈəw#) :
+r ˈe u m 
+*#rˈeu# | 44 : m > ∅ / [-stres] __ #
+*#rˈew# | 46 : [+syl,+round] > w / [+syl,+stres] __ #
+*#rˈeβ# | 101 : w > β / __ #
+*#rˈɛβ# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈɛw̥# | 161 : β > w̥ / __ #
+Balkan Romance stage form : *#rˈɛw̥#
+*#ɾˈɛw̥# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾˈɛw̥# | 174 : ∅ > r / # __ ɾ
+*#rɾˈew̥# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#rɾˈew̥#
+*#rˈew̥# | 244 : {ɾ;r} > {∅;∅} / r __
+*#rˈəw̥# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rˈəw# | 294 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#rˈəw#
+Final form : *#rˈəw#

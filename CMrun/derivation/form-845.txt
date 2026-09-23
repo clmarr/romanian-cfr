@@ -1,18 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 845:
-#kwˈattuor# >>> *#pˈatru# ( GOLD : #pˈatru#) :
-k w ˈa t t u o r 
-*#kwˈattwor# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kwˈattrwo# | 93 : ∅ [-cons] [+syl] r > r [-cons,-lat,+cont,0delrel] [+syl,+son] ∅/ [+cons] [-son] __ #
-*#kβˈattrβo# | 100 : w > β / __ [-cons]
-*#pˈattrβo# | 118 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
-*#pˈatrβo# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#pˈatro# | 163 : β > ∅ 
-Balkan Romance stage form : *#pˈatro#
-*#pˈatɾo# | 173 : r > ɾ / __ [nnas,ncons]
-*#pˈatɾu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#pˈatɾu#
-*#pˈatru# | 263 : ɾ > r 
-*#pˈatrw# | 289 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#pˈatru# | 293 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-Old Romanian stage form : *#pˈatru#
-Final form : *#pˈatru#
+#sˈessem# >>> *#ʃˈase# ( GOLD : #ʃˈase#) :
+s ˈe s s e m 
+*#sˈesse# | 44 : m > ∅ / [-stres] __ #
+*#sˈɛsse# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛse# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#sˈɛse#
+*#sjˈɛse# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#sjˈese# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sjˈɛse# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sʲjˈɛse# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#sʲˈɛse# | 209 : j > ∅ / [+cons,+front] __
+*#ɕˈɛse# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ɕˈɛase# | 216 : ∅ > a / [-tense] __
+*#ɕˈeˈase# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɕe̯ˈase# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ʃe̯ˈase# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ʃe̯ˈase#
+*#ʃˈase# | 251 : e̯ ˈa > ˈa / ʃ __
+Old Romanian stage form : *#ʃˈase#
+Final form : *#ʃˈase#

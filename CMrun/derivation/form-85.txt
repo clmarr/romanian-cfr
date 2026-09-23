@@ -1,21 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 85:
-#bˌasˈilikam# >>> *#bisˈerikə# ( GOLD : #bisˈerikə#) :
-b ˌa s ˈi l i k a m 
-*#basˈilikam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#basˈilika# | 44 : m > ∅ / [-stres] __ #
-*#basˈeleka# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#basˈeleka#
-*#basˈeɾeka# | 192 : l > ɾ / [+syl] __ [+syl]
-*#basˈɛɾeka# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#basˈɛaɾeka# | 216 : ∅ > a / [-tense] __
-*#basˈeˈaɾeka# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#base̯ˈaɾeka# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#bəse̯ˈaɾekə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#bəse̯ˈaɾekə#
-*#bəsˈeɾekə# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#bəsˈerekə# | 263 : ɾ > r 
-*#bəsˈerikə# | 298 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-*#besˈerikə# | 301 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
-*#bisˈerikə# | 302 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Old Romanian stage form : *#bisˈerikə#
-Final form : *#bisˈerikə#
+#bˌattuˈaːliam# >>> *#bətˈaje# ( GOLD : #bətˈaje#) :
+b ˌa t t u ˈaː l i a m 
+*#bˌattwˈaːljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#battwˈaːljam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#battwˈaːlja# | 44 : m > ∅ / [-stres] __ #
+*#battβˈaːlja# | 100 : w > β / __ [-cons]
+*#battβˈalja# | 135 : [+syl] > [-long,-splng] 
+*#batβˈalja# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#batˈalja# | 163 : β > ∅ 
+Balkan Romance stage form : *#batˈalja#
+*#batˈalʲja# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#batˈalʲa# | 209 : j > ∅ / [+cons,+front] __
+*#batˈaʎa# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#bətˈaʎə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#bətˈaʎe# | 230 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#bətˈaʎe#
+*#bətˈaje# | 278 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#bətˈaje#
+Final form : *#bətˈaje#

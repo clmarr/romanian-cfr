@@ -1,21 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 390:
-#iˌakˈeː# >>> *#zət͡ʃe̯ˈa# ( GOLD : #zət͡ʃe̯ˈa#) :
-i ˌa k ˈeː 
-*#jˌakˈeː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#jakˈeː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#djakˈeː# | 105 : j > d j / # __ [+syl] [+cons]
-*#djakˈe# | 135 : [+syl] > [-long,-splng] 
-*#dʲakˈe# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲakʲˈe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#dʲakʲˈe#
-*#dʲakʲˈɛ# | 201 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#dʲakʲˈɛa# | 216 : ∅ > a / [-tense] __
-*#dʲakʲˈeˈa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dʲakʲe̯ˈa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#dʲəkʲe̯ˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#d͡zʲəc͡ɕe̯ˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡zət͡ʃe̯ˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡zət͡ʃe̯ˈa#
-*#zət͡ʃe̯ˈa# | 282 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#zət͡ʃe̯ˈa#
-Final form : *#zət͡ʃe̯ˈa#
+#lˌae̯sionˈaː# >>> *#leʃunˈa# ( GOLD : #leʃinˈa#) :
+l ˌa e̯ s i o n ˈaː 
+*#lˌae̯sjonˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#lˌajsjonˈaː# | 11 : e̯ > j 
+*#lajsjonˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#lɛːsjonˈaː# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
+*#lɛsjonˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lɛsjonˈa#
+*#lesjonˈa# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#lesjunˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#lesʲjunˈa# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lesʲunˈa# | 209 : j > ∅ / [+cons,+front] __
+*#leɕunˈa# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#leʃunˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#leʃunˈa#
+Old Romanian stage form : *#leʃunˈa#
+Final form : *#leʃunˈa#

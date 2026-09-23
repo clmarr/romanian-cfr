@@ -1,17 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 626:
-#sˌurkˈellum# >>> *#surt͡ʃˈel# ( GOLD : #surt͡ʃˈel#) :
-s ˌu r k ˈe l l u m 
-*#surkˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#surkˈellu# | 44 : m > ∅ / [-stres] __ #
-*#surkˈɛllu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#surkʲˈɛllu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#surkʲˈɛllu#
-*#surkʲˈellu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#surkʲˈelu# | 207 : {l l;m m} > {l;m} 
-*#surc͡ɕˈelu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#surt͡ʃˈelu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#surt͡ʃˈelu#
-*#surt͡ʃˈelw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#surt͡ʃˈel# | 291 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#surt͡ʃˈel#
-Final form : *#surt͡ʃˈel#
+#wˈiskidum# >>> *#vˈəsd# ( GOLD : #vˈeʃted#) :
+w ˈi s k i d u m 
+*#wˈiskidu# | 44 : m > ∅ / [-stres] __ #
+*#wˈiskdu# | 72 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
+*#βˈiskdu# | 100 : w > β / __ [-cons]
+*#βˈeskdu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈeskdu# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vˈesdu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#vˈesdu#
+Common Romanian stage form : *#vˈesdu#
+*#vˈəsdu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈəsdw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈəsd# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈəsd#
+Final form : *#vˈəsd#

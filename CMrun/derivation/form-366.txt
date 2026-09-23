@@ -1,18 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 366:
-#ˌintˌellˈeːktum# >>> *#ɨnt͡selˈept# ( GOLD : #ɨnt͡selˈept#) :
-ˌi n t ˌe l l ˈeː k t u m 
-*#intellˈeːktum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#intellˈeːktu# | 44 : m > ∅ / [-stres] __ #
-*#intellˈeːptu# | 111 : k > p / __ t
-*#entellˈeːptu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#entellˈeptu# | 135 : [+syl] > [-long,-splng] 
-*#ent͡sellˈeptu# | 141 : t > t͡s / # e n __ [+syl,-back,-prim,-long] l
-Balkan Romance stage form : *#ent͡sellˈeptu#
-*#ent͡selˈeptu# | 207 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#ent͡selˈeptu#
-*#int͡selˈeptu# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnt͡selˈeptu# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨnt͡selˈeptw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨnt͡selˈept# | 291 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɨnt͡selˈept#
-Final form : *#ɨnt͡selˈept#
+#ˌintˌellˈiɡe# >>> *#ɨnt͡selˈed͡ʒe# ( GOLD : #ɨnt͡selˈed͡ʒe#) :
+ˌi n t ˌe l l ˈi ɡ e 
+*#intellˈiɡe# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#entellˈeɡe# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#ent͡sellˈeɡe# | 141 : t > t͡s / # e n __ [+syl,-back,-prim,-long] l
+*#ent͡sellˈeɡʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ent͡sellˈeɡʲe#
+*#ent͡sellˈɛɡʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ent͡selˈɛɡʲe# | 207 : {l l;m m} > {l;m} 
+*#ent͡selˈɛaɡʲe# | 216 : ∅ > a / [-tense] __
+*#ent͡selˈeˈaɡʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ent͡sele̯ˈaɡʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ent͡sele̯ˈaɟ͡ʑe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ent͡sele̯ˈad͡ʒe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ent͡sele̯ˈad͡ʒe#
+*#int͡sele̯ˈad͡ʒe# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#int͡selˈed͡ʒe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#ɨnt͡selˈed͡ʒe# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnt͡selˈed͡ʒe#
+Final form : *#ɨnt͡selˈed͡ʒe#

@@ -1,26 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 179:
-#skˌantˈiliam# >>> *#skɨntˈeje# ( GOLD : #skɨntˈeje#) :
-s k ˌa n t ˈi l i a m 
-*#skˌantˈiljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#skantˈiljam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#skantˈilja# | 44 : m > ∅ / [-stres] __ #
-*#iskantˈilja# | 120 : ∅ > i / # __ s [+cons,-son]
-*#eskantˈelja# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#skantˈelja# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skantˈelja#
-*#skantˈɛlja# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#skantˈɛlʲja# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#skantˈɛlʲa# | 209 : j > ∅ / [+cons,+front] __
-*#skantˈɛʎa# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#skantˈɛaʎa# | 216 : ∅ > a / [-tense] __
-*#skantˈeˈaʎa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#skante̯ˈaʎa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#skənte̯ˈaʎa# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#skənte̯ˈaʎə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#skənte̯ˈaʎe# | 230 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#skənte̯ˈaʎe#
-*#skəntˈeʎe# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#skɨntˈeʎe# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#skɨntˈeje# | 276 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#skɨntˈeje#
-Final form : *#skɨntˈeje#
+#strˈambum# >>> *#strˈɨmb# ( GOLD : #strˈɨmb#) :
+s t r ˈa m b u m 
+*#strˈambu# | 44 : m > ∅ / [-stres] __ #
+*#istrˈambu# | 120 : ∅ > i / # __ s [+cons,-son]
+*#estrˈambu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#strˈambu# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#strˈambu#
+*#stɾˈambu# | 173 : r > ɾ / __ [nnas,ncons]
+*#stɾˈəmbu# | 220 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#stɾˈəmbu#
+*#strˈəmbu# | 265 : ɾ > r 
+*#strˈɨmbu# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ m [+cons]
+*#strˈɨmbw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#strˈɨmb# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#strˈɨmb#
+Final form : *#strˈɨmb#

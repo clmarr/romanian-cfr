@@ -1,15 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1332:
-#ˌinterroɡˈaː# >>> *#ɨnteruɡˈa# ( GOLD : #ɨntrebˈa#) :
-ˌi n t e r r o ɡ ˈaː 
-*#interroɡˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enterroɡˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enterroɡˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enterroɡˈa#
-*#enterɾoɡˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#enterɾuɡˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#enterɾuɡˈa#
-*#enteruɡˈa# | 244 : {ɾ;r} > {∅;∅} / r __
-*#interuɡˈa# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnteruɡˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnteruɡˈa#
-Final form : *#ɨnteruɡˈa#
+#parˈietem# >>> *#perˈete# ( GOLD : #perˈete#) :
+p a r ˈi e t e m 
+*#parˈiete# | 44 : m > ∅ / [-stres] __ #
+*#pariˈeːte# | 122 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#parjˈeːte# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#parjˈete# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#parjˈete#
+*#paɾjˈete# | 173 : r > ɾ / __ [nnas,ncons]
+*#paɾjˈɛte# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#paɾʲjˈɛte# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#paɾʲˈɛte# | 209 : j > ∅ / [+cons,+front] __
+*#paɾʲˈɛate# | 216 : ∅ > a / [-tense] __
+*#paɾʲˈeˈate# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#paɾʲe̯ˈate# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pəɾʲe̯ˈate# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pəɾje̯ˈate# | 231 : ɾʲ > ɾ j / # ( ( [+cons] )* [-cons] ( [+cons] )* ) __ [-hi]
+Common Romanian stage form : *#pəɾje̯ˈate#
+*#pəɾjˈete# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pəɾˈete# | 258 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#pərˈete# | 265 : ɾ > r 
+*#perˈete# | 303 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
+Old Romanian stage form : *#perˈete#
+Final form : *#perˈete#

@@ -1,21 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 587:
-#pˌuteˈoːsa# >>> *#put͡ʃo̯ˈasə# ( GOLD : #put͡ʃo̯ˈasə#) :
-p ˌu t e ˈoː s a 
-*#pˌutjˈoːsa# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#putjˈoːsa# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#puttjˈoːsa# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#puttjˈosa# | 135 : [+syl] > [-long,-splng] 
-*#puttʲˈosa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#putkʲˈosa# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#pukʲˈosa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#pukʲˈosa#
-*#pukʲˈɔsa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pukʲˈɔasa# | 216 : ∅ > a / [-tense] __
-*#pukʲˈoˈasa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pukʲo̯ˈasa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pukʲo̯ˈasə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#puc͡ɕo̯ˈasə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#put͡ʃo̯ˈasə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#put͡ʃo̯ˈasə#
-Old Romanian stage form : *#put͡ʃo̯ˈasə#
-Final form : *#put͡ʃo̯ˈasə#
+#ˌae̯ruːɡˈiːna# >>> *#arud͡ʒˈinə# ( GOLD : #rud͡ʒˈinə#) :
+ˌa e̯ r uː ɡ ˈiː n a 
+*#ˌaruːɡˈiːna# | 0 : e̯ > ∅ / # [+lo] __ [+son]
+*#aruːɡˈiːna# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aruɡˈina# | 135 : [+syl] > [-long,-splng] 
+*#aruɡʲˈina# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#aruɡʲˈina#
+*#aɾuɡʲˈina# | 173 : r > ɾ / __ [nnas,ncons]
+*#aɾuɡʲjˈina# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#aɾuɡʲˈina# | 209 : j > ∅ / [+cons,+front] __
+*#aɾuɡʲˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#aɾuɟ͡ʑˈinə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#aɾud͡ʒˈinə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#aɾud͡ʒˈinə#
+*#arud͡ʒˈinə# | 265 : ɾ > r 
+Old Romanian stage form : *#arud͡ʒˈinə#
+Final form : *#arud͡ʒˈinə#

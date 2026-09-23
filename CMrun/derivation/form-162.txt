@@ -1,17 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 162:
-#pˌekˈulium# >>> *#pəkˈuj# ( GOLD : #pəkˈuj#) :
-p ˌe k ˈu l i u m 
-*#pˌekˈuljum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#pekˈuljum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pekˈulju# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#pekˈulju#
-*#pekˈulʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pekˈulʲu# | 209 : j > ∅ / [+cons,+front] __
-*#pekˈuʎu# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#pekˈuʎu#
-*#pəkˈuʎu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#pəkˈuju# | 276 : [+son,+cons,+front] > j 
-*#pəkˈujw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pəkˈuj# | 291 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pəkˈuj#
-Final form : *#pəkˈuj#
+#pˈerɡulam# >>> *#pjˈerɡje# ( GOLD : #pˈɨrɡje#) :
+p ˈe r ɡ u l a m 
+*#pˈerɡula# | 44 : m > ∅ / [-stres] __ #
+*#pˈerɡla# | 59 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
+*#pˈɛrɡla# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#pˈɛrɡla#
+*#pjˈɛrɡla# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈerɡla# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛrɡla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛarɡla# | 216 : ∅ > a / [-tense] __
+*#pjˈeˈarɡla# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈarɡla# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pje̯ˈarɡlə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pje̯ˈarɡʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
+*#pje̯ˈarɡʎe# | 230 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#pje̯ˈarɡʎe#
+*#pjˈerɡʎe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈerɡje# | 278 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#pjˈerɡje#
+Final form : *#pjˈerɡje#

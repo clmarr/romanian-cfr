@@ -1,22 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 129:
-#eːrˈikium# >>> *#arˈet͡s# ( GOLD : #arˈit͡ʃj#) :
-eː r ˈi k i u m 
-*#eːrˈikjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#aːrˈikjum# | 32 : eː > aː / # __ ( [+cons] )* [+hi]
-*#aːrˈikju# | 44 : m > ∅ / [-stres] __ #
-*#aːrˈikkju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#aːrˈekkju# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#arˈekkju# | 135 : [+syl] > [-long,-splng] 
-*#arˈektʲu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#arˈettʲu# | 144 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#arˈetʲu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#arˈetʲu#
-*#aɾˈetʲu# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾˈet͡sʲu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aɾˈet͡su# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#aɾˈet͡su#
-*#arˈet͡su# | 263 : ɾ > r 
-*#arˈet͡sw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#arˈet͡s# | 291 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#arˈet͡s#
-Final form : *#arˈet͡s#
+#fˌabrikˈaː# >>> *#ferekˈa# ( GOLD : #ferekˈa#) :
+f ˌa b r i k ˈaː 
+*#fabrikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#faβrikˈaː# | 132 : b > β / [-cons] __ [+cont]
+*#faβrekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#faβrekˈa# | 135 : [+syl] > [-long,-splng] 
+*#fawrekˈa# | 156 : β > w / __ [+son,+cons]
+Balkan Romance stage form : *#fawrekˈa#
+*#fawɾekˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#faɾekˈa# | 185 : w > ∅ / __ ɾ [+front,-lo]
+*#fəɾekˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fəɾekˈa#
+*#fərekˈa# | 265 : ɾ > r 
+*#ferekˈa# | 303 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
+Old Romanian stage form : *#ferekˈa#
+Final form : *#ferekˈa#

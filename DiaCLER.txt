@@ -881,7 +881,8 @@ $ R28 Unstressed [o] > [u]
 				$ seeing through -j- : non-raising of apropia, but raising dujos, adia, despuia, perhaps zgîrja -- but this is better explained by exscaberiare 
 		o > u / __ (([-syl])* [-lab,+cons] (j) [+syl] (@)*) #
 
-			$ evidence of SECONDARY LOWERING: olar (Arom. ular), cornut (Arom. curnut)
+			$ evidence of SECONDARY LOWERING: olar (Arom. ular), osânză (Arom. usândză)
+				$ cornut (Arom. curnut), amorți (Arom. amurtsiri), amorțesc (Amurtzesc)
 
 		$ CM 9/23 raising also occurs across the board before labial continuants
 			$ across the board for v and m -- cover j too 
@@ -890,17 +891,7 @@ $ R28 Unstressed [o] > [u]
 			$ before approximants j and w if not post-labial (prior l and r seen through) 
 		o > u / [-lab,nson,nnas] ([+son,+cor,-nas]) __ [-cons,-syl]
 
-			$ New conditioning as LOWERING RULES 
-			$ exception class 1: Cback (R) __ lab,-nas V
-					$ examples: excloppare > șchiopa, coperământ, coperi, descoperi 
-						$ not before pC -- cuptor, cuprinde
-						$ not before m -- âncumete, cumânda, cumineca  
-					$ unlike below, does not occur before w: cuveni, cuvântă,  cuvânt, cuviință
-				$ separate evidence of LOWERING in this context: cubitum > kˈubtu > kot 
-			$ exception class 2: Clab (R) __ Clab,-nas : apropia (apropjˈa) ploua (plowˈa), bouar 
-				$ all of these are somewhat suspicious cases, the verbs may be analogical
-
-
+			
 
 $ R29 {ELLU-related chanɡes (Not reɡular)
 	$ R29A Loss of stress in the postposed forms of 'ellu
@@ -1234,6 +1225,7 @@ $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
 
+
 $ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
 	$ vie, vie, mie, fie -- -ie not -ije endings
 	$ necessary for filium > fiu, vânăt, fân, pe, abi 
@@ -1276,6 +1268,19 @@ $ NEW RULE: Raising of [ə] before non-homorganic fricative+occlusive cluster wi
 	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback]
 		$ Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.
 
+$ CM 9/23 earlier raising in NT 
+[+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+
+
+$ NEW RULE CM 9/23 secondary u > o phenomena, not seen in Aromanian or most other varieties. 
+	$ Consider moving these later.
+	$ initial u > o before intervicalic alveolars continuants
+	$ countered by R53B, but bled by e > i in __ NT 
+		$ first rule -- olar, boteza, botejune, reposa
+u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
+		$ second rule -- porumb, porumbă, osunză, poturnichie 
+ə > o / # (p) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
+
 $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 	$ R53A Monophthonɡization of [e̯a] after [š] or [ts]
 		e̯ ˈa > ˈa / ʃ __
@@ -1298,11 +1303,11 @@ $ [s] palatalizes before [j] < [ʎ]. Feeds iea > ea .
 		$ EDIT: When this occurs before [m], it must be followed by a nonnasal consonant.
 		$ EDIT: When this occurs before [n], if it is immediately followed by a stressed vowel, that vowel must be [-hi].
 			[+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-			[+syl,+front,-hi,-lo] > [+hi] / __ n {[+cons];[+syl,-stres]} $ removed 9/18/26 by CM see note 1 below -- [+syl,+stres,-hi]}
+			[+syl,+front,-hi,-lo] > [+hi] / __ n [-stres] $ removed 9/18/26 by CM see note 1 below -- [+syl,+stres,-hi]}
 				$ "It is possible that some words were inherited from Late Latin with [e] already raised to [i] in this environment."
 				$ CM 9/18/2026 note 1 -- raising before non-high stressed vowels moved earlier -- cases of adineauri and ținea show it either sees through e̯ or happens before e̯ occurs; ținea shows it feeding affrication, which does not occur for casses in __ N C (timp, adins, dinte, tindă etc), nor for cases in __ n V-stres (cătină, piedin..). 
 				$ CM 9/18/2026 note 2 -- execptions pepene noaten pieptene have pattern... TODO
-
+				$ CM 9/23 -- moved raising in NT to before ea > e 
 
 $ NEW RULE: [e] aphaeresis. Feeds iea > ea phenomena. Bled by en > in. 
 	e > ∅ / # __ [-syl] [-cons]

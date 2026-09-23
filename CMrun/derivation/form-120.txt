@@ -1,19 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 120:
-#ekkuˈistum# >>> *#at͡ʃˈest# ( GOLD : #at͡ʃˈest#) :
-e k k u ˈi s t u m 
-*#ekkwˈistum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#akkwˈistum# | 31 : e > a / # __ k k
-*#akkwˈistu# | 44 : m > ∅ / [-stres] __ #
-*#akkβˈistu# | 100 : w > β / __ [-cons]
-*#akkβˈestu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#akβˈestu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#akˈestu# | 163 : β > ∅ 
-*#akʲˈestu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#akʲˈestu#
-*#ac͡ɕˈestu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#at͡ʃˈestu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#at͡ʃˈestu#
-*#at͡ʃˈestw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#at͡ʃˈest# | 291 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#at͡ʃˈest#
-Final form : *#at͡ʃˈest#
+#eksˈalbidum# >>> *#sˈalbed# ( GOLD : #sˈarbəd#) :
+e k s ˈa l b i d u m 
+*#eksˈalbidu# | 44 : m > ∅ / [-stres] __ #
+*#essˈalbidu# | 113 : k > s / __ s
+*#essˈalbedu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#ssˈalbedu# | 139 : e > ∅ / # __ s s [+syl,αfront,αlo]
+*#sˈalbedu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#sˈalbedu#
+Common Romanian stage form : *#sˈalbedu#
+*#sˈalbədu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#sˈalbedu# | 272 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / [+cons] ( [-cons,-syl,-round] ) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
+*#sˈalbedw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈalbed# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sˈalbed#
+Final form : *#sˈalbed#

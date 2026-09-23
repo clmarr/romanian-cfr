@@ -246,12 +246,14 @@ e > ∅ / [+syl] [+prim] [+cons] __ #
 {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
 n > r / ə __ [+syl,+hi,+back] [+nas]
 [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
+[+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
+ə > o / # ( p ) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
 e̯ ˈa > ˈa / ʃ __
 e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
 s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
 [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-[+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-[+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+[+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
 e > ∅ / # __ [-syl] [-cons]
 u > ∅ / # __ [+cons,-cor]
 j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]

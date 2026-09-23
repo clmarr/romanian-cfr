@@ -1,22 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 871:
-#kwˌiˈeːtam# >>> *#t͡ʃe̯ˈatə# ( GOLD : #t͡ʃe̯ˈatə#) :
-k w ˌi ˈeː t a m 
-*#kwiˈeːtam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwiˈeːta# | 44 : m > ∅ / [-stres] __ #
-*#kβiˈeːta# | 100 : w > β / __ [-cons]
-*#kβjˈeːta# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#kβjˈeta# | 135 : [+syl] > [-long,-splng] 
-*#kjˈeta# | 163 : β > ∅ 
-*#kʲjˈeta# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲjˈeta#
-*#kʲjˈɛta# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kʲˈɛta# | 209 : j > ∅ / [+cons,+front] __
-*#kʲˈɛata# | 216 : ∅ > a / [-tense] __
-*#kʲˈeˈata# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kʲe̯ˈata# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kʲe̯ˈatə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#c͡ɕe̯ˈatə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃe̯ˈatə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃe̯ˈatə#
-Old Romanian stage form : *#t͡ʃe̯ˈatə#
-Final form : *#t͡ʃe̯ˈatə#
+#rˈankidum# >>> *#rˈɨnt͡ʃed# ( GOLD : #rˈɨnt͡ʃed#) :
+r ˈa n k i d u m 
+*#rˈankidu# | 44 : m > ∅ / [-stres] __ #
+*#rˈankedu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#rˈankʲedu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#rˈankʲedu#
+*#ɾˈankʲedu# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾˈankʲedu# | 174 : ∅ > r / # __ ɾ
+*#rɾˈənkʲedu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#rɾˈənc͡ɕedu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rɾˈənt͡ʃedu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾˈənt͡ʃedu#
+*#rˈənt͡ʃedu# | 244 : {ɾ;r} > {∅;∅} / r __
+*#rˈɨnt͡ʃedu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#rˈɨnt͡ʃedw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rˈɨnt͡ʃed# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rˈɨnt͡ʃed#
+Final form : *#rˈɨnt͡ʃed#

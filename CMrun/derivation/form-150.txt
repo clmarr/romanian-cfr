@@ -1,15 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 150:
-#ˌinkˌarrikˈaː# >>> *#ɨnkərkˈa# ( GOLD : #ɨnkərkˈa#) :
-ˌi n k ˌa r r i k ˈaː 
-*#inkarrikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkarrkˈaː# | 68 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
-*#enkarrkˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkarrkˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkarrkˈa#
-*#enkərrkˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#enkərrkˈa#
-*#enkərkˈa# | 244 : {ɾ;r} > {∅;∅} / r __
-*#inkərkˈa# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnkərkˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnkərkˈa#
-Final form : *#ɨnkərkˈa#
+#ˌinkˌonɡˌyːrˈaː# >>> *#ɨnkunʒurˈa# ( GOLD : #ɨnkunʒurˈa#) :
+ˌi n k ˌo n ɡ ˌyː r ˈaː 
+*#inkonɡyːrˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inkonɡjyːrˈaː# | 17 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
+*#inkonɡjuːrˈaː# | 19 : [+front,+round] > [-front,+back] 
+*#enkonɡjuːrˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkonɡjurˈa# | 135 : [+syl] > [-long,-splng] 
+*#enkondʲurˈa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#enkonɡʲurˈa# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#enkonɡʲurˈa#
+*#enkonɡʲuɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#enkunɡʲuɾˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#enkunɟ͡ʑuɾˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#enkund͡ʒuɾˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#enkund͡ʒuɾˈa#
+*#inkund͡ʒuɾˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#inkund͡ʒurˈa# | 265 : ɾ > r 
+*#ɨnkund͡ʒurˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnkunʒurˈa# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ɨnkunʒurˈa#
+Final form : *#ɨnkunʒurˈa#

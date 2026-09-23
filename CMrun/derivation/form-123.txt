@@ -1,14 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 123:
-#ekskˌambiˈaː# >>> *#skɨmbjˈa# ( GOLD : #skimbˈa#) :
-e k s k ˌa m b i ˈaː 
-*#ekskˌambjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ekskambjˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eskambjˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskambjˈa# | 135 : [+syl] > [-long,-splng] 
-*#skambjˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skambjˈa#
-*#skəmbjˈa# | 220 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#skəmbjˈa#
-*#skɨmbjˈa# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ m [+cons]
-Old Romanian stage form : *#skɨmbjˈa#
-Final form : *#skɨmbjˈa#
+#ekskˌappˈaː# >>> *#skəpˈa# ( GOLD : #skəpˈa#) :
+e k s k ˌa p p ˈaː 
+*#ekskappˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#eskappˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskappˈa# | 135 : [+syl] > [-long,-splng] 
+*#skappˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#skapˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#skapˈa#
+*#skəpˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skəpˈa#
+Old Romanian stage form : *#skəpˈa#
+Final form : *#skəpˈa#
