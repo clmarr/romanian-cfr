@@ -47,7 +47,7 @@ $ NEW RULE: cōn- stressing.
 
 $ NEW RULE: [k] voices before (either primarily or secondarily) stressed [aw]
 	$ Counterbled by loss of secondary stress.
-		k > ɡ / __ [+lo,+stres] w
+		$k > ɡ / __ [+lo,+stres] w
 
 
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
@@ -450,9 +450,6 @@ $ R10 {Various consonant assimilations}
 		p > s / __ s
 
 
-$ Pardess mentions a dissimilation occurring near here in R22C. The following appears to be the correct formulation.
-	m > w / [+lo,-long] __ n
-
 
 $ R10C Velar assimilation
 	$ Replaced Pardess's original formulation with something new below.
@@ -660,22 +657,6 @@ $ NEW (moved from later in cascade and reformulated) RULE: Depalatalization befo
 		$ otherwise -- before non-low segments, and after anything but a tonic syllable -- they retract to kʲ gʲ
 	[-cont,+front] > [-cor,-ant,+back] / # ((@)* [-prim]) ([-syl])* __ [-lo]
 
-$ R20 Attraction of ɡlides
-	$ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
-	$ Pardess implies but doesn't state explicitly that the only "clusters" that this move can occur across are geminates
-		$∅ [+cons] j > j [+cons] ∅ / [+stres] __
-		$ This one actually seems like it only occurs across [r]...
-			$r j > j r / @ [+stres] __
-						$ CM 9/18/26  -- now handled by palatal r unpacking.
-				$ This does not occur in aream>arie, hence the @.
-		$∅ [+cons] w > w [+cons] ∅ / [+stres] __  $ -- CM 9/18/26 -- suppressed, no effect.
-		$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] j > j [+cons] [+cons] ∅ / [+stres] __
-		$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] w > w [+cons] [+cons] ∅ / [+stres] __
-			$ For some reason, these aren't working. FLAG -- Ask clayton about this because it's definitely a DiaSim problem and not a formulation problem. For now, using the following because these are the only two scenarios that actually appear in the data.
-				∅ b b j > j b b ∅ / [+stres] __
-				$∅ l l j > j l l ∅ / [+stres] __ $ This one appears not to have occurred; causes wrong effects bleeding ʎ 
-		$ TODO NOTE FOR WRITING -- relevant to Albanian i-mutation conditioning that this is the only real glide metathesis rule -- after a labial .
-
 $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 	s > z / # __ [+voi,-son]
 		$ Actually, Pardess says that this is due to how the letter <x> was already pronounced in Classical Latin (page 29). We may want to simply alter these words in the lexicon file at some point. FLAG
@@ -698,7 +679,6 @@ $ R22 {Beta becomes v/b/w/ɡ/∅}
 				$ The Latin word from which berbec descends (vervex) apparently became berbex before the breakup of Latin (REW 9270).
 				$ The other exceptions are handled by preceding new rule.
 
-			
 $ NEW RULE: [β] > [v] between vowel and [ˈe]
 	β > v / [+syl] __ ˈe
 				
@@ -718,10 +698,44 @@ $ NEW RULE: [β] > [v] between vowel and [ˈe]
 	$ R22C [β] becomes the velar ɡlide [w] before a resonant
 		β > w / __ [+son,+cons]
 
+$ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]. 
+		$ ll,nn,rr simplified later because of conditioning of later phenomena... excluded unless this can be postdated to after these. 
+		$ CM 9/18/26 -- DEGEMINATION CONSOLIDATION -- all obstruents degeminate at this time. Mm is handled later with ll. 
+			$ applies also to t/d+palatal, but does not degeminate pt -- moved to after β-fortition, but before β deletion, which it doesn't feed.
+			$ can actually capture this with just agreement in two features: cont and lab
+		$formerly:	{p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
+	[-son,scont,blab] > ∅ / __ [-son,scont,blab] 
+
+
+	$ CM 9/23 -- hopefully final final k > g rule -- initial, can see through s mobile, requires only sonorants and vowels following -- classic lenition rule really, just somewhat elaborate
+k > ɡ / # (s) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son] (j)) [-prim] )* #
+
+$ R20 Attraction of ɡlides
+	$ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
+	$ Pardess implies but doesn't state explicitly that the only "clusters" that this move can occur across are geminates
+		$∅ [+cons] j > j [+cons] ∅ / [+stres] __
+		$ This one actually seems like it only occurs across [r]...
+			$r j > j r / @ [+stres] __
+						$ CM 9/18/26  -- now handled by palatal r unpacking.
+				$ This does not occur in aream>arie, hence the @.
+		$∅ [+cons] w > w [+cons] ∅ / [+stres] __  $ -- CM 9/18/26 -- suppressed, no effect.
+		$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] j > j [+cons] [+cons] ∅ / [+stres] __
+		$∅ [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] [+cons,αvoi,βlab,ɣcor,ɛant,θcont,ʎson,ʋnas,ɸlat] w > w [+cons] [+cons] ∅ / [+stres] __
+			$ For some reason, these aren't working. FLAG -- Ask clayton about this because it's definitely a DiaSim problem and not a formulation problem. For now, using the following because these are the only two scenarios that actually appear in the data.
+				$∅ b b j > j b b ∅ / [+stres] __
+				$∅ l l j > j l l ∅ / [+stres] __ $ This one appears not to have occurred; causes wrong effects bleeding ʎ 
+		$ TODO NOTE FOR WRITING -- relevant to Albanian i-mutation conditioning that this is the only real glide metathesis rule -- after a labial .
+	$ CM 9/23 -- moving this to after degemination -- happens to bj. 
+		b j > j b / [+stres] __ 
+
+$ Pardess mentions a dissimilation occurring near here in R22C. The following appears to be the correct formulation.
+	$ CM 9/23 -- moved to after k voicing, which it counterfeeds
+	m > w / [+lo] __ n
+
 $ [β] > [w] word-finally
 	β > w̥ / __ #
 
-$ NEW RULE: [β] > [w] between [(ˈ)o] and [(ˈ)a]
+$ NEW RULE: [β] > [w] between [(ˈ)o] and [(ˈ)a] 
 	β > w / [+syl,+round,-hi] __ [+syl,+lo]
 		$ Only affects a couple of words... FLAG -- reexamine later
 
@@ -746,14 +760,6 @@ $ HIATUS RESOLUTION RULES
 	$ [e] preyodizes after non-palatal vowels
 		∅ > j / [+syl,+stres,αfront,αlo] __ e
 
-
-$ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]. 
-		$ ll,nn,rr simplified later because of conditioning of later phenomena... excluded unless this can be postdated to after these. 
-		$ CM 9/18/26 -- DEGEMINATION CONSOLIDATION -- all obstruents degeminate at this time. Mm is handled later with ll. 
-			$ applies also to t/d+palatal, but does not degeminate pt
-			$ can actually capture this with just agreement in two features: cont and lab
-		$formerly:	{p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
-	[-son,scont,blab] > ∅ / __ [-son,scont,blab] 
 
 
 $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
@@ -842,11 +848,21 @@ $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 		$ EDIT: [j]-insertion only allowed after consonant cluster if cluster is [mn] (only attested with one word... FLAG -- reexamine later) or [st].
 		$ EDIT: [j]-insertion only occurs before the stressed variant of this vowel, not the unstressed outcomes of R2A.
 			∅ > j / [+syl] __ [-cons,-tense,+prim]
-			∅ > j / {#;[-cons]} [+cons] __ [-cons,-tense,+prim]
+			∅ > j / # ((@)* [-cons]) [+cons] __ [-cons,-tense,+prim]
 			∅ > j / m n __ [-cons,-tense,+prim]
 			∅ > j / s t __ [-cons,-tense,+prim]
 		$ [ɛ] always tenses regardless of [j]-insertion:
 			[-cons,-tense] > [+tense]
+
+$ CM 9/23 w-coloring and prerhotic w-deletion rule
+	$ w-coloring: i,e > u,o between front element and w  : ciur, fior 
+		$ fed by R27B 
+[+syl] > [+round,+lab,-front,+back] / [+front] __ w
+
+	$ w-deletion before ɾ followed by front and non-low elements: fawrekˈa > fereca, fjˈowri > fjor, kʲuwri > ciur, excavVriat > zgawrje > zgârje , etc.
+		$ not before back: lăuruscă, graur < grawru, aurarium > awrarju > aurar, taur, laur, etc. 
+		$ not before low : aura, făurar, gaură 
+w > ∅ / __ ɾ [+front,-lo]
 
 $ R28 Unstressed [o] > [u]
 	$ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
@@ -886,7 +902,7 @@ $ R28 Unstressed [o] > [u]
 
 
 
-$ R29 {ELLU-related chanɡes (Not reɡular)}
+$ R29 {ELLU-related chanɡes (Not reɡular)
 	$ R29A Loss of stress in the postposed forms of 'ellu
 		$ Not a reɡular chanɡe but for reference:
 		$ "e > [-stres] / # __ in the postposed article"
@@ -1136,9 +1152,9 @@ $ R38 [e'a] > [e̯'a]
 
 
 $ NEW RULE: Reflex of Latin -llam lost when preceding vowel tenses and breaks
-	w ə > ∅ / [-cons,-syl] ˈa __ #
+	w ə > ∅ / [-cons,-syl] ˈa __ 
 		$ Quite possibly the schwa was deleted first and the resulting triphthong was dispreferred, so the [w] was subsequently deleted as well.
-		$ CM 9/18/26 -- only after ˈa (not just [+syl]) -- not after ji. 
+		$ CM 9/18/26 -- only after ˈa (not just [+syl]) -- not after ji -- but 9/23, doesn't need to be word final (was, formerly)
 
 	
 
@@ -1157,9 +1173,10 @@ $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 
 		$CM 9/18/26 PALATAL r UNPACKING
 			$ -- ɾʲ unpacks instead of depalatalizing -- but it counterbleeds R44.
-			$ becomes j ɾ after non-initial tonic vowel. Otherwise ɾ j 
-	ɾʲ > j ɾ / @ [+prim] __
-	ɾʲ > ɾ j
+			$ becomes ɾʲ if before non-high vocoid, and no more than one vocoid earlier in the word (not muria > moare) 
+	ɾʲ > ɾ j / # (([+cons])* [-cons] ([+cons])*) __ [-hi]
+			$ j ɾ after non-initial tonic vowel. Otherwise ɾ j 
+	ɾʲ > j ɾ 
 
 $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
 	$ R45A Assimilation: [s] > [š] before [č]
