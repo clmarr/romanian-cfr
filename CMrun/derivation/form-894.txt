@@ -1,17 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 894:
-#jˈuːdeks# >>> *#ʒˈude# ( GOLD : #ʒˈude#) :
-j ˈuː d e k s 
-*#djˈuːdeks# | 106 : j > d j / # __ [+syl] [+cons]
-*#djˈuːdess# | 115 : k > s / __ s
-*#djˈudess# | 137 : [+syl] > [-long,-splng] 
-*#dʲˈudess# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡʲˈudess# | 148 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲˈudes# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ɡʲˈude# | 172 : s > ∅ / __ #
-Balkan Romance stage form : *#ɡʲˈude#
-*#ɟ͡ʑˈude# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈude# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒˈude#
-*#ʒˈude# | 295 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#ʒˈude#
-Final form : *#ʒˈude#
+#hˈospitem# >>> *#o̯ˈaspete# ( GOLD : #o̯ˈaspete#) :
+h ˈo s p i t e m 
+*#ˈospitem# | 41 : h > ∅ 
+*#ˈospite# | 45 : m > ∅ / [-stres] __ #
+*#ˈospete# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ˈospete#
+*#ˈɔspete# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔaspete# | 228 : ∅ > a / [-tense] __
+*#ˈoˈaspete# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈaspete# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#o̯ˈaspete#
+Old Romanian stage form : *#o̯ˈaspete#
+Final form : *#o̯ˈaspete#

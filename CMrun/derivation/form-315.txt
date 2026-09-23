@@ -1,12 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 315:
-#spˌurkˈaː# >>> *#spurkˈa# ( GOLD : #spurkˈa#) :
-s p ˌu r k ˈaː 
-*#spurkˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ispurkˈaː# | 122 : ∅ > i / # __ s [+cons,-son]
-*#espurkˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#espurkˈa# | 137 : [+syl] > [-long,-splng] 
-*#spurkˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spurkˈa#
-Common Romanian stage form : *#spurkˈa#
-Old Romanian stage form : *#spurkˈa#
-Final form : *#spurkˈa#
+#pˈektinoː# >>> *#pjˈeptin# ( GOLD : #pjˈeptən#) :
+p ˈe k t i n oː 
+*#pˈeptinoː# | 113 : k > p / __ t
+*#pˈɛptinoː# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛptenoː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#pˈɛpteno# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈɛpteno#
+*#pjˈɛpteno# | 180 : ∅ > j / # [+cons] __ [-cons,-tense,+prim]
+*#pjˈepteno# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈeptenu# | 186 : o > u / __ ( [+cons,+lab,+voi] ) #
+*#pjˈɛptenu# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛaptenu# | 228 : ∅ > a / [-tense] __
+*#pjˈeˈaptenu# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈaptenu# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#pje̯ˈaptenu#
+*#pjˈeptenu# | 261 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈeptinu# | 265 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+syl,-stres]
+*#pjˈeptinw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pjˈeptin# | 303 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pjˈeptin#
+Final form : *#pjˈeptin#

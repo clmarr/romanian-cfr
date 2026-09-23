@@ -1,14 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1056:
-#kˌomprˈende# >>> *#koprˈinde# ( GOLD : #kuprˈinde#) :
-k ˌo m p r ˈe n d e 
-*#komprˈende# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#koprˈende# | 80 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#koprˈɛnde# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#koprˈɛnde#
-*#kopɾˈɛnde# | 173 : r > ɾ / __ [nnas,ncons]
-*#kopɾˈende# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#kopɾˈende#
-*#kopɾˈinde# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#koprˈinde# | 275 : ɾ > r 
-Old Romanian stage form : *#koprˈinde#
-Final form : *#koprˈinde#
+#bˈattue# >>> *#bˈate# ( GOLD : #bˈate#) :
+b ˈa t t u e 
+*#bˈattwe# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#bˈattβe# | 101 : w > β / __ [-cons]
+*#bˈatte# | 162 : β > ∅ 
+*#bˈate# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#bˈate#
+Common Romanian stage form : *#bˈate#
+Old Romanian stage form : *#bˈate#
+Final form : *#bˈate#

@@ -1,22 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 713:
-#ˌarmissˈaːrium# >>> *#arməsˈar# ( GOLD : #arməsˈar#) :
-ˌa r m i s s ˈaː r i u m 
-*#ˌarmissˈaːrjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#armissˈaːrjum# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#armissˈaːrju# | 45 : m > ∅ / [-stres] __ #
-*#armessˈaːrju# | 135 : [+syl,-long,+hi,-back] > [-hi] 
-*#armessˈarju# | 137 : [+syl] > [-long,-splng] 
-*#armesˈarju# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#armesˈarju#
-*#aɾmesˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾmesˈaɾʲju# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#aɾmesˈaɾʲu# | 221 : j > ∅ / [+cons,+front] __
-*#aɾmesˈajɾu# | 243 : ɾʲ > j ɾ / @ [+prim] __
-Common Romanian stage form : *#aɾmesˈajɾu#
-*#aɾməsˈajɾu# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#arməsˈajru# | 275 : ɾ > r 
-*#arməsˈajrw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#arməsˈajr# | 303 : w̥ > ∅ / [-syl] __ #
-*#arməsˈar# | 309 : j > ∅ / __ r
-Old Romanian stage form : *#arməsˈar#
-Final form : *#arməsˈar#
+#rhˌonkidiˈaː# >>> *#runkezˈa# ( GOLD : #rɨnkezˈa#) :
+r h ˌo n k i d i ˈaː 
+*#rhˌonkidjˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rhonkidjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ronkidjˈaː# | 41 : h > ∅ 
+*#ronkiddjˈaː# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#ronkeddjˈaː# | 135 : [+syl,-long,+hi,-back] > [-hi] 
+*#ronkeddjˈa# | 137 : [+syl] > [-long,-splng] 
+*#ronkeddʲˈa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ronkedʲˈa# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#ronkʲedʲˈa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ronkʲedʲˈa#
+*#ɾonkʲedʲˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾonkʲedʲˈa# | 174 : ∅ > r / # __ ɾ
+*#rɾunkʲedʲˈa# | 196 : o > u / __ [-syl,-lab] [-syl,-lab,-son]
+*#rɾunkedʲˈa# | 224 : [+back,+front] [+syl] > [-front] [-hi]/ [+cor,+son] [+syl] ( n ) __ ( [+voi,-syl] ) [+prim,-round,-hi]
+*#rɾunked͡zʲˈa# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rɾunked͡zˈa# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾunked͡zˈa#
+*#runked͡zˈa# | 256 : {ɾ;r} > {∅;∅} / r __
+*#runkezˈa# | 294 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#runkezˈa#
+Final form : *#runkezˈa#

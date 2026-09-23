@@ -1,18 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 788:
-#sˌerpˈentiam# >>> *#serpˈɨnt͡sə# ( GOLD : #ʃerpˈɨnt͡sə#) :
-s ˌe r p ˈe n t i a m 
-*#sˌerpˈentjam# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#serpˈentjam# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#serpˈentja# | 45 : m > ∅ / [-stres] __ #
-*#serpˈɛntja# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#serpˈɛntʲa# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#serpˈɛntʲa#
-*#serpˈentʲa# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#serpˈentʲə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
-*#serpˈent͡sʲə# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#serpˈent͡sə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#serpˈent͡sə#
-*#serpˈənt͡sə# | 253 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#serpˈɨnt͡sə# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#serpˈɨnt͡sə#
-Final form : *#serpˈɨnt͡sə#
+#brˈoːskam# >>> *#bro̯ˈaskə# ( GOLD : #bro̯ˈaskə#) :
+b r ˈoː s k a m 
+*#brˈoːska# | 45 : m > ∅ / [-stres] __ #
+*#brˈoska# | 137 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#brˈoska#
+*#bɾˈoska# | 173 : r > ɾ / __ [nnas,ncons]
+*#bɾˈɔska# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#bɾˈɔaska# | 228 : ∅ > a / [-tense] __
+*#bɾˈoˈaska# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#bɾo̯ˈaska# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#bɾo̯ˈaskə# | 239 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#bɾo̯ˈaskə#
+*#bro̯ˈaskə# | 275 : ɾ > r 
+Old Romanian stage form : *#bro̯ˈaskə#
+Final form : *#bro̯ˈaskə#

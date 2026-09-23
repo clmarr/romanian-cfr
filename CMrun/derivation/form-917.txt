@@ -1,20 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 917:
-#prˈetium# >>> *#prˈet͡s# ( GOLD : #prˈet͡s#) :
-p r ˈe t i u m 
-*#prˈetjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#prˈetju# | 45 : m > ∅ / [-stres] __ #
-*#prˈɛtju# | 131 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#prˈɛttju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#prˈɛttʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#prˈɛtʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#prˈɛtʲu#
-*#pɾˈɛtʲu# | 173 : r > ɾ / __ [nnas,ncons]
-*#pɾˈetʲu# | 184 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pɾˈet͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pɾˈet͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pɾˈet͡su#
-*#prˈet͡su# | 275 : ɾ > r 
-*#prˈet͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#prˈet͡s# | 303 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#prˈet͡s#
-Final form : *#prˈet͡s#
+#neɡˈoːtium# >>> *#neɡˈot͡s# ( GOLD : #neɡˈot͡s#) :
+n e ɡ ˈoː t i u m 
+*#neɡˈoːtjum# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#neɡˈoːtju# | 45 : m > ∅ / [-stres] __ #
+*#neɡˈoːttju# | 133 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#neɡˈottju# | 137 : [+syl] > [-long,-splng] 
+*#neɡˈottʲu# | 145 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#neɡˈotʲu# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#neɡˈotʲu#
+*#neɡˈot͡sʲu# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#neɡˈot͡su# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#neɡˈot͡su#
+*#neɡˈot͡sw̥# | 302 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#neɡˈot͡s# | 303 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#neɡˈot͡s#
+Final form : *#neɡˈot͡s#

@@ -1,16 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 396:
-#ˌokkˈiːde# >>> *#ut͡ʃˈide# ( GOLD : #ut͡ʃˈide#) :
-ˌo k k ˈiː d e 
-*#okkˈiːde# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#okkˈide# | 137 : [+syl] > [-long,-splng] 
-*#okˈide# | 167 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#okʲˈide# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#okʲˈide#
-*#ukʲˈide# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
-*#ukʲjˈide# | 218 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ukʲˈide# | 221 : j > ∅ / [+cons,+front] __
-*#uc͡ɕˈide# | 246 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ut͡ʃˈide# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ut͡ʃˈide#
-Old Romanian stage form : *#ut͡ʃˈide#
-Final form : *#ut͡ʃˈide#
+#mˈortem# >>> *#mo̯ˈarte# ( GOLD : #mo̯ˈarte#) :
+m ˈo r t e m 
+*#mˈorte# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#mˈorte#
+*#mˈɔrte# | 210 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mˈɔarte# | 228 : ∅ > a / [-tense] __
+*#mˈoˈarte# | 229 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mo̯ˈarte# | 230 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#mo̯ˈarte#
+Old Romanian stage form : *#mo̯ˈarte#
+Final form : *#mo̯ˈarte#
