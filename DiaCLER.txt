@@ -851,12 +851,40 @@ $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 $ R28 Unstressed [o] > [u]
 	$ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
 	$ EDITː Blocked by p in following consonant cluster (up to two phones away) or double sonorant (geminates OK). breaks koktorium>cuptor but everything else works
-		o > u / __ ({[+cons,+lab,+voi];[-syl,-lab]}) {[+syl];#} $ blocks singleton p and all clusters (allowed clusters follow) (also handles cases with no following consonants)
+		$o > u / __ ({[+cons,+lab,+voi];[-syl,-lab]}) {[+syl];#} $ blocks singleton p and all clusters (allowed clusters follow) (also handles cases with no following consonants)
 			$ Additional note on the above rule: The first feature matrix has [+cons] because this does not occur before [w]. This does, however, occur before [j], hence the [-syl] in the second matrix.
-		o > u / __ {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} {[-syl,+lab,+voi];[-syl,-lab]} $ blocks sonorant-initial clusters while letting sonorant-final clusters pass through...
-		o > u / __ {[-syl,+lab,+voi];[-syl,-lab]} {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} $ ...blocks sonorant-final clusters while letting sonorant-initial clusters pass through
-		o > u / __ {r;l l;n n;m m} $ geminate handling
+		$o > u / __ {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} {[-syl,+lab,+voi];[-syl,-lab]} $ blocks sonorant-initial clusters while letting sonorant-final clusters pass through...
+		$o > u / __ {[-syl,+lab,+voi];[-syl,-lab]} {[-syl,+lab,+voi,-son];[-syl,-lab,-son]} $ ...blocks sonorant-final clusters while letting sonorant-initial clusters pass through
+		$o > u / __ {r;l l;n n;m m} $ geminate handling
 			$ Now that we have [p]-deletion and know that it has to precede k>p, vocalism in baptidza(re)>boteza and baptidionem>botejune is no longer accurately explained by this conditioning... FLAG -- reexamine later
+		
+		$ CM 9/23 consolidation back to u > o -- preserved old rules above in comments.  
+			$ instead having general raising rule finally, or if the onset of next syllable (seeing through j -- case of apropia etc) is not labial-final, then sweeping up exceptions 
+			$ non-occurrence before sylls with labial onsets -- examples: sorbi, oină, ospăț, ospăta, a ploua, bo(u)ar, schiopa, coperământ, coperi, descoperi 
+				$ but OCCURENCE before labials if the next syllable is not labial initial: cuprinde, uita, etc. 
+				$ seeing through -j- : non-raising of apropia, but raising dujos, adia, despuia, perhaps zgîrja -- but this is better explained by exscaberiare 
+		o > u / __ (([-syl])* [-lab,+cons] (j) [+syl] (@)*) #
+
+			$ evidence of SECONDARY LOWERING: olar (Arom. ular), cornut (Arom. curnut)
+
+		$ CM 9/23 raising also occurs across the board before labial continuants
+			$ across the board for v and m -- cover j too 
+		o > u / __ [+lab,+cont,+cons]
+
+			$ before approximants j and w if not post-labial (prior l and r seen through) 
+		o > u / [-lab,nson,nnas] ([+son,+cor,-nas]) __ [-cons,-syl]
+
+			$ New conditioning as LOWERING RULES 
+			$ exception class 1: Cback (R) __ lab,-nas V
+					$ examples: excloppare > șchiopa, coperământ, coperi, descoperi 
+						$ not before pC -- cuptor, cuprinde
+						$ not before m -- âncumete, cumânda, cumineca  
+					$ unlike below, does not occur before w: cuveni, cuvântă,  cuvânt, cuviință
+				$ separate evidence of LOWERING in this context: cubitum > kˈubtu > kot 
+			$ exception class 2: Clab (R) __ Clab,-nas : apropia (apropjˈa) ploua (plowˈa), bouar 
+				$ all of these are somewhat suspicious cases, the verbs may be analogical
+
+
 
 $ R29 {ELLU-related chanɡes (Not reɡular)}
 	$ R29A Loss of stress in the postposed forms of 'ellu

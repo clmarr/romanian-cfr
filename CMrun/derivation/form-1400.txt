@@ -1,18 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1400:
-#ekskoriˈaː# >>> *#zɡorjˈa# ( GOLD : #zɡɨrjˈa#) :
-e k s k o r i ˈaː 
-*#ekskorjˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#eskorjˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskorjˈa# | 137 : [+syl] > [-long,-splng] 
-*#skorjˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skorjˈa#
-*#skoɾjˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#sɡoɾjˈa# | 175 : k > ɡ / __ [+back,-stres] [+cor,-cont] [-syl,-cons] [+prim]
-*#zɡoɾjˈa# | 177 : s > z / # __ [+voi,-son]
-*#zɡoɾʲjˈa# | 220 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#zɡoɾʲˈa# | 221 : j > ∅ / [+cons,+front] __
-*#zɡoɾjˈa# | 244 : ɾʲ > ɾ j 
-Common Romanian stage form : *#zɡoɾjˈa#
-*#zɡorjˈa# | 275 : ɾ > r 
-Old Romanian stage form : *#zɡorjˈa#
-Final form : *#zɡorjˈa#
+#ˌekskˌaberiˈaː# >>> *#skərjˈa# ( GOLD : #zɡɨrjˈa#) :
+ˌe k s k ˌa b e r i ˈaː 
+*#ˌekskˌaberjˈaː# | 9 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ekskaberjˈaː# | 16 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#eskaberjˈaː# | 108 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskaβerjˈaː# | 134 : b > β / [-cons] __ [+cont]
+*#eskaβerjˈa# | 137 : [+syl] > [-long,-splng] 
+*#skaβerjˈa# | 138 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#skaerjˈa# | 162 : β > ∅ 
+*#skarjˈa# | 163 : [+syl,-stres] > ∅ / a __
+Balkan Romance stage form : *#skarjˈa#
+*#skaɾjˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#skaɾʲjˈa# | 207 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#skaɾʲˈa# | 208 : j > ∅ / [+cons,+front] __
+*#skəɾʲˈa# | 226 : [-cons,+lo,-stres,-long] > ə / @ __
+*#skəɾjˈa# | 231 : ɾʲ > ɾ j 
+Common Romanian stage form : *#skəɾjˈa#
+*#skərjˈa# | 262 : ɾ > r 
+Old Romanian stage form : *#skərjˈa#
+Final form : *#skərjˈa#

@@ -6,10 +6,10 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1332:
 *#enterroɡˈa# | 137 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#enterroɡˈa#
 *#enterɾoɡˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#enterɾuɡˈa# | 187 : o > u / __ ( [-syl,-lab] ) [+syl]
+*#enterɾuɡˈa# | 185 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
 Common Romanian stage form : *#enterɾuɡˈa#
-*#enteruɡˈa# | 256 : {ɾ;r} > {∅;∅} / r __
-*#interuɡˈa# | 264 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnteruɡˈa# | 290 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#enteruɡˈa# | 243 : {ɾ;r} > {∅;∅} / r __
+*#interuɡˈa# | 251 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnteruɡˈa# | 277 : [+syl,+front,+hi] > [-front] / # __ [+nas]
 Old Romanian stage form : *#ɨnteruɡˈa#
 Final form : *#ɨnteruɡˈa#

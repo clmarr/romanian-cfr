@@ -183,22 +183,9 @@ s > z / # __ [+voi,-son]
 ∅ > j / m n __ [-cons,-tense,+prim]
 ∅ > j / s t __ [-cons,-tense,+prim]
 [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-o > u / __ ( [+cons,+lab,+voi] ) [+syl]
-o > u / __ ( [+cons,+lab,+voi] ) #
-o > u / __ ( [-syl,-lab] ) [+syl]
-o > u / __ ( [-syl,-lab] ) #
-o > u / __ [-syl,+lab,+voi,-son] [-syl,+lab,+voi]
-o > u / __ [-syl,+lab,+voi,-son] [-syl,-lab]
-o > u / __ [-syl,-lab,-son] [-syl,+lab,+voi]
-o > u / __ [-syl,-lab,-son] [-syl,-lab]
-o > u / __ [-syl,+lab,+voi] [-syl,+lab,+voi,-son]
-o > u / __ [-syl,+lab,+voi] [-syl,-lab,-son]
-o > u / __ [-syl,-lab] [-syl,+lab,+voi,-son]
-o > u / __ [-syl,-lab] [-syl,-lab,-son]
-o > u / __ r
-o > u / __ l l
-o > u / __ n n
-o > u / __ m m
+o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+o > u / __ [+lab,+cont,+cons]
+o > u / [-lab,nson,nnas] ( [+son,+cor,-nas] ) __ [-cons,-syl]
 ∅ > j / # __ e [-son]
 ∅ > j / # __ ˈe [-nas]
 ∅ > j / # __ ˈe #
