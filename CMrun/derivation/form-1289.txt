@@ -1,24 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1289:
-#dˈae̯dam# >>> *#zˈadə# ( GOLD : #zˈadə#) :
-d ˈa e̯ d a m 
-*#dˈajdam# | 11 : e̯ > j 
-*#dˈɛːdam# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
-*#dˈɛːda# | 44 : m > ∅ / [-stres] __ #
-*#dˈɛda# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dˈɛda#
-*#djˈɛda# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#djˈeda# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#djˈɛda# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#dʲjˈɛda# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dʲˈɛda# | 209 : j > ∅ / [+cons,+front] __
-*#dʲˈɛada# | 216 : ∅ > a / [-tense] __
-*#dʲˈeˈada# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dʲe̯ˈada# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#dʲe̯ˈadə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#d͡zʲe̯ˈadə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ze̯ˈadə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ze̯ˈadə#
-*#d͡zˈadə# | 264 : e̯ > ∅ / [+delrel,-distr] __ ˈa [+voi,+cor]
-*#zˈadə# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#zˈadə#
-Final form : *#zˈadə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1289:
+#habˈeː# >>> *#ave̯ˈa# ( GOLD : #ave̯ˈa#) :
+h a b ˈeː 
+*#abˈeː# | 40 : h > ∅ 
+*#aβˈeː# | 132 : b > β / [-cons] __ [+cont]
+*#aβˈe# | 135 : [+syl] > [-long,-splng] 
+*#avˈe# | 150 : β > v / [+syl] __ ˈe
+Balkan Romance stage form : *#avˈe#
+*#avˈɛ# | 201 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
+*#avˈɛa# | 216 : ∅ > a / [-tense] __
+*#avˈeˈa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ave̯ˈa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ave̯ˈa#
+Old Romanian stage form : *#ave̯ˈa#
+Final form : *#ave̯ˈa#

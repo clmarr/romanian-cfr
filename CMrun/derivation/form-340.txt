@@ -1,11 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 340:
-#pˌensˈaː# >>> *#pəsˈa# ( GOLD : #pəsˈa#) :
-p ˌe n s ˈaː 
-*#pensˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#peːsˈaː# | 102 : [+syl] n > [+long] ∅/ # [+cons] __ [-son,+cont]
-*#pesˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pesˈa#
-Common Romanian stage form : *#pesˈa#
-*#pəsˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-Old Romanian stage form : *#pəsˈa#
-Final form : *#pəsˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 340:
+#patˈiː# >>> *#pət͡sˈi# ( GOLD : #pət͡sˈi#) :
+p a t ˈiː 
+*#patˈi# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#patˈi#
+*#patjˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#patʲjˈi# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#patʲˈi# | 209 : j > ∅ / [+cons,+front] __
+*#pətʲˈi# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pət͡sʲˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pət͡sˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pət͡sˈi#
+Old Romanian stage form : *#pət͡sˈi#
+Final form : *#pət͡sˈi#

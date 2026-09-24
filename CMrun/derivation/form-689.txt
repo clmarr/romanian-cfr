@@ -1,13 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 689:
-#wˈolwula# >>> *#vˈolburə# ( GOLD : #vˈolburə#) :
-w ˈo l w u l a 
-*#βˈolβula# | 100 : w > β / __ [-cons]
-*#vˈolβula# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vˈolbula# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#vˈolbula#
-*#vˈolbuɾa# | 192 : l > ɾ / [+syl] __ [+syl]
-*#vˈolbuɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#vˈolbuɾə#
-*#vˈolburə# | 265 : ɾ > r 
-Old Romanian stage form : *#vˈolburə#
-Final form : *#vˈolburə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 689:
+#urtˈiːkam# >>> *#urt͡sˈɨkə# ( GOLD : #urzˈikə#) :
+u r t ˈiː k a m 
+*#urtˈiːka# | 44 : m > ∅ / [-stres] __ #
+*#urtˈika# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#urtˈika#
+*#urtjˈika# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#urtʲjˈika# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#urtʲˈika# | 209 : j > ∅ / [+cons,+front] __
+*#urtʲˈikə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#urt͡sʲˈikə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#urt͡sˈikə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#urt͡sˈikə#
+*#urt͡sˈɨkə# | 318 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
+Old Romanian stage form : *#urt͡sˈɨkə#
+Final form : *#urt͡sˈɨkə#

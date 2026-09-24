@@ -1,22 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1331:
-#mulˈierem# >>> *#mujˈere# ( GOLD : #mujˈere#) :
-m u l ˈi e r e m 
-*#mulˈiere# | 44 : m > ∅ / [-stres] __ #
-*#muliˈeːre# | 122 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#muljˈeːre# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#muljˈere# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#muljˈere#
-*#muljˈeɾe# | 173 : r > ɾ / __ [nnas,ncons]
-*#muljˈɛɾe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mulʲjˈɛɾe# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mulʲˈɛɾe# | 209 : j > ∅ / [+cons,+front] __
-*#muʎˈɛɾe# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#muʎˈɛaɾe# | 216 : ∅ > a / [-tense] __
-*#muʎˈeˈaɾe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#muʎe̯ˈaɾe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#muʎe̯ˈaɾe#
-*#muʎˈeɾe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#muʎˈere# | 265 : ɾ > r 
-*#mujˈere# | 278 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#mujˈere#
-Final form : *#mujˈere#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1331:
+#fraksinˈeːtum# >>> *#frəsinˈet# ( GOLD : #frəsinˈet#) :
+f r a k s i n ˈeː t u m 
+*#fraksinˈeːtu# | 44 : m > ∅ / [-stres] __ #
+*#frassinˈeːtu# | 113 : k > s / __ s
+*#frassenˈeːtu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#frassenˈetu# | 135 : [+syl] > [-long,-splng] 
+*#frasenˈetu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#frasenˈetu#
+*#fɾasenˈetu# | 173 : r > ɾ / __ [nnas,ncons]
+*#fɾasinˈetu# | 203 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#fɾasjinˈetu# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#fɾasʲjinˈetu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#fɾasʲinˈetu# | 209 : j > ∅ / [+cons,+front] __
+*#fɾasinˈetu# | 211 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
+*#fɾəsinˈetu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fɾəsinˈetu#
+*#frəsinˈetu# | 265 : ɾ > r 
+*#frəsinˈetw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frəsinˈet# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#frəsinˈet#
+Final form : *#frəsinˈet#

@@ -1,22 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 466:
-#koopertˈoːrium# >>> *#kopɨrtˈor# ( GOLD : #kərpətˈor#) :
-k o o p e r t ˈoː r i u m 
-*#kwopertˈoːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kwopertˈoːrju# | 44 : m > ∅ / [-stres] __ #
-*#kβopertˈoːrju# | 100 : w > β / __ [-cons]
-*#kβopertˈorju# | 135 : [+syl] > [-long,-splng] 
-*#kopertˈorju# | 163 : β > ∅ 
-Balkan Romance stage form : *#kopertˈorju#
-*#kopertˈoɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#kopertˈoɾʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kopertˈoɾʲu# | 209 : j > ∅ / [+cons,+front] __
-*#kopertˈojɾu# | 232 : ɾʲ > j ɾ 
-Common Romanian stage form : *#kopertˈojɾu#
-*#kopərtˈojɾu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#kopərtˈojru# | 265 : ɾ > r 
-*#kopɨrtˈojru# | 283 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
-*#kopɨrtˈojrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kopɨrtˈojr# | 293 : w̥ > ∅ / [-syl] __ #
-*#kopɨrtˈor# | 299 : j > ∅ / __ r
-Old Romanian stage form : *#kopɨrtˈor#
-Final form : *#kopɨrtˈor#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 466:
+#wiːnˈaːkeum# >>> *#vinˈat͡s# ( GOLD : #vinˈat͡s#) :
+w iː n ˈaː k e u m 
+*#wiːnˈaːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#wiːnˈaːkju# | 44 : m > ∅ / [-stres] __ #
+*#βiːnˈaːkju# | 100 : w > β / __ [-cons]
+*#βiːnˈaːkkju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#βinˈakkju# | 135 : [+syl] > [-long,-splng] 
+*#βinˈaktʲu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#βinˈattʲu# | 144 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#vinˈattʲu# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vinˈatʲu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#vinˈatʲu#
+*#vinˈat͡sʲu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#vinˈat͡su# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#vinˈat͡su#
+*#vinˈat͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vinˈat͡s# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vinˈat͡s#
+Final form : *#vinˈat͡s#

@@ -1,16 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 691:
-#ˈeːskam# >>> *#jˈaskə# ( GOLD : #jˈaskə#) :
-ˈeː s k a m 
-*#ˈeːska# | 44 : m > ∅ / [-stres] __ #
-*#ˈeska# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈeska#
-*#jˈeska# | 190 : ∅ > j / # __ ˈe [-nas]
-*#jˈɛska# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#jˈɛaska# | 216 : ∅ > a / [-tense] __
-*#jˈeˈaska# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#je̯ˈaska# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#je̯ˈaskə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#je̯ˈaskə#
-*#jˈaskə# | 259 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
-Old Romanian stage form : *#jˈaskə#
-Final form : *#jˈaskə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 691:
+#wˈolwula# >>> *#vˈolburə# ( GOLD : #vˈolburə#) :
+w ˈo l w u l a 
+*#βˈolβula# | 100 : w > β / __ [-cons]
+*#vˈolβula# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vˈolbula# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+Balkan Romance stage form : *#vˈolbula#
+*#vˈolbuɾa# | 192 : l > ɾ / [+syl] __ [+syl]
+*#vˈolbuɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#vˈolbuɾə#
+*#vˈolburə# | 265 : ɾ > r 
+Old Romanian stage form : *#vˈolburə#
+Final form : *#vˈolburə#

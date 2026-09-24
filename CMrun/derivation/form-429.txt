@@ -1,14 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 429:
-#ɡlˈemum# >>> *#ɡjˈem# ( GOLD : #ɡjˈem#) :
-ɡ l ˈe m u m 
-*#ɡlˈemu# | 44 : m > ∅ / [-stres] __ #
-*#ɡlˈɛmu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ɡlˈɛmu#
-*#ɡlˈemu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡʎˈemu# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#ɡʎˈemu#
-*#ɡjˈemu# | 278 : [+son,+cons,+front] > j 
-*#ɡjˈemw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɡjˈem# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɡjˈem#
-Final form : *#ɡjˈem#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 429:
+#faskˈiolam# >>> *#fəʃo̯ˈarə# ( GOLD : #fɨʃio̯ˈarə#) :
+f a s k ˈi o l a m 
+*#faskˈiola# | 44 : m > ∅ / [-stres] __ #
+*#faskiˈoːla# | 122 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#faskjˈoːla# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#faskjˈola# | 135 : [+syl] > [-long,-splng] 
+*#fastʲˈola# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#fasʲˈola# | 145 : s [-cont,+front] > sʲ
+Balkan Romance stage form : *#fasʲˈola#
+*#fasʲˈoɾa# | 192 : l > ɾ / [+syl] __ [+syl]
+*#fasʲˈɔɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#faɕˈɔɾa# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#faɕˈɔaɾa# | 216 : ∅ > a / [-tense] __
+*#faɕˈoˈaɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#faɕo̯ˈaɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#fəɕo̯ˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#fəʃo̯ˈaɾə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fəʃo̯ˈaɾə#
+*#fəʃo̯ˈarə# | 265 : ɾ > r 
+Old Romanian stage form : *#fəʃo̯ˈarə#
+Final form : *#fəʃo̯ˈarə#

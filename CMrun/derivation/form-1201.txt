@@ -1,14 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1201:
-#ˌekspantikˈaː# >>> *#spentekˈa# ( GOLD : #spintekˈa#) :
-ˌe k s p a n t i k ˈaː 
-*#ekspantikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#espantikˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espantekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#espantekˈa# | 135 : [+syl] > [-long,-splng] 
-*#spantekˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spantekˈa#
-*#spəntekˈa# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#spəntekˈa#
-*#spentekˈa# | 266 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-Old Romanian stage form : *#spentekˈa#
-Final form : *#spentekˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1201:
+#ˈuːnktum# >>> *#ˈunt# ( GOLD : #ˈunt#) :
+ˈuː n k t u m 
+*#ˈuːnktu# | 44 : m > ∅ / [-stres] __ #
+*#ˈuːntu# | 108 : [-cont] > ∅ / [+cons] __ [-son,-voi]
+*#ˈuntu# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈuntu#
+Common Romanian stage form : *#ˈuntu#
+*#ˈuntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈunt# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈunt#
+Final form : *#ˈunt#

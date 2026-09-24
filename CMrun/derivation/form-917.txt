@@ -1,15 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 917:
-#pˈerde# >>> *#pjˈerde# ( GOLD : #pjˈerde#) :
-p ˈe r d e 
-*#pˈɛrde# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#pˈɛrde#
-*#pjˈɛrde# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈerde# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛrde# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛarde# | 216 : ∅ > a / [-tense] __
-*#pjˈeˈarde# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈarde# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#pje̯ˈarde#
-*#pjˈerde# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#pjˈerde#
-Final form : *#pjˈerde#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 917:
+#neɡoːtiaːtˈoːrem# >>> *#neɡut͡sətˈor# ( GOLD : #neɡut͡sətˈor#) :
+n e ɡ oː t i aː t ˈoː r e m 
+*#neɡoːtjaːtˈoːrem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#neɡoːtjaːtˈoːre# | 44 : m > ∅ / [-stres] __ #
+*#neɡoːtjaːtˈoːr# | 96 : e > ∅ / [-round] t ˈoː r __ #
+*#neɡoːttjaːtˈoːr# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#neɡottjatˈor# | 135 : [+syl] > [-long,-splng] 
+*#neɡottʲatˈor# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#neɡotʲatˈor# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#neɡotʲatˈor#
+*#neɡutʲatˈor# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#neɡutʲətˈor# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#neɡut͡sʲətˈor# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#neɡut͡sətˈor# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#neɡut͡sətˈor#
+Old Romanian stage form : *#neɡut͡sətˈor#
+Final form : *#neɡut͡sətˈor#

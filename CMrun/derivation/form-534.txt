@@ -1,16 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 534:
-#rˌesalˈiː# >>> *#rəsərˈi# ( GOLD : #rəsərˈi#) :
-r ˌe s a l ˈiː 
-*#resalˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#resalˈi# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#resalˈi#
-*#ɾesalˈi# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾesalˈi# | 174 : ∅ > r / # __ ɾ
-*#rɾesaɾˈi# | 192 : l > ɾ / [+syl] __ [+syl]
-*#rɾesəɾˈi# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#rɾesəɾˈi#
-*#resəɾˈi# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rəsəɾˈi# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rəsərˈi# | 265 : ɾ > r 
-Old Romanian stage form : *#rəsərˈi#
-Final form : *#rəsərˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 534:
+#luːkˈiferum# >>> *#lut͡ʃe̯ˈafər# ( GOLD : #lut͡ʃe̯ˈafər#) :
+l uː k ˈi f e r u m 
+*#luːkˈiferu# | 44 : m > ∅ / [-stres] __ #
+*#luːkˈeferu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#lukˈeferu# | 135 : [+syl] > [-long,-splng] 
+*#lukʲˈeferu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#lukʲˈeferu#
+*#lukʲˈefeɾu# | 173 : r > ɾ / __ [nnas,ncons]
+*#lukʲˈɛfeɾu# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#lukʲˈɛafeɾu# | 216 : ∅ > a / [-tense] __
+*#lukʲˈeˈafeɾu# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#lukʲe̯ˈafeɾu# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#luc͡ɕe̯ˈafeɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#lut͡ʃe̯ˈafeɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#lut͡ʃe̯ˈafeɾu#
+*#lut͡ʃe̯ˈafəɾu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#lut͡ʃe̯ˈafəru# | 265 : ɾ > r 
+*#lut͡ʃe̯ˈafərw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lut͡ʃe̯ˈafər# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#lut͡ʃe̯ˈafər#
+Final form : *#lut͡ʃe̯ˈafər#

@@ -1,23 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 77:
-#ˌarɡentˈaːrium# >>> *#ard͡ʒintˈar# ( GOLD : #ard͡ʒintˈar#) :
-ˌa r ɡ e n t ˈaː r i u m 
-*#ˌarɡentˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#arɡentˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#arɡentˈaːrju# | 44 : m > ∅ / [-stres] __ #
-*#arɡentˈarju# | 135 : [+syl] > [-long,-splng] 
-*#arɡʲentˈarju# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#arɡʲentˈarju#
-*#arɡʲentˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#arɡʲentˈaɾʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#arɡʲentˈaɾʲu# | 209 : j > ∅ / [+cons,+front] __
-*#arɡʲentˈajɾu# | 232 : ɾʲ > j ɾ 
-*#arɟ͡ʑentˈajɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ard͡ʒentˈajɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ard͡ʒentˈajɾu#
-*#ard͡ʒintˈajɾu# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ard͡ʒintˈajru# | 265 : ɾ > r 
-*#ard͡ʒintˈajrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ard͡ʒintˈajr# | 293 : w̥ > ∅ / [-syl] __ #
-*#ard͡ʒintˈar# | 299 : j > ∅ / __ r
-Old Romanian stage form : *#ard͡ʒintˈar#
-Final form : *#ard͡ʒintˈar#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 77:
+#ˌarɡˈentum# >>> *#ard͡ʒˈint# ( GOLD : #ard͡ʒˈint#) :
+ˌa r ɡ ˈe n t u m 
+*#arɡˈentum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#arɡˈentu# | 44 : m > ∅ / [-stres] __ #
+*#arɡˈɛntu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#arɡʲˈɛntu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#arɡʲˈɛntu#
+*#arɡʲˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#arɟ͡ʑˈentu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ard͡ʒˈentu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ard͡ʒˈentu#
+*#ard͡ʒˈintu# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ard͡ʒˈintw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ard͡ʒˈint# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ard͡ʒˈint#
+Final form : *#ard͡ʒˈint#

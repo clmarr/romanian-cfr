@@ -1,15 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 99:
-#kˈawulam# >>> *#ɡˈawrə# ( GOLD : #ɡˈawrə#) :
-k ˈa w u l a m 
-*#kˈawula# | 44 : m > ∅ / [-stres] __ #
-*#kˈaβula# | 100 : w > β / __ [-cons]
-*#ɡˈaβula# | 158 : k > ɡ / # ( s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son] ( j ) ) [-prim] )* #
-*#ɡˈaula# | 163 : β > ∅ 
-Balkan Romance stage form : *#ɡˈaula#
-*#ɡˈauɾa# | 192 : l > ɾ / [+syl] __ [+syl]
-*#ɡˈawɾa# | 193 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-*#ɡˈawɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ɡˈawɾə#
-*#ɡˈawrə# | 265 : ɾ > r 
-Old Romanian stage form : *#ɡˈawrə#
-Final form : *#ɡˈawrə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 99:
+#kˌapˈistrum# >>> *#kəpˈəstru# ( GOLD : #kəpˈəstru#) :
+k ˌa p ˈi s t r u m 
+*#kapˈistrum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kapˈistru# | 44 : m > ∅ / [-stres] __ #
+*#kapˈestru# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#kapˈestru#
+*#kapˈestɾu# | 173 : r > ɾ / __ [nnas,ncons]
+*#kəpˈestɾu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kəpˈestɾu#
+*#kəpˈəstɾu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#kəpˈəstru# | 265 : ɾ > r 
+*#kəpˈəstrw# | 291 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#kəpˈəstru# | 295 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#kəpˈəstru#
+Final form : *#kəpˈəstru#

@@ -1,18 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 539:
-#kˌalˈoːrem# >>> *#kəro̯ˈare# ( GOLD : #kəro̯ˈare#) :
-k ˌa l ˈoː r e m 
-*#kalˈoːrem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kalˈoːre# | 44 : m > ∅ / [-stres] __ #
-*#kalˈore# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kalˈore#
-*#kalˈoɾe# | 173 : r > ɾ / __ [nnas,ncons]
-*#kaɾˈoɾe# | 192 : l > ɾ / [+syl] __ [+syl]
-*#kaɾˈɔɾe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kaɾˈɔaɾe# | 216 : ∅ > a / [-tense] __
-*#kaɾˈoˈaɾe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kaɾo̯ˈaɾe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kəɾo̯ˈaɾe# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kəɾo̯ˈaɾe#
-*#kəro̯ˈare# | 265 : ɾ > r 
-Old Romanian stage form : *#kəro̯ˈare#
-Final form : *#kəro̯ˈare#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 539:
+#ˈawstrum# >>> *#ˈawstru# ( GOLD : #ˈawstru#) :
+ˈa w s t r u m 
+*#ˈawstru# | 44 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈawstru#
+*#ˈawstɾu# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#ˈawstɾu#
+*#ˈawstru# | 265 : ɾ > r 
+*#ˈawstrw# | 291 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#ˈawstru# | 295 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#ˈawstru#
+Final form : *#ˈawstru#

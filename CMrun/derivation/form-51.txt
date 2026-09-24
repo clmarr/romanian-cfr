@@ -1,16 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 51:
-#ˌallˌewˈaːtum# >>> *#alˈat# ( GOLD : #aluˈat#) :
-ˌa l l ˌe w ˈaː t u m 
-*#allewˈaːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#allwˈaːtum# | 24 : [+syl,+front,-hi,-lo,-stres] > ∅ / l __ w
-*#allwˈaːtu# | 44 : m > ∅ / [-stres] __ #
-*#allβˈaːtu# | 100 : w > β / __ [-cons]
-*#allβˈatu# | 135 : [+syl] > [-long,-splng] 
-*#allˈatu# | 163 : β > ∅ 
-Balkan Romance stage form : *#allˈatu#
-*#alˈatu# | 207 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#alˈatu#
-*#alˈatw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#alˈat# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#alˈat#
-Final form : *#alˈat#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 51:
+#ˈalbum# >>> *#ˈalb# ( GOLD : #ˈalb#) :
+ˈa l b u m 
+*#ˈalbu# | 44 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈalbu#
+Common Romanian stage form : *#ˈalbu#
+*#ˈalbw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈalb# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈalb#
+Final form : *#ˈalb#

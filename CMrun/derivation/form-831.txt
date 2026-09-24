@@ -1,13 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 831:
-#kwˈantum# >>> *#kˈɨnt# ( GOLD : #kˈɨt#) :
-k w ˈa n t u m 
-*#kwˈantu# | 44 : m > ∅ / [-stres] __ #
-*#kˈantu# | 84 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+prim,+lo] [+voi]
-Balkan Romance stage form : *#kˈantu#
-*#kˈəntu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#kˈəntu#
-*#kˈɨntu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#kˈɨntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kˈɨnt# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kˈɨnt#
-Final form : *#kˈɨnt#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 831:
+#pˈettiam# >>> *#pe̯ˈat͡sə# ( GOLD : #pˈɨt͡sə#) :
+p ˈe t t i a m 
+*#pˈettjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#pˈettja# | 44 : m > ∅ / [-stres] __ #
+*#pˈɛttja# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛttʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#pˈɛtʲa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#pˈɛtʲa#
+*#pjˈɛtʲa# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈetʲa# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛtʲa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛatʲa# | 216 : ∅ > a / [-tense] __
+*#pjˈeˈatʲa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈatʲa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pje̯ˈatʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pje̯ˈat͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pje̯ˈat͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pje̯ˈat͡sə#
+*#pe̯ˈat͡sə# | 261 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
+Old Romanian stage form : *#pe̯ˈat͡sə#
+Final form : *#pe̯ˈat͡sə#

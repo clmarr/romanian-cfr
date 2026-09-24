@@ -1,14 +1,25 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 639:
-#mˈeːlum# >>> *#mˈər# ( GOLD : #mˈər#) :
-m ˈeː l u m 
-*#mˈeːlu# | 44 : m > ∅ / [-stres] __ #
-*#mˈelu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mˈelu#
-*#mˈeɾu# | 192 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#mˈeɾu#
-*#mˈəɾu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#mˈəru# | 265 : ɾ > r 
-*#mˈərw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈər# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mˈər#
-Final form : *#mˈər#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 639:
+#kerˈesium# >>> *#t͡ʃirˈeʃ# ( GOLD : #t͡ʃirˈeʃ#) :
+k e r ˈe s i u m 
+*#kerˈesjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kerˈesju# | 44 : m > ∅ / [-stres] __ #
+*#kerˈɛsju# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kʲerˈɛsju# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲerˈɛsju#
+*#kʲeɾˈɛsju# | 173 : r > ɾ / __ [nnas,ncons]
+*#kʲeɾjˈɛsju# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#kʲeɾjˈesju# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʲeɾʲjˈesʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kʲeɾʲˈesʲu# | 209 : j > ∅ / [+cons,+front] __
+*#kʲeɾʲˈeɕu# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#kʲeɾjˈeɕu# | 231 : ɾʲ > ɾ j / # ( ( [+cons] )* [-cons] ( [+cons] )* ) __ [-hi]
+*#c͡ɕeɾjˈeɕu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃeɾjˈeʃu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃeɾjˈeʃu#
+*#t͡ʃeɾˈeʃu# | 258 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#t͡ʃerˈeʃu# | 265 : ɾ > r 
+*#t͡ʃerˈeʃw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃerˈeʃ# | 293 : w̥ > ∅ / [-syl] __ #
+*#t͡ʃirˈeʃ# | 317 : e > i / # t͡ʃ __ r [-cons]
+Old Romanian stage form : *#t͡ʃirˈeʃ#
+Final form : *#t͡ʃirˈeʃ#

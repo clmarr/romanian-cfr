@@ -1,18 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 661:
-#kawlˈikulum# >>> *#kurˈekj# ( GOLD : #kurˈekj#) :
-k a w l ˈi k u l u m 
-*#kolˈikulum# | 20 : a w > o / [+cons] __ [+cons,+cont]
-*#kolˈikulu# | 44 : m > ∅ / [-stres] __ #
-*#kolˈiklu# | 60 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#kolˈeklu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#kolˈeklu#
-*#kulˈeklu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#kuɾˈeklu# | 192 : l > ɾ / [+syl] __ [+syl]
-*#kuɾˈekʎu# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#kuɾˈekʎu#
-*#kurˈekʎu# | 265 : ɾ > r 
-*#kurˈekju# | 278 : [+son,+cons,+front] > j 
-*#kurˈekjw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kurˈekj# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kurˈekj#
-Final form : *#kurˈekj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 661:
+#sekˈaːlam# >>> *#sekˈarə# ( GOLD : #sekˈarə#) :
+s e k ˈaː l a m 
+*#sekˈaːla# | 44 : m > ∅ / [-stres] __ #
+*#sekˈala# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sekˈala#
+*#sekˈaɾa# | 192 : l > ɾ / [+syl] __ [+syl]
+*#sekˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#sekˈaɾə#
+*#sekˈarə# | 265 : ɾ > r 
+Old Romanian stage form : *#sekˈarə#
+Final form : *#sekˈarə#

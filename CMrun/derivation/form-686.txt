@@ -1,16 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 686:
-#plantˈaɡinam# >>> *#pətlˈad͡ʒinə# ( GOLD : #pətlˈad͡ʒinə#) :
-p l a n t ˈa ɡ i n a m 
-*#plantˈaɡina# | 44 : m > ∅ / [-stres] __ #
-*#pantlˈaɡina# | 77 : p l [+syl] [+son,+cons] t ∅ > p ∅ [+syl,+son] [+son,+cons,0tense] t l/ # __
-*#patlˈaɡina# | 79 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#patlˈaɡena# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#patlˈaɡʲena# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#patlˈaɡʲena#
-*#pətlˈaɡʲenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pətlˈaɟ͡ʑenə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pətlˈad͡ʒenə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pətlˈad͡ʒenə#
-*#pətlˈad͡ʒinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#pətlˈad͡ʒinə#
-Final form : *#pətlˈad͡ʒinə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 686:
+#mˈetula# >>> *#mˈekje# ( GOLD : #mˈəturə#) :
+m ˈe t u l a 
+*#mˈetla# | 53 : [+syl,+hi,-long,-stres] > ∅ / [+syl] ( s ) [+cons,-cont,+cor] __ l ( [-cons,-syl] ) [+syl]
+*#mˈekla# | 76 : t > k / __ l
+*#mˈɛkla# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛkla#
+*#mjˈɛkla# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈekla# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛkla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈɛakla# | 216 : ∅ > a / [-tense] __
+*#mjˈeˈakla# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mje̯ˈakla# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#mje̯ˈaklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#mje̯ˈakʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
+*#mje̯ˈakʎe# | 230 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#mje̯ˈakʎe#
+*#mjˈekʎe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#mˈekʎe# | 258 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#mˈekje# | 278 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#mˈekje#
+Final form : *#mˈekje#

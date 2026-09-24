@@ -1,14 +1,9 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 30:
-#ˌae̯rˈaːmam# >>> *#arˈamə# ( GOLD : #arˈamə#) :
-ˌa e̯ r ˈaː m a m 
-*#ˌarˈaːmam# | 0 : e̯ > ∅ / # [+lo] __ [+son]
-*#arˈaːmam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#arˈaːma# | 44 : m > ∅ / [-stres] __ #
-*#arˈama# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#arˈama#
-*#aɾˈama# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾˈamə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#aɾˈamə#
-*#arˈamə# | 265 : ɾ > r 
-Old Romanian stage form : *#arˈamə#
-Final form : *#arˈamə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 30:
+#ˈaːeːr# >>> *#ˈajer# ( GOLD : #ˈajer#) :
+ˈaː eː r 
+*#ˈaer# | 135 : [+syl] > [-long,-splng] 
+*#ˈajer# | 167 : ∅ > j / [+syl,+stres,αfront,αlo] __ e
+Balkan Romance stage form : *#ˈajer#
+Common Romanian stage form : *#ˈajer#
+Old Romanian stage form : *#ˈajer#
+Final form : *#ˈajer#

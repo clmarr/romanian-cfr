@@ -1,18 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 734:
-#pˌorkˈellum# >>> *#purt͡ʃˈel# ( GOLD : #purt͡ʃˈel#) :
-p ˌo r k ˈe l l u m 
-*#porkˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈellu# | 44 : m > ∅ / [-stres] __ #
-*#porkˈɛllu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#porkʲˈɛllu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#porkʲˈɛllu#
-*#porkʲˈellu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#purkʲˈellu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purkʲˈelu# | 207 : {l l;m m} > {l;m} 
-*#purc͡ɕˈelu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#purt͡ʃˈelu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#purt͡ʃˈelu#
-*#purt͡ʃˈelw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#purt͡ʃˈel# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#purt͡ʃˈel#
-Final form : *#purt͡ʃˈel#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 734:
+#pˌekuwˈiːnam# >>> *#pəkˈujnə# ( GOLD : #pəkˈujnə#) :
+p ˌe k u w ˈiː n a m 
+*#pekuwˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#pekˈuwinam# | 29 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
+*#pekˈuwina# | 44 : m > ∅ / [-stres] __ #
+*#pekˈuβina# | 100 : w > β / __ [-cons]
+*#pekˈuβena# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#pekˈuena# | 163 : β > ∅ 
+*#pekˈujena# | 167 : ∅ > j / [+syl,+stres,αfront,αlo] __ e
+Balkan Romance stage form : *#pekˈujena#
+*#pekˈujenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pekˈujenə#
+*#pəkˈujenə# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəkˈujinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+*#pəkˈuinə# | 287 : j > ∅ / __ [+syl,+front,+hi]
+*#pəkˈujnə# | 308 : i > j / [+syl] __
+Old Romanian stage form : *#pəkˈujnə#
+Final form : *#pəkˈujnə#

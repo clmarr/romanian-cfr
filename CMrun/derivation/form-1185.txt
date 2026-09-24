@@ -1,25 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1185:
-#wˌakkarˈitiam# >>> *#vəkəre̯ˈat͡sə# ( GOLD : #vəkəre̯ˈat͡sə#) :
-w ˌa k k a r ˈi t i a m 
-*#wˌakkarˈitjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wakkarˈitjam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wakkarˈitja# | 44 : m > ∅ / [-stres] __ #
-*#βakkarˈitja# | 100 : w > β / __ [-cons]
-*#βakkarˈittja# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#βakkarˈettja# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#βakkarˈettʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#vakkarˈettʲa# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vakarˈetʲa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#vakarˈetʲa#
-*#vakaɾˈetʲa# | 173 : r > ɾ / __ [nnas,ncons]
-*#vakaɾˈɛtʲa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vakaɾˈɛatʲa# | 216 : ∅ > a / [-tense] __
-*#vakaɾˈeˈatʲa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#vakaɾe̯ˈatʲa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#vəkəɾe̯ˈatʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#vəkəɾe̯ˈat͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vəkəɾe̯ˈat͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vəkəɾe̯ˈat͡sə#
-*#vəkəre̯ˈat͡sə# | 265 : ɾ > r 
-Old Romanian stage form : *#vəkəre̯ˈat͡sə#
-Final form : *#vəkəre̯ˈat͡sə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1185:
+#stimulˈaːriam# >>> *#stemurˈare# ( GOLD : #strəmurˈare#) :
+s t i m u l ˈaː r i a m 
+*#stimulˈaːrjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#stimulˈaːrja# | 44 : m > ∅ / [-stres] __ #
+*#istimulˈaːrja# | 120 : ∅ > i / # __ s [+cons,-son]
+*#estemulˈaːrja# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#estemulˈarja# | 135 : [+syl] > [-long,-splng] 
+*#stemulˈarja# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stemulˈarja#
+*#stemulˈaɾja# | 173 : r > ɾ / __ [nnas,ncons]
+*#stemuɾˈaɾja# | 192 : l > ɾ / [+syl] __ [+syl]
+*#stemuɾˈaɾʲja# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#stemuɾˈaɾʲa# | 209 : j > ∅ / [+cons,+front] __
+*#stemuɾˈaɾʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#stemuɾˈaɾʲe# | 230 : ə > e / [+cons,+front,+son] __
+*#stemuɾˈajɾe# | 232 : ɾʲ > j ɾ 
+Common Romanian stage form : *#stemuɾˈajɾe#
+*#stemurˈajre# | 265 : ɾ > r 
+*#stemurˈare# | 299 : j > ∅ / __ r
+Old Romanian stage form : *#stemurˈare#
+Final form : *#stemurˈare#

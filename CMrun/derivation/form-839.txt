@@ -1,15 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 839:
-#kwˈiːnkwe# >>> *#t͡ʃˈint͡ʃe# ( GOLD : #t͡ʃˈint͡ʃj#) :
-k w ˈiː n k w e 
-*#kβˈiːnkβe# | 100 : w > β / __ [-cons]
-*#kβˈinkβe# | 135 : [+syl] > [-long,-splng] 
-*#kˈinke# | 163 : β > ∅ 
-*#kʲˈinkʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲˈinkʲe#
-*#kʲjˈinkʲe# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#kʲˈinkʲe# | 209 : j > ∅ / [+cons,+front] __
-*#c͡ɕˈinc͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃˈint͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃˈint͡ʃe#
-Old Romanian stage form : *#t͡ʃˈint͡ʃe#
-Final form : *#t͡ʃˈint͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 839:
+#ˈambiː# >>> *#ˈɨmbj# ( GOLD : #ˈɨmbj#) :
+ˈa m b iː 
+*#ˈambi# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈambi#
+*#ˈəmbi# | 220 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ˈəmbi#
+*#ˈɨmbi# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # __ m [+cons]
+*#ˈɨmbj̊# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈɨmbj# | 294 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#ˈɨmbj#
+Final form : *#ˈɨmbj#

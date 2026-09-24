@@ -1,16 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 376:
-#sˌanitˈoːsum# >>> *#sɨnətˈos# ( GOLD : #sənətˈos#) :
-s ˌa n i t ˈoː s u m 
-*#sanitˈoːsum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#sanitˈoːsu# | 44 : m > ∅ / [-stres] __ #
-*#sanetˈoːsu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#sanetˈosu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#sanetˈosu#
-*#sənetˈosu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#sənetˈosu#
-*#sɨnetˈosu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#sɨnətˈosu# | 281 : e > ə / [-back] n __ t
-*#sɨnətˈosw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#sɨnətˈos# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#sɨnətˈos#
-Final form : *#sɨnətˈos#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 376:
+#skˈioː# >>> *#ʃtˈiw# ( GOLD : #ʃtˈiw#) :
+s k ˈi oː 
+*#skˈiw# | 46 : [+syl,+round] > w / [+syl,+stres] __ #
+*#skˈiβ# | 101 : w > β / __ #
+*#iskˈiβ# | 120 : ∅ > i / # __ s [+cons,-son]
+*#iskˈiːβ# | 130 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#eskˈiːβ# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskˈiβ# | 135 : [+syl] > [-long,-splng] 
+*#skˈiβ# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#skˈiw̥# | 161 : β > w̥ / __ #
+*#skʲˈiw̥# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#skʲˈiw̥#
+*#skʲjˈiw̥# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#skʲˈiw̥# | 209 : j > ∅ / [+cons,+front] __
+*#ʃtˈiw̥# | 233 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#ʃtˈiw̥#
+*#ʃtˈiw# | 294 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#ʃtˈiw#
+Final form : *#ʃtˈiw#

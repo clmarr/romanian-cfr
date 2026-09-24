@@ -1,18 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 649:
-#wˈiːteam# >>> *#vˈit͡sə# ( GOLD : #vˈit͡sə#) :
-w ˈiː t e a m 
-*#wˈiːtjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wˈiːtja# | 44 : m > ∅ / [-stres] __ #
-*#βˈiːtja# | 100 : w > β / __ [-cons]
-*#βˈiːttja# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#βˈittja# | 135 : [+syl] > [-long,-splng] 
-*#βˈittʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#vˈittʲa# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vˈitʲa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#vˈitʲa#
-*#vˈitʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#vˈit͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vˈit͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vˈit͡sə#
-Old Romanian stage form : *#vˈit͡sə#
-Final form : *#vˈit͡sə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 649:
+#pˌedukˈellum# >>> *#pədut͡ʃˈel# ( GOLD : #pədut͡ʃˈel#) :
+p ˌe d u k ˈe l l u m 
+*#pedukˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#pedukˈellu# | 44 : m > ∅ / [-stres] __ #
+*#pedukˈɛllu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pedukʲˈɛllu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#pedukʲˈɛllu#
+*#pedukʲjˈɛllu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pedukʲjˈellu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pedukʲjˈelu# | 207 : {l l;m m} > {l;m} 
+*#pedukʲˈelu# | 209 : j > ∅ / [+cons,+front] __
+*#peduc͡ɕˈelu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pedut͡ʃˈelu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pedut͡ʃˈelu#
+*#pədut͡ʃˈelu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pədut͡ʃˈelw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pədut͡ʃˈel# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pədut͡ʃˈel#
+Final form : *#pədut͡ʃˈel#

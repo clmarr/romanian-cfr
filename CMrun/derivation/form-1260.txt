@@ -1,15 +1,26 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1260:
-#ˈoːllam# >>> *#o̯ˈalə# ( GOLD : #o̯ˈalə#) :
-ˈoː l l a m 
-*#ˈoːlla# | 44 : m > ∅ / [-stres] __ #
-*#ˈolla# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈolla#
-*#ˈɔlla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ˈɔla# | 207 : {l l;m m} > {l;m} 
-*#ˈɔala# | 216 : ∅ > a / [-tense] __
-*#ˈoˈala# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#o̯ˈala# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#o̯ˈalə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#o̯ˈalə#
-Old Romanian stage form : *#o̯ˈalə#
-Final form : *#o̯ˈalə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1260:
+#ˌekstraːkˌoːlaːtˈoːria# >>> *#strəkurəto̯ˈare# ( GOLD : #strekurəto̯ˈare#) :
+ˌe k s t r aː k ˌoː l aː t ˈoː r i a 
+*#ˌekstraːkˌoːlaːtˈoːrja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ekstraːkoːlaːtˈoːrja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#estraːkoːlaːtˈoːrja# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estrakolatˈorja# | 135 : [+syl] > [-long,-splng] 
+*#strakolatˈorja# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#strakolatˈorja#
+*#stɾakolatˈoɾja# | 173 : r > ɾ / __ [nnas,ncons]
+*#stɾakulatˈoɾja# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#stɾakuɾatˈoɾja# | 192 : l > ɾ / [+syl] __ [+syl]
+*#stɾakuɾatˈɔɾja# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stɾakuɾatˈɔɾʲja# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#stɾakuɾatˈɔɾʲa# | 209 : j > ∅ / [+cons,+front] __
+*#stɾakuɾatˈɔaɾʲa# | 216 : ∅ > a / [-tense] __
+*#stɾakuɾatˈoˈaɾʲa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#stɾakuɾato̯ˈaɾʲa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#stɾəkuɾəto̯ˈaɾʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#stɾəkuɾəto̯ˈaɾʲe# | 230 : ə > e / [+cons,+front,+son] __
+*#stɾəkuɾəto̯ˈajɾe# | 232 : ɾʲ > j ɾ 
+Common Romanian stage form : *#stɾəkuɾəto̯ˈajɾe#
+*#strəkurəto̯ˈajre# | 265 : ɾ > r 
+*#strəkurəto̯ˈare# | 299 : j > ∅ / __ r
+Old Romanian stage form : *#strəkurəto̯ˈare#
+Final form : *#strəkurəto̯ˈare#

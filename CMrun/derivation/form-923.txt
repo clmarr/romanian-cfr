@@ -1,20 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 923:
-#dˈeum# >>> *#zˈew# ( GOLD : #zˈew#) :
-d ˈe u m 
-*#dˈeu# | 44 : m > ∅ / [-stres] __ #
-*#dˈew# | 46 : [+syl,+round] > w / [+syl,+stres] __ #
-*#dˈeβ# | 101 : w > β / __ #
-*#dˈɛβ# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɛw̥# | 161 : β > w̥ / __ #
-Balkan Romance stage form : *#dˈɛw̥#
-*#djˈɛw̥# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#djˈew̥# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dʲjˈew̥# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dʲˈew̥# | 209 : j > ∅ / [+cons,+front] __
-*#d͡zʲˈew̥# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡zˈew̥# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡zˈew̥#
-*#zˈew̥# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#zˈew# | 294 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#zˈew#
-Final form : *#zˈew#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 923:
+#krˌistˈɛːnu# >>> *#kreʃtˈin# ( GOLD : #kreʃtˈin#) :
+k r ˌi s t ˈɛː n u 
+*#kristˈɛːnu# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#krestˈɛːnu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#krestˈɛnu# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#krestˈɛnu#
+*#kɾestˈɛnu# | 173 : r > ɾ / __ [nnas,ncons]
+*#kɾestjˈɛnu# | 182 : ∅ > j / s t __ [-cons,-tense,+prim]
+*#kɾestjˈenu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kɾestʲjˈenu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kɾestʲˈenu# | 209 : j > ∅ / [+cons,+front] __
+*#kɾeʃtˈenu# | 233 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#kɾeʃtˈenu#
+*#kɾeʃtˈinu# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+*#kreʃtˈinu# | 265 : ɾ > r 
+*#kreʃtˈinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kreʃtˈin# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kreʃtˈin#
+Final form : *#kreʃtˈin#

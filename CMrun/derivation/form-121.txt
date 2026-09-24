@@ -1,16 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 121:
-#ekskˌadˈeː# >>> *#skəde̯ˈa# ( GOLD : #skəde̯ˈa#) :
-e k s k ˌa d ˈeː 
-*#ekskadˈeː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eskadˈeː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskadˈe# | 135 : [+syl] > [-long,-splng] 
-*#skadˈe# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skadˈe#
-*#skadˈɛ# | 201 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#skadˈɛa# | 216 : ∅ > a / [-tense] __
-*#skadˈeˈa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#skade̯ˈa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#skəde̯ˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#skəde̯ˈa#
-Old Romanian stage form : *#skəde̯ˈa#
-Final form : *#skəde̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 121:
+#eksˈalbidum# >>> *#sˈalbed# ( GOLD : #sˈarbəd#) :
+e k s ˈa l b i d u m 
+*#eksˈalbidu# | 44 : m > ∅ / [-stres] __ #
+*#essˈalbidu# | 113 : k > s / __ s
+*#essˈalbedu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#ssˈalbedu# | 139 : e > ∅ / # __ s s [+syl,αfront,αlo]
+*#sˈalbedu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#sˈalbedu#
+Common Romanian stage form : *#sˈalbedu#
+*#sˈalbədu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#sˈalbedu# | 272 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / [+cons] ( [-cons,-syl,-round] ) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
+*#sˈalbedw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈalbed# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sˈalbed#
+Final form : *#sˈalbed#

@@ -1,21 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 768:
-#drˌepanˈellam# >>> *#drepne̯ˈa# ( GOLD : #drepne̯ˈa#) :
-d r ˌe p a n ˈe l l a m 
-*#drepanˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#drepanˈella# | 44 : m > ∅ / [-stres] __ #
-*#drepnˈella# | 74 : a > ∅ / [+syl] p __ n [+syl]
-*#drepnˈɛlla# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#drepnˈɛlla#
-*#dɾepnˈɛlla# | 173 : r > ɾ / __ [nnas,ncons]
-*#dɾepnˈella# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dɾepnˈɛlla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#dɾepnˈɛwa# | 204 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#dɾepnˈɛawa# | 216 : ∅ > a / [-tense] __
-*#dɾepnˈeˈawa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dɾepne̯ˈawa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#dɾepne̯ˈawə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#dɾepne̯ˈa# | 228 : w ə > ∅ / [-cons,-syl] ˈa __
-Common Romanian stage form : *#dɾepne̯ˈa#
-*#drepne̯ˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#drepne̯ˈa#
-Final form : *#drepne̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 768:
+#ɡˌallˈiːnam# >>> *#ɡəˈinə# ( GOLD : #ɡəˈinə#) :
+ɡ ˌa l l ˈiː n a m 
+*#ɡallˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɡallˈiːna# | 44 : m > ∅ / [-stres] __ #
+*#ɡallˈina# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɡallˈina#
+*#ɡalljˈina# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#ɡaljˈina# | 207 : {l l;m m} > {l;m} 
+*#ɡalʲjˈina# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɡalʲˈina# | 209 : j > ∅ / [+cons,+front] __
+*#ɡaʎˈina# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ɡəʎˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ɡəʎˈinə#
+*#ɡəjˈinə# | 278 : [+son,+cons,+front] > j 
+*#ɡəˈinə# | 287 : j > ∅ / __ [+syl,+front,+hi]
+Old Romanian stage form : *#ɡəˈinə#
+Final form : *#ɡəˈinə#

@@ -1,15 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 63:
-#ˌammˌutˈiː# >>> *#amut͡sˈi# ( GOLD : #amut͡sˈi#) :
-ˌa m m ˌu t ˈiː 
-*#ammutˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammutˈi# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ammutˈi#
-*#ammutjˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#amutjˈi# | 207 : {l l;m m} > {l;m} 
-*#amutʲjˈi# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#amutʲˈi# | 209 : j > ∅ / [+cons,+front] __
-*#amut͡sʲˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#amut͡sˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#amut͡sˈi#
-Old Romanian stage form : *#amut͡sˈi#
-Final form : *#amut͡sˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 63:
+#ˌammˌortˈiː# >>> *#amurt͡sˈi# ( GOLD : #amort͡sˈi#) :
+ˌa m m ˌo r t ˈiː 
+*#ammortˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ammortˈi# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ammortˈi#
+*#ammurtˈi# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ammurtjˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#amurtjˈi# | 207 : {l l;m m} > {l;m} 
+*#amurtʲjˈi# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#amurtʲˈi# | 209 : j > ∅ / [+cons,+front] __
+*#amurt͡sʲˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#amurt͡sˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#amurt͡sˈi#
+Old Romanian stage form : *#amurt͡sˈi#
+Final form : *#amurt͡sˈi#

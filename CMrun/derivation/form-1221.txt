@@ -1,20 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1221:
-#folliˈoːlum# >>> *#fujˈor# ( GOLD : #fujˈor#) :
-f o l l i ˈoː l u m 
-*#folljˈoːlum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#folljˈoːlu# | 44 : m > ∅ / [-stres] __ #
-*#folljˈolu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#folljˈolu#
-*#fulljˈolu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#fulljˈoɾu# | 192 : l > ɾ / [+syl] __ [+syl]
-*#fuljˈoɾu# | 207 : {l l;m m} > {l;m} 
-*#fulʲjˈoɾu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fulʲˈoɾu# | 209 : j > ∅ / [+cons,+front] __
-*#fuʎˈoɾu# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#fuʎˈoɾu#
-*#fuʎˈoru# | 265 : ɾ > r 
-*#fujˈoru# | 278 : [+son,+cons,+front] > j 
-*#fujˈorw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fujˈor# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fujˈor#
-Final form : *#fujˈor#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1221:
+#kˈannulam# >>> *#kˈanurə# ( GOLD : #kˈanurə#) :
+k ˈa n n u l a m 
+*#kˈannula# | 44 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#kˈannula#
+*#kˈannuɾa# | 192 : l > ɾ / [+syl] __ [+syl]
+*#kˈannuɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kˈannuɾə#
+*#kˈanuɾə# | 262 : n n > n 
+*#kˈanurə# | 265 : ɾ > r 
+Old Romanian stage form : *#kˈanurə#
+Final form : *#kˈanurə#

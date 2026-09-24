@@ -1,16 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 384:
-#dˌoloːrˈoːsum# >>> *#dururˈos# ( GOLD : #dururˈos#) :
-d ˌo l oː r ˈoː s u m 
-*#doloːrˈoːsum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#doloːrˈoːsu# | 44 : m > ∅ / [-stres] __ #
-*#dolorˈosu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dolorˈosu#
-*#doloɾˈosu# | 173 : r > ɾ / __ [nnas,ncons]
-*#duluɾˈosu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#duɾuɾˈosu# | 192 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#duɾuɾˈosu#
-*#dururˈosu# | 265 : ɾ > r 
-*#dururˈosw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dururˈos# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#dururˈos#
-Final form : *#dururˈos#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 384:
+#kˈossis# >>> *#kˈoʃj# ( GOLD : #kˈoʃ#) :
+k ˈo s s i s 
+*#kˈossiːs# | 130 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#kˈossis# | 135 : [+syl] > [-long,-splng] 
+*#kˈosis# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#kˈosi# | 172 : s > ∅ / __ #
+Balkan Romance stage form : *#kˈosi#
+*#kˈosji# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#kˈosʲji# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kˈosʲi# | 209 : j > ∅ / [+cons,+front] __
+*#kˈoɕi# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#kˈoʃi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kˈoʃi#
+*#kˈoʃj̊# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈoʃj# | 294 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#kˈoʃj#
+Final form : *#kˈoʃj#

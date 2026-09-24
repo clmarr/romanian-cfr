@@ -1,22 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 570:
-#kˌalendˈaːrium# >>> *#kərindˈar# ( GOLD : #kərindˈar#) :
-k ˌa l e n d ˈaː r i u m 
-*#kˌalendˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kalendˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kalendˈaːrju# | 44 : m > ∅ / [-stres] __ #
-*#kalendˈarju# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kalendˈarju#
-*#kalendˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#kaɾendˈaɾju# | 192 : l > ɾ / [+syl] __ [+syl]
-*#kaɾendˈaɾʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kaɾendˈaɾʲu# | 209 : j > ∅ / [+cons,+front] __
-*#kəɾendˈaɾʲu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəɾendˈajɾu# | 232 : ɾʲ > j ɾ 
-Common Romanian stage form : *#kəɾendˈajɾu#
-*#kəɾindˈajɾu# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#kərindˈajru# | 265 : ɾ > r 
-*#kərindˈajrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kərindˈajr# | 293 : w̥ > ∅ / [-syl] __ #
-*#kərindˈar# | 299 : j > ∅ / __ r
-Old Romanian stage form : *#kərindˈar#
-Final form : *#kərindˈar#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 570:
+#wˈeneris# >>> *#vˈinerj# ( GOLD : #vˈinerj#) :
+w ˈe n e r i s 
+*#βˈeneris# | 100 : w > β / __ [-cons]
+*#βˈɛneris# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βˈɛneriːs# | 130 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#βˈɛneris# | 135 : [+syl] > [-long,-splng] 
+*#vˈɛneris# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vˈɛneri# | 172 : s > ∅ / __ #
+Balkan Romance stage form : *#vˈɛneri#
+*#vˈɛneɾi# | 173 : r > ɾ / __ [nnas,ncons]
+*#vjˈɛneɾi# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#vjˈeneɾi# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#vjˈeneɾi#
+*#vˈeneɾi# | 239 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+*#vˈineɾi# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+*#vˈineri# | 265 : ɾ > r 
+*#vˈinerj̊# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈinerj# | 294 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#vˈinerj#
+Final form : *#vˈinerj#

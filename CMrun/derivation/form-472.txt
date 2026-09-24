@@ -1,22 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 472:
-#kellˈaːrium# >>> *#t͡ʃelˈar# ( GOLD : #t͡ʃelˈar#) :
-k e l l ˈaː r i u m 
-*#kellˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kellˈaːrju# | 44 : m > ∅ / [-stres] __ #
-*#kellˈarju# | 135 : [+syl] > [-long,-splng] 
-*#kʲellˈarju# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲellˈarju#
-*#kʲellˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#kʲelˈaɾju# | 207 : {l l;m m} > {l;m} 
-*#kʲelˈaɾʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kʲelˈaɾʲu# | 209 : j > ∅ / [+cons,+front] __
-*#kʲelˈajɾu# | 232 : ɾʲ > j ɾ 
-*#c͡ɕelˈajɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃelˈajɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃelˈajɾu#
-*#t͡ʃelˈajru# | 265 : ɾ > r 
-*#t͡ʃelˈajrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡ʃelˈajr# | 293 : w̥ > ∅ / [-syl] __ #
-*#t͡ʃelˈar# | 299 : j > ∅ / __ r
-Old Romanian stage form : *#t͡ʃelˈar#
-Final form : *#t͡ʃelˈar#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 472:
+#kaprˈeolum# >>> *#kəprjˈor# ( GOLD : #kəprjˈor#) :
+k a p r ˈe o l u m 
+*#kaprˈeolu# | 44 : m > ∅ / [-stres] __ #
+*#kapreˈoːlu# | 122 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#kapriˈoːlu# | 123 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+*#kaprjˈoːlu# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#kaprjˈolu# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kaprjˈolu#
+*#kapɾjˈolu# | 173 : r > ɾ / __ [nnas,ncons]
+*#kapɾjˈoɾu# | 192 : l > ɾ / [+syl] __ [+syl]
+*#kapɾʲjˈoɾu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kapɾʲˈoɾu# | 209 : j > ∅ / [+cons,+front] __
+*#kəpɾʲˈoɾu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kəpɾjˈoɾu# | 231 : ɾʲ > ɾ j / # ( ( [+cons] )* [-cons] ( [+cons] )* ) __ [-hi]
+Common Romanian stage form : *#kəpɾjˈoɾu#
+*#kəprjˈoru# | 265 : ɾ > r 
+*#kəprjˈorw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kəprjˈor# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kəprjˈor#
+Final form : *#kəprjˈor#

@@ -1,16 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1097:
-#ekspulwerˈaː# >>> *#spulberˈa# ( GOLD : #spulberˈa#) :
-e k s p u l w e r ˈaː 
-*#ekspulβerˈaː# | 100 : w > β / __ [-cons]
-*#espulβerˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espulβerˈa# | 135 : [+syl] > [-long,-splng] 
-*#spulβerˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#spulberˈa# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#spulberˈa#
-*#spulbeɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#spulbeɾˈa#
-*#spulbəɾˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#spulbərˈa# | 265 : ɾ > r 
-*#spulberˈa# | 268 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / [+syl,+round,+hi] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-Old Romanian stage form : *#spulberˈa#
-Final form : *#spulberˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1097:
+#diskoperˈiː# >>> *#deskoperˈi# ( GOLD : #deskoperˈi#) :
+d i s k o p e r ˈiː 
+*#deskoperˈiː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#deskoperˈi# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#deskoperˈi#
+*#deskopeɾˈi# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#deskopeɾˈi#
+*#deskoperˈi# | 265 : ɾ > r 
+Old Romanian stage form : *#deskoperˈi#
+Final form : *#deskoperˈi#

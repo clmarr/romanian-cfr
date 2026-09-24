@@ -1,23 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 475:
-#fenˈestram# >>> *#fere̯ˈastrə# ( GOLD : #fere̯ˈastrə#) :
-f e n ˈe s t r a m 
-*#ferˈestram# | 25 : n > r / [+syl] __ [+stres] [-syl] ( [-syl] )* r
-*#ferˈestra# | 44 : m > ∅ / [-stres] __ #
-*#ferˈɛstra# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ferˈɛstra#
-*#feɾˈɛstɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#feɾjˈɛstɾa# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#feɾjˈestɾa# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#feɾjˈɛstɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#feɾʲjˈɛstɾa# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#feɾʲˈɛstɾa# | 209 : j > ∅ / [+cons,+front] __
-*#feɾʲˈɛastɾa# | 216 : ∅ > a / [-tense] __
-*#feɾʲˈeˈastɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#feɾʲe̯ˈastɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#feɾʲe̯ˈastɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#feɾje̯ˈastɾə# | 231 : ɾʲ > ɾ j / # ( ( [+cons] )* [-cons] ( [+cons] )* ) __ [-hi]
-Common Romanian stage form : *#feɾje̯ˈastɾə#
-*#feɾe̯ˈastɾə# | 261 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
-*#fere̯ˈastrə# | 265 : ɾ > r 
-Old Romanian stage form : *#fere̯ˈastrə#
-Final form : *#fere̯ˈastrə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 475:
+#kooperiːmˈentum# >>> *#koperimˈɨnt# ( GOLD : #koperəmˈɨnt#) :
+k o o p e r iː m ˈe n t u m 
+*#kwoperiːmˈentum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kwoperiːmˈentu# | 44 : m > ∅ / [-stres] __ #
+*#kβoperiːmˈentu# | 100 : w > β / __ [-cons]
+*#kβoperiːmˈɛntu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kβoperimˈɛntu# | 135 : [+syl] > [-long,-splng] 
+*#koperimˈɛntu# | 163 : β > ∅ 
+Balkan Romance stage form : *#koperimˈɛntu#
+*#kopeɾimˈɛntu# | 173 : r > ɾ / __ [nnas,ncons]
+*#kopeɾimˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#kopeɾimˈentu#
+*#kopeɾimˈəntu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#koperimˈəntu# | 265 : ɾ > r 
+*#koperimˈɨntu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#koperimˈɨntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#koperimˈɨnt# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#koperimˈɨnt#
+Final form : *#koperimˈɨnt#

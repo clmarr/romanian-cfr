@@ -1,20 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 778:
-#pˌerwˌiɡilˈaː# >>> *#priveɡe̯ˈa# ( GOLD : #priveɡe̯ˈa#) :
-p ˌe r w ˌi ɡ i l ˈaː 
-*#perwiɡilˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#perwiɡlˈaː# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#prewiɡlˈaː# | 80 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
-*#preβiɡlˈaː# | 100 : w > β / __ [-cons]
-*#preβeɡlˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#preβeɡlˈa# | 135 : [+syl] > [-long,-splng] 
-*#preveɡlˈa# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#preveɡlˈa#
-*#pɾeveɡlˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#pɾeveɡʎˈa# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#pɾeveɡʎˈa#
-*#preveɡʎˈa# | 265 : ɾ > r 
-*#preveɡjˈa# | 278 : [+son,+cons,+front] > j 
-*#priveɡjˈa# | 302 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-*#priveɡe̯ˈa# | 306 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
-Old Romanian stage form : *#priveɡe̯ˈa#
-Final form : *#priveɡe̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 778:
+#pˌeturnˈiːkulam# >>> *#poturnˈikje# ( GOLD : #poturnˈikje#) :
+p ˌe t u r n ˈiː k u l a m 
+*#peturnˈiːkulam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#peturnˈiːkula# | 44 : m > ∅ / [-stres] __ #
+*#peturnˈiːkla# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
+*#peturnˈikla# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#peturnˈikla#
+*#petuɾnˈikla# | 173 : r > ɾ / __ [nnas,ncons]
+*#petuɾnˈiklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#petuɾnˈikʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
+*#petuɾnˈikʎe# | 230 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#petuɾnˈikʎe#
+*#pətuɾnˈikʎe# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#potuɾnˈikʎe# | 250 : ə > o / # ( p ) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
+*#poturnˈikʎe# | 265 : ɾ > r 
+*#poturnˈikje# | 278 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#poturnˈikje#
+Final form : *#poturnˈikje#

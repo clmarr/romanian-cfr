@@ -1,10 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 337:
-#pˌakˈaː# >>> *#pəkˈa# ( GOLD : #pəkˈa#) :
-p ˌa k ˈaː 
-*#pakˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pakˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pakˈa#
-*#pəkˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pəkˈa#
-Old Romanian stage form : *#pəkˈa#
-Final form : *#pəkˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 337:
+#mˌoːnstrˈaː# >>> *#mustrˈa# ( GOLD : #mustrˈa#) :
+m ˌoː n s t r ˈaː 
+*#moːnstrˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#moːstrˈaː# | 102 : [+syl] n > [+long] ∅/ # [+cons] __ [-son,+cont]
+*#mostrˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mostrˈa#
+*#mostɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#mustɾˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#mustɾˈa#
+*#mustrˈa# | 265 : ɾ > r 
+Old Romanian stage form : *#mustrˈa#
+Final form : *#mustrˈa#

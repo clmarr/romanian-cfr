@@ -1,12 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 66:
-#ˌappˌensˈaː# >>> *#apəsˈa# ( GOLD : #apəsˈa#) :
-ˌa p p ˌe n s ˈaː 
-*#appensˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#appeːsˈaː# | 104 : [+syl] n > [+long] ∅/ p p __ [-son,+cont]
-*#appesˈa# | 135 : [+syl] > [-long,-splng] 
-*#apesˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#apesˈa#
-Common Romanian stage form : *#apesˈa#
-*#apəsˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-Old Romanian stage form : *#apəsˈa#
-Final form : *#apəsˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 66:
+#ˌappˌarˈaː# >>> *#apərˈa# ( GOLD : #apərˈa#) :
+ˌa p p ˌa r ˈaː 
+*#apparˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#apparˈa# | 135 : [+syl] > [-long,-splng] 
+*#aparˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#aparˈa#
+*#apaɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#apəɾˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#apəɾˈa#
+*#apərˈa# | 265 : ɾ > r 
+Old Romanian stage form : *#apərˈa#
+Final form : *#apərˈa#

@@ -1,22 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 669:
-#raːdˈiːkula# >>> *#rəzˈikje# ( GOLD : #ridˈikje#) :
-r aː d ˈiː k u l a 
-*#raːdˈiːkla# | 57 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#radˈikla# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#radˈikla#
-*#ɾadˈikla# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾadˈikla# | 174 : ∅ > r / # __ ɾ
-*#rɾadjˈikla# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#rɾadʲjˈikla# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾadʲˈikla# | 209 : j > ∅ / [+cons,+front] __
-*#rɾədʲˈiklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#rɾədʲˈikʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
-*#rɾədʲˈikʎe# | 230 : ə > e / [+cons,+front,+son] __
-*#rɾəd͡zʲˈikʎe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾəd͡zˈikʎe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾəd͡zˈikʎe#
-*#rəd͡zˈikʎe# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rəd͡zˈikje# | 278 : [+son,+cons,+front] > j 
-*#rəzˈikje# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#rəzˈikje#
-Final form : *#rəzˈikje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 669:
+#pˈepinem# >>> *#pˈepine# ( GOLD : #pˈepene#) :
+p ˈe p i n e m 
+*#pˈepine# | 44 : m > ∅ / [-stres] __ #
+*#pˈɛpine# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛpene# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛpene#
+*#pjˈɛpene# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈepene# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛpene# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛapene# | 216 : ∅ > a / [-tense] __
+*#pjˈeˈapene# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈapene# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#pje̯ˈapene#
+*#pjˈepene# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈepine# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+*#pˈepine# | 258 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+Old Romanian stage form : *#pˈepine#
+Final form : *#pˈepine#

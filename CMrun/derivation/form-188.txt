@@ -1,21 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 188:
-#fˌeːtiˈolum# >>> *#fet͡ʃˈor# ( GOLD : #fet͡ʃˈor#) :
-f ˌeː t i ˈo l u m 
-*#fˌeːtjˈolum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːtjˈolum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːtjˈolu# | 44 : m > ∅ / [-stres] __ #
-*#feːttjˈolu# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#fettjˈolu# | 135 : [+syl] > [-long,-splng] 
-*#fettʲˈolu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#fetkʲˈolu# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#fekʲˈolu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#fekʲˈolu#
-*#fekʲˈoɾu# | 192 : l > ɾ / [+syl] __ [+syl]
-*#fec͡ɕˈoɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fet͡ʃˈoɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fet͡ʃˈoɾu#
-*#fet͡ʃˈoru# | 265 : ɾ > r 
-*#fet͡ʃˈorw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fet͡ʃˈor# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fet͡ʃˈor#
-Final form : *#fet͡ʃˈor#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 188:
+#fˈeːminum# >>> *#fe̯ˈamɨn# ( GOLD : #fˈamən#) :
+f ˈeː m i n u m 
+*#fˈeːminu# | 44 : m > ∅ / [-stres] __ #
+*#fˈeːmenu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#fˈemenu# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈemenu#
+*#fˈɛmenu# | 199 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
+*#fˈɛamenu# | 216 : ∅ > a / [-tense] __
+*#fˈeˈamenu# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fe̯ˈamenu# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#fe̯ˈamenu#
+*#fe̯ˈamənu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#fe̯ˈamɨnu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#fe̯ˈamɨnw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fe̯ˈamɨn# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fe̯ˈamɨn#
+Final form : *#fe̯ˈamɨn#

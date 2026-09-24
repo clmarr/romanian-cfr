@@ -1,22 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 64:
-#ˌannoːtˈertioː# >>> *#anut͡sˈert͡s# ( GOLD : #ant͡sˈərt͡s#) :
-ˌa n n oː t ˈe r t i oː 
-*#ˌannoːtˈertjoː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#annoːtˈertjoː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#annoːtˈɛrtjoː# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#annotˈɛrtjo# | 135 : [+syl] > [-long,-splng] 
-*#annotˈɛrtʲo# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#annotˈɛrtʲo#
-*#annotjˈɛrtʲo# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#annotjˈertʲo# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#annutjˈertʲu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#annutʲjˈertʲu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#annutʲˈertʲu# | 209 : j > ∅ / [+cons,+front] __
-*#annut͡sʲˈert͡sʲu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#annut͡sˈert͡su# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#annut͡sˈert͡su#
-*#anut͡sˈert͡su# | 262 : n n > n 
-*#anut͡sˈert͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#anut͡sˈert͡s# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#anut͡sˈert͡s#
-Final form : *#anut͡sˈert͡s#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 64:
+#ˌammˌutˈiː# >>> *#amut͡sˈi# ( GOLD : #amut͡sˈi#) :
+ˌa m m ˌu t ˈiː 
+*#ammutˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ammutˈi# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ammutˈi#
+*#ammutjˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#amutjˈi# | 207 : {l l;m m} > {l;m} 
+*#amutʲjˈi# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#amutʲˈi# | 209 : j > ∅ / [+cons,+front] __
+*#amut͡sʲˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#amut͡sˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#amut͡sˈi#
+Old Romanian stage form : *#amut͡sˈi#
+Final form : *#amut͡sˈi#

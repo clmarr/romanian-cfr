@@ -1,20 +1,9 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1086:
-#astˈerne# >>> *#aʃtˈerne# ( GOLD : #aʃtˈerne#) :
-a s t ˈe r n e 
-*#astˈɛrne# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#astˈɛrne#
-*#astˈɛɾne# | 173 : r > ɾ / __ [nnas,ncons]
-*#astjˈɛɾne# | 182 : ∅ > j / s t __ [-cons,-tense,+prim]
-*#astjˈeɾne# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#astjˈɛɾne# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#astʲjˈɛɾne# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#astʲˈɛɾne# | 209 : j > ∅ / [+cons,+front] __
-*#astʲˈɛaɾne# | 216 : ∅ > a / [-tense] __
-*#astʲˈeˈaɾne# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#astʲe̯ˈaɾne# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#aʃte̯ˈaɾne# | 233 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#aʃte̯ˈaɾne#
-*#aʃtˈeɾne# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#aʃtˈerne# | 265 : ɾ > r 
-Old Romanian stage form : *#aʃtˈerne#
-Final form : *#aʃtˈerne#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1086:
+#abskˈonde# >>> *#askˈunde# ( GOLD : #askˈunde#) :
+a b s k ˈo n d e 
+*#askˈonde# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
+Balkan Romance stage form : *#askˈonde#
+*#askˈunde# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#askˈunde#
+Old Romanian stage form : *#askˈunde#
+Final form : *#askˈunde#

@@ -1,11 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1035:
-#eːrunkˈaː# >>> *#arunkˈa# ( GOLD : #arunkˈa#) :
-eː r u n k ˈaː 
-*#aːrunkˈaː# | 32 : eː > aː / # __ ( [+cons] )* [+hi]
-*#arunkˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#arunkˈa#
-*#aɾunkˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#aɾunkˈa#
-*#arunkˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#arunkˈa#
-Final form : *#arunkˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1035:
+#eːraːdiːkˈaː# >>> *#rədikˈa# ( GOLD : #ridikˈa#) :
+eː r aː d iː k ˈaː 
+*#eradikˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#eradikˈa#
+*#eɾadikˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#eɾadjikˈa# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#eɾadʲjikˈa# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#eɾadʲikˈa# | 209 : j > ∅ / [+cons,+front] __
+*#eɾadikˈa# | 211 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
+*#eɾədikˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#eɾədikˈa#
+*#ɾədikˈa# | 256 : e > ∅ / # __ [-syl] [-cons]
+*#rədikˈa# | 265 : ɾ > r 
+Old Romanian stage form : *#rədikˈa#
+Final form : *#rədikˈa#

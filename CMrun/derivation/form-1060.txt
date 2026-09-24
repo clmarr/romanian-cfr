@@ -1,11 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1060:
-#frikˈaː# >>> *#frekˈa# ( GOLD : #frekˈa#) :
-f r i k ˈaː 
-*#frekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#frekˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#frekˈa#
-*#fɾekˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#fɾekˈa#
-*#frekˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#frekˈa#
-Final form : *#frekˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1060:
+#eksbˈattue# >>> *#zbˈate# ( GOLD : #zbˈate#) :
+e k s b ˈa t t u e 
+*#eksbˈattwe# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#eksbˈattβe# | 100 : w > β / __ [-cons]
+*#esbˈattβe# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
+*#sbˈattβe# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#zbˈattβe# | 147 : s > z / # __ [+voi,-son]
+*#zbˈatβe# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#zbˈate# | 163 : β > ∅ 
+Balkan Romance stage form : *#zbˈate#
+Common Romanian stage form : *#zbˈate#
+Old Romanian stage form : *#zbˈate#
+Final form : *#zbˈate#

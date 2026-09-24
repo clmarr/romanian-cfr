@@ -1,21 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 688:
-#wˈiolam# >>> *#vio̯ˈarə# ( GOLD : #vio̯ˈarə#) :
-w ˈi o l a m 
-*#wˈiola# | 44 : m > ∅ / [-stres] __ #
-*#βˈiola# | 100 : w > β / __ [-cons]
-*#βiˈoːla# | 122 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#βjˈoːla# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#βjˈola# | 135 : [+syl] > [-long,-splng] 
-*#vjˈola# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vjˈola#
-*#vjˈoɾa# | 192 : l > ɾ / [+syl] __ [+syl]
-*#vjˈɔɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vjˈɔaɾa# | 216 : ∅ > a / [-tense] __
-*#vjˈoˈaɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#vjo̯ˈaɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#vjo̯ˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#vjo̯ˈaɾə#
-*#vjo̯ˈarə# | 265 : ɾ > r 
-*#vio̯ˈarə# | 311 : j > i / [+cons] __ [-syl,-cons]
-Old Romanian stage form : *#vio̯ˈarə#
-Final form : *#vio̯ˈarə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 688:
+#plantˈaɡinam# >>> *#pətlˈad͡ʒinə# ( GOLD : #pətlˈad͡ʒinə#) :
+p l a n t ˈa ɡ i n a m 
+*#plantˈaɡina# | 44 : m > ∅ / [-stres] __ #
+*#pantlˈaɡina# | 77 : p l [+syl] [+son,+cons] t ∅ > p ∅ [+syl,+son] [+son,+cons,0tense] t l/ # __
+*#patlˈaɡina# | 79 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
+*#patlˈaɡena# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#patlˈaɡʲena# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#patlˈaɡʲena#
+*#pətlˈaɡʲenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pətlˈaɟ͡ʑenə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pətlˈad͡ʒenə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pətlˈad͡ʒenə#
+*#pətlˈad͡ʒinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#pətlˈad͡ʒinə#
+Final form : *#pətlˈad͡ʒinə#

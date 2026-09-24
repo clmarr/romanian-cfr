@@ -1,18 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 273:
-#ˌekskrˈime# >>> *#skrˈeme# ( GOLD : #skrˈeme#) :
-ˌe k s k r ˈi m e 
-*#ekskrˈime# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eskrˈime# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskrˈeme# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#skrˈeme# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skrˈeme#
-*#skɾˈeme# | 173 : r > ɾ / __ [nnas,ncons]
-*#skɾˈɛme# | 199 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
-*#skɾˈɛame# | 216 : ∅ > a / [-tense] __
-*#skɾˈeˈame# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#skɾe̯ˈame# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#skɾe̯ˈame#
-*#skɾˈeme# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#skrˈeme# | 265 : ɾ > r 
-Old Romanian stage form : *#skrˈeme#
-Final form : *#skrˈeme#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 273:
+#kˌakˈaː# >>> *#kəkˈa# ( GOLD : #kəkˈa#) :
+k ˌa k ˈaː 
+*#kakˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kakˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kakˈa#
+*#kəkˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kəkˈa#
+Old Romanian stage form : *#kəkˈa#
+Final form : *#kəkˈa#

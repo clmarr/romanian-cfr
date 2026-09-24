@@ -1,12 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1122:
-#trˈahe# >>> *#trˈaj# ( GOLD : #trˈad͡ʒe#) :
-t r ˈa h e 
-*#trˈae# | 40 : h > ∅ 
-*#trˈai# | 124 : [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
-*#trˈaj# | 127 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / [+syl] __
-Balkan Romance stage form : *#trˈaj#
-*#tɾˈaj# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#tɾˈaj#
-*#trˈaj# | 265 : ɾ > r 
-Old Romanian stage form : *#trˈaj#
-Final form : *#trˈaj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1122:
+#subtiliˈaː# >>> *#subtejˈa# ( GOLD : #subt͡sjˈa#) :
+s u b t i l i ˈaː 
+*#subtiljˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#subteljˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#subteljˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#subteljˈa#
+*#subtelʲjˈa# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#subtelʲˈa# | 209 : j > ∅ / [+cons,+front] __
+*#subteʎˈa# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#subteʎˈa#
+*#subtejˈa# | 278 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#subtejˈa#
+Final form : *#subtejˈa#

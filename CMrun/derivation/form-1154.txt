@@ -1,17 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1154:
-#maːkʰinˈaː# >>> *#mət͡ʃinˈa# ( GOLD : #mət͡ʃinˈa#) :
-m aː kʰ i n ˈaː 
-*#maːkinˈaː# | 14 : [+cons,+sg] > [-sg] 
-*#maːkenˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#makenˈa# | 135 : [+syl] > [-long,-splng] 
-*#makʲenˈa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#makʲenˈa#
-*#makʲinˈa# | 203 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#makʲjinˈa# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#makʲinˈa# | 209 : j > ∅ / [+cons,+front] __
-*#məkʲinˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#məc͡ɕinˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mət͡ʃinˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mət͡ʃinˈa#
-Old Romanian stage form : *#mət͡ʃinˈa#
-Final form : *#mət͡ʃinˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1154:
+#kˈerne# >>> *#t͡ʃˈerne# ( GOLD : #t͡ʃˈerne#) :
+k ˈe r n e 
+*#kˈɛrne# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kʲˈɛrne# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲˈɛrne#
+*#kʲˈɛɾne# | 173 : r > ɾ / __ [nnas,ncons]
+*#kʲjˈɛɾne# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#kʲjˈeɾne# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʲjˈɛɾne# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kʲˈɛɾne# | 209 : j > ∅ / [+cons,+front] __
+*#kʲˈɛaɾne# | 216 : ∅ > a / [-tense] __
+*#kʲˈeˈaɾne# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kʲe̯ˈaɾne# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#c͡ɕe̯ˈaɾne# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃe̯ˈaɾne# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃe̯ˈaɾne#
+*#t͡ʃˈeɾne# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#t͡ʃˈerne# | 265 : ɾ > r 
+Old Romanian stage form : *#t͡ʃˈerne#
+Final form : *#t͡ʃˈerne#

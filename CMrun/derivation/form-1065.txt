@@ -1,13 +1,9 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1065:
-#skarpinˈaː# >>> *#skərpinˈa# ( GOLD : #skərpinˈa#) :
-s k a r p i n ˈaː 
-*#iskarpinˈaː# | 120 : ∅ > i / # __ s [+cons,-son]
-*#eskarpenˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#eskarpenˈa# | 135 : [+syl] > [-long,-splng] 
-*#skarpenˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skarpenˈa#
-*#skarpinˈa# | 203 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#skərpinˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#skərpinˈa#
-Old Romanian stage form : *#skərpinˈa#
-Final form : *#skərpinˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1065:
+#pˈoːne# >>> *#pˈune# ( GOLD : #pˈune#) :
+p ˈoː n e 
+*#pˈone# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈone#
+*#pˈune# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#pˈune#
+Old Romanian stage form : *#pˈune#
+Final form : *#pˈune#

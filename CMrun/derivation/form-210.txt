@@ -1,16 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 210:
-#mˌustˈakea# >>> *#mustˈat͡sə# ( GOLD : #mustˈat͡sə#) :
-m ˌu s t ˈa k e a 
-*#mˌustˈakja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mustˈakja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#mustˈakkja# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#mustˈaktʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#mustˈattʲa# | 144 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#mustˈatʲa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#mustˈatʲa#
-*#mustˈatʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#mustˈat͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mustˈat͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mustˈat͡sə#
-Old Romanian stage form : *#mustˈat͡sə#
-Final form : *#mustˈat͡sə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 210:
+#mˌaːksˈillam# >>> *#məse̯ˈa# ( GOLD : #məse̯ˈa#) :
+m ˌaː k s ˈi l l a m 
+*#maːksˈillam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#maːksˈilla# | 44 : m > ∅ / [-stres] __ #
+*#maːssˈilla# | 113 : k > s / __ s
+*#maːssˈella# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#massˈella# | 135 : [+syl] > [-long,-splng] 
+*#masˈella# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#masˈella#
+*#masˈɛlla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#masˈɛwa# | 204 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#masˈɛawa# | 216 : ∅ > a / [-tense] __
+*#masˈeˈawa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mase̯ˈawa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#məse̯ˈawə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#məse̯ˈa# | 228 : w ə > ∅ / [-cons,-syl] ˈa __
+Common Romanian stage form : *#məse̯ˈa#
+Old Romanian stage form : *#məse̯ˈa#
+Final form : *#məse̯ˈa#

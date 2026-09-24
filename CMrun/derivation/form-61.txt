@@ -1,17 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 61:
-#ˌammˌattˈiː# >>> *#amət͡sˈi# ( GOLD : #amet͡sˈi#) :
-ˌa m m ˌa t t ˈiː 
-*#ammattˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammattˈi# | 135 : [+syl] > [-long,-splng] 
-*#ammatˈi# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ammatˈi#
-*#ammatjˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#amatjˈi# | 207 : {l l;m m} > {l;m} 
-*#amatʲjˈi# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#amatʲˈi# | 209 : j > ∅ / [+cons,+front] __
-*#amətʲˈi# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#amət͡sʲˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#amət͡sˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#amət͡sˈi#
-Old Romanian stage form : *#amət͡sˈi#
-Final form : *#amət͡sˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 61:
+#ˌamendˈui# >>> *#amɨndˈoj# ( GOLD : #amɨndˈoj#) :
+ˌa m e n d ˈu i 
+*#ˌamendˈuj# | 2 : [+syl,-long,-stres,+hi] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+syl,+hi,+back] __
+*#amendˈuj# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+Balkan Romance stage form : *#amendˈuj#
+*#amendˈoj# | 238 : ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
+Common Romanian stage form : *#amendˈoj#
+*#aməndˈoj# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#amɨndˈoj# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Old Romanian stage form : *#amɨndˈoj#
+Final form : *#amɨndˈoj#

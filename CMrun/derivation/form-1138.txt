@@ -1,18 +1,9 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1138:
-#traːmˈitte# >>> *#trəmˈete# ( GOLD : #trimˈite#) :
-t r aː m ˈi t t e 
-*#traːmˈette# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#tramˈette# | 135 : [+syl] > [-long,-splng] 
-*#tramˈete# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#tramˈete#
-*#tɾamˈete# | 173 : r > ɾ / __ [nnas,ncons]
-*#tɾamˈɛte# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tɾamˈɛate# | 216 : ∅ > a / [-tense] __
-*#tɾamˈeˈate# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#tɾame̯ˈate# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#tɾəme̯ˈate# | 220 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#tɾəme̯ˈate#
-*#tɾəmˈete# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#trəmˈete# | 265 : ɾ > r 
-Old Romanian stage form : *#trəmˈete#
-Final form : *#trəmˈete#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1138:
+#portˈaː# >>> *#purtˈa# ( GOLD : #purtˈa#) :
+p o r t ˈaː 
+*#portˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#portˈa#
+*#purtˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#purtˈa#
+Old Romanian stage form : *#purtˈa#
+Final form : *#purtˈa#

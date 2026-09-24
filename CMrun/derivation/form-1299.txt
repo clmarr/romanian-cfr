@@ -1,14 +1,23 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1299:
-#dˈominam# >>> *#do̯ˈamnə# ( GOLD : #do̯ˈamnə#) :
-d ˈo m i n a m 
-*#dˈomina# | 44 : m > ∅ / [-stres] __ #
-*#dˈomna# | 62 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
-Balkan Romance stage form : *#dˈomna#
-*#dˈɔmna# | 197 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round]
-*#dˈɔamna# | 216 : ∅ > a / [-tense] __
-*#dˈoˈamna# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#do̯ˈamna# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#do̯ˈamnə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#do̯ˈamnə#
-Old Romanian stage form : *#do̯ˈamnə#
-Final form : *#do̯ˈamnə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1299:
+#oːrˈikulam# >>> *#urˈekje# ( GOLD : #urˈekje#) :
+oː r ˈi k u l a m 
+*#oːrˈikula# | 44 : m > ∅ / [-stres] __ #
+*#oːrˈikla# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
+*#oːrˈekla# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#orˈekla# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#orˈekla#
+*#oɾˈekla# | 173 : r > ɾ / __ [nnas,ncons]
+*#uɾˈekla# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#uɾˈɛkla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#uɾˈɛakla# | 216 : ∅ > a / [-tense] __
+*#uɾˈeˈakla# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#uɾe̯ˈakla# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#uɾe̯ˈaklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#uɾe̯ˈakʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
+*#uɾe̯ˈakʎe# | 230 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#uɾe̯ˈakʎe#
+*#uɾˈekʎe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#urˈekʎe# | 265 : ɾ > r 
+*#urˈekje# | 278 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#urˈekje#
+Final form : *#urˈekje#

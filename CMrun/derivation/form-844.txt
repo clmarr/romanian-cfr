@@ -1,18 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 844:
-#kwˈattuor# >>> *#pˈatru# ( GOLD : #pˈatru#) :
-k w ˈa t t u o r 
-*#kwˈattwor# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kwˈattrwo# | 93 : ∅ [-cons] [+syl] r > r [-cons,-lat,+cont,0delrel] [+syl,+son] ∅/ [+cons] [-son] __ #
-*#kβˈattrβo# | 100 : w > β / __ [-cons]
-*#pˈattrβo# | 118 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
-*#pˈatrβo# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#pˈatro# | 163 : β > ∅ 
-Balkan Romance stage form : *#pˈatro#
-*#pˈatɾo# | 173 : r > ɾ / __ [nnas,ncons]
-*#pˈatɾu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#pˈatɾu#
-*#pˈatru# | 265 : ɾ > r 
-*#pˈatrw# | 291 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#pˈatru# | 295 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-Old Romanian stage form : *#pˈatru#
-Final form : *#pˈatru#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 844:
+#nˈowem# >>> *#nˈowə# ( GOLD : #nˈowə#) :
+n ˈo w e m 
+*#nˈowam# | 27 : e > a / [+son] [+syl,+round] w __
+*#nˈowa# | 44 : m > ∅ / [-stres] __ #
+*#nˈoβa# | 100 : w > β / __ [-cons]
+*#nˈowa# | 162 : β > w / [+syl,+round,-hi] __ [+syl,+lo]
+Balkan Romance stage form : *#nˈowa#
+*#nˈɔwa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈowa# | 200 : [+stres,-hi,-lo] > [+tense,-cons,-lat,+cont,0delrel] / __ w
+*#nˈowə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#nˈowə#
+Old Romanian stage form : *#nˈowə#
+Final form : *#nˈowə#

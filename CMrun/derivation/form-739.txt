@@ -1,12 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 739:
-#tˈawrum# >>> *#tˈawr# ( GOLD : #tˈawr#) :
-t ˈa w r u m 
-*#tˈawru# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#tˈawru#
-*#tˈawɾu# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#tˈawɾu#
-*#tˈawru# | 265 : ɾ > r 
-*#tˈawrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#tˈawr# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#tˈawr#
-Final form : *#tˈawr#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 739:
+#rˈubeum# >>> *#rˈojb# ( GOLD : #rˈojb#) :
+r ˈu b e u m 
+*#rˈubjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rˈubju# | 44 : m > ∅ / [-stres] __ #
+*#rˈubbju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#rˈubju# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#rˈujbu# | 159 : b j > j b / [+stres] __
+Balkan Romance stage form : *#rˈujbu#
+*#ɾˈujbu# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾˈujbu# | 174 : ∅ > r / # __ ɾ
+*#rɾˈojbu# | 238 : ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
+Common Romanian stage form : *#rɾˈojbu#
+*#rˈojbu# | 244 : {ɾ;r} > {∅;∅} / r __
+*#rˈojbw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rˈojb# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rˈojb#
+Final form : *#rˈojb#

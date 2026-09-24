@@ -1,14 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 328:
-#ˌindˌuːrˈaː# >>> *#ɨndurˈa# ( GOLD : #ɨndurˈa#) :
-ˌi n d ˌuː r ˈaː 
-*#induːrˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enduːrˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#endurˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#endurˈa#
-*#enduɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#enduɾˈa#
-*#induɾˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#indurˈa# | 265 : ɾ > r 
-*#ɨndurˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨndurˈa#
-Final form : *#ɨndurˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 328:
+#fˌeːlˈiːkem# >>> *#ferˈit͡ʃe# ( GOLD : #ferˈit͡ʃe#) :
+f ˌeː l ˈiː k e m 
+*#feːlˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#feːlˈiːke# | 44 : m > ∅ / [-stres] __ #
+*#felˈike# | 135 : [+syl] > [-long,-splng] 
+*#felˈikʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#felˈikʲe#
+*#feɾˈikʲe# | 192 : l > ɾ / [+syl] __ [+syl]
+*#feɾˈic͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#feɾˈit͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#feɾˈit͡ʃe#
+*#ferˈit͡ʃe# | 265 : ɾ > r 
+Old Romanian stage form : *#ferˈit͡ʃe#
+Final form : *#ferˈit͡ʃe#

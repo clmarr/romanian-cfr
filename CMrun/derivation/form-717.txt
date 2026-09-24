@@ -1,23 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 717:
-#ˌarˈietem# >>> *#arˈete# ( GOLD : #arˈete#) :
-ˌa r ˈi e t e m 
-*#arˈietem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#arˈiete# | 44 : m > ∅ / [-stres] __ #
-*#ariˈeːte# | 122 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#arjˈeːte# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#arjˈete# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#arjˈete#
-*#aɾjˈete# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾjˈɛte# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#aɾʲjˈɛte# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#aɾʲˈɛte# | 209 : j > ∅ / [+cons,+front] __
-*#aɾʲˈɛate# | 216 : ∅ > a / [-tense] __
-*#aɾʲˈeˈate# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#aɾʲe̯ˈate# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#aɾje̯ˈate# | 231 : ɾʲ > ɾ j / # ( ( [+cons] )* [-cons] ( [+cons] )* ) __ [-hi]
-Common Romanian stage form : *#aɾje̯ˈate#
-*#aɾjˈete# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#aɾˈete# | 258 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
-*#arˈete# | 265 : ɾ > r 
-Old Romanian stage form : *#arˈete#
-Final form : *#arˈete#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 717:
+#ˌaɡnˈellum# >>> *#mjˈel# ( GOLD : #mjˈel#) :
+ˌa ɡ n ˈe l l u m 
+*#ˌaŋnˈellum# | 12 : ɡ > ŋ / __ n
+*#aŋnˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aŋnˈellu# | 44 : m > ∅ / [-stres] __ #
+*#amnˈellu# | 114 : ŋ > m / __ n
+*#mnˈellu# | 116 : a > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
+*#mnˈɛllu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mnˈɛllu#
+*#mnjˈɛllu# | 181 : ∅ > j / m n __ [-cons,-tense,+prim]
+*#mnjˈellu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mnjˈelu# | 207 : {l l;m m} > {l;m} 
+*#mnʲjˈelu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mnʲˈelu# | 209 : j > ∅ / [+cons,+front] __
+*#mɲˈelu# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#mɲˈelu#
+*#mjˈelu# | 278 : [+son,+cons,+front] > j 
+*#mjˈelw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mjˈel# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mjˈel#
+Final form : *#mjˈel#

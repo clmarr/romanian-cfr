@@ -1,19 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 16:
-#ˌadmˌiːnakiˈaː# >>> *#aminət͡sˈa# ( GOLD : #amenint͡sˈa#) :
-ˌa d m ˌiː n a k i ˈaː 
-*#ˌadmˌiːnakjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#admiːnakjˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammiːnakjˈaː# | 37 : d > m / [+syl,+lo] __ m
-*#ammiːnakkjˈaː# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#amminakkjˈa# | 135 : [+syl] > [-long,-splng] 
-*#amminaktʲˈa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#amminattʲˈa# | 144 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#amminatʲˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#amminatʲˈa#
-*#aminatʲˈa# | 207 : {l l;m m} > {l;m} 
-*#aminətʲˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#aminət͡sʲˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aminət͡sˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#aminət͡sˈa#
-Old Romanian stage form : *#aminət͡sˈa#
-Final form : *#aminət͡sˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 16:
+#ˌadmˌaɡˈiː# >>> *#aməd͡ʒˈi# ( GOLD : #aməd͡ʒˈi#) :
+ˌa d m ˌa ɡ ˈiː 
+*#admaɡˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ammaɡˈiː# | 37 : d > m / [+syl,+lo] __ m
+*#ammaɡˈi# | 135 : [+syl] > [-long,-splng] 
+*#ammaɡʲˈi# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ammaɡʲˈi#
+*#ammaɡʲjˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#amaɡʲjˈi# | 207 : {l l;m m} > {l;m} 
+*#amaɡʲˈi# | 209 : j > ∅ / [+cons,+front] __
+*#aməɡʲˈi# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#aməɟ͡ʑˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#aməd͡ʒˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#aməd͡ʒˈi#
+Old Romanian stage form : *#aməd͡ʒˈi#
+Final form : *#aməd͡ʒˈi#

@@ -1,10 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1102:
-#fˈake# >>> *#fˈat͡ʃe# ( GOLD : #fˈat͡ʃe#) :
-f ˈa k e 
-*#fˈakʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#fˈakʲe#
-*#fˈac͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fˈat͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fˈat͡ʃe#
-Old Romanian stage form : *#fˈat͡ʃe#
-Final form : *#fˈat͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1102:
+#ekstrakolˈaː# >>> *#strəkurˈa# ( GOLD : #strekurˈa#) :
+e k s t r a k o l ˈaː 
+*#estrakolˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estrakolˈa# | 135 : [+syl] > [-long,-splng] 
+*#strakolˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#strakolˈa#
+*#stɾakolˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#stɾakulˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#stɾakuɾˈa# | 192 : l > ɾ / [+syl] __ [+syl]
+*#stɾəkuɾˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#stɾəkuɾˈa#
+*#strəkurˈa# | 265 : ɾ > r 
+Old Romanian stage form : *#strəkurˈa#
+Final form : *#strəkurˈa#

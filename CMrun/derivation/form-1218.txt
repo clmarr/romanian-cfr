@@ -1,13 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1218:
-#kˈaiulum# >>> *#kˈajur# ( GOLD : #kˈajer#) :
-k ˈa i u l u m 
-*#kˈajulum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kˈajulu# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#kˈajulu#
-*#kˈajuɾu# | 192 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#kˈajuɾu#
-*#kˈajuru# | 265 : ɾ > r 
-*#kˈajurw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kˈajur# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kˈajur#
-Final form : *#kˈajur#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1218:
+#pˈaːkem# >>> *#pˈat͡ʃe# ( GOLD : #pˈat͡ʃe#) :
+p ˈaː k e m 
+*#pˈaːke# | 44 : m > ∅ / [-stres] __ #
+*#pˈake# | 135 : [+syl] > [-long,-splng] 
+*#pˈakʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#pˈakʲe#
+*#pˈac͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pˈat͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pˈat͡ʃe#
+Old Romanian stage form : *#pˈat͡ʃe#
+Final form : *#pˈat͡ʃe#

@@ -1,17 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 505:
-#kˌoːnsˈokrum# >>> *#kˈosukru# ( GOLD : #kˈuskru#) :
-k ˌoː n s ˈo k r u m 
-*#kˈoːnsˈokrum# | 6 : [+long,+round,-hi] > [+prim,+stres,+syl,+son] / # k __ n ( [-syl] )* [+round,+prim]
-*#kˈoːnsokrum# | 7 : [+prim] > [-stres,-prim,+syl,+son] / [+prim] ( [-syl] )* __
-*#kˈoːnsokru# | 44 : m > ∅ / [-stres] __ #
-*#kˈoːsokru# | 102 : [+syl] n > [+long] ∅/ # [+cons] __ [-son,+cont]
-*#kˈosokru# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kˈosokru#
-*#kˈosokɾu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kˈosukɾu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#kˈosukɾu#
-*#kˈosukru# | 265 : ɾ > r 
-*#kˈosukrw# | 291 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#kˈosukru# | 295 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-Old Romanian stage form : *#kˈosukru#
-Final form : *#kˈosukru#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 505:
+#wˈeːrum# >>> *#vˈər# ( GOLD : #vˈər#) :
+w ˈeː r u m 
+*#wˈeːru# | 44 : m > ∅ / [-stres] __ #
+*#βˈeːru# | 100 : w > β / __ [-cons]
+*#βˈeru# | 135 : [+syl] > [-long,-splng] 
+*#vˈeru# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈeru#
+*#vˈeɾu# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#vˈeɾu#
+*#vˈəɾu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈəru# | 265 : ɾ > r 
+*#vˈərw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈər# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈər#
+Final form : *#vˈər#

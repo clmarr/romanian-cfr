@@ -1,17 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 703:
-#ˌinkˌaballikˈaː# >>> *#ɨnkəlekˈa# ( GOLD : #ɨnkəlekˈa#) :
-ˌi n k ˌa b a l l i k ˈaː 
-*#inkaballikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkaβallikˈaː# | 132 : b > β / [-cons] __ [+cont]
-*#enkaβallekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkaβallekˈa# | 135 : [+syl] > [-long,-splng] 
-*#enkaallekˈa# | 163 : β > ∅ 
-*#enkallekˈa# | 164 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#enkallekˈa#
-*#enkalekˈa# | 207 : {l l;m m} > {l;m} 
-*#enkəlekˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#enkəlekˈa#
-*#inkəlekˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnkəlekˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnkəlekˈa#
-Final form : *#ɨnkəlekˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 703:
+#ˌekstˈirpum# >>> *#stˈerp# ( GOLD : #stˈerp#) :
+ˌe k s t ˈi r p u m 
+*#ekstˈirpum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekstˈirpu# | 44 : m > ∅ / [-stres] __ #
+*#estˈirpu# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estˈerpu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#stˈerpu# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stˈerpu#
+Common Romanian stage form : *#stˈerpu#
+*#stˈerpw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#stˈerp# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#stˈerp#
+Final form : *#stˈerp#

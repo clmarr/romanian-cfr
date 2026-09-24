@@ -1,11 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 571:
-#mˈaium# >>> *#mˈaj# ( GOLD : #mˈaj#) :
-m ˈa i u m 
-*#mˈajum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈaju# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#mˈaju#
-Common Romanian stage form : *#mˈaju#
-*#mˈajw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈaj# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mˈaj#
-Final form : *#mˈaj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 571:
+#ˌaprˈiːlem# >>> *#prˈire# ( GOLD : #prjˈer#) :
+ˌa p r ˈiː l e m 
+*#aprˈiːlem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aprˈiːle# | 44 : m > ∅ / [-stres] __ #
+*#prˈiːle# | 117 : a > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
+*#prˈile# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#prˈile#
+*#pɾˈile# | 173 : r > ɾ / __ [nnas,ncons]
+*#pɾˈiɾe# | 192 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#pɾˈiɾe#
+*#prˈire# | 265 : ɾ > r 
+Old Romanian stage form : *#prˈire#
+Final form : *#prˈire#

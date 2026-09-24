@@ -1,10 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 31:
-#ˌafflˈaː# >>> *#aflˈa# ( GOLD : #aflˈa#) :
-ˌa f f l ˈaː 
-*#afflˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#afflˈa# | 135 : [+syl] > [-long,-splng] 
-*#aflˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#aflˈa#
-Common Romanian stage form : *#aflˈa#
-Old Romanian stage form : *#aflˈa#
-Final form : *#aflˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 31:
+#ˌae̯rˈaːmam# >>> *#arˈamə# ( GOLD : #arˈamə#) :
+ˌa e̯ r ˈaː m a m 
+*#ˌarˈaːmam# | 0 : e̯ > ∅ / # [+lo] __ [+son]
+*#arˈaːmam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#arˈaːma# | 44 : m > ∅ / [-stres] __ #
+*#arˈama# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#arˈama#
+*#aɾˈama# | 173 : r > ɾ / __ [nnas,ncons]
+*#aɾˈamə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#aɾˈamə#
+*#arˈamə# | 265 : ɾ > r 
+Old Romanian stage form : *#arˈamə#
+Final form : *#arˈamə#

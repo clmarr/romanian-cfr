@@ -1,15 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 236:
-#sˌubˈaːlam# >>> *#suˈarə# ( GOLD : #suo̯ˈarə#) :
-s ˌu b ˈaː l a m 
-*#subˈaːlam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#subˈaːla# | 44 : m > ∅ / [-stres] __ #
-*#suβˈaːla# | 132 : b > β / [-cons] __ [+cont]
-*#suβˈala# | 135 : [+syl] > [-long,-splng] 
-*#suˈala# | 163 : β > ∅ 
-Balkan Romance stage form : *#suˈala#
-*#suˈaɾa# | 192 : l > ɾ / [+syl] __ [+syl]
-*#suˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#suˈaɾə#
-*#suˈarə# | 265 : ɾ > r 
-Old Romanian stage form : *#suˈarə#
-Final form : *#suˈarə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 236:
+#splˈeːnam# >>> *#splˈinə# ( GOLD : #splˈinə#) :
+s p l ˈeː n a m 
+*#splˈeːna# | 44 : m > ∅ / [-stres] __ #
+*#isplˈeːna# | 120 : ∅ > i / # __ s [+cons,-son]
+*#esplˈeːna# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#esplˈena# | 135 : [+syl] > [-long,-splng] 
+*#splˈena# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#splˈena#
+*#splˈenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#splˈenə#
+*#splˈinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#splˈinə#
+Final form : *#splˈinə#

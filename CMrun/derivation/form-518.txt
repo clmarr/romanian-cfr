@@ -1,17 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 518:
-#ˈorpʰanum# >>> *#o̯ˈarfɨn# ( GOLD : #o̯ˈarfən#) :
-ˈo r pʰ a n u m 
-*#ˈorfanum# | 13 : pʰ > f / @ __
-*#ˈorfanu# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#ˈorfanu#
-*#ˈɔrfanu# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ˈɔarfanu# | 216 : ∅ > a / [-tense] __
-*#ˈoˈarfanu# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#o̯ˈarfanu# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#o̯ˈarfənu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#o̯ˈarfənu#
-*#o̯ˈarfɨnu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#o̯ˈarfɨnw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#o̯ˈarfɨn# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#o̯ˈarfɨn#
-Final form : *#o̯ˈarfɨn#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 518:
+#fˌiːliˈaːnum# >>> *#fiˈin# ( GOLD : #fˈin#) :
+f ˌiː l i ˈaː n u m 
+*#fˌiːljˈaːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fiːljˈaːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#fiːljˈaːnu# | 44 : m > ∅ / [-stres] __ #
+*#filjˈanu# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#filjˈanu#
+*#filʲjˈanu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#filʲˈanu# | 209 : j > ∅ / [+cons,+front] __
+*#fiʎˈanu# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#fiʎˈənu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#fiʎˈənu#
+*#fiʎˈɨnu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#fijˈɨnu# | 278 : [+son,+cons,+front] > j 
+*#fijˈinu# | 286 : [+syl,+hi,-front,-back] > [+front] / j __
+*#fiˈinu# | 287 : j > ∅ / __ [+syl,+front,+hi]
+*#fiˈinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fiˈin# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fiˈin#
+Final form : *#fiˈin#

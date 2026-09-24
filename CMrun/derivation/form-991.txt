@@ -1,16 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 991:
-#kˈontraː# >>> *#ko̯ˈatrə# ( GOLD : #kˈətre#) :
-k ˈo n t r aː 
-*#kˈotraː# | 79 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#kˈotra# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kˈotra#
-*#kˈotɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#kˈɔtɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔatɾa# | 216 : ∅ > a / [-tense] __
-*#kˈoˈatɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈatɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ko̯ˈatɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ko̯ˈatɾə#
-*#ko̯ˈatrə# | 265 : ɾ > r 
-Old Romanian stage form : *#ko̯ˈatrə#
-Final form : *#ko̯ˈatrə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 991:
+#ˌadfˈoraːs# >>> *#afo̯ˈarə# ( GOLD : #afˈarə#) :
+ˌa d f ˈo r aː s 
+*#adfˈoraːs# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#afˈoraːs# | 38 : d > ∅ / [+syl,+lo] __ [-syl]
+*#afˈoras# | 135 : [+syl] > [-long,-splng] 
+*#afˈora# | 172 : s > ∅ / __ #
+Balkan Romance stage form : *#afˈora#
+*#afˈoɾa# | 173 : r > ɾ / __ [nnas,ncons]
+*#afˈɔɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#afˈɔaɾa# | 216 : ∅ > a / [-tense] __
+*#afˈoˈaɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#afo̯ˈaɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#afo̯ˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#afo̯ˈaɾə#
+*#afo̯ˈarə# | 265 : ɾ > r 
+Old Romanian stage form : *#afo̯ˈarə#
+Final form : *#afo̯ˈarə#

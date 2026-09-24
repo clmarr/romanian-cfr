@@ -1,11 +1,24 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 498:
-#nepˈoːtum# >>> *#nepˈot# ( GOLD : #nepˈot#) :
-n e p ˈoː t u m 
-*#nepˈoːtu# | 44 : m > ∅ / [-stres] __ #
-*#nepˈotu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#nepˈotu#
-Common Romanian stage form : *#nepˈotu#
-*#nepˈotw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#nepˈot# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#nepˈot#
-Final form : *#nepˈot#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 498:
+#ɡˈeminum# >>> *#d͡ʒe̯ˈamɨn# ( GOLD : #d͡ʒe̯ˈamən#) :
+ɡ ˈe m i n u m 
+*#ɡˈeminu# | 44 : m > ∅ / [-stres] __ #
+*#ɡˈɛminu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈɛmenu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#ɡʲˈɛmenu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ɡʲˈɛmenu#
+*#ɡʲjˈɛmenu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#ɡʲjˈemenu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ɡʲjˈɛmenu# | 199 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
+*#ɡʲˈɛmenu# | 209 : j > ∅ / [+cons,+front] __
+*#ɡʲˈɛamenu# | 216 : ∅ > a / [-tense] __
+*#ɡʲˈeˈamenu# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɡʲe̯ˈamenu# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ɟ͡ʑe̯ˈamenu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒe̯ˈamenu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒe̯ˈamenu#
+*#d͡ʒe̯ˈamənu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#d͡ʒe̯ˈamɨnu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#d͡ʒe̯ˈamɨnw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#d͡ʒe̯ˈamɨn# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#d͡ʒe̯ˈamɨn#
+Final form : *#d͡ʒe̯ˈamɨn#

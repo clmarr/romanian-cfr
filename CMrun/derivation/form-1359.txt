@@ -1,16 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1359:
-#rˈubum# >>> *#rˈuɡ# ( GOLD : #rˈuɡ#) :
-r ˈu b u m 
-*#rˈubu# | 44 : m > ∅ / [-stres] __ #
-*#rˈuβu# | 132 : b > β / [-cons] __ [+cont]
-*#rˈuɣu# | 151 : β > ɣ / # [+cons,+son] [+syl,αhi,αround] __ [+syl,+hi,+back]
-*#rˈuɡu# | 154 : ɣ > ɡ 
-Balkan Romance stage form : *#rˈuɡu#
-*#ɾˈuɡu# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾˈuɡu# | 174 : ∅ > r / # __ ɾ
-Common Romanian stage form : *#rɾˈuɡu#
-*#rˈuɡu# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rˈuɡw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rˈuɡ# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#rˈuɡ#
-Final form : *#rˈuɡ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1359:
+#ˈuːber# >>> *#ˈud͡ʒer# ( GOLD : #ˈud͡ʒer#) :
+ˈuː b e r 
+*#ˈuːβer# | 132 : b > β / [-cons] __ [+cont]
+*#ˈuβer# | 135 : [+syl] > [-long,-splng] 
+*#ˈuɣer# | 152 : β > ɣ / [+syl,+hi,+back] __ [+syl,αhi,αround] [+cons,+son] #
+*#ˈuɡer# | 154 : ɣ > ɡ 
+*#ˈuɡʲer# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ˈuɡʲer#
+*#ˈuɟ͡ʑer# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ˈud͡ʒer# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ˈud͡ʒer#
+Old Romanian stage form : *#ˈud͡ʒer#
+Final form : *#ˈud͡ʒer#

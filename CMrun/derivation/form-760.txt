@@ -1,17 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 760:
-#ˌekswolˈaː# >>> *#zburˈa# ( GOLD : #zburˈa#) :
-ˌe k s w o l ˈaː 
-*#ekswolˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eksβolˈaː# | 100 : w > β / __ [-cons]
-*#esβolˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#esβolˈa# | 135 : [+syl] > [-long,-splng] 
-*#sβolˈa# | 137 : e > ∅ / # __ [+strid,+ant] [+cont,-strid]
-*#zβolˈa# | 147 : s > z / # __ [+voi,-son]
-*#zbolˈa# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#zbolˈa#
-*#zbulˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#zbuɾˈa# | 192 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#zbuɾˈa#
-*#zburˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#zburˈa#
-Final form : *#zburˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 760:
+#krˌistˈaːtum# >>> *#krestˈat# ( GOLD : #krestˈat#) :
+k r ˌi s t ˈaː t u m 
+*#kristˈaːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kristˈaːtu# | 44 : m > ∅ / [-stres] __ #
+*#krestˈaːtu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#krestˈatu# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#krestˈatu#
+*#kɾestˈatu# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#kɾestˈatu#
+*#krestˈatu# | 265 : ɾ > r 
+*#krestˈatw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#krestˈat# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#krestˈat#
+Final form : *#krestˈat#

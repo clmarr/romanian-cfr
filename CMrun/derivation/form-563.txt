@@ -1,13 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 563:
-#domˈinikam# >>> *#dumˈinikə# ( GOLD : #dumˈinikə#) :
-d o m ˈi n i k a m 
-*#domˈinika# | 44 : m > ∅ / [-stres] __ #
-*#domˈeneka# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#domˈeneka#
-*#dumˈeneka# | 187 : o > u / __ [+lab,+cont,+cons]
-*#dumˈenekə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#dumˈenekə#
-*#dumˈinekə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#dumˈinikə# | 300 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-Old Romanian stage form : *#dumˈinikə#
-Final form : *#dumˈinikə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 563:
+#mˌerˈiːdieːm# >>> *#merˈize# ( GOLD : #merˈizə#) :
+m ˌe r ˈiː d i eː m 
+*#mˌerˈiːdjeːm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#merˈiːdjeːm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#merˈiːdjeː# | 44 : m > ∅ / [-stres] __ #
+*#merˈiːddjeː# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#merˈiddje# | 135 : [+syl] > [-long,-splng] 
+*#merˈiddʲe# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#merˈidʲe# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#merˈidʲe#
+*#meɾˈidʲe# | 173 : r > ɾ / __ [nnas,ncons]
+*#meɾˈid͡zʲe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#meɾˈid͡ze# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#meɾˈid͡ze#
+*#merˈid͡ze# | 265 : ɾ > r 
+*#merˈize# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#merˈize#
+Final form : *#merˈize#

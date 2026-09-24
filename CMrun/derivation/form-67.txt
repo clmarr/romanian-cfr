@@ -1,16 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 67:
-#ˌaprˈiːkum# >>> *#prˈiɡ# ( GOLD : #ˈapriɡ#) :
-ˌa p r ˈiː k u m 
-*#aprˈiːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#aprˈiːku# | 44 : m > ∅ / [-stres] __ #
-*#prˈiːku# | 117 : a > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
-*#prˈiku# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#prˈiku#
-*#pɾˈiku# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#pɾˈiku#
-*#prˈiku# | 265 : ɾ > r 
-*#prˈiɡu# | 290 : k > ɡ / [-cont,-voi] r [+syl] __ [-stres] #
-*#prˈiɡw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#prˈiɡ# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#prˈiɡ#
-Final form : *#prˈiɡ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 67:
+#ˌappˌensˈaː# >>> *#apəsˈa# ( GOLD : #apəsˈa#) :
+ˌa p p ˌe n s ˈaː 
+*#appensˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#appeːsˈaː# | 104 : [+syl] n > [+long] ∅/ p p __ [-son,+cont]
+*#appesˈa# | 135 : [+syl] > [-long,-splng] 
+*#apesˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#apesˈa#
+Common Romanian stage form : *#apesˈa#
+*#apəsˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+Old Romanian stage form : *#apəsˈa#
+Final form : *#apəsˈa#

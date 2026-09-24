@@ -1,17 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 424:
-#braːkˈiːle# >>> *#brət͡ʃˈire# ( GOLD : #brət͡ʃˈire#) :
-b r aː k ˈiː l e 
-*#brakˈile# | 135 : [+syl] > [-long,-splng] 
-*#brakʲˈile# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#brakʲˈile#
-*#bɾakʲˈile# | 173 : r > ɾ / __ [nnas,ncons]
-*#bɾakʲˈiɾe# | 192 : l > ɾ / [+syl] __ [+syl]
-*#bɾakʲjˈiɾe# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#bɾakʲˈiɾe# | 209 : j > ∅ / [+cons,+front] __
-*#bɾəkʲˈiɾe# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#bɾəc͡ɕˈiɾe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#bɾət͡ʃˈiɾe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#bɾət͡ʃˈiɾe#
-*#brət͡ʃˈire# | 265 : ɾ > r 
-Old Romanian stage form : *#brət͡ʃˈire#
-Final form : *#brət͡ʃˈire#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 424:
+#marɡˈellam# >>> *#mərd͡ʒe̯ˈa# ( GOLD : #mərd͡ʒe̯ˈa#) :
+m a r ɡ ˈe l l a m 
+*#marɡˈella# | 44 : m > ∅ / [-stres] __ #
+*#marɡˈɛlla# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#marɡʲˈɛlla# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#marɡʲˈɛlla#
+*#marɡʲˈella# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#marɡʲˈɛlla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#marɡʲˈɛwa# | 204 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#marɡʲˈɛawa# | 216 : ∅ > a / [-tense] __
+*#marɡʲˈeˈawa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#marɡʲe̯ˈawa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#mərɡʲe̯ˈawə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#mərɡʲe̯ˈa# | 228 : w ə > ∅ / [-cons,-syl] ˈa __
+*#mərɟ͡ʑe̯ˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mərd͡ʒe̯ˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mərd͡ʒe̯ˈa#
+Old Romanian stage form : *#mərd͡ʒe̯ˈa#
+Final form : *#mərd͡ʒe̯ˈa#

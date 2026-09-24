@@ -1,23 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 318:
-#blˌandˈitiem# >>> *#blɨndˈet͡se# ( GOLD : #blɨndˈet͡se#) :
-b l ˌa n d ˈi t i e m 
-*#blˌandˈitjem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#blandˈitjem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#blandˈitje# | 44 : m > ∅ / [-stres] __ #
-*#blandˈittje# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#blandˈettje# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#blandˈettʲe# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#blandˈetʲe# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#blandˈetʲe#
-*#blandˈɛtʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#blandˈɛatʲe# | 216 : ∅ > a / [-tense] __
-*#blandˈeˈatʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#blande̯ˈatʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#blənde̯ˈatʲe# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#blənde̯ˈat͡sʲe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#blənde̯ˈat͡se# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#blənde̯ˈat͡se#
-*#bləndˈet͡se# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#blɨndˈet͡se# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#blɨndˈet͡se#
-Final form : *#blɨndˈet͡se#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 318:
+#blˈandum# >>> *#blˈɨnd# ( GOLD : #blˈɨnd#) :
+b l ˈa n d u m 
+*#blˈandu# | 44 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#blˈandu#
+*#blˈəndu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#blˈəndu#
+*#blˈɨndu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#blˈɨndw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#blˈɨnd# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#blˈɨnd#
+Final form : *#blˈɨnd#

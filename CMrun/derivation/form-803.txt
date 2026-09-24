@@ -1,26 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 803:
-#ˌoe̯strˈikulam# >>> *#strˈekje# ( GOLD : #strˈekje#) :
-ˌo e̯ s t r ˈi k u l a m 
-*#ˌojstrˈikulam# | 11 : e̯ > j 
-*#ojstrˈikulam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eːstrˈikulam# | 43 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
-*#eːstrˈikula# | 44 : m > ∅ / [-stres] __ #
-*#eːstrˈikla# | 59 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#eːstrˈekla# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrˈekla# | 135 : [+syl] > [-long,-splng] 
-*#strˈekla# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strˈekla#
-*#stɾˈekla# | 173 : r > ɾ / __ [nnas,ncons]
-*#stɾˈɛkla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#stɾˈɛakla# | 216 : ∅ > a / [-tense] __
-*#stɾˈeˈakla# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#stɾe̯ˈakla# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#stɾe̯ˈaklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#stɾe̯ˈakʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
-*#stɾe̯ˈakʎe# | 230 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#stɾe̯ˈakʎe#
-*#stɾˈekʎe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#strˈekʎe# | 265 : ɾ > r 
-*#strˈekje# | 278 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#strˈekje#
-Final form : *#strˈekje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 803:
+#lˌumbrˈiːkum# >>> *#lumbrˈik# ( GOLD : #limbrˈik#) :
+l ˌu m b r ˈiː k u m 
+*#lumbrˈiːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#lumbrˈiːku# | 44 : m > ∅ / [-stres] __ #
+*#lumbrˈiku# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lumbrˈiku#
+*#lumbɾˈiku# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#lumbɾˈiku#
+*#lumbrˈiku# | 265 : ɾ > r 
+*#lumbrˈikw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lumbrˈik# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#lumbrˈik#
+Final form : *#lumbrˈik#

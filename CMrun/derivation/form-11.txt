@@ -1,13 +1,28 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 11:
-#ˌadlˈatera# >>> *#alˈaterə# ( GOLD : #alˈəturj#) :
-ˌa d l ˈa t e r a 
-*#adlˈatera# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#allˈatera# | 33 : d > l / [+syl,+lo] __ l
-Balkan Romance stage form : *#allˈatera#
-*#allˈateɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#alˈateɾa# | 207 : {l l;m m} > {l;m} 
-*#alˈateɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#alˈateɾə#
-*#alˈaterə# | 265 : ɾ > r 
-Old Romanian stage form : *#alˈaterə#
-Final form : *#alˈaterə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 11:
+#ˌadiˌuːtˈoːrium# >>> *#aʒutˈor# ( GOLD : #aʒutˈor#) :
+ˌa d i ˌuː t ˈoː r i u m 
+*#ˌadjˌuːtˈoːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#adjuːtˈoːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ajuːtˈoːrjum# | 38 : d > ∅ / [+syl,+lo] __ [-syl]
+*#ajuːtˈoːrju# | 44 : m > ∅ / [-stres] __ #
+*#adjuːtˈoːrju# | 106 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#addjuːtˈoːrju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#addjutˈorju# | 135 : [+syl] > [-long,-splng] 
+*#addʲutˈorju# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲutˈorju# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#aɡʲutˈorju# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#aɡʲutˈorju#
+*#aɡʲutˈoɾju# | 173 : r > ɾ / __ [nnas,ncons]
+*#aɡʲutˈoɾʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#aɡʲutˈoɾʲu# | 209 : j > ∅ / [+cons,+front] __
+*#aɡʲutˈojɾu# | 232 : ɾʲ > j ɾ 
+*#aɟ͡ʑutˈojɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ad͡ʒutˈojɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ad͡ʒutˈojɾu#
+*#ad͡ʒutˈojru# | 265 : ɾ > r 
+*#aʒutˈojru# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#aʒutˈojrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#aʒutˈojr# | 293 : w̥ > ∅ / [-syl] __ #
+*#aʒutˈor# | 299 : j > ∅ / __ r
+Old Romanian stage form : *#aʒutˈor#
+Final form : *#aʒutˈor#

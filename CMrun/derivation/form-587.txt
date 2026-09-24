@@ -1,18 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 587:
-#ˌae̯ruːɡˈiːna# >>> *#arud͡ʒˈinə# ( GOLD : #rud͡ʒˈinə#) :
-ˌa e̯ r uː ɡ ˈiː n a 
-*#ˌaruːɡˈiːna# | 0 : e̯ > ∅ / # [+lo] __ [+son]
-*#aruːɡˈiːna# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#aruɡˈina# | 135 : [+syl] > [-long,-splng] 
-*#aruɡʲˈina# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#aruɡʲˈina#
-*#aɾuɡʲˈina# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾuɡʲjˈina# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#aɾuɡʲˈina# | 209 : j > ∅ / [+cons,+front] __
-*#aɾuɡʲˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#aɾuɟ͡ʑˈinə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aɾud͡ʒˈinə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#aɾud͡ʒˈinə#
-*#arud͡ʒˈinə# | 265 : ɾ > r 
-Old Romanian stage form : *#arud͡ʒˈinə#
-Final form : *#arud͡ʒˈinə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 587:
+#pˈikula# >>> *#pˈekje# ( GOLD : #pˈəkurə#) :
+p ˈi k u l a 
+*#pˈikla# | 59 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
+*#pˈekla# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈekla#
+*#pˈɛkla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pˈɛakla# | 216 : ∅ > a / [-tense] __
+*#pˈeˈakla# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pe̯ˈakla# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pe̯ˈaklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pe̯ˈakʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
+*#pe̯ˈakʎe# | 230 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#pe̯ˈakʎe#
+*#pˈekʎe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pˈekje# | 278 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#pˈekje#
+Final form : *#pˈekje#

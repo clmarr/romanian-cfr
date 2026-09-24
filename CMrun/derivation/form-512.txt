@@ -1,12 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 512:
-#sˈokrum# >>> *#sˈokru# ( GOLD : #sˈokru#) :
-s ˈo k r u m 
-*#sˈokru# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#sˈokru#
-*#sˈokɾu# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#sˈokɾu#
-*#sˈokru# | 265 : ɾ > r 
-*#sˈokrw# | 291 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#sˈokru# | 295 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-Old Romanian stage form : *#sˈokru#
-Final form : *#sˈokru#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 512:
+#nowˈerka# >>> *#nujˈarkə# ( GOLD : #nujˈarkə#) :
+n o w ˈe r k a 
+*#noβˈerka# | 100 : w > β / __ [-cons]
+*#noβˈɛrka# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#noˈɛrka# | 163 : β > ∅ 
+Balkan Romance stage form : *#noˈɛrka#
+*#nojˈɛrka# | 179 : ∅ > j / [+syl] __ [-cons,-tense,+prim]
+*#nojˈerka# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#nujˈerka# | 188 : o > u / [-lab,nson,nnas] ( [+son,+cor,-nas] ) __ [-cons,-syl]
+*#nujˈɛrka# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nujˈɛarka# | 216 : ∅ > a / [-tense] __
+*#nujˈeˈarka# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#nuje̯ˈarka# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#nuje̯ˈarkə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#nuje̯ˈarkə#
+*#nujˈarkə# | 259 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
+Old Romanian stage form : *#nujˈarkə#
+Final form : *#nujˈarkə#

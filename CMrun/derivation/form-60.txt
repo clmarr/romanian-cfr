@@ -1,12 +1,24 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 60:
-#ˌamendˈui# >>> *#amɨndˈoj# ( GOLD : #amɨndˈoj#) :
-ˌa m e n d ˈu i 
-*#ˌamendˈuj# | 2 : [+syl,-long,-stres,+hi] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+syl,+hi,+back] __
-*#amendˈuj# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-Balkan Romance stage form : *#amendˈuj#
-*#amendˈoj# | 238 : ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
-Common Romanian stage form : *#amendˈoj#
-*#aməndˈoj# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#amɨndˈoj# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#amɨndˈoj#
-Final form : *#amɨndˈoj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 60:
+#ˌamaːrˈitiam# >>> *#aməre̯ˈat͡sə# ( GOLD : #aməre̯ˈat͡sə#) :
+ˌa m aː r ˈi t i a m 
+*#ˌamaːrˈitjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#amaːrˈitjam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#amaːrˈitja# | 44 : m > ∅ / [-stres] __ #
+*#amaːrˈittja# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#amaːrˈettja# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#amarˈettja# | 135 : [+syl] > [-long,-splng] 
+*#amarˈettʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#amarˈetʲa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#amarˈetʲa#
+*#amaɾˈetʲa# | 173 : r > ɾ / __ [nnas,ncons]
+*#amaɾˈɛtʲa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#amaɾˈɛatʲa# | 216 : ∅ > a / [-tense] __
+*#amaɾˈeˈatʲa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#amaɾe̯ˈatʲa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#aməɾe̯ˈatʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
+*#aməɾe̯ˈat͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#aməɾe̯ˈat͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#aməɾe̯ˈat͡sə#
+*#aməre̯ˈat͡sə# | 265 : ɾ > r 
+Old Romanian stage form : *#aməre̯ˈat͡sə#
+Final form : *#aməre̯ˈat͡sə#

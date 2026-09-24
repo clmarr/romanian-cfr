@@ -1,24 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 189:
-#fˌeːtiˈolam# >>> *#fet͡ʃo̯ˈarə# ( GOLD : #fet͡ʃo̯ˈarə#) :
-f ˌeː t i ˈo l a m 
-*#fˌeːtjˈolam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːtjˈolam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːtjˈola# | 44 : m > ∅ / [-stres] __ #
-*#feːttjˈola# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#fettjˈola# | 135 : [+syl] > [-long,-splng] 
-*#fettʲˈola# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#fetkʲˈola# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#fekʲˈola# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#fekʲˈola#
-*#fekʲˈoɾa# | 192 : l > ɾ / [+syl] __ [+syl]
-*#fekʲˈɔɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#fekʲˈɔaɾa# | 216 : ∅ > a / [-tense] __
-*#fekʲˈoˈaɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fekʲo̯ˈaɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#fekʲo̯ˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fec͡ɕo̯ˈaɾə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fet͡ʃo̯ˈaɾə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fet͡ʃo̯ˈaɾə#
-*#fet͡ʃo̯ˈarə# | 265 : ɾ > r 
-Old Romanian stage form : *#fet͡ʃo̯ˈarə#
-Final form : *#fet͡ʃo̯ˈarə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 189:
+#fˌeːtiˈolum# >>> *#fet͡ʃˈor# ( GOLD : #fet͡ʃˈor#) :
+f ˌeː t i ˈo l u m 
+*#fˌeːtjˈolum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#feːtjˈolum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#feːtjˈolu# | 44 : m > ∅ / [-stres] __ #
+*#feːttjˈolu# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#fettjˈolu# | 135 : [+syl] > [-long,-splng] 
+*#fettʲˈolu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#fetkʲˈolu# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#fekʲˈolu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#fekʲˈolu#
+*#fekʲˈoɾu# | 192 : l > ɾ / [+syl] __ [+syl]
+*#fec͡ɕˈoɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#fet͡ʃˈoɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fet͡ʃˈoɾu#
+*#fet͡ʃˈoru# | 265 : ɾ > r 
+*#fet͡ʃˈorw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fet͡ʃˈor# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fet͡ʃˈor#
+Final form : *#fet͡ʃˈor#

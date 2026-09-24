@@ -1,10 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 308:
-#sˈomnum# >>> *#sˈomn# ( GOLD : #sˈomn#) :
-s ˈo m n u m 
-*#sˈomnu# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#sˈomnu#
-Common Romanian stage form : *#sˈomnu#
-*#sˈomnw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#sˈomn# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#sˈomn#
-Final form : *#sˈomn#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 308:
+#rˌepˌawsˈaː# >>> *#rəposˈa# ( GOLD : #rəposˈa#) :
+r ˌe p ˌa w s ˈaː 
+*#repawsˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#reposˈaː# | 20 : a w > o / [+cons] __ [+cons,+cont]
+*#reposˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#reposˈa#
+*#ɾeposˈa# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾeposˈa# | 174 : ∅ > r / # __ ɾ
+*#rɾepusˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#rɾepusˈa#
+*#repusˈa# | 244 : {ɾ;r} > {∅;∅} / r __
+*#rəpusˈa# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rəposˈa# | 249 : u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
+Old Romanian stage form : *#rəposˈa#
+Final form : *#rəposˈa#

@@ -1,23 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 826:
-#pˌarˈikulam# >>> *#perˈekje# ( GOLD : #perˈekje#) :
-p ˌa r ˈi k u l a m 
-*#parˈikulam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#parˈikula# | 44 : m > ∅ / [-stres] __ #
-*#parˈikla# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#parˈekla# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#parˈekla#
-*#paɾˈekla# | 173 : r > ɾ / __ [nnas,ncons]
-*#paɾˈɛkla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#paɾˈɛakla# | 216 : ∅ > a / [-tense] __
-*#paɾˈeˈakla# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#paɾe̯ˈakla# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pəɾe̯ˈaklə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pəɾe̯ˈakʎə# | 229 : l > ʎ / [-cont,-ant,-cor] __
-*#pəɾe̯ˈakʎe# | 230 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#pəɾe̯ˈakʎe#
-*#pəɾˈekʎe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pərˈekʎe# | 265 : ɾ > r 
-*#pərˈekje# | 278 : [+son,+cons,+front] > j 
-*#perˈekje# | 303 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
-Old Romanian stage form : *#perˈekje#
-Final form : *#perˈekje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 826:
+#nˌumerˈaː# >>> *#numərˈa# ( GOLD : #numərˈa#) :
+n ˌu m e r ˈaː 
+*#numerˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#numerˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#numerˈa#
+*#numeɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#numeɾˈa#
+*#numəɾˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#numərˈa# | 265 : ɾ > r 
+Old Romanian stage form : *#numərˈa#
+Final form : *#numərˈa#

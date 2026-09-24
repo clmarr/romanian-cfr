@@ -1,12 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 311:
-#ˌekskˌaldˈaː# >>> *#skəldˈa# ( GOLD : #skəldˈa#) :
-ˌe k s k ˌa l d ˈaː 
-*#ekskaldˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eskaldˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskaldˈa# | 135 : [+syl] > [-long,-splng] 
-*#skaldˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skaldˈa#
-*#skəldˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#skəldˈa#
-Old Romanian stage form : *#skəldˈa#
-Final form : *#skəldˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 311:
+#wˈiːsum# >>> *#vˈis# ( GOLD : #vˈis#) :
+w ˈiː s u m 
+*#wˈiːsu# | 44 : m > ∅ / [-stres] __ #
+*#βˈiːsu# | 100 : w > β / __ [-cons]
+*#βˈisu# | 135 : [+syl] > [-long,-splng] 
+*#vˈisu# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈisu#
+Common Romanian stage form : *#vˈisu#
+*#vˈisw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈis# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈis#
+Final form : *#vˈis#

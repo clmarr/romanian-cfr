@@ -1,11 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 347:
-#sufferˈiː# >>> *#suferˈi# ( GOLD : #suferˈi#) :
-s u f f e r ˈiː 
-*#sufferˈi# | 135 : [+syl] > [-long,-splng] 
-*#suferˈi# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#suferˈi#
-*#sufeɾˈi# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#sufeɾˈi#
-*#suferˈi# | 265 : ɾ > r 
-Old Romanian stage form : *#suferˈi#
-Final form : *#suferˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 347:
+#rˈisum# >>> *#rˈəs# ( GOLD : #rˈɨs#) :
+r ˈi s u m 
+*#rˈisu# | 44 : m > ∅ / [-stres] __ #
+*#rˈesu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#rˈesu#
+*#ɾˈesu# | 173 : r > ɾ / __ [nnas,ncons]
+*#rɾˈesu# | 174 : ∅ > r / # __ ɾ
+Common Romanian stage form : *#rɾˈesu#
+*#rˈesu# | 244 : {ɾ;r} > {∅;∅} / r __
+*#rˈəsu# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rˈəsw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rˈəs# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rˈəs#
+Final form : *#rˈəs#

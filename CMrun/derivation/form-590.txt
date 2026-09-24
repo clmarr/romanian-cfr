@@ -1,14 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 590:
-#kˌontrˌemulˈaːre# >>> *#kutremurˈare# ( GOLD : #kutremurˈa#) :
-k ˌo n t r ˌe m u l ˈaː r e 
-*#kontremulˈaːre# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kotremulˈaːre# | 79 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#kotremulˈare# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kotremulˈare#
-*#kotɾemulˈaɾe# | 173 : r > ɾ / __ [nnas,ncons]
-*#kutɾemulˈaɾe# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#kutɾemuɾˈaɾe# | 192 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#kutɾemuɾˈaɾe#
-*#kutremurˈare# | 265 : ɾ > r 
-Old Romanian stage form : *#kutremurˈare#
-Final form : *#kutremurˈare#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 590:
+#ˈawrum# >>> *#ˈawr# ( GOLD : #ˈawr#) :
+ˈa w r u m 
+*#ˈawru# | 44 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈawru#
+*#ˈawɾu# | 173 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#ˈawɾu#
+*#ˈawru# | 265 : ɾ > r 
+*#ˈawrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈawr# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈawr#
+Final form : *#ˈawr#

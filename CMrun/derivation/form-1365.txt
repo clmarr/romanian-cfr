@@ -1,16 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1365:
-#horrˈeːskoː# >>> *#urˈɨsk# ( GOLD : #urˈɨsk#) :
-h o r r ˈeː s k oː 
-*#orrˈeːskoː# | 40 : h > ∅ 
-*#orrˈesko# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#orrˈesko#
-*#orɾˈesko# | 173 : r > ɾ / __ [nnas,ncons]
-*#urɾˈesku# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#urɾˈesku#
-*#urˈesku# | 244 : {ɾ;r} > {∅;∅} / r __
-*#urˈəsku# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#urˈɨsku# | 247 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
-*#urˈɨskw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#urˈɨsk# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#urˈɨsk#
-Final form : *#urˈɨsk#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1365:
+#addˈuːkoː# >>> *#adˈuk# ( GOLD : #adˈuk#) :
+a d d ˈuː k oː 
+*#adˈuːkoː# | 38 : d > ∅ / [+syl,+lo] __ [-syl]
+*#adˈuko# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#adˈuko#
+*#adˈuku# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#adˈuku#
+*#adˈukw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#adˈuk# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#adˈuk#
+Final form : *#adˈuk#

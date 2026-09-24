@@ -1,9 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 18:
-... >>> *#adjˈa# ( GOLD : #adiˈa#) :
-... 
-Balkan Romance stage form : ...
-Common Romanian stage form : ...
-*#adijˈa# | 278 : [+son,+cons,+front] > j 
-*#adjˈa# | 307 : i > ∅ / __ j [+syl]
-Old Romanian stage form : *#adjˈa#
-Final form : *#adjˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 18:
+#ˌadnˌinˈaː# >>> *#aninˈa# ( GOLD : #aninˈa#) :
+ˌa d n ˌi n ˈaː 
+*#adninˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#anninˈaː# | 36 : d > n / [+syl,+lo] __ n
+*#annenˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+*#anninˈaː# | 134 : [+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
+*#anninˈa# | 135 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#anninˈa#
+Common Romanian stage form : *#anninˈa#
+*#aninˈa# | 262 : n n > n 
+Old Romanian stage form : *#aninˈa#
+Final form : *#aninˈa#

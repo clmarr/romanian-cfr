@@ -1,16 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 865:
-#mˈuːkkidum# >>> *#mˈut͡ʃed# ( GOLD : #mˈut͡ʃed#) :
-m ˈuː k k i d u m 
-*#mˈuːkkidu# | 44 : m > ∅ / [-stres] __ #
-*#mˈuːkkedu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#mˈukkedu# | 135 : [+syl] > [-long,-splng] 
-*#mˈukedu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#mˈukʲedu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#mˈukʲedu#
-*#mˈuc͡ɕedu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mˈut͡ʃedu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mˈut͡ʃedu#
-*#mˈut͡ʃedw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈut͡ʃed# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mˈut͡ʃed#
-Final form : *#mˈut͡ʃed#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 865:
+#mˈedium# >>> *#mjˈez# ( GOLD : #mjˈez#) :
+m ˈe d i u m 
+*#mˈedjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈedju# | 44 : m > ∅ / [-stres] __ #
+*#mˈɛdju# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛddju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#mˈɛddʲu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#mˈɛdʲu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#mˈɛdʲu#
+*#mjˈɛdʲu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈedʲu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈed͡zʲu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mjˈed͡zu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mjˈed͡zu#
+*#mjˈezu# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#mjˈezw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mjˈez# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mjˈez#
+Final form : *#mjˈez#

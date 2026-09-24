@@ -1,22 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 870:
-#kwˌiˈeːtam# >>> *#t͡ʃe̯ˈatə# ( GOLD : #t͡ʃe̯ˈatə#) :
-k w ˌi ˈeː t a m 
-*#kwiˈeːtam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kwiˈeːta# | 44 : m > ∅ / [-stres] __ #
-*#kβiˈeːta# | 100 : w > β / __ [-cons]
-*#kβjˈeːta# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#kβjˈeta# | 135 : [+syl] > [-long,-splng] 
-*#kjˈeta# | 163 : β > ∅ 
-*#kʲjˈeta# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲjˈeta#
-*#kʲjˈɛta# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kʲˈɛta# | 209 : j > ∅ / [+cons,+front] __
-*#kʲˈɛata# | 216 : ∅ > a / [-tense] __
-*#kʲˈeˈata# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kʲe̯ˈata# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kʲe̯ˈatə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#c͡ɕe̯ˈatə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃe̯ˈatə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃe̯ˈatə#
-Old Romanian stage form : *#t͡ʃe̯ˈatə#
-Final form : *#t͡ʃe̯ˈatə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 870:
+#nˈitidum# >>> *#nˈeted# ( GOLD : #nˈeted#) :
+n ˈi t i d u m 
+*#nˈitidu# | 44 : m > ∅ / [-stres] __ #
+*#nˈetedu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#nˈetedu#
+*#nˈɛtedu# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈɛatedu# | 216 : ∅ > a / [-tense] __
+*#nˈeˈatedu# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ne̯ˈatedu# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ne̯ˈatedu#
+*#nˈetedu# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#nˈetedw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nˈeted# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#nˈeted#
+Final form : *#nˈeted#

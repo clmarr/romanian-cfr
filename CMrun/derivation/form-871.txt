@@ -1,19 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 871:
-#rˈankidum# >>> *#rˈɨnt͡ʃed# ( GOLD : #rˈɨnt͡ʃed#) :
-r ˈa n k i d u m 
-*#rˈankidu# | 44 : m > ∅ / [-stres] __ #
-*#rˈankedu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#rˈankʲedu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#rˈankʲedu#
-*#ɾˈankʲedu# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾˈankʲedu# | 174 : ∅ > r / # __ ɾ
-*#rɾˈənkʲedu# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#rɾˈənc͡ɕedu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾˈənt͡ʃedu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾˈənt͡ʃedu#
-*#rˈənt͡ʃedu# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rˈɨnt͡ʃedu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#rˈɨnt͡ʃedw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rˈɨnt͡ʃed# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#rˈɨnt͡ʃed#
-Final form : *#rˈɨnt͡ʃed#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 871:
+#kwˌiˈeːtum# >>> *#t͡ʃˈet# ( GOLD : #t͡ʃˈet#) :
+k w ˌi ˈeː t u m 
+*#kwiˈeːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kwiˈeːtu# | 44 : m > ∅ / [-stres] __ #
+*#kβiˈeːtu# | 100 : w > β / __ [-cons]
+*#kβjˈeːtu# | 128 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#kβjˈetu# | 135 : [+syl] > [-long,-splng] 
+*#kjˈetu# | 163 : β > ∅ 
+*#kʲjˈetu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲjˈetu#
+*#kʲˈetu# | 209 : j > ∅ / [+cons,+front] __
+*#c͡ɕˈetu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃˈetu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃˈetu#
+*#t͡ʃˈetw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃˈet# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#t͡ʃˈet#
+Final form : *#t͡ʃˈet#
