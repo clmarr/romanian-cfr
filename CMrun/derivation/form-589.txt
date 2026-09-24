@@ -1,18 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 589:
-#ˌae̯ruːɡˈiːna# >>> *#arud͡ʒˈinə# ( GOLD : #rud͡ʒˈinə#) :
-ˌa e̯ r uː ɡ ˈiː n a 
-*#ˌaruːɡˈiːna# | 0 : e̯ > ∅ / # [+lo] __ [+son]
-*#aruːɡˈiːna# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#aruɡˈina# | 135 : [+syl] > [-long,-splng] 
-*#aruɡʲˈina# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#aruɡʲˈina#
-*#aɾuɡʲˈina# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾuɡʲjˈina# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#aɾuɡʲˈina# | 209 : j > ∅ / [+cons,+front] __
-*#aɾuɡʲˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#aɾuɟ͡ʑˈinə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aɾud͡ʒˈinə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#aɾud͡ʒˈinə#
-*#arud͡ʒˈinə# | 265 : ɾ > r 
-Old Romanian stage form : *#arud͡ʒˈinə#
-Final form : *#arud͡ʒˈinə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 589:
+#pawiːmˈentum# >>> *#pəmˈɨnt# ( GOLD : #pəmˈɨnt#) :
+p a w iː m ˈe n t u m 
+*#pawiːmˈentu# | 43 : m > ∅ / [-stres] __ #
+*#paβiːmˈentu# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#paβiːmˈɛntu# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#paβimˈɛntu# | 133 : [+syl] > [-long,-splng] 
+*#paimˈɛntu# | 161 : β > ∅ 
+*#pamˈɛntu# | 162 : [+syl,-stres] > ∅ / a __
+Balkan Romance stage form : *#pamˈɛntu#
+*#pamˈentu# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#pəmˈentu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pəmˈentu#
+*#pəmˈəntu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəmˈɨntu# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#pəmˈɨntw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəmˈɨnt# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pəmˈɨnt#
+Final form : *#pəmˈɨnt#

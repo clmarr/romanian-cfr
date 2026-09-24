@@ -1,21 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1362:
-#nˈae̯wum# >>> *#nˈeɡ# ( GOLD : #nˈeɡ#) :
-n ˈa e̯ w u m 
-*#nˈajwum# | 11 : e̯ > j 
-*#nˈɛːwum# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
-*#nˈɛːwu# | 44 : m > ∅ / [-stres] __ #
-*#nˈɛːβu# | 100 : w > β / __ [-cons]
-*#nˈɛβu# | 135 : [+syl] > [-long,-splng] 
-*#nˈɛɣu# | 151 : β > ɣ / # [+cons,+son] [+syl,αhi,αround] __ [+syl,+hi,+back]
-*#nˈɛɡu# | 154 : ɣ > ɡ 
-Balkan Romance stage form : *#nˈɛɡu#
-*#njˈɛɡu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#njˈeɡu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#nʲjˈeɡu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#nʲˈeɡu# | 209 : j > ∅ / [+cons,+front] __
-*#nˈeɡu# | 210 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
-Common Romanian stage form : *#nˈeɡu#
-*#nˈeɡw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#nˈeɡ# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#nˈeɡ#
-Final form : *#nˈeɡ#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1362:
+#fˈakitis# >>> *#fˈat͡ʃet͡sj# ( GOLD : #fˈat͡ʃet͡sj#) :
+f ˈa k i t i s 
+*#fˈakitiːs# | 128 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#fˈaketiːs# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#fˈaketis# | 133 : [+syl] > [-long,-splng] 
+*#fˈakʲetis# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#fˈakʲeti# | 170 : s > ∅ / __ #
+Balkan Romance stage form : *#fˈakʲeti#
+*#fˈakʲetji# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#fˈakʲetʲji# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#fˈakʲetʲi# | 207 : j > ∅ / [+cons,+front] __
+*#fˈac͡ɕet͡sʲi# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#fˈat͡ʃet͡si# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fˈat͡ʃet͡si#
+*#fˈat͡ʃet͡sj̊# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fˈat͡ʃet͡sj# | 292 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#fˈat͡ʃet͡sj#
+Final form : *#fˈat͡ʃet͡sj#

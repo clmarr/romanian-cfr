@@ -1,23 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 961:
-#pertraːjˈike# >>> *#petrˈet͡ʃe# ( GOLD : #petrˈet͡ʃe#) :
-p e r t r aː j ˈi k e 
-*#pertrˈaːjike# | 28 : [+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#pertrˈaːjke# | 30 : i > ∅ / j __
-*#pertrˈɛːke# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
-*#petrˈɛːke# | 79 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#petrˈɛke# | 135 : [+syl] > [-long,-splng] 
-*#petrˈɛkʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#petrˈɛkʲe#
-*#petɾˈɛkʲe# | 173 : r > ɾ / __ [nnas,ncons]
-*#petɾˈekʲe# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#petɾˈɛkʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#petɾˈɛakʲe# | 216 : ∅ > a / [-tense] __
-*#petɾˈeˈakʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#petɾe̯ˈakʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#petɾe̯ˈac͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#petɾe̯ˈat͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#petɾe̯ˈat͡ʃe#
-*#petɾˈet͡ʃe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#petrˈet͡ʃe# | 265 : ɾ > r 
-Old Romanian stage form : *#petrˈet͡ʃe#
-Final form : *#petrˈet͡ʃe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 961:
+#monumˈentum# >>> *#monmˈɨnt# ( GOLD : #mormˈɨnt#) :
+m o n u m ˈe n t u m 
+*#monumˈentu# | 43 : m > ∅ / [-stres] __ #
+*#monmˈentu# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
+*#monmˈɛntu# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#monmˈɛntu#
+*#monmˈentu# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#monmˈentu#
+*#monmˈəntu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#monmˈɨntu# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#monmˈɨntw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#monmˈɨnt# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#monmˈɨnt#
+Final form : *#monmˈɨnt#

@@ -1,13 +1,12 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 715:
-#rˌiːmˈaː# >>> *#rɨmˈa# ( GOLD : #rɨmˈa#) :
-r ˌiː m ˈaː 
-*#riːmˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#rimˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rimˈa#
-*#ɾimˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾimˈa# | 174 : ∅ > r / # __ ɾ
-Common Romanian stage form : *#rɾimˈa#
-*#rimˈa# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rɨmˈa# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Old Romanian stage form : *#rɨmˈa#
-Final form : *#rɨmˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 715:
+#ˌekstˌirpˈiː# >>> *#sterpˈi# ( GOLD : #stɨrpˈi#) :
+ˌe k s t ˌi r p ˈiː 
+*#ekstirpˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#estirpˈiː# | 105 : [-cont] > ∅ / __ [+strid] [+cons]
+*#esterpˈiː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#esterpˈi# | 133 : [+syl] > [-long,-splng] 
+*#sterpˈi# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sterpˈi#
+Common Romanian stage form : *#sterpˈi#
+Old Romanian stage form : *#sterpˈi#
+Final form : *#sterpˈi#

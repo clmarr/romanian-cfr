@@ -1,11 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 665:
-#laktˈuːkam# >>> *#ləptˈukə# ( GOLD : #ləptˈukə#) :
-l a k t ˈuː k a m 
-*#laktˈuːka# | 44 : m > ∅ / [-stres] __ #
-*#laptˈuːka# | 111 : k > p / __ t
-*#laptˈuka# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#laptˈuka#
-*#ləptˈukə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ləptˈukə#
-Old Romanian stage form : *#ləptˈukə#
-Final form : *#ləptˈukə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 665:
+#hˈederam# >>> *#jˈederə# ( GOLD : #jˈederə#) :
+h ˈe d e r a m 
+*#ˈederam# | 40 : h > ∅ 
+*#ˈedera# | 43 : m > ∅ / [-stres] __ #
+*#ˈɛdera# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#ˈɛdera#
+*#ˈɛdeɾa# | 171 : r > ɾ / __ [nnas,ncons]
+*#ˈedeɾa# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈedeɾa# | 188 : ∅ > j / # __ ˈe [-nas]
+*#jˈɛdeɾa# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#jˈɛadeɾa# | 214 : ∅ > a / [-tense] __
+*#jˈeˈadeɾa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#je̯ˈadeɾa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#je̯ˈadeɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#je̯ˈadeɾə#
+*#jˈedeɾə# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#jˈederə# | 263 : ɾ > r 
+Old Romanian stage form : *#jˈederə#
+Final form : *#jˈederə#

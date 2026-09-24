@@ -1,14 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1203:
-#ˌekspantikˈaː# >>> *#spentekˈa# ( GOLD : #spintekˈa#) :
-ˌe k s p a n t i k ˈaː 
-*#ekspantikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#espantikˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espantekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#espantekˈa# | 135 : [+syl] > [-long,-splng] 
-*#spantekˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spantekˈa#
-*#spəntekˈa# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#spəntekˈa#
-*#spentekˈa# | 266 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-Old Romanian stage form : *#spentekˈa#
-Final form : *#spentekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1203:
+#nˌuːtrˈiːkium# >>> *#nutrˈit͡s# ( GOLD : #nutrˈet͡s#) :
+n ˌuː t r ˈiː k i u m 
+*#nˌuːtrˈiːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#nuːtrˈiːkjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#nuːtrˈiːkju# | 43 : m > ∅ / [-stres] __ #
+*#nuːtrˈiːkkju# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#nutrˈikkju# | 133 : [+syl] > [-long,-splng] 
+*#nutrˈiktʲu# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#nutrˈittʲu# | 142 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#nutrˈitʲu# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#nutrˈitʲu#
+*#nutɾˈitʲu# | 171 : r > ɾ / __ [nnas,ncons]
+*#nutɾˈit͡sʲu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#nutɾˈit͡su# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#nutɾˈit͡su#
+*#nutrˈit͡su# | 263 : ɾ > r 
+*#nutrˈit͡sw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nutrˈit͡s# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#nutrˈit͡s#
+Final form : *#nutrˈit͡s#

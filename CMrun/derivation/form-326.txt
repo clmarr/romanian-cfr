@@ -1,18 +1,23 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 326:
-#ˌekspˌawiːmentˈaː# >>> *#spemɨntˈa# ( GOLD : #spəjmɨntˈa#) :
-ˌe k s p ˌa w iː m e n t ˈaː 
-*#ekspawiːmentˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekspaβiːmentˈaː# | 100 : w > β / __ [-cons]
-*#espaβiːmentˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espaβimentˈa# | 135 : [+syl] > [-long,-splng] 
-*#spaβimentˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#spaimentˈa# | 163 : β > ∅ 
-*#spamentˈa# | 164 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#spamentˈa#
-*#spəmentˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#spəmentˈa#
-*#spəməntˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#speməntˈa# | 266 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-*#spemɨntˈa# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#spemɨntˈa#
-Final form : *#spemɨntˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 326:
+#blˌandˈitiem# >>> *#blɨndˈet͡se# ( GOLD : #blɨndˈet͡se#) :
+b l ˌa n d ˈi t i e m 
+*#blˌandˈitjem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#blandˈitjem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#blandˈitje# | 43 : m > ∅ / [-stres] __ #
+*#blandˈittje# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#blandˈettje# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#blandˈettʲe# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#blandˈetʲe# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#blandˈetʲe#
+*#blandˈɛtʲe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#blandˈɛatʲe# | 214 : ∅ > a / [-tense] __
+*#blandˈeˈatʲe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#blande̯ˈatʲe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#blənde̯ˈatʲe# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#blənde̯ˈat͡sʲe# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#blənde̯ˈat͡se# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#blənde̯ˈat͡se#
+*#bləndˈet͡se# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#blɨndˈet͡se# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Old Romanian stage form : *#blɨndˈet͡se#
+Final form : *#blɨndˈet͡se#

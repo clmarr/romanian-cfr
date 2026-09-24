@@ -1,10 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1295:
-#mˈeːnem# >>> *#mˈine# ( GOLD : #mˈine#) :
-m ˈeː n e m 
-*#mˈeːne# | 44 : m > ∅ / [-stres] __ #
-*#mˈene# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mˈene#
-Common Romanian stage form : *#mˈene#
-*#mˈine# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#mˈine#
-Final form : *#mˈine#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1295:
+#fˈimbriam# >>> *#fˈimbrje# ( GOLD : #frɨnɡˈie#) :
+f ˈi m b r i a m 
+*#fˈimbrjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fˈimbrja# | 43 : m > ∅ / [-stres] __ #
+*#fˈembrja# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#fˈembrja#
+*#fˈembɾja# | 171 : r > ɾ / __ [nnas,ncons]
+*#fˈembɾʲja# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#fˈembɾʲa# | 207 : j > ∅ / [+cons,+front] __
+*#fˈembɾʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#fˈembɾʲe# | 228 : ə > e / [+cons,+front,+son] __
+*#fˈembɾje# | 229 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
+Common Romanian stage form : *#fˈembɾje#
+*#fˈimbɾje# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#fˈimbrje# | 263 : ɾ > r 
+Old Romanian stage form : *#fˈimbrje#
+Final form : *#fˈimbrje#

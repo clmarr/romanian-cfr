@@ -1,13 +1,9 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1087:
-#ˌadmˌikstikˈaː# >>> *#amestekˈa# ( GOLD : #amestekˈa#) :
-ˌa d m ˌi k s t i k ˈaː 
-*#admikstikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammikstikˈaː# | 37 : d > m / [+syl,+lo] __ m
-*#ammistikˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#ammestekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#ammestekˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ammestekˈa#
-*#amestekˈa# | 207 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#amestekˈa#
-Old Romanian stage form : *#amestekˈa#
-Final form : *#amestekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1087:
+#pˈoːne# >>> *#pˈune# ( GOLD : #pˈune#) :
+p ˈoː n e 
+*#pˈone# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈone#
+*#pˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#pˈune#
+Old Romanian stage form : *#pˈune#
+Final form : *#pˈune#

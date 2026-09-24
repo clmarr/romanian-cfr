@@ -1,11 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 711:
-#mˌorsikˈaː# >>> *#mursekˈa# ( GOLD : #mursekˈa#) :
-m ˌo r s i k ˈaː 
-*#morsikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#morsekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#morsekˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#morsekˈa#
-*#mursekˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#mursekˈa#
-Old Romanian stage form : *#mursekˈa#
-Final form : *#mursekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 711:
+#brˈankam# >>> *#brˈɨnkə# ( GOLD : #brˈɨnkə#) :
+b r ˈa n k a m 
+*#brˈanka# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#brˈanka#
+*#bɾˈanka# | 171 : r > ɾ / __ [nnas,ncons]
+*#bɾˈənka# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#bɾˈənkə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#bɾˈənkə#
+*#brˈənkə# | 263 : ɾ > r 
+*#brˈɨnkə# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Old Romanian stage form : *#brˈɨnkə#
+Final form : *#brˈɨnkə#

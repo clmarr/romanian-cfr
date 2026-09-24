@@ -1,20 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 718:
-#ˌannˈoːtinum# >>> *#no̯ˈatin# ( GOLD : #no̯ˈaten#) :
-ˌa n n ˈoː t i n u m 
-*#annˈoːtinum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#annˈoːtinu# | 44 : m > ∅ / [-stres] __ #
-*#nnˈoːtinu# | 117 : a > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
-*#nnˈoːtenu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#nnˈotenu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#nnˈotenu#
-*#nnˈɔtenu# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#nnˈɔatenu# | 216 : ∅ > a / [-tense] __
-*#nnˈoˈatenu# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#nno̯ˈatenu# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#nno̯ˈatenu#
-*#nno̯ˈatinu# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#no̯ˈatinu# | 262 : n n > n 
-*#no̯ˈatinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#no̯ˈatin# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#no̯ˈatin#
-Final form : *#no̯ˈatin#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 718:
+#ˌinkˌaballikˈaː# >>> *#ɨnkəlekˈa# ( GOLD : #ɨnkəlekˈa#) :
+ˌi n k ˌa b a l l i k ˈaː 
+*#inkaballikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inkaβallikˈaː# | 130 : b > β / [-cons] __ [+cont]
+*#enkaβallekˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkaβallekˈa# | 133 : [+syl] > [-long,-splng] 
+*#enkaallekˈa# | 161 : β > ∅ 
+*#enkallekˈa# | 162 : [+syl,-stres] > ∅ / a __
+Balkan Romance stage form : *#enkallekˈa#
+*#enkalekˈa# | 205 : {l l;m m} > {l;m} 
+*#enkəlekˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#enkəlekˈa#
+*#inkəlekˈa# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnkəlekˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnkəlekˈa#
+Final form : *#ɨnkəlekˈa#

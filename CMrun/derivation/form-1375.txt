@@ -1,15 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1375:
-#ˈeste# >>> *#jˈeste# ( GOLD : #jˈeste#) :
-ˈe s t e 
-*#ˈɛste# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ˈɛste#
-*#ˈeste# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈeste# | 190 : ∅ > j / # __ ˈe [-nas]
-*#jˈɛste# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#jˈɛaste# | 216 : ∅ > a / [-tense] __
-*#jˈeˈaste# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#je̯ˈaste# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#je̯ˈaste#
-*#jˈeste# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#jˈeste#
-Final form : *#jˈeste#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1375:
+#ˌadiˌuːtˈaː# >>> *#aʒutˈa# ( GOLD : #aʒutˈa#) :
+ˌa d i ˌuː t ˈaː 
+*#ˌadjˌuːtˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#adjuːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ajuːtˈaː# | 38 : d > ∅ / [+syl,+lo] __ [-syl]
+*#adjuːtˈaː# | 104 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#addjuːtˈaː# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#addjutˈa# | 133 : [+syl] > [-long,-splng] 
+*#addʲutˈa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲutˈa# | 144 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#aɡʲutˈa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#aɡʲutˈa#
+*#aɟ͡ʑutˈa# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ad͡ʒutˈa# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ad͡ʒutˈa#
+*#aʒutˈa# | 283 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#aʒutˈa#
+Final form : *#aʒutˈa#

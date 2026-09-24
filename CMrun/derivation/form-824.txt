@@ -1,16 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 824:
-#mˌinˈuːtum# >>> *#mərˈunt# ( GOLD : #mərˈunt#) :
-m ˌi n ˈuː t u m 
-*#minˈuːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#minˈuːtu# | 44 : m > ∅ / [-stres] __ #
-*#menˈuːtu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#menˈutu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#menˈutu#
-Common Romanian stage form : *#menˈutu#
-*#menˈuntu# | 240 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-*#mənˈuntu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#mərˈuntu# | 246 : n > r / ə __ [+syl,+hi,+back] [+nas]
-*#mərˈuntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mərˈunt# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mərˈunt#
-Final form : *#mərˈunt#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 824:
+#wˈermem# >>> *#vjˈerme# ( GOLD : #vjˈerme#) :
+w ˈe r m e m 
+*#wˈerme# | 43 : m > ∅ / [-stres] __ #
+*#βˈerme# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈɛrme# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛrme# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛrme#
+*#vˈɛɾme# | 171 : r > ɾ / __ [nnas,ncons]
+*#vjˈɛɾme# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#vjˈeɾme# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vjˈɛɾme# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vjˈɛaɾme# | 214 : ∅ > a / [-tense] __
+*#vjˈeˈaɾme# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#vje̯ˈaɾme# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#vje̯ˈaɾme#
+*#vjˈeɾme# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#vjˈerme# | 263 : ɾ > r 
+Old Romanian stage form : *#vjˈerme#
+Final form : *#vjˈerme#

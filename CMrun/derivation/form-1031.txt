@@ -1,15 +1,12 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1031:
-#assediˈaː# >>> *#asezˈa# ( GOLD : #aʃezˈa#) :
-a s s e d i ˈaː 
-*#assedjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#asseddjˈaː# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#asseddjˈa# | 135 : [+syl] > [-long,-splng] 
-*#asseddʲˈa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#asedʲˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#asedʲˈa#
-*#ased͡zʲˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ased͡zˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ased͡zˈa#
-*#asezˈa# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#asezˈa#
-Final form : *#asezˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1031:
+#lˈonɡumad# >>> *#lˈunɡo̯ə# ( GOLD : #lˈɨnɡə#) :
+l ˈo n ɡ u m a d 
+*#lˈonɡuma# | 87 : [+cons,-cont] > ∅ / __ #
+Balkan Romance stage form : *#lˈonɡuma#
+*#lˈonɡoa# | 194 : u m > o / [+back] __ [+syl]
+*#lˈonɡo̯a# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#lˈunɡo̯a# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#lˈunɡo̯ə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#lˈunɡo̯ə#
+Old Romanian stage form : *#lˈunɡo̯ə#
+Final form : *#lˈunɡo̯ə#

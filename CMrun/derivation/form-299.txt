@@ -1,17 +1,24 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 299:
-#krˈeːske# >>> *#krˈeʃte# ( GOLD : #krˈeʃte#) :
-k r ˈeː s k e 
-*#krˈeske# | 135 : [+syl] > [-long,-splng] 
-*#krˈeskʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#krˈeskʲe#
-*#kɾˈeskʲe# | 173 : r > ɾ / __ [nnas,ncons]
-*#kɾˈɛskʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kɾˈɛaskʲe# | 216 : ∅ > a / [-tense] __
-*#kɾˈeˈaskʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kɾe̯ˈaskʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kɾe̯ˈaʃte# | 233 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#kɾe̯ˈaʃte#
-*#kɾˈeʃte# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#krˈeʃte# | 265 : ɾ > r 
-Old Romanian stage form : *#krˈeʃte#
-Final form : *#krˈeʃte#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 299:
+#ˌinɡrˈewikaː# >>> *#ɨnɡre̯ˈakə# ( GOLD : #ɨnɡre̯ˈakə#) :
+ˌi n ɡ r ˈe w i k aː 
+*#inɡrˈewikaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inɡrˈeβikaː# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#inɡrˈɛβikaː# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#enɡrˈɛβekaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɡrˈɛβeka# | 133 : [+syl] > [-long,-splng] 
+*#enɡrˈɛeka# | 161 : β > ∅ 
+Balkan Romance stage form : *#enɡrˈɛeka#
+*#enɡɾˈɛeka# | 171 : r > ɾ / __ [nnas,ncons]
+*#enɡɾˈeeka# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#enɡɾˈɛeka# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#enɡɾˈɛka# | 200 : e > ∅ / ˈɛ __
+*#enɡɾˈɛaka# | 214 : ∅ > a / [-tense] __
+*#enɡɾˈeˈaka# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#enɡɾe̯ˈaka# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#enɡɾe̯ˈakə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#enɡɾe̯ˈakə#
+*#inɡɾe̯ˈakə# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#inɡre̯ˈakə# | 263 : ɾ > r 
+*#ɨnɡre̯ˈakə# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnɡre̯ˈakə#
+Final form : *#ɨnɡre̯ˈakə#

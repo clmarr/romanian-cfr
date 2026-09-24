@@ -1,15 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 760:
-#krˌistˈaːtum# >>> *#krestˈat# ( GOLD : #krestˈat#) :
-k r ˌi s t ˈaː t u m 
-*#kristˈaːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kristˈaːtu# | 44 : m > ∅ / [-stres] __ #
-*#krestˈaːtu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#krestˈatu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#krestˈatu#
-*#kɾestˈatu# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#kɾestˈatu#
-*#krestˈatu# | 265 : ɾ > r 
-*#krestˈatw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#krestˈat# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#krestˈat#
-Final form : *#krestˈat#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 760:
+#bˌerbˈeːkum# >>> *#berbˈek# ( GOLD : #berbˈek#) :
+b ˌe r b ˈeː k u m 
+*#berbˈeːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#berbˈeːku# | 43 : m > ∅ / [-stres] __ #
+*#berbˈeku# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#berbˈeku#
+Common Romanian stage form : *#berbˈeku#
+*#berbˈəku# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#berbˈeku# | 270 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / [+cons] ( [-cons,-syl,-round] ) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
+*#berbˈekw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#berbˈek# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#berbˈek#
+Final form : *#berbˈek#

@@ -1,9 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 264:
-#ɡˌustˈaː# >>> *#ɡustˈa# ( GOLD : #ɡustˈa#) :
-ɡ ˌu s t ˈaː 
-*#ɡustˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɡustˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɡustˈa#
-Common Romanian stage form : *#ɡustˈa#
-Old Romanian stage form : *#ɡustˈa#
-Final form : *#ɡustˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 264:
+#mˌedˈullam# >>> *#mədˈuvə# ( GOLD : #mədˈuvə#) :
+m ˌe d ˈu l l a m 
+*#medˈullam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#medˈulla# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#medˈulla#
+*#medˈuwa# | 202 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#medˈuva# | 224 : [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
+*#medˈuvə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#medˈuvə#
+*#mədˈuvə# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+Old Romanian stage form : *#mədˈuvə#
+Final form : *#mədˈuvə#

@@ -1,14 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 893:
-#frˈankum# >>> *#frˈɨnk# ( GOLD : #frˈɨnk#) :
-f r ˈa n k u m 
-*#frˈanku# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#frˈanku#
-*#fɾˈanku# | 173 : r > ɾ / __ [nnas,ncons]
-*#fɾˈənku# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#fɾˈənku#
-*#frˈənku# | 265 : ɾ > r 
-*#frˈɨnku# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#frˈɨnkw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#frˈɨnk# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#frˈɨnk#
-Final form : *#frˈɨnk#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 893:
+#skrˈobulam# >>> *#skˈorburə# ( GOLD : #skˈorburə#) :
+s k r ˈo b u l a m 
+*#skrˈobula# | 43 : m > ∅ / [-stres] __ #
+*#skˈorbula# | 48 : r [+syl,+back] ∅ > ∅ [+syl,+son] r/ [+cons,+back] __ [-cont,-back] [+syl]
+*#iskˈorbula# | 118 : ∅ > i / # __ s [+cons,-son]
+*#eskˈorbula# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#skˈorbula# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skˈorbula#
+*#skˈorbuɾa# | 190 : l > ɾ / [+syl] __ [+syl]
+*#skˈorbuɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skˈorbuɾə#
+*#skˈorburə# | 263 : ɾ > r 
+Old Romanian stage form : *#skˈorburə#
+Final form : *#skˈorburə#

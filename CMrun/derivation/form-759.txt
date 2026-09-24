@@ -1,11 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 759:
-#ˈalapam# >>> *#ˈarəpə# ( GOLD : #ˈaripə#) :
-ˈa l a p a m 
-*#ˈalapa# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#ˈalapa#
-*#ˈaɾapa# | 192 : l > ɾ / [+syl] __ [+syl]
-*#ˈaɾəpə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ˈaɾəpə#
-*#ˈarəpə# | 265 : ɾ > r 
-Old Romanian stage form : *#ˈarəpə#
-Final form : *#ˈarəpə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 759:
+#wˈerrum# >>> *#vjˈer# ( GOLD : #vjˈer#) :
+w ˈe r r u m 
+*#wˈerru# | 43 : m > ∅ / [-stres] __ #
+*#βˈerru# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈɛrru# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛrru# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛrru#
+*#vˈɛrɾu# | 171 : r > ɾ / __ [nnas,ncons]
+*#vjˈɛrɾu# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#vjˈerɾu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#vjˈerɾu#
+*#vjˈeru# | 242 : {ɾ;r} > {∅;∅} / r __
+*#vjˈerw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vjˈer# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vjˈer#
+Final form : *#vjˈer#

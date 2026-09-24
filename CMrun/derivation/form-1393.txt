@@ -1,14 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1393:
-#parˈentem# >>> *#pərˈinte# ( GOLD : #pərˈinte#) :
-p a r ˈe n t e m 
-*#parˈente# | 44 : m > ∅ / [-stres] __ #
-*#parˈɛnte# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#parˈɛnte#
-*#paɾˈɛnte# | 173 : r > ɾ / __ [nnas,ncons]
-*#paɾˈente# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#pəɾˈente# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pəɾˈente#
-*#pəɾˈinte# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#pərˈinte# | 265 : ɾ > r 
-Old Romanian stage form : *#pərˈinte#
-Final form : *#pərˈinte#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1393:
+#ˈaudiːs# >>> *#ˈawzj# ( GOLD : #ˈawzj#) :
+ˈa u d iː s 
+*#ˈawdiːs# | 10 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+syl,-hi,αfront,αlo] __
+*#ˈawdis# | 133 : [+syl] > [-long,-splng] 
+*#ˈawdi# | 170 : s > ∅ / __ #
+Balkan Romance stage form : *#ˈawdi#
+*#ˈawdji# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#ˈawdʲji# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ˈawdʲi# | 207 : j > ∅ / [+cons,+front] __
+*#ˈawd͡zʲi# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ˈawd͡zi# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ˈawd͡zi#
+*#ˈawzi# | 282 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#ˈawzj̊# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈawzj# | 292 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#ˈawzj#
+Final form : *#ˈawzj#

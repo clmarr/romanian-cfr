@@ -1,22 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 151:
-#ˌinkˌonɡˌyːrˈaː# >>> *#ɨnkunʒurˈa# ( GOLD : #ɨnkunʒurˈa#) :
-ˌi n k ˌo n ɡ ˌyː r ˈaː 
-*#inkonɡyːrˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkonɡjyːrˈaː# | 17 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
-*#inkonɡjuːrˈaː# | 19 : [+front,+round] > [-front,+back] 
-*#enkonɡjuːrˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkonɡjurˈa# | 135 : [+syl] > [-long,-splng] 
-*#enkondʲurˈa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enkonɡʲurˈa# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-Balkan Romance stage form : *#enkonɡʲurˈa#
-*#enkonɡʲuɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#enkunɡʲuɾˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#enkunɟ͡ʑuɾˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#enkund͡ʒuɾˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#enkund͡ʒuɾˈa#
-*#inkund͡ʒuɾˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inkund͡ʒurˈa# | 265 : ɾ > r 
-*#ɨnkund͡ʒurˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨnkunʒurˈa# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#ɨnkunʒurˈa#
-Final form : *#ɨnkunʒurˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 151:
+#ˌinˈaltum# >>> *#ɨnˈalt# ( GOLD : #ɨnˈalt#) :
+ˌi n ˈa l t u m 
+*#inˈaltum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inˈaltu# | 43 : m > ∅ / [-stres] __ #
+*#enˈaltu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#enˈaltu#
+*#inˈaltu# | 201 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+Common Romanian stage form : *#inˈaltu#
+*#ɨnˈaltu# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnˈaltw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨnˈalt# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɨnˈalt#
+Final form : *#ɨnˈalt#

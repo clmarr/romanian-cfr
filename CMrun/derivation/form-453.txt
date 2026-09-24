@@ -1,10 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 453:
-#lˈardum# >>> *#lˈard# ( GOLD : #lˈard#) :
-l ˈa r d u m 
-*#lˈardu# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#lˈardu#
-Common Romanian stage form : *#lˈardu#
-*#lˈardw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lˈard# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#lˈard#
-Final form : *#lˈard#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 453:
+#inwestˈiː# >>> *#ɨnveʃtˈi# ( GOLD : #ɨnveʃtˈi#) :
+i n w e s t ˈiː 
+*#inβestˈiː# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#enβestˈiː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enβestˈi# | 133 : [+syl] > [-long,-splng] 
+*#envestˈi# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#envestˈi#
+*#envestjˈi# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#envestʲjˈi# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#envestʲˈi# | 207 : j > ∅ / [+cons,+front] __
+*#enveʃtˈi# | 231 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#enveʃtˈi#
+*#inveʃtˈi# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnveʃtˈi# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnveʃtˈi#
+Final form : *#ɨnveʃtˈi#

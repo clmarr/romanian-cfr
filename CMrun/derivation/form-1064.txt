@@ -1,15 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1064:
-#ˌinɡannˈaː# >>> *#ɨnɡɨnˈa# ( GOLD : #ɨnɡɨnˈa#) :
-ˌi n ɡ a n n ˈaː 
-*#inɡannˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɡannˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡannˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡannˈa#
-*#enɡənnˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#enɡənnˈa#
-*#inɡənnˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inɡənˈa# | 262 : n n > n 
-*#inɡɨnˈa# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#ɨnɡɨnˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnɡɨnˈa#
-Final form : *#ɨnɡɨnˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1064:
+#mˈerɡe# >>> *#mˈerd͡ʒe# ( GOLD : #mˈerd͡ʒe#) :
+m ˈe r ɡ e 
+*#mˈɛrɡe# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛrɡʲe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#mˈɛrɡʲe#
+*#mjˈɛrɡʲe# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈerɡʲe# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrɡʲe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈɛarɡʲe# | 214 : ∅ > a / [-tense] __
+*#mjˈeˈarɡʲe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mje̯ˈarɡʲe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#mje̯ˈarɟ͡ʑe# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mje̯ˈard͡ʒe# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mje̯ˈard͡ʒe#
+*#mjˈerd͡ʒe# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#mˈerd͡ʒe# | 256 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+Old Romanian stage form : *#mˈerd͡ʒe#
+Final form : *#mˈerd͡ʒe#

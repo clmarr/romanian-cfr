@@ -1,22 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 716:
-#ˌarmissˈaːrium# >>> *#arməsˈar# ( GOLD : #arməsˈar#) :
-ˌa r m i s s ˈaː r i u m 
-*#ˌarmissˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#armissˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#armissˈaːrju# | 44 : m > ∅ / [-stres] __ #
-*#armessˈaːrju# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#armessˈarju# | 135 : [+syl] > [-long,-splng] 
-*#armesˈarju# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#armesˈarju#
-*#aɾmesˈaɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#aɾmesˈaɾʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#aɾmesˈaɾʲu# | 209 : j > ∅ / [+cons,+front] __
-*#aɾmesˈajɾu# | 232 : ɾʲ > j ɾ 
-Common Romanian stage form : *#aɾmesˈajɾu#
-*#aɾməsˈajɾu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#arməsˈajru# | 265 : ɾ > r 
-*#arməsˈajrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#arməsˈajr# | 293 : w̥ > ∅ / [-syl] __ #
-*#arməsˈar# | 299 : j > ∅ / __ r
-Old Romanian stage form : *#arməsˈar#
-Final form : *#arməsˈar#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 716:
+#ˌekstˈirpum# >>> *#stˈerp# ( GOLD : #stˈerp#) :
+ˌe k s t ˈi r p u m 
+*#ekstˈirpum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekstˈirpu# | 43 : m > ∅ / [-stres] __ #
+*#estˈirpu# | 105 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estˈerpu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#stˈerpu# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stˈerpu#
+Common Romanian stage form : *#stˈerpu#
+*#stˈerpw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#stˈerp# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#stˈerp#
+Final form : *#stˈerp#

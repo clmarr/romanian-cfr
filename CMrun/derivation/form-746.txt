@@ -1,18 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 746:
-#bˌerbˈeːkem# >>> *#berbˈet͡ʃe# ( GOLD : #berbˈet͡ʃe#) :
-b ˌe r b ˈeː k e m 
-*#berbˈeːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#berbˈeːke# | 44 : m > ∅ / [-stres] __ #
-*#berbˈeke# | 135 : [+syl] > [-long,-splng] 
-*#berbˈekʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#berbˈekʲe#
-*#berbˈɛkʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#berbˈɛakʲe# | 216 : ∅ > a / [-tense] __
-*#berbˈeˈakʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#berbe̯ˈakʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#berbe̯ˈac͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#berbe̯ˈat͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#berbe̯ˈat͡ʃe#
-*#berbˈet͡ʃe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#berbˈet͡ʃe#
-Final form : *#berbˈet͡ʃe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 746:
+#ˌowˈiːnam# >>> *#oˈinə# ( GOLD : #oˈinə#) :
+ˌo w ˈiː n a m 
+*#owˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#owˈiːna# | 43 : m > ∅ / [-stres] __ #
+*#oβˈiːna# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#oβˈina# | 133 : [+syl] > [-long,-splng] 
+*#oˈina# | 161 : β > ∅ 
+Balkan Romance stage form : *#oˈina#
+*#oˈinə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#oˈinə#
+Old Romanian stage form : *#oˈinə#
+Final form : *#oˈinə#

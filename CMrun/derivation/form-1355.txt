@@ -1,18 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1355:
-#skˈabiam# >>> *#zɡˈajbə# ( GOLD : #zɡˈajbə#) :
-s k ˈa b i a m 
-*#skˈabjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#skˈabja# | 44 : m > ∅ / [-stres] __ #
-*#iskˈabja# | 120 : ∅ > i / # __ s [+cons,-son]
-*#iskˈabbja# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#eskˈabbja# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#skˈabbja# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#skˈabja# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#sɡˈabja# | 158 : k > ɡ / # ( s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son] ( j ) ) [-prim] )* #
-*#sɡˈajba# | 159 : b j > j b / [+stres] __
-Balkan Romance stage form : *#sɡˈajba#
-*#zɡˈajba# | 177 : s > z / # __ [+voi,-son]
-*#zɡˈajbə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#zɡˈajbə#
-Old Romanian stage form : *#zɡˈajbə#
-Final form : *#zɡˈajbə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1355:
+#ˌinterroɡˈaː# >>> *#ɨnteruɡˈa# ( GOLD : #ɨntrebˈa#) :
+ˌi n t e r r o ɡ ˈaː 
+*#interroɡˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enterroɡˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enterroɡˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enterroɡˈa#
+*#enterɾoɡˈa# | 171 : r > ɾ / __ [nnas,ncons]
+*#enterɾuɡˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#enterɾuɡˈa#
+*#enteruɡˈa# | 242 : {ɾ;r} > {∅;∅} / r __
+*#interuɡˈa# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnteruɡˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnteruɡˈa#
+Final form : *#ɨnteruɡˈa#

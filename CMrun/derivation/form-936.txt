@@ -1,22 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 936:
-#roɡaːtiˈoːnem# >>> *#ruɡət͡ʃˈune# ( GOLD : #ruɡət͡ʃˈune#) :
-r o ɡ aː t i ˈoː n e m 
-*#roɡaːtjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#roɡaːtjˈoːne# | 44 : m > ∅ / [-stres] __ #
-*#roɡaːttjˈoːne# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#roɡattjˈone# | 135 : [+syl] > [-long,-splng] 
-*#roɡattʲˈone# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#roɡatkʲˈone# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#roɡakʲˈone# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#roɡakʲˈone#
-*#ɾoɡakʲˈone# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾoɡakʲˈone# | 174 : ∅ > r / # __ ɾ
-*#rɾuɡakʲˈone# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#rɾuɡakʲˈune# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#rɾuɡəkʲˈune# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#rɾuɡəc͡ɕˈune# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾuɡət͡ʃˈune# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾuɡət͡ʃˈune#
-*#ruɡət͡ʃˈune# | 244 : {ɾ;r} > {∅;∅} / r __
-Old Romanian stage form : *#ruɡət͡ʃˈune#
-Final form : *#ruɡət͡ʃˈune#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 936:
+#neɡoːtiaːtˈoːrem# >>> *#neɡut͡sətˈor# ( GOLD : #neɡut͡sətˈor#) :
+n e ɡ oː t i aː t ˈoː r e m 
+*#neɡoːtjaːtˈoːrem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#neɡoːtjaːtˈoːre# | 43 : m > ∅ / [-stres] __ #
+*#neɡoːtjaːtˈoːr# | 95 : e > ∅ / [-round] t ˈoː r __ #
+*#neɡoːttjaːtˈoːr# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#neɡottjatˈor# | 133 : [+syl] > [-long,-splng] 
+*#neɡottʲatˈor# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#neɡotʲatˈor# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#neɡotʲatˈor#
+*#neɡutʲatˈor# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#neɡutʲətˈor# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#neɡut͡sʲətˈor# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#neɡut͡sətˈor# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#neɡut͡sətˈor#
+Old Romanian stage form : *#neɡut͡sətˈor#
+Final form : *#neɡut͡sətˈor#

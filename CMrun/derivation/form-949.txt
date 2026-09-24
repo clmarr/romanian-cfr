@@ -1,15 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 949:
-#buːkinˈaː# >>> *#but͡ʃinˈa# ( GOLD : #but͡ʃinˈa#) :
-b uː k i n ˈaː 
-*#buːkenˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#bukenˈa# | 135 : [+syl] > [-long,-splng] 
-*#bukʲenˈa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#bukʲenˈa#
-*#bukʲinˈa# | 203 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#bukʲjinˈa# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#bukʲinˈa# | 209 : j > ∅ / [+cons,+front] __
-*#buc͡ɕinˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#but͡ʃinˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#but͡ʃinˈa#
-Old Romanian stage form : *#but͡ʃinˈa#
-Final form : *#but͡ʃinˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 949:
+#miːriˈoːnem# >>> *#minˈune# ( GOLD : #minˈune#) :
+m iː r i ˈoː n e m 
+*#miːrjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#miːrjˈoːne# | 43 : m > ∅ / [-stres] __ #
+*#mirjˈone# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mirjˈone#
+*#miɾjˈone# | 171 : r > ɾ / __ [nnas,ncons]
+*#miɾʲjˈone# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#miɾʲˈone# | 207 : j > ∅ / [+cons,+front] __
+*#miɾˈone# | 211 : ɾʲ > ɾ / [+hi] __
+*#miɾˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#miɾˈune#
+*#mirˈune# | 263 : ɾ > r 
+*#minˈune# | 311 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n [-ant]
+Old Romanian stage form : *#minˈune#
+Final form : *#minˈune#

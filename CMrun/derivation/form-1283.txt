@@ -1,11 +1,26 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1283:
-#ekspˈoːne# >>> *#spˈune# ( GOLD : #spˈune#) :
-e k s p ˈoː n e 
-*#espˈoːne# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espˈone# | 135 : [+syl] > [-long,-splng] 
-*#spˈone# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spˈone#
-*#spˈune# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#spˈune#
-Old Romanian stage form : *#spˈune#
-Final form : *#spˈune#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1283:
+#ˌekstraːkˌoːlaːtˈoːria# >>> *#strəkurəto̯ˈare# ( GOLD : #strekurəto̯ˈare#) :
+ˌe k s t r aː k ˌoː l aː t ˈoː r i a 
+*#ˌekstraːkˌoːlaːtˈoːrja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ekstraːkoːlaːtˈoːrja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#estraːkoːlaːtˈoːrja# | 105 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estrakolatˈorja# | 133 : [+syl] > [-long,-splng] 
+*#strakolatˈorja# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#strakolatˈorja#
+*#stɾakolatˈoɾja# | 171 : r > ɾ / __ [nnas,ncons]
+*#stɾakulatˈoɾja# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#stɾakuɾatˈoɾja# | 190 : l > ɾ / [+syl] __ [+syl]
+*#stɾakuɾatˈɔɾja# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stɾakuɾatˈɔɾʲja# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#stɾakuɾatˈɔɾʲa# | 207 : j > ∅ / [+cons,+front] __
+*#stɾakuɾatˈɔaɾʲa# | 214 : ∅ > a / [-tense] __
+*#stɾakuɾatˈoˈaɾʲa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#stɾakuɾato̯ˈaɾʲa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#stɾəkuɾəto̯ˈaɾʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#stɾəkuɾəto̯ˈaɾʲe# | 228 : ə > e / [+cons,+front,+son] __
+*#stɾəkuɾəto̯ˈajɾe# | 230 : ɾʲ > j ɾ 
+Common Romanian stage form : *#stɾəkuɾəto̯ˈajɾe#
+*#strəkurəto̯ˈajre# | 263 : ɾ > r 
+*#strəkurəto̯ˈare# | 297 : j > ∅ / __ r
+Old Romanian stage form : *#strəkurəto̯ˈare#
+Final form : *#strəkurəto̯ˈare#

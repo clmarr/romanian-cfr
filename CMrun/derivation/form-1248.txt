@@ -1,16 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1248:
-#mˈalleum# >>> *#mˈaj# ( GOLD : #mˈaj#) :
-m ˈa l l e u m 
-*#mˈalljum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈallju# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#mˈallju#
-*#mˈalju# | 207 : {l l;m m} > {l;m} 
-*#mˈalʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mˈalʲu# | 209 : j > ∅ / [+cons,+front] __
-*#mˈaʎu# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#mˈaʎu#
-*#mˈaju# | 278 : [+son,+cons,+front] > j 
-*#mˈajw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈaj# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mˈaj#
-Final form : *#mˈaj#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1248:
+#fustikˈellum# >>> *#fuʃtˈel# ( GOLD : #fuʃtˈel#) :
+f u s t i k ˈe l l u m 
+*#fustikˈellu# | 43 : m > ∅ / [-stres] __ #
+*#fustkˈellu# | 71 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
+*#fuskˈellu# | 106 : [-cont] > ∅ / [+cons] __ [-son,-voi]
+*#fuskˈɛllu# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fuskʲˈɛllu# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#fuskʲˈɛllu#
+*#fuskʲˈellu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fuskʲˈelu# | 205 : {l l;m m} > {l;m} 
+*#fuʃtˈelu# | 231 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#fuʃtˈelu#
+*#fuʃtˈelw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fuʃtˈel# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fuʃtˈel#
+Final form : *#fuʃtˈel#

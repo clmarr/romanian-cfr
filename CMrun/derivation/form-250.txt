@@ -1,11 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 250:
-#mˈanam# >>> *#mˈɨnə# ( GOLD : #mˈɨnə#) :
-m ˈa n a m 
-*#mˈana# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#mˈana#
-*#mˈəna# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#mˈənə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#mˈənə#
-*#mˈɨnə# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#mˈɨnə#
-Final form : *#mˈɨnə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 250:
+#brˈakʰkʰium# >>> *#brˈat͡s# ( GOLD : #brˈat͡s#) :
+b r ˈa kʰ kʰ i u m 
+*#brˈakʰkʰjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#brˈakkjum# | 14 : [+cons,+sg] > [-sg] 
+*#brˈakkju# | 43 : m > ∅ / [-stres] __ #
+*#brˈaktʲu# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#brˈattʲu# | 142 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#brˈatʲu# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#brˈatʲu#
+*#bɾˈatʲu# | 171 : r > ɾ / __ [nnas,ncons]
+*#bɾˈat͡sʲu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#bɾˈat͡su# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#bɾˈat͡su#
+*#brˈat͡su# | 263 : ɾ > r 
+*#brˈat͡sw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#brˈat͡s# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#brˈat͡s#
+Final form : *#brˈat͡s#

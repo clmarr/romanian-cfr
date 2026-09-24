@@ -1,19 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 578:
-#pawiːmˈentum# >>> *#pəmˈɨnt# ( GOLD : #pəmˈɨnt#) :
-p a w iː m ˈe n t u m 
-*#pawiːmˈentu# | 44 : m > ∅ / [-stres] __ #
-*#paβiːmˈentu# | 100 : w > β / __ [-cons]
-*#paβiːmˈɛntu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#paβimˈɛntu# | 135 : [+syl] > [-long,-splng] 
-*#paimˈɛntu# | 163 : β > ∅ 
-*#pamˈɛntu# | 164 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#pamˈɛntu#
-*#pamˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#pəmˈentu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pəmˈentu#
-*#pəmˈəntu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#pəmˈɨntu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#pəmˈɨntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pəmˈɨnt# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pəmˈɨnt#
-Final form : *#pəmˈɨnt#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 578:
+#mˈerkuriː# >>> *#mjˈerkurj# ( GOLD : #mjˈerkurj#) :
+m ˈe r k u r iː 
+*#mˈɛrkuriː# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɛrkuri# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mˈɛrkuri#
+*#mˈɛrkuɾi# | 171 : r > ɾ / __ [nnas,ncons]
+*#mjˈɛrkuɾi# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈerkuɾi# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#mjˈerkuɾi#
+*#mjˈerkuri# | 263 : ɾ > r 
+*#mjˈerkurj̊# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mjˈerkurj# | 292 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#mjˈerkurj#
+Final form : *#mjˈerkurj#

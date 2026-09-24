@@ -1,13 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 725:
-#kˌaprˈiːnam# >>> *#kəprˈinə# ( GOLD : #kəprˈinə#) :
-k ˌa p r ˈiː n a m 
-*#kaprˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kaprˈiːna# | 44 : m > ∅ / [-stres] __ #
-*#kaprˈina# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kaprˈina#
-*#kapɾˈina# | 173 : r > ɾ / __ [nnas,ncons]
-*#kəpɾˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kəpɾˈinə#
-*#kəprˈinə# | 265 : ɾ > r 
-Old Romanian stage form : *#kəprˈinə#
-Final form : *#kəprˈinə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 725:
+#mˌuːɡˈiː# >>> *#mud͡ʒˈi# ( GOLD : #mud͡ʒˈi#) :
+m ˌuː ɡ ˈiː 
+*#muːɡˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#muɡˈi# | 133 : [+syl] > [-long,-splng] 
+*#muɡʲˈi# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#muɡʲˈi#
+*#muɡʲjˈi# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#muɡʲˈi# | 207 : j > ∅ / [+cons,+front] __
+*#muɟ͡ʑˈi# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mud͡ʒˈi# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mud͡ʒˈi#
+Old Romanian stage form : *#mud͡ʒˈi#
+Final form : *#mud͡ʒˈi#

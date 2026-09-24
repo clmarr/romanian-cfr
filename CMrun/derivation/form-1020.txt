@@ -1,13 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1020:
-#sˈuːrsum# >>> *#sˈus# ( GOLD : #sˈus#) :
-s ˈuː r s u m 
-*#sˈuːrsu# | 44 : m > ∅ / [-stres] __ #
-*#sˈuːssu# | 109 : r > s / [+cor] ( [-cons] )* __ s
-*#sˈussu# | 135 : [+syl] > [-long,-splng] 
-*#sˈusu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#sˈusu#
-Common Romanian stage form : *#sˈusu#
-*#sˈusw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#sˈus# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#sˈus#
-Final form : *#sˈus#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1020:
+#ˌekkumˈillok# >>> *#akoˈel# ( GOLD : #akˈolo#) :
+ˌe k k u m ˈi l l o k 
+*#ekkumˈillok# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#akkumˈillok# | 31 : e > a / # __ k k
+*#akkumˈillo# | 87 : [+cons,-cont] > ∅ / __ #
+*#akkumˈello# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#akumˈello# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#akumˈello#
+*#akumˈellu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#akoˈellu# | 194 : u m > o / [+back] __ [+syl]
+*#akoˈelu# | 205 : {l l;m m} > {l;m} 
+Common Romanian stage form : *#akoˈelu#
+*#akoˈelw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#akoˈel# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#akoˈel#
+Final form : *#akoˈel#

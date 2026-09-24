@@ -1,11 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 676:
-#kˈanapam# >>> *#kˈɨnəpə# ( GOLD : #kˈɨnepə#) :
-k ˈa n a p a m 
-*#kˈanapa# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#kˈanapa#
-*#kˈənapa# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#kˈənəpə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kˈənəpə#
-*#kˈɨnəpə# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#kˈɨnəpə#
-Final form : *#kˈɨnəpə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 676:
+#kawlˈikulum# >>> *#kurˈekj# ( GOLD : #kurˈekj#) :
+k a w l ˈi k u l u m 
+*#kolˈikulum# | 20 : a w > o / [+cons] __ [+cons,+cont]
+*#kolˈikulu# | 43 : m > ∅ / [-stres] __ #
+*#kolˈiklu# | 59 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#kolˈeklu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#kolˈeklu#
+*#kulˈeklu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kuɾˈeklu# | 190 : l > ɾ / [+syl] __ [+syl]
+*#kuɾˈekʎu# | 227 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#kuɾˈekʎu#
+*#kurˈekʎu# | 263 : ɾ > r 
+*#kurˈekju# | 276 : [+son,+cons,+front] > j 
+*#kurˈekjw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kurˈekj# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kurˈekj#
+Final form : *#kurˈekj#

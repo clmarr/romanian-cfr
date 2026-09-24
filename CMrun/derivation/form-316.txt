@@ -1,20 +1,10 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 316:
-#pˈektinat# >>> *#pjˈeptinə# ( GOLD : #pjˈeptənə#) :
-p ˈe k t i n a t 
-*#pˈektina# | 88 : [+cons,-cont] > ∅ / __ #
-*#pˈeptina# | 111 : k > p / __ t
-*#pˈɛptina# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛptena# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#pˈɛptena#
-*#pjˈɛptena# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈeptena# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛptena# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛaptena# | 216 : ∅ > a / [-tense] __
-*#pjˈeˈaptena# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈaptena# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pje̯ˈaptenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pje̯ˈaptenə#
-*#pjˈeptenə# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pjˈeptinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#pjˈeptinə#
-Final form : *#pjˈeptinə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 316:
+#sˈomnum# >>> *#sˈomn# ( GOLD : #sˈomn#) :
+s ˈo m n u m 
+*#sˈomnu# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#sˈomnu#
+Common Romanian stage form : *#sˈomnu#
+*#sˈomnw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈomn# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sˈomn#
+Final form : *#sˈomn#

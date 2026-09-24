@@ -1,15 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 328:
-#fˌeːlˈiːkem# >>> *#ferˈit͡ʃe# ( GOLD : #ferˈit͡ʃe#) :
-f ˌeː l ˈiː k e m 
-*#feːlˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːlˈiːke# | 44 : m > ∅ / [-stres] __ #
-*#felˈike# | 135 : [+syl] > [-long,-splng] 
-*#felˈikʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#felˈikʲe#
-*#feɾˈikʲe# | 192 : l > ɾ / [+syl] __ [+syl]
-*#feɾˈic͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#feɾˈit͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#feɾˈit͡ʃe#
-*#ferˈit͡ʃe# | 265 : ɾ > r 
-Old Romanian stage form : *#ferˈit͡ʃe#
-Final form : *#ferˈit͡ʃe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 328:
+#kˈompitum# >>> *#kˈumpət# ( GOLD : #kˈumpət#) :
+k ˈo m p i t u m 
+*#kˈompitu# | 43 : m > ∅ / [-stres] __ #
+*#kˈompetu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#kˈompetu#
+*#kˈumpetu# | 218 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#kˈumpetu#
+*#kˈumpətu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#kˈumpətw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈumpət# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kˈumpət#
+Final form : *#kˈumpət#

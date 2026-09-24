@@ -1,10 +1,28 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1053:
-#wenˈiː# >>> *#venˈi# ( GOLD : #venˈi#) :
-w e n ˈiː 
-*#βenˈiː# | 100 : w > β / __ [-cons]
-*#βenˈi# | 135 : [+syl] > [-long,-splng] 
-*#venˈi# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#venˈi#
-Common Romanian stage form : *#venˈi#
-Old Romanian stage form : *#venˈi#
-Final form : *#venˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1053:
+#ˌassˈediat# >>> *#aʃˈazə# ( GOLD : #aʃˈazə#) :
+ˌa s s ˈe d i a t 
+*#ˌassˈedjat# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#assˈedjat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#assˈedja# | 87 : [+cons,-cont] > ∅ / __ #
+*#assˈɛdja# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#assˈɛddja# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#assˈɛddʲa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#asˈɛdʲa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#asˈɛdʲa#
+*#asjˈɛdʲa# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#asjˈedʲa# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#asjˈɛdʲa# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#asʲjˈɛdʲa# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#asʲˈɛdʲa# | 207 : j > ∅ / [+cons,+front] __
+*#aɕˈɛdʲa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#aɕˈɛadʲa# | 214 : ∅ > a / [-tense] __
+*#aɕˈeˈadʲa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#aɕe̯ˈadʲa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#aɕe̯ˈadʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#aɕe̯ˈad͡zʲə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#aʃe̯ˈad͡zə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#aʃe̯ˈad͡zə#
+*#aʃˈad͡zə# | 249 : e̯ ˈa > ˈa / ʃ __
+*#aʃˈazə# | 282 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#aʃˈazə#
+Final form : *#aʃˈazə#

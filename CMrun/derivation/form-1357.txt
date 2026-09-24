@@ -1,14 +1,24 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1357:
-#skˈamnum# >>> *#skˈawn# ( GOLD : #skˈawn#) :
-s k ˈa m n u m 
-*#skˈamnu# | 44 : m > ∅ / [-stres] __ #
-*#iskˈamnu# | 120 : ∅ > i / # __ s [+cons,-son]
-*#eskˈamnu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#skˈamnu# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#skˈawnu# | 160 : m > w / [+lo] __ n
-Balkan Romance stage form : *#skˈawnu#
-Common Romanian stage form : *#skˈawnu#
-*#skˈawnw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#skˈawn# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#skˈawn#
-Final form : *#skˈawn#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1357:
+#parˈietem# >>> *#perˈete# ( GOLD : #perˈete#) :
+p a r ˈi e t e m 
+*#parˈiete# | 43 : m > ∅ / [-stres] __ #
+*#pariˈeːte# | 120 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#parjˈeːte# | 126 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#parjˈete# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#parjˈete#
+*#paɾjˈete# | 171 : r > ɾ / __ [nnas,ncons]
+*#paɾjˈɛte# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#paɾʲjˈɛte# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#paɾʲˈɛte# | 207 : j > ∅ / [+cons,+front] __
+*#paɾʲˈɛate# | 214 : ∅ > a / [-tense] __
+*#paɾʲˈeˈate# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#paɾʲe̯ˈate# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pəɾʲe̯ˈate# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pəɾje̯ˈate# | 229 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
+Common Romanian stage form : *#pəɾje̯ˈate#
+*#pəɾjˈete# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pəɾˈete# | 256 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#pərˈete# | 263 : ɾ > r 
+*#perˈete# | 301 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
+Old Romanian stage form : *#perˈete#
+Final form : *#perˈete#

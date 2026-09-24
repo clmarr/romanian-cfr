@@ -1,20 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 253:
-#pˌetiˈolum# >>> *#pet͡ʃˈor# ( GOLD : #pit͡ʃˈor#) :
-p ˌe t i ˈo l u m 
-*#pˌetjˈolum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#petjˈolum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#petjˈolu# | 44 : m > ∅ / [-stres] __ #
-*#pettjˈolu# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#pettʲˈolu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#petkʲˈolu# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#pekʲˈolu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#pekʲˈolu#
-*#pekʲˈoɾu# | 192 : l > ɾ / [+syl] __ [+syl]
-*#pec͡ɕˈoɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pet͡ʃˈoɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pet͡ʃˈoɾu#
-*#pet͡ʃˈoru# | 265 : ɾ > r 
-*#pet͡ʃˈorw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pet͡ʃˈor# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pet͡ʃˈor#
-Final form : *#pet͡ʃˈor#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 253:
+#dˈiɡitum# >>> *#dˈed͡ʒet# ( GOLD : #dˈed͡ʒet#) :
+d ˈi ɡ i t u m 
+*#dˈiɡitu# | 43 : m > ∅ / [-stres] __ #
+*#dˈeɡetu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#dˈeɡʲetu# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#dˈeɡʲetu#
+*#dˈɛɡʲetu# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dˈɛaɡʲetu# | 214 : ∅ > a / [-tense] __
+*#dˈeˈaɡʲetu# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#de̯ˈaɡʲetu# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#de̯ˈaɟ͡ʑetu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#de̯ˈad͡ʒetu# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#de̯ˈad͡ʒetu#
+*#dˈed͡ʒetu# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#dˈed͡ʒetw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dˈed͡ʒet# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dˈed͡ʒet#
+Final form : *#dˈed͡ʒet#

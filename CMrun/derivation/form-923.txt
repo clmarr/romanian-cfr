@@ -1,20 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 923:
-#krˌistˈɛːnu# >>> *#kreʃtˈin# ( GOLD : #kreʃtˈin#) :
-k r ˌi s t ˈɛː n u 
-*#kristˈɛːnu# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#krestˈɛːnu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#krestˈɛnu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#krestˈɛnu#
-*#kɾestˈɛnu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kɾestjˈɛnu# | 182 : ∅ > j / s t __ [-cons,-tense,+prim]
-*#kɾestjˈenu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kɾestʲjˈenu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kɾestʲˈenu# | 209 : j > ∅ / [+cons,+front] __
-*#kɾeʃtˈenu# | 233 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#kɾeʃtˈenu#
-*#kɾeʃtˈinu# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#kreʃtˈinu# | 265 : ɾ > r 
-*#kreʃtˈinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kreʃtˈin# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kreʃtˈin#
-Final form : *#kreʃtˈin#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 923:
+#saluːtˈaː# >>> *#sərutˈa# ( GOLD : #sərutˈa#) :
+s a l uː t ˈaː 
+*#salutˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#salutˈa#
+*#saɾutˈa# | 190 : l > ɾ / [+syl] __ [+syl]
+*#səɾutˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#səɾutˈa#
+*#sərutˈa# | 263 : ɾ > r 
+Old Romanian stage form : *#sərutˈa#
+Final form : *#sərutˈa#

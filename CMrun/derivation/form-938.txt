@@ -1,9 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 938:
-#pˈaskʰa# >>> *#pˈaskə# ( GOLD : #pˈaskə#) :
-p ˈa s kʰ a 
-*#pˈaska# | 14 : [+cons,+sg] > [-sg] 
-Balkan Romance stage form : *#pˈaska#
-*#pˈaskə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pˈaskə#
-Old Romanian stage form : *#pˈaskə#
-Final form : *#pˈaskə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 938:
+#pˈerde# >>> *#pjˈerde# ( GOLD : #pjˈerde#) :
+p ˈe r d e 
+*#pˈɛrde# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#pˈɛrde#
+*#pjˈɛrde# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈerde# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛrde# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛarde# | 214 : ∅ > a / [-tense] __
+*#pjˈeˈarde# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈarde# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#pje̯ˈarde#
+*#pjˈerde# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#pjˈerde#
+Final form : *#pjˈerde#

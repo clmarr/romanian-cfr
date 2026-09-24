@@ -1,15 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 369:
-#juːdikˈaː# >>> *#ʒudekˈa# ( GOLD : #ʒudekˈa#) :
-j uː d i k ˈaː 
-*#djuːdikˈaː# | 105 : j > d j / # __ [+syl] [+cons]
-*#djuːdekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#djudekˈa# | 135 : [+syl] > [-long,-splng] 
-*#dʲudekˈa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡʲudekˈa# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-Balkan Romance stage form : *#ɡʲudekˈa#
-*#ɟ͡ʑudekˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒudekˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒudekˈa#
-*#ʒudekˈa# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#ʒudekˈa#
-Final form : *#ʒudekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 369:
+#kˌoːɡitˈaː# >>> *#kud͡ʒetˈa# ( GOLD : #kud͡ʒetˈa#) :
+k ˌoː ɡ i t ˈaː 
+*#koːɡitˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#koːɡetˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#koɡetˈa# | 133 : [+syl] > [-long,-splng] 
+*#koɡʲetˈa# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#koɡʲetˈa#
+*#kuɡʲetˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kuɟ͡ʑetˈa# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#kud͡ʒetˈa# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kud͡ʒetˈa#
+Old Romanian stage form : *#kud͡ʒetˈa#
+Final form : *#kud͡ʒetˈa#

@@ -1,13 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 276:
-#ˌimbˌukkˈaː# >>> *#ɨmbukˈa# ( GOLD : #ɨmbukˈa#) :
-ˌi m b ˌu k k ˈaː 
-*#imbukkˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#embukkˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#embukkˈa# | 135 : [+syl] > [-long,-splng] 
-*#embukˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#embukˈa#
-Common Romanian stage form : *#embukˈa#
-*#imbukˈa# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#ɨmbukˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨmbukˈa#
-Final form : *#ɨmbukˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 276:
+#stˌernuːtˈaː# >>> *#sternutˈa# ( GOLD : #strənutˈa#) :
+s t ˌe r n uː t ˈaː 
+*#sternuːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#isternuːtˈaː# | 118 : ∅ > i / # __ s [+cons,-son]
+*#esternuːtˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#esternutˈa# | 133 : [+syl] > [-long,-splng] 
+*#sternutˈa# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sternutˈa#
+*#steɾnutˈa# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#steɾnutˈa#
+*#sternutˈa# | 263 : ɾ > r 
+Old Romanian stage form : *#sternutˈa#
+Final form : *#sternutˈa#

@@ -1,17 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 745:
-#wˈerrum# >>> *#vjˈer# ( GOLD : #vjˈer#) :
-w ˈe r r u m 
-*#wˈerru# | 44 : m > ∅ / [-stres] __ #
-*#βˈerru# | 100 : w > β / __ [-cons]
-*#βˈɛrru# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛrru# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vˈɛrru#
-*#vˈɛrɾu# | 173 : r > ɾ / __ [nnas,ncons]
-*#vjˈɛrɾu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#vjˈerɾu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#vjˈerɾu#
-*#vjˈeru# | 244 : {ɾ;r} > {∅;∅} / r __
-*#vjˈerw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vjˈer# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vjˈer#
-Final form : *#vjˈer#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 745:
+#iˌuwˈenkam# >>> *#ʒuˈinkə# ( GOLD : #ʒˈunkə#) :
+i ˌu w ˈe n k a m 
+*#jˌuwˈenkam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#juwˈenkam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#juwˈenka# | 43 : m > ∅ / [-stres] __ #
+*#juβˈenka# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#djuβˈenka# | 103 : j > d j / # __ [+syl] [+cons]
+*#djuβˈɛnka# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#dʲuβˈɛnka# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲuβˈɛnka# | 144 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲuˈɛnka# | 161 : β > ∅ 
+Balkan Romance stage form : *#ɡʲuˈɛnka#
+*#ɡʲuˈenka# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#ɡʲuˈenkə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɟ͡ʑuˈenkə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒuˈenkə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒuˈenkə#
+*#d͡ʒuˈinkə# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ʒuˈinkə# | 283 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ʒuˈinkə#
+Final form : *#ʒuˈinkə#

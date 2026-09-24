@@ -1,22 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1331:
-#fraksinˈeːtum# >>> *#frəsinˈet# ( GOLD : #frəsinˈet#) :
-f r a k s i n ˈeː t u m 
-*#fraksinˈeːtu# | 44 : m > ∅ / [-stres] __ #
-*#frassinˈeːtu# | 113 : k > s / __ s
-*#frassenˈeːtu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#frassenˈetu# | 135 : [+syl] > [-long,-splng] 
-*#frasenˈetu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#frasenˈetu#
-*#fɾasenˈetu# | 173 : r > ɾ / __ [nnas,ncons]
-*#fɾasinˈetu# | 203 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#fɾasjinˈetu# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#fɾasʲjinˈetu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fɾasʲinˈetu# | 209 : j > ∅ / [+cons,+front] __
-*#fɾasinˈetu# | 211 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
-*#fɾəsinˈetu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#fɾəsinˈetu#
-*#frəsinˈetu# | 265 : ɾ > r 
-*#frəsinˈetw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#frəsinˈet# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#frəsinˈet#
-Final form : *#frəsinˈet#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1331:
+#sˈanɡwen# >>> *#sˈɨnd͡ʒe# ( GOLD : #sˈɨnd͡ʒe#) :
+s ˈa n ɡ w e n 
+*#sˈanɡwe# | 88 : [+nas] > ∅ / @ [-cons] __ #
+*#sˈanɡβe# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#sˈanɡe# | 161 : β > ∅ 
+*#sˈanɡʲe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#sˈanɡʲe#
+*#sˈənɡʲe# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#sˈənɟ͡ʑe# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#sˈənd͡ʒe# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#sˈənd͡ʒe#
+*#sˈɨnd͡ʒe# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Old Romanian stage form : *#sˈɨnd͡ʒe#
+Final form : *#sˈɨnd͡ʒe#

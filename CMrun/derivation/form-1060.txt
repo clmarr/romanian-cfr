@@ -1,14 +1,9 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1060:
-#eksbˈattue# >>> *#zbˈate# ( GOLD : #zbˈate#) :
-e k s b ˈa t t u e 
-*#eksbˈattwe# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#eksbˈattβe# | 100 : w > β / __ [-cons]
-*#esbˈattβe# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#sbˈattβe# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#zbˈattβe# | 147 : s > z / # __ [+voi,-son]
-*#zbˈatβe# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#zbˈate# | 163 : β > ∅ 
-Balkan Romance stage form : *#zbˈate#
-Common Romanian stage form : *#zbˈate#
-Old Romanian stage form : *#zbˈate#
-Final form : *#zbˈate#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1060:
+#fˈuɡam# >>> *#fˈuɡə# ( GOLD : #fˈuɡə#) :
+f ˈu ɡ a m 
+*#fˈuɡa# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#fˈuɡa#
+*#fˈuɡə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fˈuɡə#
+Old Romanian stage form : *#fˈuɡə#
+Final form : *#fˈuɡə#

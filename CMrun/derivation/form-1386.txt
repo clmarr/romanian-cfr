@@ -1,16 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1386:
-#sˈeːram# >>> *#se̯ˈarə# ( GOLD : #se̯ˈarə#) :
-s ˈeː r a m 
-*#sˈeːra# | 44 : m > ∅ / [-stres] __ #
-*#sˈera# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#sˈera#
-*#sˈeɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#sˈɛɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#sˈɛaɾa# | 216 : ∅ > a / [-tense] __
-*#sˈeˈaɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#se̯ˈaɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#se̯ˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#se̯ˈaɾə#
-*#se̯ˈarə# | 265 : ɾ > r 
-Old Romanian stage form : *#se̯ˈarə#
-Final form : *#se̯ˈarə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1386:
+#awˈunkulum# >>> *#ˈunkj# ( GOLD : #ˈunkj#) :
+a w ˈu n k u l u m 
+*#aˈunkulum# | 23 : w > ∅ / # a __ ( @ ) ( @ ) [+round]
+*#aˈunkulu# | 43 : m > ∅ / [-stres] __ #
+*#aˈunklu# | 53 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#ˈunklu# | 114 : a > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
+Balkan Romance stage form : *#ˈunklu#
+*#ˈunkʎu# | 227 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#ˈunkʎu#
+*#ˈunkju# | 276 : [+son,+cons,+front] > j 
+*#ˈunkjw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈunkj# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈunkj#
+Final form : *#ˈunkj#

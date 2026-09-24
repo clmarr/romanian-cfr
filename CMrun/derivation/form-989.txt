@@ -1,20 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 989:
-#ˌadhˈikke# >>> *#aˈet͡ʃe# ( GOLD : #aˈit͡ʃj#) :
-ˌa d h ˈi k k e 
-*#adhˈikke# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ahˈikke# | 38 : d > ∅ / [+syl,+lo] __ [-syl]
-*#aˈikke# | 40 : h > ∅ 
-*#aˈekke# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#aˈeke# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#aˈekʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#aˈekʲe#
-*#aˈɛkʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#aˈɛakʲe# | 216 : ∅ > a / [-tense] __
-*#aˈeˈakʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ae̯ˈakʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ae̯ˈac͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ae̯ˈat͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ae̯ˈat͡ʃe#
-*#aˈet͡ʃe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#aˈet͡ʃe#
-Final form : *#aˈet͡ʃe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 989:
+#dulkˈorem# >>> *#dulko̯ˈare# ( GOLD : #dulko̯ˈare#) :
+d u l k ˈo r e m 
+*#dulkˈore# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#dulkˈore#
+*#dulkˈoɾe# | 171 : r > ɾ / __ [nnas,ncons]
+*#dulkˈɔɾe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dulkˈɔaɾe# | 214 : ∅ > a / [-tense] __
+*#dulkˈoˈaɾe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dulko̯ˈaɾe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#dulko̯ˈaɾe#
+*#dulko̯ˈare# | 263 : ɾ > r 
+Old Romanian stage form : *#dulko̯ˈare#
+Final form : *#dulko̯ˈare#

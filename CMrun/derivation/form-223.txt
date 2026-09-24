@@ -1,12 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 223:
-#fˌiːkˈaːtum# >>> *#fikˈat# ( GOLD : #fikˈat#) :
-f ˌiː k ˈaː t u m 
-*#fiːkˈaːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#fiːkˈaːtu# | 44 : m > ∅ / [-stres] __ #
-*#fikˈatu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fikˈatu#
-Common Romanian stage form : *#fikˈatu#
-*#fikˈatw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fikˈat# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fikˈat#
-Final form : *#fikˈat#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 223:
+#kˌerwˈiːkem# >>> *#t͡ʃerbˈit͡ʃe# ( GOLD : #t͡ʃerbˈit͡ʃe#) :
+k ˌe r w ˈiː k e m 
+*#kerwˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kerwˈiːke# | 43 : m > ∅ / [-stres] __ #
+*#kerβˈiːke# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#kerβˈike# | 133 : [+syl] > [-long,-splng] 
+*#kerbˈike# | 153 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#kʲerbˈikʲe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲerbˈikʲe#
+*#c͡ɕerbˈic͡ɕe# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃerbˈit͡ʃe# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃerbˈit͡ʃe#
+Old Romanian stage form : *#t͡ʃerbˈit͡ʃe#
+Final form : *#t͡ʃerbˈit͡ʃe#

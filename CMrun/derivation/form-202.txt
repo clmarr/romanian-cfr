@@ -1,19 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 202:
-#kˌapitˈiːnam# >>> *#kəpət͡sˈɨnə# ( GOLD : #kəpət͡sˈɨnə#) :
-k ˌa p i t ˈiː n a m 
-*#kapitˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kapitˈiːna# | 44 : m > ∅ / [-stres] __ #
-*#kapetˈiːna# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#kapetˈina# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kapetˈina#
-*#kapetjˈina# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#kapetʲjˈina# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kapetʲˈina# | 209 : j > ∅ / [+cons,+front] __
-*#kəpetʲˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəpet͡sʲˈinə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#kəpet͡sˈinə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kəpet͡sˈinə#
-*#kəpət͡sˈinə# | 301 : e > ə / ə ( [-syl] )* __ ( [-syl] )* [+syl,+hi]
-*#kəpət͡sˈɨnə# | 318 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
-Old Romanian stage form : *#kəpət͡sˈɨnə#
-Final form : *#kəpət͡sˈɨnə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 202:
+#wˌetrˈaːnum# >>> *#bətrˈɨn# ( GOLD : #bətrˈɨn#) :
+w ˌe t r ˈaː n u m 
+*#wetrˈaːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#wetrˈaːnu# | 43 : m > ∅ / [-stres] __ #
+*#βetrˈaːnu# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βetrˈanu# | 133 : [+syl] > [-long,-splng] 
+*#betrˈanu# | 146 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
+Balkan Romance stage form : *#betrˈanu#
+*#betɾˈanu# | 171 : r > ɾ / __ [nnas,ncons]
+*#betɾˈənu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#betɾˈənu#
+*#bətɾˈənu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#bətrˈənu# | 263 : ɾ > r 
+*#bətrˈɨnu# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#bətrˈɨnw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#bətrˈɨn# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#bətrˈɨn#
+Final form : *#bətrˈɨn#

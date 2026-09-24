@@ -1,13 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 337:
-#mˌoːnstrˈaː# >>> *#mustrˈa# ( GOLD : #mustrˈa#) :
-m ˌoː n s t r ˈaː 
-*#moːnstrˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#moːstrˈaː# | 102 : [+syl] n > [+long] ∅/ # [+cons] __ [-son,+cont]
-*#mostrˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mostrˈa#
-*#mostɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#mustɾˈa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#mustɾˈa#
-*#mustrˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#mustrˈa#
-Final form : *#mustrˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 337:
+#ˌintˌerrittˈaː# >>> *#ɨnterətˈa# ( GOLD : #ɨntərɨtˈa#) :
+ˌi n t ˌe r r i t t ˈaː 
+*#interrittˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enterrettˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enterrettˈa# | 133 : [+syl] > [-long,-splng] 
+*#enterretˈa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#enterretˈa#
+*#enterɾetˈa# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#enterɾetˈa#
+*#enteretˈa# | 242 : {ɾ;r} > {∅;∅} / r __
+*#enterətˈa# | 243 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#interətˈa# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnterətˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnterətˈa#
+Final form : *#ɨnterətˈa#

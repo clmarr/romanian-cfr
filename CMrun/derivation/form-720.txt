@@ -1,12 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 720:
-#ˈasinum# >>> *#ˈasin# ( GOLD : #ˈasin#) :
-ˈa s i n u m 
-*#ˈasinu# | 44 : m > ∅ / [-stres] __ #
-*#ˈasenu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#ˈasenu#
-Common Romanian stage form : *#ˈasenu#
-*#ˈasinu# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#ˈasinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈasin# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ˈasin#
-Final form : *#ˈasin#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 720:
+#pˈallium# >>> *#pˈaj# ( GOLD : #pˈaj#) :
+p ˈa l l i u m 
+*#pˈalljum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#pˈallju# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#pˈallju#
+*#pˈalju# | 205 : {l l;m m} > {l;m} 
+*#pˈalʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#pˈalʲu# | 207 : j > ∅ / [+cons,+front] __
+*#pˈaʎu# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#pˈaʎu#
+*#pˈaju# | 276 : [+son,+cons,+front] > j 
+*#pˈajw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pˈaj# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pˈaj#
+Final form : *#pˈaj#

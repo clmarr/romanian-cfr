@@ -1,19 +1,10 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1318:
-#pˈersikam# >>> *#pjˈersikə# ( GOLD : #pjˈersikə#) :
-p ˈe r s i k a m 
-*#pˈersika# | 44 : m > ∅ / [-stres] __ #
-*#pˈɛrsika# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛrseka# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#pˈɛrseka#
-*#pjˈɛrseka# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈerseka# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛrseka# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛarseka# | 216 : ∅ > a / [-tense] __
-*#pjˈeˈarseka# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈarseka# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pje̯ˈarsekə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pje̯ˈarsekə#
-*#pjˈersekə# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pjˈersikə# | 300 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-Old Romanian stage form : *#pjˈersikə#
-Final form : *#pjˈersikə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1318:
+#mˈeːnem# >>> *#mˈine# ( GOLD : #mˈine#) :
+m ˈeː n e m 
+*#mˈeːne# | 43 : m > ∅ / [-stres] __ #
+*#mˈene# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mˈene#
+Common Romanian stage form : *#mˈene#
+*#mˈine# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#mˈine#
+Final form : *#mˈine#

@@ -1,14 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 777:
-#palˈumbum# >>> *#porˈumb# ( GOLD : #porˈumb#) :
-p a l ˈu m b u m 
-*#palˈumbu# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#palˈumbu#
-*#paɾˈumbu# | 192 : l > ɾ / [+syl] __ [+syl]
-*#pəɾˈumbu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pəɾˈumbu#
-*#poɾˈumbu# | 250 : ə > o / # ( p ) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
-*#porˈumbu# | 265 : ɾ > r 
-*#porˈumbw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#porˈumb# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#porˈumb#
-Final form : *#porˈumb#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 777:
+#ˌekswolˈaː# >>> *#zburˈa# ( GOLD : #zburˈa#) :
+ˌe k s w o l ˈaː 
+*#ekswolˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#eksβolˈaː# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#esβolˈaː# | 105 : [-cont] > ∅ / __ [+strid] [+cons]
+*#esβolˈa# | 133 : [+syl] > [-long,-splng] 
+*#sβolˈa# | 135 : e > ∅ / # __ [+strid,+ant] [+cont,-strid]
+*#zβolˈa# | 145 : s > z / # __ [+voi,-son]
+*#zbolˈa# | 153 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+Balkan Romance stage form : *#zbolˈa#
+*#zbulˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#zbuɾˈa# | 190 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#zbuɾˈa#
+*#zburˈa# | 263 : ɾ > r 
+Old Romanian stage form : *#zburˈa#
+Final form : *#zburˈa#

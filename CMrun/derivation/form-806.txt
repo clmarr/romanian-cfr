@@ -1,16 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 806:
-#pˌeːdˈukulum# >>> *#pədˈukj# ( GOLD : #pədˈukje#) :
-p ˌeː d ˈu k u l u m 
-*#peːdˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#peːdˈukulu# | 44 : m > ∅ / [-stres] __ #
-*#peːdˈuklu# | 56 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#pedˈuklu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pedˈuklu#
-*#pedˈukʎu# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#pedˈukʎu#
-*#pədˈukʎu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#pədˈukju# | 278 : [+son,+cons,+front] > j 
-*#pədˈukjw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pədˈukj# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pədˈukj#
-Final form : *#pədˈukj#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 806:
+#sˌerpˈentiam# >>> *#serpˈɨnt͡sə# ( GOLD : #ʃerpˈɨnt͡sə#) :
+s ˌe r p ˈe n t i a m 
+*#sˌerpˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#serpˈentjam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#serpˈentja# | 43 : m > ∅ / [-stres] __ #
+*#serpˈɛntja# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#serpˈɛntʲa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+Balkan Romance stage form : *#serpˈɛntʲa#
+*#serpˈentʲa# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#serpˈentʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#serpˈent͡sʲə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#serpˈent͡sə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#serpˈent͡sə#
+*#serpˈənt͡sə# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#serpˈɨnt͡sə# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+Old Romanian stage form : *#serpˈɨnt͡sə#
+Final form : *#serpˈɨnt͡sə#

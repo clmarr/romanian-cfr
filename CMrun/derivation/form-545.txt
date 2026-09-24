@@ -1,20 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 545:
-#nˈuːbilum# >>> *#nˈor# ( GOLD : #nˈor#) :
-n ˈuː b i l u m 
-*#nˈuːbalum# | 26 : i > a / [+stres,+hi,αlab] ( [-syl,αlab] )* __ [+cons,+son] [+syl,+hi] m #
-*#nˈuːbalu# | 44 : m > ∅ / [-stres] __ #
-*#nˈuːβalu# | 132 : b > β / [-cons] __ [+cont]
-*#nˈuβalu# | 135 : [+syl] > [-long,-splng] 
-*#nˈualu# | 163 : β > ∅ 
-Balkan Romance stage form : *#nˈualu#
-*#nˈuaɾu# | 192 : l > ɾ / [+syl] __ [+syl]
-*#nˈuəɾu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#nˈuəɾu#
-*#nˈuəru# | 265 : ɾ > r 
-*#nˈuərw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#nˈuər# | 293 : w̥ > ∅ / [-syl] __ #
-*#nˈoər# | 321 : [+syl,+hi] > [-hi] / [+cons] __ ə
-*#nˈowr# | 322 : ə > w / [+syl,+round,-hi] __
-*#nˈor# | 323 : w > ∅ / [-lab] [+syl,+round] __ r
-Old Romanian stage form : *#nˈor#
-Final form : *#nˈor#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 545:
+#luːkˈiferum# >>> *#lut͡ʃe̯ˈafər# ( GOLD : #lut͡ʃe̯ˈafər#) :
+l uː k ˈi f e r u m 
+*#luːkˈiferu# | 43 : m > ∅ / [-stres] __ #
+*#luːkˈeferu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#lukˈeferu# | 133 : [+syl] > [-long,-splng] 
+*#lukʲˈeferu# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#lukʲˈeferu#
+*#lukʲˈefeɾu# | 171 : r > ɾ / __ [nnas,ncons]
+*#lukʲˈɛfeɾu# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#lukʲˈɛafeɾu# | 214 : ∅ > a / [-tense] __
+*#lukʲˈeˈafeɾu# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#lukʲe̯ˈafeɾu# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#luc͡ɕe̯ˈafeɾu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#lut͡ʃe̯ˈafeɾu# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#lut͡ʃe̯ˈafeɾu#
+*#lut͡ʃe̯ˈafəɾu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#lut͡ʃe̯ˈafəru# | 263 : ɾ > r 
+*#lut͡ʃe̯ˈafərw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lut͡ʃe̯ˈafər# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#lut͡ʃe̯ˈafər#
+Final form : *#lut͡ʃe̯ˈafər#

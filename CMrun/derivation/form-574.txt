@@ -1,14 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 574:
-#mˈartium# >>> *#mˈart͡s# ( GOLD : #mˈart͡s#) :
-m ˈa r t i u m 
-*#mˈartjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈartju# | 44 : m > ∅ / [-stres] __ #
-*#mˈartʲu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#mˈartʲu#
-*#mˈart͡sʲu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mˈart͡su# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mˈart͡su#
-*#mˈart͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈart͡s# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mˈart͡s#
-Final form : *#mˈart͡s#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 574:
+#mˌerˈiːdieːm# >>> *#merˈize# ( GOLD : #merˈizə#) :
+m ˌe r ˈiː d i eː m 
+*#mˌerˈiːdjeːm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#merˈiːdjeːm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#merˈiːdjeː# | 43 : m > ∅ / [-stres] __ #
+*#merˈiːddjeː# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#merˈiddje# | 133 : [+syl] > [-long,-splng] 
+*#merˈiddʲe# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#merˈidʲe# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#merˈidʲe#
+*#meɾˈidʲe# | 171 : r > ɾ / __ [nnas,ncons]
+*#meɾˈid͡zʲe# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#meɾˈid͡ze# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#meɾˈid͡ze#
+*#merˈid͡ze# | 263 : ɾ > r 
+*#merˈize# | 282 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#merˈize#
+Final form : *#merˈize#

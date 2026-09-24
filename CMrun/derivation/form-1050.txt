@@ -1,10 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1050:
-#subˈiː# >>> *#suˈi# ( GOLD : #suˈi#) :
-s u b ˈiː 
-*#suβˈiː# | 132 : b > β / [-cons] __ [+cont]
-*#suβˈi# | 135 : [+syl] > [-long,-splng] 
-*#suˈi# | 163 : β > ∅ 
-Balkan Romance stage form : *#suˈi#
-Common Romanian stage form : *#suˈi#
-Old Romanian stage form : *#suˈi#
-Final form : *#suˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1050:
+#ˌadprˈopioː# >>> *#aprˈop# ( GOLD : #aprˈopij#) :
+ˌa d p r ˈo p i oː 
+*#ˌadprˈopjoː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#adprˈopjoː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aprˈopjoː# | 38 : d > ∅ / [+syl,+lo] __ [-syl]
+*#aprˈoppjoː# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#aprˈoppjo# | 133 : [+syl] > [-long,-splng] 
+*#aprˈopjo# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#aprˈopjo#
+*#apɾˈopjo# | 171 : r > ɾ / __ [nnas,ncons]
+*#apɾˈopju# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#apɾˈopju#
+*#apɾˈopu# | 237 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+*#aprˈopu# | 263 : ɾ > r 
+*#aprˈopw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#aprˈop# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#aprˈop#
+Final form : *#aprˈop#

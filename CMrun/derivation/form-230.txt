@@ -1,16 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 230:
-#pˈiskem# >>> *#pˈeʃte# ( GOLD : #pˈeʃte#) :
-p ˈi s k e m 
-*#pˈiske# | 44 : m > ∅ / [-stres] __ #
-*#pˈeske# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#pˈeskʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#pˈeskʲe#
-*#pˈɛskʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pˈɛaskʲe# | 216 : ∅ > a / [-tense] __
-*#pˈeˈaskʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pe̯ˈaskʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pe̯ˈaʃte# | 233 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#pe̯ˈaʃte#
-*#pˈeʃte# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#pˈeʃte#
-Final form : *#pˈeʃte#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 230:
+#hˈumerum# >>> *#ˈumər# ( GOLD : #ˈumər#) :
+h ˈu m e r u m 
+*#ˈumerum# | 40 : h > ∅ 
+*#ˈumeru# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈumeru#
+*#ˈumeɾu# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#ˈumeɾu#
+*#ˈuməɾu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#ˈuməru# | 263 : ɾ > r 
+*#ˈumərw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈumər# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈumər#
+Final form : *#ˈumər#

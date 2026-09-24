@@ -1,16 +1,26 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 410:
-#eksklˈoppum# >>> *#ʃkjˈop# ( GOLD : #ʃkjˈop#) :
-e k s k l ˈo p p u m 
-*#eksklˈoppu# | 44 : m > ∅ / [-stres] __ #
-*#esklˈoppu# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#sklˈoppu# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#sklˈopu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#sklˈopu#
-*#skʎˈopu# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#skʎˈopu#
-*#ʃkʎˈopu# | 253 : s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
-*#ʃkjˈopu# | 278 : [+son,+cons,+front] > j 
-*#ʃkjˈopw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʃkjˈop# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ʃkjˈop#
-Final form : *#ʃkjˈop#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 410:
+#pˈereat# >>> *#pˈere# ( GOLD : #pjˈere#) :
+p ˈe r e a t 
+*#pˈerjat# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#pˈerja# | 87 : [+cons,-cont] > ∅ / __ #
+*#pˈɛrja# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#pˈɛrja#
+*#pˈɛɾja# | 171 : r > ɾ / __ [nnas,ncons]
+*#pjˈɛɾja# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈeɾja# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛɾja# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛɾʲja# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#pjˈɛɾʲa# | 207 : j > ∅ / [+cons,+front] __
+*#pjˈɛaɾʲa# | 214 : ∅ > a / [-tense] __
+*#pjˈeˈaɾʲa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈaɾʲa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pje̯ˈaɾʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pje̯ˈaɾʲe# | 228 : ə > e / [+cons,+front,+son] __
+*#pje̯ˈajɾe# | 230 : ɾʲ > j ɾ 
+Common Romanian stage form : *#pje̯ˈajɾe#
+*#pjˈejɾe# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pˈejɾe# | 256 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#pˈejre# | 263 : ɾ > r 
+*#pˈere# | 297 : j > ∅ / __ r
+Old Romanian stage form : *#pˈere#
+Final form : *#pˈere#

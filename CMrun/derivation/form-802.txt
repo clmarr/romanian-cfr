@@ -1,14 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 802:
-#lˈendinam# >>> *#lˈindinə# ( GOLD : #lˈindinə#) :
-l ˈe n d i n a m 
-*#lˈendina# | 44 : m > ∅ / [-stres] __ #
-*#lˈɛndina# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#lˈɛndena# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#lˈɛndena#
-*#lˈendena# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#lˈendenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#lˈendenə#
-*#lˈindenə# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#lˈindinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#lˈindinə#
-Final form : *#lˈindinə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 802:
+#lˈaktiːs# >>> *#lˈapt͡sj# ( GOLD : #lˈapt͡sj#) :
+l ˈa k t iː s 
+*#lˈaptiːs# | 109 : k > p / __ t
+*#lˈaptis# | 133 : [+syl] > [-long,-splng] 
+*#lˈapti# | 170 : s > ∅ / __ #
+Balkan Romance stage form : *#lˈapti#
+*#lˈaptji# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#lˈaptʲji# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lˈaptʲi# | 207 : j > ∅ / [+cons,+front] __
+*#lˈapt͡sʲi# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#lˈapt͡si# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#lˈapt͡si#
+*#lˈapt͡sj̊# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lˈapt͡sj# | 292 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#lˈapt͡sj#
+Final form : *#lˈapt͡sj#

@@ -1,14 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1148:
-#sˈarkinam# >>> *#sˈart͡ʃinə# ( GOLD : #sˈart͡ʃinə#) :
-s ˈa r k i n a m 
-*#sˈarkina# | 44 : m > ∅ / [-stres] __ #
-*#sˈarkena# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#sˈarkʲena# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#sˈarkʲena#
-*#sˈarkʲenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#sˈarc͡ɕenə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#sˈart͡ʃenə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#sˈart͡ʃenə#
-*#sˈart͡ʃinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#sˈart͡ʃinə#
-Final form : *#sˈart͡ʃinə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1148:
+#wersˈaː# >>> *#vərsˈa# ( GOLD : #vərsˈa#) :
+w e r s ˈaː 
+*#βersˈaː# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βersˈa# | 133 : [+syl] > [-long,-splng] 
+*#versˈa# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#versˈa#
+Common Romanian stage form : *#versˈa#
+*#vərsˈa# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+Old Romanian stage form : *#vərsˈa#
+Final form : *#vərsˈa#

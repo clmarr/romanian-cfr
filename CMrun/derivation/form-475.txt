@@ -1,20 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 475:
-#kooperiːmˈentum# >>> *#koperimˈɨnt# ( GOLD : #koperəmˈɨnt#) :
-k o o p e r iː m ˈe n t u m 
-*#kwoperiːmˈentum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kwoperiːmˈentu# | 44 : m > ∅ / [-stres] __ #
-*#kβoperiːmˈentu# | 100 : w > β / __ [-cons]
-*#kβoperiːmˈɛntu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kβoperimˈɛntu# | 135 : [+syl] > [-long,-splng] 
-*#koperimˈɛntu# | 163 : β > ∅ 
-Balkan Romance stage form : *#koperimˈɛntu#
-*#kopeɾimˈɛntu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kopeɾimˈentu# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#kopeɾimˈentu#
-*#kopeɾimˈəntu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#koperimˈəntu# | 265 : ɾ > r 
-*#koperimˈɨntu# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#koperimˈɨntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#koperimˈɨnt# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#koperimˈɨnt#
-Final form : *#koperimˈɨnt#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 475:
+#pˈoskam# >>> *#po̯ˈaskə# ( GOLD : #pˈuskə#) :
+p ˈo s k a m 
+*#pˈoska# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#pˈoska#
+*#pˈɔska# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pˈɔaska# | 214 : ∅ > a / [-tense] __
+*#pˈoˈaska# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#po̯ˈaska# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#po̯ˈaskə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#po̯ˈaskə#
+Old Romanian stage form : *#po̯ˈaskə#
+Final form : *#po̯ˈaskə#

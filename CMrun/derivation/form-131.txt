@@ -1,16 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 131:
-#fˈalkiːs# >>> *#fˈalt͡ʃj# ( GOLD : #fˈəlt͡ʃj#) :
-f ˈa l k iː s 
-*#fˈalkis# | 135 : [+syl] > [-long,-splng] 
-*#fˈalkʲis# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#fˈalkʲi# | 172 : s > ∅ / __ #
-Balkan Romance stage form : *#fˈalkʲi#
-*#fˈalkʲji# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#fˈalkʲi# | 209 : j > ∅ / [+cons,+front] __
-*#fˈalc͡ɕi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fˈalt͡ʃi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fˈalt͡ʃi#
-*#fˈalt͡ʃj̊# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fˈalt͡ʃj# | 294 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#fˈalt͡ʃj#
-Final form : *#fˈalt͡ʃj#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 131:
+#eːrˈikium# >>> *#arˈet͡s# ( GOLD : #arˈit͡ʃj#) :
+eː r ˈi k i u m 
+*#eːrˈikjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#aːrˈikjum# | 32 : eː > aː / # __ ( [+cons] )* [+hi]
+*#aːrˈikju# | 43 : m > ∅ / [-stres] __ #
+*#aːrˈikkju# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#aːrˈekkju# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#arˈekkju# | 133 : [+syl] > [-long,-splng] 
+*#arˈektʲu# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#arˈettʲu# | 142 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#arˈetʲu# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#arˈetʲu#
+*#aɾˈetʲu# | 171 : r > ɾ / __ [nnas,ncons]
+*#aɾˈet͡sʲu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#aɾˈet͡su# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#aɾˈet͡su#
+*#arˈet͡su# | 263 : ɾ > r 
+*#arˈet͡sw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#arˈet͡s# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#arˈet͡s#
+Final form : *#arˈet͡s#

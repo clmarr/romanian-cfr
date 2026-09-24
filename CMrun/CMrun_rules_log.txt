@@ -22,7 +22,7 @@ a w > o / [+cons] __ [+cons,+cont]
 k [+syl] p > p [+syl,+son] k/ [+lab] __
 p [+syl] k > k [+syl,+son] p/ s __ t
 w > ∅ / # a __ ( @ ) ( @ ) [+round]
-[+syl,+front,-hi,-lo,-stres] > ∅ / l __ w
+[+front,-hi,-lo,-stres] > ∅ / l __ w
 n > r / [+syl] __ [+stres] [-syl] ( [-syl] )* r
 i > a / [+stres,+hi,αlab] ( [-syl,αlab] )* __ [+cons,+son] [+syl,+hi] m #
 e > a / [+son] [+syl,+round] w __
@@ -39,8 +39,7 @@ d > m / [+syl,+lo] __ m
 d > ∅ / [+syl,+lo] __ [-syl]
 [+syl,-prim] > ∅ / # __ [+son] i
 h > ∅ 
-[+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
-[+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ #
+[+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
 {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
 m > ∅ / [-stres] __ #
 m > n / __ #
@@ -98,8 +97,7 @@ e > ∅ / [-round] t ˈoː r __ #
 [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
 [+syl,+lo] > [-lo,-front,+back,+round,+lab] / f __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
 p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
-w > β / __ [-cons]
-w > β / __ #
+w > β / __ ( [-cons] ( @ )* ) #
 [+syl] n > [+long] ∅/ # [+cons] __ [-son,+cont]
 [+syl] n > [+long] ∅/ [-cons] [+cons] __ [-son,+cont]
 [+syl] n > [+long] ∅/ p p __ [-son,+cont]
@@ -229,7 +227,7 @@ w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
 w ə > ∅ / [-cons,-syl] ˈa __
 l > ʎ / [-cont,-ant,-cor] __
 ə > e / [+cons,+front,+son] __
-ɾʲ > ɾ j / # ( ( [+cons] )* [-cons] ( [+cons] )* ) __ [-hi]
+ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
 ɾʲ > j ɾ 
 s [-cont,+front] > ʃ t
 [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
@@ -255,7 +253,7 @@ s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
 [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
 [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
 e > ∅ / # __ [-syl] [-cons]
-u > ∅ / # __ [+cons,-cor]
+u > ∅ / # __ [+cons,-cor,-front]
 j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
 e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
 e̯ > ∅ / [+lab] j __ [+syl,+lo] [+cons] [+cons,+son,-nas]

@@ -1,18 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 292:
-#ˌinɡrˌewikˈaː# >>> *#ɨnɡrikˈa# ( GOLD : #ɨnɡrekˈa#) :
-ˌi n ɡ r ˌe w i k ˈaː 
-*#inɡrewikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inɡreβikˈaː# | 100 : w > β / __ [-cons]
-*#enɡreβekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡreβekˈa# | 135 : [+syl] > [-long,-splng] 
-*#enɡreekˈa# | 163 : β > ∅ 
-Balkan Romance stage form : *#enɡreekˈa#
-*#enɡɾeekˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#enɡɾekˈa# | 224 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback] __
-Common Romanian stage form : *#enɡɾekˈa#
-*#inɡɾekˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inɡrekˈa# | 265 : ɾ > r 
-*#ɨnɡrekˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨnɡrikˈa# | 302 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Old Romanian stage form : *#ɨnɡrikˈa#
-Final form : *#ɨnɡrikˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 292:
+#sˌuːdˈoːrem# >>> *#sudo̯ˈare# ( GOLD : #sudo̯ˈare#) :
+s ˌuː d ˈoː r e m 
+*#suːdˈoːrem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#suːdˈoːre# | 43 : m > ∅ / [-stres] __ #
+*#sudˈore# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sudˈore#
+*#sudˈoɾe# | 171 : r > ɾ / __ [nnas,ncons]
+*#sudˈɔɾe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sudˈɔaɾe# | 214 : ∅ > a / [-tense] __
+*#sudˈoˈaɾe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#sudo̯ˈaɾe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#sudo̯ˈaɾe#
+*#sudo̯ˈare# | 263 : ɾ > r 
+Old Romanian stage form : *#sudo̯ˈare#
+Final form : *#sudo̯ˈare#

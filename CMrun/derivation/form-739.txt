@@ -1,18 +1,23 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 739:
-#rˈubeum# >>> *#rˈojb# ( GOLD : #rˈojb#) :
-r ˈu b e u m 
-*#rˈubjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#rˈubju# | 44 : m > ∅ / [-stres] __ #
-*#rˈubbju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#rˈubju# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#rˈujbu# | 159 : b j > j b / [+stres] __
-Balkan Romance stage form : *#rˈujbu#
-*#ɾˈujbu# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾˈujbu# | 174 : ∅ > r / # __ ɾ
-*#rɾˈojbu# | 238 : ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
-Common Romanian stage form : *#rɾˈojbu#
-*#rˈojbu# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rˈojbw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rˈojb# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#rˈojb#
-Final form : *#rˈojb#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 739:
+#kˌatˈellam# >>> *#kət͡se̯ˈa# ( GOLD : #kət͡se̯ˈa#) :
+k ˌa t ˈe l l a m 
+*#katˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#katˈella# | 43 : m > ∅ / [-stres] __ #
+*#katˈɛlla# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#katˈɛlla#
+*#katjˈɛlla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#katjˈella# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#katjˈɛlla# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#katjˈɛwa# | 202 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#katʲjˈɛwa# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#katʲˈɛwa# | 207 : j > ∅ / [+cons,+front] __
+*#katʲˈɛawa# | 214 : ∅ > a / [-tense] __
+*#katʲˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#katʲe̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kətʲe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kətʲe̯ˈa# | 226 : w ə > ∅ / [-cons,-syl] ˈa __
+*#kət͡sʲe̯ˈa# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#kət͡se̯ˈa# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kət͡se̯ˈa#
+Old Romanian stage form : *#kət͡se̯ˈa#
+Final form : *#kət͡se̯ˈa#

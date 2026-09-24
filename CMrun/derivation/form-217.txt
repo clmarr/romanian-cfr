@@ -1,15 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 217:
-#kˌerwˈiːkem# >>> *#t͡ʃerbˈit͡ʃe# ( GOLD : #t͡ʃerbˈit͡ʃe#) :
-k ˌe r w ˈiː k e m 
-*#kerwˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kerwˈiːke# | 44 : m > ∅ / [-stres] __ #
-*#kerβˈiːke# | 100 : w > β / __ [-cons]
-*#kerβˈike# | 135 : [+syl] > [-long,-splng] 
-*#kerbˈike# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-*#kʲerbˈikʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲerbˈikʲe#
-*#c͡ɕerbˈic͡ɕe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃerbˈit͡ʃe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃerbˈit͡ʃe#
-Old Romanian stage form : *#t͡ʃerbˈit͡ʃe#
-Final form : *#t͡ʃerbˈit͡ʃe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 217:
+#mˌustˈakea# >>> *#mustˈat͡sə# ( GOLD : #mustˈat͡sə#) :
+m ˌu s t ˈa k e a 
+*#mˌustˈakja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mustˈakja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#mustˈakkja# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#mustˈaktʲa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#mustˈattʲa# | 142 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#mustˈatʲa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#mustˈatʲa#
+*#mustˈatʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#mustˈat͡sʲə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mustˈat͡sə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mustˈat͡sə#
+Old Romanian stage form : *#mustˈat͡sə#
+Final form : *#mustˈat͡sə#

@@ -1,23 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 748:
-#wˌitˈellum# >>> *#vit͡sˈel# ( GOLD : #vit͡sˈel#) :
-w ˌi t ˈe l l u m 
-*#witˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#witˈellu# | 44 : m > ∅ / [-stres] __ #
-*#βitˈellu# | 100 : w > β / __ [-cons]
-*#βitˈɛllu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#βetˈɛllu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#vetˈɛllu# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vetˈɛllu#
-*#vetjˈɛllu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#vetjˈellu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vetjˈelu# | 207 : {l l;m m} > {l;m} 
-*#vetʲjˈelu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#vetʲˈelu# | 209 : j > ∅ / [+cons,+front] __
-*#vet͡sʲˈelu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vet͡sˈelu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vet͡sˈelu#
-*#vet͡sˈelw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vet͡sˈel# | 293 : w̥ > ∅ / [-syl] __ #
-*#vit͡sˈel# | 304 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Old Romanian stage form : *#vit͡sˈel#
-Final form : *#vit͡sˈel#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 748:
+#pˌekuwˈiːnam# >>> *#pəkˈujnə# ( GOLD : #pəkˈujnə#) :
+p ˌe k u w ˈiː n a m 
+*#pekuwˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#pekˈuwinam# | 29 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
+*#pekˈuwina# | 43 : m > ∅ / [-stres] __ #
+*#pekˈuβina# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#pekˈuβena# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#pekˈuena# | 161 : β > ∅ 
+*#pekˈujena# | 165 : ∅ > j / [+syl,+stres,αfront,αlo] __ e
+Balkan Romance stage form : *#pekˈujena#
+*#pekˈujenə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pekˈujenə#
+*#pəkˈujenə# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəkˈujinə# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+*#pəkˈuinə# | 285 : j > ∅ / __ [+syl,+front,+hi]
+*#pəkˈujnə# | 306 : i > j / [+syl] __
+Old Romanian stage form : *#pəkˈujnə#
+Final form : *#pəkˈujnə#

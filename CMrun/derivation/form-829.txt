@@ -1,8 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 829:
-#pˈartem# >>> *#pˈarte# ( GOLD : #pˈarte#) :
-p ˈa r t e m 
-*#pˈarte# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#pˈarte#
-Common Romanian stage form : *#pˈarte#
-Old Romanian stage form : *#pˈarte#
-Final form : *#pˈarte#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 829:
+#dˌeːsˈertum# >>> *#deʃˈert# ( GOLD : #deʃˈert#) :
+d ˌeː s ˈe r t u m 
+*#deːsˈertum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːsˈertu# | 43 : m > ∅ / [-stres] __ #
+*#deːsˈɛrtu# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#desˈɛrtu# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#desˈɛrtu#
+*#desjˈɛrtu# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#desjˈertu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#desʲjˈertu# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#desʲˈertu# | 207 : j > ∅ / [+cons,+front] __
+*#deɕˈertu# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#deʃˈertu# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#deʃˈertu#
+*#deʃˈertw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#deʃˈert# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#deʃˈert#
+Final form : *#deʃˈert#

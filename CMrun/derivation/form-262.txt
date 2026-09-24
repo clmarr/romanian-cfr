@@ -1,10 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 262:
-#ˌawskultˈaː# >>> *#askultˈa# ( GOLD : #askultˈa#) :
-ˌa w s k u l t ˈaː 
-*#awskultˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#askultˈaː# | 23 : w > ∅ / # a __ ( @ ) ( @ ) [+round]
-*#askultˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#askultˈa#
-Common Romanian stage form : *#askultˈa#
-Old Romanian stage form : *#askultˈa#
-Final form : *#askultˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 262:
+#ˈunɡulam# >>> *#ˈunɡje# ( GOLD : #ˈunɡje#) :
+ˈu n ɡ u l a m 
+*#ˈunɡula# | 43 : m > ∅ / [-stres] __ #
+*#ˈunɡla# | 54 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
+Balkan Romance stage form : *#ˈunɡla#
+*#ˈunɡlə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ˈunɡʎə# | 227 : l > ʎ / [-cont,-ant,-cor] __
+*#ˈunɡʎe# | 228 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#ˈunɡʎe#
+*#ˈunɡje# | 276 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#ˈunɡje#
+Final form : *#ˈunɡje#

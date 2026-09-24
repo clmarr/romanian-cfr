@@ -1,21 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 449:
-#kˌarnˈakeum# >>> *#kərnˈat͡s# ( GOLD : #kɨrnˈat͡s#) :
-k ˌa r n ˈa k e u m 
-*#kˌarnˈakjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#karnˈakjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#karnˈakju# | 44 : m > ∅ / [-stres] __ #
-*#karnˈakkju# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#karnˈaktʲu# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#karnˈattʲu# | 144 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#karnˈatʲu# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#karnˈatʲu#
-*#kaɾnˈatʲu# | 173 : r > ɾ / __ [nnas,ncons]
-*#kəɾnˈatʲu# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəɾnˈat͡sʲu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#kəɾnˈat͡su# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kəɾnˈat͡su#
-*#kərnˈat͡su# | 265 : ɾ > r 
-*#kərnˈat͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kərnˈat͡s# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kərnˈat͡s#
-Final form : *#kərnˈat͡s#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 449:
+#diskulkiˈaː# >>> *#deskult͡sˈa# ( GOLD : #deskult͡sˈa#) :
+d i s k u l k i ˈaː 
+*#diskulkjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#deskulkjˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#deskulkjˈa# | 133 : [+syl] > [-long,-splng] 
+*#deskultʲˈa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+Balkan Romance stage form : *#deskultʲˈa#
+*#deskult͡sʲˈa# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#deskult͡sˈa# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#deskult͡sˈa#
+Old Romanian stage form : *#deskult͡sˈa#
+Final form : *#deskult͡sˈa#

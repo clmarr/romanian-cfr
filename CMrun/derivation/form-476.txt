@@ -1,8 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 476:
-#kˈulmen# >>> *#kˈulme# ( GOLD : #kˈulme#) :
-k ˈu l m e n 
-*#kˈulme# | 89 : [+nas] > ∅ / @ [-cons] __ #
-Balkan Romance stage form : *#kˈulme#
-Common Romanian stage form : *#kˈulme#
-Old Romanian stage form : *#kˈulme#
-Final form : *#kˈulme#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 476:
+#wiːnˈaːkeum# >>> *#vinˈat͡s# ( GOLD : #vinˈat͡s#) :
+w iː n ˈaː k e u m 
+*#wiːnˈaːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#wiːnˈaːkju# | 43 : m > ∅ / [-stres] __ #
+*#βiːnˈaːkju# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βiːnˈaːkkju# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#βinˈakkju# | 133 : [+syl] > [-long,-splng] 
+*#βinˈaktʲu# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#βinˈattʲu# | 142 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#vinˈattʲu# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vinˈatʲu# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#vinˈatʲu#
+*#vinˈat͡sʲu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#vinˈat͡su# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#vinˈat͡su#
+*#vinˈat͡sw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vinˈat͡s# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vinˈat͡s#
+Final form : *#vinˈat͡s#

@@ -1,19 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 694:
-#ˌanimˈaːliam# >>> *#nemˈaje# ( GOLD : #nəmˈaje#) :
-ˌa n i m ˈaː l i a m 
-*#ˌanimˈaːljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#animˈaːljam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#nimˈaːljam# | 39 : [+syl,-prim] > ∅ / # __ [+son] i
-*#nimˈaːlja# | 44 : m > ∅ / [-stres] __ #
-*#nemˈaːlja# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#nemˈalja# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#nemˈalja#
-*#nemˈalʲja# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#nemˈalʲa# | 209 : j > ∅ / [+cons,+front] __
-*#nemˈaʎa# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#nemˈaʎə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#nemˈaʎe# | 230 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#nemˈaʎe#
-*#nemˈaje# | 278 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#nemˈaje#
-Final form : *#nemˈaje#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 694:
+#frˈaːɡum# >>> *#frˈaɡ# ( GOLD : #frˈaɡə#) :
+f r ˈaː ɡ u m 
+*#frˈaːɡu# | 43 : m > ∅ / [-stres] __ #
+*#frˈaɡu# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#frˈaɡu#
+*#fɾˈaɡu# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#fɾˈaɡu#
+*#frˈaɡu# | 263 : ɾ > r 
+*#frˈaɡw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frˈaɡ# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#frˈaɡ#
+Final form : *#frˈaɡ#

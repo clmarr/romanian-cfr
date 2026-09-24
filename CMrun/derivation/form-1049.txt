@@ -1,11 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1049:
-#stˈaː# >>> *#stˈa# ( GOLD : #stˈa#) :
-s t ˈaː 
-*#istˈaː# | 120 : ∅ > i / # __ s [+cons,-son]
-*#estˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#estˈa# | 135 : [+syl] > [-long,-splng] 
-*#stˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stˈa#
-Common Romanian stage form : *#stˈa#
-Old Romanian stage form : *#stˈa#
-Final form : *#stˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1049:
+#adpropiˈaː# >>> *#apropjˈa# ( GOLD : #apropjˈa#) :
+a d p r o p i ˈaː 
+*#adpropjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#apropjˈaː# | 38 : d > ∅ / [+syl,+lo] __ [-syl]
+*#aproppjˈaː# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#aproppjˈa# | 133 : [+syl] > [-long,-splng] 
+*#apropjˈa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#apropjˈa#
+*#apɾopjˈa# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#apɾopjˈa#
+*#apropjˈa# | 263 : ɾ > r 
+Old Romanian stage form : *#apropjˈa#
+Final form : *#apropjˈa#

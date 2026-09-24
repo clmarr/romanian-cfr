@@ -1,15 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1167:
-#seːminaːtˈuːram# >>> *#semɨnətˈurə# ( GOLD : #semənətˈurə#) :
-s eː m i n aː t ˈuː r a m 
-*#seːminaːtˈuːra# | 44 : m > ∅ / [-stres] __ #
-*#seːmenaːtˈuːra# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#semenatˈura# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#semenatˈura#
-*#semenatˈuɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#semenətˈuɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#semenətˈuɾə#
-*#semənətˈuɾə# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#semənətˈurə# | 265 : ɾ > r 
-*#semɨnətˈurə# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#semɨnətˈurə#
-Final form : *#semɨnətˈurə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1167:
+#pˈedikam# >>> *#pjˈedikə# ( GOLD : #pjˈedikə#) :
+p ˈe d i k a m 
+*#pˈedika# | 43 : m > ∅ / [-stres] __ #
+*#pˈɛdika# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛdeka# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛdeka#
+*#pjˈɛdeka# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈedeka# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛdeka# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛadeka# | 214 : ∅ > a / [-tense] __
+*#pjˈeˈadeka# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈadeka# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pje̯ˈadekə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pje̯ˈadekə#
+*#pjˈedekə# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈedikə# | 298 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
+Old Romanian stage form : *#pjˈedikə#
+Final form : *#pjˈedikə#

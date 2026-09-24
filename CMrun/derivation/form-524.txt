@@ -1,26 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 524:
-#dˈekstrae̯# >>> *#zˈestre# ( GOLD : #zˈestre#) :
-d ˈe k s t r a e̯ 
-*#dˈekstraj# | 11 : e̯ > j 
-*#dˈekstrɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ #
-*#dˈestrɛː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#dˈɛstrɛː# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɛstrɛ# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dˈɛstrɛ#
-*#dˈɛstɾɛ# | 173 : r > ɾ / __ [nnas,ncons]
-*#djˈɛstɾɛ# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#djˈestɾe# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#djˈɛstɾe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#dʲjˈɛstɾe# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dʲˈɛstɾe# | 209 : j > ∅ / [+cons,+front] __
-*#dʲˈɛastɾe# | 216 : ∅ > a / [-tense] __
-*#dʲˈeˈastɾe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dʲe̯ˈastɾe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#d͡zʲe̯ˈastɾe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ze̯ˈastɾe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ze̯ˈastɾe#
-*#d͡zˈestɾe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#d͡zˈestre# | 265 : ɾ > r 
-*#zˈestre# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#zˈestre#
-Final form : *#zˈestre#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 524:
+#nˈurum# >>> *#nˈor# ( GOLD : #nˈor#) :
+n ˈu r u m 
+*#nˈuru# | 43 : m > ∅ / [-stres] __ #
+*#nˈoru# | 49 : [+hi,+stres] > [-hi] / [+nas] __ r
+Balkan Romance stage form : *#nˈoru#
+*#nˈoɾu# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#nˈoɾu#
+*#nˈoru# | 263 : ɾ > r 
+*#nˈorw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nˈor# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#nˈor#
+Final form : *#nˈor#

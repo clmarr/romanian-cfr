@@ -1,14 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 478:
-#fontˈaːnam# >>> *#fɨntˈɨnə# ( GOLD : #fɨntˈɨnə#) :
-f o n t ˈaː n a m 
-*#fontˈaːna# | 44 : m > ∅ / [-stres] __ #
-*#fontˈana# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fontˈana#
-*#funtˈana# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#funtˈəna# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#funtˈənə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fɨntˈənə# | 236 : u > ɨ / [-son] __ n [-cont,-voi]
-Common Romanian stage form : *#fɨntˈənə#
-*#fɨntˈɨnə# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#fɨntˈɨnə#
-Final form : *#fɨntˈɨnə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 478:
+#koopertˈoːrium# >>> *#kopɨrtˈor# ( GOLD : #kərpətˈor#) :
+k o o p e r t ˈoː r i u m 
+*#kwopertˈoːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kwopertˈoːrju# | 43 : m > ∅ / [-stres] __ #
+*#kβopertˈoːrju# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#kβopertˈorju# | 133 : [+syl] > [-long,-splng] 
+*#kopertˈorju# | 161 : β > ∅ 
+Balkan Romance stage form : *#kopertˈorju#
+*#kopertˈoɾju# | 171 : r > ɾ / __ [nnas,ncons]
+*#kopertˈoɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kopertˈoɾʲu# | 207 : j > ∅ / [+cons,+front] __
+*#kopertˈojɾu# | 230 : ɾʲ > j ɾ 
+Common Romanian stage form : *#kopertˈojɾu#
+*#kopərtˈojɾu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#kopərtˈojru# | 263 : ɾ > r 
+*#kopɨrtˈojru# | 281 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
+*#kopɨrtˈojrw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kopɨrtˈojr# | 291 : w̥ > ∅ / [-syl] __ #
+*#kopɨrtˈor# | 297 : j > ∅ / __ r
+Old Romanian stage form : *#kopɨrtˈor#
+Final form : *#kopɨrtˈor#

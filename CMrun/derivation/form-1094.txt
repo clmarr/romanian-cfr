@@ -1,10 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1094:
-#kuːrˈaː# >>> *#kurˈa# ( GOLD : #kurˈa#) :
-k uː r ˈaː 
-*#kurˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kurˈa#
-*#kuɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#kuɾˈa#
-*#kurˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#kurˈa#
-Final form : *#kurˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1094:
+#ˌadwˈiks# >>> *#abˈi# ( GOLD : #abˈi#) :
+ˌa d w ˈi k s 
+*#adwˈiks# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#awwˈiks# | 35 : d > w / [+syl,+lo] __ w
+*#aββˈiks# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#aββˈips# | 110 : k > p / [+syl,+stres,αfront,αhi] __ s
+*#aββˈis# | 113 : p > ∅ / β [+syl,+front,+hi,-long] __
+*#aββˈiːs# | 128 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#aββˈis# | 133 : [+syl] > [-long,-splng] 
+*#aβbˈis# | 153 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#abˈis# | 161 : β > ∅ 
+*#abˈij# | 169 : s > j / [+stres] __ #
+Balkan Romance stage form : *#abˈij#
+Common Romanian stage form : *#abˈij#
+*#abˈi# | 237 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+Old Romanian stage form : *#abˈi#
+Final form : *#abˈi#

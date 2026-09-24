@@ -1,23 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 178:
-#sˈerram# >>> *#ʃˈarə# ( GOLD : #ʃˈarə#) :
-s ˈe r r a m 
-*#sˈerra# | 44 : m > ∅ / [-stres] __ #
-*#sˈɛrra# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#sˈɛrra#
-*#sˈɛrɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#sjˈɛrɾa# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#sjˈerɾa# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛrɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#sʲjˈɛrɾa# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#sʲˈɛrɾa# | 209 : j > ∅ / [+cons,+front] __
-*#ɕˈɛrɾa# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɕˈɛarɾa# | 216 : ∅ > a / [-tense] __
-*#ɕˈeˈarɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɕe̯ˈarɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ɕe̯ˈarɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ʃe̯ˈarɾə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃe̯ˈarɾə#
-*#ʃe̯ˈarə# | 244 : {ɾ;r} > {∅;∅} / r __
-*#ʃˈarə# | 251 : e̯ ˈa > ˈa / ʃ __
-Old Romanian stage form : *#ʃˈarə#
-Final form : *#ʃˈarə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 178:
+#sˌaɡittˈaː# >>> *#səd͡ʒetˈa# ( GOLD : #səd͡ʒetˈa#) :
+s ˌa ɡ i t t ˈaː 
+*#saɡittˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#saɡettˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#saɡettˈa# | 133 : [+syl] > [-long,-splng] 
+*#saɡetˈa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#saɡʲetˈa# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#saɡʲetˈa#
+*#səɡʲetˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#səɟ͡ʑetˈa# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#səd͡ʒetˈa# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#səd͡ʒetˈa#
+Old Romanian stage form : *#səd͡ʒetˈa#
+Final form : *#səd͡ʒetˈa#

@@ -1,11 +1,23 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 763:
-#pˈasserem# >>> *#pˈasere# ( GOLD : #pˈasəre#) :
-p ˈa s s e r e m 
-*#pˈassere# | 44 : m > ∅ / [-stres] __ #
-*#pˈasere# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#pˈasere#
-*#pˈaseɾe# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#pˈaseɾe#
-*#pˈasere# | 265 : ɾ > r 
-Old Romanian stage form : *#pˈasere#
-Final form : *#pˈasere#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 763:
+#wˌitˈellum# >>> *#vit͡sˈel# ( GOLD : #vit͡sˈel#) :
+w ˌi t ˈe l l u m 
+*#witˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#witˈellu# | 43 : m > ∅ / [-stres] __ #
+*#βitˈellu# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βitˈɛllu# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βetˈɛllu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#vetˈɛllu# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vetˈɛllu#
+*#vetjˈɛllu# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#vetjˈellu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vetjˈelu# | 205 : {l l;m m} > {l;m} 
+*#vetʲjˈelu# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vetʲˈelu# | 207 : j > ∅ / [+cons,+front] __
+*#vet͡sʲˈelu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#vet͡sˈelu# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#vet͡sˈelu#
+*#vet͡sˈelw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vet͡sˈel# | 291 : w̥ > ∅ / [-syl] __ #
+*#vit͡sˈel# | 302 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
+Old Romanian stage form : *#vit͡sˈel#
+Final form : *#vit͡sˈel#

@@ -1,12 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 826:
-#nˌumerˈaː# >>> *#numərˈa# ( GOLD : #numərˈa#) :
-n ˌu m e r ˈaː 
-*#numerˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#numerˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#numerˈa#
-*#numeɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#numeɾˈa#
-*#numəɾˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#numərˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#numərˈa#
-Final form : *#numərˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 826:
+#ˌekskˈurtum# >>> *#skˈurt# ( GOLD : #skˈurt#) :
+ˌe k s k ˈu r t u m 
+*#ekskˈurtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekskˈurtu# | 43 : m > ∅ / [-stres] __ #
+*#eskˈurtu# | 105 : [-cont] > ∅ / __ [+strid] [+cons]
+*#skˈurtu# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skˈurtu#
+Common Romanian stage form : *#skˈurtu#
+*#skˈurtw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#skˈurt# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#skˈurt#
+Final form : *#skˈurt#

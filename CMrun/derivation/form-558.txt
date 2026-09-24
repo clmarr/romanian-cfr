@@ -1,18 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 558:
-#dˈiem# >>> *#zˈi# ( GOLD : #zˈi#) :
-d ˈi e m 
-*#dˈie# | 44 : m > ∅ / [-stres] __ #
-*#dˈii# | 124 : [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
-*#dˈi# | 125 : [+syl,αhi,βlo,ɣfront,ðback] > ∅ / [αhi,βlo,ɣfront,ðback,+stres] __
-*#dˈiː# | 130 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#dˈi# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dˈi#
-*#djˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#dʲjˈi# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dʲˈi# | 209 : j > ∅ / [+cons,+front] __
-*#d͡zʲˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡zˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡zˈi#
-*#zˈi# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#zˈi#
-Final form : *#zˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 558:
+#nˈiwem# >>> *#ne̯ˈa# ( GOLD : #ne̯ˈa#) :
+n ˈi w e m 
+*#nˈiwe# | 43 : m > ∅ / [-stres] __ #
+*#nˈiβe# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#nˈeβe# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#nˈee# | 161 : β > ∅ 
+Balkan Romance stage form : *#nˈee#
+*#nˈɛe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈɛ# | 200 : e > ∅ / ˈɛ __
+*#nˈɛa# | 214 : ∅ > a / [-tense] __
+*#nˈeˈa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ne̯ˈa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ne̯ˈa#
+Old Romanian stage form : *#ne̯ˈa#
+Final form : *#ne̯ˈa#

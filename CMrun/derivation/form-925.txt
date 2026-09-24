@@ -1,20 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 925:
-#dˈeum# >>> *#zˈew# ( GOLD : #zˈew#) :
-d ˈe u m 
-*#dˈeu# | 44 : m > ∅ / [-stres] __ #
-*#dˈew# | 46 : [+syl,+round] > w / [+syl,+stres] __ #
-*#dˈeβ# | 101 : w > β / __ #
-*#dˈɛβ# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɛw̥# | 161 : β > w̥ / __ #
-Balkan Romance stage form : *#dˈɛw̥#
-*#djˈɛw̥# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#djˈew̥# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dʲjˈew̥# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dʲˈew̥# | 209 : j > ∅ / [+cons,+front] __
-*#d͡zʲˈew̥# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡zˈew̥# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡zˈew̥#
-*#zˈew̥# | 284 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#zˈew# | 294 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#zˈew#
-Final form : *#zˈew#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 925:
+#wiːkiːnitˈaːtem# >>> *#vet͡ʃinətˈate# ( GOLD : #vet͡ʃinətˈate#) :
+w iː k iː n i t ˈaː t e m 
+*#wiːkiːnitˈaːte# | 43 : m > ∅ / [-stres] __ #
+*#βiːkiːnitˈaːte# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βiːkiːnetˈaːte# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#βikinetˈate# | 133 : [+syl] > [-long,-splng] 
+*#vikinetˈate# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vikʲinetˈate# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#vikʲinetˈate#
+*#vekʲinetˈate# | 203 : i > e / [+cons] __ [+cons,+front]
+*#vekʲjinetˈate# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#vekʲinetˈate# | 207 : j > ∅ / [+cons,+front] __
+*#vec͡ɕinetˈate# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#vet͡ʃinetˈate# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#vet͡ʃinetˈate#
+*#vet͡ʃinətˈate# | 279 : e > ə / [-back] n __ t
+Old Romanian stage form : *#vet͡ʃinətˈate#
+Final form : *#vet͡ʃinətˈate#

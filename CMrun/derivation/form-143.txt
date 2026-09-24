@@ -1,20 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 143:
-#ɡˈyːrum# >>> *#ʒˈur# ( GOLD : #ʒˈur#) :
-ɡ ˈyː r u m 
-*#ɡjˈyːrum# | 17 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
-*#ɡjˈuːrum# | 19 : [+front,+round] > [-front,+back] 
-*#ɡjˈuːru# | 44 : m > ∅ / [-stres] __ #
-*#ɡjˈuru# | 135 : [+syl] > [-long,-splng] 
-*#dʲˈuru# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡʲˈuru# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-Balkan Romance stage form : *#ɡʲˈuru#
-*#ɡʲˈuɾu# | 173 : r > ɾ / __ [nnas,ncons]
-*#ɟ͡ʑˈuɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈuɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒˈuɾu#
-*#d͡ʒˈuru# | 265 : ɾ > r 
-*#ʒˈuru# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒˈurw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒˈur# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ʒˈur#
-Final form : *#ʒˈur#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 143:
+#ɡlˈandulam# >>> *#ɡjˈindurə# ( GOLD : #ɡjˈindurə#) :
+ɡ l ˈa n d u l a m 
+*#ɡlˈandula# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ɡlˈandula#
+*#ɡlˈanduɾa# | 190 : l > ɾ / [+syl] __ [+syl]
+*#ɡlˈənduɾa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ɡlˈənduɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɡʎˈənduɾə# | 227 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#ɡʎˈənduɾə#
+*#ɡʎˈəndurə# | 263 : ɾ > r 
+*#ɡʎˈɨndurə# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#ɡjˈɨndurə# | 276 : [+son,+cons,+front] > j 
+*#ɡjˈindurə# | 284 : [+syl,+hi,-front,-back] > [+front] / j __
+*#ɡˈindurə# | 285 : j > ∅ / __ [+syl,+front,+hi]
+*#ɡjˈindurə# | 286 : ∅ > j / [-cont,+back] __ [+syl,+front,+hi]
+Old Romanian stage form : *#ɡjˈindurə#
+Final form : *#ɡjˈindurə#

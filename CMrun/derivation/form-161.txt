@@ -1,15 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 161:
-#pˌaːwˈoːnem# >>> *#pəˈun# ( GOLD : #pəˈun#) :
-p ˌaː w ˈoː n e m 
-*#paːwˈoːnem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#paːwˈoːne# | 44 : m > ∅ / [-stres] __ #
-*#paːβˈoːne# | 100 : w > β / __ [-cons]
-*#paβˈone# | 135 : [+syl] > [-long,-splng] 
-*#paˈone# | 163 : β > ∅ 
-Balkan Romance stage form : *#paˈone#
-*#paˈune# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#pəˈune# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pəˈun# | 237 : e > ∅ / [+syl] [+prim] [+cons] __ #
-Common Romanian stage form : *#pəˈun#
-Old Romanian stage form : *#pəˈun#
-Final form : *#pəˈun#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 161:
+#iˌuːdikˈaːtam# >>> *#ʒudekˈatə# ( GOLD : #ʒudekˈatə#) :
+i ˌuː d i k ˈaː t a m 
+*#jˌuːdikˈaːtam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#juːdikˈaːtam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#juːdikˈaːta# | 43 : m > ∅ / [-stres] __ #
+*#djuːdikˈaːta# | 103 : j > d j / # __ [+syl] [+cons]
+*#djuːdekˈaːta# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#djudekˈata# | 133 : [+syl] > [-long,-splng] 
+*#dʲudekˈata# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲudekˈata# | 144 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#ɡʲudekˈata#
+*#ɡʲudekˈatə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɟ͡ʑudekˈatə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒudekˈatə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒudekˈatə#
+*#ʒudekˈatə# | 283 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ʒudekˈatə#
+Final form : *#ʒudekˈatə#

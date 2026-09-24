@@ -1,12 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 818:
-#ˌimpˌutˈaː# >>> *#ɨmputˈa# ( GOLD : #ɨmputˈa#) :
-ˌi m p ˌu t ˈaː 
-*#imputˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#emputˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#emputˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#emputˈa#
-Common Romanian stage form : *#emputˈa#
-*#imputˈa# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#ɨmputˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨmputˈa#
-Final form : *#ɨmputˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 818:
+#lˌumbrˈiːkum# >>> *#lumbrˈik# ( GOLD : #limbrˈik#) :
+l ˌu m b r ˈiː k u m 
+*#lumbrˈiːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#lumbrˈiːku# | 43 : m > ∅ / [-stres] __ #
+*#lumbrˈiku# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lumbrˈiku#
+*#lumbɾˈiku# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#lumbɾˈiku#
+*#lumbrˈiku# | 263 : ɾ > r 
+*#lumbrˈikw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lumbrˈik# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#lumbrˈik#
+Final form : *#lumbrˈik#

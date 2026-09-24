@@ -1,16 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1099:
-#ekspulwerˈaː# >>> *#spulberˈa# ( GOLD : #spulberˈa#) :
-e k s p u l w e r ˈaː 
-*#ekspulβerˈaː# | 100 : w > β / __ [-cons]
-*#espulβerˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espulβerˈa# | 135 : [+syl] > [-long,-splng] 
-*#spulβerˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#spulberˈa# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#spulberˈa#
-*#spulbeɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#spulbeɾˈa#
-*#spulbəɾˈa# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#spulbərˈa# | 265 : ɾ > r 
-*#spulberˈa# | 268 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / [+syl,+round,+hi] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
-Old Romanian stage form : *#spulberˈa#
-Final form : *#spulberˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1099:
+#inkˈipe# >>> *#ɨnt͡ʃˈepe# ( GOLD : #ɨnt͡ʃˈepe#) :
+i n k ˈi p e 
+*#enkˈepe# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkʲˈepe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#enkʲˈepe#
+*#enkʲˈɛpe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#enkʲˈɛape# | 214 : ∅ > a / [-tense] __
+*#enkʲˈeˈape# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#enkʲe̯ˈape# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#enc͡ɕe̯ˈape# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ent͡ʃe̯ˈape# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ent͡ʃe̯ˈape#
+*#int͡ʃe̯ˈape# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#int͡ʃˈepe# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#ɨnt͡ʃˈepe# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnt͡ʃˈepe#
+Final form : *#ɨnt͡ʃˈepe#

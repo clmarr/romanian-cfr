@@ -1,14 +1,10 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1395:
-#pˌortˈaːbat# >>> *#purtˈa# ( GOLD : #purtˈa#) :
-p ˌo r t ˈaː b a t 
-*#portˈaːbat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#portˈaːba# | 88 : [+cons,-cont] > ∅ / __ #
-*#portˈaːβa# | 132 : b > β / [-cons] __ [+cont]
-*#portˈaβa# | 135 : [+syl] > [-long,-splng] 
-*#portˈaa# | 163 : β > ∅ 
-Balkan Romance stage form : *#portˈaa#
-*#purtˈaa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purtˈa# | 222 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
-Common Romanian stage form : *#purtˈa#
-Old Romanian stage form : *#purtˈa#
-Final form : *#purtˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1395:
+#lˈupiː# >>> *#lˈupj# ( GOLD : #lˈupj#) :
+l ˈu p iː 
+*#lˈupi# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lˈupi#
+Common Romanian stage form : *#lˈupi#
+*#lˈupj̊# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lˈupj# | 292 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#lˈupj#
+Final form : *#lˈupj#

@@ -1,13 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 565:
-#domˈinikam# >>> *#dumˈinikə# ( GOLD : #dumˈinikə#) :
-d o m ˈi n i k a m 
-*#domˈinika# | 44 : m > ∅ / [-stres] __ #
-*#domˈeneka# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#domˈeneka#
-*#dumˈeneka# | 187 : o > u / __ [+lab,+cont,+cons]
-*#dumˈenekə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#dumˈenekə#
-*#dumˈinekə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#dumˈinikə# | 300 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-Old Romanian stage form : *#dumˈinikə#
-Final form : *#dumˈinikə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 565:
+#wˈentum# >>> *#vˈɨnt# ( GOLD : #vˈɨnt#) :
+w ˈe n t u m 
+*#wˈentu# | 43 : m > ∅ / [-stres] __ #
+*#βˈentu# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈɛntu# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛntu# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛntu#
+*#vˈentu# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#vˈentu#
+*#vˈəntu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈɨntu# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#vˈɨntw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈɨnt# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈɨnt#
+Final form : *#vˈɨnt#

@@ -1,16 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 795:
-#kˌawˈoːnem# >>> *#ɡəˈun# ( GOLD : #ɡəˈun#) :
-k ˌa w ˈoː n e m 
-*#kawˈoːnem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kawˈoːne# | 44 : m > ∅ / [-stres] __ #
-*#kaβˈoːne# | 100 : w > β / __ [-cons]
-*#kaβˈone# | 135 : [+syl] > [-long,-splng] 
-*#ɡaβˈone# | 158 : k > ɡ / # ( s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son] ( j ) ) [-prim] )* #
-*#ɡaˈone# | 163 : β > ∅ 
-Balkan Romance stage form : *#ɡaˈone#
-*#ɡaˈune# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ɡəˈune# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɡəˈun# | 237 : e > ∅ / [+syl] [+prim] [+cons] __ #
-Common Romanian stage form : *#ɡəˈun#
-Old Romanian stage form : *#ɡəˈun#
-Final form : *#ɡəˈun#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 795:
+#pˌerwˌiɡilˈaː# >>> *#priveɡe̯ˈa# ( GOLD : #priveɡe̯ˈa#) :
+p ˌe r w ˌi ɡ i l ˈaː 
+*#perwiɡilˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#perwiɡlˈaː# | 60 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
+*#prewiɡlˈaː# | 79 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
+*#preβiɡlˈaː# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#preβeɡlˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#preβeɡlˈa# | 133 : [+syl] > [-long,-splng] 
+*#preveɡlˈa# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#preveɡlˈa#
+*#pɾeveɡlˈa# | 171 : r > ɾ / __ [nnas,ncons]
+*#pɾeveɡʎˈa# | 227 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#pɾeveɡʎˈa#
+*#preveɡʎˈa# | 263 : ɾ > r 
+*#preveɡjˈa# | 276 : [+son,+cons,+front] > j 
+*#priveɡjˈa# | 300 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+*#priveɡe̯ˈa# | 304 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
+Old Romanian stage form : *#priveɡe̯ˈa#
+Final form : *#priveɡe̯ˈa#

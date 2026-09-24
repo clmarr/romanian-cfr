@@ -1,18 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 791:
-#sˌerpˈentiam# >>> *#serpˈɨnt͡sə# ( GOLD : #ʃerpˈɨnt͡sə#) :
-s ˌe r p ˈe n t i a m 
-*#sˌerpˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#serpˈentjam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#serpˈentja# | 44 : m > ∅ / [-stres] __ #
-*#serpˈɛntja# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#serpˈɛntʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#serpˈɛntʲa#
-*#serpˈentʲa# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#serpˈentʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#serpˈent͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#serpˈent͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#serpˈent͡sə#
-*#serpˈənt͡sə# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#serpˈɨnt͡sə# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-Old Romanian stage form : *#serpˈɨnt͡sə#
-Final form : *#serpˈɨnt͡sə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 791:
+#mˈerulam# >>> *#mjˈerlə# ( GOLD : #mjˈerlə#) :
+m ˈe r u l a m 
+*#mˈerula# | 43 : m > ∅ / [-stres] __ #
+*#mˈerla# | 66 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#mˈɛrla# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛrla#
+*#mjˈɛrla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈerla# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrla# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈerla# | 213 : [-tense] > [+tense,-cons,-lat,+cont,0delrel] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
+*#mjˈerlə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mjˈerlə#
+Old Romanian stage form : *#mjˈerlə#
+Final form : *#mjˈerlə#

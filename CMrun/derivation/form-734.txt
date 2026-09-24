@@ -1,19 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 734:
-#pˌekuwˈiːnam# >>> *#pəkˈujnə# ( GOLD : #pəkˈujnə#) :
-p ˌe k u w ˈiː n a m 
-*#pekuwˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pekˈuwinam# | 29 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#pekˈuwina# | 44 : m > ∅ / [-stres] __ #
-*#pekˈuβina# | 100 : w > β / __ [-cons]
-*#pekˈuβena# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#pekˈuena# | 163 : β > ∅ 
-*#pekˈujena# | 167 : ∅ > j / [+syl,+stres,αfront,αlo] __ e
-Balkan Romance stage form : *#pekˈujena#
-*#pekˈujenə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pekˈujenə#
-*#pəkˈujenə# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#pəkˈujinə# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#pəkˈuinə# | 287 : j > ∅ / __ [+syl,+front,+hi]
-*#pəkˈujnə# | 308 : i > j / [+syl] __
-Old Romanian stage form : *#pəkˈujnə#
-Final form : *#pəkˈujnə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 734:
+#bˈowum# >>> *#bˈow# ( GOLD : #bˈow#) :
+b ˈo w u m 
+*#bˈowu# | 43 : m > ∅ / [-stres] __ #
+*#bˈoβu# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#bˈou# | 161 : β > ∅ 
+Balkan Romance stage form : *#bˈou#
+*#bˈow# | 191 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Common Romanian stage form : *#bˈow#
+Old Romanian stage form : *#bˈow#
+Final form : *#bˈow#

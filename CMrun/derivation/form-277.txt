@@ -1,20 +1,10 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 277:
-#ˌinɡlˌuttˈiː# >>> *#ɨnɡjut͡sˈi# ( GOLD : #ɨnɡjit͡sˈi#) :
-ˌi n ɡ l ˌu t t ˈiː 
-*#inɡluttˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɡluttˈiː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡluttˈi# | 135 : [+syl] > [-long,-splng] 
-*#enɡlutˈi# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#enɡlutˈi#
-*#enɡlutjˈi# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#enɡlutʲjˈi# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#enɡlutʲˈi# | 209 : j > ∅ / [+cons,+front] __
-*#enɡʎutʲˈi# | 229 : l > ʎ / [-cont,-ant,-cor] __
-*#enɡʎut͡sʲˈi# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#enɡʎut͡sˈi# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#enɡʎut͡sˈi#
-*#inɡʎut͡sˈi# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inɡjut͡sˈi# | 278 : [+son,+cons,+front] > j 
-*#ɨnɡjut͡sˈi# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnɡjut͡sˈi#
-Final form : *#ɨnɡjut͡sˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 277:
+#sˌufflˈaː# >>> *#suflˈa# ( GOLD : #suflˈa#) :
+s ˌu f f l ˈaː 
+*#sufflˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#sufflˈa# | 133 : [+syl] > [-long,-splng] 
+*#suflˈa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#suflˈa#
+Common Romanian stage form : *#suflˈa#
+Old Romanian stage form : *#suflˈa#
+Final form : *#suflˈa#

@@ -1,10 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 160:
-#mikstikˈaː# >>> *#mestekˈa# ( GOLD : #mestekˈa#) :
-m i k s t i k ˈaː 
-*#mistikˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#mestekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#mestekˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mestekˈa#
-Common Romanian stage form : *#mestekˈa#
-Old Romanian stage form : *#mestekˈa#
-Final form : *#mestekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 160:
+#ˌinwˌitiˈaː# >>> *#ɨnvət͡sˈa# ( GOLD : #ɨnvət͡sˈa#) :
+ˌi n w ˌi t i ˈaː 
+*#ˌinwˌitjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#inwitjˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inβitjˈaː# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#inβittjˈaː# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#enβettjˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enβettjˈa# | 133 : [+syl] > [-long,-splng] 
+*#enβettʲˈa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#envettʲˈa# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#envetʲˈa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#envetʲˈa#
+*#envet͡sʲˈa# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#envet͡sˈa# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#envet͡sˈa#
+*#envət͡sˈa# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#invət͡sˈa# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnvət͡sˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnvət͡sˈa#
+Final form : *#ɨnvət͡sˈa#

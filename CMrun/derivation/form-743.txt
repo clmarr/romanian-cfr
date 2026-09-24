@@ -1,17 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 743:
-#tertˈiːwum# >>> *#tert͡sˈiw# ( GOLD : #tert͡sˈiw#) :
-t e r t ˈiː w u m 
-*#tertˈiːwu# | 44 : m > ∅ / [-stres] __ #
-*#tertˈiːβu# | 100 : w > β / __ [-cons]
-*#tertˈiβu# | 135 : [+syl] > [-long,-splng] 
-*#tertˈiu# | 163 : β > ∅ 
-Balkan Romance stage form : *#tertˈiu#
-*#tertˈiw# | 193 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-*#tertjˈiw# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#tertʲjˈiw# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tertʲˈiw# | 209 : j > ∅ / [+cons,+front] __
-*#tert͡sʲˈiw# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#tert͡sˈiw# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tert͡sˈiw#
-Old Romanian stage form : *#tert͡sˈiw#
-Final form : *#tert͡sˈiw#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 743:
+#iˌuːnˈiːkem# >>> *#ʒunˈint͡ʃe# ( GOLD : #ʒunˈint͡ʃe#) :
+i ˌuː n ˈiː k e m 
+*#jˌuːnˈiːkem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#juːnˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#juːnˈiːke# | 43 : m > ∅ / [-stres] __ #
+*#djuːnˈiːke# | 103 : j > d j / # __ [+syl] [+cons]
+*#djunˈike# | 133 : [+syl] > [-long,-splng] 
+*#dʲunˈike# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲunˈike# | 144 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲunˈikʲe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ɡʲunˈikʲe#
+*#ɟ͡ʑunˈic͡ɕe# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒunˈit͡ʃe# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒunˈit͡ʃe#
+*#d͡ʒunˈint͡ʃe# | 238 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#ʒunˈint͡ʃe# | 283 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ʒunˈint͡ʃe#
+Final form : *#ʒunˈint͡ʃe#

@@ -1,14 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1103:
-#ekstrikˈaː# >>> *#strikˈa# ( GOLD : #strikˈa#) :
-e k s t r i k ˈaː 
-*#estrikˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estrekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrekˈa# | 135 : [+syl] > [-long,-splng] 
-*#strekˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strekˈa#
-*#stɾekˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#stɾekˈa#
-*#strekˈa# | 265 : ɾ > r 
-*#strikˈa# | 302 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Old Romanian stage form : *#strikˈa#
-Final form : *#strikˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1103:
+#kwˈoːmoːdo# >>> *#kˈomud# ( GOLD : #kˈum#) :
+k w ˈoː m oː d o 
+*#kβˈoːmoːdo# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#kβˈomodo# | 133 : [+syl] > [-long,-splng] 
+*#kˈomodo# | 161 : β > ∅ 
+Balkan Romance stage form : *#kˈomodo#
+*#kˈomudu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#kˈomudu#
+*#kˈomudw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈomud# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kˈomud#
+Final form : *#kˈomud#

@@ -1,15 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 958:
-#wˈersum# >>> *#vjˈers# ( GOLD : #vjˈers#) :
-w ˈe r s u m 
-*#wˈersu# | 44 : m > ∅ / [-stres] __ #
-*#βˈersu# | 100 : w > β / __ [-cons]
-*#βˈɛrsu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛrsu# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vˈɛrsu#
-*#vjˈɛrsu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#vjˈersu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#vjˈersu#
-*#vjˈersw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vjˈers# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vjˈers#
-Final form : *#vjˈers#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 958:
+#pˈaskʰae̯# >>> *#pˈaʃte# ( GOLD : #pˈaʃte#) :
+p ˈa s kʰ a e̯ 
+*#pˈaskʰaj# | 11 : e̯ > j 
+*#pˈaskaj# | 14 : [+cons,+sg] > [-sg] 
+*#pˈaskɛː# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#pˈaskɛ# | 133 : [+syl] > [-long,-splng] 
+*#pˈaskʲɛ# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#pˈaskʲɛ#
+*#pˈaskʲe# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˈaʃte# | 231 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#pˈaʃte#
+Old Romanian stage form : *#pˈaʃte#
+Final form : *#pˈaʃte#

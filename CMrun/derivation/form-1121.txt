@@ -1,15 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1121:
-#rˈoːde# >>> *#ro̯ˈade# ( GOLD : #ro̯ˈade#) :
-r ˈoː d e 
-*#rˈode# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rˈode#
-*#ɾˈode# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾˈode# | 174 : ∅ > r / # __ ɾ
-*#rɾˈɔde# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#rɾˈɔade# | 216 : ∅ > a / [-tense] __
-*#rɾˈoˈade# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#rɾo̯ˈade# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#rɾo̯ˈade#
-*#ro̯ˈade# | 244 : {ɾ;r} > {∅;∅} / r __
-Old Romanian stage form : *#ro̯ˈade#
-Final form : *#ro̯ˈade#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1121:
+#ekspulwerˈaː# >>> *#spulberˈa# ( GOLD : #spulberˈa#) :
+e k s p u l w e r ˈaː 
+*#ekspulβerˈaː# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#espulβerˈaː# | 105 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espulβerˈa# | 133 : [+syl] > [-long,-splng] 
+*#spulβerˈa# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#spulberˈa# | 153 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+Balkan Romance stage form : *#spulberˈa#
+*#spulbeɾˈa# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#spulbeɾˈa#
+*#spulbəɾˈa# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#spulbərˈa# | 263 : ɾ > r 
+*#spulberˈa# | 266 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / [+syl,+round,+hi] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
+Old Romanian stage form : *#spulberˈa#
+Final form : *#spulberˈa#

@@ -1,9 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1086:
-#abskˈonde# >>> *#askˈunde# ( GOLD : #askˈunde#) :
-a b s k ˈo n d e 
-*#askˈonde# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-Balkan Romance stage form : *#askˈonde#
-*#askˈunde# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#askˈunde#
-Old Romanian stage form : *#askˈunde#
-Final form : *#askˈunde#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1086:
+#ˌinɡannˈaː# >>> *#ɨnɡɨnˈa# ( GOLD : #ɨnɡɨnˈa#) :
+ˌi n ɡ a n n ˈaː 
+*#inɡannˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enɡannˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɡannˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enɡannˈa#
+*#enɡənnˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#enɡənnˈa#
+*#inɡənnˈa# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#inɡənˈa# | 260 : n n > n 
+*#inɡɨnˈa# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#ɨnɡɨnˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnɡɨnˈa#
+Final form : *#ɨnɡɨnˈa#

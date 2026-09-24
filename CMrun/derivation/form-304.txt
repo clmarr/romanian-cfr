@@ -1,11 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 304:
-#dˌormiːtˈaː# >>> *#dormitˈa# ( GOLD : #dormitˈa#) :
-d ˌo r m iː t ˈaː 
-*#dormiːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#dormitˈa# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dormitˈa#
-*#doɾmitˈa# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#doɾmitˈa#
-*#dormitˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#dormitˈa#
-Final form : *#dormitˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 304:
+#wˈiːwe# >>> *#vˈie# ( GOLD : #vˈie#) :
+w ˈiː w e 
+*#βˈiːβe# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈiβe# | 133 : [+syl] > [-long,-splng] 
+*#vˈiβe# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vˈie# | 161 : β > ∅ 
+*#vˈije# | 164 : ∅ > j / ˈi __ [+syl,-hi]
+Balkan Romance stage form : *#vˈije#
+Common Romanian stage form : *#vˈije#
+*#vˈie# | 237 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+Old Romanian stage form : *#vˈie#
+Final form : *#vˈie#

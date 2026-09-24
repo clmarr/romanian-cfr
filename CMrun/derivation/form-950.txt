@@ -1,16 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 950:
-#bˈuːkinum# >>> *#bˈut͡ʃin# ( GOLD : #bˈut͡ʃin#) :
-b ˈuː k i n u m 
-*#bˈuːkinu# | 44 : m > ∅ / [-stres] __ #
-*#bˈuːkenu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#bˈukenu# | 135 : [+syl] > [-long,-splng] 
-*#bˈukʲenu# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#bˈukʲenu#
-*#bˈuc͡ɕenu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#bˈut͡ʃenu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#bˈut͡ʃenu#
-*#bˈut͡ʃinu# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#bˈut͡ʃinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bˈut͡ʃin# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#bˈut͡ʃin#
-Final form : *#bˈut͡ʃin#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 950:
+#oːraːtiˈoːnem# >>> *#urət͡ʃˈune# ( GOLD : #urət͡ʃˈune#) :
+oː r aː t i ˈoː n e m 
+*#oːraːtjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#oːraːtjˈoːne# | 43 : m > ∅ / [-stres] __ #
+*#oːraːttjˈoːne# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#orattjˈone# | 133 : [+syl] > [-long,-splng] 
+*#orattʲˈone# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#oratkʲˈone# | 144 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#orakʲˈone# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#orakʲˈone#
+*#oɾakʲˈone# | 171 : r > ɾ / __ [nnas,ncons]
+*#uɾakʲˈone# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#uɾakʲˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#uɾəkʲˈune# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#uɾəc͡ɕˈune# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#uɾət͡ʃˈune# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#uɾət͡ʃˈune#
+*#urət͡ʃˈune# | 263 : ɾ > r 
+Old Romanian stage form : *#urət͡ʃˈune#
+Final form : *#urət͡ʃˈune#

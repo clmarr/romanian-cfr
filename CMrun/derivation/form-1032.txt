@@ -1,13 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1032:
-#kadˈeː# >>> *#kəde̯ˈa# ( GOLD : #kəde̯ˈa#) :
-k a d ˈeː 
-*#kadˈe# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kadˈe#
-*#kadˈɛ# | 201 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#kadˈɛa# | 216 : ∅ > a / [-tense] __
-*#kadˈeˈa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kade̯ˈa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kəde̯ˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kəde̯ˈa#
-Old Romanian stage form : *#kəde̯ˈa#
-Final form : *#kəde̯ˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1032:
+#nˈowum# >>> *#nˈow# ( GOLD : #nˈow#) :
+n ˈo w u m 
+*#nˈowu# | 43 : m > ∅ / [-stres] __ #
+*#nˈoβu# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#nˈou# | 161 : β > ∅ 
+Balkan Romance stage form : *#nˈou#
+*#nˈow# | 191 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Common Romanian stage form : *#nˈow#
+Old Romanian stage form : *#nˈow#
+Final form : *#nˈow#

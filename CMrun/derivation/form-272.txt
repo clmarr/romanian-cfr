@@ -1,10 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 272:
-#ˌassudˈaː# >>> *#asudˈa# ( GOLD : #asudˈa#) :
-ˌa s s u d ˈaː 
-*#assudˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#assudˈa# | 135 : [+syl] > [-long,-splng] 
-*#asudˈa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#asudˈa#
-Common Romanian stage form : *#asudˈa#
-Old Romanian stage form : *#asudˈa#
-Final form : *#asudˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 272:
+#sˌentˈiː# >>> *#simt͡sˈi# ( GOLD : #simt͡sˈi#) :
+s ˌe n t ˈiː 
+*#sentˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#sentˈi# | 133 : [+syl] > [-long,-splng] 
+*#semtˈi# | 168 : n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
+Balkan Romance stage form : *#semtˈi#
+*#semtjˈi# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#semtʲjˈi# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#semtʲˈi# | 207 : j > ∅ / [+cons,+front] __
+*#semt͡sʲˈi# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#semt͡sˈi# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#semt͡sˈi#
+*#simt͡sˈi# | 252 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+Old Romanian stage form : *#simt͡sˈi#
+Final form : *#simt͡sˈi#

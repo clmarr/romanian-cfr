@@ -1,26 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 382:
-#kˈae̯kia# >>> *#t͡ʃe̯ˈat͡sə# ( GOLD : #t͡ʃe̯ˈat͡sə#) :
-k ˈa e̯ k i a 
-*#kˈae̯kja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kˈajkja# | 11 : e̯ > j 
-*#kˈɛːkja# | 41 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ [-syl]
-*#kˈɛːkkja# | 131 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#kˈɛkkja# | 135 : [+syl] > [-long,-splng] 
-*#kˈɛktʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#kˈɛttʲa# | 144 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#kˈɛtʲa# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#kʲˈɛtʲa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲˈɛtʲa#
-*#kʲjˈɛtʲa# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#kʲjˈetʲa# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kʲjˈɛtʲa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kʲˈɛtʲa# | 209 : j > ∅ / [+cons,+front] __
-*#kʲˈɛatʲa# | 216 : ∅ > a / [-tense] __
-*#kʲˈeˈatʲa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kʲe̯ˈatʲa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kʲe̯ˈatʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#c͡ɕe̯ˈat͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃe̯ˈat͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃe̯ˈat͡sə#
-Old Romanian stage form : *#t͡ʃe̯ˈat͡sə#
-Final form : *#t͡ʃe̯ˈat͡sə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 382:
+#perkˈipe# >>> *#prit͡ʃˈepe# ( GOLD : #prit͡ʃˈepe#) :
+p e r k ˈi p e 
+*#prekˈipe# | 79 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
+*#prekˈepe# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#prekʲˈepe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#prekʲˈepe#
+*#pɾekʲˈepe# | 171 : r > ɾ / __ [nnas,ncons]
+*#pɾekʲˈɛpe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pɾekʲˈɛape# | 214 : ∅ > a / [-tense] __
+*#pɾekʲˈeˈape# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pɾekʲe̯ˈape# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pɾec͡ɕe̯ˈape# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pɾet͡ʃe̯ˈape# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pɾet͡ʃe̯ˈape#
+*#pɾet͡ʃˈepe# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pret͡ʃˈepe# | 263 : ɾ > r 
+*#prit͡ʃˈepe# | 303 : e > i / [+lab] [+cons,+voi,-front] __ [+cor,-voi] [+syl,-hi]
+Old Romanian stage form : *#prit͡ʃˈepe#
+Final form : *#prit͡ʃˈepe#

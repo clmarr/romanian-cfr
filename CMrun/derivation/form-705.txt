@@ -1,17 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 705:
-#ˌinkˌaballikˈaː# >>> *#ɨnkəlekˈa# ( GOLD : #ɨnkəlekˈa#) :
-ˌi n k ˌa b a l l i k ˈaː 
-*#inkaballikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkaβallikˈaː# | 132 : b > β / [-cons] __ [+cont]
-*#enkaβallekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkaβallekˈa# | 135 : [+syl] > [-long,-splng] 
-*#enkaallekˈa# | 163 : β > ∅ 
-*#enkallekˈa# | 164 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#enkallekˈa#
-*#enkalekˈa# | 207 : {l l;m m} > {l;m} 
-*#enkəlekˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#enkəlekˈa#
-*#inkəlekˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnkəlekˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnkəlekˈa#
-Final form : *#ɨnkəlekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 705:
+#bˌoːlˈeːtem# >>> *#burˈete# ( GOLD : #burˈete#) :
+b ˌoː l ˈeː t e m 
+*#boːlˈeːtem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#boːlˈeːte# | 43 : m > ∅ / [-stres] __ #
+*#bolˈete# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#bolˈete#
+*#bulˈete# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#buɾˈete# | 190 : l > ɾ / [+syl] __ [+syl]
+*#buɾˈɛte# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#buɾˈɛate# | 214 : ∅ > a / [-tense] __
+*#buɾˈeˈate# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#buɾe̯ˈate# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#buɾe̯ˈate#
+*#buɾˈete# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#burˈete# | 263 : ɾ > r 
+Old Romanian stage form : *#burˈete#
+Final form : *#burˈete#

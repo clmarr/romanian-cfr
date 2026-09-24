@@ -1,17 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 907:
-#sklˈawum# >>> *#ʃkjˈaw# ( GOLD : #ʃkjˈaw#) :
-s k l ˈa w u m 
-*#sklˈawu# | 44 : m > ∅ / [-stres] __ #
-*#sklˈaβu# | 100 : w > β / __ [-cons]
-*#isklˈaβu# | 120 : ∅ > i / # __ s [+cons,-son]
-*#esklˈaβu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#sklˈaβu# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#sklˈau# | 163 : β > ∅ 
-Balkan Romance stage form : *#sklˈau#
-*#sklˈaw# | 193 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-*#skʎˈaw# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#skʎˈaw#
-*#ʃkʎˈaw# | 253 : s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
-*#ʃkjˈaw# | 278 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#ʃkjˈaw#
-Final form : *#ʃkjˈaw#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 907:
+#konwenˈi# >>> *#kuvenˈi# ( GOLD : #kuvenˈi#) :
+k o n w e n ˈi 
+*#konβenˈi# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#koːβenˈi# | 100 : [+syl] n > [+long] ∅/ # [+cons] __ [-son,+cont]
+*#koːβenˈiː# | 128 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#koβenˈi# | 133 : [+syl] > [-long,-splng] 
+*#kovenˈi# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#kovenˈi#
+*#kuvenˈi# | 185 : o > u / __ [+lab,+cont,+cons]
+Common Romanian stage form : *#kuvenˈi#
+Old Romanian stage form : *#kuvenˈi#
+Final form : *#kuvenˈi#

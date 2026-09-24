@@ -1,17 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 130:
-#fˌabrikˈaː# >>> *#ferekˈa# ( GOLD : #ferekˈa#) :
-f ˌa b r i k ˈaː 
-*#fabrikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#faβrikˈaː# | 132 : b > β / [-cons] __ [+cont]
-*#faβrekˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#faβrekˈa# | 135 : [+syl] > [-long,-splng] 
-*#fawrekˈa# | 156 : β > w / __ [+son,+cons]
-Balkan Romance stage form : *#fawrekˈa#
-*#fawɾekˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#faɾekˈa# | 185 : w > ∅ / __ ɾ [+front,-lo]
-*#fəɾekˈa# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#fəɾekˈa#
-*#fərekˈa# | 265 : ɾ > r 
-*#ferekˈa# | 303 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo]
-Old Romanian stage form : *#ferekˈa#
-Final form : *#ferekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 130:
+#ekspˈellawat# >>> *#spe̯ˈa# ( GOLD : #spˈalə#) :
+e k s p ˈe l l a w a t 
+*#ekspˈellawa# | 87 : [+cons,-cont] > ∅ / __ #
+*#ekspˈellaβa# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#espˈellaβa# | 105 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espˈɛllaβa# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#spˈɛllaβa# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#spˈɛllaa# | 161 : β > ∅ 
+*#spˈɛlla# | 162 : [+syl,-stres] > ∅ / a __
+Balkan Romance stage form : *#spˈɛlla#
+*#spˈella# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#spˈɛlla# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#spˈɛwa# | 202 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#spˈɛawa# | 214 : ∅ > a / [-tense] __
+*#spˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#spe̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#spe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#spe̯ˈa# | 226 : w ə > ∅ / [-cons,-syl] ˈa __
+Common Romanian stage form : *#spe̯ˈa#
+Old Romanian stage form : *#spe̯ˈa#
+Final form : *#spe̯ˈa#

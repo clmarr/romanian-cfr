@@ -1,15 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1262:
-#ˈoːllam# >>> *#o̯ˈalə# ( GOLD : #o̯ˈalə#) :
-ˈoː l l a m 
-*#ˈoːlla# | 44 : m > ∅ / [-stres] __ #
-*#ˈolla# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈolla#
-*#ˈɔlla# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ˈɔla# | 207 : {l l;m m} > {l;m} 
-*#ˈɔala# | 216 : ∅ > a / [-tense] __
-*#ˈoˈala# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#o̯ˈala# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#o̯ˈalə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#o̯ˈalə#
-Old Romanian stage form : *#o̯ˈalə#
-Final form : *#o̯ˈalə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1262:
+#tendˈikulam# >>> *#tindˈekje# ( GOLD : #tindˈekje#) :
+t e n d ˈi k u l a m 
+*#tendˈikula# | 43 : m > ∅ / [-stres] __ #
+*#tendˈikla# | 56 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
+*#tendˈekla# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#tendˈekla#
+*#tendˈɛkla# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#tendˈɛakla# | 214 : ∅ > a / [-tense] __
+*#tendˈeˈakla# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tende̯ˈakla# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#tende̯ˈaklə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#tende̯ˈakʎə# | 227 : l > ʎ / [-cont,-ant,-cor] __
+*#tende̯ˈakʎe# | 228 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#tende̯ˈakʎe#
+*#tinde̯ˈakʎe# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#tindˈekʎe# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#tindˈekje# | 276 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#tindˈekje#
+Final form : *#tindˈekje#

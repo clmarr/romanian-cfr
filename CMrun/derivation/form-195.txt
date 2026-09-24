@@ -1,20 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 195:
-#tˈenerum# >>> *#t͡sˈiner# ( GOLD : #tˈɨnər#) :
-t ˈe n e r u m 
-*#tˈeneru# | 44 : m > ∅ / [-stres] __ #
-*#tˈɛneru# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#tˈɛneru#
-*#tˈɛneɾu# | 173 : r > ɾ / __ [nnas,ncons]
-*#tjˈɛneɾu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#tjˈeneɾu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tʲjˈeneɾu# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tʲˈeneɾu# | 209 : j > ∅ / [+cons,+front] __
-*#t͡sʲˈeneɾu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡sˈeneɾu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡sˈeneɾu#
-*#t͡sˈineɾu# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#t͡sˈineru# | 265 : ɾ > r 
-*#t͡sˈinerw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡sˈiner# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#t͡sˈiner#
-Final form : *#t͡sˈiner#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 195:
+#fˌeːtiˈolum# >>> *#fet͡ʃˈor# ( GOLD : #fet͡ʃˈor#) :
+f ˌeː t i ˈo l u m 
+*#fˌeːtjˈolum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#feːtjˈolum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#feːtjˈolu# | 43 : m > ∅ / [-stres] __ #
+*#feːttjˈolu# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#fettjˈolu# | 133 : [+syl] > [-long,-splng] 
+*#fettʲˈolu# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#fetkʲˈolu# | 144 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#fekʲˈolu# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#fekʲˈolu#
+*#fekʲˈoɾu# | 190 : l > ɾ / [+syl] __ [+syl]
+*#fec͡ɕˈoɾu# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#fet͡ʃˈoɾu# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fet͡ʃˈoɾu#
+*#fet͡ʃˈoru# | 263 : ɾ > r 
+*#fet͡ʃˈorw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fet͡ʃˈor# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fet͡ʃˈor#
+Final form : *#fet͡ʃˈor#

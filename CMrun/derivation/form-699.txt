@@ -1,14 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 699:
-#kˈoːdam# >>> *#ko̯ˈadə# ( GOLD : #ko̯ˈadə#) :
-k ˈoː d a m 
-*#kˈoːda# | 44 : m > ∅ / [-stres] __ #
-*#kˈoda# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kˈoda#
-*#kˈɔda# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔada# | 216 : ∅ > a / [-tense] __
-*#kˈoˈada# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈada# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ko̯ˈadə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ko̯ˈadə#
-Old Romanian stage form : *#ko̯ˈadə#
-Final form : *#ko̯ˈadə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 699:
+#mˈetula# >>> *#mˈekje# ( GOLD : #mˈəturə#) :
+m ˈe t u l a 
+*#mˈetla# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] ( s ) [+cons,-cont,+cor] __ l ( [-cons,-syl] ) [+syl]
+*#mˈekla# | 75 : t > k / __ l
+*#mˈɛkla# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛkla#
+*#mjˈɛkla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈekla# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛkla# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈɛakla# | 214 : ∅ > a / [-tense] __
+*#mjˈeˈakla# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mje̯ˈakla# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#mje̯ˈaklə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#mje̯ˈakʎə# | 227 : l > ʎ / [-cont,-ant,-cor] __
+*#mje̯ˈakʎe# | 228 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#mje̯ˈakʎe#
+*#mjˈekʎe# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#mˈekʎe# | 256 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#mˈekje# | 276 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#mˈekje#
+Final form : *#mˈekje#

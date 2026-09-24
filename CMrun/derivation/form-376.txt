@@ -1,20 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 376:
-#skˈioː# >>> *#ʃtˈiw# ( GOLD : #ʃtˈiw#) :
-s k ˈi oː 
-*#skˈiw# | 46 : [+syl,+round] > w / [+syl,+stres] __ #
-*#skˈiβ# | 101 : w > β / __ #
-*#iskˈiβ# | 120 : ∅ > i / # __ s [+cons,-son]
-*#iskˈiːβ# | 130 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#eskˈiːβ# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#eskˈiβ# | 135 : [+syl] > [-long,-splng] 
-*#skˈiβ# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#skˈiw̥# | 161 : β > w̥ / __ #
-*#skʲˈiw̥# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#skʲˈiw̥#
-*#skʲjˈiw̥# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#skʲˈiw̥# | 209 : j > ∅ / [+cons,+front] __
-*#ʃtˈiw̥# | 233 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#ʃtˈiw̥#
-*#ʃtˈiw# | 294 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#ʃtˈiw#
-Final form : *#ʃtˈiw#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 376:
+#juːdikˈaː# >>> *#ʒudekˈa# ( GOLD : #ʒudekˈa#) :
+j uː d i k ˈaː 
+*#djuːdikˈaː# | 103 : j > d j / # __ [+syl] [+cons]
+*#djuːdekˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#djudekˈa# | 133 : [+syl] > [-long,-splng] 
+*#dʲudekˈa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲudekˈa# | 144 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#ɡʲudekˈa#
+*#ɟ͡ʑudekˈa# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒudekˈa# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒudekˈa#
+*#ʒudekˈa# | 283 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ʒudekˈa#
+Final form : *#ʒudekˈa#

@@ -1,17 +1,12 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 880:
-#sˌubtˈiːlem# >>> *#subt͡sˈire# ( GOLD : #subt͡sˈire#) :
-s ˌu b t ˈiː l e m 
-*#subtˈiːlem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#subtˈiːle# | 44 : m > ∅ / [-stres] __ #
-*#subtˈile# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#subtˈile#
-*#subtˈiɾe# | 192 : l > ɾ / [+syl] __ [+syl]
-*#subtjˈiɾe# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#subtʲjˈiɾe# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#subtʲˈiɾe# | 209 : j > ∅ / [+cons,+front] __
-*#subt͡sʲˈiɾe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#subt͡sˈiɾe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#subt͡sˈiɾe#
-*#subt͡sˈire# | 265 : ɾ > r 
-Old Romanian stage form : *#subt͡sˈire#
-Final form : *#subt͡sˈire#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 880:
+#mˈakrum# >>> *#mˈakru# ( GOLD : #mˈakru#) :
+m ˈa k r u m 
+*#mˈakru# | 43 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#mˈakru#
+*#mˈakɾu# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#mˈakɾu#
+*#mˈakru# | 263 : ɾ > r 
+*#mˈakrw# | 289 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#mˈakru# | 293 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#mˈakru#
+Final form : *#mˈakru#

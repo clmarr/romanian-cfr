@@ -1,20 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1232:
-#pˈedinum# >>> *#pjˈedin# ( GOLD : #pjˈedin#) :
-p ˈe d i n u m 
-*#pˈedinu# | 44 : m > ∅ / [-stres] __ #
-*#pˈɛdinu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛdenu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#pˈɛdenu#
-*#pjˈɛdenu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈedenu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛdenu# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛadenu# | 216 : ∅ > a / [-tense] __
-*#pjˈeˈadenu# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈadenu# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#pje̯ˈadenu#
-*#pjˈedenu# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pjˈedinu# | 255 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#pjˈedinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pjˈedin# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pjˈedin#
-Final form : *#pjˈedin#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1232:
+#ˌinfrontˈaː# >>> *#ɨnfruntˈa# ( GOLD : #ɨnfruntˈa#) :
+ˌi n f r o n t ˈaː 
+*#infrontˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enfrontˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enfrontˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enfrontˈa#
+*#enfɾontˈa# | 171 : r > ɾ / __ [nnas,ncons]
+*#enfɾuntˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#enfɾuntˈa#
+*#infɾuntˈa# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#infruntˈa# | 263 : ɾ > r 
+*#ɨnfruntˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+Old Romanian stage form : *#ɨnfruntˈa#
+Final form : *#ɨnfruntˈa#

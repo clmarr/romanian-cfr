@@ -1,12 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 702:
-#ˌekstˌirpˈiː# >>> *#sterpˈi# ( GOLD : #stɨrpˈi#) :
-ˌe k s t ˌi r p ˈiː 
-*#ekstirpˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#estirpˈiː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#esterpˈiː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#esterpˈi# | 135 : [+syl] > [-long,-splng] 
-*#sterpˈi# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#sterpˈi#
-Common Romanian stage form : *#sterpˈi#
-Old Romanian stage form : *#sterpˈi#
-Final form : *#sterpˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 702:
+#urtˈiːkam# >>> *#urt͡sˈɨkə# ( GOLD : #urzˈikə#) :
+u r t ˈiː k a m 
+*#urtˈiːka# | 43 : m > ∅ / [-stres] __ #
+*#urtˈika# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#urtˈika#
+*#urtjˈika# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#urtʲjˈika# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#urtʲˈika# | 207 : j > ∅ / [+cons,+front] __
+*#urtʲˈikə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#urt͡sʲˈikə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#urt͡sˈikə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#urt͡sˈikə#
+*#urt͡sˈɨkə# | 316 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
+Old Romanian stage form : *#urt͡sˈɨkə#
+Final form : *#urt͡sˈɨkə#

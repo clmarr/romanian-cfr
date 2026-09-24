@@ -1,10 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 946:
-#kʰˈartam# >>> *#kˈartə# ( GOLD : #kˈarte#) :
-kʰ ˈa r t a m 
-*#kˈartam# | 14 : [+cons,+sg] > [-sg] 
-*#kˈarta# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#kˈarta#
-*#kˈartə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kˈartə#
-Old Romanian stage form : *#kˈartə#
-Final form : *#kˈartə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 946:
+#inklinˈaː# >>> *#ɨnkjinˈa# ( GOLD : #ɨnkjinˈa#) :
+i n k l i n ˈaː 
+*#enklenˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#enklenˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enklenˈa#
+*#enklinˈa# | 201 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#enkljinˈa# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#enklʲjinˈa# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#enklʲinˈa# | 207 : j > ∅ / [+cons,+front] __
+*#enkʎinˈa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#enkʎinˈa#
+*#inkʎinˈa# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#inkjinˈa# | 276 : [+son,+cons,+front] > j 
+*#ɨnkjinˈa# | 278 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#ɨnkinˈa# | 285 : j > ∅ / __ [+syl,+front,+hi]
+*#ɨnkjinˈa# | 286 : ∅ > j / [-cont,+back] __ [+syl,+front,+hi]
+Old Romanian stage form : *#ɨnkjinˈa#
+Final form : *#ɨnkjinˈa#

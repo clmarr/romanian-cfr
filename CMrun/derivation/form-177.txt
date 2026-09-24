@@ -1,15 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 177:
-#sˌekrˈeːtum# >>> *#səkrˈet# ( GOLD : #səkrˈet#) :
-s ˌe k r ˈeː t u m 
-*#sekrˈeːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#sekrˈeːtu# | 44 : m > ∅ / [-stres] __ #
-*#sekrˈetu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#sekrˈetu#
-*#sekɾˈetu# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#sekɾˈetu#
-*#sekrˈetu# | 265 : ɾ > r 
-*#səkrˈetu# | 282 : e > ə / s __ [+cons,αson,αlat] [+cons]
-*#səkrˈetw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#səkrˈet# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#səkrˈet#
-Final form : *#səkrˈet#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 177:
+#sˌaɡˈittam# >>> *#səd͡ʒe̯ˈatə# ( GOLD : #səd͡ʒe̯ˈatə#) :
+s ˌa ɡ ˈi t t a m 
+*#saɡˈittam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#saɡˈitta# | 43 : m > ∅ / [-stres] __ #
+*#saɡˈetta# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#saɡˈeta# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#saɡʲˈeta# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#saɡʲˈeta#
+*#saɡʲˈɛta# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#saɡʲˈɛata# | 214 : ∅ > a / [-tense] __
+*#saɡʲˈeˈata# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#saɡʲe̯ˈata# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#səɡʲe̯ˈatə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#səɟ͡ʑe̯ˈatə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#səd͡ʒe̯ˈatə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#səd͡ʒe̯ˈatə#
+Old Romanian stage form : *#səd͡ʒe̯ˈatə#
+Final form : *#səd͡ʒe̯ˈatə#

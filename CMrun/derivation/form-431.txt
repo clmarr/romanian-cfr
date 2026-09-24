@@ -1,14 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 431:
-#ɡlˈemum# >>> *#ɡjˈem# ( GOLD : #ɡjˈem#) :
-ɡ l ˈe m u m 
-*#ɡlˈemu# | 44 : m > ∅ / [-stres] __ #
-*#ɡlˈɛmu# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ɡlˈɛmu#
-*#ɡlˈemu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡʎˈemu# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#ɡʎˈemu#
-*#ɡjˈemu# | 278 : [+son,+cons,+front] > j 
-*#ɡjˈemw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɡjˈem# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɡjˈem#
-Final form : *#ɡjˈem#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 431:
+#brakʰiˈaːla# >>> *#brət͡sˈarə# ( GOLD : #brət͡sˈarə#) :
+b r a kʰ i ˈaː l a 
+*#brakʰjˈaːla# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#brakjˈaːla# | 14 : [+cons,+sg] > [-sg] 
+*#brakkjˈaːla# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#brakkjˈala# | 133 : [+syl] > [-long,-splng] 
+*#braktʲˈala# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#brattʲˈala# | 142 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#bratʲˈala# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#bratʲˈala#
+*#bɾatʲˈala# | 171 : r > ɾ / __ [nnas,ncons]
+*#bɾatʲˈaɾa# | 190 : l > ɾ / [+syl] __ [+syl]
+*#bɾətʲˈaɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#bɾət͡sʲˈaɾə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#bɾət͡sˈaɾə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#bɾət͡sˈaɾə#
+*#brət͡sˈarə# | 263 : ɾ > r 
+Old Romanian stage form : *#brət͡sˈarə#
+Final form : *#brət͡sˈarə#

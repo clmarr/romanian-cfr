@@ -1,12 +1,25 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1213:
-#rapˈiː# >>> *#rəpˈi# ( GOLD : #rəpˈi#) :
-r a p ˈiː 
-*#rapˈi# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rapˈi#
-*#ɾapˈi# | 173 : r > ɾ / __ [nnas,ncons]
-*#rɾapˈi# | 174 : ∅ > r / # __ ɾ
-*#rɾəpˈi# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#rɾəpˈi#
-*#rəpˈi# | 244 : {ɾ;r} > {∅;∅} / r __
-Old Romanian stage form : *#rəpˈi#
-Final form : *#rəpˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1213:
+#pˌorkaːrˈikia# >>> *#purkəre̯ˈat͡sə# ( GOLD : #porkəre̯ˈat͡sə#) :
+p ˌo r k aː r ˈi k i a 
+*#pˌorkaːrˈikja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#porkaːrˈikja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#porkaːrˈikkja# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#porkaːrˈekkja# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#porkarˈekkja# | 133 : [+syl] > [-long,-splng] 
+*#porkarˈektʲa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#porkarˈettʲa# | 142 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#porkarˈetʲa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#porkarˈetʲa#
+*#porkaɾˈetʲa# | 171 : r > ɾ / __ [nnas,ncons]
+*#purkaɾˈetʲa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#purkaɾˈɛtʲa# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#purkaɾˈɛatʲa# | 214 : ∅ > a / [-tense] __
+*#purkaɾˈeˈatʲa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#purkaɾe̯ˈatʲa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#purkəɾe̯ˈatʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#purkəɾe̯ˈat͡sʲə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#purkəɾe̯ˈat͡sə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#purkəɾe̯ˈat͡sə#
+*#purkəre̯ˈat͡sə# | 263 : ɾ > r 
+Old Romanian stage form : *#purkəre̯ˈat͡sə#
+Final form : *#purkəre̯ˈat͡sə#

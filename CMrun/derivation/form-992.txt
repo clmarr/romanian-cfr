@@ -1,21 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 992:
-#ˌaliˈoːreːs# >>> *#ajo̯ˈare# ( GOLD : #ajˈure#) :
-ˌa l i ˈoː r eː s 
-*#ˌaljˈoːreːs# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#aljˈoːreːs# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#aljˈores# | 135 : [+syl] > [-long,-splng] 
-*#aljˈore# | 172 : s > ∅ / __ #
-Balkan Romance stage form : *#aljˈore#
-*#aljˈoɾe# | 173 : r > ɾ / __ [nnas,ncons]
-*#aljˈɔɾe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#alʲjˈɔɾe# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#alʲˈɔɾe# | 209 : j > ∅ / [+cons,+front] __
-*#aʎˈɔɾe# | 214 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#aʎˈɔaɾe# | 216 : ∅ > a / [-tense] __
-*#aʎˈoˈaɾe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#aʎo̯ˈaɾe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#aʎo̯ˈaɾe#
-*#aʎo̯ˈare# | 265 : ɾ > r 
-*#ajo̯ˈare# | 278 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#ajo̯ˈare#
-Final form : *#ajo̯ˈare#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 992:
+#kaldˈoːrem# >>> *#kəldo̯ˈare# ( GOLD : #kəldˈurə#) :
+k a l d ˈoː r e m 
+*#kaldˈoːre# | 43 : m > ∅ / [-stres] __ #
+*#kaldˈore# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kaldˈore#
+*#kaldˈoɾe# | 171 : r > ɾ / __ [nnas,ncons]
+*#kaldˈɔɾe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kaldˈɔaɾe# | 214 : ∅ > a / [-tense] __
+*#kaldˈoˈaɾe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kaldo̯ˈaɾe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kəldo̯ˈaɾe# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kəldo̯ˈaɾe#
+*#kəldo̯ˈare# | 263 : ɾ > r 
+Old Romanian stage form : *#kəldo̯ˈare#
+Final form : *#kəldo̯ˈare#

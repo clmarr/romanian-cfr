@@ -1,15 +1,10 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 301:
-#lˌiɡinˈaː# >>> *#leɡenˈa# ( GOLD : #leɡənˈa#) :
-l ˌi ɡ i n ˈaː 
-*#liɡinˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#leɡenˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#leɡenˈa# | 135 : [+syl] > [-long,-splng] 
-*#leɡʲenˈa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#leɡʲenˈa#
-*#leɡʲinˈa# | 203 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#leɡʲjinˈa# | 206 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#leɡʲinˈa# | 209 : j > ∅ / [+cons,+front] __
-*#leɡenˈa# | 212 : [+back,+front] [+syl] > [-front] [-hi]/ [+cor,+son] [+syl] ( n ) __ ( [+voi,-syl] ) [+prim,-round,-hi]
-Common Romanian stage form : *#leɡenˈa#
-Old Romanian stage form : *#leɡenˈa#
-Final form : *#leɡenˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 301:
+#nˈaːske# >>> *#nˈaʃte# ( GOLD : #nˈaʃte#) :
+n ˈaː s k e 
+*#nˈaske# | 133 : [+syl] > [-long,-splng] 
+*#nˈaskʲe# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#nˈaskʲe#
+*#nˈaʃte# | 231 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#nˈaʃte#
+Old Romanian stage form : *#nˈaʃte#
+Final form : *#nˈaʃte#

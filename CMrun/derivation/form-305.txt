@@ -1,15 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 305:
-#ˌekskˌubulˈaː# >>> *#skulˈa# ( GOLD : #skulˈa#) :
-ˌe k s k ˌu b u l ˈaː 
-*#ekskubulˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskublˈaː# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
-*#eskublˈaː# | 107 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskuβlˈaː# | 132 : b > β / [-cons] __ [+cont]
-*#eskuβlˈa# | 135 : [+syl] > [-long,-splng] 
-*#skuβlˈa# | 136 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#skuwlˈa# | 156 : β > w / __ [+son,+cons]
-Balkan Romance stage form : *#skuwlˈa#
-*#skulˈa# | 194 : w > ∅ / [+syl,+hi,+back] __
-Common Romanian stage form : *#skulˈa#
-Old Romanian stage form : *#skulˈa#
-Final form : *#skulˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 305:
+#kˌastiːɡˈaː# >>> *#kɨʃtiɡˈa# ( GOLD : #kɨʃtiɡˈa#) :
+k ˌa s t iː ɡ ˈaː 
+*#kastiːɡˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kastiɡˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kastiɡˈa#
+*#kastjiɡˈa# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#kastʲjiɡˈa# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kastʲiɡˈa# | 207 : j > ∅ / [+cons,+front] __
+*#kəstʲiɡˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kəʃtiɡˈa# | 231 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#kəʃtiɡˈa#
+*#kɨʃtiɡˈa# | 245 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
+Old Romanian stage form : *#kɨʃtiɡˈa#
+Final form : *#kɨʃtiɡˈa#

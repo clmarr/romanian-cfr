@@ -1,19 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1192:
-#kˈeːram# >>> *#t͡ʃe̯ˈarə# ( GOLD : #t͡ʃe̯ˈarə#) :
-k ˈeː r a m 
-*#kˈeːra# | 44 : m > ∅ / [-stres] __ #
-*#kˈera# | 135 : [+syl] > [-long,-splng] 
-*#kʲˈera# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲˈera#
-*#kʲˈeɾa# | 173 : r > ɾ / __ [nnas,ncons]
-*#kʲˈɛɾa# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kʲˈɛaɾa# | 216 : ∅ > a / [-tense] __
-*#kʲˈeˈaɾa# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kʲe̯ˈaɾa# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kʲe̯ˈaɾə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#c͡ɕe̯ˈaɾə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃe̯ˈaɾə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃe̯ˈaɾə#
-*#t͡ʃe̯ˈarə# | 265 : ɾ > r 
-Old Romanian stage form : *#t͡ʃe̯ˈarə#
-Final form : *#t͡ʃe̯ˈarə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1192:
+#manˈukulum# >>> *#mənˈunkj# ( GOLD : #mənˈunkj#) :
+m a n ˈu k u l u m 
+*#manˈukulu# | 43 : m > ∅ / [-stres] __ #
+*#manˈuklu# | 59 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+Balkan Romance stage form : *#manˈuklu#
+*#mənˈuklu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#mənˈukʎu# | 227 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#mənˈukʎu#
+*#mənˈunkʎu# | 238 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#mərˈunkʎu# | 244 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#mərˈunkju# | 276 : [+son,+cons,+front] > j 
+*#mərˈunkjw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mərˈunkj# | 291 : w̥ > ∅ / [-syl] __ #
+*#mənˈunkj# | 311 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n [-ant]
+Old Romanian stage form : *#mənˈunkj#
+Final form : *#mənˈunkj#

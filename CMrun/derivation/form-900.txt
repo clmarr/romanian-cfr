@@ -1,16 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 900:
-#juːrˈaː# >>> *#ʒurˈa# ( GOLD : #ʒurˈa#) :
-j uː r ˈaː 
-*#djuːrˈaː# | 105 : j > d j / # __ [+syl] [+cons]
-*#djurˈa# | 135 : [+syl] > [-long,-splng] 
-*#dʲurˈa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡʲurˈa# | 146 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-Balkan Romance stage form : *#ɡʲurˈa#
-*#ɡʲuɾˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#ɟ͡ʑuɾˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒuɾˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒuɾˈa#
-*#d͡ʒurˈa# | 265 : ɾ > r 
-*#ʒurˈa# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#ʒurˈa#
-Final form : *#ʒurˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 900:
+#ˈuːdum# >>> *#ˈud# ( GOLD : #ˈud#) :
+ˈuː d u m 
+*#ˈuːdu# | 43 : m > ∅ / [-stres] __ #
+*#ˈudu# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈudu#
+Common Romanian stage form : *#ˈudu#
+*#ˈudw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈud# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈud#
+Final form : *#ˈud#

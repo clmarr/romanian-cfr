@@ -1,17 +1,9 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1113:
-#ˌinklaːwˈaː# >>> *#ɨnkjˈa# ( GOLD : #ɨnkjejˈa#) :
-ˌi n k l aː w ˈaː 
-*#inklaːwˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inklaːβˈaː# | 100 : w > β / __ [-cons]
-*#enklaːβˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#enklaβˈa# | 135 : [+syl] > [-long,-splng] 
-*#enklaˈa# | 163 : β > ∅ 
-Balkan Romance stage form : *#enklaˈa#
-*#enklˈa# | 223 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
-*#enkʎˈa# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#enkʎˈa#
-*#inkʎˈa# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inkjˈa# | 278 : [+son,+cons,+front] > j 
-*#ɨnkjˈa# | 280 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnkjˈa#
-Final form : *#ɨnkjˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1113:
+#kawtˈaː# >>> *#kəwtˈa# ( GOLD : #kəwtˈa#) :
+k a w t ˈaː 
+*#kawtˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kawtˈa#
+*#kəwtˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kəwtˈa#
+Old Romanian stage form : *#kəwtˈa#
+Final form : *#kəwtˈa#

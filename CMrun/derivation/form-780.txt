@@ -1,20 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 780:
-#pˌerwˌiɡilˈaː# >>> *#priveɡe̯ˈa# ( GOLD : #priveɡe̯ˈa#) :
-p ˌe r w ˌi ɡ i l ˈaː 
-*#perwiɡilˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#perwiɡlˈaː# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#prewiɡlˈaː# | 80 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
-*#preβiɡlˈaː# | 100 : w > β / __ [-cons]
-*#preβeɡlˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#preβeɡlˈa# | 135 : [+syl] > [-long,-splng] 
-*#preveɡlˈa# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#preveɡlˈa#
-*#pɾeveɡlˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#pɾeveɡʎˈa# | 229 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#pɾeveɡʎˈa#
-*#preveɡʎˈa# | 265 : ɾ > r 
-*#preveɡjˈa# | 278 : [+son,+cons,+front] > j 
-*#priveɡjˈa# | 302 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-*#priveɡe̯ˈa# | 306 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
-Old Romanian stage form : *#priveɡe̯ˈa#
-Final form : *#priveɡe̯ˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 780:
+#pˈinnulam# >>> *#pˈənurə# ( GOLD : #pˈənurə#) :
+p ˈi n n u l a m 
+*#pˈinnula# | 43 : m > ∅ / [-stres] __ #
+*#pˈennula# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈennula#
+*#pˈennuɾa# | 190 : l > ɾ / [+syl] __ [+syl]
+*#pˈennuɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pˈennuɾə#
+*#pˈənnuɾə# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pˈənuɾə# | 260 : n n > n 
+*#pˈənurə# | 263 : ɾ > r 
+*#pˈɨnurə# | 273 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#pˈənurə# | 277 : [+syl,+hi,+tense,-back,-front,αprim] > [-hi,0tense] / p __ n [+syl,!αfront]
+Old Romanian stage form : *#pˈənurə#
+Final form : *#pˈənurə#

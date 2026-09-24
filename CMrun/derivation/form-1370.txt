@@ -1,10 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1370:
-#wˈos# >>> *#vˈoj# ( GOLD : #vˈoj#) :
-w ˈo s 
-*#βˈos# | 100 : w > β / __ [-cons]
-*#vˈos# | 149 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#vˈoj# | 171 : s > j / [+stres] __ #
-Balkan Romance stage form : *#vˈoj#
-Common Romanian stage form : *#vˈoj#
-Old Romanian stage form : *#vˈoj#
-Final form : *#vˈoj#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1370:
+#speːrˈaː# >>> *#sperˈa# ( GOLD : #sperˈa#) :
+s p eː r ˈaː 
+*#ispeːrˈaː# | 118 : ∅ > i / # __ s [+cons,-son]
+*#espeːrˈaː# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#esperˈa# | 133 : [+syl] > [-long,-splng] 
+*#sperˈa# | 134 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sperˈa#
+*#speɾˈa# | 171 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#speɾˈa#
+*#spəɾˈa# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#spərˈa# | 263 : ɾ > r 
+*#sperˈa# | 264 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] [-cons]
+Old Romanian stage form : *#sperˈa#
+Final form : *#sperˈa#

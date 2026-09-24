@@ -1,11 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 575:
-#ˌawtˈumnam# >>> *#atˈumnə# ( GOLD : #to̯ˈamnə#) :
-ˌa w t ˈu m n a m 
-*#awtˈumnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#atˈumnam# | 23 : w > ∅ / # a __ ( @ ) ( @ ) [+round]
-*#atˈumna# | 44 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#atˈumna#
-*#atˈumnə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#atˈumnə#
-Old Romanian stage form : *#atˈumnə#
-Final form : *#atˈumnə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 575:
+#nˈoktem# >>> *#no̯ˈapte# ( GOLD : #no̯ˈapte#) :
+n ˈo k t e m 
+*#nˈokte# | 43 : m > ∅ / [-stres] __ #
+*#nˈopte# | 109 : k > p / __ t
+Balkan Romance stage form : *#nˈopte#
+*#nˈɔpte# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈɔapte# | 214 : ∅ > a / [-tense] __
+*#nˈoˈapte# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#no̯ˈapte# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#no̯ˈapte#
+Old Romanian stage form : *#no̯ˈapte#
+Final form : *#no̯ˈapte#

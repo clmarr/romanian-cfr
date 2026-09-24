@@ -1,11 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 303:
-#dˌormˈiː# >>> *#dormˈi# ( GOLD : #dormˈi#) :
-d ˌo r m ˈiː 
-*#dormˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#dormˈi# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dormˈi#
-*#doɾmˈi# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#doɾmˈi#
-*#dormˈi# | 265 : ɾ > r 
-Old Romanian stage form : *#dormˈi#
-Final form : *#dormˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 303:
+#wˈiwum# >>> *#vˈiw# ( GOLD : #vˈiw#) :
+w ˈi w u m 
+*#wˈiwu# | 43 : m > ∅ / [-stres] __ #
+*#βˈiβu# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈeβu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#βˈiβu# | 132 : [+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
+*#vˈiβu# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vˈiu# | 161 : β > ∅ 
+Balkan Romance stage form : *#vˈiu#
+*#vˈiw# | 191 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Common Romanian stage form : *#vˈiw#
+Old Romanian stage form : *#vˈiw#
+Final form : *#vˈiw#

@@ -1,10 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 302:
-#ˌattˌepˈiː# >>> *#atepˈi# ( GOLD : #at͡sipˈi#) :
-ˌa t t ˌe p ˈiː 
-*#attepˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#attepˈi# | 135 : [+syl] > [-long,-splng] 
-*#atepˈi# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#atepˈi#
-Common Romanian stage form : *#atepˈi#
-Old Romanian stage form : *#atepˈi#
-Final form : *#atepˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 302:
+#wˌiːwˈatia# >>> *#viˈat͡sə# ( GOLD : #vjˈat͡sə#) :
+w ˌiː w ˈa t i a 
+*#wˌiːwˈatja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#wiːwˈatja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#βiːβˈatja# | 99 : w > β / __ ( [-cons] ( @ )* ) #
+*#βiːβˈattja# | 129 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#βiβˈattja# | 133 : [+syl] > [-long,-splng] 
+*#βiβˈattʲa# | 141 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#viβˈattʲa# | 147 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#viβˈatʲa# | 155 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#viˈatʲa# | 161 : β > ∅ 
+Balkan Romance stage form : *#viˈatʲa#
+*#viˈatʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#viˈat͡sʲə# | 232 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#viˈat͡sə# | 233 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#viˈat͡sə#
+Old Romanian stage form : *#viˈat͡sə#
+Final form : *#viˈat͡sə#

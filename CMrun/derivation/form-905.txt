@@ -1,17 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 905:
-#potˈentiam# >>> *#putˈint͡sə# ( GOLD : #putˈint͡sə#) :
-p o t ˈe n t i a m 
-*#potˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#potˈentja# | 44 : m > ∅ / [-stres] __ #
-*#potˈɛntja# | 129 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#potˈɛntʲa# | 143 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#potˈɛntʲa#
-*#potˈentʲa# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#putˈentʲa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#putˈentʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#putˈent͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#putˈent͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#putˈent͡sə#
-*#putˈint͡sə# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#putˈint͡sə#
-Final form : *#putˈint͡sə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 905:
+#kˈohortem# >>> *#ko̯ˈarte# ( GOLD : #kˈurte#) :
+k ˈo h o r t e m 
+*#kˈoortem# | 40 : h > ∅ 
+*#kˈoorte# | 43 : m > ∅ / [-stres] __ #
+*#koˈoːrte# | 120 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#kuˈoːrte# | 121 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+*#kwˈoːrte# | 126 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#kwˈorte# | 133 : [+syl] > [-long,-splng] 
+*#kˈorte# | 140 : w > ∅ / __ [+syl]
+Balkan Romance stage form : *#kˈorte#
+*#kˈɔrte# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kˈɔarte# | 214 : ∅ > a / [-tense] __
+*#kˈoˈarte# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ko̯ˈarte# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ko̯ˈarte#
+Old Romanian stage form : *#ko̯ˈarte#
+Final form : *#ko̯ˈarte#

@@ -1,12 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 583:
-#pˈulwerem# >>> *#pˈulbere# ( GOLD : #pˈulbere#) :
-p ˈu l w e r e m 
-*#pˈulwere# | 44 : m > ∅ / [-stres] __ #
-*#pˈulβere# | 100 : w > β / __ [-cons]
-*#pˈulbere# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#pˈulbere#
-*#pˈulbeɾe# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#pˈulbeɾe#
-*#pˈulbere# | 265 : ɾ > r 
-Old Romanian stage form : *#pˈulbere#
-Final form : *#pˈulbere#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 583:
+#kˌalendˈaːrium# >>> *#kərindˈar# ( GOLD : #kərindˈar#) :
+k ˌa l e n d ˈaː r i u m 
+*#kˌalendˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kalendˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kalendˈaːrju# | 43 : m > ∅ / [-stres] __ #
+*#kalendˈarju# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kalendˈarju#
+*#kalendˈaɾju# | 171 : r > ɾ / __ [nnas,ncons]
+*#kaɾendˈaɾju# | 190 : l > ɾ / [+syl] __ [+syl]
+*#kaɾendˈaɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kaɾendˈaɾʲu# | 207 : j > ∅ / [+cons,+front] __
+*#kəɾendˈaɾʲu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kəɾendˈajɾu# | 230 : ɾʲ > j ɾ 
+Common Romanian stage form : *#kəɾendˈajɾu#
+*#kəɾindˈajɾu# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#kərindˈajru# | 263 : ɾ > r 
+*#kərindˈajrw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kərindˈajr# | 291 : w̥ > ∅ / [-syl] __ #
+*#kərindˈar# | 297 : j > ∅ / __ r
+Old Romanian stage form : *#kərindˈar#
+Final form : *#kərindˈar#

@@ -1,10 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1080:
-#kwˈam# >>> *#kˈa# ( GOLD : #kˈa#) :
-k w ˈa m 
-*#kwˈan# | 45 : m > n / __ #
-*#kˈan# | 84 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+prim,+lo] [+voi]
-*#kˈa# | 89 : [+nas] > ∅ / @ [-cons] __ #
-Balkan Romance stage form : *#kˈa#
-Common Romanian stage form : *#kˈa#
-Old Romanian stage form : *#kˈa#
-Final form : *#kˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1080:
+#kˌomprˈende# >>> *#kuprˈinde# ( GOLD : #kuprˈinde#) :
+k ˌo m p r ˈe n d e 
+*#komprˈende# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#koprˈende# | 78 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
+*#koprˈɛnde# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#koprˈɛnde#
+*#kopɾˈɛnde# | 171 : r > ɾ / __ [nnas,ncons]
+*#kopɾˈende# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#kupɾˈende# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#kupɾˈende#
+*#kupɾˈinde# | 246 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#kuprˈinde# | 263 : ɾ > r 
+Old Romanian stage form : *#kuprˈinde#
+Final form : *#kuprˈinde#

@@ -1,9 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 603:
-#mˈare# >>> *#mˈare# ( GOLD : #mˈare#) :
-m ˈa r e 
-Balkan Romance stage form : *#mˈare#
-*#mˈaɾe# | 173 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#mˈaɾe#
-*#mˈare# | 265 : ɾ > r 
-Old Romanian stage form : *#mˈare#
-Final form : *#mˈare#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 603:
+#kˌontrˌemulˈaː# >>> *#kutremurˈa# ( GOLD : #kutremurˈa#) :
+k ˌo n t r ˌe m u l ˈaː 
+*#kontremulˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kotremulˈaː# | 78 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
+*#kotremulˈa# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kotremulˈa#
+*#kotɾemulˈa# | 171 : r > ɾ / __ [nnas,ncons]
+*#kutɾemulˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kutɾemuɾˈa# | 190 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#kutɾemuɾˈa#
+*#kutremurˈa# | 263 : ɾ > r 
+Old Romanian stage form : *#kutremurˈa#
+Final form : *#kutremurˈa#

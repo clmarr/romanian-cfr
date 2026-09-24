@@ -1,14 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 859:
-#hˈuːmidum# >>> *#ˈuməd# ( GOLD : #ˈumed#) :
-h ˈuː m i d u m 
-*#ˈuːmidum# | 40 : h > ∅ 
-*#ˈuːmidu# | 44 : m > ∅ / [-stres] __ #
-*#ˈuːmedu# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#ˈumedu# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈumedu#
-Common Romanian stage form : *#ˈumedu#
-*#ˈumədu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#ˈumədw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈuməd# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ˈuməd#
-Final form : *#ˈuməd#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 859:
+#mˈiːlia# >>> *#mˈie# ( GOLD : #mˈie#) :
+m ˈiː l i a 
+*#mˈiːlja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈilja# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mˈilja#
+*#mˈilʲja# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mˈilʲa# | 207 : j > ∅ / [+cons,+front] __
+*#mˈiʎa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#mˈiʎə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#mˈiʎe# | 228 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#mˈiʎe#
+*#mˈie# | 237 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+Old Romanian stage form : *#mˈie#
+Final form : *#mˈie#

@@ -1,15 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 343:
-#piɡritˈaː# >>> *#pred͡ʒetˈa# ( GOLD : #pred͡ʒetˈa#) :
-p i ɡ r i t ˈaː 
-*#priɡitˈaː# | 82 : ∅ [+syl,-back] [+cons,+back] r > r [+syl,-back,+son] [+cons,+back,0tense] ∅/ # ( [+nas] ) [-cont,-back] __ [+syl]
-*#preɡetˈaː# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#preɡetˈa# | 135 : [+syl] > [-long,-splng] 
-*#preɡʲetˈa# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#preɡʲetˈa#
-*#pɾeɡʲetˈa# | 173 : r > ɾ / __ [nnas,ncons]
-*#pɾeɟ͡ʑetˈa# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pɾed͡ʒetˈa# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pɾed͡ʒetˈa#
-*#pred͡ʒetˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#pred͡ʒetˈa#
-Final form : *#pred͡ʒetˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 343:
+#mˌiserˈeːre# >>> *#miserˈere# ( GOLD : #meserˈere#) :
+m ˌi s e r ˈeː r e 
+*#miserˈeːre# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#meserˈeːre# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+*#meserˈere# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#meserˈere#
+*#meseɾˈeɾe# | 171 : r > ɾ / __ [nnas,ncons]
+*#meseɾˈɛɾe# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#meseɾˈɛaɾe# | 214 : ∅ > a / [-tense] __
+*#meseɾˈeˈaɾe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#meseɾe̯ˈaɾe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#meseɾe̯ˈaɾe#
+*#meseɾˈeɾe# | 250 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#meserˈere# | 263 : ɾ > r 
+*#miserˈere# | 302 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
+Old Romanian stage form : *#miserˈere#
+Final form : *#miserˈere#

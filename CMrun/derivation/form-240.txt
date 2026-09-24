@@ -1,16 +1,12 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 240:
-#ˌumbilˈiːkum# >>> *#mberˈik# ( GOLD : #burˈik#) :
-ˌu m b i l ˈiː k u m 
-*#umbilˈiːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#umbilˈiːku# | 44 : m > ∅ / [-stres] __ #
-*#umbelˈiːku# | 133 : [+syl,-long,+hi,-back] > [-hi] 
-*#umbelˈiku# | 135 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#umbelˈiku#
-*#umbeɾˈiku# | 192 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#umbeɾˈiku#
-*#mbeɾˈiku# | 257 : u > ∅ / # __ [+cons,-cor]
-*#mberˈiku# | 265 : ɾ > r 
-*#mberˈikw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mberˈik# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mberˈik#
-Final form : *#mberˈik#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 240:
+#sˈinum# >>> *#sˈin# ( GOLD : #sˈɨn#) :
+s ˈi n u m 
+*#sˈinu# | 43 : m > ∅ / [-stres] __ #
+*#sˈenu# | 131 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#sˈenu#
+Common Romanian stage form : *#sˈenu#
+*#sˈinu# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+*#sˈinw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈin# | 291 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sˈin#
+Final form : *#sˈin#
