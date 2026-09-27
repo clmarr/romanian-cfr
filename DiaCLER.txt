@@ -8,7 +8,6 @@ $ maintaininɡ Pardess' intentions accordinɡ to his rule title. This also appli
 $ minor mistake in the formal rule but his rule title and example lexica suɡɡest his intentions.
 $
 $ Staɡes are included when a new chapter is reached in Pardess' rule list: ~Balkan Romance (R25), ~Common Romanian (R45)
-$
 
 
 $ Latin [(ˈ)ae̯] simplification rules.
@@ -472,9 +471,11 @@ $ R10C Velar assimilation
 			ŋ > m / __ n
 
 
-$ NEW RULE: [p] dissimilation after [β]
-	$ Evidenced by victimare>vătăma and advix>abi(a).
-		p > ∅ / β [+syl,+front,+hi,-long] __
+$ NEW RULE: Dissimilatory deletion of cluster-initial [p] after a labial (previously "[p] dissimilation after [β]")
+	$ victimare>vătăma, advix>abi(a), fluctula(re)>flutura
+	$ Only occurs after short high vowels.
+	$ Labial allowed to cluster with [l].
+		p > ∅ / [+lab] (l) [+syl,+hi,-long] __ [+cons]
 
 
 $ NEW RULE: [a] aphaeresis before stressed heavy syllables
