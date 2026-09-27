@@ -1429,14 +1429,9 @@ $ R53 moved to just before R47.
 			$e̯ ˈa > ˈe / __ ([-syl])* [+syl,+front,-lo,-hi]
 
 
-$ NEW RULE: Assimilation of /ɨ/ to /j/
-	[+syl,+hi,-front,-back] > [+front] / j __
-
-
 $ R56 Loss of yod before [i]
-	j > ∅ / __ [+syl,+front,+hi]
-	$ EDIT: Does not happen after velar stops. Simply readding here:
-		∅ > j / [-cont,+back] __ [+syl,+front,+hi]
+	$j > ∅ / __ [+syl,+front,+hi]
+		$ Moved to after R59.
 
 
 $ R58 Assimilation: word-final [ə] > [e] after [i]
@@ -1468,6 +1463,15 @@ $ NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
 	$ R59C Word-final [ii] > [i]
 		$i i > i / __ #
 		[+syl,+front,+hi,-stres] > ∅ / [+syl,+front,+hi] __ #
+
+
+$ NEW RULE: Assimilation of high vowels to [j]
+	[+syl,+hi] > [+front,-back,-round,-lab] / j __
+
+
+$ R56 Loss of yod before [i]
+	j > ∅ / __ [+front,+hi] $ EDIT: Also occurs after [j].
+
 
 $ R60 Loss of final [l] of m sg definite article
 	$ l > ∅ / __ # "in m sg definite article"
