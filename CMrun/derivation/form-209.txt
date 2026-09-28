@@ -1,20 +1,25 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 209:
-#kˌerˈebulum# >>> *#krˈewr# ( GOLD : #krˈejer#) :
+#kˌerˈebulum# >>> *#krˈejer# ( GOLD : #krˈejer#) :
 k ˌe r ˈe b u l u m 
 *#kerˈebulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#kerˈebulu# | 43 : m > ∅ / [-stres] __ #
 *#krˈebulu# | 46 : [+syl,+front,-lo,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
 *#krˈɛbulu# | 127 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#krˈɛβulu# | 130 : b > β / [-cons] __ [+cont]
-*#krˈɛulu# | 161 : β > ∅ 
-Balkan Romance stage form : *#krˈɛulu#
-*#kɾˈɛulu# | 171 : r > ɾ / __ [nnas,ncons]
-*#kɾˈeulu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kɾˈeuɾu# | 190 : l > ɾ / [+syl] __ [+syl]
-*#kɾˈewɾu# | 191 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-Common Romanian stage form : *#kɾˈewɾu#
-*#krˈewru# | 263 : ɾ > r 
-*#krˈewrw̥# | 287 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#krˈewr# | 288 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#krˈewr#
-Final form : *#krˈewr#
+*#krˈɛβjelu# | 153 : [+round,-prim] > j e/ [+front,-cons,-lo] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
+*#krˈɛjelu# | 162 : β > ∅ 
+Balkan Romance stage form : *#krˈɛjelu#
+*#kɾˈɛjelu# | 172 : r > ɾ / __ [nnas,ncons]
+*#kɾˈejelu# | 182 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kɾˈejeɾu# | 191 : l > ɾ / [+syl] __ [+syl]
+*#kɾˈɛjeɾu# | 197 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kɾˈɛajeɾu# | 215 : ∅ > a / [-tense] __
+*#kɾˈeˈajeɾu# | 216 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kɾe̯ˈajeɾu# | 217 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#kɾe̯ˈajeɾu#
+*#kɾˈejeɾu# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#krˈejeru# | 264 : ɾ > r 
+*#krˈejerw̥# | 288 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#krˈejer# | 289 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#krˈejer#
+Final form : *#krˈejer#

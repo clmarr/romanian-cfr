@@ -205,7 +205,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 206,*/bˈarbə/,/bˈarbə/,0,0.0,0.0,5,5
 207,*/bˈukə/,/bˈukə/,0,0.0,0.0,4,4
 208,*/kəpət͡sˈɨnə/,/kəpət͡sˈɨnə/,0,0.0,0.0,8,8
-209,*/krˈewr/,/krˈejer/,2,0.3333333333333333,0.5,5,6
+209,*/krˈejer/,/krˈejer/,0,0.0,0.0,6,6
 210,*/dˈinte/,/dˈinte/,0,0.0,0.0,5,5
 211,*/flˈok/,/flˈok/,0,0.0,0.0,4,4
 212,*/frˈunte/,/frˈunte/,0,0.0,0.0,6,6
@@ -805,7 +805,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 812,*/flˈuture/,/flˈuture/,0,0.0,0.0,7,7
 813,*/fluturˈa/,/fluturˈa/,0,0.0,0.0,7,7
 814,*/formˈikə/,/furnˈikə/,2,0.2857142857142857,0.1346153846153846,7,7
-815,*/ɡrˈejr/,/ɡrˈejer/,1,0.16666666666666666,0.34615384615384615,5,6
+815,*/ɡrˈejer/,/ɡrˈejer/,0,0.0,0.0,6,6
 816,*/ləkˈustə/,/ləkˈustə/,0,0.0,0.0,7,7
 817,*/lˈindinə/,/lˈindinə/,0,0.0,0.0,7,7
 818,*/lumbrˈik/,/limbrˈik/,1,0.14285714285714285,0.15384615384615385,7,7
@@ -962,7 +962,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 970,*/kˈɨntek/,/kˈɨntek/,0,0.0,0.0,6,6
 971,*/ko̯ˈardə/,/ko̯ˈardə/,0,0.0,0.0,6,6
 972,*/t͡ʃe̯ˈatərə/,/t͡ʃˈeterə/,3,0.5,0.5,7,6
-973,*/ʃˈier/,/ʃˈujer/,2,0.4,0.5,4,5
+973,*/ʃjerˈa/,/ʃujerˈa/,1,0.16666666666666666,0.5769230769230769,5,6
 974,*/sunˈa/,/sunˈa/,0,0.0,0.0,4,4
 975,*/sˈun/,/sˈun/,0,0.0,0.0,3,3
 976,*/sˈunet/,/sˈunet/,0,0.0,0.0,5,5
@@ -983,7 +983,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 991,*/pˈutred/,/pˈutred/,0,0.0,0.0,6,6
 992,*/kəldo̯ˈare/,/kəldˈurə/,3,0.42857142857142855,0.75,8,7
 993,*/kˈald/,/kˈald/,0,0.0,0.0,4,4
-994,*/ferbˈinte/,/fjerbˈinte/,1,0.1111111111111111,0.4423076923076923,8,9
+994,*/fjˈerbe/,/fjˈerbe/,0,0.0,0.0,6,6
 995,*/rˈet͡ʃe/,/rˈet͡ʃe/,0,0.0,0.0,4,4
 996,*/rəko̯ˈare/,/rəko̯ˈare/,0,0.0,0.0,7,7
 997,*/ˈarde/,/ˈarde/,0,0.0,0.0,4,4
@@ -1169,7 +1169,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 1177,*/kulˈed͡ʒe/,/kulˈed͡ʒe/,0,0.0,0.0,6,6
 1178,*/mət͡ʃinˈa/,/mət͡ʃinˈa/,0,0.0,0.0,6,6
 1179,*/pisˈa/,/pisˈa/,0,0.0,0.0,4,4
-1180,*/triwrˈa/,/trejerˈa/,3,0.42857142857142855,0.5384615384615384,6,7
+1180,*/trjerˈa/,/trejerˈa/,1,0.14285714285714285,0.34615384615384615,6,7
 1181,*/vɨnturˈa/,/vɨnturˈa/,0,0.0,0.0,7,7
 1182,*/mo̯ˈarə/,/mo̯ˈarə/,0,0.0,0.0,5,5
 1183,*/pˈar/,/pˈar/,0,0.0,0.0,3,3
@@ -1232,7 +1232,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 1240,*/zˈa/,/zˈa/,0,0.0,0.0,2,2
 1241,*/pˈat͡ʃe/,/pˈat͡ʃe/,0,0.0,0.0,4,4
 1242,*/prˈadə/,/prˈadə/,0,0.0,0.0,5,5
-1243,*/kˈajr/,/kˈajer/,1,0.2,0.38461538461538464,4,5
+1243,*/kˈajer/,/kˈajer/,0,0.0,0.0,5,5
 1244,*/kˈanurə/,/kˈanurə/,0,0.0,0.0,6,6
 1245,*/depənˈa/,/depənˈa/,0,0.0,0.0,6,6
 1246,*/fujˈor/,/fujˈor/,0,0.0,0.0,5,5
@@ -1266,7 +1266,6 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 1274,*/awrˈar/,/awrˈar/,0,0.0,0.0,5,5
 1275,*/kjˈeje/,/kjˈeje/,0,0.0,0.0,5,5
 1276,*/fˈawr/,/fˈawr/,0,0.0,0.0,4,4
-1277,*/fərˈar/,/fjerˈar/,2,0.3333333333333333,0.5,5,6
 1278,*/fo̯ˈale/,/fo̯ˈale/,0,0.0,0.0,5,5
 1279,*/lˈamɨnə/,/lˈamurə/,2,0.3333333333333333,0.15384615384615385,6,6
 1280,*/bˈute/,/bˈute/,0,0.0,0.0,4,4
@@ -1280,7 +1279,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 1288,*/sˈak/,/sˈak/,0,0.0,0.0,3,3
 1289,*/t͡sˈest/,/t͡sˈest/,0,0.0,0.0,4,4
 1290,*/urt͡ʃˈor/,/urt͡ʃˈor/,0,0.0,0.0,5,5
-1291,*/bˈajr/,/bˈajer/,1,0.2,0.38461538461538464,4,5
+1291,*/bˈajer/,/bˈajer/,0,0.0,0.0,5,5
 1292,*/kure̯ˈazə/,/kure̯ˈa/,2,0.4,1.1730769230769231,7,5
 1293,*/kut͡sˈit/,/kut͡sˈit/,0,0.0,0.0,5,5
 1294,*/ɡrˈate/,/ɡrˈatje/,1,0.16666666666666666,0.4807692307692308,5,6
@@ -1393,7 +1392,6 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 1401,*/jˈele/,/jˈele/,0,0.0,0.0,4,4
 1402,*/jˈew/,/jˈew/,0,0.0,0.0,3,3
 1403,*/jˈe/,/jˈe/,0,0.0,0.0,2,2
-1404,*/jˈarə/,/jerˈa/,2,0.5,0.28846153846153844,4,4
 1405,*/nˈeɡru/,/nˈeɡru/,0,0.0,0.0,5,5
 1406,*/ne̯ˈaɡrə/,/ne̯ˈaɡrə/,0,0.0,0.0,6,6
 1407,*/nˈeɡre/,/nˈeɡre/,0,0.0,0.0,5,5
