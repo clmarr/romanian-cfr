@@ -1,14 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 257:
-#mˌedullˈaːrem# >>> *#mədulˈare# ( GOLD : #mədulˈar#) :
-m ˌe d u l l ˈaː r e m 
-*#medullˈaːrem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#medullˈaːre# | 43 : m > ∅ / [-stres] __ #
-*#medullˈare# | 133 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#medullˈare#
-*#medullˈaɾe# | 171 : r > ɾ / __ [nnas,ncons]
-*#medulˈaɾe# | 205 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#medulˈaɾe#
-*#mədulˈaɾe# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#mədulˈare# | 263 : ɾ > r 
-Old Romanian stage form : *#mədulˈare#
-Final form : *#mədulˈare#
+#mˌedullˈaːrium# >>> *#mədulˈar# ( GOLD : #mədulˈar#) :
+m ˌe d u l l ˈaː r i u m 
+*#mˌedullˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#medullˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#medullˈaːrju# | 43 : m > ∅ / [-stres] __ #
+*#medullˈarju# | 133 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#medullˈarju#
+*#medullˈaɾju# | 171 : r > ɾ / __ [nnas,ncons]
+*#medulˈaɾju# | 205 : {l l;m m} > {l;m} 
+*#medulˈaɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#medulˈaɾʲu# | 207 : j > ∅ / [+cons,+front] __
+*#medulˈajɾu# | 230 : ɾʲ > j ɾ 
+Common Romanian stage form : *#medulˈajɾu#
+*#mədulˈajɾu# | 239 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#mədulˈajru# | 263 : ɾ > r 
+*#mədulˈajrw̥# | 287 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mədulˈajr# | 288 : w̥ > ∅ / [-syl] __ #
+*#mədulˈar# | 296 : j > ∅ / __ r
+Old Romanian stage form : *#mədulˈar#
+Final form : *#mədulˈar#
