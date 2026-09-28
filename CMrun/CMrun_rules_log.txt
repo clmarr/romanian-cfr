@@ -15,9 +15,6 @@ pʰ > f / @ __
 [+cons,+sg] > [-sg] 
 [+stres,-prim] > [-stres,-prim,+syl,+son] 
 [-cons,-syl] > ∅ / [+cons] __ [-cons,-syl] [+syl,+hi]
-∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
-j [+front,+round] > ∅ [-round,-lab]/ __ l
-[+front,+round] > [-front,+back] 
 a w > o / [+cons] __ [+cons,+cont]
 k [+syl] p > p [+syl,+son] k/ [+lab] __
 p [+syl] k > k [+syl,+son] p/ s __ t
@@ -118,6 +115,10 @@ a > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
 n > m / __ [+lab,-strid,+cons] β
 ∅ > i / # __ s [+cons,-son]
 ˈi j > ˈiː 
+ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
+∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
+j [+front,+round] > ∅ [-round,-lab]/ __ l
+[+front,+round] > [-front,+back] 
 [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
 [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
 [+syl,-lo,-long,-stres] > [+hi] / [+syl] __

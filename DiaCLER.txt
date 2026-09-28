@@ -84,14 +84,6 @@ $ NEW RULE: laqueum (at this point laquium) > lacium
 		[-cons,-syl] > ∅ / [+cons] __ [-cons,-syl] [+syl,+hi]
 
 
-$ OUTCOMES OF LATIN [y]
-	$ Preyodization of [y] occurs when the preceding consonant is a velar (with an optional sonorant in the cluster) and the following consonant is a sonorant:
-		∅ > j / [+cons,+back] ([+cons,+son]) __ [+front,+round] [+cons,+son]
-	$ Yod-[y] sequences coalesce before [l]:
-		j [+front,+round] > ∅ [-round,-lab] / __ l
-	$ All remaining [y]s retract.
-		[+front,+round] > [-front,+back]
-
 
 $ NEW RULE: [aw] > [o] / C __ [+cons,+cont]
 	a w > o / [+cons] __ [+cons,+cont]
@@ -508,6 +500,17 @@ $ Reinterpretation of /ˈij/ as /ˈiː/
 	ˈi j > ˈiː
 
 
+$CM 9/28 -- bleeding R18a and the palatalizations of g, g deleted if after nonround vowels and before front (non-low) vocoid followed by s or vocoid. Not fed by y > ju. Does not feed ij > iː
+ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
+
+$ OUTCOMES OF LATIN [y]
+	$ Preyodization of [y] occurs when the preceding consonant is a velar (with an optional sonorant in the cluster) and the following consonant is a sonorant:
+		∅ > j / [+cons,+back] ([+cons,+son]) __ [+front,+round] [+cons,+son]
+	$ Yod-[y] sequences coalesce before [l]:
+		j [+front,+round] > ∅ [-round,-lab] / __ l
+	$ All remaining [y]s retract.
+		[+front,+round] > [-front,+back]
+
 $ R13 {Many sequential vowel chanɡes}
 	$ R13A Lenɡtheninɡ of second vowel in vowel combinations and concommitant shift in stress
 		[-lo,+prim] [-cons] > [-stres] [+long,+prim] / __ [+cons] $ EDIT: Only occurs before a consonant.
@@ -537,7 +540,7 @@ $ R13 {Many sequential vowel chanɡes}
 	$ R13F Lenɡtheninɡ of word-final [-i(s)]
 		[+syl,+hi,-back] > [+long] / __ ([+cons]) #
 			$ May not be reɡular sound chanɡe. See note about Kiparsky.
-			$ Problem: wenit -> *vjej (vine)
+			$ Problem: wenit -> *vjej (vine)  
 
 $ R18A ɡemination of stop when after a vowel and before yod
 		$ Pardess: V [-son,-cont] y > V [-son,-cont] [-son,-cont] y
@@ -1161,7 +1164,7 @@ $ R43 Palatalization of [l] after a velar consonant
 
 $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 	$ ə > e / [-cont,+hi,-strid] __
-	$ But these are both actually [+cont].
+	$ But these are both actually [+cont]
 		$ə > e / [+cons,+hi,+front,-strid] __
 		$ CM 9/18/26 -- its actually happening specifically after SONORANT palatal consonants
 			$ occurs after ɾʲ 
