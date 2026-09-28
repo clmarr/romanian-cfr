@@ -227,7 +227,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 229,*/fikˈat/,/fikˈat/,0,0.0,0.0,5,5
 230,*/ˈumər/,/ˈumər/,0,0.0,0.0,4,4
 231,*/jˈeje/,/ˈie/,3,1.5,0.5384615384615384,4,2
-232,*/mˈat͡sə/,/mˈat͡s/,1,0.3333333333333333,0.5961538461538461,4,3
+232,*/mˈat͡s/,/mˈat͡s/,0,0.0,0.0,3,3
 233,*/məruntˈaje/,/məruntˈaje/,0,0.0,0.0,9,9
 234,*/mˈuʃkj/,/mˈuʃkj/,0,0.0,0.0,5,5
 235,*/no̯ˈadə/,/no̯ˈadə/,0,0.0,0.0,5,5
@@ -430,7 +430,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 434,*/mərd͡ʒe̯ˈa/,/mərd͡ʒe̯ˈa/,0,0.0,0.0,6,6
 435,*/bˈalt͡s/,/bˈalt͡s/,0,0.0,0.0,4,4
 436,*/brət͡ʃˈire/,/brət͡ʃˈire/,0,0.0,0.0,7,7
-437,*/kˈinɡə/,/kjˈinɡə/,1,0.16666666666666666,0.34615384615384615,5,6
+437,*/kˈinɡə/,/kˈinɡə/,0,0.0,0.0,5,5
 438,*/fˈaʃə/,/fˈaʃə/,0,0.0,0.0,4,4
 439,*/fəʃo̯ˈarə/,/fɨʃio̯ˈarə/,2,0.25,0.6730769230769231,7,8
 440,*/fˈir/,/fˈir/,0,0.0,0.0,3,3
@@ -684,13 +684,13 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 691,*/arjˈor/,/aljˈor/,1,0.2,0.038461538461538464,5,5
 692,*/kˈalt͡ʃe/,/kˈalt͡ʃe/,0,0.0,0.0,5,5
 693,*/fˈeret͡ʃe/,/fˈeret͡ʃe/,0,0.0,0.0,6,6
-694,*/frˈaɡ/,/frˈaɡə/,1,0.2,0.5,4,5
+694,*/frˈaɡə/,/frˈaɡə/,0,0.0,0.0,5,5
 695,*/frˈaɡ/,/frˈaɡ/,0,0.0,0.0,4,4
 696,*/lˈawr/,/lˈawr/,0,0.0,0.0,4,4
 697,*/mˈalbə/,/nˈalbə/,1,0.2,0.09615384615384616,5,5
 698,*/mˈɨntə/,/mˈintə/,1,0.2,0.038461538461538464,5,5
 699,*/mˈekje/,/mˈəturə/,5,0.8333333333333334,1.1153846153846154,5,6
-700,*/pˈapur/,/pˈapurə/,1,0.16666666666666666,0.4230769230769231,5,6
+700,*/pˈapurə/,/pˈapurə/,0,0.0,0.0,6,6
 701,*/pətlˈad͡ʒinə/,/pətlˈad͡ʒinə/,0,0.0,0.0,9,9
 702,*/urt͡sˈɨkə/,/urzˈikə/,2,0.3333333333333333,0.1346153846153846,6,6
 703,*/vio̯ˈarə/,/vio̯ˈarə/,0,0.0,0.0,6,6
@@ -786,7 +786,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 793,*/poturnˈikje/,/poturnˈikje/,0,0.0,0.0,10,10
 794,*/priveɡjeto̯ˈare/,/priviɡjeto̯ˈare/,1,0.07692307692307693,0.038461538461538464,13,13
 795,*/priveɡe̯ˈa/,/priveɡe̯ˈa/,0,0.0,0.0,8,8
-796,*/stre̯ˈaɡə/,/strˈiɡə/,2,0.3333333333333333,0.38461538461538464,7,6
+796,*/strˈiɡə/,/strˈiɡə/,0,0.0,0.0,6,6
 797,*/stˈurz/,/stˈurz/,0,0.0,0.0,5,5
 798,*/tˈurturə/,/tˈurturə/,0,0.0,0.0,7,7
 799,*/turture̯ˈa/,/turture̯ˈa/,0,0.0,0.0,8,8
