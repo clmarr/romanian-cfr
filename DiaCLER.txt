@@ -765,8 +765,8 @@ $ HIATUS RESOLUTION RULES
 		i e > j e
 	$ ˈiV > ˈijV when V is a non-high vowel
 		∅ > j / ˈi __ [+syl,-hi]
-	$ [e] preyodizes after non-palatal vowels
-		∅ > j / [+syl,+stres,αfront,αlo] __ e
+	$ [(ˈ)e] preyodizes after non-palatal vowels (expanded from previously only affecting [e])
+		∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
 
 
 
@@ -1150,10 +1150,17 @@ $ R38 [e'a] > [e̯'a]
 
 
 
-$ NEW RULE: Reflex of Latin -llam lost when preceding vowel tenses and breaks
-	w ə > ∅ / [-cons,-syl] ˈa __ 
+$ NEW RULES: V̯ˈaV̯ə simplification
+	$w ə > ∅ / [-cons,-syl] ˈa __ 
 		$ Quite possibly the schwa was deleted first and the resulting triphthong was dispreferred, so the [w] was subsequently deleted as well.
 		$ CM 9/18/26 -- only after ˈa (not just [+syl]) -- not after ji -- but 9/23, doesn't need to be word final (was, formerly)
+		$ EDIT: When this happens word-medially, only the schwa is deleted. Thus, we actually have two deletions: first the schwa, and then the semivowel word-finally.
+		$ EDIT: corrigia(m)>*curreajə>curea appears to pattern with this as well. Expanding to include all semivowels and renaming.
+		$ (previously: "Reflex of Latin -llam lost when preceding vowel tenses and breaks")
+		$ Schwa deletion:
+			ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+		$ Semivowel deletion:
+			[-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
 
 	
 
@@ -1515,7 +1522,13 @@ $ NEW RULE: [e] raises to [i] after [r] when surrounding consonants have matchin
 	
 $ NEW RULE: [ə] assimilates to [(ˈ)e] when after a labial consonant
 	$ Affects fabrica(re)>fereca, mastica(re)>mesteca, familiam>femeie, parietem>perete, pariculam>pereche, and basilicam>*beserica>biserică.
-		ə > e / [+lab,+cons] __ ([-syl])* [+syl,+front,-hi,-lo]
+		$ə > e / [+lab,+cons] __ ([-syl])* [+syl,+front,-hi,-lo]
+		$ EDIT: Does not occur when [(ˈ)e] is followed by [s].
+			ə > e / [+lab,+cons] __ ([-syl])* [+syl,+front,-hi,-lo] [-strid]
+
+$ NEW RULE: [e] backs to schwa between [ɡ] and [n]
+	$ Poorly evidenced; just ligina(re)>legăna and tragina(re)>trăgăna. FLAG
+		e > ə / ɡ __ n
 
 $ NEW RULE: [e] raises to [i] between a voiced consonant and a voiceless coronal when one of the previous two phones is labial
 	$ Following vowel cannot be [+hi].
