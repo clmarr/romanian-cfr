@@ -1,22 +1,24 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 916:
-#juːdˈikium# >>> *#ʒudˈet͡s# ( GOLD : #ʒudˈet͡s#) :
-j uː d ˈi k i u m 
-*#juːdˈikjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juːdˈikju# | 36 : m > ∅ / [-stres] __ #
-*#djuːdˈikju# | 86 : j > d j / # __ [+syl] [+cons]
-*#djuːdˈikkju# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#djuːdˈekkju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#djudˈekkju# | 120 : [+syl] > [-long,-splng] 
-*#dʲudˈektʲu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲudˈettʲu# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#ɡʲudˈettʲu# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲudˈetʲu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɡʲudˈetʲu#
-*#ɟ͡ʑudˈet͡sʲu# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒudˈet͡su# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒudˈet͡su#
-*#ʒudˈet͡su# | 261 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒudˈet͡sw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒudˈet͡s# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ʒudˈet͡s#
-Final form : *#ʒudˈet͡s#
+#juːraːmˈentum# >>> *#ʒurəmˈɨnt# ( GOLD : #ʒurəmˈɨnt#) :
+j uː r aː m ˈe n t u m 
+*#juːraːmˈentu# | 36 : m > ∅ / [-stres] __ #
+*#djuːraːmˈentu# | 86 : j > d j / # __ [+syl] [+cons]
+*#djuːraːmˈɛntu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#djuramˈɛntu# | 120 : [+syl] > [-long,-splng] 
+*#dʲuramˈɛntu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲuramˈɛntu# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#ɡʲuramˈɛntu#
+*#ɡʲuɾamˈɛntu# | 159 : r > ɾ / __ [nnas,ncons]
+*#ɡʲuɾamˈentu# | 163 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#ɡʲuɾəmˈentu# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɟ͡ʑuɾəmˈentu# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒuɾəmˈentu# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒuɾəmˈentu#
+*#d͡ʒuɾəmˈəntu# | 225 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#d͡ʒurəmˈəntu# | 249 : ɾ > r 
+*#d͡ʒurəmˈɨntu# | 252 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ʒurəmˈɨntu# | 261 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ʒurəmˈɨntw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʒurəmˈɨnt# | 266 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ʒurəmˈɨnt#
+Final form : *#ʒurəmˈɨnt#

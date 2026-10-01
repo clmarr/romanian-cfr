@@ -1,14 +1,17 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1417:
-#pˌortˈaːbat# >>> *#purtˈa# ( GOLD : #purtˈa#) :
-p ˌo r t ˈaː b a t 
-*#portˈaːbat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#portˈaːba# | 71 : [+cons,-cont] > ∅ / __ #
-*#portˈaːβa# | 117 : b > β / [-cons] __ [+cont]
-*#portˈaβa# | 120 : [+syl] > [-long,-splng] 
-*#portˈaa# | 149 : β > ∅ 
-Balkan Romance stage form : *#portˈaa#
-*#purtˈaa# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purtˈa# | 205 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
-Common Romanian stage form : *#purtˈa#
-Old Romanian stage form : *#purtˈa#
-Final form : *#purtˈa#
+#kiːwitˈaːtem# >>> *#t͡ʃetˈate# ( GOLD : #t͡ʃetˈate#) :
+k iː w i t ˈaː t e m 
+*#kiːwitˈaːte# | 36 : m > ∅ / [-stres] __ #
+*#kiːβitˈaːte# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#kiːβetˈaːte# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#kiβetˈate# | 120 : [+syl] > [-long,-splng] 
+*#kietˈate# | 149 : β > ∅ 
+*#kjetˈate# | 151 : i e > j e 
+*#kʲjetˈate# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲjetˈate#
+*#kʲetˈate# | 193 : j > ∅ / [+cons,+front] __
+*#c͡ɕetˈate# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃetˈate# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃetˈate#
+Old Romanian stage form : *#t͡ʃetˈate#
+Final form : *#t͡ʃetˈate#

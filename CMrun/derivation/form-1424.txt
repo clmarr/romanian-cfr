@@ -1,22 +1,19 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1424:
-#ˌekskˈawriat# >>> *#zɡˈarje# ( GOLD : #zɡˈɨrje#) :
-ˌe k s k ˈa w r i a t 
-*#ˌekskˈawrjat# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ekskˈawrjat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskˈawrja# | 71 : [+cons,-cont] > ∅ / __ #
-*#eskˈawrja# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#skˈawrja# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#sɡˈawrja# | 144 : k > ɡ / # ( s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son] ( j ) ) [-prim] )* #
-Balkan Romance stage form : *#sɡˈawrja#
-*#sɡˈawɾja# | 159 : r > ɾ / __ [nnas,ncons]
-*#zɡˈawɾja# | 162 : s > z / # __ [+voi,-son]
-*#zɡˈaɾja# | 170 : w > ∅ / __ ɾ [+front,-lo]
-*#zɡˈaɾʲja# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#zɡˈaɾʲa# | 193 : j > ∅ / [+cons,+front] __
-*#zɡˈaɾʲə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
-*#zɡˈaɾʲe# | 214 : ə > e / [+cons,+front,+son] __
-*#zɡˈaɾje# | 215 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
-Common Romanian stage form : *#zɡˈaɾje#
-*#zɡˈarje# | 249 : ɾ > r 
-Old Romanian stage form : *#zɡˈarje#
-Final form : *#zɡˈarje#
+#skˈoβra# >>> *#zɡˈorə# ( GOLD : #zɡˈurə#) :
+s k ˈo β r a 
+*#iskˈoβra# | 101 : ∅ > i / # __ s [+cons,-son]
+*#eskˈoβra# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#skˈoβra# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#skˈowra# | 142 : β > w / __ [+son,+cons]
+*#sɡˈowra# | 144 : k > ɡ / # ( s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son] ( j ) ) [-prim] )* #
+Balkan Romance stage form : *#sɡˈowra#
+*#sɡˈowɾa# | 159 : r > ɾ / __ [nnas,ncons]
+*#zɡˈowɾa# | 162 : s > z / # __ [+voi,-son]
+*#zɡˈɔwɾa# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#zɡˈowɾa# | 184 : [+stres,-hi,-lo] > [+tense,-cons,-lat,+cont,0delrel] / __ w
+*#zɡˈowɾə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#zɡˈowɾə#
+*#zɡˈowrə# | 249 : ɾ > r 
+*#zɡˈorə# | 298 : w > ∅ / [-lab] [+syl,+round] __ r
+Old Romanian stage form : *#zɡˈorə#
+Final form : *#zɡˈorə#
