@@ -161,6 +161,8 @@ r > ɾ / __ [nnas,ncons]
 ∅ > r / # __ ɾ
 k > ɡ / __ [+back,-stres] [+cor,-cont] [+prim] [+son] [-syl]
 s > z / # __ [+voi,-son]
+[+syl,+front] > [-hi,+lo] / # __ [+nas]
+[+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
 [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
 ∅ > j / [+syl] __ [-cons,-tense,+prim]
 ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
@@ -254,7 +256,6 @@ e̯ > ∅ / [+delrel,-distr] __ ˈa [+voi,+cor]
 [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
 [+son,+cons,+front] > j 
 [+syl,+hi,+tense,-back,-front,αprim] > [-hi,0tense] / p __ n [+syl,!αfront]
-[+syl,+front,+hi] > [-front] / # __ [+nas]
 e > ə / [-back] n __ t
 e > ə / s __ [+cons,αson,αlat] [+cons]
 ə > ɨ / __ r [+cons,-cont,+cor,+ant]

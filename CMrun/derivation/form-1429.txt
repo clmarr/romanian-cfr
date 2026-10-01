@@ -6,10 +6,11 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1429:
 *#ˈemsu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
 *#ˈensu# | 155 : m > n / __ [+cons,-lab,-nas]
 Balkan Romance stage form : *#ˈensu#
-Common Romanian stage form : *#ˈensu#
-*#ˈinsu# | 232 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ˈɨnsu# | 256 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ˈɨnsw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈɨns# | 266 : w̥ > ∅ / [-syl] __ #
+*#ˈansu# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ˈənsu# | 205 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ˈənsu#
+*#ˈɨnsu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ˈɨnsw̥# | 266 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈɨns# | 267 : w̥ > ∅ / [-syl] __ #
 Old Romanian stage form : *#ˈɨns#
 Final form : *#ˈɨns#

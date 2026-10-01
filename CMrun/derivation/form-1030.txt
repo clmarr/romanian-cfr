@@ -1,5 +1,5 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1030:
-#ˌindˈeretro# >>> *#ɨndˈeret# ( GOLD : #ɨndˈərət#) :
+#ˌindˈeretro# >>> *#indˈeret# ( GOLD : #ɨndˈərət#) :
 ˌi n d ˈe r e t r o 
 *#indˈeretro# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#indˈeret# | 74 : r [+syl,-stres,+round] > ∅/ [+syl] t __ #
@@ -7,15 +7,15 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1030:
 *#endˈɛret# | 118 : [+syl,-long,+hi,-back] > [-hi] 
 Balkan Romance stage form : *#endˈɛret#
 *#endˈɛɾet# | 159 : r > ɾ / __ [nnas,ncons]
-*#endˈeɾet# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#endˈɛɾet# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#endˈɛaɾet# | 200 : ∅ > a / [-tense] __
-*#endˈeˈaɾet# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ende̯ˈaɾet# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#ende̯ˈaɾet#
-*#inde̯ˈaɾet# | 232 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#indˈeɾet# | 236 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#indˈeret# | 249 : ɾ > r 
-*#ɨndˈeret# | 256 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨndˈeret#
-Final form : *#ɨndˈeret#
+*#andˈɛɾet# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#indˈɛɾet# | 164 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
+*#indˈeɾet# | 170 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#indˈɛɾet# | 184 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#indˈɛaɾet# | 202 : ∅ > a / [-tense] __
+*#indˈeˈaɾet# | 203 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#inde̯ˈaɾet# | 204 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#inde̯ˈaɾet#
+*#indˈeɾet# | 238 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#indˈeret# | 251 : ɾ > r 
+Old Romanian stage form : *#indˈeret#
+Final form : *#indˈeret#

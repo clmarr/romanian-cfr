@@ -7,11 +7,12 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1136:
 *#enklaβˈa# | 120 : [+syl] > [-long,-splng] 
 *#enklaˈa# | 149 : β > ∅ 
 Balkan Romance stage form : *#enklaˈa#
-*#enklˈa# | 206 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
-*#enkʎˈa# | 213 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#enkʎˈa#
-*#inkʎˈa# | 232 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#inkjˈa# | 254 : [+son,+cons,+front] > j 
-*#ɨnkjˈa# | 256 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#anklaˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənklaˈa# | 205 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənklˈa# | 208 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
+*#ənkʎˈa# | 215 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#ənkʎˈa#
+*#ɨnkʎˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnkjˈa# | 256 : [+son,+cons,+front] > j 
 Old Romanian stage form : *#ɨnkjˈa#
 Final form : *#ɨnkjˈa#

@@ -7,10 +7,11 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 339:
 *#enterretˈa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 Balkan Romance stage form : *#enterretˈa#
 *#enterɾetˈa# | 159 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#enterɾetˈa#
-*#enteretˈa# | 228 : {ɾ;r} > {∅;∅} / r __
-*#enterətˈa# | 229 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#interətˈa# | 232 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnterətˈa# | 256 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#anterɾetˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənterɾetˈa# | 205 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ənterɾetˈa#
+*#ənteretˈa# | 230 : {ɾ;r} > {∅;∅} / r __
+*#ənterətˈa# | 231 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#ɨnterətˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
 Old Romanian stage form : *#ɨnterətˈa#
 Final form : *#ɨnterətˈa#

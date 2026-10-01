@@ -5,10 +5,12 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 286:
 *#entˈenɡe# | 118 : [+syl,-long,+hi,-back] > [-hi] 
 *#entˈenɡʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#entˈenɡʲe#
-*#entˈenɟ͡ʑe# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#entˈend͡ʒe# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#entˈend͡ʒe#
-*#intˈind͡ʒe# | 232 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨntˈind͡ʒe# | 256 : [+syl,+front,+hi] > [-front] / # __ [+nas]
+*#antˈenɡʲe# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#əntˈenɡʲe# | 205 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#əntˈenɟ͡ʑe# | 220 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#əntˈend͡ʒe# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#əntˈend͡ʒe#
+*#əntˈind͡ʒe# | 234 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨntˈind͡ʒe# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
 Old Romanian stage form : *#ɨntˈind͡ʒe#
 Final form : *#ɨntˈind͡ʒe#

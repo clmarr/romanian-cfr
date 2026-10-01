@@ -7,12 +7,13 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 150:
 *#emperˈatu# | 120 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#emperˈatu#
 *#empeɾˈatu# | 159 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#empeɾˈatu#
-*#empəɾˈatu# | 225 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#impəɾˈatu# | 238 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#impərˈatu# | 249 : ɾ > r 
-*#ɨmpərˈatu# | 256 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-*#ɨmpərˈatw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨmpərˈat# | 266 : w̥ > ∅ / [-syl] __ #
+*#ampeɾˈatu# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#əmpeɾˈatu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əmpeɾˈatu#
+*#əmpəɾˈatu# | 227 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#əmpərˈatu# | 251 : ɾ > r 
+*#ɨmpərˈatu# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+*#ɨmpərˈatw̥# | 266 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨmpərˈat# | 267 : w̥ > ∅ / [-syl] __ #
 Old Romanian stage form : *#ɨmpərˈat#
 Final form : *#ɨmpərˈat#
