@@ -1,18 +1,16 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 807:
-#sˌerpˈentiam# >>> *#serpˈɨnt͡sə# ( GOLD : #ʃerpˈɨnt͡sə#) :
-s ˌe r p ˈe n t i a m 
-*#sˌerpˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#serpˈentjam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#serpˈentja# | 36 : m > ∅ / [-stres] __ #
-*#serpˈɛntja# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#serpˈɛntʲa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#serpˈɛntʲa#
-*#serpˈentʲa# | 163 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#serpˈentʲə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
-*#serpˈent͡sʲə# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#serpˈent͡sə# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#serpˈent͡sə#
-*#serpˈənt͡sə# | 225 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#serpˈɨnt͡sə# | 252 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#serpˈɨnt͡sə#
-Final form : *#serpˈɨnt͡sə#
+#brˈoːskam# >>> *#bro̯ˈaskə# ( GOLD : #bro̯ˈaskə#) :
+b r ˈoː s k a m 
+*#brˈoːska# | 36 : m > ∅ / [-stres] __ #
+*#brˈoska# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#brˈoska#
+*#bɾˈoska# | 159 : r > ɾ / __ [nnas,ncons]
+*#bɾˈɔska# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#bɾˈɔaska# | 200 : ∅ > a / [-tense] __
+*#bɾˈoˈaska# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#bɾo̯ˈaska# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#bɾo̯ˈaskə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#bɾo̯ˈaskə#
+*#bro̯ˈaskə# | 249 : ɾ > r 
+Old Romanian stage form : *#bro̯ˈaskə#
+Final form : *#bro̯ˈaskə#

@@ -1,18 +1,13 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 330:
-#dˌoliˈoːsum# >>> *#dujˈos# ( GOLD : #dujˈos#) :
-d ˌo l i ˈoː s u m 
-*#dˌoljˈoːsum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#doljˈoːsum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#doljˈoːsu# | 36 : m > ∅ / [-stres] __ #
-*#doljˈosu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#doljˈosu#
-*#duljˈosu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#dulʲjˈosu# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dulʲˈosu# | 193 : j > ∅ / [+cons,+front] __
-*#duʎˈosu# | 198 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#duʎˈosu#
-*#dujˈosu# | 254 : [+son,+cons,+front] > j 
-*#dujˈosw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dujˈos# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#dujˈos#
-Final form : *#dujˈos#
+#kˈompitum# >>> *#kˈumpət# ( GOLD : #kˈumpət#) :
+k ˈo m p i t u m 
+*#kˈompitu# | 36 : m > ∅ / [-stres] __ #
+*#kˈompetu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#kˈompetu#
+*#kˈumpetu# | 204 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#kˈumpetu#
+*#kˈumpətu# | 225 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#kˈumpətw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈumpət# | 266 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kˈumpət#
+Final form : *#kˈumpət#

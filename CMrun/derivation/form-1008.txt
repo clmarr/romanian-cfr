@@ -1,13 +1,13 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1008:
-#ˌadmˌo# >>> *#am# ( GOLD : #amu#) :
-ˌa d m ˌo 
-*#admo# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammo# | 30 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-Balkan Romance stage form : *#ammo#
-*#ammu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#amu# | 191 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#amu#
-*#amw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#am# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#am#
-Final form : *#am#
+#ˌaddˌeːˈante# >>> *#adˈinte# ( GOLD : #adˈinte#) :
+ˌa d d ˌeː ˈa n t e 
+*#ˌaddˈeːˈante# | 3 : [+syl,+long] > [+prim,+stres,+syl,+son] / __ [+syl,-long,+prim]
+*#ˌaddˈeːnte# | 4 : [+syl,-long] > ∅ / [+syl,+long] __
+*#addˈeːnte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#adˈeːnte# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
+*#adˈente# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#adˈente#
+Common Romanian stage form : *#adˈente#
+*#adˈinte# | 232 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Old Romanian stage form : *#adˈinte#
+Final form : *#adˈinte#

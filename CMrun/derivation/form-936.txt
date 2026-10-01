@@ -1,18 +1,19 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 936:
-#neɡoːtiaːtˈoːrem# >>> *#neɡut͡sətˈor# ( GOLD : #neɡut͡sətˈor#) :
-n e ɡ oː t i aː t ˈoː r e m 
-*#neɡoːtjaːtˈoːrem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#neɡoːtjaːtˈoːre# | 36 : m > ∅ / [-stres] __ #
-*#neɡoːtjaːtˈoːr# | 79 : e > ∅ / [-round] t ˈoː r __ #
-*#neɡoːttjaːtˈoːr# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#neɡottjatˈor# | 120 : [+syl] > [-long,-splng] 
-*#neɡottʲatˈor# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#neɡotʲatˈor# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#neɡotʲatˈor#
-*#neɡutʲatˈor# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#neɡutʲətˈor# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
-*#neɡut͡sʲətˈor# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#neɡut͡sətˈor# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#neɡut͡sətˈor#
-Old Romanian stage form : *#neɡut͡sətˈor#
-Final form : *#neɡut͡sətˈor#
+#lˈewoː# >>> *#jˈew# ( GOLD : #jˈau#) :
+l ˈe w oː 
+*#lˈeβoː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#lˈɛβoː# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɛβo# | 120 : [+syl] > [-long,-splng] 
+*#lˈɛo# | 149 : β > ∅ 
+Balkan Romance stage form : *#lˈɛo#
+*#ljˈɛo# | 165 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#ljˈeo# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ljˈeu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ljˈew# | 177 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+*#lʲjˈew# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lʲˈew# | 193 : j > ∅ / [+cons,+front] __
+*#ʎˈew# | 198 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#ʎˈew#
+*#jˈew# | 254 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#jˈew#
+Final form : *#jˈew#

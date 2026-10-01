@@ -1,19 +1,15 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 744:
-#iˌuːnˈiːkem# >>> *#ʒunˈint͡ʃe# ( GOLD : #ʒunˈint͡ʃe#) :
-i ˌuː n ˈiː k e m 
-*#jˌuːnˈiːkem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juːnˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#juːnˈiːke# | 36 : m > ∅ / [-stres] __ #
-*#djuːnˈiːke# | 86 : j > d j / # __ [+syl] [+cons]
-*#djunˈike# | 120 : [+syl] > [-long,-splng] 
-*#dʲunˈike# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡʲunˈike# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲunˈikʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#ɡʲunˈikʲe#
-*#ɟ͡ʑunˈic͡ɕe# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒunˈit͡ʃe# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒunˈit͡ʃe#
-*#d͡ʒunˈint͡ʃe# | 224 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-*#ʒunˈint͡ʃe# | 261 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#ʒunˈint͡ʃe#
-Final form : *#ʒunˈint͡ʃe#
+#kˌornˈuːtum# >>> *#kurnˈut# ( GOLD : #kornˈut#) :
+k ˌo r n ˈuː t u m 
+*#kornˈuːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kornˈuːtu# | 36 : m > ∅ / [-stres] __ #
+*#kornˈutu# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kornˈutu#
+*#koɾnˈutu# | 159 : r > ɾ / __ [nnas,ncons]
+*#kuɾnˈutu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#kuɾnˈutu#
+*#kurnˈutu# | 249 : ɾ > r 
+*#kurnˈutw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kurnˈut# | 266 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kurnˈut#
+Final form : *#kurnˈut#

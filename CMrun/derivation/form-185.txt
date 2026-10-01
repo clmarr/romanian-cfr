@@ -1,15 +1,26 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 185:
-#spˈissum# >>> ... ( GOLD : ...) :
-s p ˈi s s u m 
-*#spˈissu# | 36 : m > ∅ / [-stres] __ #
-*#ispˈissu# | 101 : ∅ > i / # __ s [+cons,-son]
-*#espˈessu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#spˈessu# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#spˈesu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#spˈesu#
-Common Romanian stage form : *#spˈesu#
-*#spˈəsu# | 225 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#spˈəsw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#spˈəs# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#spˈəs#
-Final form : ...
+#skˌantˈiliam# >>> *#skɨntˈeje# ( GOLD : #skɨntˈeje#) :
+s k ˌa n t ˈi l i a m 
+*#skˌantˈiljam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#skantˈiljam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#skantˈilja# | 36 : m > ∅ / [-stres] __ #
+*#iskantˈilja# | 101 : ∅ > i / # __ s [+cons,-son]
+*#eskantˈelja# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#skantˈelja# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skantˈelja#
+*#skantˈɛlja# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#skantˈɛlʲja# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#skantˈɛlʲa# | 193 : j > ∅ / [+cons,+front] __
+*#skantˈɛʎa# | 198 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#skantˈɛaʎa# | 200 : ∅ > a / [-tense] __
+*#skantˈeˈaʎa# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#skante̯ˈaʎa# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#skənte̯ˈaʎa# | 203 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#skənte̯ˈaʎə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+*#skənte̯ˈaʎe# | 214 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#skənte̯ˈaʎe#
+*#skəntˈeʎe# | 236 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#skɨntˈeʎe# | 252 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#skɨntˈeje# | 254 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#skɨntˈeje#
+Final form : *#skɨntˈeje#

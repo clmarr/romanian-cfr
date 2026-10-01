@@ -1,19 +1,12 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 302:
-#wˌiːwˈatia# >>> *#viˈat͡sə# ( GOLD : #vjˈat͡sə#) :
-w ˌiː w ˈa t i a 
-*#wˌiːwˈatja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wiːwˈatja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#βiːβˈatja# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#βiːβˈattja# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#βiβˈattja# | 120 : [+syl] > [-long,-splng] 
-*#βiβˈattʲa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#viβˈattʲa# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-*#viβˈatʲa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#viˈatʲa# | 149 : β > ∅ 
-Balkan Romance stage form : *#viˈatʲa#
-*#viˈatʲə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
-*#viˈat͡sʲə# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#viˈat͡sə# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#viˈat͡sə#
-Old Romanian stage form : *#viˈat͡sə#
-Final form : *#viˈat͡sə#
+#lˌapidˈaː# >>> *#ləpədˈa# ( GOLD : #ləpədˈa#) :
+l ˌa p i d ˈaː 
+*#lapidˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#lapedˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#lapedˈa# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lapedˈa#
+*#ləpedˈa# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ləpedˈa#
+*#ləpədˈa# | 225 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+Old Romanian stage form : *#ləpədˈa#
+Final form : *#ləpədˈa#

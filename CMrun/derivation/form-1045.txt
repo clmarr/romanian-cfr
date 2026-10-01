@@ -1,9 +1,20 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1045:
-#ˌabbˈatte# >>> *#abˈate# ( GOLD : #abˈate#) :
-ˌa b b ˈa t t e 
-*#abbˈatte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#abˈate# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#abˈate#
-Common Romanian stage form : *#abˈate#
-Old Romanian stage form : *#abˈate#
-Final form : *#abˈate#
+#wˈetulum# >>> *#vˈekj# ( GOLD : #vˈekj#) :
+w ˈe t u l u m 
+*#wˈetulu# | 36 : m > ∅ / [-stres] __ #
+*#wˈetlu# | 45 : [+syl,+hi,-long,-stres] > ∅ / [+syl] ( s ) [+cons,-cont,+cor] __ l ( [-cons,-syl] ) [+syl]
+*#wˈeklu# | 61 : t > k / __ l
+*#βˈeklu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈɛklu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛklu# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛklu#
+*#vjˈɛklu# | 165 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#vjˈeklu# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#vjˈekʎu# | 213 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#vjˈekʎu#
+*#vˈekʎu# | 242 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#vˈekju# | 254 : [+son,+cons,+front] > j 
+*#vˈekjw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈekj# | 266 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈekj#
+Final form : *#vˈekj#

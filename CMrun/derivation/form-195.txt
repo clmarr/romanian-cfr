@@ -1,21 +1,18 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 195:
-#fˌeːtiˈolum# >>> *#fet͡ʃˈor# ( GOLD : #fet͡ʃˈor#) :
-f ˌeː t i ˈo l u m 
-*#fˌeːtjˈolum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːtjˈolum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːtjˈolu# | 36 : m > ∅ / [-stres] __ #
-*#feːttjˈolu# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#fettjˈolu# | 120 : [+syl] > [-long,-splng] 
-*#fettʲˈolu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#fetkʲˈolu# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#fekʲˈolu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#fekʲˈolu#
-*#fekʲˈoɾu# | 176 : l > ɾ / [+syl] __ [+syl]
-*#fec͡ɕˈoɾu# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fet͡ʃˈoɾu# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fet͡ʃˈoɾu#
-*#fet͡ʃˈoru# | 249 : ɾ > r 
-*#fet͡ʃˈorw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fet͡ʃˈor# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fet͡ʃˈor#
-Final form : *#fet͡ʃˈor#
+#wˈiːtrikum# >>> *#vˈitriɡ# ( GOLD : #vˈitriɡ#) :
+w ˈiː t r i k u m 
+*#wˈiːtriku# | 36 : m > ∅ / [-stres] __ #
+*#βˈiːtriku# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈiːtreku# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#βˈitreku# | 120 : [+syl] > [-long,-splng] 
+*#vˈitreku# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈitreku#
+*#vˈitɾeku# | 159 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#vˈitɾeku#
+*#vˈitreku# | 249 : ɾ > r 
+*#vˈitreɡu# | 263 : k > ɡ / [-cont,-voi] r [+syl] __ [-stres] #
+*#vˈitreɡw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈitreɡ# | 266 : w̥ > ∅ / [-syl] __ #
+*#vˈitriɡ# | 277 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+Old Romanian stage form : *#vˈitriɡ#
+Final form : *#vˈitriɡ#

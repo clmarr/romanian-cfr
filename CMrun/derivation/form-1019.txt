@@ -1,17 +1,20 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1019:
-#ˌekkumˈillok# >>> *#akoˈel# ( GOLD : #akˈolo#) :
-ˌe k k u m ˈi l l o k 
-*#ekkumˈillok# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#akkumˈillok# | 28 : e > a / # __ k k
-*#akkumˈillo# | 71 : [+cons,-cont] > ∅ / __ #
-*#akkumˈello# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#akumˈello# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#akumˈello#
-*#akumˈellu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#akoˈellu# | 180 : u m > o / [+back] __ [+syl]
-*#akoˈelu# | 191 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#akoˈelu#
-*#akoˈelw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#akoˈel# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#akoˈel#
-Final form : *#akoˈel#
+#ˌekkehˈikke# >>> *#at͡ʃˈit͡ʃe# ( GOLD : #at͡ʃˈit͡ʃe#) :
+ˌe k k e h ˈi k k e 
+*#ekkehˈikke# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#akkehˈikke# | 28 : e > a / # __ k k
+*#akkeˈikke# | 33 : h > ∅ 
+*#akkiˈikke# | 108 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+*#akkˈikke# | 111 : [+syl,αhi,βlo,ɣfront,ðback] > ∅ / __ [+syl,αhi,βlo,ɣfront,ðback]
+*#akkˈekke# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#akkˈikke# | 119 : [+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
+*#akˈike# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#akʲˈikʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#akʲˈikʲe#
+*#akʲjˈikʲe# | 190 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#akʲˈikʲe# | 193 : j > ∅ / [+cons,+front] __
+*#ac͡ɕˈic͡ɕe# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#at͡ʃˈit͡ʃe# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#at͡ʃˈit͡ʃe#
+Old Romanian stage form : *#at͡ʃˈit͡ʃe#
+Final form : *#at͡ʃˈit͡ʃe#

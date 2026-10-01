@@ -1,15 +1,24 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 742:
-#kˌornˈuːtum# >>> *#kurnˈut# ( GOLD : #kornˈut#) :
-k ˌo r n ˈuː t u m 
-*#kornˈuːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kornˈuːtu# | 36 : m > ∅ / [-stres] __ #
-*#kornˈutu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kornˈutu#
-*#koɾnˈutu# | 159 : r > ɾ / __ [nnas,ncons]
-*#kuɾnˈutu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#kuɾnˈutu#
-*#kurnˈutu# | 249 : ɾ > r 
-*#kurnˈutw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kurnˈut# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kurnˈut#
-Final form : *#kurnˈut#
+#kˌatˈellam# >>> *#kət͡se̯ˈa# ( GOLD : #kət͡se̯ˈa#) :
+k ˌa t ˈe l l a m 
+*#katˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#katˈella# | 36 : m > ∅ / [-stres] __ #
+*#katˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#katˈɛlla#
+*#katjˈɛlla# | 165 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#katjˈella# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#katjˈɛlla# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#katjˈɛwa# | 188 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#katʲjˈɛwa# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#katʲˈɛwa# | 193 : j > ∅ / [+cons,+front] __
+*#katʲˈɛawa# | 200 : ∅ > a / [-tense] __
+*#katʲˈeˈawa# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#katʲe̯ˈawa# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kətʲe̯ˈawə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kətʲe̯ˈaw# | 211 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#kətʲe̯ˈa# | 212 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+*#kət͡sʲe̯ˈa# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#kət͡se̯ˈa# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kət͡se̯ˈa#
+Old Romanian stage form : *#kət͡se̯ˈa#
+Final form : *#kət͡se̯ˈa#

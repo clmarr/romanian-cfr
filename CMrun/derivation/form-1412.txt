@@ -1,16 +1,20 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1412:
-#mˈea# >>> *#me̯ˈa# ( GOLD : #me̯ˈa#) :
-m ˈe a 
-*#mˈɛa# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#mˈɛa#
-*#mjˈɛa# | 165 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#mjˈea# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mjˈɛa# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mjˈɛaa# | 200 : ∅ > a / [-tense] __
-*#mjˈeˈaa# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#mje̯ˈaa# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#mje̯ˈa# | 205 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
-Common Romanian stage form : *#mje̯ˈa#
-*#me̯ˈa# | 245 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
-Old Romanian stage form : *#me̯ˈa#
-Final form : *#me̯ˈa#
+#stˈeːllam# >>> *#ste̯ˈa# ( GOLD : #ste̯ˈa#) :
+s t ˈeː l l a m 
+*#stˈeːlla# | 36 : m > ∅ / [-stres] __ #
+*#istˈeːlla# | 101 : ∅ > i / # __ s [+cons,-son]
+*#estˈeːlla# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#estˈella# | 120 : [+syl] > [-long,-splng] 
+*#stˈella# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stˈella#
+*#stˈɛlla# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stˈɛwa# | 188 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#stˈɛawa# | 200 : ∅ > a / [-tense] __
+*#stˈeˈawa# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ste̯ˈawa# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ste̯ˈawə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ste̯ˈaw# | 211 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#ste̯ˈa# | 212 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+Common Romanian stage form : *#ste̯ˈa#
+Old Romanian stage form : *#ste̯ˈa#
+Final form : *#ste̯ˈa#

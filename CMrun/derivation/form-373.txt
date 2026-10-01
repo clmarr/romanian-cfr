@@ -1,22 +1,15 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 373:
-#ˌintˌelleːktiˈoːnem# >>> *#ɨnt͡selept͡ʃˈune# ( GOLD : #ɨnt͡selept͡ʃˈune#) :
-ˌi n t ˌe l l eː k t i ˈoː n e m 
-*#ˌintˌelleːktjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#intelleːktjˈoːnem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#intelleːktjˈoːne# | 36 : m > ∅ / [-stres] __ #
-*#intelleːptjˈoːne# | 92 : k > p / __ t
-*#entelleːptjˈoːne# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#entelleptjˈone# | 120 : [+syl] > [-long,-splng] 
-*#ent͡selleptjˈone# | 126 : t > t͡s / # e n __ [+syl,-back,-prim,-long] l
-*#ent͡selleptʲˈone# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ent͡sellepkʲˈone# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-Balkan Romance stage form : *#ent͡sellepkʲˈone#
-*#ent͡selepkʲˈone# | 191 : {l l;m m} > {l;m} 
-*#ent͡selepkʲˈune# | 203 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ent͡selepc͡ɕˈune# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ent͡selept͡ʃˈune# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ent͡selept͡ʃˈune#
-*#int͡selept͡ʃˈune# | 232 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnt͡selept͡ʃˈune# | 256 : [+syl,+front,+hi] > [-front] / # __ [+nas]
-Old Romanian stage form : *#ɨnt͡selept͡ʃˈune#
-Final form : *#ɨnt͡selept͡ʃˈune#
+#krˈeːde# >>> *#krˈede# ( GOLD : #krˈede#) :
+k r ˈeː d e 
+*#krˈede# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#krˈede#
+*#kɾˈede# | 159 : r > ɾ / __ [nnas,ncons]
+*#kɾˈɛde# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kɾˈɛade# | 200 : ∅ > a / [-tense] __
+*#kɾˈeˈade# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kɾe̯ˈade# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#kɾe̯ˈade#
+*#kɾˈede# | 236 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#krˈede# | 249 : ɾ > r 
+Old Romanian stage form : *#krˈede#
+Final form : *#krˈede#

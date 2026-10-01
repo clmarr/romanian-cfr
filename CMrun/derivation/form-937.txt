@@ -1,17 +1,22 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 937:
-#neɡˈoːtium# >>> *#neɡˈot͡s# ( GOLD : #neɡˈot͡s#) :
-n e ɡ ˈoː t i u m 
-*#neɡˈoːtjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#neɡˈoːtju# | 36 : m > ∅ / [-stres] __ #
-*#neɡˈoːttju# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#neɡˈottju# | 120 : [+syl] > [-long,-splng] 
-*#neɡˈottʲu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#neɡˈotʲu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#neɡˈotʲu#
-*#neɡˈot͡sʲu# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#neɡˈot͡su# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#neɡˈot͡su#
-*#neɡˈot͡sw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#neɡˈot͡s# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#neɡˈot͡s#
-Final form : *#neɡˈot͡s#
+#lˈewat# >>> *#je̯ˈa# ( GOLD : #jˈa#) :
+l ˈe w a t 
+*#lˈewa# | 71 : [+cons,-cont] > ∅ / __ #
+*#lˈeβa# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#lˈɛβa# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɛa# | 149 : β > ∅ 
+Balkan Romance stage form : *#lˈɛa#
+*#ljˈɛa# | 165 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#ljˈea# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ljˈɛa# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#lʲjˈɛa# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lʲˈɛa# | 193 : j > ∅ / [+cons,+front] __
+*#ʎˈɛa# | 198 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ʎˈɛaa# | 200 : ∅ > a / [-tense] __
+*#ʎˈeˈaa# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ʎe̯ˈaa# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ʎe̯ˈa# | 205 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
+Common Romanian stage form : *#ʎe̯ˈa#
+*#je̯ˈa# | 254 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#je̯ˈa#
+Final form : *#je̯ˈa#

@@ -1,20 +1,22 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 732:
-#ˌannˈoːtinum# >>> *#no̯ˈatin# ( GOLD : #no̯ˈaten#) :
-ˌa n n ˈoː t i n u m 
-*#annˈoːtinum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#annˈoːtinu# | 36 : m > ∅ / [-stres] __ #
-*#nnˈoːtinu# | 98 : a > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
-*#nnˈoːtenu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#nnˈotenu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#nnˈotenu#
-*#nnˈɔtenu# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#nnˈɔatenu# | 200 : ∅ > a / [-tense] __
-*#nnˈoˈatenu# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#nno̯ˈatenu# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#nno̯ˈatenu#
-*#nno̯ˈatinu# | 239 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#no̯ˈatinu# | 246 : n n > n 
-*#no̯ˈatinw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#no̯ˈatin# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#no̯ˈatin#
-Final form : *#no̯ˈatin#
+#ˌarmissˈaːrium# >>> *#arməsˈar# ( GOLD : #arməsˈar#) :
+ˌa r m i s s ˈaː r i u m 
+*#ˌarmissˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#armissˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#armissˈaːrju# | 36 : m > ∅ / [-stres] __ #
+*#armessˈaːrju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#armessˈarju# | 120 : [+syl] > [-long,-splng] 
+*#armesˈarju# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#armesˈarju#
+*#aɾmesˈaɾju# | 159 : r > ɾ / __ [nnas,ncons]
+*#aɾmesˈaɾʲju# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#aɾmesˈaɾʲu# | 193 : j > ∅ / [+cons,+front] __
+*#aɾmesˈajɾu# | 216 : ɾʲ > j ɾ 
+Common Romanian stage form : *#aɾmesˈajɾu#
+*#aɾməsˈajɾu# | 225 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#arməsˈajru# | 249 : ɾ > r 
+*#arməsˈajrw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#arməsˈajr# | 266 : w̥ > ∅ / [-syl] __ #
+*#arməsˈar# | 274 : j > ∅ / __ r
+Old Romanian stage form : *#arməsˈar#
+Final form : *#arməsˈar#

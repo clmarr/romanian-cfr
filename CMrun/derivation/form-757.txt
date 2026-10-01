@@ -1,18 +1,19 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 757:
-#tˌertiˈaːnum# >>> *#tert͡sˈɨn# ( GOLD : #tert͡sˈɨn#) :
-t ˌe r t i ˈaː n u m 
-*#tˌertjˈaːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#tertjˈaːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#tertjˈaːnu# | 36 : m > ∅ / [-stres] __ #
-*#tertjˈanu# | 120 : [+syl] > [-long,-splng] 
-*#tertʲˈanu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#tertʲˈanu#
-*#tertʲˈənu# | 203 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#tert͡sʲˈənu# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#tert͡sˈənu# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tert͡sˈənu#
-*#tert͡sˈɨnu# | 252 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#tert͡sˈɨnw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#tert͡sˈɨn# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#tert͡sˈɨn#
-Final form : *#tert͡sˈɨn#
+#skrˈoːfam# >>> *#skro̯ˈafə# ( GOLD : #skro̯ˈafə#) :
+s k r ˈoː f a m 
+*#skrˈoːfa# | 36 : m > ∅ / [-stres] __ #
+*#iskrˈoːfa# | 101 : ∅ > i / # __ s [+cons,-son]
+*#eskrˈoːfa# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskrˈofa# | 120 : [+syl] > [-long,-splng] 
+*#skrˈofa# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skrˈofa#
+*#skɾˈofa# | 159 : r > ɾ / __ [nnas,ncons]
+*#skɾˈɔfa# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#skɾˈɔafa# | 200 : ∅ > a / [-tense] __
+*#skɾˈoˈafa# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#skɾo̯ˈafa# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#skɾo̯ˈafə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skɾo̯ˈafə#
+*#skro̯ˈafə# | 249 : ɾ > r 
+Old Romanian stage form : *#skro̯ˈafə#
+Final form : *#skro̯ˈafə#

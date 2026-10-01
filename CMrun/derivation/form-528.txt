@@ -1,19 +1,20 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 528:
-#spˈurium# >>> *#spˈur# ( GOLD : #spˈur#) :
-s p ˈu r i u m 
-*#spˈurjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#spˈurju# | 36 : m > ∅ / [-stres] __ #
-*#ispˈurju# | 101 : ∅ > i / # __ s [+cons,-son]
-*#espˈurju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#spˈurju# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spˈurju#
-*#spˈuɾju# | 159 : r > ɾ / __ [nnas,ncons]
-*#spˈuɾʲju# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#spˈuɾʲu# | 193 : j > ∅ / [+cons,+front] __
-*#spˈuɾu# | 197 : ɾʲ > ɾ / [+hi] __
-Common Romanian stage form : *#spˈuɾu#
-*#spˈuru# | 249 : ɾ > r 
-*#spˈurw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#spˈur# | 266 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#spˈur#
-Final form : *#spˈur#
+#sˈokiam# >>> *#so̯ˈat͡sə# ( GOLD : #so̯ˈat͡sə#) :
+s ˈo k i a m 
+*#sˈokjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#sˈokja# | 36 : m > ∅ / [-stres] __ #
+*#sˈokkja# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#sˈoktʲa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#sˈottʲa# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#sˈotʲa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#sˈotʲa#
+*#sˈɔtʲa# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sˈɔatʲa# | 200 : ∅ > a / [-tense] __
+*#sˈoˈatʲa# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#so̯ˈatʲa# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#so̯ˈatʲə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+*#so̯ˈat͡sʲə# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#so̯ˈat͡sə# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#so̯ˈat͡sə#
+Old Romanian stage form : *#so̯ˈat͡sə#
+Final form : *#so̯ˈat͡sə#

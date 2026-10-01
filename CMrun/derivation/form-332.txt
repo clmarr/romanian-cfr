@@ -1,16 +1,18 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 332:
-#ˌekspˈawima# >>> *#spˈajimə# ( GOLD : #spˈajimə#) :
-ˌe k s p ˈa w i m a 
-*#ekspˈawima# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekspˈaβima# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#espˈaβima# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espˈaβema# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#spˈaβema# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#spˈaema# | 149 : β > ∅ 
-*#spˈajema# | 153 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
-Balkan Romance stage form : *#spˈajema#
-*#spˈajemə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#spˈajemə#
-*#spˈajimə# | 275 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-Old Romanian stage form : *#spˈajimə#
-Final form : *#spˈajimə#
+#dˌoliˈoːsum# >>> *#dujˈos# ( GOLD : #dujˈos#) :
+d ˌo l i ˈoː s u m 
+*#dˌoljˈoːsum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#doljˈoːsum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#doljˈoːsu# | 36 : m > ∅ / [-stres] __ #
+*#doljˈosu# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#doljˈosu#
+*#duljˈosu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#dulʲjˈosu# | 192 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#dulʲˈosu# | 193 : j > ∅ / [+cons,+front] __
+*#duʎˈosu# | 198 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#duʎˈosu#
+*#dujˈosu# | 254 : [+son,+cons,+front] > j 
+*#dujˈosw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dujˈos# | 266 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dujˈos#
+Final form : *#dujˈos#

@@ -1,15 +1,21 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 241:
-#spˌiːnˈaːlem# >>> *#spinˈare# ( GOLD : #spinˈare#) :
-s p ˌiː n ˈaː l e m 
-*#spiːnˈaːlem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#spiːnˈaːle# | 36 : m > ∅ / [-stres] __ #
-*#ispiːnˈaːle# | 101 : ∅ > i / # __ s [+cons,-son]
-*#espiːnˈaːle# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#espinˈale# | 120 : [+syl] > [-long,-splng] 
-*#spinˈale# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spinˈale#
-*#spinˈaɾe# | 176 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#spinˈaɾe#
-*#spinˈare# | 249 : ɾ > r 
-Old Romanian stage form : *#spinˈare#
-Final form : *#spinˈare#
+#rˌenˈunkulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
+r ˌe n ˈu n k u l u m 
+*#renˈunkulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#renˈunkulu# | 36 : m > ∅ / [-stres] __ #
+*#renˈunklu# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+Balkan Romance stage form : *#renˈunklu#
+*#ɾenˈunklu# | 159 : r > ɾ / __ [nnas,ncons]
+*#rɾenˈunklu# | 160 : ∅ > r / # __ ɾ
+*#rɾenˈunkʎu# | 213 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#rɾenˈunkʎu#
+*#renˈunkʎu# | 228 : {ɾ;r} > {∅;∅} / r __
+*#rənˈunkʎu# | 229 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rərˈunkʎu# | 230 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#rərˈunkju# | 254 : [+son,+cons,+front] > j 
+*#rərˈunkjw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rərˈunkj# | 266 : w̥ > ∅ / [-syl] __ #
+*#rənˈunkj# | 289 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+*#rərˈunkj# | 290 : n > r / r [+syl] __ [+syl] n
+Old Romanian stage form : *#rərˈunkj#
+Final form : *#rərˈunkj#
