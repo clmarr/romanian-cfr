@@ -249,11 +249,11 @@ $ R4 {Syncope, Dissimilation of [tl]}
 			$ Syncope between alveolar stops and [l] (optional [s] in cluster) (optional glide after [l])
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) [+cons,-cont,+cor] __ l ([-cons,-syl]) [+syl]
 			$ Syncope between velar stops and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
-				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l {[+syl,-front];[+syl,+lo]}
+				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l [+syl,alo,afront]
 		$ Syncope between nasals must come after [o].
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
 		$ Syncope after [l] cannot occur in the presence of palatal vowels.
-			[+syl,+hi,-long,-stres] > ∅ / {[+syl,-front];[+syl,+lo]} l __ [+cons] {[+syl,-front];[+syl,+lo]}
+			[+syl,+hi,-long,-stres] > ∅ / [+syl,alo,afront] l __ [+cons] [+syl,blo,bfront]
 		$ [r] must cluster with voiced consonants after syncope.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
 		$ [rrVk] syncopates. Since this only applies to etyma related to carricare, there isn't actually a lot of evidence for it. FLAG -- reexamine later.
@@ -316,9 +316,9 @@ $ NEW RULE: Backward velar repulsion of [r]
 	$ The [r] cannot jump to another [+back] consonant.
 	$ The [r] must jump to a stop.
 		$ rC case:
-			∅ [+syl,-back] r > r [+syl] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [-syl,+back] (j) [+syl]
+			∅ [+syl,-back] r > r [+syl] ∅ / # ((@)* [+syl]) ([+nas]) [-cont,-back] __ [-syl,+back] (j) [+syl]
 		$ Cr case ([w] is interpreted as part of the vowel in this case, not as a consonant, probably due to its position in the syllable):
-			∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / {#;[+syl]} ([+nas]) [-cont,-back] __ [+syl]
+			∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / # ((@)* [+syl]) ([+nas]) [-cont,-back] __ [+syl]
 				$ Note that this final [+syl] is actually irrelevant given our data and the phonotactics of Latin.
 
 
@@ -397,7 +397,7 @@ $ R6 Frontinɡ of [w] to [β]
 $ R3B Reduction of [n] + fricative
 	$[+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
 	$ EDIT: Does not occur when the vowel follows a consonant cluster.
-		[+syl] n > [+long] ∅ / {#;[-cons]} [+cons] __ [-son,+cont]
+		[+syl] n > [+long] ∅ / # ((@)* [-cons]) [+cons] __ [-son,+cont]
 		$ Geminates don't count as clusters for the purposes of this rule (only relevant etymon is appensa(re)>apăsa).
 			[+syl] n > [+long] ∅ / p p __ [-son,+cont]
 				$ manuarium>mâner likely reformed from mână + -er. Alternatively, this did occur in the place in the cascade that Pardess claimed it did,
@@ -843,8 +843,9 @@ $ NEW RULE: [k] voices before an unstressed back vowel when the following conson
 	$ One of the two relevant syllables must be heavy.
 	$ The following consonant may only cluster with semivowels. (in formulation: [-cons]}
 	$ [+cor] is only excluding cucurbita>curcubetă. FLAG -- maybe something else is relevant here?
-		k > ɡ / __ [+back,-stres] {[+cor,-cont] [-syl,-cons] [+prim];[+cor,-cont] [+prim] [+son] [-syl]}
-
+		$k > ɡ / __ [+back,-stres] {[+cor,-cont] [-syl,-cons] [+prim];[+cor,-cont] [+prim] [+son] [-syl]}
+			$ excluding first disjunct -no effect
+k > ɡ / __ [+back,-stres] [+cor,-cont] [+prim] [+son] [-syl]
 	$ REAPPLICATION: [s]-voicing word-initially before a voiced obstruent
 		s > z / # __ [+voi,-son]
 			$ Has to apply both before beta rules and after above new rule.
@@ -922,8 +923,7 @@ $ R30 Preyodization of initial [e]: [e] > [ye]
 			$ For unstressed [e], this does not occur before sonorants.
 				∅ > j / # __ e [-son]
 			$ For stressed [ˈe], this does not occur before nasals, but it occurs before other kinds of sonorants.
-				∅ > j / # __ ˈe {[-nas];#}
-
+				∅ > j / # __ ˈe ([-nas] (@)*) #
 
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	l > ɾ / [+syl] __ [+syl]
@@ -1031,7 +1031,7 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 	$ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
 		$[-cont,+ant,+cor,-son] > [+delrel,+strid] / __ j
 		$ EDIT: Does not occur after laterals.
-			$[-cont,+ant,+cor,-son] > [+delrel,+strid] / {#;[-lat]} __ j
+			$[-cont,+ant,+cor,-son] > [+delrel,+strid] / # ((@)* [-lat]) __ j
 		$ consolidated SECOND PALATALIZATION by CM 9/18/26,
 			$ affrication now happens only after DEPALATALIZATION RULE 
 
@@ -1106,7 +1106,7 @@ $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
 		${a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context.
 	$ CM edit 9/16 -- consolidated the above to two rather than four. Functionally equivalent -- except a third rule (EDIT) that covers mN only for unstressed o and a (miel, cumnat, dumestic)
 	{a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
-	{a;o} > {ə;u} / __ m [-syl]
+	$ suppressed -- no effect: {a;o} > {ə;u} / __ m [-syl]
 
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	$l > ɾ / [+syl] __ [+syl]
@@ -1374,14 +1374,16 @@ $ <r> trilling. CM 9/16/26 - moved to after je > e rule.
 $ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant, unless labiality is reinforced by preceding [o]/[o̯ˈa] or following consonant is a sibilant or a lateral
 	$ Labelling this a new rule rather than a simple edit because it affects words whose schwas do not result from R46A.
 	$ Also, it doesn't take place until after R48.
-		[+syl,-front,-back,-hi] > [+front,+tense] / {#;[+syl,+round,+hi];# ([-cons,-syl,-round]) [+syl,-round];[+cons] ([-cons,-syl,-round]) [+syl,-round]} [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] {[-cons];#}
+		$[+syl,-front,-back,-hi] > [+front,+tense] / {#;[+syl,+round,+hi];# ([-cons,-syl,-round]) [+syl,-round];[+cons] ([-cons,-syl,-round]) [+syl,-round]} [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
+	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,+round,+hi]) [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
+	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+cons]) ([-cons,-syl,-round]) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
 			$ This is a very overdetailed formulation of this rule for this lexicon (RoLLex.txt).
 			$ It should handle most cases, notably not those where the following consonant cluster has three or more consonants in it.
 
 $ R47A Raisinɡ of [ə] before [n] or [m]CV
 	$ EDIT: Does not occur after a vowel.
-		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
-		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
+		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / # ((@)* [+cons]) __ [+nas,-lab]
+		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / # ((@)* [+cons]) __ m [+cons]
 			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈa, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈa
 				$ pənetˈe, pˈən(n)uɾə, and depənˈa taken care of by new rule "Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel".
 
@@ -1578,7 +1580,7 @@ $ NEW RULE: [r] to [n] assimilation
 	$ For the exclusion of phalanga>părângă, we can condition with [αant,αcont], but this seems ill-motivated. Including for now.
 		$ Doing this also allows us to use [+syl] instead of [+syl,-lo], but we will leave [+syl,-lo] for now because it seems to be relevant.
 		$ (Higher sonority of preceding vowel may make the sonorant consonant more distinct.)
-			r > n / [αant,αcont] [+syl,-lo] __ [+syl] n {[-ant];#}
+			r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ([-ant] (@)*) #
 				$ Does not occur in in renunculum>rărunchi because of reinforcement from preceding [r]. Undoing below.
 					n > r / r [+syl] __ [+syl] n
 	

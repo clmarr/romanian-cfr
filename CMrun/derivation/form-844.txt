@@ -3,21 +3,21 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 844:
 p ˌa r ˈi k u l a m 
 *#parˈikulam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#parˈikula# | 36 : m > ∅ / [-stres] __ #
-*#parˈikla# | 53 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,+lo]
-*#parˈekla# | 128 : [+syl,-long,+hi,-back] > [-hi] 
+*#parˈikla# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#parˈekla# | 118 : [+syl,-long,+hi,-back] > [-hi] 
 Balkan Romance stage form : *#parˈekla#
-*#paɾˈekla# | 169 : r > ɾ / __ [nnas,ncons]
-*#paɾˈɛkla# | 194 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#paɾˈɛakla# | 212 : ∅ > a / [-tense] __
-*#paɾˈeˈakla# | 213 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#paɾe̯ˈakla# | 214 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pəɾe̯ˈaklə# | 223 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pəɾe̯ˈakʎə# | 226 : l > ʎ / [-cont,-ant,-cor] __
-*#pəɾe̯ˈakʎe# | 227 : ə > e / [+cons,+front,+son] __
+*#paɾˈekla# | 159 : r > ɾ / __ [nnas,ncons]
+*#paɾˈɛkla# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#paɾˈɛakla# | 200 : ∅ > a / [-tense] __
+*#paɾˈeˈakla# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#paɾe̯ˈakla# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pəɾe̯ˈaklə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pəɾe̯ˈakʎə# | 213 : l > ʎ / [-cont,-ant,-cor] __
+*#pəɾe̯ˈakʎe# | 214 : ə > e / [+cons,+front,+son] __
 Common Romanian stage form : *#pəɾe̯ˈakʎe#
-*#pəɾˈekʎe# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pərˈekʎe# | 262 : ɾ > r 
-*#pərˈekje# | 275 : [+son,+cons,+front] > j 
-*#perˈekje# | 299 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo] [-strid]
+*#pəɾˈekʎe# | 236 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pərˈekʎe# | 249 : ɾ > r 
+*#pərˈekje# | 254 : [+son,+cons,+front] > j 
+*#perˈekje# | 278 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo] [-strid]
 Old Romanian stage form : *#perˈekje#
 Final form : *#perˈekje#

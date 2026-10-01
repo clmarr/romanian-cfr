@@ -4,18 +4,18 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1051:
 *#ˌadprˈopjat# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#adprˈopjat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#aprˈopjat# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
-*#aprˈopja# | 80 : [+cons,-cont] > ∅ / __ #
-*#aprˈoppja# | 126 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#aprˈopja# | 153 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#aprˈopja# | 71 : [+cons,-cont] > ∅ / __ #
+*#aprˈoppja# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#aprˈopja# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 Balkan Romance stage form : *#aprˈopja#
-*#apɾˈopja# | 169 : r > ɾ / __ [nnas,ncons]
-*#apɾˈɔpja# | 194 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#apɾˈɔapja# | 212 : ∅ > a / [-tense] __
-*#apɾˈoˈapja# | 213 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#apɾo̯ˈapja# | 214 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#apɾo̯ˈapjə# | 223 : [-cons,+lo,-stres,-long] > ə / @ __
+*#apɾˈopja# | 159 : r > ɾ / __ [nnas,ncons]
+*#apɾˈɔpja# | 182 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#apɾˈɔapja# | 200 : ∅ > a / [-tense] __
+*#apɾˈoˈapja# | 201 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#apɾo̯ˈapja# | 202 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#apɾo̯ˈapjə# | 210 : [-cons,+lo,-stres,-long] > ə / @ __
 Common Romanian stage form : *#apɾo̯ˈapjə#
-*#apro̯ˈapjə# | 262 : ɾ > r 
-*#apro̯ˈapje# | 283 : ə > e / [+front,+hi] __ #
+*#apro̯ˈapjə# | 249 : ɾ > r 
+*#apro̯ˈapje# | 262 : ə > e / [+front,+hi] __ #
 Old Romanian stage form : *#apro̯ˈapje#
 Final form : *#apro̯ˈapje#

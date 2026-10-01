@@ -3,19 +3,19 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 239:
 r ˌe n ˈu n k u l u m 
 *#renˈunkulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#renˈunkulu# | 36 : m > ∅ / [-stres] __ #
-*#renˈunklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#renˈunklu# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
 Balkan Romance stage form : *#renˈunklu#
-*#ɾenˈunklu# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾenˈunklu# | 170 : ∅ > r / # __ ɾ
-*#rɾenˈunkʎu# | 226 : l > ʎ / [-cont,-ant,-cor] __
+*#ɾenˈunklu# | 159 : r > ɾ / __ [nnas,ncons]
+*#rɾenˈunklu# | 160 : ∅ > r / # __ ɾ
+*#rɾenˈunkʎu# | 213 : l > ʎ / [-cont,-ant,-cor] __
 Common Romanian stage form : *#rɾenˈunkʎu#
-*#renˈunkʎu# | 241 : {ɾ;r} > {∅;∅} / r __
-*#rənˈunkʎu# | 242 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rərˈunkʎu# | 243 : n > r / ə __ [+syl,+hi,+back] [+nas]
-*#rərˈunkju# | 275 : [+son,+cons,+front] > j 
-*#rərˈunkjw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rərˈunkj# | 287 : w̥ > ∅ / [-syl] __ #
-*#rənˈunkj# | 310 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n [-ant]
-*#rərˈunkj# | 312 : n > r / r [+syl] __ [+syl] n
+*#renˈunkʎu# | 228 : {ɾ;r} > {∅;∅} / r __
+*#rənˈunkʎu# | 229 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rərˈunkʎu# | 230 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#rərˈunkju# | 254 : [+son,+cons,+front] > j 
+*#rərˈunkjw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rərˈunkj# | 266 : w̥ > ∅ / [-syl] __ #
+*#rənˈunkj# | 289 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+*#rərˈunkj# | 290 : n > r / r [+syl] __ [+syl] n
 Old Romanian stage form : *#rərˈunkj#
 Final form : *#rərˈunkj#

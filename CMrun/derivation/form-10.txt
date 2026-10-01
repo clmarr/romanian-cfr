@@ -4,19 +4,19 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 10:
 *#ˌadjˈuːtoː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#adjˈuːtoː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ajˈuːtoː# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adjˈuːtoː# | 97 : j > d j / [+syl,-stres] __ [+syl,+round]
-*#addjˈuːtoː# | 126 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#addjˈuto# | 130 : [+syl] > [-long,-splng] 
-*#addʲˈuto# | 138 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#adɡʲˈuto# | 141 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#aɡʲˈuto# | 153 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#adjˈuːtoː# | 87 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#addjˈuːtoː# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#addjˈuto# | 120 : [+syl] > [-long,-splng] 
+*#addʲˈuto# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲˈuto# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#aɡʲˈuto# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 Balkan Romance stage form : *#aɡʲˈuto#
-*#aɡʲˈutu# | 182 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#aɟ͡ʑˈutu# | 231 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ad͡ʒˈutu# | 232 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#aɡʲˈutu# | 171 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#aɟ͡ʑˈutu# | 218 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ad͡ʒˈutu# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#ad͡ʒˈutu#
-*#aʒˈutu# | 282 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#aʒˈutw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#aʒˈut# | 287 : w̥ > ∅ / [-syl] __ #
+*#aʒˈutu# | 261 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#aʒˈutw̥# | 265 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#aʒˈut# | 266 : w̥ > ∅ / [-syl] __ #
 Old Romanian stage form : *#aʒˈut#
 Final form : *#aʒˈut#
