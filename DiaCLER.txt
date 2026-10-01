@@ -152,12 +152,16 @@ $ [eː] dissimilation to [aː] word-initially when followed by [+hi] vowel
 
 
 $ [d] assimilations
-	d > l / [+syl,+lo] __ l
-	d > r / [+syl,+lo] __ r
-	d > w / [+syl,+lo] __ w
-	d > n / [+syl,+lo] __ n
-	d > m / [+syl,+lo] __ m
+		$CM 10/1 -- consolidated all but the last
+
+{d l;d r; d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
+	$d > l / [+syl,+lo] __ l
+	$d > r / [+syl,+lo] __ r
+	$d > w / [+syl,+lo] __ w
+	$d > n / [+syl,+lo] __ n
+	$d > m / [+syl,+lo] __ m
 	d > ∅ / [+syl,+lo] __ [-syl] $ technically, this should be an assimilation that produces a geminate, but unless we find an example where this actually matters, this works just as well and is easier to formulate $ EDIT: this does matter for r and l, so inserting rules above that take care of this
+		
 
 
 $ NEW RULE: Aphaeresis before [+son][i]

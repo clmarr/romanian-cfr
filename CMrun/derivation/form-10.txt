@@ -1,22 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 10:
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 10:
 #ˌadiˈuːtoː# >>> *#aʒˈut# ( GOLD : #aʒˈut#) :
 ˌa d i ˈuː t oː 
 *#ˌadjˈuːtoː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#adjˈuːtoː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ajˈuːtoː# | 35 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adjˈuːtoː# | 101 : j > d j / [+syl,-stres] __ [+syl,+round]
-*#addjˈuːtoː# | 130 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#addjˈuto# | 134 : [+syl] > [-long,-splng] 
-*#addʲˈuto# | 142 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#adɡʲˈuto# | 145 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#aɡʲˈuto# | 157 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#ajˈuːtoː# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
+*#adjˈuːtoː# | 97 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#addjˈuːtoː# | 126 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#addjˈuto# | 130 : [+syl] > [-long,-splng] 
+*#addʲˈuto# | 138 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲˈuto# | 141 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#aɡʲˈuto# | 153 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 Balkan Romance stage form : *#aɡʲˈuto#
-*#aɡʲˈutu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#aɟ͡ʑˈutu# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ad͡ʒˈutu# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#aɡʲˈutu# | 182 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#aɟ͡ʑˈutu# | 231 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ad͡ʒˈutu# | 232 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#ad͡ʒˈutu#
-*#aʒˈutu# | 285 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#aʒˈutw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#aʒˈut# | 290 : w̥ > ∅ / [-syl] __ #
+*#aʒˈutu# | 282 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#aʒˈutw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#aʒˈut# | 287 : w̥ > ∅ / [-syl] __ #
 Old Romanian stage form : *#aʒˈut#
 Final form : *#aʒˈut#

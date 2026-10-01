@@ -1,17 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1430:
-#mˈaɡis# >>> *#mˈad͡ʒj# ( GOLD : #mˈaj#) :
-m ˈa ɡ i s 
-*#mˈaɡiːs# | 128 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#mˈaɡis# | 133 : [+syl] > [-long,-splng] 
-*#mˈaɡʲis# | 167 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#mˈaɡʲi# | 171 : s > ∅ / __ #
-Balkan Romance stage form : *#mˈaɡʲi#
-*#mˈaɡʲji# | 205 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#mˈaɡʲi# | 208 : j > ∅ / [+cons,+front] __
-*#mˈaɟ͡ʑi# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mˈad͡ʒi# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mˈad͡ʒi#
-*#mˈad͡ʒj̊# | 288 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈad͡ʒj# | 290 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#mˈad͡ʒj#
-Final form : *#mˈad͡ʒj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1430:
+#vertˈiɡium# >>> *#vertˈej# ( GOLD : #vərtˈeʒ#) :
+v e r t ˈi ɡ i u m 
+*#vertˈiɡjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#vertˈiɡju# | 40 : m > ∅ / [-stres] __ #
+*#vertˈiju# | 117 : ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
+*#vertˈeju# | 132 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#vertˈeju#
+Common Romanian stage form : *#vertˈeju#
+*#vertˈejw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vertˈej# | 290 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vertˈej#
+Final form : *#vertˈej#

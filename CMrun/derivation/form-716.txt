@@ -1,14 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 716:
-#ˌekstˈirpum# >>> *#stˈerp# ( GOLD : #stˈerp#) :
-ˌe k s t ˈi r p u m 
-*#ekstˈirpum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekstˈirpu# | 40 : m > ∅ / [-stres] __ #
-*#estˈirpu# | 102 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estˈerpu# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#stˈerpu# | 135 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stˈerpu#
-Common Romanian stage form : *#stˈerpu#
-*#stˈerpw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#stˈerp# | 290 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#stˈerp#
-Final form : *#stˈerp#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 716:
+#ˌekstˌirpˈiː# >>> *#sterpˈi# ( GOLD : #stɨrpˈi#) :
+ˌe k s t ˌi r p ˈiː 
+*#ekstirpˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#estirpˈiː# | 98 : [-cont] > ∅ / __ [+strid] [+cons]
+*#esterpˈiː# | 128 : [+syl,-long,+hi,-back] > [-hi] 
+*#esterpˈi# | 130 : [+syl] > [-long,-splng] 
+*#sterpˈi# | 131 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sterpˈi#
+Common Romanian stage form : *#sterpˈi#
+Old Romanian stage form : *#sterpˈi#
+Final form : *#sterpˈi#

@@ -1,24 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 953:
-#kwadraːɡˈeːsimiː# >>> *#pərəˈesimj# ( GOLD : #pərˈesimj#) :
-k w a d r aː ɡ ˈeː s i m iː 
-*#kwarraːɡˈeːsimiː# | 31 : d > r / [+syl,+lo] __ r
-*#kβarraːɡˈeːsimiː# | 96 : w > β / __ ( [-cons] ( @ )* ) #
-*#parraːɡˈeːsimiː# | 113 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
-*#parraːˈeːsimiː# | 117 : ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
-*#parraːˈeːsemiː# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#parraˈesemi# | 134 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#parraˈesemi#
-*#parɾaˈesemi# | 173 : r > ɾ / __ [nnas,ncons]
-*#parɾaˈɛsemi# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#parɾaˈɛasemi# | 216 : ∅ > a / [-tense] __
-*#parɾaˈeˈasemi# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#parɾae̯ˈasemi# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pərɾəe̯ˈasemi# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pərɾəe̯ˈasemi#
-*#pərəe̯ˈasemi# | 244 : {ɾ;r} > {∅;∅} / r __
-*#pərəˈesemi# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pərəˈesemj̊# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pərəˈesemj# | 291 : {w̥;j̊} > {w;j} 
-*#pərəˈesimj# | 299 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-Old Romanian stage form : *#pərəˈesimj#
-Final form : *#pərəˈesimj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 953:
+#pekkˈaːtum# >>> *#pəkˈat# ( GOLD : #pəkˈat#) :
+p e k k ˈaː t u m 
+*#pekkˈaːtu# | 36 : m > ∅ / [-stres] __ #
+*#pekkˈatu# | 130 : [+syl] > [-long,-splng] 
+*#pekˈatu# | 153 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#pekˈatu#
+Common Romanian stage form : *#pekˈatu#
+*#pəkˈatu# | 238 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəkˈatw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəkˈat# | 287 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pəkˈat#
+Final form : *#pəkˈat#

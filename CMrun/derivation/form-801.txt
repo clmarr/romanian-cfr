@@ -1,19 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 801:
-#wˌultˈurium# >>> *#vultˈur# ( GOLD : #vultˈur#) :
-w ˌu l t ˈu r i u m 
-*#wˌultˈurjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wultˈurjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wultˈurju# | 40 : m > ∅ / [-stres] __ #
-*#βultˈurju# | 96 : w > β / __ ( [-cons] ( @ )* ) #
-*#vultˈurju# | 148 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vultˈurju#
-*#vultˈuɾju# | 173 : r > ɾ / __ [nnas,ncons]
-*#vultˈuɾʲju# | 208 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#vultˈuɾʲu# | 209 : j > ∅ / [+cons,+front] __
-*#vultˈuɾu# | 213 : ɾʲ > ɾ / [+hi] __
-Common Romanian stage form : *#vultˈuɾu#
-*#vultˈuru# | 265 : ɾ > r 
-*#vultˈurw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vultˈur# | 290 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vultˈur#
-Final form : *#vultˈur#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 801:
+#ˌupˈupad͡zam# >>> *#pˈupəzə# ( GOLD : #pˈupəzə#) :
+ˌu p ˈu p a d͡z a m 
+*#upˈupad͡zam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#upˈupad͡za# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#upˈupad͡za#
+*#upˈupəd͡zə# | 223 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#upˈupəd͡zə#
+*#pˈupəd͡zə# | 254 : u > ∅ / # __ [+cons,-cor,-front]
+*#pˈupəzə# | 281 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#pˈupəzə#
+Final form : *#pˈupəzə#

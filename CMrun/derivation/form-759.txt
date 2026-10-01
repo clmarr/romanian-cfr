@@ -1,17 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 759:
-#wˈerrum# >>> *#vjˈer# ( GOLD : #vjˈer#) :
-w ˈe r r u m 
-*#wˈerru# | 40 : m > ∅ / [-stres] __ #
-*#βˈerru# | 96 : w > β / __ ( [-cons] ( @ )* ) #
-*#βˈɛrru# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛrru# | 148 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vˈɛrru#
-*#vˈɛrɾu# | 173 : r > ɾ / __ [nnas,ncons]
-*#vjˈɛrɾu# | 180 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#vjˈerɾu# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#vjˈerɾu#
-*#vjˈeru# | 244 : {ɾ;r} > {∅;∅} / r __
-*#vjˈerw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vjˈer# | 290 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vjˈer#
-Final form : *#vjˈer#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 759:
+#wˈakkam# >>> *#vˈakə# ( GOLD : #vˈakə#) :
+w ˈa k k a m 
+*#wˈakka# | 36 : m > ∅ / [-stres] __ #
+*#βˈakka# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#vˈakka# | 144 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+*#vˈaka# | 153 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#vˈaka#
+*#vˈakə# | 223 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#vˈakə#
+Old Romanian stage form : *#vˈakə#
+Final form : *#vˈakə#

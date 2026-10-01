@@ -1,11 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 736:
-#kˈanem# >>> *#kˈɨjne# ( GOLD : #kˈɨjne#) :
-k ˈa n e m 
-*#kˈane# | 40 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#kˈane#
-*#kˈəne# | 219 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#kˈəne#
-*#kˈɨne# | 275 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
-*#kˈɨjne# | 309 : ∅ > j / ˈɨ __ n [-cons,+front,-lo] ( [+syl] ) #
-Old Romanian stage form : *#kˈɨjne#
-Final form : *#kˈɨjne#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 736:
+#kˌabˈallum# >>> *#kˈal# ( GOLD : #kˈal#) :
+k ˌa b ˈa l l u m 
+*#kabˈallum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kabˈallu# | 36 : m > ∅ / [-stres] __ #
+*#kaβˈallu# | 127 : b > β / [-cons] __ [+cont]
+*#kaˈallu# | 159 : β > ∅ 
+Balkan Romance stage form : *#kaˈallu#
+*#kaˈalu# | 203 : {l l;m m} > {l;m} 
+*#kˈalu# | 219 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
+Common Romanian stage form : *#kˈalu#
+*#kˈalw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈal# | 287 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kˈal#
+Final form : *#kˈal#

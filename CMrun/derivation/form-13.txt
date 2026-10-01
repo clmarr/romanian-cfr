@@ -1,20 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 13:
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 13:
 #ˌadlˈeɡe# >>> *#alˈed͡ʒe# ( GOLD : #alˈed͡ʒe#) :
 ˌa d l ˈe ɡ e 
 *#adlˈeɡe# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#allˈeɡe# | 30 : d > l / [+syl,+lo] __ l
-*#allˈɛɡe# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#allˈɛɡʲe# | 168 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#allˈeɡe# | 30 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
+*#allˈɛɡe# | 124 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#allˈɛɡʲe# | 164 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
 Balkan Romance stage form : *#allˈɛɡʲe#
-*#allˈeɡʲe# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#allˈɛɡʲe# | 198 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#alˈɛɡʲe# | 207 : {l l;m m} > {l;m} 
-*#alˈɛaɡʲe# | 216 : ∅ > a / [-tense] __
-*#alˈeˈaɡʲe# | 217 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ale̯ˈaɡʲe# | 218 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ale̯ˈaɟ͡ʑe# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ale̯ˈad͡ʒe# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#allˈeɡʲe# | 179 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#allˈɛɡʲe# | 194 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#alˈɛɡʲe# | 203 : {l l;m m} > {l;m} 
+*#alˈɛaɡʲe# | 212 : ∅ > a / [-tense] __
+*#alˈeˈaɡʲe# | 213 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ale̯ˈaɡʲe# | 214 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ale̯ˈaɟ͡ʑe# | 231 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ale̯ˈad͡ʒe# | 232 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#ale̯ˈad͡ʒe#
-*#alˈed͡ʒe# | 252 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#alˈed͡ʒe# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
 Old Romanian stage form : *#alˈed͡ʒe#
 Final form : *#alˈed͡ʒe#

@@ -1,16 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 709:
-#sˌilwˈaːtikum# >>> *#səlbˈatek# ( GOLD : #səlbˈatik#) :
-s ˌi l w ˈaː t i k u m 
-*#silwˈaːtikum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#silwˈaːtiku# | 40 : m > ∅ / [-stres] __ #
-*#silβˈaːtiku# | 96 : w > β / __ ( [-cons] ( @ )* ) #
-*#selβˈaːteku# | 132 : [+syl,-long,+hi,-back] > [-hi] 
-*#selβˈateku# | 134 : [+syl] > [-long,-splng] 
-*#selbˈateku# | 155 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#selbˈateku#
-Common Romanian stage form : *#selbˈateku#
-*#səlbˈateku# | 282 : e > ə / s __ [+cons,αson,αlat] [+cons]
-*#səlbˈatekw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#səlbˈatek# | 290 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#səlbˈatek#
-Final form : *#səlbˈatek#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 709:
+#dˌomˈestikum# >>> *#dumˈestek# ( GOLD : #dumˈestek#) :
+d ˌo m ˈe s t i k u m 
+*#domˈestikum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#domˈestiku# | 36 : m > ∅ / [-stres] __ #
+*#domˈɛstiku# | 124 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#domˈɛsteku# | 128 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#domˈɛsteku#
+*#domjˈɛsteku# | 176 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#domjˈesteku# | 179 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dumjˈesteku# | 183 : o > u / __ [+lab,+cont,+cons]
+*#dumjˈɛsteku# | 194 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dumjˈɛasteku# | 212 : ∅ > a / [-tense] __
+*#dumjˈeˈasteku# | 213 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dumje̯ˈasteku# | 214 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#dumje̯ˈasteku#
+*#dumjˈesteku# | 249 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#dumˈesteku# | 255 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#dumˈestekw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dumˈestek# | 287 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dumˈestek#
+Final form : *#dumˈestek#

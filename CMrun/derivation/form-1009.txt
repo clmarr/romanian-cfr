@@ -1,13 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1009:
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1009:
 #ˌadmˌo# >>> *#am# ( GOLD : #amu#) :
 ˌa d m ˌo 
 *#admo# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammo# | 34 : d > m / [+syl,+lo] __ m
+*#ammo# | 30 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
 Balkan Romance stage form : *#ammo#
-*#ammu# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#amu# | 207 : {l l;m m} > {l;m} 
+*#ammu# | 182 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#amu# | 203 : {l l;m m} > {l;m} 
 Common Romanian stage form : *#amu#
-*#amw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#am# | 290 : w̥ > ∅ / [-syl] __ #
+*#amw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#am# | 287 : w̥ > ∅ / [-syl] __ #
 Old Romanian stage form : *#am#
 Final form : *#am#

@@ -1,17 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 922:
-#potˈentiam# >>> *#putˈint͡sə# ( GOLD : #putˈint͡sə#) :
-p o t ˈe n t i a m 
-*#potˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#potˈentja# | 40 : m > ∅ / [-stres] __ #
-*#potˈɛntja# | 128 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#potˈɛntʲa# | 142 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#potˈɛntʲa#
-*#potˈentʲa# | 178 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#putˈentʲa# | 186 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#putˈentʲə# | 227 : [-cons,+lo,-stres,-long] > ə / @ __
-*#putˈent͡sʲə# | 234 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#putˈent͡sə# | 235 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#putˈent͡sə#
-*#putˈint͡sə# | 248 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#putˈint͡sə#
-Final form : *#putˈint͡sə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 922:
+#liɡaːmˈentum# >>> *#leɡəmˈɨnt# ( GOLD : #leɡəmˈɨnt#) :
+l i ɡ aː m ˈe n t u m 
+*#liɡaːmˈentu# | 36 : m > ∅ / [-stres] __ #
+*#liɡaːmˈɛntu# | 124 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#leɡaːmˈɛntu# | 128 : [+syl,-long,+hi,-back] > [-hi] 
+*#leɡamˈɛntu# | 130 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#leɡamˈɛntu#
+*#leɡamˈentu# | 174 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#leɡəmˈentu# | 223 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#leɡəmˈentu#
+*#leɡəmˈəntu# | 238 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#leɡəmˈɨntu# | 272 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / [+cons] __ [+nas,-lab]
+*#leɡəmˈɨntw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#leɡəmˈɨnt# | 287 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#leɡəmˈɨnt#
+Final form : *#leɡəmˈɨnt#

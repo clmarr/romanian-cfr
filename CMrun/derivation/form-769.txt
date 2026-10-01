@@ -1,10 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 769:
-#lˈupum# >>> *#lˈup# ( GOLD : #lˈup#) :
-l ˈu p u m 
-*#lˈupu# | 40 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#lˈupu#
-Common Romanian stage form : *#lˈupu#
-*#lˈupw̥# | 289 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lˈup# | 290 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#lˈup#
-Final form : *#lˈup#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 769:
+#lˈeporem# >>> *#jˈepure# ( GOLD : #jˈepure#) :
+l ˈe p o r e m 
+*#lˈepore# | 36 : m > ∅ / [-stres] __ #
+*#lˈɛpore# | 124 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#lˈɛpore#
+*#lˈɛpoɾe# | 169 : r > ɾ / __ [nnas,ncons]
+*#ljˈɛpoɾe# | 176 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#ljˈepoɾe# | 179 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ljˈepuɾe# | 182 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#lʲjˈepuɾe# | 204 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lʲˈepuɾe# | 205 : j > ∅ / [+cons,+front] __
+*#ʎˈepuɾe# | 210 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#ʎˈepuɾe#
+*#ʎˈepure# | 262 : ɾ > r 
+*#jˈepure# | 275 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#jˈepure#
+Final form : *#jˈepure#

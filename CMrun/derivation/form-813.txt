@@ -1,13 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 813:
-#flˌuktulˈaː# >>> *#fluturˈa# ( GOLD : #fluturˈa#) :
-f l ˌu k t u l ˈaː 
-*#fluktulˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#fluptulˈaː# | 106 : k > p / __ t
-*#flutulˈaː# | 110 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
-*#flutulˈa# | 134 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#flutulˈa#
-*#flutuɾˈa# | 192 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#flutuɾˈa#
-*#fluturˈa# | 265 : ɾ > r 
-Old Romanian stage form : *#fluturˈa#
-Final form : *#fluturˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 813:
+#flˈuktul# >>> *#flˈuture# ( GOLD : #flˈuture#) :
+f l ˈu k t u l 
+*#flˈuktule# | 82 : ∅ > e / l __ #
+*#flˈuptule# | 102 : k > p / __ t
+*#flˈutule# | 106 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
+Balkan Romance stage form : *#flˈutule#
+*#flˈutuɾe# | 188 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#flˈutuɾe#
+*#flˈuture# | 262 : ɾ > r 
+Old Romanian stage form : *#flˈuture#
+Final form : *#flˈuture#
