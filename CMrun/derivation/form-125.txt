@@ -1,5 +1,5 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 125:
-#ekskˌarminˈaː# >>> *#skərminˈa# ( GOLD : #skərmənˈa#) :
+#ekskˌarminˈaː# >>> *#skərmenˈa# ( GOLD : #skərmənˈa#) :
 e k s k ˌa r m i n ˈaː 
 *#ekskarminˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#eskarminˈaː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
@@ -8,9 +8,11 @@ e k s k ˌa r m i n ˈaː
 *#skarmenˈa# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
 Balkan Romance stage form : *#skarmenˈa#
 *#skaɾmenˈa# | 159 : r > ɾ / __ [nnas,ncons]
-*#skaɾminˈa# | 189 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#skəɾminˈa# | 212 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#skəɾminˈa#
-*#skərminˈa# | 251 : ɾ > r 
-Old Romanian stage form : *#skərminˈa#
-Final form : *#skərminˈa#
+*#skaɾmanˈa# | 164 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor,+son] ) __ n [+syl,uround,uhi]
+*#skaɾmənˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#skəɾmənˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skəɾmənˈa#
+*#skərmənˈa# | 252 : ɾ > r 
+*#skərmenˈa# | 254 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) ( [-cons,-syl,-round] ) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] ( [-cons] ( @ )* ) #
+Old Romanian stage form : *#skərmenˈa#
+Final form : *#skərmenˈa#
