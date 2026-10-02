@@ -25,6 +25,9 @@ $ CM 10/2 HR.1c -- Bn > m. Bleeds RTR cluster reduction much later.
 $CM 10/2 HR.1d stress retraction V1 cor ˈV2 j V3 > ˈV1 C j V3  onto V1 if V1 is not initial. Feeds HR.2a and HR.3a
 [+syl] [+cor] [+prim] > [+prim] [+cor] ∅ / [+syl] (@)* __ j [+syl] ([-syl]) #
 
+$CM HR.1e u: to y:
+[+hi,+round,+long] > [-back,+front]
+
 	$-- 2
 $CM 10/2 HR.2a ˈVlo,-round > e / __ (C)+ j. Counterbled by HR.3a
 [+lo,+prim,-round] > ˈe / __ ([-syl])+ j 
@@ -36,8 +39,8 @@ $CM 10/2 HR.2d ec > e. Counterbleeds HR.1d
 [+syl,+front,-lo] j > [+long] ∅
 
 	$-- 3
-$CM 10/2 HR.3a -- ln, ʎw, lw, lj > ll. Counterbleeds HR.2a
-[+lat] [+son,-syl] > l l
+$CM 10/2 HR.3a -- ʎw, lw, lj > ll. 
+[+lat] [-cons,-syl] > l l
 
 $CM 10/2 HR.3b ɐ > ə after except after peripherals. Feeds .5a. Bled by .1d + .2a
 ɐ > ə / # ((@)* [+cor]) __
@@ -51,16 +54,18 @@ $CM 10/2 HR.5a ə > ∅. Bled by HR.2b. Counterfeeds HR.1b and HR.1d
 ə > ∅
 
 
-
 $--- rules below here are confirmed to not be Albanian-internal
 
-$CM 10/2 HR.13 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc. Counterbled by CM 10/2 HR.16
+$CM 10/2 HR.8a -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc. Counterbled by CM 10/2 HR.9b
 [+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
 
-$CM 10/2 HR.14 -- raising of APA *ɒː elsewhere
+
+	$--9
+$CM 10/2 HR.9a -- raising of APA *ɒː elsewhere
 [+syl,+round] > [-lo]
 
-$CM 10/2 HR.16 --consonants unround 
+
+$CM 10/2 HR.9b --consonants unround 
 [+cons,+round] > [-round,-lab]
 
 =Latin
@@ -1049,6 +1054,8 @@ $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
 		$CM 9/18/26 fix -- this is much simpler. It happens for ALL posttonicll before a, and before a stressed vowel, with at least one non-labial element beforehand, which can be the prior tonic vowel. All exceptions have no non-labials beforehand: pulla to pulă, molla to moală, olla to oală; or, they are after non-tonic vowels: călăreți etc. As such, however, it must come before diphthongization in moală and oală. 
 	l l > w / # (@)* [-lab] (@)* __ a (([-syl])* [-prim])* ([-syl])* #
 
+	$ CM 10/2 -- ln from APAlb words > ll at this time. Counterfeeds ll > w
+n > l / l __
 
 	$ CM 9/18/26 -- moved R39 and R40 before R31B, in order to enable new depalatalization rule. 
 $ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tăciune 
