@@ -3,11 +3,13 @@ n > r / r __
 [+lab,+cons] n > m
 [+syl] [+cor] [+prim] > [+prim,+stres,+syl,+son] [+cor] ∅/ [+syl] ( @ )* __ j [+syl] ( [-syl] ) #
 [+lo,+prim,-round] > ˈe / __ [-syl] ( [-syl] )* j
-ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
+t͡s > f / __ [+syl,-lab] [+cor] ( [+cor] )* [+syl]
 [+syl,+front,-lo] j > [+long] ∅
 [+lat] [+son,-syl] > l l
+ɐ > ə / # ( ( @ )* [+cor] ) __
+ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
 ə > ∅ 
-[+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
+[+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
 [+syl,+round] > [-lo] 
 [+cons,+round] > [-round,-lab] 
 e̯ > ∅ / # [+lo] __ [+son]
