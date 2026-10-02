@@ -29,8 +29,8 @@ $CM HR.1e u: to y:
 [+hi,+round,+long] > [-back,+front]
 
 	$-- 2
-$CM 10/2 HR.2a ˈVlo,-round > e / __ (C)+ j. Counterbled by HR.3a
-[+lo,+prim,-round] > ˈe / __ ([-syl])+ j 
+$CM 10/2 HR.2a ˈVlo,-round > eː / __ (C)+ j. Counterbled by HR.3a
+[+lo,+prim,-round] > ˈeː / __ ([-syl])+ j 
 
 $CM 10/2 H.2b t͡s > f before non-labial V Ccor+ V
 t͡s > f / __ [+syl,-lab] ([+cor])+ [+syl]
@@ -38,12 +38,13 @@ t͡s > f / __ [+syl,-lab] ([+cor])+ [+syl]
 $CM 10/2 HR.2d ec > e. Counterbleeds HR.1d
 [+syl,+front,-lo] j > [+long] ∅
 
+
 	$-- 3
 $CM 10/2 HR.3a -- ʎw, lw, lj > ll. 
 [+lat] [-cons,-syl] > l l
 
-$CM 10/2 HR.3b ɐ > ə after except after peripherals. Feeds .5a. Bled by .1d + .2a
-ɐ > ə / # ((@)* [+cor]) __
+$CM 10/2 HR.3b ɐ > ə after except after laterals/peripherals. Feeds .5a. Bled by .1d + .2a
+ɐ > ə / # ((@)* [+cor,-lat]) __
 
 	$--4
 $CM 10/2 HR.4a ə > ɐ in R __ velar. Bleeds HR.5a
@@ -53,6 +54,9 @@ $CM 10/2 HR.4a ə > ɐ in R __ velar. Bleeds HR.5a
 $CM 10/2 HR.5a ə > ∅. Bled by HR.2b. Counterfeeds HR.1b and HR.1d
 ə > ∅
 
+	$ -- 6 
+$ HR.6a t͡s > s except when postcoronal. Bled by HR.5a by creating tts etc sequences. May be much later.
+t͡s > s / # ((@)* [-cor]) __
 
 $--- rules below here are confirmed to not be Albanian-internal
 
@@ -173,7 +177,7 @@ $ NEW RULE: [aw] > [a] word-initially when a [+round] segment is up to 3 phones 
 
 $ NEW RULE: Early syncope of [e] between [l] and [w]
 	$ Only affects 2 words... FLAG -- reexamine later -- removed; spurious.
-		[+front,-hi,-lo,-stres] > ∅ / l __ w 
+		[+front,-hi,-lo,-stres] > ∅ / @ l __ w 
 
 $ EXTREMELY dubious new rule: intervocalic [n]-tapping before stressed vowel and cluster with [r]
 	$ Only affects fenestra>fereastră... FLAG -- reexamine later

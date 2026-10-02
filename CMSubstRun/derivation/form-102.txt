@@ -1,12 +1,21 @@
 Derivation file for run '../romanian-cfr/CMSubstRun'; form ID 102:
-#mˈurɡuʃ# >>> *#mˈorɡ# ( GOLD : #mˈurɡ#) :
-m ˈu r ɡ u ʃ 
-Latin stage form : *#mˈurɡuʃ#
-*#mˈorɡuʃ# | 57 : [+hi,+stres] > [-hi] / [+nas] __ r
-*#mˈorɡu# | 173 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#mˈorɡu#
-Balkan Romance stage form : *#mˈorɡu#
-*#mˈorɡw̥# | 283 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈorɡ# | 284 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mˈorɡ#
-Final form : *#mˈorɡ#
+#mɐrˈadrju# >>> *#merˈedr# ( GOLD : #mərˈarju#) :
+m ɐ r ˈa d r j u 
+*#mɐrˈeːdrju# | 5 : [+lo,+prim,-round] > ˈeː / __ [-syl] ( [-syl] )* j
+Latin stage form : *#mɐrˈeːdrju#
+*#mɐrˈedrju# | 136 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mɐrˈedrju#
+Balkan Romance stage form : *#mɐrˈedrju#
+*#mɐɾˈedɾju# | 175 : r > ɾ / __ [nnas,ncons]
+*#mɑɾˈedɾju# | 187 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mɑɾˈedɾʲju# | 212 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mɑɾˈedɾʲu# | 213 : j > ∅ / [+cons,+front] __
+*#məɾˈedɾʲu# | 230 : [-cons,+lo,-stres,-long] > ə / @ __
+*#məɾˈedjɾu# | 236 : ɾʲ > j ɾ 
+*#mərˈedjru# | 269 : ɾ > r 
+*#mərˈedjrw̥# | 284 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mərˈedjr# | 285 : w̥ > ∅ / [-syl] __ #
+*#mərˈedr# | 293 : j > ∅ / __ r
+*#merˈedr# | 297 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo] [-strid]
+Old Romanian stage form : *#merˈedr#
+Final form : *#merˈedr#
