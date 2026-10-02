@@ -1,23 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1153:
-#ˌinkwiˈeːtum# >>> *#ɨnt͡ʃˈet# ( GOLD : #ɨnt͡ʃˈet#) :
-ˌi n k w i ˈeː t u m 
-*#ˌinkwjˈeːtum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inkwjˈeːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkwjˈeːtu# | 36 : m > ∅ / [-stres] __ #
-*#inkβjˈeːtu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#enkβjˈeːtu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkβjˈetu# | 120 : [+syl] > [-long,-splng] 
-*#enkjˈetu# | 149 : β > ∅ 
-*#enkʲjˈetu# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#enkʲjˈetu#
-*#ankʲjˈetu# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ankʲˈetu# | 196 : j > ∅ / [+cons,+front] __
-*#ənkʲˈetu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənc͡ɕˈetu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənt͡ʃˈetu# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənt͡ʃˈetu#
-*#ɨnt͡ʃˈetu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnt͡ʃˈetw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨnt͡ʃˈet# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɨnt͡ʃˈet#
-Final form : *#ɨnt͡ʃˈet#
+#maɡˈistrum# >>> *#məjˈestru# ( GOLD : #məjˈestru#) :
+m a ɡ ˈi s t r u m 
+*#maɡˈistru# | 36 : m > ∅ / [-stres] __ #
+*#maˈistru# | 103 : ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
+*#maˈestru# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#majˈestru# | 153 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
+Balkan Romance stage form : *#majˈestru#
+*#majˈestɾu# | 159 : r > ɾ / __ [nnas,ncons]
+*#məjˈestɾu# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#məjˈestɾu#
+*#məjˈestru# | 252 : ɾ > r 
+*#məjˈestrw# | 266 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#məjˈestru# | 270 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#məjˈestru#
+Final form : *#məjˈestru#

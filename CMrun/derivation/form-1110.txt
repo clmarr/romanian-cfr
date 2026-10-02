@@ -1,13 +1,9 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1110:
-#ˌadmˌikstikˈaː# >>> *#amestekˈa# ( GOLD : #amestekˈa#) :
-ˌa d m ˌi k s t i k ˈaː 
-*#admikstikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammikstikˈaː# | 30 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-*#ammistikˈaː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#ammestekˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#ammestekˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ammestekˈa#
-*#amestekˈa# | 194 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#amestekˈa#
-Old Romanian stage form : *#amestekˈa#
-Final form : *#amestekˈa#
+#abskˈonde# >>> *#askˈunde# ( GOLD : #askˈunde#) :
+a b s k ˈo n d e 
+*#askˈonde# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
+Balkan Romance stage form : *#askˈonde#
+*#askˈunde# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#askˈunde#
+Old Romanian stage form : *#askˈunde#
+Final form : *#askˈunde#

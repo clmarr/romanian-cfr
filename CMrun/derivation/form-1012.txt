@@ -1,21 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1012:
-#ˌaliˈoːreːs# >>> *#ajo̯ˈare# ( GOLD : #ajˈure#) :
-ˌa l i ˈoː r eː s 
-*#ˌaljˈoːreːs# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#aljˈoːreːs# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#aljˈores# | 120 : [+syl] > [-long,-splng] 
-*#aljˈore# | 158 : s > ∅ / __ #
-Balkan Romance stage form : *#aljˈore#
-*#aljˈoɾe# | 159 : r > ɾ / __ [nnas,ncons]
-*#aljˈɔɾe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#alʲjˈɔɾe# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#alʲˈɔɾe# | 196 : j > ∅ / [+cons,+front] __
-*#aʎˈɔɾe# | 201 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#aʎˈɔaɾe# | 203 : ∅ > a / [-tense] __
-*#aʎˈoˈaɾe# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#aʎo̯ˈaɾe# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#aʎo̯ˈaɾe#
-*#aʎo̯ˈare# | 252 : ɾ > r 
-*#ajo̯ˈare# | 256 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#ajo̯ˈare#
-Final form : *#ajo̯ˈare#
+#ˌadfˈoraːs# >>> *#afo̯ˈarə# ( GOLD : #afˈarə#) :
+ˌa d f ˈo r aː s 
+*#adfˈoraːs# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#afˈoraːs# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
+*#afˈoras# | 120 : [+syl] > [-long,-splng] 
+*#afˈora# | 158 : s > ∅ / __ #
+Balkan Romance stage form : *#afˈora#
+*#afˈoɾa# | 159 : r > ɾ / __ [nnas,ncons]
+*#afˈɔɾa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#afˈɔaɾa# | 203 : ∅ > a / [-tense] __
+*#afˈoˈaɾa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#afo̯ˈaɾa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#afo̯ˈaɾə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#afo̯ˈaɾə#
+*#afo̯ˈarə# | 252 : ɾ > r 
+Old Romanian stage form : *#afo̯ˈarə#
+Final form : *#afo̯ˈarə#

@@ -1,19 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 832:
-#dˌeːsˈertum# >>> *#deʃˈert# ( GOLD : #deʃˈert#) :
-d ˌeː s ˈe r t u m 
-*#deːsˈertum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#deːsˈertu# | 36 : m > ∅ / [-stres] __ #
-*#deːsˈɛrtu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#desˈɛrtu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#desˈɛrtu#
-*#desjˈɛrtu# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#desjˈertu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#desʲjˈertu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#desʲˈertu# | 196 : j > ∅ / [+cons,+front] __
-*#deɕˈertu# | 201 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#deʃˈertu# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#deʃˈertu#
-*#deʃˈertw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#deʃˈert# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#deʃˈert#
-Final form : *#deʃˈert#
+#deˈorsum# >>> *#ʒˈos# ( GOLD : #ʒˈos#) :
+d e ˈo r s u m 
+*#djˈorsum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#djˈorsu# | 36 : m > ∅ / [-stres] __ #
+*#djˈossu# | 90 : r > s / [+cor] ( [-cons] )* __ s
+*#dʲˈossu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲˈossu# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲˈosu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#ɡʲˈosu#
+*#ɟ͡ʑˈosu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒˈosu# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒˈosu#
+*#ʒˈosu# | 262 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ʒˈosw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʒˈos# | 268 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ʒˈos#
+Final form : *#ʒˈos#

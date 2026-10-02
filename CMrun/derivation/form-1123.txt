@@ -1,23 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1123:
-#ekstˈerɡe# >>> *#ʃtˈerd͡ʒe# ( GOLD : #ʃtˈerd͡ʒe#) :
-e k s t ˈe r ɡ e 
-*#estˈerɡe# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estˈɛrɡe# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#stˈɛrɡe# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#stˈɛrɡʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#stˈɛrɡʲe#
-*#stjˈɛrɡʲe# | 170 : ∅ > j / s t __ [-cons,-tense,+prim]
-*#stjˈerɡʲe# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#stjˈɛrɡʲe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#stʲjˈɛrɡʲe# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#stʲˈɛrɡʲe# | 196 : j > ∅ / [+cons,+front] __
-*#stʲˈɛarɡʲe# | 203 : ∅ > a / [-tense] __
-*#stʲˈeˈarɡʲe# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#stʲe̯ˈarɡʲe# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ʃte̯ˈarɡʲe# | 220 : s [-cont,+front] > ʃ t
-*#ʃte̯ˈarɟ͡ʑe# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ʃte̯ˈard͡ʒe# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃte̯ˈard͡ʒe#
-*#ʃtˈerd͡ʒe# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#ʃtˈerd͡ʒe#
-Final form : *#ʃtˈerd͡ʒe#
+#ekspulwerˈaː# >>> *#spulberˈa# ( GOLD : #spulberˈa#) :
+e k s p u l w e r ˈaː 
+*#ekspulβerˈaː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#espulβerˈaː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espulβerˈa# | 120 : [+syl] > [-long,-splng] 
+*#spulβerˈa# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#spulberˈa# | 141 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+Balkan Romance stage form : *#spulberˈa#
+*#spulbeɾˈa# | 159 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#spulbeɾˈa#
+*#spulbəɾˈa# | 228 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#spulbərˈa# | 252 : ɾ > r 
+*#spulberˈa# | 253 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,!ufront] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+Old Romanian stage form : *#spulberˈa#
+Final form : *#spulberˈa#

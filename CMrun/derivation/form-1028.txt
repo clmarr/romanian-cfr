@@ -1,16 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1028:
-#ˌinˌadpˈost# >>> *#ɨnəpˈoj# ( GOLD : #ɨnapˈoj#) :
-ˌi n ˌa d p ˈo s t 
-*#inadpˈost# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inapˈost# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
-*#inapˈos# | 71 : [+cons,-cont] > ∅ / __ #
-*#enapˈos# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enapˈoj# | 157 : s > j / [+stres] __ #
-Balkan Romance stage form : *#enapˈoj#
-*#anapˈoj# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənapˈoj# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənəpˈoj# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənəpˈoj#
-*#ɨnəpˈoj# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnəpˈoj#
-Final form : *#ɨnəpˈoj#
+#ˌinˌadˈintroː# >>> *#ɨnədˈintru# ( GOLD : #ɨnəˈuntru#) :
+ˌi n ˌa d ˈi n t r oː 
+*#inadˈintroː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enadˈentroː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enadˈentro# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enadˈentro#
+*#enadˈentɾo# | 159 : r > ɾ / __ [nnas,ncons]
+*#anadˈentɾo# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#anadˈentɾu# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənadˈentɾu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənədˈentɾu# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ənədˈentɾu#
+*#ənədˈintɾu# | 235 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ənədˈintru# | 252 : ɾ > r 
+*#ɨnədˈintru# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnədˈintrw# | 266 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#ɨnədˈintru# | 270 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#ɨnədˈintru#
+Final form : *#ɨnədˈintru#

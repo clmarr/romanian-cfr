@@ -1,29 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1016:
-#ˌaddˌeːˌinˈillahoːram# >>> *#adine̯ˈawrə# ( GOLD : #adine̯ˈawrj#) :
-ˌa d d ˌeː ˌi n ˈi l l a h oː r a m 
-*#ˌaddˌeːnˈillahoːram# | 4 : [+syl,-long] > ∅ / [+syl,+long] __
-*#addeːnˈillahoːram# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#adeːnˈillahoːram# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adeːnˈillaoːram# | 33 : h > ∅ 
-*#adeːnˈillaoːra# | 36 : m > ∅ / [-stres] __ #
-*#adeːnˈellaoːra# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#adenˈellaora# | 120 : [+syl] > [-long,-splng] 
-*#adenˈellara# | 150 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#adenˈellara#
-*#adenˈellaɾa# | 159 : r > ɾ / __ [nnas,ncons]
-*#adenˈɛllaɾa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#adinˈɛllaɾa# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#adinˈɛwaɾa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#adjinˈɛwaɾa# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#adʲjinˈɛwaɾa# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#adʲinˈɛwaɾa# | 196 : j > ∅ / [+cons,+front] __
-*#adinˈɛwaɾa# | 198 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
-*#adinˈɛawaɾa# | 203 : ∅ > a / [-tense] __
-*#adinˈeˈawaɾa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#adine̯ˈawaɾa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#adine̯ˈawəɾə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#adine̯ˈawɾə# | 214 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-Common Romanian stage form : *#adine̯ˈawɾə#
-*#adine̯ˈawrə# | 252 : ɾ > r 
-Old Romanian stage form : *#adine̯ˈawrə#
-Final form : *#adine̯ˈawrə#
+#dˌeːˌekkeˈinde# >>> *#det͡ʃˈinde# ( GOLD : #det͡ʃˈinde#) :
+d ˌeː ˌe k k e ˈi n d e 
+*#dˌeːkkeˈinde# | 4 : [+syl,-long] > ∅ / [+syl,+long] __
+*#dˌeːkkjˈinde# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#deːkkjˈinde# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːkkjˈende# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#dekkjˈende# | 120 : [+syl] > [-long,-splng] 
+*#dektʲˈende# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#dettʲˈende# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#detkʲˈende# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#dekʲˈende# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#dekʲˈende#
+*#dec͡ɕˈende# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#det͡ʃˈende# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#det͡ʃˈende#
+*#det͡ʃˈinde# | 235 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Old Romanian stage form : *#det͡ʃˈinde#
+Final form : *#det͡ʃˈinde#

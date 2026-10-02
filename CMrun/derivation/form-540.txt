@@ -1,12 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 540:
-#lˌaksˈaː# >>> *#ləsˈa# ( GOLD : #ləsˈa#) :
-l ˌa k s ˈaː 
-*#laksˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#lassˈaː# | 94 : k > s / __ s
-*#lassˈa# | 120 : [+syl] > [-long,-splng] 
-*#lasˈa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#lasˈa#
-*#ləsˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ləsˈa#
-Old Romanian stage form : *#ləsˈa#
-Final form : *#ləsˈa#
+#ˌinˌuksorˈaː# >>> *#ɨnsurˈa# ( GOLD : #ɨnsurˈa#) :
+ˌi n ˌu k s o r ˈaː 
+*#inuksorˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inksorˈaː# | 55 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ( [-syl] ) [+syl,-stres,-lo]
+*#insorˈaː# | 89 : [-cont] > ∅ / [+cons] __ [-son,-voi]
+*#ensorˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#ensorˈa# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ensorˈa#
+*#ensoɾˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#ansoɾˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ansuɾˈa# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənsuɾˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ənsuɾˈa#
+*#ənsurˈa# | 252 : ɾ > r 
+*#ɨnsurˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnsurˈa#
+Final form : *#ɨnsurˈa#

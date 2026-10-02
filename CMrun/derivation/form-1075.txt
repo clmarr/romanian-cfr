@@ -1,22 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1075:
-#traːjˈike# >>> *#trˈet͡ʃe# ( GOLD : #trˈet͡ʃe#) :
-t r aː j ˈi k e 
-*#trˈaːjike# | 25 : [+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#trˈaːjke# | 27 : i > ∅ / j __
-*#trˈɛːke# | 34 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#trˈɛke# | 120 : [+syl] > [-long,-splng] 
-*#trˈɛkʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#trˈɛkʲe#
-*#tɾˈɛkʲe# | 159 : r > ɾ / __ [nnas,ncons]
-*#tɾˈekʲe# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tɾˈɛkʲe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tɾˈɛakʲe# | 203 : ∅ > a / [-tense] __
-*#tɾˈeˈakʲe# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#tɾe̯ˈakʲe# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#tɾe̯ˈac͡ɕe# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#tɾe̯ˈat͡ʃe# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tɾe̯ˈat͡ʃe#
-*#tɾˈet͡ʃe# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#trˈet͡ʃe# | 252 : ɾ > r 
-Old Romanian stage form : *#trˈet͡ʃe#
-Final form : *#trˈet͡ʃe#
+#tenˈeː# >>> *#t͡sine̯ˈa# ( GOLD : #t͡sine̯ˈa#) :
+t e n ˈeː 
+*#tenˈe# | 120 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tenˈe#
+*#tenˈɛ# | 188 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
+*#tinˈɛ# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#tjinˈɛ# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#tʲjinˈɛ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tʲinˈɛ# | 196 : j > ∅ / [+cons,+front] __
+*#tʲinˈɛa# | 203 : ∅ > a / [-tense] __
+*#tʲinˈeˈa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tʲine̯ˈa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#t͡sʲine̯ˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡sine̯ˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡sine̯ˈa#
+Old Romanian stage form : *#t͡sine̯ˈa#
+Final form : *#t͡sine̯ˈa#

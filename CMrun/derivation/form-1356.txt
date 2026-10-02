@@ -1,16 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1356:
-#ˌinterroɡˈaː# >>> *#ɨnteruɡˈa# ( GOLD : #ɨntrebˈa#) :
-ˌi n t e r r o ɡ ˈaː 
-*#interroɡˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enterroɡˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enterroɡˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enterroɡˈa#
-*#enterɾoɡˈa# | 159 : r > ɾ / __ [nnas,ncons]
-*#anterɾoɡˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#anterɾuɡˈa# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənterɾuɡˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənterɾuɡˈa#
-*#ənteruɡˈa# | 231 : {ɾ;r} > {∅;∅} / r __
-*#ɨnteruɡˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnteruɡˈa#
-Final form : *#ɨnteruɡˈa#
+#fraksinˈeːtum# >>> *#frəsinˈet# ( GOLD : #frəsinˈet#) :
+f r a k s i n ˈeː t u m 
+*#fraksinˈeːtu# | 36 : m > ∅ / [-stres] __ #
+*#frassinˈeːtu# | 94 : k > s / __ s
+*#frassenˈeːtu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#frassenˈetu# | 120 : [+syl] > [-long,-splng] 
+*#frasenˈetu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#frasenˈetu#
+*#fɾasenˈetu# | 159 : r > ɾ / __ [nnas,ncons]
+*#fɾasinˈetu# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#fɾasjinˈetu# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#fɾasʲjinˈetu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#fɾasʲinˈetu# | 196 : j > ∅ / [+cons,+front] __
+*#fɾasinˈetu# | 198 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
+*#fɾəsinˈetu# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fɾəsinˈetu#
+*#frəsinˈetu# | 252 : ɾ > r 
+*#frəsinˈetw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frəsinˈet# | 268 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#frəsinˈet#
+Final form : *#frəsinˈet#

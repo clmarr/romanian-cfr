@@ -1,17 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1179:
-#maːkʰinˈaː# >>> *#mət͡ʃinˈa# ( GOLD : #mət͡ʃinˈa#) :
-m aː kʰ i n ˈaː 
-*#maːkinˈaː# | 14 : [+cons,+sg] > [-sg] 
-*#maːkenˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#makenˈa# | 120 : [+syl] > [-long,-splng] 
-*#makʲenˈa# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#makʲenˈa#
-*#makʲinˈa# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#makʲjinˈa# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#makʲinˈa# | 196 : j > ∅ / [+cons,+front] __
-*#məkʲinˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#məc͡ɕinˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mət͡ʃinˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mət͡ʃinˈa#
-Old Romanian stage form : *#mət͡ʃinˈa#
-Final form : *#mət͡ʃinˈa#
+#kollˈiɡe# >>> *#kulˈed͡ʒe# ( GOLD : #kulˈed͡ʒe#) :
+k o l l ˈi ɡ e 
+*#kollˈeɡe# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#kollˈeɡʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kollˈeɡʲe#
+*#kullˈeɡʲe# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kullˈɛɡʲe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kulˈɛɡʲe# | 194 : {l l;m m} > {l;m} 
+*#kulˈɛaɡʲe# | 203 : ∅ > a / [-tense] __
+*#kulˈeˈaɡʲe# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kule̯ˈaɡʲe# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kule̯ˈaɟ͡ʑe# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#kule̯ˈad͡ʒe# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kule̯ˈad͡ʒe#
+*#kulˈed͡ʒe# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#kulˈed͡ʒe#
+Final form : *#kulˈed͡ʒe#

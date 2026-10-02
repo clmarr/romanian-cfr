@@ -1,22 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1208:
-#stimulˈaːriam# >>> *#stemurˈare# ( GOLD : #strəmurˈare#) :
-s t i m u l ˈaː r i a m 
-*#stimulˈaːrjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#stimulˈaːrja# | 36 : m > ∅ / [-stres] __ #
-*#istimulˈaːrja# | 101 : ∅ > i / # __ s [+cons,-son]
-*#estemulˈaːrja# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#estemulˈarja# | 120 : [+syl] > [-long,-splng] 
-*#stemulˈarja# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stemulˈarja#
-*#stemulˈaɾja# | 159 : r > ɾ / __ [nnas,ncons]
-*#stemuɾˈaɾja# | 179 : l > ɾ / [+syl] __ [+syl]
-*#stemuɾˈaɾʲja# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#stemuɾˈaɾʲa# | 196 : j > ∅ / [+cons,+front] __
-*#stemuɾˈaɾʲə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#stemuɾˈaɾʲe# | 217 : ə > e / [+cons,+front,+son] __
-*#stemuɾˈajɾe# | 219 : ɾʲ > j ɾ 
-Common Romanian stage form : *#stemuɾˈajɾe#
-*#stemurˈajre# | 252 : ɾ > r 
-*#stemurˈare# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#stemurˈare#
-Final form : *#stemurˈare#
+#stˈabulum# >>> *#stˈawl# ( GOLD : #stˈawl#) :
+s t ˈa b u l u m 
+*#stˈabulu# | 36 : m > ∅ / [-stres] __ #
+*#stˈablu# | 44 : [+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
+*#istˈablu# | 101 : ∅ > i / # __ s [+cons,-son]
+*#istˈaβlu# | 117 : b > β / [-cons] __ [+cont]
+*#estˈaβlu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#stˈaβlu# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#stˈawlu# | 142 : β > w / __ [+son,+cons]
+Balkan Romance stage form : *#stˈawlu#
+Common Romanian stage form : *#stˈawlu#
+*#stˈawlw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#stˈawl# | 268 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#stˈawl#
+Final form : *#stˈawl#
