@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMSubstRun'; form ID 70:
-#bˌalnˈɒːʃʃuʃ# >>> *#bəlnˈɑʃ# ( GOLD : #bəlˈaʃ#) :
+#bˌalnˈɒːʃʃuʃ# >>> *#bəlˈɑʃ# ( GOLD : #bəlˈaʃ#) :
 b ˌa l n ˈɒː ʃ ʃ u ʃ 
-*#bˌalnˈɑːʃʃuʃ# | 0 : [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
-Latin stage form : *#bˌalnˈɑːʃʃuʃ#
-*#balnˈɑːʃʃuʃ# | 17 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#balnˈɑʃʃuʃ# | 122 : [+syl] > [-long,-splng] 
-*#balnˈɑʃuʃ# | 145 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#balnˈɑʃu# | 160 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#balnˈɑʃu#
-Balkan Romance stage form : *#balnˈɑʃu#
-*#balnˈɑɕu# | 203 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#bəlnˈɑɕu# | 215 : [-cons,+lo,-stres,-long] > ə / @ __
-*#bəlnˈɑʃu# | 224 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-*#bəlnˈɑʃw̥# | 269 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bəlnˈɑʃ# | 270 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#bəlnˈɑʃ#
-Final form : *#bəlnˈɑʃ#
+*#bˌallˈɒːʃʃuʃ# | 0 : [+lat] [+son,-syl] > l l
+*#bˌallˈɑːʃʃuʃ# | 1 : [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
+Latin stage form : *#bˌallˈɑːʃʃuʃ#
+*#ballˈɑːʃʃuʃ# | 18 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ballˈɑʃʃuʃ# | 123 : [+syl] > [-long,-splng] 
+*#ballˈɑʃuʃ# | 146 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#ballˈɑʃu# | 161 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#ballˈɑʃu#
+Balkan Romance stage form : *#ballˈɑʃu#
+*#balˈɑʃu# | 197 : {l l;m m} > {l;m} 
+*#balˈɑɕu# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#bəlˈɑɕu# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+*#bəlˈɑʃu# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#bəlˈɑʃw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#bəlˈɑʃ# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#bəlˈɑʃ#
+Final form : *#bəlˈɑʃ#
