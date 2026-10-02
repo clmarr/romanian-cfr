@@ -4,6 +4,7 @@ n > r / r __
 [+lat] [+son,-syl] > l l
 [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
 [+syl,+round] > [-lo] 
+[+cons,+round] > [-round,-lab] 
 e̯ > ∅ / # [+lo] __ [+son]
 e̯ > ∅ / [+lab,+cons] ( r ) [+lo] __ [+cor]
 [+syl,-long,-stres,+hi] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+syl,+hi,+back] __

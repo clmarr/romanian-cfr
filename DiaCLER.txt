@@ -27,13 +27,14 @@ $CM 10/2 HR.4 -- ln, ʎw, lw > ll
 
 $--- rules below here are confirmed to not be Albanian-internal
 
-$CM 10/2 HR.8 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc
+$CM 10/2 HR.8 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc. Counterbled by CM 10/2 HR.16
 [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
 
 $CM 10/2 HR.9 -- raising of APA *ɒː elsewhere
 [+syl,+round] > [-lo]
 
-
+$CM 10/2 HR.16 --consonants unround
+[+cons,+round] > [-round,-lab]
 
 =Latin
 
