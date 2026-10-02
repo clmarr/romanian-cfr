@@ -854,7 +854,7 @@ $ iN- > îN-. CM 10/1 -- moved to before Common Romanian -- this is actually to 
 [+syl,+front] > [-hi,+lo] / # __ [+nas]
 
 $CM 10/1 -- lowering of e to a after in [-lab] F/V/M(m) (r) __ n u/e/a
-[+front,-hi] > [+lo,+tense] / # ((@)* [-lab]) ([+lab,+cont,+cons])+ ([+cor,+son]) __ n [+syl,uround,uhi]
+[+front,-hi] > [+lo,+tense] / # ((@)* [-lab]) ([+lab,+cont,+cons])+ ([+cor]) __ n [+syl,uround,uhi]
 
 $ CM 10/1 -- raising of a in feet bearing stress initially and after (non-post-labial) sonorants, before N e. Not in feet lacking stress -- amândoi.
 [+lo,aprim] > [-lo,+hi] / # ((@)* [-lab] [+son,+cons]) __ [+nas] ([-cont,+voi,-hi]) [+front,-hi,-lo,-aprim]
@@ -1384,10 +1384,12 @@ $ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant
 	$ Labelling this a new rule rather than a simple edit because it affects words whose schwas do not result from R46A.
 	$ Also, it doesn't take place until after R48.
 		$[+syl,-front,-back,-hi] > [+front,+tense] / {#;[+syl,+round,+hi];# ([-cons,-syl,-round]) [+syl,-round];[+cons] ([-cons,-syl,-round]) [+syl,-round]} [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
-	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,+round,+hi]) [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
-	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+cons]) ([-cons,-syl,-round]) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
+	$CM 10/1 suppressed [+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,+round,+hi]) [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
+	$CM 10/1 supprssed [+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+cons]) ([-cons,-syl,-round]) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
 			$ This is a very overdetailed formulation of this rule for this lexicon (RoLLex.txt).
 			$ It should handle most cases, notably not those where the following consonant cluster has three or more consonants in it.
+				$ CM 10/1 changed second rule to posterior context from +cons,-strid,-lat -> +cons,nnas,ncont,nvoi V; prior as R B-strid -- berb(e)c, farmec, galben, carpen,  ; not sarbăd, aspru, oarfăn, foarfece, scărmăna,  ;; further simplified
+	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,uround,uhi,-ufront]) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
 
 $ R47A Raisinɡ of [ə] before [n] or [m]CV
 	$ EDIT: Does not occur after a vowel.

@@ -1,5 +1,5 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1227:
-#ˌekspantikˈaː# >>> *#spentekˈa# ( GOLD : #spintekˈa#) :
+#ˌekspantikˈaː# >>> *#spɨntekˈa# ( GOLD : #spintekˈa#) :
 ˌe k s p a n t i k ˈaː 
 *#ekspantikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#espantikˈaː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
@@ -9,6 +9,6 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1227:
 Balkan Romance stage form : *#spantekˈa#
 *#spəntekˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
 Common Romanian stage form : *#spəntekˈa#
-*#spentekˈa# | 253 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,+round,+hi] ) [+cons,-lab] [+cons,+lab] __ ( [+cons,+son] ) [+cons,-strid,-lat] ( [-cons] ( @ )* ) #
-Old Romanian stage form : *#spentekˈa#
-Final form : *#spentekˈa#
+*#spɨntekˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#spɨntekˈa#
+Final form : *#spɨntekˈa#
