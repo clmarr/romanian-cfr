@@ -29,17 +29,25 @@ $CM 10/2 HR.1d stress retraction V1 cor ˈV2 j V3 > ˈV1 C j V3  onto V1 if V1 i
 $CM 10/2 HR.2a ˈVlo,-round > e / __ (C)+ j. Counterbled by HR.3a
 [+lo,+prim,-round] > ˈe / __ ([-syl])+ j 
 
-$CM 10/2 HR.2b ə > ɐ in R __ velar. Bleeds HR.7
-ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
+$CM 10/2 H.2b t͡s > f before non-labial V Ccor+ V
+t͡s > f / __ [+syl,-lab] ([+cor])+ [+syl]
 
-$CM 10/2 HR.2c ej > e. Counterbleeds HR.1d
+$CM 10/2 HR.2d ec > e. Counterbleeds HR.1d
 [+syl,+front,-lo] j > [+long] ∅
 
 	$-- 3
 $CM 10/2 HR.3a -- ln, ʎw, lw, lj > ll. Counterbleeds HR.2a
 [+lat] [+son,-syl] > l l
 
-$CM 10/2 HR.3b ə > ∅. Bled by HR.2b. Counterfeeds HR.1b and HR.1d
+$CM 10/2 HR.3b ɐ > ə after except after peripherals. Feeds .5a. Bled by .1d + .2a
+ɐ > ə / # ((@)* [+cor]) __
+
+	$--4
+$CM 10/2 HR.4a ə > ɐ in R __ velar. Bleeds HR.5a
+ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
+
+	$ -- 4
+$CM 10/2 HR.5a ə > ∅. Bled by HR.2b. Counterfeeds HR.1b and HR.1d
 ə > ∅
 
 
@@ -47,7 +55,7 @@ $CM 10/2 HR.3b ə > ∅. Bled by HR.2b. Counterfeeds HR.1b and HR.1d
 $--- rules below here are confirmed to not be Albanian-internal
 
 $CM 10/2 HR.13 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc. Counterbled by CM 10/2 HR.16
-[+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
+[+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
 
 $CM 10/2 HR.14 -- raising of APA *ɒː elsewhere
 [+syl,+round] > [-lo]

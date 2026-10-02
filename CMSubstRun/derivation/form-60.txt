@@ -1,17 +1,20 @@
 Derivation file for run '../romanian-cfr/CMSubstRun'; form ID 60:
-#pirrˈɒːnuʃ# >>> *#perˈɑw# ( GOLD : #pərˈɨw#) :
+#pirrˈɒːnuʃ# >>> *#pərˈɨw# ( GOLD : #pərˈɨw#) :
 p i r r ˈɒː n u ʃ 
-*#pirrˈɑːnuʃ# | 9 : [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
-Latin stage form : *#pirrˈɑːnuʃ#
-*#perrˈɑːnuʃ# | 130 : [+syl,-long,+hi,-back] > [-hi] 
-*#perrˈɑnuʃ# | 132 : [+syl] > [-long,-splng] 
-*#perrˈɑnu# | 170 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#perrˈɑnu#
-Balkan Romance stage form : *#perrˈɑnu#
-*#perɾˈɑnu# | 171 : r > ɾ / __ [nnas,ncons]
-*#perˈɑnu# | 243 : {ɾ;r} > {∅;∅} / r __
-*#perˈɑu# | 277 : n > ∅ / [-cor] r [-round,-front,+syl] __ u #
-*#perˈɑw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#perˈɑw# | 281 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#perˈɑw#
-Final form : *#perˈɑw#
+*#pirrˈaːnuʃ# | 11 : [+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
+Latin stage form : *#pirrˈaːnuʃ#
+*#perrˈaːnuʃ# | 132 : [+syl,-long,+hi,-back] > [-hi] 
+*#perrˈanuʃ# | 134 : [+syl] > [-long,-splng] 
+*#perrˈanu# | 172 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#perrˈanu#
+Balkan Romance stage form : *#perrˈanu#
+*#perɾˈanu# | 173 : r > ɾ / __ [nnas,ncons]
+*#perɾˈənu# | 220 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pərɾˈənu# | 242 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pərˈənu# | 245 : {ɾ;r} > {∅;∅} / r __
+*#pərˈɨnu# | 268 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#pərˈɨu# | 279 : n > ∅ / [-cor] r [-round,-front,+syl] __ u #
+*#pərˈɨw̥# | 281 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pərˈɨw# | 283 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#pərˈɨw#
+Final form : *#pərˈɨw#
