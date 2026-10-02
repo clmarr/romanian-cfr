@@ -13,15 +13,24 @@ $ area before Latin here is developments of later Archaic Proto-Albanian at the 
 
 $ rules in the following area need to be checked for possibility that they are Albanian-internal
 
-$CM 10/2 HR.3 -- ln, ʎw, lw > ll
+$CM 10/2 HR.1 -- lm, dm > mm. Bleeds HR.4
+[+cor,-syl] > m / __ m
+
+$ CM 10/2 HR.2 -- rn > rr
+n > r / r __
+
+$ CM 10/2 HR.3 -- Bn > m. Bleeds RTR cluster reduction much later.
+[+lab,+cons] n > m 
+
+$CM 10/2 HR.4 -- ln, ʎw, lw > ll
 [+lat] [+son,-syl] > l l
 
 $--- rules below here are confirmed to not be Albanian-internal
 
-$CM 10/2 HR.1 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc
+$CM 10/2 HR.8 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc
 [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
 
-$CM 10/2 HR.2 -- raising of APA *ɒː elsewhere
+$CM 10/2 HR.9 -- raising of APA *ɒː elsewhere
 [+syl,+round] > [-lo]
 
 
