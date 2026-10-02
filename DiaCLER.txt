@@ -25,10 +25,13 @@ $ CM 10/2 HR.3 -- Bn > m. Bleeds RTR cluster reduction much later.
 $CM 10/2 HR.4 -- ln, ʎw, lw > ll
 [+lat] [+son,-syl] > l l
 
-$CM 10/2 HR.5 ə > ɐ in R __ velar. Bleeds HR.6
+$CM 10/2 HR.5 ə > ɐ in R __ velar. Bleeds HR.5
 ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
 
-$CM 10/2 HR.5 ə > ∅. Bled by HR.5. Counterfeeds HR.2 and HR.4
+$CM 10/2 HR.6 stress retraction V1 cor V2 (W V3) onto V1 if V1 is not initial
+[+syl] [+cor] [+prim] > [+prim] [+cor] [-stres] / [+syl] (@)* __ (([-cons,-syl]) [+syl]) #
+
+$CM 10/2 HR.7 ə > ∅. Bled by HR.5. Counterfeeds HR.2 and HR.4
 ə > ∅
 
 $--- rules below here are confirmed to not be Albanian-internal
