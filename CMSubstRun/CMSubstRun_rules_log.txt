@@ -1,9 +1,11 @@
 [+cor,-syl] > m / __ m
 n > r / r __
 [+lab,+cons] n > m
-[+lat] [+son,-syl] > l l
+[+syl] [+cor] [+prim] > [+prim,+stres,+syl,+son] [+cor] ∅/ [+syl] ( @ )* __ j [+syl] ( [-syl] ) #
+[+lo,+prim,-round] > ˈe / __ [-syl] ( [-syl] )* j
 ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
-[+syl] [+cor] [+prim] > [+prim,+stres,+syl,+son] [+cor] [-stres,-prim,+syl,+son]/ [+syl] ( @ )* __ ( ( [-cons,-syl] ) [+syl] ) #
+[+syl,+front,-lo] j > [+long] ∅
+[+lat] [+son,-syl] > l l
 ə > ∅ 
 [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
 [+syl,+round] > [-lo] 
@@ -41,7 +43,7 @@ eː > aː / # __ ( [+cons] )* [+hi]
 {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
 d > ∅ / [+syl,+lo] __ [-syl]
 [+syl,-prim] > ∅ / # __ [+son] i
-h > ∅ 
+[-son,-cons] > ∅ 
 [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
 {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
 m > ∅ / [-stres] __ #

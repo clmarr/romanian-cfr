@@ -13,33 +13,43 @@ $ area before Latin here is developments of later Archaic Proto-Albanian at the 
 
 $ rules in the following area need to be checked for possibility that they are Albanian-internal
 
-$CM 10/2 HR.1 -- lm, dm > mm. Bleeds HR.4
+$CM 10/2 HR.1a -- lm, dm > mm. Bleeds HR.3a
 [+cor,-syl] > m / __ m
 
-$ CM 10/2 HR.2 -- rn > rr
+$ CM 10/2 HR.1b -- rn > rr
 n > r / r __
 
-$ CM 10/2 HR.3 -- Bn > m. Bleeds RTR cluster reduction much later.
+$ CM 10/2 HR.1c -- Bn > m. Bleeds RTR cluster reduction much later.
 [+lab,+cons] n > m 
 
-$CM 10/2 HR.4 -- ln, ʎw, lw > ll
-[+lat] [+son,-syl] > l l
+$CM 10/2 HR.1d stress retraction V1 cor ˈV2 j V3 > ˈV1 C j V3  onto V1 if V1 is not initial. Feeds HR.2a and HR.3a
+[+syl] [+cor] [+prim] > [+prim] [+cor] ∅ / [+syl] (@)* __ j [+syl] ([-syl]) #
 
-$CM 10/2 HR.5 ə > ɐ in R __ velar. Bleeds HR.5
+	$-- 2
+$CM 10/2 HR.2a ˈVlo,-round > e / __ (C)+ j. Counterbled by HR.3a
+[+lo,+prim,-round] > ˈe / __ ([-syl])+ j 
+
+$CM 10/2 HR.2b ə > ɐ in R __ velar. Bleeds HR.7
 ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
 
-$CM 10/2 HR.6 stress retraction V1 cor V2 (W V3) onto V1 if V1 is not initial
-[+syl] [+cor] [+prim] > [+prim] [+cor] [-stres] / [+syl] (@)* __ (([-cons,-syl]) [+syl]) #
+$CM 10/2 HR.2c ej > e. Counterbleeds HR.1d
+[+syl,+front,-lo] j > [+long] ∅
 
-$CM 10/2 HR.7 ə > ∅. Bled by HR.5. Counterfeeds HR.2 and HR.4
+	$-- 3
+$CM 10/2 HR.3a -- ln, ʎw, lw, lj > ll. Counterbleeds HR.2a
+[+lat] [+son,-syl] > l l
+
+$CM 10/2 HR.3b ə > ∅. Bled by HR.2b. Counterfeeds HR.1b and HR.1d
 ə > ∅
+
+
 
 $--- rules below here are confirmed to not be Albanian-internal
 
-$CM 10/2 HR.8 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc. Counterbled by CM 10/2 HR.16
+$CM 10/2 HR.13 -- unrounding of later APA *ɒː > aː if between non-labials and non-velars : rață , părâu, bălaș, etc. Counterbled by CM 10/2 HR.16
 [+lo] > [-round,-lab] / [-lab,-back] __ [-lab,-back]
 
-$CM 10/2 HR.9 -- raising of APA *ɒː elsewhere
+$CM 10/2 HR.14 -- raising of APA *ɒː elsewhere
 [+syl,+round] > [-lo]
 
 $CM 10/2 HR.16 --consonants unround
@@ -210,8 +220,8 @@ $ CHAPTER 4
 $ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
 $ (FIRST THROUGH SIXTH CENTURIES A.D.)
 
-$ R1 Loss of [h]
-	h > ∅
+$ R1 Loss of [h]. CM 10/2 broadened.
+	[-son,-cons] > ∅
 
 $ R2 {Monophthonɡization of AE, Monophthonɡization of OE}
 	$ R2A Monophthonɡization of AE [ay]

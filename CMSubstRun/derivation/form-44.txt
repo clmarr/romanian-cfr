@@ -1,15 +1,26 @@
 Derivation file for run '../romanian-cfr/CMSubstRun'; form ID 44:
-#ɦˌarɡɐlˈeja# >>> *#ɦərɡˈɑreje# ( GOLD : #ard͡ʒˈea̯#) :
+#ɦˌarɡɐlˈeja# >>> *#ard͡ʒe̯ˈa# ( GOLD : #ard͡ʒˈea̯#) :
 ɦ ˌa r ɡ ɐ l ˈe j a 
-*#ɦˌarɡˈɐleja# | 5 : [+syl] [+cor] [+prim] > [+prim,+stres,+syl,+son] [+cor] [-stres,-prim,+syl,+son]/ [+syl] ( @ )* __ ( ( [-cons,-syl] ) [+syl] ) #
-Latin stage form : *#ɦˌarɡˈɐleja#
-*#ɦarɡˈɐleja# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-Balkan Romance stage form : *#ɦarɡˈɐleja#
-Balkan Romance stage form : *#ɦarɡˈɐleja#
-*#ɦarɡˈɑleja# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɦarɡˈɑɾeja# | 189 : l > ɾ / [+syl] __ [+syl]
-*#ɦərɡˈɑɾejə# | 223 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɦərɡˈɑrejə# | 262 : ɾ > r 
-*#ɦərɡˈɑreje# | 273 : ə > e / [+front,+hi] __ #
-Old Romanian stage form : *#ɦərɡˈɑreje#
-Final form : *#ɦərɡˈɑreje#
+*#ɦˌarɡˈɐlja# | 3 : [+syl] [+cor] [+prim] > [+prim,+stres,+syl,+son] [+cor] ∅/ [+syl] ( @ )* __ j [+syl] ( [-syl] ) #
+*#ɦˌarɡˈelja# | 4 : [+lo,+prim,-round] > ˈe / __ [-syl] ( [-syl] )* j
+*#ɦˌarɡˈella# | 7 : [+lat] [+son,-syl] > l l
+Latin stage form : *#ɦˌarɡˈella#
+*#ɦarɡˈella# | 27 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#arɡˈella# | 45 : [-son,-cons] > ∅ 
+*#arɡˈɛlla# | 126 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#arɡʲˈɛlla# | 166 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#arɡʲˈɛlla#
+Balkan Romance stage form : *#arɡʲˈɛlla#
+*#arɡʲˈella# | 183 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#arɡʲˈɛlla# | 197 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#arɡʲˈɛwa# | 203 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#arɡʲˈɛawa# | 215 : ∅ > a / [-tense] __
+*#arɡʲˈeˈawa# | 216 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#arɡʲe̯ˈawa# | 217 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#arɡʲe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#arɡʲe̯ˈaw# | 226 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#arɡʲe̯ˈa# | 227 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+*#arɟ͡ʑe̯ˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ard͡ʒe̯ˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Old Romanian stage form : *#ard͡ʒe̯ˈa#
+Final form : *#ard͡ʒe̯ˈa#
