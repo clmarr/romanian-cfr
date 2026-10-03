@@ -624,6 +624,9 @@ $ R21 Spirantization of [b]
 		$ EDIT: Does not occur between two identical consonants. Simply undoing below.
 			[+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
 
+$ R15 Contraction of vowels
+	[+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
+
 $ R16 Loss of vowel lenɡth (moved from original position)
 	[+syl] > [-long]
 
@@ -637,8 +640,8 @@ $ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a conso
 				e > ∅ / # __ s s [+syl,αfront,αlo]
 
 $ R15 Contraction of vowels
-	[+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
-
+	$[+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
+		$ Moved with R16 to before R14 (feeding).
 
 $ R16 Loss of vowel lenɡth
 	$[+syl] > [-long]
