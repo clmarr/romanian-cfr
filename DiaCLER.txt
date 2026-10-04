@@ -239,11 +239,11 @@ $ R2 {Monophthonɡization of AE, Monophthonɡization of OE}
 	$ R2A Monophthonɡization of AE [ay]
 		[+syl,+lo] j > [-lo,-tense,+long] ∅ / __ ([-syl] (@)*) # $ conditioning not in Pardess
 
-
 	$ R2B Monophthonɡization of OE [oy]
 		${o j;ˈo j} > {eː;ˈeː}
 		$ EDIT: Does not occur when [j] is acting as a consonant (ploiam > ploaie) instead of as the offglide of a diphthong.
 			{o j;ˈo j} > {eː;ˈeː} / __ [+cons]
+
 
 $ NEW RULE: [e] lowering after [+son][+round][w].
 		$ Affects: *rovem > rouă, novem > nouă, and juvenem > *juăne > june.
@@ -251,6 +251,7 @@ $ NEW RULE: [e] lowering after [+son][+round][w].
 			$ CM oct 4 -- moved to after R2, which feeds it for două, and after stress shift in iuvenca
 			$ CM oct 4 -- broadened to hit all mid front vowels.
 	[+front,+syl,-lo,-hi,-prim] > [+lo,+tense] / @ [+syl,+round] w __
+
 
 $ R3 {Reduction of final [m], Reduction of [n] + fricative}
 	$ R3A Reduction of final [m]
@@ -1210,6 +1211,13 @@ $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
 	$ CM edit 9/16 -- consolidated the above to two rather than four. Functionally equivalent -- except a third rule (EDIT) that covers mN only for unstressed o and a (miel, cumnat, dumestic)
 	{a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
 	$ suppressed -- no effect: {a;o} > {ə;u} / __ m [-syl]
+
+
+$ NEW RULE: Fronting of non-final [(ˈ)u] after palatals
+	$ Only occurs when consonant before palatal is coronal.
+	$ The words this affects are all of somewhat dubious origin (unattested in Latin). FLAG
+		[+syl,+hi,+back] > [-back,+front,-lab,-round] / [+cor] [+syl] [+front,+hi,-back] __ @
+
 
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	$l > ɾ / [+syl] __ [+syl]
