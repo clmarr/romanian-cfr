@@ -1,23 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 611:
-#skˌamnˈellum# >>> *#skəwnˈel# ( GOLD : #skəwnˈel#) :
-s k ˌa m n ˈe l l u m 
-*#skamnˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#skamnˈellu# | 36 : m > ∅ / [-stres] __ #
-*#iskamnˈellu# | 101 : ∅ > i / # __ s [+cons,-son]
-*#iskamnˈɛllu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#eskamnˈɛllu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#skamnˈɛllu# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#skawnˈɛllu# | 146 : m > w / [+lo] __ n
-Balkan Romance stage form : *#skawnˈɛllu#
-*#skawnjˈɛllu# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#skawnjˈellu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#skawnjˈelu# | 194 : {l l;m m} > {l;m} 
-*#skawnʲjˈelu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#skawnʲˈelu# | 196 : j > ∅ / [+cons,+front] __
-*#skawnˈelu# | 197 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
-*#skəwnˈelu# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#skəwnˈelu#
-*#skəwnˈelw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#skəwnˈel# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#skəwnˈel#
-Final form : *#skəwnˈel#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 611:
+#wˈallem# >>> *#vˈale# ( GOLD : #vˈale#) :
+w ˈa l l e m 
+*#wˈalle# | 36 : m > ∅ / [-stres] __ #
+*#βˈalle# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#vˈalle# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈalle#
+*#vˈale# | 195 : {l l;m m} > {l;m} 
+Common Romanian stage form : *#vˈale#
+Old Romanian stage form : *#vˈale#
+Final form : *#vˈale#

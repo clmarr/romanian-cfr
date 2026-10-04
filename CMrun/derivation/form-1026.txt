@@ -1,12 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1026:
-#ˈin# >>> *#ˈɨn# ( GOLD : #ˈɨn#) :
-ˈi n 
-*#ˈiːn# | 115 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#ˈin# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈin#
-*#ˈan# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ˈən# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ˈən#
-*#ˈɨn# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ˈɨn#
-Final form : *#ˈɨn#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1026:
+#ˌinˌadˈintroː# >>> *#ɨnədˈintru# ( GOLD : #ɨnəˈuntru#) :
+ˌi n ˌa d ˈi n t r oː 
+*#inadˈintroː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enadˈentroː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enadˈentro# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enadˈentro#
+*#enadˈentɾo# | 159 : r > ɾ / __ [nnas,ncons]
+*#anadˈentɾo# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#anadˈentɾu# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənadˈentɾu# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənədˈentɾu# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ənədˈentɾu#
+*#ənədˈintɾu# | 236 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ənədˈintru# | 253 : ɾ > r 
+*#ɨnədˈintru# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnədˈintrw# | 267 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#ɨnədˈintru# | 271 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#ɨnədˈintru#
+Final form : *#ɨnədˈintru#

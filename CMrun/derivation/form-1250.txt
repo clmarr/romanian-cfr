@@ -1,17 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1250:
-#fustikˈellum# >>> *#fuʃtˈel# ( GOLD : #fuʃtˈel#) :
-f u s t i k ˈe l l u m 
-*#fustikˈellu# | 36 : m > ∅ / [-stres] __ #
-*#fustkˈellu# | 57 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
-*#fuskˈellu# | 89 : [-cont] > ∅ / [+cons] __ [-son,-voi]
-*#fuskˈɛllu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fuskʲˈɛllu# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#fuskʲˈɛllu#
-*#fuskʲˈellu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fuskʲˈelu# | 194 : {l l;m m} > {l;m} 
-*#fuʃtˈelu# | 220 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#fuʃtˈelu#
-*#fuʃtˈelw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fuʃtˈel# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fuʃtˈel#
-Final form : *#fuʃtˈel#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1250:
+#ˌinkolikˈaː# >>> *#ɨnkulkˈa# ( GOLD : #ɨnkurkˈa#) :
+ˌi n k o l i k ˈaː 
+*#inkolikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inkolkˈaː# | 51 : [+syl,+hi,-long,-stres] > ∅ / [+syl,alo,afront] l __ [+cons] [+syl,blo,bfront]
+*#enkolkˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkolkˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enkolkˈa#
+*#ankolkˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ankulkˈa# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənkulkˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ənkulkˈa#
+*#ɨnkulkˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnkulkˈa#
+Final form : *#ɨnkulkˈa#

@@ -1,20 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1385:
-#nˈebulam# >>> *#nˈeɡurə# ( GOLD : #nˈeɡurə#) :
-n ˈe b u l a m 
-*#nˈebula# | 36 : m > ∅ / [-stres] __ #
-*#nˈɛbula# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#nˈɛβula# | 117 : b > β / [-cons] __ [+cont]
-*#nˈɛɣula# | 136 : β > ɣ / # [+cons,+son] [+syl,αhi,αround] __ [+syl,+hi,+back]
-*#nˈɛɡula# | 139 : ɣ > ɡ 
-Balkan Romance stage form : *#nˈɛɡula#
-*#njˈɛɡula# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#njˈeɡula# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#njˈeɡuɾa# | 179 : l > ɾ / [+syl] __ [+syl]
-*#nʲjˈeɡuɾa# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#nʲˈeɡuɾa# | 196 : j > ∅ / [+cons,+front] __
-*#nˈeɡuɾa# | 197 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
-*#nˈeɡuɾə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#nˈeɡuɾə#
-*#nˈeɡurə# | 252 : ɾ > r 
-Old Romanian stage form : *#nˈeɡurə#
-Final form : *#nˈeɡurə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1385:
+#nˈae̯wum# >>> *#nˈeɡ# ( GOLD : #nˈeɡ#) :
+n ˈa e̯ w u m 
+*#nˈajwum# | 11 : e̯ > j 
+*#nˈɛːwum# | 34 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#nˈɛːwu# | 36 : m > ∅ / [-stres] __ #
+*#nˈɛːβu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#nˈɛβu# | 121 : [+syl] > [-long,-splng] 
+*#nˈɛɣu# | 136 : β > ɣ / # [+cons,+son] [+syl,αhi,αround] __ [+syl,+hi,+back]
+*#nˈɛɡu# | 139 : ɣ > ɡ 
+Balkan Romance stage form : *#nˈɛɡu#
+*#njˈɛɡu# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#njˈeɡu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#nʲjˈeɡu# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#nʲˈeɡu# | 197 : j > ∅ / [+cons,+front] __
+*#nˈeɡu# | 198 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
+Common Romanian stage form : *#nˈeɡu#
+*#nˈeɡw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nˈeɡ# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#nˈeɡ#
+Final form : *#nˈeɡ#

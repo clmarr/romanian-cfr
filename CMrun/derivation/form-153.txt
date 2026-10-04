@@ -1,18 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 153:
-#ˌinkˌalkeˈaː# >>> *#ɨnkəlt͡sˈa# ( GOLD : #ɨnkəlt͡sˈa#) :
-ˌi n k ˌa l k e ˈaː 
-*#ˌinkˌalkjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inkalkjˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enkalkjˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkalkjˈa# | 120 : [+syl] > [-long,-splng] 
-*#enkaltʲˈa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#enkaltʲˈa#
-*#ankaltʲˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənkaltʲˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənkəltʲˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənkəlt͡sʲˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənkəlt͡sˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənkəlt͡sˈa#
-*#ɨnkəlt͡sˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnkəlt͡sˈa#
-Final form : *#ɨnkəlt͡sˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 153:
+#ˌinkˌarrikˈaː# >>> *#ɨnkərkˈa# ( GOLD : #ɨnkərkˈa#) :
+ˌi n k ˌa r r i k ˈaː 
+*#inkarrikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inkarrkˈaː# | 53 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
+*#enkarrkˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkarrkˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enkarrkˈa#
+*#ankarrkˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənkarrkˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənkərrkˈa# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ənkərrkˈa#
+*#ənkərkˈa# | 232 : {ɾ;r} > {∅;∅} / r __
+*#ɨnkərkˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnkərkˈa#
+Final form : *#ɨnkərkˈa#

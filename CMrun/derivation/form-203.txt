@@ -1,20 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 203:
-#tˈenerum# >>> *#t͡sˈiner# ( GOLD : #tˈɨnər#) :
-t ˈe n e r u m 
-*#tˈeneru# | 36 : m > ∅ / [-stres] __ #
-*#tˈɛneru# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#tˈɛneru#
-*#tˈɛneɾu# | 159 : r > ɾ / __ [nnas,ncons]
-*#tjˈɛneɾu# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#tjˈeneɾu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tʲjˈeneɾu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tʲˈeneɾu# | 196 : j > ∅ / [+cons,+front] __
-*#t͡sʲˈeneɾu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡sˈeneɾu# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡sˈeneɾu#
-*#t͡sˈineɾu# | 242 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#t͡sˈineru# | 252 : ɾ > r 
-*#t͡sˈinerw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡sˈiner# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#t͡sˈiner#
-Final form : *#t͡sˈiner#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 203:
+#wˈirɡulam# >>> *#vˈerɡje# ( GOLD : #vˈərɡurə#) :
+w ˈi r ɡ u l a m 
+*#wˈirɡula# | 36 : m > ∅ / [-stres] __ #
+*#wˈirɡla# | 46 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#βˈirɡla# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈerɡla# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈerɡla# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈerɡla#
+*#vˈɛrɡla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛarɡla# | 204 : ∅ > a / [-tense] __
+*#vˈeˈarɡla# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈarɡla# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ve̯ˈarɡlə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ve̯ˈarɡʎə# | 217 : l > ʎ / [-cont,-ant,-cor] __
+*#ve̯ˈarɡʎe# | 218 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#ve̯ˈarɡʎe#
+*#vˈerɡʎe# | 240 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#vˈerɡje# | 257 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#vˈerɡje#
+Final form : *#vˈerɡje#

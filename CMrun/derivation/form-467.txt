@@ -1,16 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 467:
-#merˈendae̯# >>> *#merˈinde# ( GOLD : #merˈinde#) :
-m e r ˈe n d a e̯ 
-*#merˈendaj# | 11 : e̯ > j 
-*#merˈendɛː# | 34 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#merˈɛndɛː# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#merˈɛndɛ# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#merˈɛndɛ#
-*#meɾˈɛndɛ# | 159 : r > ɾ / __ [nnas,ncons]
-*#meɾˈendɛ# | 166 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#meɾˈende# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#meɾˈende#
-*#meɾˈinde# | 235 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#merˈinde# | 252 : ɾ > r 
-Old Romanian stage form : *#merˈinde#
-Final form : *#merˈinde#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 467:
+#piːsˈaːtum# >>> *#pisˈat# ( GOLD : #pəsˈat#) :
+p iː s ˈaː t u m 
+*#piːsˈaːtu# | 36 : m > ∅ / [-stres] __ #
+*#pisˈatu# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pisˈatu#
+Common Romanian stage form : *#pisˈatu#
+*#pisˈatw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pisˈat# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pisˈat#
+Final form : *#pisˈat#

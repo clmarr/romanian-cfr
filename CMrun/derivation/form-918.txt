@@ -1,22 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 918:
-#juːdˈikium# >>> *#ʒudˈet͡s# ( GOLD : #ʒudˈet͡s#) :
-j uː d ˈi k i u m 
-*#juːdˈikjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juːdˈikju# | 36 : m > ∅ / [-stres] __ #
-*#djuːdˈikju# | 86 : j > d j / # __ [+syl] [+cons]
-*#djuːdˈikkju# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#djuːdˈekkju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#djudˈekkju# | 120 : [+syl] > [-long,-splng] 
-*#dʲudˈektʲu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲudˈettʲu# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#ɡʲudˈettʲu# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲudˈetʲu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɡʲudˈetʲu#
-*#ɟ͡ʑudˈet͡sʲu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒudˈet͡su# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒudˈet͡su#
-*#ʒudˈet͡su# | 262 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒudˈet͡sw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒudˈet͡s# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ʒudˈet͡s#
-Final form : *#ʒudˈet͡s#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 918:
+#juːrˈaː# >>> *#ʒurˈa# ( GOLD : #ʒurˈa#) :
+j uː r ˈaː 
+*#djuːrˈaː# | 86 : j > d j / # __ [+syl] [+cons]
+*#djurˈa# | 121 : [+syl] > [-long,-splng] 
+*#dʲurˈa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲurˈa# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#ɡʲurˈa#
+*#ɡʲuɾˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#ɟ͡ʑuɾˈa# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒuɾˈa# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒuɾˈa#
+*#d͡ʒurˈa# | 253 : ɾ > r 
+*#ʒurˈa# | 263 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ʒurˈa#
+Final form : *#ʒurˈa#

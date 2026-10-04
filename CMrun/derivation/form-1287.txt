@@ -1,15 +1,25 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1287:
-#ˈoːllam# >>> *#o̯ˈalə# ( GOLD : #o̯ˈalə#) :
-ˈoː l l a m 
-*#ˈoːlla# | 36 : m > ∅ / [-stres] __ #
-*#ˈolla# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈolla#
-*#ˈɔlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ˈɔla# | 194 : {l l;m m} > {l;m} 
-*#ˈɔala# | 203 : ∅ > a / [-tense] __
-*#ˈoˈala# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#o̯ˈala# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#o̯ˈalə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#o̯ˈalə#
-Old Romanian stage form : *#o̯ˈalə#
-Final form : *#o̯ˈalə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1287:
+#oːllikˈellam# >>> *#ult͡ʃe̯ˈa# ( GOLD : #ult͡ʃe̯ˈa#) :
+oː l l i k ˈe l l a m 
+*#oːllikˈella# | 36 : m > ∅ / [-stres] __ #
+*#oːllkˈella# | 54 : [+syl,+hi,-long,-stres] > ∅ / [+syl] l l __ [-cont,+back] [+syl,-lo]
+*#oːllkˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ollkˈɛlla# | 121 : [+syl] > [-long,-splng] 
+*#ollkʲˈɛlla# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ollkʲˈɛlla#
+*#ollkʲˈella# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ullkʲˈella# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ullkʲˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ullkʲˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#ulkʲˈɛwa# | 195 : {l l;m m} > {l;m} 
+*#ulkʲˈɛawa# | 204 : ∅ > a / [-tense] __
+*#ulkʲˈeˈawa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ulkʲe̯ˈawa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ulkʲe̯ˈawə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ulkʲe̯ˈaw# | 215 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#ulkʲe̯ˈa# | 216 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+*#ulc͡ɕe̯ˈa# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ult͡ʃe̯ˈa# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ult͡ʃe̯ˈa#
+Old Romanian stage form : *#ult͡ʃe̯ˈa#
+Final form : *#ult͡ʃe̯ˈa#

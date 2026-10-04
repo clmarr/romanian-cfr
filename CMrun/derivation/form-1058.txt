@@ -1,11 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1058:
-#kˌollokˈaː# >>> *#kulukˈa# ( GOLD : #kulkˈa#) :
-k ˌo l l o k ˈaː 
-*#kollokˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kollokˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kollokˈa#
-*#kullukˈa# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#kulukˈa# | 194 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#kulukˈa#
-Old Romanian stage form : *#kulukˈa#
-Final form : *#kulukˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1058:
+#erraːtikˈiː# >>> *#rətət͡ʃˈi# ( GOLD : #rətət͡ʃˈi#) :
+e r r aː t i k ˈiː 
+*#erraːtekˈiː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#erratekˈi# | 121 : [+syl] > [-long,-splng] 
+*#erratekʲˈi# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#erratekʲˈi#
+*#erɾatekʲˈi# | 159 : r > ɾ / __ [nnas,ncons]
+*#erɾatekʲjˈi# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#erɾatekʲˈi# | 197 : j > ∅ / [+cons,+front] __
+*#erɾətekʲˈi# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#erɾətec͡ɕˈi# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#erɾətet͡ʃˈi# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#erɾətet͡ʃˈi#
+*#erətet͡ʃˈi# | 232 : {ɾ;r} > {∅;∅} / r __
+*#rətet͡ʃˈi# | 244 : e > ∅ / # __ [-syl] [-cons]
+*#rətət͡ʃˈi# | 279 : e > ə / ə ( [-syl] )* __ ( [-syl] )* [+syl,+hi]
+Old Romanian stage form : *#rətət͡ʃˈi#
+Final form : *#rətət͡ʃˈi#

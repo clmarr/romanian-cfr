@@ -1,14 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1049:
-#ˌadkellˈaː# >>> *#at͡ʃelˈa# ( GOLD : #at͡ʃuˈa#) :
-ˌa d k e l l ˈaː 
-*#adkellˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#akellˈaː# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
-*#akellˈa# | 120 : [+syl] > [-long,-splng] 
-*#akʲellˈa# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#akʲellˈa#
-*#akʲelˈa# | 194 : {l l;m m} > {l;m} 
-*#ac͡ɕelˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#at͡ʃelˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#at͡ʃelˈa#
-Old Romanian stage form : *#at͡ʃelˈa#
-Final form : *#at͡ʃelˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1049:
+#adpropiˈaː# >>> *#apropjˈa# ( GOLD : #apropjˈa#) :
+a d p r o p i ˈaː 
+*#adpropjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#apropjˈaː# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
+*#aproppjˈaː# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#aproppjˈa# | 121 : [+syl] > [-long,-splng] 
+*#apropjˈa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#apropjˈa#
+*#apɾopjˈa# | 159 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#apɾopjˈa#
+*#apropjˈa# | 253 : ɾ > r 
+Old Romanian stage form : *#apropjˈa#
+Final form : *#apropjˈa#

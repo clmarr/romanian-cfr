@@ -1,20 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1212:
-#bowˈaːrium# >>> *#bowˈar# ( GOLD : #bowˈar#) :
-b o w ˈaː r i u m 
-*#bowˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#bowˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#boβˈaːrju# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#boβˈarju# | 120 : [+syl] > [-long,-splng] 
-*#bowˈarju# | 148 : β > w / [+syl,+round,-hi] __ [+syl,+lo]
-Balkan Romance stage form : *#bowˈarju#
-*#bowˈaɾju# | 159 : r > ɾ / __ [nnas,ncons]
-*#bowˈaɾʲju# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#bowˈaɾʲu# | 196 : j > ∅ / [+cons,+front] __
-*#bowˈajɾu# | 219 : ɾʲ > j ɾ 
-Common Romanian stage form : *#bowˈajɾu#
-*#bowˈajru# | 252 : ɾ > r 
-*#bowˈajrw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bowˈajr# | 268 : w̥ > ∅ / [-syl] __ #
-*#bowˈar# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#bowˈar#
-Final form : *#bowˈar#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1212:
+#pˌorkˈaːrium# >>> *#purkˈar# ( GOLD : #porkˈar#) :
+p ˌo r k ˈaː r i u m 
+*#pˌorkˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#porkˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#porkˈaːrju# | 36 : m > ∅ / [-stres] __ #
+*#porkˈarju# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#porkˈarju#
+*#porkˈaɾju# | 159 : r > ɾ / __ [nnas,ncons]
+*#purkˈaɾju# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#purkˈaɾʲju# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#purkˈaɾʲu# | 197 : j > ∅ / [+cons,+front] __
+*#purkˈajɾu# | 220 : ɾʲ > j ɾ 
+Common Romanian stage form : *#purkˈajɾu#
+*#purkˈajru# | 253 : ɾ > r 
+*#purkˈajrw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#purkˈajr# | 269 : w̥ > ∅ / [-syl] __ #
+*#purkˈar# | 277 : j > ∅ / __ r
+Old Romanian stage form : *#purkˈar#
+Final form : *#purkˈar#

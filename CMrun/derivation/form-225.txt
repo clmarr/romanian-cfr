@@ -1,15 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 225:
-#kˌerwˈiːkem# >>> *#t͡ʃerbˈit͡ʃe# ( GOLD : #t͡ʃerbˈit͡ʃe#) :
-k ˌe r w ˈiː k e m 
-*#kerwˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kerwˈiːke# | 36 : m > ∅ / [-stres] __ #
-*#kerβˈiːke# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#kerβˈike# | 120 : [+syl] > [-long,-splng] 
-*#kerbˈike# | 141 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-*#kʲerbˈikʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲerbˈikʲe#
-*#c͡ɕerbˈic͡ɕe# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃerbˈit͡ʃe# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃerbˈit͡ʃe#
-Old Romanian stage form : *#t͡ʃerbˈit͡ʃe#
-Final form : *#t͡ʃerbˈit͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 225:
+#kˌatˈeːnam# >>> *#kətˈinə# ( GOLD : #kətˈinə#) :
+k ˌa t ˈeː n a m 
+*#katˈeːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#katˈeːna# | 36 : m > ∅ / [-stres] __ #
+*#katˈena# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#katˈena#
+*#kətˈenə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kətˈenə#
+*#kətˈinə# | 243 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#kətˈinə#
+Final form : *#kətˈinə#

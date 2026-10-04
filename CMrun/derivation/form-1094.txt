@@ -1,17 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1094:
-#okkaːsionˈaː# >>> *#kəʃunˈa# ( GOLD : #kəʃunˈa#) :
-o k k aː s i o n ˈaː 
-*#okkaːsjonˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#okkasjonˈa# | 120 : [+syl] > [-long,-splng] 
-*#okasjonˈa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#okasjonˈa#
-*#ukasjunˈa# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ukasʲjunˈa# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ukasʲunˈa# | 196 : j > ∅ / [+cons,+front] __
-*#ukaɕunˈa# | 201 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ukəɕunˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ukəʃunˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ukəʃunˈa#
-*#kəʃunˈa# | 244 : u > ∅ / # __ [+cons,-cor,-front]
-Old Romanian stage form : *#kəʃunˈa#
-Final form : *#kəʃunˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1094:
+#ˌadwˈiks# >>> *#abˈi# ( GOLD : #abˈi#) :
+ˌa d w ˈi k s 
+*#adwˈiks# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#awwˈiks# | 30 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
+*#aββˈiks# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#aββˈips# | 93 : k > p / [+syl,+stres,αfront,αhi] __ s
+*#aββˈis# | 96 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
+*#aββˈiːs# | 115 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#aββˈis# | 121 : [+syl] > [-long,-splng] 
+*#aβbˈis# | 141 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#abˈis# | 149 : β > ∅ 
+*#abˈij# | 157 : s > j / [+stres] __ #
+Balkan Romance stage form : *#abˈij#
+Common Romanian stage form : *#abˈij#
+*#abˈi# | 227 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+Old Romanian stage form : *#abˈi#
+Final form : *#abˈi#

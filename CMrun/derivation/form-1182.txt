@@ -1,16 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1182:
-#trˌiːbulˈaː# >>> *#trjerˈa# ( GOLD : #trejerˈa#) :
-t r ˌiː b u l ˈaː 
-*#triːbulˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#triːβulˈaː# | 117 : b > β / [-cons] __ [+cont]
-*#triβulˈa# | 120 : [+syl] > [-long,-splng] 
-*#triβjelˈa# | 140 : [+round,-prim] > j e/ [+front,-cons,-lo] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
-*#trijelˈa# | 149 : β > ∅ 
-Balkan Romance stage form : *#trijelˈa#
-*#tɾijelˈa# | 159 : r > ɾ / __ [nnas,ncons]
-*#tɾijeɾˈa# | 179 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#tɾijeɾˈa#
-*#trijerˈa# | 252 : ɾ > r 
-*#trjerˈa# | 285 : i > ∅ / __ j [+syl]
-Old Romanian stage form : *#trjerˈa#
-Final form : *#trjerˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1182:
+#mˈolam# >>> *#mo̯ˈarə# ( GOLD : #mo̯ˈarə#) :
+m ˈo l a m 
+*#mˈola# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#mˈola#
+*#mˈoɾa# | 179 : l > ɾ / [+syl] __ [+syl]
+*#mˈɔɾa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mˈɔaɾa# | 204 : ∅ > a / [-tense] __
+*#mˈoˈaɾa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mo̯ˈaɾa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#mo̯ˈaɾə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mo̯ˈaɾə#
+*#mo̯ˈarə# | 253 : ɾ > r 
+Old Romanian stage form : *#mo̯ˈarə#
+Final form : *#mo̯ˈarə#

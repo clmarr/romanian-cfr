@@ -1,16 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1341:
-#frˈaːnktum# >>> *#frˈɨnt# ( GOLD : #frˈɨnt#) :
-f r ˈaː n k t u m 
-*#frˈaːnktu# | 36 : m > ∅ / [-stres] __ #
-*#frˈaːntu# | 89 : [-cont] > ∅ / [+cons] __ [-son,-voi]
-*#frˈantu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#frˈantu#
-*#fɾˈantu# | 159 : r > ɾ / __ [nnas,ncons]
-*#fɾˈəntu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#fɾˈəntu#
-*#frˈəntu# | 252 : ɾ > r 
-*#frˈɨntu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#frˈɨntw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#frˈɨnt# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#frˈɨnt#
-Final form : *#frˈɨnt#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1341:
+#pˈersikam# >>> *#pjˈersikə# ( GOLD : #pjˈersikə#) :
+p ˈe r s i k a m 
+*#pˈersika# | 36 : m > ∅ / [-stres] __ #
+*#pˈɛrsika# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛrseka# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛrseka#
+*#pjˈɛrseka# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈerseka# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛrseka# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛarseka# | 204 : ∅ > a / [-tense] __
+*#pjˈeˈarseka# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈarseka# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pje̯ˈarsekə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pje̯ˈarsekə#
+*#pjˈersekə# | 240 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pjˈersikə# | 278 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
+Old Romanian stage form : *#pjˈersikə#
+Final form : *#pjˈersikə#

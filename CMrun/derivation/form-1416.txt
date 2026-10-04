@@ -1,9 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1416:
-#mˈontem# >>> *#mˈunte# ( GOLD : #mˈunte#) :
-m ˈo n t e m 
-*#mˈonte# | 36 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#mˈonte#
-*#mˈunte# | 182 : ˈo > ˈu / [+nas] __ [+nas]
-Common Romanian stage form : *#mˈunte#
-Old Romanian stage form : *#mˈunte#
-Final form : *#mˈunte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1416:
+#saːnitˈaːtem# >>> *#sɨnətˈate# ( GOLD : #sənətˈate#) :
+s aː n i t ˈaː t e m 
+*#saːnitˈaːte# | 36 : m > ∅ / [-stres] __ #
+*#saːnetˈaːte# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#sanetˈate# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sanetˈate#
+*#sənetˈate# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#sənetˈate#
+*#sɨnetˈate# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#sɨnətˈate# | 259 : e > ə / [-back] n __ t
+Old Romanian stage form : *#sɨnətˈate#
+Final form : *#sɨnətˈate#

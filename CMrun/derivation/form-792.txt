@@ -1,16 +1,31 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 792:
-#ɡrˈawulum# >>> *#ɡrˈawr# ( GOLD : #ɡrˈawr#) :
-ɡ r ˈa w u l u m 
-*#ɡrˈawulu# | 36 : m > ∅ / [-stres] __ #
-*#ɡrˈaβulu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#ɡrˈaulu# | 149 : β > ∅ 
-Balkan Romance stage form : *#ɡrˈaulu#
-*#ɡɾˈaulu# | 159 : r > ɾ / __ [nnas,ncons]
-*#ɡɾˈauɾu# | 179 : l > ɾ / [+syl] __ [+syl]
-*#ɡɾˈawɾu# | 180 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-Common Romanian stage form : *#ɡɾˈawɾu#
-*#ɡrˈawru# | 252 : ɾ > r 
-*#ɡrˈawrw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɡrˈawr# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɡrˈawr#
-Final form : *#ɡrˈawr#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 792:
+#hˌirundinˈellam# >>> *#rundine̯ˈa# ( GOLD : #rɨndune̯ˈa#) :
+h ˌi r u n d i n ˈe l l a m 
+*#hirundinˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#irundinˈellam# | 33 : [-son,-cons] > ∅ 
+*#irundinˈella# | 36 : m > ∅ / [-stres] __ #
+*#irundinˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#erundenˈɛlla# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#erundenˈɛlla#
+*#eɾundenˈɛlla# | 159 : r > ɾ / __ [nnas,ncons]
+*#eɾundenjˈɛlla# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#eɾundenjˈella# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#eɾundenjˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#eɾundinjˈɛlla# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#eɾundinjˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#eɾundjinjˈɛwa# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#eɾundʲjinʲjˈɛwa# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#eɾundʲinʲˈɛwa# | 197 : j > ∅ / [+cons,+front] __
+*#eɾundʲinˈɛwa# | 198 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
+*#eɾundinˈɛwa# | 199 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
+*#eɾundinˈɛawa# | 204 : ∅ > a / [-tense] __
+*#eɾundinˈeˈawa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#eɾundine̯ˈawa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#eɾundine̯ˈawə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#eɾundine̯ˈaw# | 215 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#eɾundine̯ˈa# | 216 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+Common Romanian stage form : *#eɾundine̯ˈa#
+*#ɾundine̯ˈa# | 244 : e > ∅ / # __ [-syl] [-cons]
+*#rundine̯ˈa# | 253 : ɾ > r 
+Old Romanian stage form : *#rundine̯ˈa#
+Final form : *#rundine̯ˈa#

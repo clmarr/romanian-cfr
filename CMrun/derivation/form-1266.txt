@@ -1,16 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1266:
-#tˈorkwe# >>> *#to̯ˈart͡ʃe# ( GOLD : #to̯ˈart͡ʃe#) :
-t ˈo r k w e 
-*#tˈorkβe# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#tˈorke# | 149 : β > ∅ 
-*#tˈorkʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#tˈorkʲe#
-*#tˈɔrkʲe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tˈɔarkʲe# | 203 : ∅ > a / [-tense] __
-*#tˈoˈarkʲe# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#to̯ˈarkʲe# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#to̯ˈarc͡ɕe# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#to̯ˈart͡ʃe# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#to̯ˈart͡ʃe#
-Old Romanian stage form : *#to̯ˈart͡ʃe#
-Final form : *#to̯ˈart͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1266:
+#ˈasklam# >>> *#ˈaʃkje# ( GOLD : #ˈaʃkje#) :
+ˈa s k l a m 
+*#ˈaskla# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈaskla#
+*#ˈasklə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ˈaskʎə# | 217 : l > ʎ / [-cont,-ant,-cor] __
+*#ˈaskʎe# | 218 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#ˈaskʎe#
+*#ˈaʃkʎe# | 241 : s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
+*#ˈaʃkje# | 257 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#ˈaʃkje#
+Final form : *#ˈaʃkje#

@@ -1,22 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 586:
-#kˌalendˈaːrium# >>> *#kərindˈar# ( GOLD : #kərindˈar#) :
-k ˌa l e n d ˈaː r i u m 
-*#kˌalendˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kalendˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kalendˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#kalendˈarju# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kalendˈarju#
-*#kalendˈaɾju# | 159 : r > ɾ / __ [nnas,ncons]
-*#kaɾendˈaɾju# | 179 : l > ɾ / [+syl] __ [+syl]
-*#kaɾendˈaɾʲju# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kaɾendˈaɾʲu# | 196 : j > ∅ / [+cons,+front] __
-*#kəɾendˈaɾʲu# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəɾendˈajɾu# | 219 : ɾʲ > j ɾ 
-Common Romanian stage form : *#kəɾendˈajɾu#
-*#kəɾindˈajɾu# | 235 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#kərindˈajru# | 252 : ɾ > r 
-*#kərindˈajrw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kərindˈajr# | 268 : w̥ > ∅ / [-syl] __ #
-*#kərindˈar# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#kərindˈar#
-Final form : *#kərindˈar#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 586:
+#mˈartium# >>> *#mˈart͡s# ( GOLD : #mˈart͡s#) :
+m ˈa r t i u m 
+*#mˈartjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈartju# | 36 : m > ∅ / [-stres] __ #
+*#mˈartʲu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+Balkan Romance stage form : *#mˈartʲu#
+*#mˈart͡sʲu# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mˈart͡su# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mˈart͡su#
+*#mˈart͡sw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mˈart͡s# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mˈart͡s#
+Final form : *#mˈart͡s#

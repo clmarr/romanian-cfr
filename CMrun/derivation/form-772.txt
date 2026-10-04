@@ -1,18 +1,25 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 772:
-#lˈeporem# >>> *#jˈepure# ( GOLD : #jˈepure#) :
-l ˈe p o r e m 
-*#lˈepore# | 36 : m > ∅ / [-stres] __ #
-*#lˈɛpore# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#lˈɛpore#
-*#lˈɛpoɾe# | 159 : r > ɾ / __ [nnas,ncons]
-*#ljˈɛpoɾe# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#ljˈepoɾe# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ljˈepuɾe# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#lʲjˈepuɾe# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#lʲˈepuɾe# | 196 : j > ∅ / [+cons,+front] __
-*#ʎˈepuɾe# | 201 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#ʎˈepuɾe#
-*#ʎˈepure# | 252 : ɾ > r 
-*#jˈepure# | 256 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#jˈepure#
-Final form : *#jˈepure#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 772:
+#mˌikstˈiːkium# >>> *#meʃtˈit͡s# ( GOLD : #mistrˈet͡s#) :
+m ˌi k s t ˈiː k i u m 
+*#mˌikstˈiːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mikstˈiːkjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#mikstˈiːkju# | 36 : m > ∅ / [-stres] __ #
+*#mistˈiːkju# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
+*#mistˈiːkkju# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#mestˈiːkkju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#mestˈikkju# | 121 : [+syl] > [-long,-splng] 
+*#mestˈiktʲu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#mestˈittʲu# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#mestˈitʲu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#mestˈitʲu#
+*#mestjˈitʲu# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#mestʲjˈitʲu# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mestʲˈitʲu# | 197 : j > ∅ / [+cons,+front] __
+*#meʃtˈitʲu# | 221 : s [-cont,+front] > ʃ t
+*#meʃtˈit͡sʲu# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#meʃtˈit͡su# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#meʃtˈit͡su#
+*#meʃtˈit͡sw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#meʃtˈit͡s# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#meʃtˈit͡s#
+Final form : *#meʃtˈit͡s#

@@ -1,8 +1,25 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1200:
-#tˈonde# >>> *#tˈunde# ( GOLD : #tˈunde#) :
-t ˈo n d e 
-Balkan Romance stage form : *#tˈonde#
-*#tˈunde# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#tˈunde#
-Old Romanian stage form : *#tˈunde#
-Final form : *#tˈunde#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1200:
+#fˌeːnˈikea# >>> *#fɨne̯ˈat͡sə# ( GOLD : #fɨne̯ˈat͡sə#) :
+f ˌeː n ˈi k e a 
+*#fˌeːnˈikja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#feːnˈikja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#feːnˈikkja# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#feːnˈekkja# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#fenˈekkja# | 121 : [+syl] > [-long,-splng] 
+*#fenˈektʲa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#fenˈettʲa# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#fenˈetʲa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#fenˈetʲa#
+*#fanˈetʲa# | 164 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#fanˈɛtʲa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#fanˈɛatʲa# | 204 : ∅ > a / [-tense] __
+*#fanˈeˈatʲa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fane̯ˈatʲa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#fəne̯ˈatʲa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#fəne̯ˈatʲə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#fəne̯ˈat͡sʲə# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#fəne̯ˈat͡sə# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fəne̯ˈat͡sə#
+*#fɨne̯ˈat͡sə# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#fɨne̯ˈat͡sə#
+Final form : *#fɨne̯ˈat͡sə#

@@ -1,21 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1294:
-#korrˈiɡiam# >>> *#kure̯ˈa# ( GOLD : #kure̯ˈa#) :
-k o r r ˈi ɡ i a m 
-*#korrˈiɡjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#korrˈiɡja# | 36 : m > ∅ / [-stres] __ #
-*#korrˈija# | 103 : ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
-*#korrˈeja# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#korrˈeja#
-*#korɾˈeja# | 159 : r > ɾ / __ [nnas,ncons]
-*#kurɾˈeja# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#kurɾˈɛja# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kurɾˈɛaja# | 203 : ∅ > a / [-tense] __
-*#kurɾˈeˈaja# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kurɾe̯ˈaja# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#kurɾe̯ˈajə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kurɾe̯ˈaj# | 214 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#kurɾe̯ˈa# | 215 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-Common Romanian stage form : *#kurɾe̯ˈa#
-*#kure̯ˈa# | 231 : {ɾ;r} > {∅;∅} / r __
-Old Romanian stage form : *#kure̯ˈa#
-Final form : *#kure̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1294:
+#ɡrˈaːtem# >>> *#ɡrˈate# ( GOLD : #ɡrˈatje#) :
+ɡ r ˈaː t e m 
+*#ɡrˈaːte# | 36 : m > ∅ / [-stres] __ #
+*#ɡrˈate# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɡrˈate#
+*#ɡɾˈate# | 159 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#ɡɾˈate#
+*#ɡrˈate# | 253 : ɾ > r 
+Old Romanian stage form : *#ɡrˈate#
+Final form : *#ɡrˈate#

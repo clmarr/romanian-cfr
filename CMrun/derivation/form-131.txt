@@ -1,22 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 131:
-#eːrˈikium# >>> *#arˈet͡s# ( GOLD : #arˈit͡ʃj#) :
-eː r ˈi k i u m 
-*#eːrˈikjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#aːrˈikjum# | 29 : eː > aː / # __ ( [+cons] )* [+hi]
-*#aːrˈikju# | 36 : m > ∅ / [-stres] __ #
-*#aːrˈikkju# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#aːrˈekkju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#arˈekkju# | 120 : [+syl] > [-long,-splng] 
-*#arˈektʲu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#arˈettʲu# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#arˈetʲu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#arˈetʲu#
-*#aɾˈetʲu# | 159 : r > ɾ / __ [nnas,ncons]
-*#aɾˈet͡sʲu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aɾˈet͡su# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#aɾˈet͡su#
-*#arˈet͡su# | 252 : ɾ > r 
-*#arˈet͡sw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#arˈet͡s# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#arˈet͡s#
-Final form : *#arˈet͡s#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 131:
+#fˈalkiːs# >>> *#fˈalt͡ʃj# ( GOLD : #fˈəlt͡ʃj#) :
+f ˈa l k iː s 
+*#fˈalkis# | 121 : [+syl] > [-long,-splng] 
+*#fˈalkʲis# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#fˈalkʲi# | 158 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#fˈalkʲi#
+*#fˈalkʲji# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#fˈalkʲi# | 197 : j > ∅ / [+cons,+front] __
+*#fˈalc͡ɕi# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#fˈalt͡ʃi# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fˈalt͡ʃi#
+*#fˈalt͡ʃj̊# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fˈalt͡ʃj# | 270 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#fˈalt͡ʃj#
+Final form : *#fˈalt͡ʃj#

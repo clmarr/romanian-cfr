@@ -1,15 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 963:
-#monumˈentum# >>> *#monmˈɨnt# ( GOLD : #mormˈɨnt#) :
-m o n u m ˈe n t u m 
-*#monumˈentu# | 36 : m > ∅ / [-stres] __ #
-*#monmˈentu# | 50 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
-*#monmˈɛntu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#monmˈɛntu#
-*#monmˈentu# | 166 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#monmˈentu#
-*#monmˈəntu# | 228 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#monmˈɨntu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#monmˈɨntw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#monmˈɨnt# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#monmˈɨnt#
-Final form : *#monmˈɨnt#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 963:
+#tˈemplam# >>> *#tˈimplə# ( GOLD : #tˈɨmplə#) :
+t ˈe m p l a m 
+*#tˈempla# | 36 : m > ∅ / [-stres] __ #
+*#tˈɛmpla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#tˈɛmpla#
+*#tˈempla# | 166 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#tˈemplə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#tˈemplə#
+*#tˈimplə# | 242 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+Old Romanian stage form : *#tˈimplə#
+Final form : *#tˈimplə#

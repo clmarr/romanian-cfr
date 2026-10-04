@@ -1,16 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 676:
-#mˈilium# >>> *#mˈej# ( GOLD : #mˈej#) :
-m ˈi l i u m 
-*#mˈiljum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈilju# | 36 : m > ∅ / [-stres] __ #
-*#mˈelju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#mˈelju#
-*#mˈelʲju# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mˈelʲu# | 196 : j > ∅ / [+cons,+front] __
-*#mˈeʎu# | 201 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#mˈeʎu#
-*#mˈeju# | 256 : [+son,+cons,+front] > j 
-*#mˈejw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈej# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mˈej#
-Final form : *#mˈej#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 676:
+#sekˈaːlam# >>> *#sekˈarə# ( GOLD : #sekˈarə#) :
+s e k ˈaː l a m 
+*#sekˈaːla# | 36 : m > ∅ / [-stres] __ #
+*#sekˈala# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sekˈala#
+*#sekˈaɾa# | 179 : l > ɾ / [+syl] __ [+syl]
+*#sekˈaɾə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#sekˈaɾə#
+*#sekˈarə# | 253 : ɾ > r 
+Old Romanian stage form : *#sekˈarə#
+Final form : *#sekˈarə#

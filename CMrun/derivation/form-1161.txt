@@ -1,8 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1161:
-#mutˈaː# >>> *#mutˈa# ( GOLD : #mutˈa#) :
-m u t ˈaː 
-*#mutˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mutˈa#
-Common Romanian stage form : *#mutˈa#
-Old Romanian stage form : *#mutˈa#
-Final form : *#mutˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1161:
+#traɡinˈaː# >>> *#trəɡənˈa# ( GOLD : #trəɡənˈa#) :
+t r a ɡ i n ˈaː 
+*#traɡenˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#traɡenˈa# | 121 : [+syl] > [-long,-splng] 
+*#traɡʲenˈa# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#traɡʲenˈa#
+*#tɾaɡʲenˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#tɾaɡʲinˈa# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#tɾaɡʲjinˈa# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#tɾaɡʲinˈa# | 197 : j > ∅ / [+cons,+front] __
+*#tɾaɡenˈa# | 200 : [+back,+front] [+syl] > [-front] [-hi]/ [+cor,+son] [+syl] ( n ) __ ( [+voi,-syl] ) [+prim,-round,-hi]
+*#tɾəɡenˈa# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#tɾəɡenˈa#
+*#trəɡenˈa# | 253 : ɾ > r 
+*#trəɡənˈa# | 282 : e > ə / ɡ __ n
+Old Romanian stage form : *#trəɡənˈa#
+Final form : *#trəɡənˈa#

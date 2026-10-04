@@ -1,19 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1401:
-#ˈillam# >>> *#jˈa# ( GOLD : #jˈa#) :
-ˈi l l a m 
-*#ˈilla# | 36 : m > ∅ / [-stres] __ #
-*#ˈella# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#ˈella#
-*#jˈella# | 178 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
-*#jˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#jˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#jˈɛawa# | 203 : ∅ > a / [-tense] __
-*#jˈeˈawa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#je̯ˈawa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#je̯ˈawə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#je̯ˈaw# | 214 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#je̯ˈa# | 215 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-Common Romanian stage form : *#je̯ˈa#
-*#jˈa# | 246 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
-Old Romanian stage form : *#jˈa#
-Final form : *#jˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1401:
+#ˈillae̯# >>> *#jˈele# ( GOLD : #jˈele#) :
+ˈi l l a e̯ 
+*#ˈillaj# | 11 : e̯ > j 
+*#ˈillɛː# | 34 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#ˈellɛː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#ˈellɛ# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈellɛ#
+*#ˈelle# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈelle# | 178 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
+*#jˈɛlle# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#jˈɛle# | 195 : {l l;m m} > {l;m} 
+*#jˈɛale# | 204 : ∅ > a / [-tense] __
+*#jˈeˈale# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#je̯ˈale# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#je̯ˈale#
+*#jˈele# | 240 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#jˈele#
+Final form : *#jˈele#

@@ -1,18 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1004:
-#fuːlˈiːɡinem# >>> *#funˈind͡ʒine# ( GOLD : #funˈind͡ʒine#) :
-f uː l ˈiː ɡ i n e m 
-*#fuːlˈiːɡine# | 36 : m > ∅ / [-stres] __ #
-*#fuːlˈiːɡene# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#fulˈiɡene# | 120 : [+syl] > [-long,-splng] 
-*#fulˈiɡʲene# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#fulˈiɡʲene#
-*#fuɾˈiɡʲene# | 179 : l > ɾ / [+syl] __ [+syl]
-*#fuɾˈiɟ͡ʑene# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fuɾˈid͡ʒene# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fuɾˈid͡ʒene#
-*#fuɾˈid͡ʒine# | 242 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#furˈid͡ʒine# | 252 : ɾ > r 
-*#furˈind͡ʒine# | 290 : ∅ > n / [+front,+hi] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
-*#funˈind͡ʒine# | 291 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
-Old Romanian stage form : *#funˈind͡ʒine#
-Final form : *#funˈind͡ʒine#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1004:
+#inkˈende# >>> *#ɨnt͡ʃˈinde# ( GOLD : #ɨnt͡ʃˈinde#) :
+i n k ˈe n d e 
+*#inkˈɛnde# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#enkˈɛnde# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkʲˈɛnde# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#enkʲˈɛnde#
+*#ankʲˈɛnde# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ankʲˈende# | 166 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#ənkʲˈende# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənc͡ɕˈende# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ənt͡ʃˈende# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ənt͡ʃˈende#
+*#ənt͡ʃˈinde# | 236 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnt͡ʃˈinde# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnt͡ʃˈinde#
+Final form : *#ɨnt͡ʃˈinde#

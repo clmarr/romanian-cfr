@@ -1,18 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1012:
-#ˌadfˈoraːs# >>> *#afo̯ˈarə# ( GOLD : #afˈarə#) :
-ˌa d f ˈo r aː s 
-*#adfˈoraːs# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#afˈoraːs# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
-*#afˈoras# | 120 : [+syl] > [-long,-splng] 
-*#afˈora# | 158 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#afˈora#
-*#afˈoɾa# | 159 : r > ɾ / __ [nnas,ncons]
-*#afˈɔɾa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#afˈɔaɾa# | 203 : ∅ > a / [-tense] __
-*#afˈoˈaɾa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#afo̯ˈaɾa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#afo̯ˈaɾə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#afo̯ˈaɾə#
-*#afo̯ˈarə# | 252 : ɾ > r 
-Old Romanian stage form : *#afo̯ˈarə#
-Final form : *#afo̯ˈarə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1012:
+#kˈontraː# >>> *#ko̯ˈatrə# ( GOLD : #kˈətre#) :
+k ˈo n t r aː 
+*#kˈotraː# | 64 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
+*#kˈotra# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kˈotra#
+*#kˈotɾa# | 159 : r > ɾ / __ [nnas,ncons]
+*#kˈɔtɾa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kˈɔatɾa# | 204 : ∅ > a / [-tense] __
+*#kˈoˈatɾa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ko̯ˈatɾa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ko̯ˈatɾə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ko̯ˈatɾə#
+*#ko̯ˈatrə# | 253 : ɾ > r 
+Old Romanian stage form : *#ko̯ˈatrə#
+Final form : *#ko̯ˈatrə#

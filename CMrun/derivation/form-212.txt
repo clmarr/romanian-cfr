@@ -1,11 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 212:
-#dˈentem# >>> *#dˈinte# ( GOLD : #dˈinte#) :
-d ˈe n t e m 
-*#dˈente# | 36 : m > ∅ / [-stres] __ #
-*#dˈɛnte# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#dˈɛnte#
-*#dˈente# | 166 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#dˈente#
-*#dˈinte# | 235 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#dˈinte#
-Final form : *#dˈinte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 212:
+#frˈontem# >>> *#frˈunte# ( GOLD : #frˈunte#) :
+f r ˈo n t e m 
+*#frˈonte# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#frˈonte#
+*#fɾˈonte# | 159 : r > ɾ / __ [nnas,ncons]
+*#fɾˈunte# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#fɾˈunte#
+*#frˈunte# | 253 : ɾ > r 
+Old Romanian stage form : *#frˈunte#
+Final form : *#frˈunte#

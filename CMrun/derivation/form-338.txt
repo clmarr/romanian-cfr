@@ -1,15 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 338:
-#ˌindˌuːrˈaː# >>> *#ɨndurˈa# ( GOLD : #ɨndurˈa#) :
-ˌi n d ˌuː r ˈaː 
-*#induːrˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enduːrˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#endurˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#endurˈa#
-*#enduɾˈa# | 159 : r > ɾ / __ [nnas,ncons]
-*#anduɾˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənduɾˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənduɾˈa#
-*#əndurˈa# | 252 : ɾ > r 
-*#ɨndurˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨndurˈa#
-Final form : *#ɨndurˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 338:
+#ˌinwiːtˈaː# >>> *#ɨnvitˈa# ( GOLD : #ɨnvitˈa#) :
+ˌi n w iː t ˈaː 
+*#inwiːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inβiːtˈaː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#enβiːtˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enβitˈa# | 121 : [+syl] > [-long,-splng] 
+*#envitˈa# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#envitˈa#
+*#anvitˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənvitˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ənvitˈa#
+*#ɨnvitˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnvitˈa#
+Final form : *#ɨnvitˈa#

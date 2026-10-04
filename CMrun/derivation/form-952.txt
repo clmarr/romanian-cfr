@@ -1,17 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 952:
-#miːriˈoːnem# >>> *#minˈune# ( GOLD : #minˈune#) :
-m iː r i ˈoː n e m 
-*#miːrjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#miːrjˈoːne# | 36 : m > ∅ / [-stres] __ #
-*#mirjˈone# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mirjˈone#
-*#miɾjˈone# | 159 : r > ɾ / __ [nnas,ncons]
-*#miɾʲjˈone# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#miɾʲˈone# | 196 : j > ∅ / [+cons,+front] __
-*#miɾˈone# | 200 : ɾʲ > ɾ / [+hi] __
-*#miɾˈune# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#miɾˈune#
-*#mirˈune# | 252 : ɾ > r 
-*#minˈune# | 291 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
-Old Romanian stage form : *#minˈune#
-Final form : *#minˈune#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 952:
+#paːɡaːnitˈaːtem# >>> *#pəɡɨnətˈate# ( GOLD : #pəɡɨnətˈate#) :
+p aː ɡ aː n i t ˈaː t e m 
+*#paːɡaːnitˈaːte# | 36 : m > ∅ / [-stres] __ #
+*#paːɡaːnetˈaːte# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#paɡanetˈate# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#paɡanetˈate#
+*#paɡənetˈate# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pəɡənetˈate# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pəɡənetˈate#
+*#pəɡɨnetˈate# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#pəɡɨnətˈate# | 259 : e > ə / [-back] n __ t
+Old Romanian stage form : *#pəɡɨnətˈate#
+Final form : *#pəɡɨnətˈate#

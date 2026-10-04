@@ -1,21 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 436:
-#marɡˈellam# >>> *#mərd͡ʒe̯ˈa# ( GOLD : #mərd͡ʒe̯ˈa#) :
-m a r ɡ ˈe l l a m 
-*#marɡˈella# | 36 : m > ∅ / [-stres] __ #
-*#marɡˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#marɡʲˈɛlla# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#marɡʲˈɛlla#
-*#marɡʲˈella# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#marɡʲˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#marɡʲˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#marɡʲˈɛawa# | 203 : ∅ > a / [-tense] __
-*#marɡʲˈeˈawa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#marɡʲe̯ˈawa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#mərɡʲe̯ˈawə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#mərɡʲe̯ˈaw# | 214 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#mərɡʲe̯ˈa# | 215 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-*#mərɟ͡ʑe̯ˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mərd͡ʒe̯ˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mərd͡ʒe̯ˈa#
-Old Romanian stage form : *#mərd͡ʒe̯ˈa#
-Final form : *#mərd͡ʒe̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 436:
+#braːkˈiːle# >>> *#brət͡ʃˈire# ( GOLD : #brət͡ʃˈire#) :
+b r aː k ˈiː l e 
+*#brakˈile# | 121 : [+syl] > [-long,-splng] 
+*#brakʲˈile# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#brakʲˈile#
+*#bɾakʲˈile# | 159 : r > ɾ / __ [nnas,ncons]
+*#bɾakʲˈiɾe# | 179 : l > ɾ / [+syl] __ [+syl]
+*#bɾakʲjˈiɾe# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#bɾakʲˈiɾe# | 197 : j > ∅ / [+cons,+front] __
+*#bɾəkʲˈiɾe# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#bɾəc͡ɕˈiɾe# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#bɾət͡ʃˈiɾe# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#bɾət͡ʃˈiɾe#
+*#brət͡ʃˈire# | 253 : ɾ > r 
+Old Romanian stage form : *#brət͡ʃˈire#
+Final form : *#brət͡ʃˈire#

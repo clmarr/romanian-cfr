@@ -1,14 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 297:
-#fˌaktˈuːram# >>> *#fəptˈurə# ( GOLD : #fəptˈurə#) :
-f ˌa k t ˈuː r a m 
-*#faktˈuːram# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#faktˈuːra# | 36 : m > ∅ / [-stres] __ #
-*#faptˈuːra# | 92 : k > p / __ t
-*#faptˈura# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#faptˈura#
-*#faptˈuɾa# | 159 : r > ɾ / __ [nnas,ncons]
-*#fəptˈuɾə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#fəptˈuɾə#
-*#fəptˈurə# | 252 : ɾ > r 
-Old Romanian stage form : *#fəptˈurə#
-Final form : *#fəptˈurə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 297:
+#fˈutue# >>> *#fˈute# ( GOLD : #fˈute#) :
+f ˈu t u e 
+*#fˈutwe# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fˈutβe# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#fˈute# | 149 : β > ∅ 
+Balkan Romance stage form : *#fˈute#
+Common Romanian stage form : *#fˈute#
+Old Romanian stage form : *#fˈute#
+Final form : *#fˈute#

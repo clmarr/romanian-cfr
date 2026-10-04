@@ -1,15 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1388:
-#awˈunkulum# >>> *#ˈunkj# ( GOLD : #ˈunkj#) :
-a w ˈu n k u l u m 
-*#aˈunkulum# | 20 : w > ∅ / # a __ ( @ ) ( @ ) [+round]
-*#aˈunkulu# | 36 : m > ∅ / [-stres] __ #
-*#aˈunklu# | 46 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#ˈunklu# | 97 : a > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
-Balkan Romance stage form : *#ˈunklu#
-*#ˈunkʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#ˈunkʎu#
-*#ˈunkju# | 256 : [+son,+cons,+front] > j 
-*#ˈunkjw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈunkj# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ˈunkj#
-Final form : *#ˈunkj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1388:
+#addˈuːkoː# >>> *#adˈuk# ( GOLD : #adˈuk#) :
+a d d ˈuː k oː 
+*#adˈuːkoː# | 31 : d > ∅ / [+syl,+lo] __ [-syl]
+*#adˈuko# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#adˈuko#
+*#adˈuku# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#adˈuku#
+*#adˈukw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#adˈuk# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#adˈuk#
+Final form : *#adˈuk#

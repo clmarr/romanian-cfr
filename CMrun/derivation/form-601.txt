@@ -1,19 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 601:
-#pˈikulam# >>> *#pˈekje# ( GOLD : #pˈəkurə#) :
-p ˈi k u l a m 
-*#pˈikula# | 36 : m > ∅ / [-stres] __ #
-*#pˈikla# | 48 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#pˈekla# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#pˈekla#
-*#pˈɛkla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pˈɛakla# | 203 : ∅ > a / [-tense] __
-*#pˈeˈakla# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pe̯ˈakla# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pe̯ˈaklə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pe̯ˈakʎə# | 216 : l > ʎ / [-cont,-ant,-cor] __
-*#pe̯ˈakʎe# | 217 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#pe̯ˈakʎe#
-*#pˈekʎe# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pˈekje# | 256 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#pˈekje#
-Final form : *#pˈekje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 601:
+#ˌae̯ruːɡˈiːna# >>> *#arud͡ʒˈinə# ( GOLD : #rud͡ʒˈinə#) :
+ˌa e̯ r uː ɡ ˈiː n a 
+*#ˌaruːɡˈiːna# | 0 : e̯ > ∅ / # [+lo] __ [+son]
+*#aruːɡˈiːna# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aruɡˈina# | 121 : [+syl] > [-long,-splng] 
+*#aruɡʲˈina# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#aruɡʲˈina#
+*#aɾuɡʲˈina# | 159 : r > ɾ / __ [nnas,ncons]
+*#aɾuɡʲjˈina# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#aɾuɡʲˈina# | 197 : j > ∅ / [+cons,+front] __
+*#aɾuɡʲˈinə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#aɾuɟ͡ʑˈinə# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#aɾud͡ʒˈinə# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#aɾud͡ʒˈinə#
+*#arud͡ʒˈinə# | 253 : ɾ > r 
+Old Romanian stage form : *#arud͡ʒˈinə#
+Final form : *#arud͡ʒˈinə#

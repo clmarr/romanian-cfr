@@ -1,11 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 276:
-#kʰˌaskˈaː# >>> *#kəskˈa# ( GOLD : #kəskˈa#) :
-kʰ ˌa s k ˈaː 
-*#kˌaskˈaː# | 14 : [+cons,+sg] > [-sg] 
-*#kaskˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kaskˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kaskˈa#
-*#kəskˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kəskˈa#
-Old Romanian stage form : *#kəskˈa#
-Final form : *#kəskˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 276:
+#stˌernuːtˈaː# >>> *#sternutˈa# ( GOLD : #strənutˈa#) :
+s t ˌe r n uː t ˈaː 
+*#sternuːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#isternuːtˈaː# | 101 : ∅ > i / # __ s [+cons,-son]
+*#esternuːtˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#esternutˈa# | 121 : [+syl] > [-long,-splng] 
+*#sternutˈa# | 122 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sternutˈa#
+*#steɾnutˈa# | 159 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#steɾnutˈa#
+*#sternutˈa# | 253 : ɾ > r 
+Old Romanian stage form : *#sternutˈa#
+Final form : *#sternutˈa#

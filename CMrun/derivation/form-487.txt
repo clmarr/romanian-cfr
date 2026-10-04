@@ -1,20 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 487:
-#kˌasˈaːrium# >>> *#kəsˈar# ( GOLD : #kəsˈar#) :
-k ˌa s ˈaː r i u m 
-*#kˌasˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kasˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kasˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#kasˈarju# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kasˈarju#
-*#kasˈaɾju# | 159 : r > ɾ / __ [nnas,ncons]
-*#kasˈaɾʲju# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kasˈaɾʲu# | 196 : j > ∅ / [+cons,+front] __
-*#kəsˈaɾʲu# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəsˈajɾu# | 219 : ɾʲ > j ɾ 
-Common Romanian stage form : *#kəsˈajɾu#
-*#kəsˈajru# | 252 : ɾ > r 
-*#kəsˈajrw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kəsˈajr# | 268 : w̥ > ∅ / [-syl] __ #
-*#kəsˈar# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#kəsˈar#
-Final form : *#kəsˈar#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 487:
+#kooperiːmˈentum# >>> *#koperimˈɨnt# ( GOLD : #koperəmˈɨnt#) :
+k o o p e r iː m ˈe n t u m 
+*#kwoperiːmˈentum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kwoperiːmˈentu# | 36 : m > ∅ / [-stres] __ #
+*#kβoperiːmˈentu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#kβoperiːmˈɛntu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kβoperimˈɛntu# | 121 : [+syl] > [-long,-splng] 
+*#koperimˈɛntu# | 149 : β > ∅ 
+Balkan Romance stage form : *#koperimˈɛntu#
+*#kopeɾimˈɛntu# | 159 : r > ɾ / __ [nnas,ncons]
+*#kopeɾimˈentu# | 166 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#kopeɾimˈentu#
+*#kopeɾimˈəntu# | 229 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#koperimˈəntu# | 253 : ɾ > r 
+*#koperimˈɨntu# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#koperimˈɨntw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#koperimˈɨnt# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#koperimˈɨnt#
+Final form : *#koperimˈɨnt#

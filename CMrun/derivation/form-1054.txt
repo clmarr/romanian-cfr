@@ -1,25 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1054:
-#ˌassˈedioː# >>> *#aʃˈez# ( GOLD : #aʃˈez#) :
-ˌa s s ˈe d i oː 
-*#ˌassˈedjoː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#assˈedjoː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#assˈɛdjoː# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#assˈɛddjoː# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#assˈɛddjo# | 120 : [+syl] > [-long,-splng] 
-*#assˈɛddʲo# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#asˈɛdʲo# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#asˈɛdʲo#
-*#asjˈɛdʲo# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#asjˈedʲo# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#asjˈedʲu# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#asʲjˈedʲu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#asʲˈedʲu# | 196 : j > ∅ / [+cons,+front] __
-*#aɕˈedʲu# | 201 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#aɕˈed͡zʲu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aʃˈed͡zu# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#aʃˈed͡zu#
-*#aʃˈezu# | 261 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#aʃˈezw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#aʃˈez# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#aʃˈez#
-Final form : *#aʃˈez#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1054:
+#kadˈeː# >>> *#kəde̯ˈa# ( GOLD : #kəde̯ˈa#) :
+k a d ˈeː 
+*#kadˈe# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kadˈe#
+*#kadˈɛ# | 188 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
+*#kadˈɛa# | 204 : ∅ > a / [-tense] __
+*#kadˈeˈa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kade̯ˈa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kəde̯ˈa# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kəde̯ˈa#
+Old Romanian stage form : *#kəde̯ˈa#
+Final form : *#kəde̯ˈa#

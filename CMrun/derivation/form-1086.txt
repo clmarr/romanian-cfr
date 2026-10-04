@@ -1,11 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1086:
-#frikˈaː# >>> *#frekˈa# ( GOLD : #frekˈa#) :
-f r i k ˈaː 
-*#frekˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#frekˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#frekˈa#
-*#fɾekˈa# | 159 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#fɾekˈa#
-*#frekˈa# | 252 : ɾ > r 
-Old Romanian stage form : *#frekˈa#
-Final form : *#frekˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1086:
+#ˌinɡannˈaː# >>> *#ɨnɡɨnˈa# ( GOLD : #ɨnɡɨnˈa#) :
+ˌi n ɡ a n n ˈaː 
+*#inɡannˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enɡannˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɡannˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enɡannˈa#
+*#anɡannˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənɡannˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənɡənnˈa# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ənɡənnˈa#
+*#ənɡənˈa# | 250 : n n > n 
+*#ɨnɡɨnˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnɡɨnˈa#
+Final form : *#ɨnɡɨnˈa#

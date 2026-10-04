@@ -1,14 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1133:
-#implantˈaː# >>> *#ɨmplɨntˈa# ( GOLD : #ɨmplɨntˈa#) :
-i m p l a n t ˈaː 
-*#emplantˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#emplantˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#emplantˈa#
-*#amplantˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ampləntˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#əmpləntˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#əmpləntˈa#
-*#əmplɨntˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨmplɨntˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
-Old Romanian stage form : *#ɨmplɨntˈa#
-Final form : *#ɨmplɨntˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1133:
+#impˈunɡe# >>> *#ɨmpˈund͡ʒe# ( GOLD : #ɨmpˈund͡ʒe#) :
+i m p ˈu n ɡ e 
+*#empˈunɡe# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#empˈunɡʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#empˈunɡʲe#
+*#ampˈunɡʲe# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#əmpˈunɡʲe# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#əmpˈunɟ͡ʑe# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#əmpˈund͡ʒe# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#əmpˈund͡ʒe#
+*#ɨmpˈund͡ʒe# | 256 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+Old Romanian stage form : *#ɨmpˈund͡ʒe#
+Final form : *#ɨmpˈund͡ʒe#

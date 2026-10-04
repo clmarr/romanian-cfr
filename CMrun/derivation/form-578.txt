@@ -1,13 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 578:
-#nˈoktem# >>> *#no̯ˈapte# ( GOLD : #no̯ˈapte#) :
-n ˈo k t e m 
-*#nˈokte# | 36 : m > ∅ / [-stres] __ #
-*#nˈopte# | 92 : k > p / __ t
-Balkan Romance stage form : *#nˈopte#
-*#nˈɔpte# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#nˈɔapte# | 203 : ∅ > a / [-tense] __
-*#nˈoˈapte# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#no̯ˈapte# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#no̯ˈapte#
-Old Romanian stage form : *#no̯ˈapte#
-Final form : *#no̯ˈapte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 578:
+#mˈartis# >>> *#mˈart͡sj# ( GOLD : #mˈart͡sj#) :
+m ˈa r t i s 
+*#mˈartiːs# | 115 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#mˈartis# | 121 : [+syl] > [-long,-splng] 
+*#mˈarti# | 158 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#mˈarti#
+*#mˈartji# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#mˈartʲji# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mˈartʲi# | 197 : j > ∅ / [+cons,+front] __
+*#mˈart͡sʲi# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mˈart͡si# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mˈart͡si#
+*#mˈart͡sj̊# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mˈart͡sj# | 270 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#mˈart͡sj#
+Final form : *#mˈart͡sj#

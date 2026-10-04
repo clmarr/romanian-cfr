@@ -1,22 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 688:
-#raːdˈiːkula# >>> *#rəzˈikje# ( GOLD : #ridˈikje#) :
-r aː d ˈiː k u l a 
-*#raːdˈiːkla# | 47 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#radˈikla# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#radˈikla#
-*#ɾadˈikla# | 159 : r > ɾ / __ [nnas,ncons]
-*#rɾadˈikla# | 160 : ∅ > r / # __ ɾ
-*#rɾadjˈikla# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#rɾadʲjˈikla# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾadʲˈikla# | 196 : j > ∅ / [+cons,+front] __
-*#rɾədʲˈiklə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#rɾədʲˈikʎə# | 216 : l > ʎ / [-cont,-ant,-cor] __
-*#rɾədʲˈikʎe# | 217 : ə > e / [+cons,+front,+son] __
-*#rɾəd͡zʲˈikʎe# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾəd͡zˈikʎe# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾəd͡zˈikʎe#
-*#rəd͡zˈikʎe# | 231 : {ɾ;r} > {∅;∅} / r __
-*#rəd͡zˈikje# | 256 : [+son,+cons,+front] > j 
-*#rəzˈikje# | 261 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#rəzˈikje#
-Final form : *#rəzˈikje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 688:
+#fˈeːnum# >>> *#fˈɨn# ( GOLD : #fˈɨn#) :
+f ˈeː n u m 
+*#fˈeːnu# | 36 : m > ∅ / [-stres] __ #
+*#fˈenu# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈenu#
+*#fˈanu# | 164 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#fˈənu# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#fˈənu#
+*#fˈɨnu# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#fˈɨnw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fˈɨn# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fˈɨn#
+Final form : *#fˈɨn#

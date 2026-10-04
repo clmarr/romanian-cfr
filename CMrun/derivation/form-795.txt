@@ -1,15 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 795:
-#mˈerulam# >>> *#mjˈerlə# ( GOLD : #mjˈerlə#) :
-m ˈe r u l a m 
-*#mˈerula# | 36 : m > ∅ / [-stres] __ #
-*#mˈerla# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
-*#mˈɛrla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#mˈɛrla#
-*#mjˈɛrla# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#mjˈerla# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mjˈɛrla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mjˈerla# | 202 : [-tense] > [+tense,-cons,-lat,+cont,0delrel] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
-*#mjˈerlə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#mjˈerlə#
-Old Romanian stage form : *#mjˈerlə#
-Final form : *#mjˈerlə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 795:
+#pˌeturnˈiːkulam# >>> *#poturnˈikje# ( GOLD : #poturnˈikje#) :
+p ˌe t u r n ˈiː k u l a m 
+*#peturnˈiːkulam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#peturnˈiːkula# | 36 : m > ∅ / [-stres] __ #
+*#peturnˈiːkla# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#peturnˈikla# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#peturnˈikla#
+*#petuɾnˈikla# | 159 : r > ɾ / __ [nnas,ncons]
+*#petuɾnˈiklə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#petuɾnˈikʎə# | 217 : l > ʎ / [-cont,-ant,-cor] __
+*#petuɾnˈikʎe# | 218 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#petuɾnˈikʎe#
+*#pətuɾnˈikʎe# | 229 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#potuɾnˈikʎe# | 238 : ə > o / # ( p ) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
+*#poturnˈikʎe# | 253 : ɾ > r 
+*#poturnˈikje# | 257 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#poturnˈikje#
+Final form : *#poturnˈikje#

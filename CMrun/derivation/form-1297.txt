@@ -1,18 +1,9 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1297:
-#fˈimbriam# >>> *#fˈimbrje# ( GOLD : #frɨnɡˈie#) :
-f ˈi m b r i a m 
-*#fˈimbrjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#fˈimbrja# | 36 : m > ∅ / [-stres] __ #
-*#fˈembrja# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#fˈembrja#
-*#fˈembɾja# | 159 : r > ɾ / __ [nnas,ncons]
-*#fˈembɾʲja# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fˈembɾʲa# | 196 : j > ∅ / [+cons,+front] __
-*#fˈembɾʲə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fˈembɾʲe# | 217 : ə > e / [+cons,+front,+son] __
-*#fˈembɾje# | 218 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
-Common Romanian stage form : *#fˈembɾje#
-*#fˈimbɾje# | 241 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#fˈimbrje# | 252 : ɾ > r 
-Old Romanian stage form : *#fˈimbrje#
-Final form : *#fˈimbrje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1297:
+#fˈuːnem# >>> *#fˈune# ( GOLD : #fˈunje#) :
+f ˈuː n e m 
+*#fˈuːne# | 36 : m > ∅ / [-stres] __ #
+*#fˈune# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈune#
+Common Romanian stage form : *#fˈune#
+Old Romanian stage form : *#fˈune#
+Final form : *#fˈune#

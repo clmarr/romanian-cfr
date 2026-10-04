@@ -1,13 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 363:
-#tˈime# >>> *#tˈeme# ( GOLD : #tˈeme#) :
-t ˈi m e 
-*#tˈeme# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#tˈeme#
-*#tˈɛme# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
-*#tˈɛame# | 203 : ∅ > a / [-tense] __
-*#tˈeˈame# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#te̯ˈame# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#te̯ˈame#
-*#tˈeme# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#tˈeme#
-Final form : *#tˈeme#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 363:
+#tremulˈaː# >>> *#tremurˈa# ( GOLD : #tremurˈa#) :
+t r e m u l ˈaː 
+*#tremulˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tremulˈa#
+*#tɾemulˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#tɾemuɾˈa# | 179 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#tɾemuɾˈa#
+*#tremurˈa# | 253 : ɾ > r 
+Old Romanian stage form : *#tremurˈa#
+Final form : *#tremurˈa#

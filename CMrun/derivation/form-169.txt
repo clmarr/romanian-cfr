@@ -1,21 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 169:
-#pˈerɡulam# >>> *#pjˈerɡje# ( GOLD : #pˈɨrɡje#) :
-p ˈe r ɡ u l a m 
-*#pˈerɡula# | 36 : m > ∅ / [-stres] __ #
-*#pˈerɡla# | 48 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#pˈɛrɡla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#pˈɛrɡla#
-*#pjˈɛrɡla# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈerɡla# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛrɡla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛarɡla# | 203 : ∅ > a / [-tense] __
-*#pjˈeˈarɡla# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈarɡla# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pje̯ˈarɡlə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pje̯ˈarɡʎə# | 216 : l > ʎ / [-cont,-ant,-cor] __
-*#pje̯ˈarɡʎe# | 217 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#pje̯ˈarɡʎe#
-*#pjˈerɡʎe# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pjˈerɡje# | 256 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#pjˈerɡje#
-Final form : *#pjˈerɡje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 169:
+#pˈittulam# >>> *#pˈəturə# ( GOLD : #pˈəturə#) :
+p ˈi t t u l a m 
+*#pˈittula# | 36 : m > ∅ / [-stres] __ #
+*#pˈettula# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#pˈetula# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#pˈetula#
+*#pˈetuɾa# | 179 : l > ɾ / [+syl] __ [+syl]
+*#pˈetuɾə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pˈetuɾə#
+*#pˈətuɾə# | 229 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pˈəturə# | 253 : ɾ > r 
+Old Romanian stage form : *#pˈəturə#
+Final form : *#pˈəturə#

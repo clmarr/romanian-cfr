@@ -1,12 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 542:
-#mˌariːtˈaː# >>> *#məritˈa# ( GOLD : #məritˈa#) :
-m ˌa r iː t ˈaː 
-*#mariːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#maritˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#maritˈa#
-*#maɾitˈa# | 159 : r > ɾ / __ [nnas,ncons]
-*#məɾitˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#məɾitˈa#
-*#məritˈa# | 252 : ɾ > r 
-Old Romanian stage form : *#məritˈa#
-Final form : *#məritˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 542:
+#petˈiː# >>> *#pet͡sˈi# ( GOLD : #pet͡sˈi#) :
+p e t ˈiː 
+*#petˈi# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#petˈi#
+*#petjˈi# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#petʲjˈi# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#petʲˈi# | 197 : j > ∅ / [+cons,+front] __
+*#pet͡sʲˈi# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pet͡sˈi# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pet͡sˈi#
+Old Romanian stage form : *#pet͡sˈi#
+Final form : *#pet͡sˈi#

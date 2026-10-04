@@ -1,13 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1019:
-#dˈeːpost# >>> *#dˈep# ( GOLD : #dˈupə#) :
-d ˈeː p o s t 
-*#dˈeːpos# | 71 : [+cons,-cont] > ∅ / __ #
-*#dˈepos# | 120 : [+syl] > [-long,-splng] 
-*#dˈepo# | 158 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#dˈepo#
-*#dˈepu# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#dˈepu#
-*#dˈepw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dˈep# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#dˈep#
-Final form : *#dˈep#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1019:
+#ˌekkumhˈakke# >>> *#ako̯ˈat͡ʃe# ( GOLD : #ako̯ˈat͡ʃe#) :
+ˌe k k u m h ˈa k k e 
+*#ekkumhˈakke# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#akkumhˈakke# | 28 : e > a / # __ k k
+*#akkumˈakke# | 33 : [-son,-cons] > ∅ 
+*#akumˈake# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#akumˈakʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#akumˈakʲe#
+*#akoˈakʲe# | 183 : u m > o / [+back] __ [+syl]
+*#ako̯ˈakʲe# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ako̯ˈac͡ɕe# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ako̯ˈat͡ʃe# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ako̯ˈat͡ʃe#
+Old Romanian stage form : *#ako̯ˈat͡ʃe#
+Final form : *#ako̯ˈat͡ʃe#

@@ -1,15 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 970:
-#buːkinˈaː# >>> *#but͡ʃinˈa# ( GOLD : #but͡ʃinˈa#) :
-b uː k i n ˈaː 
-*#buːkenˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#bukenˈa# | 120 : [+syl] > [-long,-splng] 
-*#bukʲenˈa# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#bukʲenˈa#
-*#bukʲinˈa# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#bukʲjinˈa# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#bukʲinˈa# | 196 : j > ∅ / [+cons,+front] __
-*#buc͡ɕinˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#but͡ʃinˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#but͡ʃinˈa#
-Old Romanian stage form : *#but͡ʃinˈa#
-Final form : *#but͡ʃinˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 970:
+#kˈantikum# >>> *#kˈɨntek# ( GOLD : #kˈɨntek#) :
+k ˈa n t i k u m 
+*#kˈantiku# | 36 : m > ∅ / [-stres] __ #
+*#kˈanteku# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#kˈanteku#
+*#kˈənteku# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#kˈənteku#
+*#kˈɨnteku# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#kˈɨntekw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈɨntek# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kˈɨntek#
+Final form : *#kˈɨntek#

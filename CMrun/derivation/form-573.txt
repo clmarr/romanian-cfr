@@ -1,16 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 573:
-#hˈeriː# >>> *#jˈerj# ( GOLD : #jˈerj#) :
-h ˈe r iː 
-*#ˈeriː# | 33 : h > ∅ 
-*#ˈɛriː# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛri# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈɛri#
-*#ˈɛɾi# | 159 : r > ɾ / __ [nnas,ncons]
-*#ˈeɾi# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈeɾi# | 178 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
-Common Romanian stage form : *#jˈeɾi#
-*#jˈeri# | 252 : ɾ > r 
-*#jˈerj̊# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#jˈerj# | 269 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#jˈerj#
-Final form : *#jˈerj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 573:
+#dˌeːmˌaːnˈitia# >>> *#demine̯ˈat͡sə# ( GOLD : #dimine̯ˈat͡sə#) :
+d ˌeː m ˌaː n ˈi t i a 
+*#dˌeːmˌaːnˈitja# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#deːmaːnˈitja# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːmaːnˈittja# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#deːmaːnˈettja# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#demanˈettja# | 121 : [+syl] > [-long,-splng] 
+*#demanˈettʲa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#demanˈetʲa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#demanˈetʲa#
+*#deminˈetʲa# | 165 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
+*#deminˈɛtʲa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#deminˈɛatʲa# | 204 : ∅ > a / [-tense] __
+*#deminˈeˈatʲa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#demine̯ˈatʲa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#demine̯ˈatʲə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#demine̯ˈat͡sʲə# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#demine̯ˈat͡sə# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#demine̯ˈat͡sə#
+Old Romanian stage form : *#demine̯ˈat͡sə#
+Final form : *#demine̯ˈat͡sə#

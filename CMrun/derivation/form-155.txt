@@ -1,16 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 155:
-#ˌinkˌarrikˈaː# >>> *#ɨnkərkˈa# ( GOLD : #ɨnkərkˈa#) :
-ˌi n k ˌa r r i k ˈaː 
-*#inkarrikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkarrkˈaː# | 53 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
-*#enkarrkˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkarrkˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkarrkˈa#
-*#ankarrkˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənkarrkˈa# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənkərrkˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənkərrkˈa#
-*#ənkərkˈa# | 231 : {ɾ;r} > {∅;∅} / r __
-*#ɨnkərkˈa# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnkərkˈa#
-Final form : *#ɨnkərkˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 155:
+#ˌindˌireːktˈaː# >>> *#ɨndreptˈa# ( GOLD : #ɨndreptˈa#) :
+ˌi n d ˌi r eː k t ˈaː 
+*#indireːktˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#indreːktˈaː# | 39 : [+syl,+front,-lo,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#indreːptˈaː# | 92 : k > p / __ t
+*#endreːptˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#endreptˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#endreptˈa#
+*#endɾeptˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#andɾeptˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#əndɾeptˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əndɾeptˈa#
+*#əndreptˈa# | 253 : ɾ > r 
+*#ɨndreptˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨndreptˈa#
+Final form : *#ɨndreptˈa#

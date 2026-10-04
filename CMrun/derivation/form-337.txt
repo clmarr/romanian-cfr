@@ -1,15 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 337:
-#fˌeːlˈiːkem# >>> *#ferˈit͡ʃe# ( GOLD : #ferˈit͡ʃe#) :
-f ˌeː l ˈiː k e m 
-*#feːlˈiːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːlˈiːke# | 36 : m > ∅ / [-stres] __ #
-*#felˈike# | 120 : [+syl] > [-long,-splng] 
-*#felˈikʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#felˈikʲe#
-*#feɾˈikʲe# | 179 : l > ɾ / [+syl] __ [+syl]
-*#feɾˈic͡ɕe# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#feɾˈit͡ʃe# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#feɾˈit͡ʃe#
-*#ferˈit͡ʃe# | 252 : ɾ > r 
-Old Romanian stage form : *#ferˈit͡ʃe#
-Final form : *#ferˈit͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 337:
+#ˌintˌerrittˈaː# >>> *#ɨnterətˈa# ( GOLD : #ɨntərɨtˈa#) :
+ˌi n t ˌe r r i t t ˈaː 
+*#interrittˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enterrettˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enterrettˈa# | 121 : [+syl] > [-long,-splng] 
+*#enterretˈa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#enterretˈa#
+*#enterɾetˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#anterɾetˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənterɾetˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ənterɾetˈa#
+*#ənteretˈa# | 232 : {ɾ;r} > {∅;∅} / r __
+*#ənterətˈa# | 233 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#ɨnterətˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnterətˈa#
+Final form : *#ɨnterətˈa#

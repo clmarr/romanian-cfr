@@ -1,14 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 450:
-#diskalkeˈaː# >>> *#deskəlt͡sˈa# ( GOLD : #deskəlt͡sˈa#) :
-d i s k a l k e ˈaː 
-*#diskalkjˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#deskalkjˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#deskalkjˈa# | 120 : [+syl] > [-long,-splng] 
-*#deskaltʲˈa# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#deskaltʲˈa#
-*#deskəltʲˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#deskəlt͡sʲˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#deskəlt͡sˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#deskəlt͡sˈa#
-Old Romanian stage form : *#deskəlt͡sˈa#
-Final form : *#deskəlt͡sˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 450:
+#imbrakˈaː# >>> *#ɨmbrəkˈa# ( GOLD : #ɨmbrəkˈa#) :
+i m b r a k ˈaː 
+*#embrakˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#embrakˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#embrakˈa#
+*#embɾakˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#ambɾakˈa# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#əmbɾakˈa# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#əmbɾəkˈa# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#əmbɾəkˈa#
+*#əmbrəkˈa# | 253 : ɾ > r 
+*#ɨmbrəkˈa# | 256 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+Old Romanian stage form : *#ɨmbrəkˈa#
+Final form : *#ɨmbrəkˈa#

@@ -1,13 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1325:
-#ˈokulum# >>> *#ˈokj# ( GOLD : #ˈokj#) :
-ˈo k u l u m 
-*#ˈokulu# | 36 : m > ∅ / [-stres] __ #
-*#ˈoklu# | 46 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-Balkan Romance stage form : *#ˈoklu#
-*#ˈokʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#ˈokʎu#
-*#ˈokju# | 256 : [+son,+cons,+front] > j 
-*#ˈokjw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈokj# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ˈokj#
-Final form : *#ˈokj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1325:
+#wˈiridem# >>> *#vˈerde# ( GOLD : #vˈerde#) :
+w ˈi r i d e m 
+*#wˈiride# | 36 : m > ∅ / [-stres] __ #
+*#wˈirde# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#βˈirde# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈerde# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈerde# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈerde#
+*#vˈɛrde# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛarde# | 204 : ∅ > a / [-tense] __
+*#vˈeˈarde# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈarde# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ve̯ˈarde#
+*#vˈerde# | 240 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#vˈerde#
+Final form : *#vˈerde#

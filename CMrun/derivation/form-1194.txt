@@ -1,17 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1194:
-#manˈukulum# >>> *#mənˈunkj# ( GOLD : #mənˈunkj#) :
-m a n ˈu k u l u m 
-*#manˈukulu# | 36 : m > ∅ / [-stres] __ #
-*#manˈuklu# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-Balkan Romance stage form : *#manˈuklu#
-*#mənˈuklu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#mənˈukʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#mənˈukʎu#
-*#mənˈunkʎu# | 227 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-*#mərˈunkʎu# | 233 : n > r / ə __ [+syl,+hi,+back] [+nas]
-*#mərˈunkju# | 256 : [+son,+cons,+front] > j 
-*#mərˈunkjw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mərˈunkj# | 268 : w̥ > ∅ / [-syl] __ #
-*#mənˈunkj# | 291 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
-Old Romanian stage form : *#mənˈunkj#
-Final form : *#mənˈunkj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1194:
+#minˈaː# >>> *#mɨnˈa# ( GOLD : #mɨnˈa#) :
+m i n ˈaː 
+*#menˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#menˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#menˈa#
+*#manˈa# | 164 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#mənˈa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#mənˈa#
+*#mɨnˈa# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#mɨnˈa#
+Final form : *#mɨnˈa#

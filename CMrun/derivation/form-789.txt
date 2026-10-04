@@ -1,22 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 789:
-#drˌepanˈellam# >>> *#drepne̯ˈa# ( GOLD : #drepne̯ˈa#) :
-d r ˌe p a n ˈe l l a m 
-*#drepanˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#drepanˈella# | 36 : m > ∅ / [-stres] __ #
-*#drepnˈella# | 59 : a > ∅ / [+syl] p __ n [+syl]
-*#drepnˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#drepnˈɛlla#
-*#dɾepnˈɛlla# | 159 : r > ɾ / __ [nnas,ncons]
-*#dɾepnˈella# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dɾepnˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#dɾepnˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#dɾepnˈɛawa# | 203 : ∅ > a / [-tense] __
-*#dɾepnˈeˈawa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dɾepne̯ˈawa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#dɾepne̯ˈawə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#dɾepne̯ˈaw# | 214 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#dɾepne̯ˈa# | 215 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-Common Romanian stage form : *#dɾepne̯ˈa#
-*#drepne̯ˈa# | 252 : ɾ > r 
-Old Romanian stage form : *#drepne̯ˈa#
-Final form : *#drepne̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 789:
+#ɡˈalɡulum# >>> *#ɡˈalɡur# ( GOLD : #ɡrˈanɡur#) :
+ɡ ˈa l ɡ u l u m 
+*#ɡˈalɡulu# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ɡˈalɡulu#
+*#ɡˈalɡuɾu# | 179 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#ɡˈalɡuɾu#
+*#ɡˈalɡuru# | 253 : ɾ > r 
+*#ɡˈalɡurw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɡˈalɡur# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɡˈalɡur#
+Final form : *#ɡˈalɡur#

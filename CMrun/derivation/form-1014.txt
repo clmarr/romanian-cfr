@@ -1,16 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1014:
-#kˈontraː# >>> *#ko̯ˈatrə# ( GOLD : #kˈətre#) :
-k ˈo n t r aː 
-*#kˈotraː# | 64 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#kˈotra# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kˈotra#
-*#kˈotɾa# | 159 : r > ɾ / __ [nnas,ncons]
-*#kˈɔtɾa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔatɾa# | 203 : ∅ > a / [-tense] __
-*#kˈoˈatɾa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈatɾa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ko̯ˈatɾə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ko̯ˈatɾə#
-*#ko̯ˈatrə# | 252 : ɾ > r 
-Old Romanian stage form : *#ko̯ˈatrə#
-Final form : *#ko̯ˈatrə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1014:
+#dˌeːˌekkeˈinde# >>> *#det͡ʃˈinde# ( GOLD : #det͡ʃˈinde#) :
+d ˌeː ˌe k k e ˈi n d e 
+*#dˌeːkkeˈinde# | 4 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
+*#dˌeːkkjˈinde# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#deːkkjˈinde# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːkkjˈende# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#dekkjˈende# | 121 : [+syl] > [-long,-splng] 
+*#dektʲˈende# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#dettʲˈende# | 129 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#detkʲˈende# | 131 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#dekʲˈende# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#dekʲˈende#
+*#dec͡ɕˈende# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#det͡ʃˈende# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#det͡ʃˈende#
+*#det͡ʃˈinde# | 236 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Old Romanian stage form : *#det͡ʃˈinde#
+Final form : *#det͡ʃˈinde#

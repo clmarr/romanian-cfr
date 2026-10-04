@@ -1,17 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 580:
-#mˈartis# >>> *#mˈart͡sj# ( GOLD : #mˈart͡sj#) :
-m ˈa r t i s 
-*#mˈartiːs# | 115 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#mˈartis# | 120 : [+syl] > [-long,-splng] 
-*#mˈarti# | 158 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#mˈarti#
-*#mˈartji# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#mˈartʲji# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mˈartʲi# | 196 : j > ∅ / [+cons,+front] __
-*#mˈart͡sʲi# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mˈart͡si# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mˈart͡si#
-*#mˈart͡sj̊# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mˈart͡sj# | 269 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#mˈart͡sj#
-Final form : *#mˈart͡sj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 580:
+#sˈambatam# >>> *#sˈɨmbətə# ( GOLD : #sˈɨmbətə#) :
+s ˈa m b a t a m 
+*#sˈambata# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#sˈambata#
+*#sˈəmbata# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#sˈəmbətə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#sˈəmbətə#
+*#sˈɨmbətə# | 256 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+Old Romanian stage form : *#sˈɨmbətə#
+Final form : *#sˈɨmbətə#

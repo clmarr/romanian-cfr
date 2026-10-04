@@ -1,19 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 500:
-#titˈiːnam# >>> *#t͡sɨt͡sˈɨnə# ( GOLD : #t͡sɨt͡sˈɨnə#) :
-t i t ˈiː n a m 
-*#titˈiːna# | 36 : m > ∅ / [-stres] __ #
-*#tetˈiːna# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#titˈiːna# | 119 : [+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
-*#titˈina# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#titˈina#
-*#tjitjˈina# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#tʲjitʲjˈina# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tʲitʲˈina# | 196 : j > ∅ / [+cons,+front] __
-*#tʲitʲˈinə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#t͡sʲit͡sʲˈinə# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡sit͡sˈinə# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡sit͡sˈinə#
-*#t͡sit͡sˈɨnə# | 295 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
-*#t͡sɨt͡sˈɨnə# | 296 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
-Old Romanian stage form : *#t͡sɨt͡sˈɨnə#
-Final form : *#t͡sɨt͡sˈɨnə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 500:
+#armˈaːrium# >>> *#armˈar# ( GOLD : #armˈar#) :
+a r m ˈaː r i u m 
+*#armˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#armˈaːrju# | 36 : m > ∅ / [-stres] __ #
+*#armˈarju# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#armˈarju#
+*#aɾmˈaɾju# | 159 : r > ɾ / __ [nnas,ncons]
+*#aɾmˈaɾʲju# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#aɾmˈaɾʲu# | 197 : j > ∅ / [+cons,+front] __
+*#aɾmˈajɾu# | 220 : ɾʲ > j ɾ 
+Common Romanian stage form : *#aɾmˈajɾu#
+*#armˈajru# | 253 : ɾ > r 
+*#armˈajrw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#armˈajr# | 269 : w̥ > ∅ / [-syl] __ #
+*#armˈar# | 277 : j > ∅ / __ r
+Old Romanian stage form : *#armˈar#
+Final form : *#armˈar#

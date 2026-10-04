@@ -1,20 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 744:
-#kˈokkinum# >>> *#ko̯ˈat͡ʃin# ( GOLD : #ko̯ˈat͡ʃin#) :
-k ˈo k k i n u m 
-*#kˈokkinu# | 36 : m > ∅ / [-stres] __ #
-*#kˈokkenu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#kˈokenu# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#kˈokʲenu# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kˈokʲenu#
-*#kˈɔkʲenu# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔakʲenu# | 203 : ∅ > a / [-tense] __
-*#kˈoˈakʲenu# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈakʲenu# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ko̯ˈac͡ɕenu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ko̯ˈat͡ʃenu# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ko̯ˈat͡ʃenu#
-*#ko̯ˈat͡ʃinu# | 242 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#ko̯ˈat͡ʃinw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ko̯ˈat͡ʃin# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ko̯ˈat͡ʃin#
-Final form : *#ko̯ˈat͡ʃin#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 744:
+#ˈekwam# >>> *#jˈapə# ( GOLD : #jˈapə#) :
+ˈe k w a m 
+*#ˈekwa# | 36 : m > ∅ / [-stres] __ #
+*#ˈekβa# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#ˈepa# | 99 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
+*#ˈɛpa# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#ˈɛpa#
+*#ˈepa# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈepa# | 178 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
+*#jˈɛpa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#jˈɛapa# | 204 : ∅ > a / [-tense] __
+*#jˈeˈapa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#je̯ˈapa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#je̯ˈapə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#je̯ˈapə#
+*#jˈapə# | 247 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
+Old Romanian stage form : *#jˈapə#
+Final form : *#jˈapə#

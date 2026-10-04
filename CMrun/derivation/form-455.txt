@@ -1,18 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 455:
-#inwestˈiː# >>> *#ɨnveʃtˈi# ( GOLD : #ɨnveʃtˈi#) :
-i n w e s t ˈiː 
-*#inβestˈiː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#enβestˈiː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enβestˈi# | 120 : [+syl] > [-long,-splng] 
-*#envestˈi# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#envestˈi#
-*#anvestˈi# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#anvestjˈi# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#anvestʲjˈi# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#anvestʲˈi# | 196 : j > ∅ / [+cons,+front] __
-*#ənvestʲˈi# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənveʃtˈi# | 220 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#ənveʃtˈi#
-*#ɨnveʃtˈi# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnveʃtˈi#
-Final form : *#ɨnveʃtˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 455:
+#suffolikˈaː# >>> *#suflekˈa# ( GOLD : #suflekˈa#) :
+s u f f o l i k ˈaː 
+*#sufflikˈaː# | 43 : [+syl] > ∅ / f f __ l
+*#sufflekˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#sufflekˈa# | 121 : [+syl] > [-long,-splng] 
+*#suflekˈa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#suflekˈa#
+Common Romanian stage form : *#suflekˈa#
+Old Romanian stage form : *#suflekˈa#
+Final form : *#suflekˈa#

@@ -1,15 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 179:
-#sˌaɡittˈaː# >>> *#səd͡ʒetˈa# ( GOLD : #səd͡ʒetˈa#) :
-s ˌa ɡ i t t ˈaː 
-*#saɡittˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#saɡettˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#saɡettˈa# | 120 : [+syl] > [-long,-splng] 
-*#saɡetˈa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#saɡʲetˈa# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#saɡʲetˈa#
-*#səɡʲetˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#səɟ͡ʑetˈa# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#səd͡ʒetˈa# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#səd͡ʒetˈa#
-Old Romanian stage form : *#səd͡ʒetˈa#
-Final form : *#səd͡ʒetˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 179:
+#sˈappam# >>> *#sˈapə# ( GOLD : #sˈapə#) :
+s ˈa p p a m 
+*#sˈappa# | 36 : m > ∅ / [-stres] __ #
+*#sˈapa# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#sˈapa#
+*#sˈapə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#sˈapə#
+Old Romanian stage form : *#sˈapə#
+Final form : *#sˈapə#

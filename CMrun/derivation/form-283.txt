@@ -1,13 +1,23 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 283:
-#fˈamem# >>> *#fo̯ˈame# ( GOLD : #fo̯ˈame#) :
-f ˈa m e m 
-*#fˈame# | 36 : m > ∅ / [-stres] __ #
-*#fˈome# | 81 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / f __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
-Balkan Romance stage form : *#fˈome#
-*#fˈɔme# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
-*#fˈɔame# | 203 : ∅ > a / [-tense] __
-*#fˈoˈame# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fo̯ˈame# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#fo̯ˈame#
-Old Romanian stage form : *#fo̯ˈame#
-Final form : *#fo̯ˈame#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 283:
+#ˌinɡlˌuttˈiː# >>> *#ɨnɡit͡sˈi# ( GOLD : #ɨnɡit͡sˈi#) :
+ˌi n ɡ l ˌu t t ˈiː 
+*#inɡluttˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enɡluttˈiː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɡluttˈi# | 121 : [+syl] > [-long,-splng] 
+*#enɡlutˈi# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#enɡlutˈi#
+*#anɡlutˈi# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#anɡlutjˈi# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#anɡlutʲjˈi# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#anɡlutʲˈi# | 197 : j > ∅ / [+cons,+front] __
+*#ənɡlutʲˈi# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənɡʎutʲˈi# | 217 : l > ʎ / [-cont,-ant,-cor] __
+*#ənɡʎut͡sʲˈi# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ənɡʎut͡sˈi# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ənɡʎut͡sˈi#
+*#ɨnɡʎut͡sˈi# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnɡjut͡sˈi# | 257 : [+son,+cons,+front] > j 
+*#ɨnɡjit͡sˈi# | 273 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
+*#ɨnɡit͡sˈi# | 274 : j > ∅ / __ [+front,+hi]
+Old Romanian stage form : *#ɨnɡit͡sˈi#
+Final form : *#ɨnɡit͡sˈi#

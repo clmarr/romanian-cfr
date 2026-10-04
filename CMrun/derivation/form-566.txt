@@ -1,20 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 566:
-#sˈikkitaːs# >>> *#sˈet͡ʃetə# ( GOLD : #sˈet͡ʃetə#) :
-s ˈi k k i t aː s 
-*#sˈekketaːs# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#sˈekketas# | 120 : [+syl] > [-long,-splng] 
-*#sˈeketas# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#sˈekʲetas# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#sˈekʲeta# | 158 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#sˈekʲeta#
-*#sˈɛkʲeta# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#sˈɛakʲeta# | 203 : ∅ > a / [-tense] __
-*#sˈeˈakʲeta# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#se̯ˈakʲeta# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#se̯ˈakʲetə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#se̯ˈac͡ɕetə# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#se̯ˈat͡ʃetə# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#se̯ˈat͡ʃetə#
-*#sˈet͡ʃetə# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#sˈet͡ʃetə#
-Final form : *#sˈet͡ʃetə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 566:
+#wˈentum# >>> *#vˈɨnt# ( GOLD : #vˈɨnt#) :
+w ˈe n t u m 
+*#wˈentu# | 36 : m > ∅ / [-stres] __ #
+*#βˈentu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈɛntu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛntu# | 134 : β > v / # ( e n ) ( k o ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛntu#
+*#vˈentu# | 166 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#vˈentu#
+*#vˈəntu# | 229 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈɨntu# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#vˈɨntw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈɨnt# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈɨnt#
+Final form : *#vˈɨnt#

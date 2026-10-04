@@ -1,12 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 137:
-#fˌortˈuːnam# >>> *#furtˈunə# ( GOLD : #furtˈunə#) :
-f ˌo r t ˈuː n a m 
-*#fortˈuːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#fortˈuːna# | 36 : m > ∅ / [-stres] __ #
-*#fortˈuna# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fortˈuna#
-*#furtˈuna# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#furtˈunə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#furtˈunə#
-Old Romanian stage form : *#furtˈunə#
-Final form : *#furtˈunə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 137:
+#frˈeːnum# >>> *#frˈɨw# ( GOLD : #frˈɨw#) :
+f r ˈeː n u m 
+*#frˈeːnu# | 36 : m > ∅ / [-stres] __ #
+*#frˈenu# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#frˈenu#
+*#fɾˈenu# | 159 : r > ɾ / __ [nnas,ncons]
+*#fɾˈanu# | 164 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#fɾˈənu# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#fɾˈənu#
+*#frˈənu# | 253 : ɾ > r 
+*#frˈɨnu# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#frˈɨu# | 266 : n > ∅ / [-cor] r [-round,-front,+syl] __ u #
+*#frˈɨw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frˈɨw# | 270 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#frˈɨw#
+Final form : *#frˈɨw#

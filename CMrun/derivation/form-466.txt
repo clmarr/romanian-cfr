@@ -1,22 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 466:
-#mˈuriam# >>> *#mo̯ˈare# ( GOLD : #mo̯ˈare#) :
-m ˈu r i a m 
-*#mˈurjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈurja# | 36 : m > ∅ / [-stres] __ #
-*#mˈorja# | 42 : [+hi,+stres] > [-hi] / [+nas] __ r
-Balkan Romance stage form : *#mˈorja#
-*#mˈoɾja# | 159 : r > ɾ / __ [nnas,ncons]
-*#mˈɔɾja# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mˈɔɾʲja# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mˈɔɾʲa# | 196 : j > ∅ / [+cons,+front] __
-*#mˈɔaɾʲa# | 203 : ∅ > a / [-tense] __
-*#mˈoˈaɾʲa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#mo̯ˈaɾʲa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#mo̯ˈaɾʲə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#mo̯ˈaɾʲe# | 217 : ə > e / [+cons,+front,+son] __
-*#mo̯ˈajɾe# | 219 : ɾʲ > j ɾ 
-Common Romanian stage form : *#mo̯ˈajɾe#
-*#mo̯ˈajre# | 252 : ɾ > r 
-*#mo̯ˈare# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#mo̯ˈare#
-Final form : *#mo̯ˈare#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 466:
+#pˈaːnem# >>> *#pˈɨjne# ( GOLD : #pˈɨjne#) :
+p ˈaː n e m 
+*#pˈaːne# | 36 : m > ∅ / [-stres] __ #
+*#pˈane# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈane#
+*#pˈəne# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#pˈəne#
+*#pˈɨne# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#pˈɨjne# | 289 : ∅ > j / ˈɨ __ n [-cons,+front,-lo] ( [+syl] ) #
+Old Romanian stage form : *#pˈɨjne#
+Final form : *#pˈɨjne#

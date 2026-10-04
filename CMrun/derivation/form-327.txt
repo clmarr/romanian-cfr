@@ -1,12 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 327:
-#blˈandum# >>> *#blˈɨnd# ( GOLD : #blˈɨnd#) :
-b l ˈa n d u m 
-*#blˈandu# | 36 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#blˈandu#
-*#blˈəndu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#blˈəndu#
-*#blˈɨndu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#blˈɨndw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#blˈɨnd# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#blˈɨnd#
-Final form : *#blˈɨnd#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 327:
+#inkˌommˈitte# >>> *#ɨnkumˈete# ( GOLD : #ɨnkumˈete#) :
+i n k ˌo m m ˈi t t e 
+*#inkommˈitte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enkommˈette# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkommˈete# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#enkommˈete#
+*#ankommˈete# | 163 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ankummˈete# | 175 : o > u / __ [+lab,+cont,+cons]
+*#ankummˈɛte# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ankumˈɛte# | 195 : {l l;m m} > {l;m} 
+*#ankumˈɛate# | 204 : ∅ > a / [-tense] __
+*#ankumˈeˈate# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ankume̯ˈate# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ənkume̯ˈate# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ənkume̯ˈate#
+*#ənkumˈete# | 240 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#ɨnkumˈete# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnkumˈete#
+Final form : *#ɨnkumˈete#

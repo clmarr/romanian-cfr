@@ -1,17 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 534:
-#ˈorpʰanum# >>> *#o̯ˈarfɨn# ( GOLD : ...) :
-ˈo r pʰ a n u m 
-*#ˈorfanum# | 13 : pʰ > f / @ __
-*#ˈorfanu# | 36 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#ˈorfanu#
-*#ˈɔrfanu# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ˈɔarfanu# | 203 : ∅ > a / [-tense] __
-*#ˈoˈarfanu# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#o̯ˈarfanu# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#o̯ˈarfənu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#o̯ˈarfənu#
-*#o̯ˈarfɨnu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#o̯ˈarfɨnw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#o̯ˈarfɨn# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#o̯ˈarfɨn#
-Final form : *#o̯ˈarfɨn#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 534:
+#kˌoroːnˈaː# >>> *#kununˈa# ( GOLD : #kununˈa#) :
+k ˌo r oː n ˈaː 
+*#koroːnˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#koronˈa# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#koronˈa#
+*#koɾonˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#kuɾunˈa# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#kuɾunˈa#
+*#kurunˈa# | 253 : ɾ > r 
+*#kununˈa# | 292 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Old Romanian stage form : *#kununˈa#
+Final form : *#kununˈa#

@@ -1,19 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 752:
-#pˌekuwˈiːnam# >>> *#pəkˈujnə# ( GOLD : #pəkˈujnə#) :
-p ˌe k u w ˈiː n a m 
-*#pekuwˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pekˈuwinam# | 26 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#pekˈuwina# | 36 : m > ∅ / [-stres] __ #
-*#pekˈuβina# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#pekˈuβena# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#pekˈuena# | 149 : β > ∅ 
-*#pekˈujena# | 153 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
-Balkan Romance stage form : *#pekˈujena#
-*#pekˈujenə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pekˈujenə#
-*#pəkˈujenə# | 228 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#pəkˈujinə# | 242 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-*#pəkˈuinə# | 273 : j > ∅ / __ [+front,+hi]
-*#pəkˈujnə# | 286 : i > j / [+syl] __
-Old Romanian stage form : *#pəkˈujnə#
-Final form : *#pəkˈujnə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 752:
+#pˌorkˈellum# >>> *#purt͡ʃˈel# ( GOLD : #purt͡ʃˈel#) :
+p ˌo r k ˈe l l u m 
+*#porkˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#porkˈellu# | 36 : m > ∅ / [-stres] __ #
+*#porkˈɛllu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#porkʲˈɛllu# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#porkʲˈɛllu#
+*#porkʲˈellu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#purkʲˈellu# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#purkʲˈelu# | 195 : {l l;m m} > {l;m} 
+*#purc͡ɕˈelu# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#purt͡ʃˈelu# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#purt͡ʃˈelu#
+*#purt͡ʃˈelw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#purt͡ʃˈel# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#purt͡ʃˈel#
+Final form : *#purt͡ʃˈel#

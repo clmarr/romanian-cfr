@@ -1,23 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 130:
-#ekspˈellawat# >>> *#spe̯ˈa# ( GOLD : #spˈalə#) :
-e k s p ˈe l l a w a t 
-*#ekspˈellawa# | 71 : [+cons,-cont] > ∅ / __ #
-*#ekspˈellaβa# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#espˈellaβa# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espˈɛllaβa# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#spˈɛllaβa# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#spˈɛllaa# | 149 : β > ∅ 
-*#spˈɛlla# | 150 : [+syl,-stres] > ∅ / a __
-Balkan Romance stage form : *#spˈɛlla#
-*#spˈella# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#spˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#spˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#spˈɛawa# | 203 : ∅ > a / [-tense] __
-*#spˈeˈawa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#spe̯ˈawa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#spe̯ˈawə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#spe̯ˈaw# | 214 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#spe̯ˈa# | 215 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-Common Romanian stage form : *#spe̯ˈa#
-Old Romanian stage form : *#spe̯ˈa#
-Final form : *#spe̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 130:
+#fˌabrikˈaː# >>> *#ferekˈa# ( GOLD : #ferekˈa#) :
+f ˌa b r i k ˈaː 
+*#fabrikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#faβrikˈaː# | 117 : b > β / [-cons] __ [+cont]
+*#faβrekˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#faβrekˈa# | 121 : [+syl] > [-long,-splng] 
+*#fawrekˈa# | 142 : β > w / __ [+son,+cons]
+Balkan Romance stage form : *#fawrekˈa#
+*#fawɾekˈa# | 159 : r > ɾ / __ [nnas,ncons]
+*#faɾekˈa# | 173 : w > ∅ / __ ɾ [+front,-lo]
+*#fəɾekˈa# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fəɾekˈa#
+*#fərekˈa# | 253 : ɾ > r 
+*#ferekˈa# | 281 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo] [-strid]
+Old Romanian stage form : *#ferekˈa#
+Final form : *#ferekˈa#

@@ -1,17 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 806:
-#lˈaktiːs# >>> *#lˈapt͡sj# ( GOLD : #lˈapt͡sj#) :
-l ˈa k t iː s 
-*#lˈaptiːs# | 92 : k > p / __ t
-*#lˈaptis# | 120 : [+syl] > [-long,-splng] 
-*#lˈapti# | 158 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#lˈapti#
-*#lˈaptji# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#lˈaptʲji# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#lˈaptʲi# | 196 : j > ∅ / [+cons,+front] __
-*#lˈapt͡sʲi# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#lˈapt͡si# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#lˈapt͡si#
-*#lˈapt͡sj̊# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lˈapt͡sj# | 269 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#lˈapt͡sj#
-Final form : *#lˈapt͡sj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 806:
+#brˈoːskam# >>> *#bro̯ˈaskə# ( GOLD : #bro̯ˈaskə#) :
+b r ˈoː s k a m 
+*#brˈoːska# | 36 : m > ∅ / [-stres] __ #
+*#brˈoska# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#brˈoska#
+*#bɾˈoska# | 159 : r > ɾ / __ [nnas,ncons]
+*#bɾˈɔska# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#bɾˈɔaska# | 204 : ∅ > a / [-tense] __
+*#bɾˈoˈaska# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#bɾo̯ˈaska# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#bɾo̯ˈaskə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#bɾo̯ˈaskə#
+*#bro̯ˈaskə# | 253 : ɾ > r 
+Old Romanian stage form : *#bro̯ˈaskə#
+Final form : *#bro̯ˈaskə#

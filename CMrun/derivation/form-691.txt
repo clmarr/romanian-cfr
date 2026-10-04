@@ -1,18 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 691:
-#hˈerbam# >>> *#jˈarbə# ( GOLD : #jˈarbə#) :
-h ˈe r b a m 
-*#ˈerbam# | 33 : h > ∅ 
-*#ˈerba# | 36 : m > ∅ / [-stres] __ #
-*#ˈɛrba# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ˈɛrba#
-*#ˈerba# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈerba# | 178 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
-*#jˈɛrba# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#jˈɛarba# | 203 : ∅ > a / [-tense] __
-*#jˈeˈarba# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#je̯ˈarba# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#je̯ˈarbə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#je̯ˈarbə#
-*#jˈarbə# | 246 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
-Old Romanian stage form : *#jˈarbə#
-Final form : *#jˈarbə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 691:
+#kˈanapam# >>> *#kˈɨnəpə# ( GOLD : #kˈɨnepə#) :
+k ˈa n a p a m 
+*#kˈanapa# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#kˈanapa#
+*#kˈənapa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#kˈənəpə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kˈənəpə#
+*#kˈɨnəpə# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#kˈɨnəpə#
+Final form : *#kˈɨnəpə#

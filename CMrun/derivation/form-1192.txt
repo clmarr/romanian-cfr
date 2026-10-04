@@ -1,23 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1192:
-#tˈerram# >>> *#t͡sˈarə# ( GOLD : #t͡sˈarə#) :
-t ˈe r r a m 
-*#tˈerra# | 36 : m > ∅ / [-stres] __ #
-*#tˈɛrra# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#tˈɛrra#
-*#tˈɛrɾa# | 159 : r > ɾ / __ [nnas,ncons]
-*#tjˈɛrɾa# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#tjˈerɾa# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tjˈɛrɾa# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tʲjˈɛrɾa# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tʲˈɛrɾa# | 196 : j > ∅ / [+cons,+front] __
-*#tʲˈɛarɾa# | 203 : ∅ > a / [-tense] __
-*#tʲˈeˈarɾa# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#tʲe̯ˈarɾa# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#tʲe̯ˈarɾə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#t͡sʲe̯ˈarɾə# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡se̯ˈarɾə# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡se̯ˈarɾə#
-*#t͡se̯ˈarə# | 231 : {ɾ;r} > {∅;∅} / r __
-*#t͡sˈarə# | 251 : e̯ > ∅ / [+delrel,-distr] __ ˈa [+voi,+cor]
-Old Romanian stage form : *#t͡sˈarə#
-Final form : *#t͡sˈarə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1192:
+#manˈukulum# >>> *#mənˈunkj# ( GOLD : #mənˈunkj#) :
+m a n ˈu k u l u m 
+*#manˈukulu# | 36 : m > ∅ / [-stres] __ #
+*#manˈuklu# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+Balkan Romance stage form : *#manˈuklu#
+*#mənˈuklu# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#mənˈukʎu# | 217 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#mənˈukʎu#
+*#mənˈunkʎu# | 228 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#mərˈunkʎu# | 234 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#mərˈunkju# | 257 : [+son,+cons,+front] > j 
+*#mərˈunkjw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mərˈunkj# | 269 : w̥ > ∅ / [-syl] __ #
+*#mənˈunkj# | 292 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Old Romanian stage form : *#mənˈunkj#
+Final form : *#mənˈunkj#

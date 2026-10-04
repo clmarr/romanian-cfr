@@ -1,18 +1,22 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 787:
-#ɡˌallˈiːnam# >>> *#ɡəˈinə# ( GOLD : #ɡəˈinə#) :
-ɡ ˌa l l ˈiː n a m 
-*#ɡallˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɡallˈiːna# | 36 : m > ∅ / [-stres] __ #
-*#ɡallˈina# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɡallˈina#
-*#ɡalljˈina# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ɡaljˈina# | 194 : {l l;m m} > {l;m} 
-*#ɡalʲjˈina# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɡalʲˈina# | 196 : j > ∅ / [+cons,+front] __
-*#ɡaʎˈina# | 201 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɡəʎˈinə# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ɡəʎˈinə#
-*#ɡəjˈinə# | 256 : [+son,+cons,+front] > j 
-*#ɡəˈinə# | 273 : j > ∅ / __ [+front,+hi]
-Old Romanian stage form : *#ɡəˈinə#
-Final form : *#ɡəˈinə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 787:
+#drˌepanˈellam# >>> *#drepne̯ˈa# ( GOLD : #drepne̯ˈa#) :
+d r ˌe p a n ˈe l l a m 
+*#drepanˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#drepanˈella# | 36 : m > ∅ / [-stres] __ #
+*#drepnˈella# | 59 : a > ∅ / [+syl] p __ n [+syl]
+*#drepnˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#drepnˈɛlla#
+*#dɾepnˈɛlla# | 159 : r > ɾ / __ [nnas,ncons]
+*#dɾepnˈella# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dɾepnˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dɾepnˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#dɾepnˈɛawa# | 204 : ∅ > a / [-tense] __
+*#dɾepnˈeˈawa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dɾepne̯ˈawa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#dɾepne̯ˈawə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#dɾepne̯ˈaw# | 215 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#dɾepne̯ˈa# | 216 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+Common Romanian stage form : *#dɾepne̯ˈa#
+*#drepne̯ˈa# | 253 : ɾ > r 
+Old Romanian stage form : *#drepne̯ˈa#
+Final form : *#drepne̯ˈa#

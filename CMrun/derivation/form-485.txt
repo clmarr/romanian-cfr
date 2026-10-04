@@ -1,21 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 485:
-#kaprˈeolum# >>> *#kəprjˈor# ( GOLD : #kəprjˈor#) :
-k a p r ˈe o l u m 
-*#kaprˈeolu# | 36 : m > ∅ / [-stres] __ #
-*#kapreˈoːlu# | 107 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#kapriˈoːlu# | 108 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#kaprjˈoːlu# | 113 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#kaprjˈolu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kaprjˈolu#
-*#kapɾjˈolu# | 159 : r > ɾ / __ [nnas,ncons]
-*#kapɾjˈoɾu# | 179 : l > ɾ / [+syl] __ [+syl]
-*#kapɾʲjˈoɾu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kapɾʲˈoɾu# | 196 : j > ∅ / [+cons,+front] __
-*#kəpɾʲˈoɾu# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəpɾjˈoɾu# | 218 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
-Common Romanian stage form : *#kəpɾjˈoɾu#
-*#kəprjˈoru# | 252 : ɾ > r 
-*#kəprjˈorw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kəprjˈor# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kəprjˈor#
-Final form : *#kəprjˈor#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 485:
+#kˌasˈaːrium# >>> *#kəsˈar# ( GOLD : #kəsˈar#) :
+k ˌa s ˈaː r i u m 
+*#kˌasˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kasˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kasˈaːrju# | 36 : m > ∅ / [-stres] __ #
+*#kasˈarju# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kasˈarju#
+*#kasˈaɾju# | 159 : r > ɾ / __ [nnas,ncons]
+*#kasˈaɾʲju# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kasˈaɾʲu# | 197 : j > ∅ / [+cons,+front] __
+*#kəsˈaɾʲu# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kəsˈajɾu# | 220 : ɾʲ > j ɾ 
+Common Romanian stage form : *#kəsˈajɾu#
+*#kəsˈajru# | 253 : ɾ > r 
+*#kəsˈajrw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kəsˈajr# | 269 : w̥ > ∅ / [-syl] __ #
+*#kəsˈar# | 277 : j > ∅ / __ r
+Old Romanian stage form : *#kəsˈar#
+Final form : *#kəsˈar#

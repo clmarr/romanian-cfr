@@ -1,19 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 432:
-#aːnˈellum# >>> *#inˈel# ( GOLD : #inˈel#) :
-aː n ˈe l l u m 
-*#aːnˈellu# | 36 : m > ∅ / [-stres] __ #
-*#aːnˈɛllu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#anˈɛllu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#anˈɛllu#
-*#inˈɛllu# | 165 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
-*#injˈɛllu# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#injˈellu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#injˈelu# | 194 : {l l;m m} > {l;m} 
-*#inʲjˈelu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#inʲˈelu# | 196 : j > ∅ / [+cons,+front] __
-*#inˈelu# | 197 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
-Common Romanian stage form : *#inˈelu#
-*#inˈelw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#inˈel# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#inˈel#
-Final form : *#inˈel#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 432:
+#kirkˈellum# >>> *#t͡ʃert͡ʃˈel# ( GOLD : #t͡ʃert͡ʃˈel#) :
+k i r k ˈe l l u m 
+*#kirkˈellu# | 36 : m > ∅ / [-stres] __ #
+*#kirkˈɛllu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kerkˈɛllu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#kʲerkʲˈɛllu# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#kʲerkʲˈɛllu#
+*#kʲerkʲˈellu# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʲerkʲˈelu# | 195 : {l l;m m} > {l;m} 
+*#c͡ɕerc͡ɕˈelu# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃert͡ʃˈelu# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃert͡ʃˈelu#
+*#t͡ʃert͡ʃˈelw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃert͡ʃˈel# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#t͡ʃert͡ʃˈel#
+Final form : *#t͡ʃert͡ʃˈel#

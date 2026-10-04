@@ -1,15 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 871:
-#ˈanɡulum# >>> *#ˈɨnɡj# ( GOLD : #ˈunɡj#) :
-ˈa n ɡ u l u m 
-*#ˈanɡulu# | 36 : m > ∅ / [-stres] __ #
-*#ˈanɡlu# | 46 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-Balkan Romance stage form : *#ˈanɡlu#
-*#ˈənɡlu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ˈənɡʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#ˈənɡʎu#
-*#ˈɨnɡʎu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ˈɨnɡju# | 256 : [+son,+cons,+front] > j 
-*#ˈɨnɡjw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈɨnɡj# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ˈɨnɡj#
-Final form : *#ˈɨnɡj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 871:
+#ˈasperum# >>> *#ˈasper# ( GOLD : #ˈaspru#) :
+ˈa s p e r u m 
+*#ˈasperu# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈasperu#
+*#ˈaspeɾu# | 159 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#ˈaspeɾu#
+*#ˈaspəɾu# | 229 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#ˈaspəru# | 253 : ɾ > r 
+*#ˈasperu# | 254 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,!ufront] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+*#ˈasperw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈasper# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈasper#
+Final form : *#ˈasper#

@@ -1,18 +1,25 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 801:
-#stˈurdium# >>> *#stˈurz# ( GOLD : #stˈurz#) :
-s t ˈu r d i u m 
-*#stˈurdjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#stˈurdju# | 36 : m > ∅ / [-stres] __ #
-*#istˈurdju# | 101 : ∅ > i / # __ s [+cons,-son]
-*#estˈurdju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#stˈurdju# | 121 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#stˈurdʲu# | 128 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#stˈurdʲu#
-*#stˈurd͡zʲu# | 221 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#stˈurd͡zu# | 222 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#stˈurd͡zu#
-*#stˈurzu# | 261 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#stˈurzw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#stˈurz# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#stˈurz#
-Final form : *#stˈurz#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 801:
+#tˌurturˈellam# >>> *#turture̯ˈa# ( GOLD : #turture̯ˈa#) :
+t ˌu r t u r ˈe l l a m 
+*#turturˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#turturˈella# | 36 : m > ∅ / [-stres] __ #
+*#turturˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#turturˈɛlla#
+*#turtuɾˈɛlla# | 159 : r > ɾ / __ [nnas,ncons]
+*#turtuɾjˈɛlla# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#turtuɾjˈella# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#turtuɾjˈɛlla# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#turtuɾjˈɛwa# | 191 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#turtuɾʲjˈɛwa# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#turtuɾʲˈɛwa# | 197 : j > ∅ / [+cons,+front] __
+*#turtuɾˈɛwa# | 201 : ɾʲ > ɾ / [+hi] __
+*#turtuɾˈɛawa# | 204 : ∅ > a / [-tense] __
+*#turtuɾˈeˈawa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#turtuɾe̯ˈawa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#turtuɾe̯ˈawə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#turtuɾe̯ˈaw# | 215 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#turtuɾe̯ˈa# | 216 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+Common Romanian stage form : *#turtuɾe̯ˈa#
+*#turture̯ˈa# | 253 : ɾ > r 
+Old Romanian stage form : *#turture̯ˈa#
+Final form : *#turture̯ˈa#

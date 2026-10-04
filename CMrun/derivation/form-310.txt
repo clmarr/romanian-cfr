@@ -1,16 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 310:
-#lˌiɡinˈaː# >>> *#leɡənˈa# ( GOLD : #leɡənˈa#) :
-l ˌi ɡ i n ˈaː 
-*#liɡinˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#leɡenˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#leɡenˈa# | 120 : [+syl] > [-long,-splng] 
-*#leɡʲenˈa# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#leɡʲenˈa#
-*#leɡʲinˈa# | 190 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#leɡʲjinˈa# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#leɡʲinˈa# | 196 : j > ∅ / [+cons,+front] __
-*#leɡenˈa# | 199 : [+back,+front] [+syl] > [-front] [-hi]/ [+cor,+son] [+syl] ( n ) __ ( [+voi,-syl] ) [+prim,-round,-hi]
-Common Romanian stage form : *#leɡenˈa#
-*#leɡənˈa# | 281 : e > ə / ɡ __ n
-Old Romanian stage form : *#leɡənˈa#
-Final form : *#leɡənˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 310:
+#dˌormˈiː# >>> *#dormˈi# ( GOLD : #dormˈi#) :
+d ˌo r m ˈiː 
+*#dormˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#dormˈi# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dormˈi#
+*#doɾmˈi# | 159 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#doɾmˈi#
+*#dormˈi# | 253 : ɾ > r 
+Old Romanian stage form : *#dormˈi#
+Final form : *#dormˈi#

@@ -1,16 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1259:
-#raskulˈaː# >>> *#rəʃkjˈa# ( GOLD : #rəʃkjˈa#) :
-r a s k u l ˈaː 
-*#rasklˈaː# | 46 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#rasklˈa# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rasklˈa#
-*#ɾasklˈa# | 159 : r > ɾ / __ [nnas,ncons]
-*#rɾasklˈa# | 160 : ∅ > r / # __ ɾ
-*#rɾəsklˈa# | 213 : [-cons,+lo,-stres,-long] > ə / @ __
-*#rɾəskʎˈa# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#rɾəskʎˈa#
-*#rəskʎˈa# | 231 : {ɾ;r} > {∅;∅} / r __
-*#rəʃkʎˈa# | 240 : s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
-*#rəʃkjˈa# | 256 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#rəʃkjˈa#
-Final form : *#rəʃkjˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1259:
+#spˈatʰam# >>> *#spˈatə# ( GOLD : #spˈatə#) :
+s p ˈa tʰ a m 
+*#spˈatam# | 14 : [+cons,+sg] > [-sg] 
+*#spˈata# | 36 : m > ∅ / [-stres] __ #
+*#ispˈata# | 101 : ∅ > i / # __ s [+cons,-son]
+*#espˈata# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#spˈata# | 122 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#spˈata#
+*#spˈatə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#spˈatə#
+Old Romanian stage form : *#spˈatə#
+Final form : *#spˈatə#

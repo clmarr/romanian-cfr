@@ -1,11 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 740:
-#kˈanem# >>> *#kˈɨjne# ( GOLD : #kˈɨjne#) :
-k ˈa n e m 
-*#kˈane# | 36 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#kˈane#
-*#kˈəne# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#kˈəne#
-*#kˈɨne# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#kˈɨjne# | 288 : ∅ > j / ˈɨ __ n [-cons,+front,-lo] ( [+syl] ) #
-Old Romanian stage form : *#kˈɨjne#
-Final form : *#kˈɨjne#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 740:
+#kˌaprˈiːnam# >>> *#kəprˈinə# ( GOLD : #kəprˈinə#) :
+k ˌa p r ˈiː n a m 
+*#kaprˈiːnam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kaprˈiːna# | 36 : m > ∅ / [-stres] __ #
+*#kaprˈina# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kaprˈina#
+*#kapɾˈina# | 159 : r > ɾ / __ [nnas,ncons]
+*#kəpɾˈinə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kəpɾˈinə#
+*#kəprˈinə# | 253 : ɾ > r 
+Old Romanian stage form : *#kəprˈinə#
+Final form : *#kəprˈinə#

@@ -1,10 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1168:
-#lˈuntrem# >>> *#lˈuntre# ( GOLD : #lˈuntre#) :
-l ˈu n t r e m 
-*#lˈuntre# | 36 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#lˈuntre#
-*#lˈuntɾe# | 159 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#lˈuntɾe#
-*#lˈuntre# | 252 : ɾ > r 
-Old Romanian stage form : *#lˈuntre#
-Final form : *#lˈuntre#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1168:
+#pʰˌalˈanɡa# >>> *#pərˈɨnɡə# ( GOLD : #pərˈɨnɡə#) :
+pʰ ˌa l ˈa n ɡ a 
+*#pˌalˈanɡa# | 14 : [+cons,+sg] > [-sg] 
+*#palˈanɡa# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+Balkan Romance stage form : *#palˈanɡa#
+*#paɾˈanɡa# | 179 : l > ɾ / [+syl] __ [+syl]
+*#paɾˈənɡa# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pəɾˈənɡə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pəɾˈənɡə#
+*#pərˈənɡə# | 253 : ɾ > r 
+*#pərˈɨnɡə# | 255 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#pərˈɨnɡə#
+Final form : *#pərˈɨnɡə#

@@ -1,17 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 996:
-#fˈerwe# >>> *#fjˈerbe# ( GOLD : #fjˈerbe#) :
-f ˈe r w e 
-*#fˈerβe# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#fˈɛrβe# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#fˈɛrbe# | 141 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#fˈɛrbe#
-*#fjˈɛrbe# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#fjˈerbe# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#fjˈɛrbe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#fjˈɛarbe# | 203 : ∅ > a / [-tense] __
-*#fjˈeˈarbe# | 204 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fje̯ˈarbe# | 205 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#fje̯ˈarbe#
-*#fjˈerbe# | 239 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#fjˈerbe#
-Final form : *#fjˈerbe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 996:
+#rˌekˈoːrem# >>> *#rəko̯ˈare# ( GOLD : #rəko̯ˈare#) :
+r ˌe k ˈoː r e m 
+*#rekˈoːrem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#rekˈoːre# | 36 : m > ∅ / [-stres] __ #
+*#rekˈore# | 121 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rekˈore#
+*#ɾekˈoɾe# | 159 : r > ɾ / __ [nnas,ncons]
+*#rɾekˈoɾe# | 160 : ∅ > r / # __ ɾ
+*#rɾekˈɔɾe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#rɾekˈɔaɾe# | 204 : ∅ > a / [-tense] __
+*#rɾekˈoˈaɾe# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#rɾeko̯ˈaɾe# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#rɾeko̯ˈaɾe#
+*#reko̯ˈaɾe# | 232 : {ɾ;r} > {∅;∅} / r __
+*#rəko̯ˈaɾe# | 233 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rəko̯ˈare# | 253 : ɾ > r 
+Old Romanian stage form : *#rəko̯ˈare#
+Final form : *#rəko̯ˈare#

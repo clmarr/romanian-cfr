@@ -1,14 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 690:
-#fˈeːnum# >>> *#fˈɨn# ( GOLD : #fˈɨn#) :
-f ˈeː n u m 
-*#fˈeːnu# | 36 : m > ∅ / [-stres] __ #
-*#fˈenu# | 120 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fˈenu#
-*#fˈanu# | 164 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#fˈənu# | 206 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#fˈənu#
-*#fˈɨnu# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#fˈɨnw̥# | 267 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fˈɨn# | 268 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fˈɨn#
-Final form : *#fˈɨn#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 690:
+#trˌifˈolium# >>> *#trefˈoj# ( GOLD : #trifˈoj#) :
+t r ˌi f ˈo l i u m 
+*#trˌifˈoljum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#trifˈoljum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#trifˈolju# | 36 : m > ∅ / [-stres] __ #
+*#trefˈolju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#trefˈolju#
+*#tɾefˈolju# | 159 : r > ɾ / __ [nnas,ncons]
+*#tɾefˈolʲju# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tɾefˈolʲu# | 197 : j > ∅ / [+cons,+front] __
+*#tɾefˈoʎu# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#tɾefˈoʎu#
+*#trefˈoʎu# | 253 : ɾ > r 
+*#trefˈoju# | 257 : [+son,+cons,+front] > j 
+*#trefˈojw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#trefˈoj# | 269 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#trefˈoj#
+Final form : *#trefˈoj#
