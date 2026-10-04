@@ -627,31 +627,29 @@ $ R21 Spirantization of [b]
 		$ EDIT: Does not occur between two identical consonants. Simply undoing below.
 			[+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
 
+
+$ Moved R16 and R14 to after R24.
+	$ R16 Loss of vowel lenɡth (moved from original position)
+		$[+syl] > [-long]
+	$ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a consonant
+		$ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
+		$ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
+			$e > ∅ / # __ [+strid,+ant] [+cons]
+				$ Doesn't happen in exi>ieși... [e] reinforced by palatal vowel? But this doesn't bear out for other forms with palatal vowels...
+				$ New idea: the palatal vowel thing is only relevant for [essV]. This only fixes ieși, though, so it's suspicious. FLAG -- reexamine later.
+					$e > ∅ / # __ [+strid,+ant] {[-cont];[+cont,-strid];[+cont,-ant]}
+					$e > ∅ / # __ s s [+syl,αfront,αlo]
+
 $ R15 Contraction of vowels
 	[+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
 
-$ R16 Loss of vowel lenɡth (moved from original position)
-	[+syl] > [-long]
-
-$ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a consonant
-	$ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
-	$ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
-		$e > ∅ / # __ [+strid,+ant] [+cons]
-			$ Doesn't happen in exi>ieși... [e] reinforced by palatal vowel? But this doesn't bear out for other forms with palatal vowels...
-			$ New idea: the palatal vowel thing is only relevant for [essV]. This only fixes ieși, though, so it's suspicious. FLAG -- reexamine later.
-				e > ∅ / # __ [+strid,+ant] {[-cont];[+cont,-strid];[+cont,-ant]}
-				e > ∅ / # __ s s [+syl,αfront,αlo]
-
-$ R15 Contraction of vowels
-	$[+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
-		$ Moved with R16 to before R14 (feeding).
-
-$ R16 Loss of vowel lenɡth
-	$[+syl] > [-long]
-		$ Moved to before R14. See oestriculum>streche.
+	$ R16 Loss of vowel lenɡth
+		$[+syl] > [-long]
+			$ Moved to before R14. See oestriculum>streche.
 
 
-t > t͡s / # e n __ [+syl,-back,-prim,-long] l $ only affects etyma beginning with intel- (all etymologically related). FLAG -- reexamine later.
+$ REMOVED: replaced with new rule "Voiceless coronal assimilates to distant palatal when in the onset of a heavy syllable"
+$t > t͡s / # e n __ [+syl,-back,-prim,-long] l $ only affects etyma beginning with intel- (all etymologically related). FLAG -- reexamine later.
 
 
 $ R17 Deletion of wau before a vowel
@@ -734,8 +732,9 @@ $ NEW (moved from later in cascade and reformulated) RULE: Depalatalization befo
 	[-cont,+front] > [-cor,-ant,+back] / # ((@)* [-prim]) ([-syl])* __ [-lo]
 
 $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
-	s > z / # __ [+voi,-son]
+	s > z / # e __ [+voi,-son]
 		$ Actually, Pardess says that this is due to how the letter <x> was already pronounced in Classical Latin (page 29). We may want to simply alter these words in the lexicon file at some point. FLAG
+		$ EDIT: Reformulated to occur after [e] now that aphaeresis has been moved later. Formerly: s > z / # __ [+voi,-son]
 
 $ R21 Spirantization of [b]
 	$b > β / [-cons] __
@@ -750,13 +749,13 @@ $ NEW RULE: [β] > [b] word-initally before [(ˈ)e] and two coronals, the first 
 $ R22 {Beta becomes v/b/w/ɡ/∅}
 	$ R22A Word-inital [β] > [v]
 		$ Including prefixal analogies for utility.
-			β > v / # (e n) (k o) (r e) (p r e) __ 
+			β > v / # (e n) (k oː) (r e) (p r e) __ 
 				$ Pardess: Occasionally yielded /b/ instead: berbec, bătrân
 				$ The Latin word from which berbec descends (vervex) apparently became berbex before the breakup of Latin (REW 9270).
 				$ The other exceptions are handled by preceding new rule.
 
-$ NEW RULE: [β] > [v] between vowel and [ˈe]
-	β > v / [+syl] __ ˈe
+$ NEW RULE: [β] > [v] between vowel and [ˈeː] (Formerly: [β] > [v] between vowel and [ˈe])
+	β > v / [+syl] __ [+prim,+front,-hi,-lo,+long]
 				
 	$ New Ordering/Conditioning for β > ɡ (R22D):
 		$ Beta gammatizes after word-initial sonorants followed by certain vowels (poorly attested but consistent), of course only before [(ˈ)u].
@@ -780,6 +779,21 @@ $ NEW RULE: [β] > [v] between vowel and [ˈe]
 	$ R22C [β] becomes the velar ɡlide [w] before a resonant
 		β > w / __ [+son,+cons]
 
+$ [β] > [w] word-finally
+	β > w̥ / __ #
+
+$ NEW RULE: [β] > [w] between [(ˈ)o] and [(ˈ)a] 
+	β > w / [+syl,+round,-hi] __ [+syl,+lo]
+		$ Only affects a couple of words... FLAG -- reexamine later
+
+	$ R22D Intervocalic [β] > [ɡ] in the presence of [u]
+		$ Pardess: "sporadically"
+		$ Now moved to between R22A and R22B.
+
+	$ R22E [β] > ∅ / elsewhere
+		β > ∅
+
+
 $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [rr]. 
 		$ ll,nn,rr simplified later because of conditioning of later phenomena... excluded unless this can be postdated to after these. 
 		$ CM 9/18/26 -- DEGEMINATION CONSOLIDATION -- all obstruents degeminate at this time. Mm is handled later with ll. 
@@ -790,7 +804,11 @@ $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [
 
 
 	$ CM 9/23 -- hopefully final final k > g rule -- initial, can see through s mobile, requires only sonorants and vowels following -- classic lenition rule really, just somewhat elaborate
-k > ɡ / # (s) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son,-front] (j) ) [-prim] )* #
+k > ɡ / # ((e) s) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] (j) ) [-prim] )* #
+	$ EDIT: We can simplify this rule now that beta deletion has been moved back up with the rest of the beta rules.
+	$ EDIT: Reformulated to account for moving aphaeresis after this rule.
+		$ Formerly: k > ɡ / # (s) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son,-front] (j) ) [-prim] )* #
+
 
 $ R20 Attraction of ɡlides
 	$ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
@@ -814,20 +832,6 @@ $ Pardess mentions a dissimilation occurring near here in R22C. The following ap
 	$ CM 9/23 -- moved to after k voicing, which it counterfeeds
 	m > w / [+lo] __ n
 
-$ [β] > [w] word-finally
-	β > w̥ / __ #
-
-$ NEW RULE: [β] > [w] between [(ˈ)o] and [(ˈ)a] 
-	β > w / [+syl,+round,-hi] __ [+syl,+lo]
-		$ Only affects a couple of words... FLAG -- reexamine later
-
-	$ R22D Intervocalic [β] > [ɡ] in the presence of [u]
-		$ Pardess: "sporadically"
-		$ Now moved to between R22A and R22B.
-
-	$ R22E [β] > ∅ / elsewhere
-		β > ∅
-
 
 $ HIATUS RESOLUTION RULES
 	$ Unstressed high vowel becomes a glide after another vowel
@@ -835,13 +839,13 @@ $ HIATUS RESOLUTION RULES
 			$ Does not occur until after [l]-flapping.
 	$ Unstressed vowel is deleted after [a]
 		[+syl,-stres] > ∅ / a __
-	$ Reinterpretation of /ie/ as /je/
-		i e > j e
+	$ Reinterpretation of /i(ː)e/ as /je/ (Formerly: Reinterpretation of /ie/ as /je/, i e > j e)
+		[+front,+hi,+syl,-prim] > j / __ e
+			$ Possible that this postdates vowel shortening. FLAG -- reexamine later.
 	$ ˈiV > ˈijV when V is a non-high vowel
 		∅ > j / ˈi __ [+syl,-hi]
 	$ [(ˈ)e] preyodizes after non-palatal vowels (expanded from previously only affecting [e])
 		∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
-
 
 
 $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
@@ -852,7 +856,25 @@ $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
 			${ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
 		$ CM FIRST PALATALIZATION CONSOLIDATION: sent instead to palatal affricates, no need for extra phonemes or extra distinctions. This does not totally merge with the first palatalization, however, as it doesn't show the same depalatalization behavior, for example not depalatalizing in post-tonic position. 
 	[-cont,+back] > [+front] / __ [-cons,-back,-lo]
-			
+
+
+$ NEW RULE: Voiceless coronal assimilates to distant palatal when in the onset of a heavy syllable
+	[+cor,-voi] > [+front,+hi] / __ {[+long];[+syl] [+son] [-syl]} ([-syl])* [+syl] (@)* [+cons,+front]
+
+
+$ R16 Loss of vowel lenɡth (moved from original position)
+	[+syl] > [-long]
+$ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a consonant
+	$ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
+	$ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
+		$e > ∅ / # __ [+strid,+ant] [+cons]
+			$ Doesn't happen in exi>ieși... [e] reinforced by palatal vowel? But this doesn't bear out for other forms with palatal vowels...
+			$ New idea: the palatal vowel thing is only relevant for [essV]. This only fixes ieși, though, so it's suspicious. FLAG -- reexamine later.
+				e > ∅ / # __ [+strid,+ant] {[-cont];[+cont,-strid];[+cont,-ant]}
+				e > ∅ / # __ s s [+syl,αfront,αlo]
+			$ Alternative hypothesis: under the "samă is from Hungarian szám" theory, we could simply condition this on the following consonant being [-strid].
+
+	
 $ Nasal assimilation
 	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
 	$ new rule "[n] dissimilates to [m] between voiceless coronals" has to have taken place before Aromanian and Daco-Romanian diverged,
