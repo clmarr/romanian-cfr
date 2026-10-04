@@ -192,18 +192,13 @@ $ NEW RULE: [i] > [a] dissimilation in word endings
 			$ Only affects three words, but solves a lot of problems (namely false palatalization and conditioning for ˈe > ˈɛ).
 				
 
-$ NEW RULE: [e] lowering after [+son][+round][w]
-	e > a / [+son] [+syl,+round] w __
-		$ Affects: *rovem > rouă, novem > nouă, and juvenem > *juăne > june.
-
-
 $ NEW RULE: Stress shift off of [ˈi(ː)] to create diphthongs
 	$[+syl] [-cons,-syl,+hi] [+syl,+prim,+hi,+front] > [+prim] [-cons,-syl] i
 		$ EDIT: Doesn't happen in ovina(m)>oină. Explanation: semivowel must be completely homorganic with one of the surrounding vowels.
 			$ Homorganic with following vowel (since shift has to be off of [ˈi(ː)], this means semivowel must be [j] in this case):
 				[+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim] [-cons,-syl] i
-			$ Homorganic with preceding vowel:
-				[+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+hi,+front] > [+prim] [-cons,-syl] i
+			$ Homorganic with preceding vowel; CM oct 4 -- edited to include e in iuvenca, iuvencus
+				[+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim] [-cons,-syl] [-stres]
 		$ [i] drops when [ji] is produced:
 			i > ∅ / j __
 
@@ -244,10 +239,18 @@ $ R2 {Monophthonɡization of AE, Monophthonɡization of OE}
 	$ R2A Monophthonɡization of AE [ay]
 		[+syl,+lo] j > [-lo,-tense,+long] ∅ / __ ([-syl] (@)*) # $ conditioning not in Pardess
 
+
 	$ R2B Monophthonɡization of OE [oy]
 		${o j;ˈo j} > {eː;ˈeː}
 		$ EDIT: Does not occur when [j] is acting as a consonant (ploiam > ploaie) instead of as the offglide of a diphthong.
 			{o j;ˈo j} > {eː;ˈeː} / __ [+cons]
+
+$ NEW RULE: [e] lowering after [+son][+round][w].
+		$ Affects: *rovem > rouă, novem > nouă, and juvenem > *juăne > june.
+		$ CM oct 4 -- broadened to after any consonant -- round vowel just can't be initial.
+			$ CM oct 4 -- moved to after R2, which feeds it for două, and after stress shift in iuvenca
+			$ CM oct 4 -- broadened to hit all mid front vowels.
+	[+front,+syl,-lo,-hi,-prim] > [+lo,+tense] / @ [+syl,+round] w __
 
 $ R3 {Reduction of final [m], Reduction of [n] + fricative}
 	$ R3A Reduction of final [m]

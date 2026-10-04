@@ -22,9 +22,8 @@ w > ∅ / # a __ ( @ ) ( @ ) [+round]
 [+front,-hi,-lo,-stres] > ∅ / @ l __ w
 n > r / [+syl] __ [+stres] [-syl] ( [-syl] )* r
 i > a / [+stres,+hi,αlab] ( [-syl,αlab] )* __ [+cons,+son] [+syl,+hi] m #
-e > a / [+son] [+syl,+round] w __
 [+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-[+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
+[+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] [-stres,-prim,+syl,+son]
 i > ∅ / j __
 e > a / # __ k k
 eː > aː / # __ ( [+cons] )* [+hi]
@@ -34,6 +33,7 @@ d > ∅ / [+syl,+lo] __ [-syl]
 [-son,-cons] > ∅ 
 [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
 {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
+[+front,+syl,-lo,-hi,-prim] > [+lo,+tense,-cons,-lat,+cont,0delrel] / @ [+syl,+round] w __
 m > ∅ / [-stres] __ #
 m > n / __ #
 [+syl,+round] > w / [+syl,+stres] __ #
