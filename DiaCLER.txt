@@ -1713,13 +1713,22 @@ $ NEW RULE: ți > țî/țâ before a syllable with a [-front] vowel
 $ NEW RULES: Handling of various outcomes of *uă
 	$ Each of these rules only affects, at most, two words. As such, they are all highly suspect.
 		$ 1: Schwa deletion (juăne > june)
-			ə > ∅ / [+syl] __ [+cons] [+syl]
+			ə > ∅ / [+syl] __ [anas,acont] $ Would just be [-cont] if nasals were modeled as [-cont] in DiaSim.
+				$ Formerly: ə > ∅ / [+syl] __ [+cons] [+syl]
 		$ 2: Partial assimilation of [ˈu] to [ə]
 			[+syl,+hi] > [-hi] / [+cons] __ ə
 		$ 3: "Assimilation" of [ə] to [ˈo]
-			ə > w / [+syl,+round,-hi] __
+			$ə > w / [+syl,+round,-hi] __
+			$ EDIT: Replaced with following:
+				$ 3.1: [w] insertion after [ˈo]
+					∅ > w / [+prim,+round,-hi] __ [+syl]
+				$ 3.2: Schwa deletion 2
+					ə > ∅ / w __ @
 		$ 4: [w] deletion between [ˈo] and [r] when not reinforced by a labial (nour > nor)
 			w > ∅ / [-lab] [+syl,+round] __ r
+
+$ NEW RULE: Schwa deletion before a nonhigh vocoid
+	ə > ∅ / __ [-cons,-hi]
 
 $ CM 9/21 NEW RULE : iie > ie phenomenon. Fairly recent -- iie attested for ie etc. 
 j > ∅ / [+hi,+front] __ e
