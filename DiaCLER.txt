@@ -175,10 +175,6 @@ $ NEW RULE: [aw] > [a] word-initially when a [+round] segment is up to 3 phones 
 	w > ∅ / # a __ (@) (@) [+round]
 
 
-$ NEW RULE: Early syncope of [e] between [l] and [w]
-	$ Only affects 2 words... FLAG -- reexamine later -- removed; spurious.
-		[+front,-hi,-lo,-stres] > ∅ / @ l __ w 
-
 $ EXTREMELY dubious new rule: intervocalic [n]-tapping before stressed vowel and cluster with [r]
 	$ Only affects fenestra>fereastră... FLAG -- reexamine later
 		n > r / [+syl] __ [+stres] ([-syl])+ r
@@ -201,6 +197,14 @@ $ NEW RULE: Stress shift off of [ˈi(ː)] to create diphthongs
 				[+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim] [-cons,-syl] [-stres]
 		$ [i] drops when [ji] is produced:
 			i > ∅ / j __
+
+
+$ NEW RULE: Early syncope of [e] between [l] and [w]
+	$ Only affects 2 words... FLAG -- reexamine later -- removed; spurious.
+		$[+front,-hi,-lo,-stres] > ∅ / @ l __ w
+$ Replacing with assimilation.
+	$ NEW RULE: Assimilation to [w] after [l]
+		[+syl,-lo,-prim,+front] > [-front,+back,+hi,+round,+lab] / l __ w
 
 
 $ [e] lowering word-initially before [kk]
@@ -871,8 +875,9 @@ $ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a conso
 		$e > ∅ / # __ [+strid,+ant] [+cons]
 			$ Doesn't happen in exi>ieși... [e] reinforced by palatal vowel? But this doesn't bear out for other forms with palatal vowels...
 			$ New idea: the palatal vowel thing is only relevant for [essV]. This only fixes ieși, though, so it's suspicious. FLAG -- reexamine later.
-				e > ∅ / # __ [+strid,+ant] {[-cont];[+cont,-strid];[+cont,-ant]}
-				e > ∅ / # __ s s [+syl,αfront,αlo]
+				e > ∅ / # __ [+strid,+ant] {[-cont];[+cons,+cont,-strid];[+cons,+cont,-ant]} $ Formerly: {[-cont];[+cont,-strid];[+cont,-ant]}
+				e > ∅ / # __ s [+syl,αfront,αlo] $ Formerly: # __ s s [+syl,αfront,αlo]
+					$ (Both reformulated due to moving below degemination.)
 			$ Alternative hypothesis: under the "samă is from Hungarian szám" theory, we could simply condition this on the following consonant being [-strid].
 
 	
