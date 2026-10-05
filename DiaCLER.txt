@@ -32,23 +32,28 @@ $CM HR.1e u: to y:
 $CM 10/2 HR.2a ˈVlo,-round > eː / __ (C)+ j. Counterbled by HR.3a
 [+lo,+prim,-round] > ˈeː / __ ([-syl])+ j 
 
-$CM 10/2 H.2b t͡s > f before non-labial V Ccor+ V
-t͡s > f / __ [+syl,-lab] ([+cor])+ [+syl]
-
-$CM 10/2 HR.2d ec > e. Counterbleeds HR.1d
-[+syl,+front,-lo] j > [+long] ∅
-
 
 	$-- 3
 $CM 10/2 HR.3a -- ʎw, lw, lj > ll. 
 [+lat] [-cons,-syl] > l l
 
-$CM 10/2 HR.3b ɐ > ə after except after laterals/peripherals. Feeds .5a. Bled by .1d + .2a
-ɐ > ə / # ((@)* [+cor,-lat]) __
+
+=Latin
+
 
 	$--4
 $CM 10/2 HR.4a ə > ɐ in R __ velar. Bleeds HR.5a
 ə > ɐ / [+son,+cons,-nas] __ [+back,+cons]
+
+$CM 10/2 HR.4b ɐ > ə after except after laterals/peripherals. Feeds .5a. Bled by .1d + .2a
+ɐ > ə / # ((@)* [+cor,-lat]) __
+
+
+$CM 10/2 H.4c t͡s > f before non-labial V Ccor+ V
+t͡s > f / __ [+syl,-lab] ([+cor])+ [+syl]
+
+$CM 10/2 HR.4e ej > e. Counterbleeds HR.1d
+[+syl,+front,-lo] j > [+long] ∅
 
 	$ -- 5
 $CM 10/2 HR.5a ə > ∅. Bled by HR.2b. Counterfeeds HR.1b and HR.1d
@@ -72,7 +77,7 @@ $CM 10/2 HR.9a -- raising of APA *ɒː elsewhere
 $CM 10/2 HR.9b --consonants unround 
 [+cons,+round] > [-round,-lab]
 
-=Latin
+
 
 $ Latin [(ˈ)ae̯] simplification rules.
 	$ [(ˈ)ae̯] simplifies when between word boundary and sonorant (vowels count).
