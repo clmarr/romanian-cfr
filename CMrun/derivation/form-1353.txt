@@ -1,16 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1353:
-#eksˈiː# >>> *#jeʃˈi# ( GOLD : #jeʃˈi#) :
-e k s ˈiː 
-*#essˈiː# | 94 : k > s / __ s
-*#essˈi# | 121 : [+syl] > [-long,-splng] 
-*#esˈi# | 143 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#esˈi#
-*#jesˈi# | 177 : ∅ > j / # __ e [-son]
-*#jesjˈi# | 194 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#jesʲjˈi# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#jesʲˈi# | 197 : j > ∅ / [+cons,+front] __
-*#jeɕˈi# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#jeʃˈi# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#jeʃˈi#
-Old Romanian stage form : *#jeʃˈi#
-Final form : *#jeʃˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1353:
+#fraksinˈeːtum# >>> *#frəsinˈet# ( GOLD : #frəsinˈet#) :
+f r a k s i n ˈeː t u m 
+*#fraksinˈeːtu# | 36 : m > ∅ / [-stres] __ #
+*#frassinˈeːtu# | 94 : k > s / __ s
+*#frassenˈeːtu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#frasenˈeːtu# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#frasenˈetu# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#frasenˈetu#
+*#fɾasenˈetu# | 160 : r > ɾ / __ [nnas,ncons]
+*#fɾasinˈetu# | 191 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#fɾasjinˈetu# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#fɾasʲjinˈetu# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#fɾasʲinˈetu# | 198 : j > ∅ / [+cons,+front] __
+*#fɾasinˈetu# | 200 : [+cor,-son,+front] > [-front,-hi] / [alo,!around] ( n ) __ i [nnas,ncont] [+prim,-round,-hi]
+*#fɾəsinˈetu# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fɾəsinˈetu#
+*#frəsinˈetu# | 255 : ɾ > r 
+*#frəsinˈetw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frəsinˈet# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#frəsinˈet#
+Final form : *#frəsinˈet#

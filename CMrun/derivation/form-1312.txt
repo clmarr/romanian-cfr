@@ -1,15 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1312:
-#habˈeː# >>> *#ave̯ˈa# ( GOLD : #ave̯ˈa#) :
-h a b ˈeː 
-*#abˈeː# | 33 : [-son,-cons] > ∅ 
-*#aβˈeː# | 117 : b > β / [-cons] __ [+cont]
-*#aβˈe# | 121 : [+syl] > [-long,-splng] 
-*#avˈe# | 135 : β > v / [+syl] __ ˈe
-Balkan Romance stage form : *#avˈe#
-*#avˈɛ# | 188 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#avˈɛa# | 204 : ∅ > a / [-tense] __
-*#avˈeˈa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ave̯ˈa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1312:
+#habˈeːbat# >>> *#ave̯ˈa# ( GOLD : #ave̯ˈa#) :
+h a b ˈeː b a t 
+*#abˈeːbat# | 32 : [-son,-cons] > ∅ 
+*#abˈeːba# | 71 : [+cons,-cont] > ∅ / __ #
+*#aβˈeːβa# | 117 : b > β / [-cons] __ [+cont]
+*#avˈeːβa# | 129 : β > v / [+syl] __ [+prim,+front,-hi,-lo,+long]
+*#avˈeːa# | 139 : β > ∅ 
+*#avˈea# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#avˈea#
+*#avˈɛa# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#avˈɛaa# | 205 : ∅ > a / [-tense] __
+*#avˈeˈaa# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ave̯ˈaa# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ave̯ˈa# | 211 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
 Common Romanian stage form : *#ave̯ˈa#
 Old Romanian stage form : *#ave̯ˈa#
 Final form : *#ave̯ˈa#

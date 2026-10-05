@@ -1,19 +1,22 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1423:
-#ˌekskˈawulat# >>> *#zɡˈawrə# ( GOLD : #zɡˈəwrə#) :
-ˌe k s k ˈa w u l a t  
-*#ekskˈawulat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskˈawula# | 71 : [+cons,-cont] > ∅ / __ #
-*#ekskˈaβula# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#eskˈaβula# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#skˈaβula# | 122 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#sɡˈaβula# | 144 : k > ɡ / # ( s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
-*#sɡˈaula# | 149 : β > ∅ 
-Balkan Romance stage form : *#sɡˈaula#
-*#zɡˈaula# | 162 : s > z / # __ [+voi,-son]
-*#zɡˈauɾa# | 179 : l > ɾ / [+syl] __ [+syl]
-*#zɡˈawɾa# | 180 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-*#zɡˈawɾə# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#zɡˈawɾə#
-*#zɡˈawrə# | 253 : ɾ > r 
-Old Romanian stage form : *#zɡˈawrə#
-Final form : *#zɡˈawrə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1423:
+#ˌekskˈawriat# >>> *#zɡˈarje# ( GOLD : #zɡˈɨrje#) :
+ˌe k s k ˈa w r i a t 
+*#ˌekskˈawrjat# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ekskˈawrjat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekskˈawrja# | 71 : [+cons,-cont] > ∅ / __ #
+*#eskˈawrja# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
+*#esɡˈawrja# | 141 : k > ɡ / # ( ( e ) s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
+*#sɡˈawrja# | 152 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sɡˈawrja#
+*#sɡˈawɾja# | 160 : r > ɾ / __ [nnas,ncons]
+*#zɡˈawɾja# | 163 : s > z / # __ [+voi,-son]
+*#zɡˈaɾja# | 174 : w > ∅ / __ ɾ [+front,-lo]
+*#zɡˈaɾʲja# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#zɡˈaɾʲa# | 198 : j > ∅ / [+cons,+front] __
+*#zɡˈaɾʲə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+*#zɡˈaɾʲe# | 220 : ə > e / [+cons,+front,+son] __
+*#zɡˈaɾje# | 221 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
+Common Romanian stage form : *#zɡˈaɾje#
+*#zɡˈarje# | 255 : ɾ > r 
+Old Romanian stage form : *#zɡˈarje#
+Final form : *#zɡˈarje#

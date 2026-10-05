@@ -1,20 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 355:
-#rˌosiˈoːnem# >>> *#ruʃˈune# ( GOLD : #ruʃˈine#) :
+Derivation file for run '../romanian-cfr/CMrun'; form ID 355:
+#rˌosiˈoːnem# >>> *#ruʃˈine# ( GOLD : #ruʃˈine#) :
 r ˌo s i ˈoː n e m 
 *#rˌosjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#rosjˈoːnem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#rosjˈoːne# | 36 : m > ∅ / [-stres] __ #
-*#rosjˈone# | 121 : [+syl] > [-long,-splng] 
+*#rosjˈone# | 151 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#rosjˈone#
-*#ɾosjˈone# | 159 : r > ɾ / __ [nnas,ncons]
-*#rɾosjˈone# | 160 : ∅ > r / # __ ɾ
-*#rɾusjˈone# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#rɾusʲjˈone# | 196 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾusʲˈone# | 197 : j > ∅ / [+cons,+front] __
-*#rɾuɕˈone# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#rɾuɕˈune# | 207 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#rɾuʃˈune# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾuʃˈune#
-*#ruʃˈune# | 232 : {ɾ;r} > {∅;∅} / r __
-Old Romanian stage form : *#ruʃˈune#
-Final form : *#ruʃˈune#
+*#ɾosjˈone# | 160 : r > ɾ / __ [nnas,ncons]
+*#rɾosjˈone# | 161 : ∅ > r / # __ ɾ
+*#rɾusjˈone# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#rɾusʲjˈone# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rɾusʲˈone# | 198 : j > ∅ / [+cons,+front] __
+*#rɾuɕˈone# | 203 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#rɾuɕˈune# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#rɾuɕˈine# | 210 : [+syl,+hi,+back] > [-back,+front,-lab,-round] / [+cor] [+syl] [+front,+hi,-back] __ @
+*#rɾuʃˈine# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾuʃˈine#
+*#ruʃˈine# | 234 : {ɾ;r} > {∅;∅} / r __
+Old Romanian stage form : *#ruʃˈine#
+Final form : *#ruʃˈine#

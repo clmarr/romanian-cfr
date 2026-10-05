@@ -1,26 +1,27 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 954:
-#kwadraːɡˈeːsimiː# >>> *#pərəˈesimj# ( GOLD : #pərˈesimj#) :
+Derivation file for run '../romanian-cfr/CMrun'; form ID 954:
+#kwadraːɡˈeːsimiː# >>> *#pərˈesimj# ( GOLD : #pərˈesimj#) :
 k w a d r aː ɡ ˈeː s i m iː 
-*#kwarraːɡˈeːsimiː# | 30 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
+*#kwarraːɡˈeːsimiː# | 29 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
 *#kβarraːɡˈeːsimiː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
 *#parraːɡˈeːsimiː# | 99 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
 *#parraːˈeːsimiː# | 103 : ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
 *#parraːˈeːsemiː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#parraˈesemi# | 121 : [+syl] > [-long,-splng] 
-*#parrajˈesemi# | 153 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
+*#parraːjˈeːsemiː# | 147 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
+*#parrajˈesemi# | 151 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#parrajˈesemi#
-*#parɾajˈesemi# | 159 : r > ɾ / __ [nnas,ncons]
-*#parɾajˈɛsemi# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#parɾajˈɛasemi# | 204 : ∅ > a / [-tense] __
-*#parɾajˈeˈasemi# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#parɾaje̯ˈasemi# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pərɾəje̯ˈasemi# | 214 : [-cons,+lo,-stres,-long] > ə / @ __
+*#parɾajˈesemi# | 160 : r > ɾ / __ [nnas,ncons]
+*#parɾajˈɛsemi# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#parɾajˈɛasemi# | 205 : ∅ > a / [-tense] __
+*#parɾajˈeˈasemi# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#parɾaje̯ˈasemi# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pərɾəje̯ˈasemi# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
 Common Romanian stage form : *#pərɾəje̯ˈasemi#
-*#pərəje̯ˈasemi# | 232 : {ɾ;r} > {∅;∅} / r __
-*#pərəjˈesemi# | 240 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pərəˈesemi# | 246 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
-*#pərəˈesemj̊# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pərəˈesemj# | 270 : {w̥;j̊} > {w;j} 
-*#pərəˈesimj# | 278 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-Old Romanian stage form : *#pərəˈesimj#
-Final form : *#pərəˈesimj#
+*#pərəje̯ˈasemi# | 234 : {ɾ;r} > {∅;∅} / r __
+*#pərəjˈesemi# | 242 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pərəˈesemi# | 248 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
+*#pərəˈesemj̊# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pərəˈesemj# | 272 : {w̥;j̊} > {w;j} 
+*#pərəˈesimj# | 280 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
+*#pərˈesimj# | 305 : ə > ∅ / __ [-cons,-hi]
+Old Romanian stage form : *#pərˈesimj#
+Final form : *#pərˈesimj#

@@ -1,15 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1421:
-#ekskˈawum# >>> *#zɡˈaw# ( GOLD : #zɡˈəw#) :
-e k s k ˈa w u m 
-*#ekskˈawu# | 36 : m > ∅ / [-stres] __ #
-*#ekskˈaβu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#eskˈaβu# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#skˈaβu# | 122 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#sɡˈaβu# | 144 : k > ɡ / # ( s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( [+lab,+voi,-nas] ) ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
-*#sɡˈau# | 149 : β > ∅ 
-Balkan Romance stage form : *#sɡˈau#
-*#zɡˈau# | 162 : s > z / # __ [+voi,-son]
-*#zɡˈaw# | 180 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-Common Romanian stage form : *#zɡˈaw#
-Old Romanian stage form : *#zɡˈaw#
-Final form : *#zɡˈaw#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1421:
+#ˌekskˈawuloː# >>> *#zɡˈawr# ( GOLD : #zɡˈəwr#) :
+ˌe k s k ˈa w u l oː 
+*#ekskˈawuloː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekskˈaβuloː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#eskˈaβuloː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskˈauloː# | 139 : β > ∅ 
+*#esɡˈauloː# | 141 : k > ɡ / # ( ( e ) s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
+*#esɡˈaulo# | 151 : [+syl] > [-long,-splng] 
+*#sɡˈaulo# | 152 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sɡˈaulo#
+*#zɡˈaulo# | 163 : s > z / # __ [+voi,-son]
+*#zɡˈaulu# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#zɡˈauɾu# | 180 : l > ɾ / [+syl] __ [+syl]
+*#zɡˈawɾu# | 181 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Common Romanian stage form : *#zɡˈawɾu#
+*#zɡˈawru# | 255 : ɾ > r 
+*#zɡˈawrw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#zɡˈawr# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#zɡˈawr#
+Final form : *#zɡˈawr#

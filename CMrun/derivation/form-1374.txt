@@ -1,16 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1374:
-#kˈokwe# >>> *#ko̯ˈat͡ʃe# ( GOLD : #ko̯ˈat͡ʃe#) :
-k ˈo k w e 
-*#kˈokβe# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#kˈoke# | 149 : β > ∅ 
-*#kˈokʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kˈokʲe#
-*#kˈɔkʲe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔakʲe# | 204 : ∅ > a / [-tense] __
-*#kˈoˈakʲe# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈakʲe# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ko̯ˈac͡ɕe# | 222 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ko̯ˈat͡ʃe# | 223 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ko̯ˈat͡ʃe#
-Old Romanian stage form : *#ko̯ˈat͡ʃe#
-Final form : *#ko̯ˈat͡ʃe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1374:
+#ˌadiˌuːtˈaː# >>> *#aʒutˈa# ( GOLD : #aʒutˈa#) :
+ˌa d i ˌuː t ˈaː 
+*#ˌadjˌuːtˈaː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#adjuːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ajuːtˈaː# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
+*#adjuːtˈaː# | 87 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#addjuːtˈaː# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#addʲuːtˈaː# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲuːtˈaː# | 125 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#aɡʲuːtˈaː# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#aɡʲutˈa# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#aɡʲutˈa#
+*#aɟ͡ʑutˈa# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ad͡ʒutˈa# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ad͡ʒutˈa#
+*#aʒutˈa# | 265 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#aʒutˈa#
+Final form : *#aʒutˈa#

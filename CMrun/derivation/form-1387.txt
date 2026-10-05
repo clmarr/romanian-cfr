@@ -1,15 +1,12 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1387:
-#bˈibe# >>> *#be̯ˈa# ( GOLD : #be̯ˈa#) :
-b ˈi b e 
-*#bˈiβe# | 117 : b > β / [-cons] __ [+cont]
-*#bˈeβe# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#bˈee# | 149 : β > ∅ 
-Balkan Romance stage form : *#bˈee#
-*#bˈɛe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#bˈɛ# | 189 : e > ∅ / ˈɛ __
-*#bˈɛa# | 204 : ∅ > a / [-tense] __
-*#bˈeˈa# | 205 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#be̯ˈa# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#be̯ˈa#
-Old Romanian stage form : *#be̯ˈa#
-Final form : *#be̯ˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1387:
+#addˈuːkoː# >>> *#adˈuk# ( GOLD : #adˈuk#) :
+a d d ˈuː k oː 
+*#adˈuːkoː# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
+*#adˈuko# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#adˈuko#
+*#adˈuku# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#adˈuku#
+*#adˈukw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#adˈuk# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#adˈuk#
+Final form : *#adˈuk#
