@@ -1,16 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 548:
-#rˌesalˈiː# >>> *#rəsərˈi# ( GOLD : #rəsərˈi#) :
-r ˌe s a l ˈiː 
-*#resalˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#resalˈi# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#resalˈi#
-*#ɾesalˈi# | 160 : r > ɾ / __ [nnas,ncons]
-*#rɾesalˈi# | 161 : ∅ > r / # __ ɾ
-*#rɾesaɾˈi# | 180 : l > ɾ / [+syl] __ [+syl]
-*#rɾesəɾˈi# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#rɾesəɾˈi#
-*#resəɾˈi# | 234 : {ɾ;r} > {∅;∅} / r __
-*#rəsəɾˈi# | 235 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rəsərˈi# | 255 : ɾ > r 
-Old Romanian stage form : *#rəsərˈi#
-Final form : *#rəsərˈi#
+#luːkˈiferum# >>> *#lut͡ʃe̯ˈafər# ( GOLD : #lut͡ʃe̯ˈafər#) :
+l uː k ˈi f e r u m 
+*#luːkˈiferu# | 36 : m > ∅ / [-stres] __ #
+*#luːkˈeferu# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#luːkʲˈeferu# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#lukʲˈeferu# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lukʲˈeferu#
+*#lukʲˈefeɾu# | 160 : r > ɾ / __ [nnas,ncons]
+*#lukʲˈɛfeɾu# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#lukʲˈɛafeɾu# | 205 : ∅ > a / [-tense] __
+*#lukʲˈeˈafeɾu# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#lukʲe̯ˈafeɾu# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#luc͡ɕe̯ˈafeɾu# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#lut͡ʃe̯ˈafeɾu# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#lut͡ʃe̯ˈafeɾu#
+*#lut͡ʃe̯ˈafəɾu# | 231 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#lut͡ʃe̯ˈafəru# | 255 : ɾ > r 
+*#lut͡ʃe̯ˈafərw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lut͡ʃe̯ˈafər# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#lut͡ʃe̯ˈafər#
+Final form : *#lut͡ʃe̯ˈafər#

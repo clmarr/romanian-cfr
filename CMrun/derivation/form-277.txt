@@ -1,10 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 277:
-#sˌufflˈaː# >>> *#suflˈa# ( GOLD : #suflˈa#) :
-s ˌu f f l ˈaː 
-*#sufflˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#suflˈaː# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#suflˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#suflˈa#
-Common Romanian stage form : *#suflˈa#
-Old Romanian stage form : *#suflˈa#
-Final form : *#suflˈa#
+#stˌernuːtˈaː# >>> *#sternutˈa# ( GOLD : #strənutˈa#) :
+s t ˌe r n uː t ˈaː 
+*#sternuːtˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#isternuːtˈaː# | 101 : ∅ > i / # __ s [+cons,-son]
+*#esternuːtˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#esternutˈa# | 151 : [+syl] > [-long,-splng] 
+*#sternutˈa# | 152 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sternutˈa#
+*#steɾnutˈa# | 160 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#steɾnutˈa#
+*#sternutˈa# | 255 : ɾ > r 
+Old Romanian stage form : *#sternutˈa#
+Final form : *#sternutˈa#

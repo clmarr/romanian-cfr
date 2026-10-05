@@ -1,14 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1226:
-#ˌekspantikˈaː# >>> *#spɨntekˈa# ( GOLD : #spintekˈa#) :
-ˌe k s p a n t i k ˈaː 
-*#ekspantikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#espantikˈaː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espantekˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#espantekˈa# | 151 : [+syl] > [-long,-splng] 
-*#spantekˈa# | 152 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spantekˈa#
-*#spəntekˈa# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#spəntekˈa#
-*#spɨntekˈa# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#spɨntekˈa#
-Final form : *#spɨntekˈa#
+#frˈuːktum# >>> *#frˈupt# ( GOLD : #frˈupt#) :
+f r ˈuː k t u m 
+*#frˈuːktu# | 36 : m > ∅ / [-stres] __ #
+*#frˈuːptu# | 92 : k > p / __ t
+*#frˈuptu# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#frˈuptu#
+*#fɾˈuptu# | 160 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#fɾˈuptu#
+*#frˈuptu# | 255 : ɾ > r 
+*#frˈuptw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frˈupt# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#frˈupt#
+Final form : *#frˈupt#

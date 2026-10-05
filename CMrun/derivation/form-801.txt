@@ -1,25 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 801:
-#tˌurturˈellam# >>> *#turture̯ˈa# ( GOLD : #turture̯ˈa#) :
-t ˌu r t u r ˈe l l a m 
-*#turturˈellam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#turturˈella# | 36 : m > ∅ / [-stres] __ #
-*#turturˈɛlla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#turturˈɛlla#
-*#turtuɾˈɛlla# | 160 : r > ɾ / __ [nnas,ncons]
-*#turtuɾjˈɛlla# | 169 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#turtuɾjˈella# | 172 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#turtuɾjˈɛlla# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#turtuɾjˈɛwa# | 192 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#turtuɾʲjˈɛwa# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#turtuɾʲˈɛwa# | 198 : j > ∅ / [+cons,+front] __
-*#turtuɾˈɛwa# | 202 : ɾʲ > ɾ / [+hi] __
-*#turtuɾˈɛawa# | 205 : ∅ > a / [-tense] __
-*#turtuɾˈeˈawa# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#turtuɾe̯ˈawa# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#turtuɾe̯ˈawə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
-*#turtuɾe̯ˈaw# | 217 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#turtuɾe̯ˈa# | 218 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-Common Romanian stage form : *#turtuɾe̯ˈa#
-*#turture̯ˈa# | 255 : ɾ > r 
-Old Romanian stage form : *#turture̯ˈa#
-Final form : *#turture̯ˈa#
+#pˌerwˌiɡilˈaː# >>> *#priveɡe̯ˈa# ( GOLD : #priveɡe̯ˈa#) :
+p ˌe r w ˌi ɡ i l ˈaː 
+*#perwiɡilˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#perwiɡlˈaː# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#prewiɡlˈaː# | 65 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( ( @ )* [+syl] ) ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
+*#preβiɡlˈaː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#preβeɡlˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#preveɡlˈaː# | 128 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#preveɡlˈa# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#preveɡlˈa#
+*#pɾeveɡlˈa# | 160 : r > ɾ / __ [nnas,ncons]
+*#pɾeveɡʎˈa# | 219 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#pɾeveɡʎˈa#
+*#preveɡʎˈa# | 255 : ɾ > r 
+*#preveɡjˈa# | 259 : [+son,+cons,+front] > j 
+*#priveɡjˈa# | 282 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+*#priveɡe̯ˈa# | 287 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
+Old Romanian stage form : *#priveɡe̯ˈa#
+Final form : *#priveɡe̯ˈa#

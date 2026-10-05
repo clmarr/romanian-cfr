@@ -1,15 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 336:
-#ˌindˌuːrˈaː# >>> *#ɨndurˈa# ( GOLD : #ɨndurˈa#) :
-ˌi n d ˌuː r ˈaː 
-*#induːrˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enduːrˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#endurˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#endurˈa#
-*#enduɾˈa# | 160 : r > ɾ / __ [nnas,ncons]
-*#anduɾˈa# | 164 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənduɾˈa# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənduɾˈa#
-*#əndurˈa# | 255 : ɾ > r 
-*#ɨndurˈa# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨndurˈa#
-Final form : *#ɨndurˈa#
+#ˌekstˌemperˈaː# >>> *#stimpərˈa# ( GOLD : #stɨmpərˈa#) :
+ˌe k s t ˌe m p e r ˈaː 
+*#ekstemperˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#estemperˈaː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estemperˈa# | 151 : [+syl] > [-long,-splng] 
+*#stemperˈa# | 152 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stemperˈa#
+*#stempeɾˈa# | 160 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#stempeɾˈa#
+*#stempəɾˈa# | 231 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#stimpəɾˈa# | 244 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#stimpərˈa# | 255 : ɾ > r 
+Old Romanian stage form : *#stimpərˈa#
+Final form : *#stimpərˈa#

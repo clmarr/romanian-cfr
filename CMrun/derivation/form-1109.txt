@@ -1,13 +1,10 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1109:
-#ˌadmˌikstikˈaː# >>> *#amestekˈa# ( GOLD : #amestekˈa#) :
-ˌa d m ˌi k s t i k ˈaː 
-*#admikstikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ammikstikˈaː# | 29 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-*#ammistikˈaː# | 88 : [-cont] > ∅ / __ [+strid] [+cons]
-*#ammestekˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#ammestekˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ammestekˈa#
-*#amestekˈa# | 196 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#amestekˈa#
-Old Romanian stage form : *#amestekˈa#
-Final form : *#amestekˈa#
+#kwˈam# >>> *#kˈa# ( GOLD : #kˈa#) :
+k w ˈa m 
+*#kwˈan# | 37 : m > n / __ #
+*#kˈan# | 67 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+prim,+lo] [+voi]
+*#kˈa# | 72 : [+nas] > ∅ / @ [-cons] __ #
+Balkan Romance stage form : *#kˈa#
+Common Romanian stage form : *#kˈa#
+Old Romanian stage form : *#kˈa#
+Final form : *#kˈa#

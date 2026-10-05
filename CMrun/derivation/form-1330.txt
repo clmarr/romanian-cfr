@@ -1,15 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1330:
-#sˈanɡwen# >>> *#sˈɨnd͡ʒe# ( GOLD : #sˈɨnd͡ʒe#) :
-s ˈa n ɡ w e n 
-*#sˈanɡwe# | 72 : [+nas] > ∅ / @ [-cons] __ #
-*#sˈanɡβe# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#sˈanɡe# | 139 : β > ∅ 
-*#sˈanɡʲe# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#sˈanɡʲe#
-*#sˈənɡʲe# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#sˈənɟ͡ʑe# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#sˈənd͡ʒe# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#sˈənd͡ʒe#
-*#sˈɨnd͡ʒe# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#sˈɨnd͡ʒe#
-Final form : *#sˈɨnd͡ʒe#
+#wˈiridem# >>> *#vˈerde# ( GOLD : #vˈerde#) :
+w ˈi r i d e m 
+*#wˈiride# | 36 : m > ∅ / [-stres] __ #
+*#wˈirde# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#βˈirde# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈerde# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈerde# | 128 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈerde#
+*#vˈɛrde# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛarde# | 205 : ∅ > a / [-tense] __
+*#vˈeˈarde# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈarde# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#ve̯ˈarde#
+*#vˈerde# | 242 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#vˈerde#
+Final form : *#vˈerde#

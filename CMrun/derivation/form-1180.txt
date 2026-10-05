@@ -1,16 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1180:
-#trˌiːbulˈaː# >>> *#trjerˈa# ( GOLD : #trejerˈa#) :
-t r ˌiː b u l ˈaː 
-*#triːbulˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#triːβulˈaː# | 117 : b > β / [-cons] __ [+cont]
-*#triːβjelˈaː# | 134 : [+round,-prim] > j e/ [+front,-cons,-lo] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
-*#triːjelˈaː# | 139 : β > ∅ 
-*#trijelˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#trijelˈa#
-*#tɾijelˈa# | 160 : r > ɾ / __ [nnas,ncons]
-*#tɾijeɾˈa# | 180 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#tɾijeɾˈa#
-*#trijerˈa# | 255 : ɾ > r 
-*#trjerˈa# | 288 : i > ∅ / __ j [+syl]
-Old Romanian stage form : *#trjerˈa#
-Final form : *#trjerˈa#
+#karrˈaːriam# >>> *#kərˈare# ( GOLD : #kərˈare#) :
+k a r r ˈaː r i a m 
+*#karrˈaːrjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#karrˈaːrja# | 36 : m > ∅ / [-stres] __ #
+*#karrˈarja# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#karrˈarja#
+*#karɾˈaɾja# | 160 : r > ɾ / __ [nnas,ncons]
+*#karɾˈaɾʲja# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#karɾˈaɾʲa# | 198 : j > ∅ / [+cons,+front] __
+*#kərɾˈaɾʲə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kərɾˈaɾʲe# | 220 : ə > e / [+cons,+front,+son] __
+*#kərɾˈajɾe# | 222 : ɾʲ > j ɾ 
+Common Romanian stage form : *#kərɾˈajɾe#
+*#kərˈajɾe# | 234 : {ɾ;r} > {∅;∅} / r __
+*#kərˈajre# | 255 : ɾ > r 
+*#kərˈare# | 279 : j > ∅ / __ r
+Old Romanian stage form : *#kərˈare#
+Final form : *#kərˈare#

@@ -1,19 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1358:
-#ɡlˈakiam# >>> *#ɡe̯ˈat͡sə# ( GOLD : #ɡe̯ˈat͡sə#) :
-ɡ l ˈa k i a m 
-*#ɡlˈakjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ɡlˈakja# | 36 : m > ∅ / [-stres] __ #
-*#ɡlˈakkja# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ɡlˈaktʲa# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡlˈattʲa# | 123 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#ɡlˈatʲa# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɡlˈatʲa#
-*#ɡlˈatʲə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɡʎˈatʲə# | 219 : l > ʎ / [-cont,-ant,-cor] __
-*#ɡʎˈat͡sʲə# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ɡʎˈat͡sə# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ɡʎˈat͡sə#
-*#ɡjˈat͡sə# | 259 : [+son,+cons,+front] > j 
-*#ɡe̯ˈat͡sə# | 287 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
-Old Romanian stage form : *#ɡe̯ˈat͡sə#
-Final form : *#ɡe̯ˈat͡sə#
+#eksˈiː# >>> *#jeʃˈi# ( GOLD : #jeʃˈi#) :
+e k s ˈiː 
+*#essˈiː# | 94 : k > s / __ s
+*#esˈiː# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#esˈi# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#esˈi#
+*#jesˈi# | 178 : ∅ > j / # __ e [-son]
+*#jesjˈi# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#jesʲjˈi# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#jesʲˈi# | 198 : j > ∅ / [+cons,+front] __
+*#jeɕˈi# | 203 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#jeʃˈi# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#jeʃˈi#
+Old Romanian stage form : *#jeʃˈi#
+Final form : *#jeʃˈi#

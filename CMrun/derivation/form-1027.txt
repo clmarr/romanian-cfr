@@ -1,16 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1027:
-#ˌinˌadpˈost# >>> *#ɨnəpˈoj# ( GOLD : #ɨnapˈoj#) :
-ˌi n ˌa d p ˈo s t 
-*#inadpˈost# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inapˈost# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
-*#inapˈos# | 71 : [+cons,-cont] > ∅ / __ #
-*#enapˈos# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enapˈoj# | 158 : s > j / [+stres] __ #
-Balkan Romance stage form : *#enapˈoj#
-*#anapˈoj# | 164 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənapˈoj# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənəpˈoj# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənəpˈoj#
-*#ɨnəpˈoj# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnəpˈoj#
-Final form : *#ɨnəpˈoj#
+#ˌekkumˈillok# >>> *#akoˈel# ( GOLD : #akˈolo#) :
+ˌe k k u m ˈi l l o k 
+*#ekkumˈillok# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#akkumˈillok# | 27 : e > a / # __ k k
+*#akkumˈillo# | 71 : [+cons,-cont] > ∅ / __ #
+*#akkumˈello# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#akumˈello# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#akumˈello#
+*#akumˈellu# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#akoˈellu# | 184 : u m > o / [+back] __ [+syl]
+*#akoˈelu# | 196 : {l l;m m} > {l;m} 
+Common Romanian stage form : *#akoˈelu#
+*#akoˈelw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#akoˈel# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#akoˈel#
+Final form : *#akoˈel#

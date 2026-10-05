@@ -1,14 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 762:
-#bˌerbˈeːkum# >>> *#berbˈek# ( GOLD : #berbˈek#) :
-b ˌe r b ˈeː k u m 
-*#berbˈeːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#berbˈeːku# | 36 : m > ∅ / [-stres] __ #
-*#berbˈeku# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#berbˈeku#
-Common Romanian stage form : *#berbˈeku#
-*#berbˈəku# | 231 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#berbˈeku# | 256 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,!ufront] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
-*#berbˈekw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#berbˈek# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#berbˈek#
-Final form : *#berbˈek#
+#tertˈiːwum# >>> *#tert͡sˈiw# ( GOLD : #tert͡sˈiw#) :
+t e r t ˈiː w u m 
+*#tertˈiːwu# | 36 : m > ∅ / [-stres] __ #
+*#tertˈiːβu# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#tertˈiːu# | 139 : β > ∅ 
+*#tertˈiu# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tertˈiu#
+*#tertˈiw# | 181 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+*#tertjˈiw# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#tertʲjˈiw# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tertʲˈiw# | 198 : j > ∅ / [+cons,+front] __
+*#tert͡sʲˈiw# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#tert͡sˈiw# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#tert͡sˈiw#
+Old Romanian stage form : *#tert͡sˈiw#
+Final form : *#tert͡sˈiw#

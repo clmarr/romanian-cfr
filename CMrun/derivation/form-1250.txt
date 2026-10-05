@@ -1,15 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1250:
-#ˌinkolikˈaː# >>> *#ɨnkulkˈa# ( GOLD : #ɨnkurkˈa#) :
-ˌi n k o l i k ˈaː 
-*#inkolikˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkolkˈaː# | 51 : [+syl,+hi,-long,-stres] > ∅ / [+syl,alo,afront] l __ [+cons] [+syl,blo,bfront]
-*#enkolkˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkolkˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkolkˈa#
-*#ankolkˈa# | 164 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ankulkˈa# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənkulkˈa# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənkulkˈa#
-*#ɨnkulkˈa# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnkulkˈa#
-Final form : *#ɨnkulkˈa#
+#kˈaiulum# >>> *#kˈajer# ( GOLD : #kˈajer#) :
+k ˈa i u l u m 
+*#kˈajulum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˈajulu# | 36 : m > ∅ / [-stres] __ #
+*#kˈajjelu# | 134 : [+round,-prim] > j e/ [+front,-cons,-lo] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
+Balkan Romance stage form : *#kˈajjelu#
+*#kˈajjeɾu# | 180 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#kˈajjeɾu#
+*#kˈajjeru# | 255 : ɾ > r 
+*#kˈajjerw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kˈajjer# | 271 : w̥ > ∅ / [-syl] __ #
+*#kˈajer# | 276 : j > ∅ / __ [+front,+hi]
+Old Romanian stage form : *#kˈajer#
+Final form : *#kˈajer#

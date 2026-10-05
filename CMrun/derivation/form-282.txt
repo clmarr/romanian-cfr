@@ -1,14 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 282:
-#ˌimbˌukkˈaː# >>> *#ɨmbukˈa# ( GOLD : #ɨmbukˈa#) :
-ˌi m b ˌu k k ˈaː 
-*#imbukkˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#embukkˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#embukˈaː# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#embukˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#embukˈa#
-*#ambukˈa# | 164 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#əmbukˈa# | 209 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#əmbukˈa#
-*#ɨmbukˈa# | 258 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
-Old Romanian stage form : *#ɨmbukˈa#
-Final form : *#ɨmbukˈa#
+#fˈamem# >>> *#fo̯ˈame# ( GOLD : #fo̯ˈame#) :
+f ˈa m e m 
+*#fˈame# | 36 : m > ∅ / [-stres] __ #
+*#fˈome# | 81 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / f __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
+Balkan Romance stage form : *#fˈome#
+*#fˈɔme# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
+*#fˈɔame# | 205 : ∅ > a / [-tense] __
+*#fˈoˈame# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fo̯ˈame# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#fo̯ˈame#
+Old Romanian stage form : *#fo̯ˈame#
+Final form : *#fo̯ˈame#

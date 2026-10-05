@@ -1,14 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 727:
-#mˌuːɡˈiː# >>> *#mud͡ʒˈi# ( GOLD : #mud͡ʒˈi#) :
-m ˌuː ɡ ˈiː 
-*#muːɡˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#muːɡʲˈiː# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#muɡʲˈi# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#muɡʲˈi#
-*#muɡʲjˈi# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#muɡʲˈi# | 198 : j > ∅ / [+cons,+front] __
-*#muɟ͡ʑˈi# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mud͡ʒˈi# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mud͡ʒˈi#
-Old Romanian stage form : *#mud͡ʒˈi#
-Final form : *#mud͡ʒˈi#
+#ɡˌarrˈeːskoː# >>> ... ( GOLD : ...) :
+ɡ ˌa r r ˈeː s k oː 
+*#ɡarrˈeːskoː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɡarrˈesko# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɡarrˈesko#
+*#ɡarɾˈesko# | 160 : r > ɾ / __ [nnas,ncons]
+*#ɡarɾˈesku# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ɡərɾˈesku# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ɡərɾˈesku#
+*#ɡərˈesku# | 234 : {ɾ;r} > {∅;∅} / r __
+*#ɡərˈəsku# | 235 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#ɡərˈɨsku# | 237 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
+*#ɡərˈɨskw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɡərˈɨsk# | 271 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɡərˈɨsk#
+Final form : ...

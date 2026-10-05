@@ -1,25 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 574:
-#mˈedianˈokte# >>> *#me̯ˈazɨno̯ˈapte# ( GOLD : #mjazəno̯ˈapte#) :
-m ˈe d i a n ˈo k t e 
-*#mˈedjanˈokte# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈedjanˈopte# | 92 : k > p / __ t
-*#mˈɛdjanˈopte# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛddjanˈopte# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#mˈɛddʲanˈopte# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#mˈɛdʲanˈopte# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#mˈɛdʲanˈopte#
-*#mjˈɛdʲanˈopte# | 169 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#mjˈedʲanˈopte# | 172 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mjˈɛdʲanˈɔpte# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mjˈɛadʲanˈɔapte# | 205 : ∅ > a / [-tense] __
-*#mjˈeˈadʲanˈoˈapte# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#mje̯ˈadʲano̯ˈapte# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#mje̯ˈadʲəno̯ˈapte# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#mje̯ˈad͡zʲəno̯ˈapte# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mje̯ˈad͡zəno̯ˈapte# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mje̯ˈad͡zəno̯ˈapte#
-*#me̯ˈad͡zəno̯ˈapte# | 251 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
-*#me̯ˈad͡zɨno̯ˈapte# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#me̯ˈazɨno̯ˈapte# | 264 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#me̯ˈazɨno̯ˈapte#
-Final form : *#me̯ˈazɨno̯ˈapte#
+#mˈaːne# >>> *#mˈɨjne# ( GOLD : #mˈɨjne#) :
+m ˈaː n e 
+*#mˈane# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mˈane#
+*#mˈəne# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#mˈəne#
+*#mˈɨne# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#mˈɨjne# | 291 : ∅ > j / ˈɨ __ n [-cons,+front,-lo] ( [+syl] ) #
+Old Romanian stage form : *#mˈɨjne#
+Final form : *#mˈɨjne#

@@ -1,21 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1011:
-#ˌaliˈoːreːs# >>> *#ajo̯ˈare# ( GOLD : #ajˈure#) :
-ˌa l i ˈoː r eː s 
-*#ˌaljˈoːreːs# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#aljˈoːreːs# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#aljˈores# | 151 : [+syl] > [-long,-splng] 
-*#aljˈore# | 159 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#aljˈore#
-*#aljˈoɾe# | 160 : r > ɾ / __ [nnas,ncons]
-*#aljˈɔɾe# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#alʲjˈɔɾe# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#alʲˈɔɾe# | 198 : j > ∅ / [+cons,+front] __
-*#aʎˈɔɾe# | 203 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#aʎˈɔaɾe# | 205 : ∅ > a / [-tense] __
-*#aʎˈoˈaɾe# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#aʎo̯ˈaɾe# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#aʎo̯ˈaɾe#
-*#aʎo̯ˈare# | 255 : ɾ > r 
-*#ajo̯ˈare# | 259 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#ajo̯ˈare#
-Final form : *#ajo̯ˈare#
+#inkˈende# >>> *#ɨnt͡ʃˈinde# ( GOLD : #ɨnt͡ʃˈinde#) :
+i n k ˈe n d e 
+*#inkˈɛnde# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#enkˈɛnde# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkʲˈɛnde# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#enkʲˈɛnde#
+*#ankʲˈɛnde# | 164 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ankʲˈende# | 167 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#ənkʲˈende# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənc͡ɕˈende# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ənt͡ʃˈende# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ənt͡ʃˈende#
+*#ənt͡ʃˈinde# | 238 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnt͡ʃˈinde# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnt͡ʃˈinde#
+Final form : *#ɨnt͡ʃˈinde#

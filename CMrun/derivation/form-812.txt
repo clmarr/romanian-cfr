@@ -1,16 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 812:
-#kˌawˈoːnem# >>> *#ɡəˈun# ( GOLD : #ɡəˈun#) :
-k ˌa w ˈoː n e m 
-*#kawˈoːnem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kawˈoːne# | 36 : m > ∅ / [-stres] __ #
-*#kaβˈoːne# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#kaˈoːne# | 139 : β > ∅ 
-*#ɡaˈoːne# | 141 : k > ɡ / # ( ( e ) s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
-*#ɡaˈone# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɡaˈone#
-*#ɡaˈune# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ɡəˈune# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɡəˈun# | 227 : e > ∅ / [+syl] [+prim] [+cons] __ #
-Common Romanian stage form : *#ɡəˈun#
-Old Romanian stage form : *#ɡəˈun#
-Final form : *#ɡəˈun#
+#sˌerpˈentiam# >>> *#ʃerpˈɨnt͡sə# ( GOLD : #ʃerpˈɨnt͡sə#) :
+s ˌe r p ˈe n t i a m 
+*#sˌerpˈentjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#serpˈentjam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#serpˈentja# | 36 : m > ∅ / [-stres] __ #
+*#serpˈɛntja# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#serpˈɛntʲa# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#sʲerpˈɛntʲa# | 150 : [+cor,-voi] > [+front,+hi] / __ [+syl] [+son] [-syl] ( [-syl] )* [+syl] ( @ )* [+cons,+front]
+Balkan Romance stage form : *#sʲerpˈɛntʲa#
+*#sʲerpˈentʲa# | 167 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#ɕerpˈentʲa# | 203 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ɕerpˈentʲə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɕerpˈent͡sʲə# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ʃerpˈent͡sə# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ʃerpˈent͡sə#
+*#ʃerpˈənt͡sə# | 231 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#ʃerpˈɨnt͡sə# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ʃerpˈɨnt͡sə#
+Final form : *#ʃerpˈɨnt͡sə#

@@ -1,19 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1361:
-#fˈakitis# >>> *#fˈat͡ʃet͡sj# ( GOLD : #fˈat͡ʃet͡sj#) :
-f ˈa k i t i s 
-*#fˈakitiːs# | 115 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#fˈaketiːs# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#fˈakʲetiːs# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#fˈakʲetis# | 151 : [+syl] > [-long,-splng] 
-*#fˈakʲeti# | 159 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#fˈakʲeti#
-*#fˈakʲetji# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#fˈakʲetʲji# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fˈakʲetʲi# | 198 : j > ∅ / [+cons,+front] __
-*#fˈac͡ɕet͡sʲi# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fˈat͡ʃet͡si# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fˈat͡ʃet͡si#
-*#fˈat͡ʃet͡sj̊# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fˈat͡ʃet͡sj# | 272 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#fˈat͡ʃet͡sj#
-Final form : *#fˈat͡ʃet͡sj#
+#mulˈierem# >>> *#mujˈere# ( GOLD : #mujˈere#) :
+m u l ˈi e r e m 
+*#mulˈiere# | 36 : m > ∅ / [-stres] __ #
+*#muliˈeːre# | 107 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#muljˈeːre# | 113 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#muljˈere# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#muljˈere#
+*#muljˈeɾe# | 160 : r > ɾ / __ [nnas,ncons]
+*#muljˈɛɾe# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mulʲjˈɛɾe# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mulʲˈɛɾe# | 198 : j > ∅ / [+cons,+front] __
+*#muʎˈɛɾe# | 203 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#muʎˈɛaɾe# | 205 : ∅ > a / [-tense] __
+*#muʎˈeˈaɾe# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#muʎe̯ˈaɾe# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#muʎe̯ˈaɾe#
+*#muʎˈeɾe# | 242 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#muʎˈere# | 255 : ɾ > r 
+*#mujˈere# | 259 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#mujˈere#
+Final form : *#mujˈere#

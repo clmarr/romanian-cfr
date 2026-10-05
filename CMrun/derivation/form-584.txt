@@ -1,22 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 584:
-#kˌalendˈaːrium# >>> *#kərindˈar# ( GOLD : #kərindˈar#) :
-k ˌa l e n d ˈaː r i u m 
-*#kˌalendˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kalendˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kalendˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#kalendˈarju# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kalendˈarju#
-*#kalendˈaɾju# | 160 : r > ɾ / __ [nnas,ncons]
-*#kaɾendˈaɾju# | 180 : l > ɾ / [+syl] __ [+syl]
-*#kaɾendˈaɾʲju# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kaɾendˈaɾʲu# | 198 : j > ∅ / [+cons,+front] __
-*#kəɾendˈaɾʲu# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəɾendˈajɾu# | 222 : ɾʲ > j ɾ 
-Common Romanian stage form : *#kəɾendˈajɾu#
-*#kəɾindˈajɾu# | 238 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#kərindˈajru# | 255 : ɾ > r 
-*#kərindˈajrw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kərindˈajr# | 271 : w̥ > ∅ / [-syl] __ #
-*#kərindˈar# | 279 : j > ∅ / __ r
-Old Romanian stage form : *#kərindˈar#
-Final form : *#kərindˈar#
+#wˈeneris# >>> *#vˈɨnerj# ( GOLD : #vˈinerj#) :
+w ˈe n e r i s 
+*#βˈeneris# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈɛneris# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βˈɛneriːs# | 115 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#vˈɛneriːs# | 128 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#vˈɛneris# | 151 : [+syl] > [-long,-splng] 
+*#vˈɛneri# | 159 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#vˈɛneri#
+*#vˈɛneɾi# | 160 : r > ɾ / __ [nnas,ncons]
+*#vˈaneɾi# | 165 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#vˈəneɾi# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#vˈəneɾi#
+*#vˈəneri# | 255 : ɾ > r 
+*#vˈɨneri# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#vˈɨnerj̊# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈɨnerj# | 272 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#vˈɨnerj#
+Final form : *#vˈɨnerj#

@@ -1,11 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 377:
-#mˈentem# >>> *#mˈinte# ( GOLD : #mˈinte#) :
-m ˈe n t e m 
-*#mˈente# | 36 : m > ∅ / [-stres] __ #
-*#mˈɛnte# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#mˈɛnte#
-*#mˈente# | 167 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#mˈente#
-*#mˈinte# | 238 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#mˈinte#
-Final form : *#mˈinte#
+#ˌintˌellˈiɡe# >>> *#ɨnt͡selˈed͡ʒe# ( GOLD : #ɨnt͡selˈed͡ʒe#) :
+ˌi n t ˌe l l ˈi ɡ e 
+*#intellˈiɡe# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#entellˈeɡe# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#entellˈeɡʲe# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#entʲellˈeɡʲe# | 150 : [+cor,-voi] > [+front,+hi] / __ [+syl] [+son] [-syl] ( [-syl] )* [+syl] ( @ )* [+cons,+front]
+Balkan Romance stage form : *#entʲellˈeɡʲe#
+*#antʲellˈeɡʲe# | 164 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#antʲellˈɛɡʲe# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#antʲelˈɛɡʲe# | 196 : {l l;m m} > {l;m} 
+*#antʲelˈɛaɡʲe# | 205 : ∅ > a / [-tense] __
+*#antʲelˈeˈaɡʲe# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#antʲele̯ˈaɡʲe# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#əntʲele̯ˈaɡʲe# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənt͡sʲele̯ˈaɟ͡ʑe# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ənt͡sele̯ˈad͡ʒe# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ənt͡sele̯ˈad͡ʒe#
+*#ənt͡selˈed͡ʒe# | 242 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#ɨnt͡selˈed͡ʒe# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnt͡selˈed͡ʒe#
+Final form : *#ɨnt͡selˈed͡ʒe#

@@ -1,15 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 749:
-#ˈowem# >>> *#o̯ˈaje# ( GOLD : #o̯ˈaje#) :
-ˈo w e m 
-*#ˈowe# | 36 : m > ∅ / [-stres] __ #
-*#ˈoβe# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#ˈoe# | 139 : β > ∅ 
-*#ˈoje# | 147 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
-Balkan Romance stage form : *#ˈoje#
-*#ˈɔje# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ˈɔaje# | 205 : ∅ > a / [-tense] __
-*#ˈoˈaje# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#o̯ˈaje# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#o̯ˈaje#
-Old Romanian stage form : *#o̯ˈaje#
-Final form : *#o̯ˈaje#
+#iˌuwˈenkum# >>> *#ʒˈunk# ( GOLD : #ʒˈunk#) :
+i ˌu w ˈe n k u m 
+*#jˌuwˈenkum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#juwˈenkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#jˈuwenkum# | 24 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] [-stres,-prim,+syl,+son]
+*#jˈuwankum# | 35 : [+front,+syl,-lo,-hi,-prim] > [+lo,+tense,-cons,-lat,+cont,0delrel] / @ [+syl,+round] w __
+*#jˈuwanku# | 36 : m > ∅ / [-stres] __ #
+*#jˈuβanku# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#djˈuβanku# | 86 : j > d j / # __ [+syl] [+cons]
+*#dʲˈuβanku# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲˈuβanku# | 125 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲˈuanku# | 139 : β > ∅ 
+Balkan Romance stage form : *#ɡʲˈuanku#
+*#ɡʲˈuənku# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ɟ͡ʑˈuənku# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒˈuənku# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒˈuənku#
+*#ʒˈuənku# | 265 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ʒˈuənkw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʒˈuənk# | 271 : w̥ > ∅ / [-syl] __ #
+*#ʒˈunk# | 300 : ə > ∅ / [+syl] __ [anas,acont]
+Old Romanian stage form : *#ʒˈunk#
+Final form : *#ʒˈunk#

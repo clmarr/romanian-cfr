@@ -1,20 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 797:
-#pˌerwˌiɡilˈaː# >>> *#priveɡe̯ˈa# ( GOLD : #priveɡe̯ˈa#) :
-p ˌe r w ˌi ɡ i l ˈaː 
-*#perwiɡilˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#perwiɡlˈaː# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#prewiɡlˈaː# | 65 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( ( @ )* [+syl] ) ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
-*#preβiɡlˈaː# | 83 : w > β / __ ( [-cons] ( @ )* ) #
-*#preβeɡlˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#preveɡlˈaː# | 128 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#preveɡlˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#preveɡlˈa#
-*#pɾeveɡlˈa# | 160 : r > ɾ / __ [nnas,ncons]
-*#pɾeveɡʎˈa# | 219 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#pɾeveɡʎˈa#
-*#preveɡʎˈa# | 255 : ɾ > r 
-*#preveɡjˈa# | 259 : [+son,+cons,+front] > j 
-*#priveɡjˈa# | 282 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-*#priveɡe̯ˈa# | 287 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
-Old Romanian stage form : *#priveɡe̯ˈa#
-Final form : *#priveɡe̯ˈa#
+#mˈerulam# >>> *#mjˈerlə# ( GOLD : #mjˈerlə#) :
+m ˈe r u l a m 
+*#mˈerula# | 36 : m > ∅ / [-stres] __ #
+*#mˈerla# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#mˈɛrla# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛrla#
+*#mjˈɛrla# | 169 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈerla# | 172 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrla# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈerla# | 204 : [-tense] > [+tense,-cons,-lat,+cont,0delrel] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
+*#mjˈerlə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mjˈerlə#
+Old Romanian stage form : *#mjˈerlə#
+Final form : *#mjˈerlə#

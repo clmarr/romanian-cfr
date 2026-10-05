@@ -1,21 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 244:
-#tˈitiam# >>> *#t͡sˈɨt͡sə# ( GOLD : #t͡sˈɨt͡sə#) :
-t ˈi t i a m 
-*#tˈitjam# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#tˈitja# | 36 : m > ∅ / [-stres] __ #
-*#tˈittja# | 116 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#tˈettja# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#tˈittja# | 119 : [+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
-*#tˈittʲa# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#tˈitʲa# | 140 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#tˈitʲa#
-*#tjˈitʲa# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#tʲjˈitʲa# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tʲˈitʲa# | 198 : j > ∅ / [+cons,+front] __
-*#tʲˈitʲə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
-*#t͡sʲˈit͡sʲə# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡sˈit͡sə# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡sˈit͡sə#
-*#t͡sˈɨt͡sə# | 298 : [+syl,+front,+hi] > [-front] / t͡s __ ( [-syl] )* [+syl,-front]
-Old Romanian stage form : *#t͡sˈɨt͡sə#
-Final form : *#t͡sˈɨt͡sə#
+#sˌubˈaːlam# >>> *#suˈarə# ( GOLD : #suo̯ˈarə#) :
+s ˌu b ˈaː l a m 
+*#subˈaːlam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#subˈaːla# | 36 : m > ∅ / [-stres] __ #
+*#suβˈaːla# | 117 : b > β / [-cons] __ [+cont]
+*#suˈaːla# | 139 : β > ∅ 
+*#suˈala# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#suˈala#
+*#suˈaɾa# | 180 : l > ɾ / [+syl] __ [+syl]
+*#suˈaɾə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#suˈaɾə#
+*#suˈarə# | 255 : ɾ > r 
+Old Romanian stage form : *#suˈarə#
+Final form : *#suˈarə#

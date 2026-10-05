@@ -1,14 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1416:
-#pˌortˈaːbat# >>> *#purtˈa# ( GOLD : #purtˈa#) :
-p ˌo r t ˈaː b a t 
-*#portˈaːbat# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#portˈaːba# | 71 : [+cons,-cont] > ∅ / __ #
-*#portˈaːβa# | 117 : b > β / [-cons] __ [+cont]
-*#portˈaːa# | 139 : β > ∅ 
-*#portˈaa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#portˈaa#
-*#purtˈaa# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purtˈa# | 211 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
-Common Romanian stage form : *#purtˈa#
-Old Romanian stage form : *#purtˈa#
-Final form : *#purtˈa#
+#stˈeːllam# >>> *#ste̯ˈa# ( GOLD : #ste̯ˈa#) :
+s t ˈeː l l a m 
+*#stˈeːlla# | 36 : m > ∅ / [-stres] __ #
+*#istˈeːlla# | 101 : ∅ > i / # __ s [+cons,-son]
+*#estˈeːlla# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#estˈella# | 151 : [+syl] > [-long,-splng] 
+*#stˈella# | 152 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stˈella#
+*#stˈɛlla# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stˈɛwa# | 192 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#stˈɛawa# | 205 : ∅ > a / [-tense] __
+*#stˈeˈawa# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ste̯ˈawa# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ste̯ˈawə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ste̯ˈaw# | 217 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#ste̯ˈa# | 218 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+Common Romanian stage form : *#ste̯ˈa#
+Old Romanian stage form : *#ste̯ˈa#
+Final form : *#ste̯ˈa#

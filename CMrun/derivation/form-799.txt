@@ -1,18 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 799:
-#stˈurdium# >>> *#stˈurz# ( GOLD : #stˈurz#) :
-s t ˈu r d i u m 
-*#stˈurdjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#stˈurdju# | 36 : m > ∅ / [-stres] __ #
-*#istˈurdju# | 101 : ∅ > i / # __ s [+cons,-son]
-*#estˈurdju# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#estˈurdʲu# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#stˈurdʲu# | 152 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stˈurdʲu#
-*#stˈurd͡zʲu# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#stˈurd͡zu# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#stˈurd͡zu#
-*#stˈurzu# | 264 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#stˈurzw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#stˈurz# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#stˈurz#
-Final form : *#stˈurz#
+#pˌeturnˈiːkulam# >>> *#poturnˈikje# ( GOLD : #poturnˈikje#) :
+p ˌe t u r n ˈiː k u l a m 
+*#peturnˈiːkulam# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#peturnˈiːkula# | 36 : m > ∅ / [-stres] __ #
+*#peturnˈiːkla# | 49 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#peturnˈikla# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#peturnˈikla#
+*#petuɾnˈikla# | 160 : r > ɾ / __ [nnas,ncons]
+*#petuɾnˈiklə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+*#petuɾnˈikʎə# | 219 : l > ʎ / [-cont,-ant,-cor] __
+*#petuɾnˈikʎe# | 220 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#petuɾnˈikʎe#
+*#pətuɾnˈikʎe# | 231 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#potuɾnˈikʎe# | 240 : ə > o / # ( p ) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
+*#poturnˈikʎe# | 255 : ɾ > r 
+*#poturnˈikje# | 259 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#poturnˈikje#
+Final form : *#poturnˈikje#

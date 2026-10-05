@@ -1,21 +1,11 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 257:
-#mˌedullˈaːrium# >>> *#mədulˈar# ( GOLD : #mədulˈar#) :
-m ˌe d u l l ˈaː r i u m 
-*#mˌedullˈaːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#medullˈaːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#medullˈaːrju# | 36 : m > ∅ / [-stres] __ #
-*#medullˈarju# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#medullˈarju#
-*#medullˈaɾju# | 160 : r > ɾ / __ [nnas,ncons]
-*#medulˈaɾju# | 196 : {l l;m m} > {l;m} 
-*#medulˈaɾʲju# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#medulˈaɾʲu# | 198 : j > ∅ / [+cons,+front] __
-*#medulˈajɾu# | 222 : ɾʲ > j ɾ 
-Common Romanian stage form : *#medulˈajɾu#
-*#mədulˈajɾu# | 231 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#mədulˈajru# | 255 : ɾ > r 
-*#mədulˈajrw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mədulˈajr# | 271 : w̥ > ∅ / [-syl] __ #
-*#mədulˈar# | 279 : j > ∅ / __ r
-Old Romanian stage form : *#mədulˈar#
-Final form : *#mədulˈar#
+#mˈanam# >>> *#mˈɨnə# ( GOLD : #mˈɨnə#) :
+m ˈa n a m 
+*#mˈana# | 36 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#mˈana#
+*#mˈəna# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#mˈənə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mˈənə#
+*#mˈɨnə# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#mˈɨnə#
+Final form : *#mˈɨnə#

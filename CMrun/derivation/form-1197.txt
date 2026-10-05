@@ -1,15 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1197:
-#ˌinsˌiɡnˈaː# >>> *#ɨnsemnˈa# ( GOLD : #ɨnsemnˈa#) :
-ˌi n s ˌi ɡ n ˈaː 
-*#ˌinsˌiŋnˈaː# | 12 : ɡ > ŋ / __ n
-*#insiŋnˈaː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#insimnˈaː# | 95 : ŋ > m / __ n
-*#ensemnˈaː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#ensemnˈa# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ensemnˈa#
-*#ansemnˈa# | 164 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənsemnˈa# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənsemnˈa#
-*#ɨnsemnˈa# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnsemnˈa#
-Final form : *#ɨnsemnˈa#
+#tˈerram# >>> *#t͡sˈarə# ( GOLD : #t͡sˈarə#) :
+t ˈe r r a m 
+*#tˈerra# | 36 : m > ∅ / [-stres] __ #
+*#tˈɛrra# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#tˈɛrra#
+*#tˈɛrɾa# | 160 : r > ɾ / __ [nnas,ncons]
+*#tjˈɛrɾa# | 169 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#tjˈerɾa# | 172 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tjˈɛrɾa# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#tʲjˈɛrɾa# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tʲˈɛrɾa# | 198 : j > ∅ / [+cons,+front] __
+*#tʲˈɛarɾa# | 205 : ∅ > a / [-tense] __
+*#tʲˈeˈarɾa# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tʲe̯ˈarɾa# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#tʲe̯ˈarɾə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+*#t͡sʲe̯ˈarɾə# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡se̯ˈarɾə# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡se̯ˈarɾə#
+*#t͡se̯ˈarə# | 234 : {ɾ;r} > {∅;∅} / r __
+*#t͡sˈarə# | 254 : e̯ > ∅ / [+delrel,-distr] __ ˈa [+voi,+cor]
+Old Romanian stage form : *#t͡sˈarə#
+Final form : *#t͡sˈarə#

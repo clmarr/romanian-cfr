@@ -1,14 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 435:
-#bˈalteum# >>> *#bˈalt͡s# ( GOLD : #bˈalt͡s#) :
-b ˈa l t e u m 
-*#bˈaltjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#bˈaltju# | 36 : m > ∅ / [-stres] __ #
-*#bˈaltʲu# | 122 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-Balkan Romance stage form : *#bˈaltʲu#
-*#bˈalt͡sʲu# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#bˈalt͡su# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#bˈalt͡su#
-*#bˈalt͡sw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bˈalt͡s# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#bˈalt͡s#
-Final form : *#bˈalt͡s#
+#korˈoːnam# >>> *#kunˈunə# ( GOLD : #kunˈunə#) :
+k o r ˈoː n a m 
+*#korˈoːna# | 36 : m > ∅ / [-stres] __ #
+*#korˈona# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#korˈona#
+*#koɾˈona# | 160 : r > ɾ / __ [nnas,ncons]
+*#kuɾˈona# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kuɾˈuna# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#kuɾˈunə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kuɾˈunə#
+*#kurˈunə# | 255 : ɾ > r 
+*#kunˈunə# | 294 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Old Romanian stage form : *#kunˈunə#
+Final form : *#kunˈunə#

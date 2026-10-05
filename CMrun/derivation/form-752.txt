@@ -1,18 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 752:
-#pˌorkˈellum# >>> *#purt͡ʃˈel# ( GOLD : #purt͡ʃˈel#) :
-p ˌo r k ˈe l l u m 
-*#porkˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈellu# | 36 : m > ∅ / [-stres] __ #
-*#porkˈɛllu# | 114 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#porkʲˈɛllu# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#porkʲˈɛllu#
-*#porkʲˈellu# | 172 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#purkʲˈellu# | 175 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purkʲˈelu# | 196 : {l l;m m} > {l;m} 
-*#purc͡ɕˈelu# | 224 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#purt͡ʃˈelu# | 225 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#purt͡ʃˈelu#
-*#purt͡ʃˈelw̥# | 270 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#purt͡ʃˈel# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#purt͡ʃˈel#
-Final form : *#purt͡ʃˈel#
+#ˈowem# >>> *#o̯ˈaje# ( GOLD : #o̯ˈaje#) :
+ˈo w e m 
+*#ˈowe# | 36 : m > ∅ / [-stres] __ #
+*#ˈoβe# | 83 : w > β / __ ( [-cons] ( @ )* ) #
+*#ˈoe# | 139 : β > ∅ 
+*#ˈoje# | 147 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
+Balkan Romance stage form : *#ˈoje#
+*#ˈɔje# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔaje# | 205 : ∅ > a / [-tense] __
+*#ˈoˈaje# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈaje# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#o̯ˈaje#
+Old Romanian stage form : *#o̯ˈaje#
+Final form : *#o̯ˈaje#

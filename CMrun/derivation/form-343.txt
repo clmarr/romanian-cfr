@@ -1,18 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 343:
-#mˌiserˈeːre# >>> *#miserˈere# ( GOLD : #meserˈere#) :
-m ˌi s e r ˈeː r e 
-*#miserˈeːre# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#meserˈeːre# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#meserˈere# | 151 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#meserˈere#
-*#meseɾˈeɾe# | 160 : r > ɾ / __ [nnas,ncons]
-*#meseɾˈɛɾe# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#meseɾˈɛaɾe# | 205 : ∅ > a / [-tense] __
-*#meseɾˈeˈaɾe# | 206 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#meseɾe̯ˈaɾe# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#meseɾe̯ˈaɾe#
-*#meseɾˈeɾe# | 242 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#meserˈere# | 255 : ɾ > r 
-*#miserˈere# | 285 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Old Romanian stage form : *#miserˈere#
-Final form : *#miserˈere#
+#manˈiːa# >>> *#mɨnˈie# ( GOLD : #mɨnˈie#) :
+m a n ˈiː a 
+*#manˈia# | 151 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#manˈia#
+*#mənˈia# | 208 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#mənˈiə# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mənˈiə#
+*#mɨnˈiə# | 257 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#mɨnˈie# | 266 : ə > e / [+front,+hi] __ #
+Old Romanian stage form : *#mɨnˈie#
+Final form : *#mɨnˈie#
