@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1142:
-#ˌinklaːwˈaː# >>> *#ɨnkjˈa# ( GOLD : #ɨnkjejˈa#) :
-ˌi n k l aː w ˈaː 
-*#inklaːwˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inklaːβˈaː# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#enklaːβˈaː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#enklaːˈaː# | 148 : β > ∅ 
-*#enklaˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enklaˈa#
-*#anklaˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənklaˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənklˈa# | 221 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
-*#ənkʎˈa# | 228 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#ənkʎˈa#
-*#ɨnkʎˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnkjˈa# | 268 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#ɨnkjˈa#
-Final form : *#ɨnkjˈa#
+#ˌinklaːwiˈaː# >>> *#ɨnkjejˈa# ( GOLD : #ɨnkjejˈa#) :
+ˌi n k l aː w i ˈaː 
+*#ˌinklaːwjˈaː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#inklaːwjˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inklaːβjˈaː# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#enklaːβjˈaː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
+*#enklaːjˈaː# | 148 : β > ∅ 
+*#enklajˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enklajˈa#
+*#anklajˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənklajˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənkləjˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ənkʎəjˈa# | 228 : l > ʎ / [-cont,-ant,-cor] __
+*#ənkʎejˈa# | 229 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#ənkʎejˈa#
+*#ɨnkʎejˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnkjejˈa# | 268 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#ɨnkjejˈa#
+Final form : *#ɨnkjejˈa#

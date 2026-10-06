@@ -1,11 +1,25 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 511:
-#frˈaːter# >>> *#frˈate# ( GOLD : #frˈate#) :
-f r ˈaː t e r 
-*#frˈaːte# | 86 : r > ∅ / [+cor] [+syl] __ #
-*#frˈate# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#frˈate#
-*#fɾˈate# | 169 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#fɾˈate#
-*#frˈate# | 264 : ɾ > r 
-Old Romanian stage form : *#frˈate#
-Final form : *#frˈate#
+#ɡˈeminum# >>> *#d͡ʒe̯ˈamɨn# ( GOLD : #d͡ʒe̯ˈamən#) :
+ɡ ˈe m i n u m 
+*#ɡˈeminu# | 45 : m > ∅ / [-stres] __ #
+*#ɡˈɛminu# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈɛmenu# | 127 : [+syl,-long,+hi,-back] > [-hi] 
+*#ɡʲˈɛmenu# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#ɡʲˈɛmenu#
+*#ɡʲˈɛmanu# | 174 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#ɡʲjˈɛmanu# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#ɡʲjˈemanu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ɡʲjˈɛmanu# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
+*#ɡʲˈɛmanu# | 207 : j > ∅ / [+cons,+front] __
+*#ɡʲˈɛamanu# | 214 : ∅ > a / [-tense] __
+*#ɡʲˈeˈamanu# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɡʲe̯ˈamanu# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ɡʲe̯ˈamənu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ɟ͡ʑe̯ˈamənu# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒe̯ˈamənu# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒe̯ˈamənu#
+*#d͡ʒe̯ˈamɨnu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#d͡ʒe̯ˈamɨnw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#d͡ʒe̯ˈamɨn# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#d͡ʒe̯ˈamɨn#
+Final form : *#d͡ʒe̯ˈamɨn#

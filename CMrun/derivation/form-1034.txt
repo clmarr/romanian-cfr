@@ -1,16 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1034:
-#ˌinˌadpˈost# >>> *#ɨnəpˈoj# ( GOLD : #ɨnapˈoj#) :
-ˌi n ˌa d p ˈo s t 
-*#inadpˈost# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inapˈost# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#inapˈos# | 80 : [+cons,-cont] > ∅ / __ #
-*#enapˈos# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#enapˈoj# | 167 : s > j / [+stres] __ #
-Balkan Romance stage form : *#enapˈoj#
-*#anapˈoj# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənapˈoj# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənəpˈoj# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənəpˈoj#
-*#ɨnəpˈoj# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnəpˈoj#
-Final form : *#ɨnəpˈoj#
+#ˌinkontraː# >>> *#ɨnkutrə# ( GOLD : #ɨnkotro#) :
+ˌi n k o n t r aː 
+*#inkontraː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inkotraː# | 73 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
+*#enkotraː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkotra# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enkotra#
+*#enkotɾa# | 169 : r > ɾ / __ [nnas,ncons]
+*#ankotɾa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ankutɾa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənkutɾa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənkutɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ənkutɾə#
+*#ənkutrə# | 264 : ɾ > r 
+*#ɨnkutrə# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnkutrə#
+Final form : *#ɨnkutrə#

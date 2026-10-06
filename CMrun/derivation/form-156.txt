@@ -1,19 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 156:
-#ˌinfˌaskiˈaː# >>> *#ɨnfəʃˈa# ( GOLD : #ɨnfəʃˈa#) :
-ˌi n f ˌa s k i ˈaː 
-*#ˌinfˌaskjˈaː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#infaskjˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enfaskjˈaː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#enfastʲˈaː# | 131 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enfasʲˈaː# | 133 : s [-cont,+front] > sʲ
-*#enfasʲˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enfasʲˈa#
-*#anfasʲˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#anfaɕˈa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ənfaɕˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənfəɕˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənfəʃˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənfəʃˈa#
-*#ɨnfəʃˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnfəʃˈa#
-Final form : *#ɨnfəʃˈa#
+#ˌindˌireːktˈaː# >>> *#ɨndreptˈa# ( GOLD : #ɨndreptˈa#) :
+ˌi n d ˌi r eː k t ˈaː 
+*#indireːktˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#indreːktˈaː# | 48 : [+syl,+front,-lo,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#indreːptˈaː# | 101 : k > p / __ t
+*#endreːptˈaː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
+*#endreptˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#endreptˈa#
+*#endɾeptˈa# | 169 : r > ɾ / __ [nnas,ncons]
+*#andɾeptˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#əndɾeptˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əndɾeptˈa#
+*#əndreptˈa# | 264 : ɾ > r 
+*#ɨndreptˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨndreptˈa#
+Final form : *#ɨndreptˈa#

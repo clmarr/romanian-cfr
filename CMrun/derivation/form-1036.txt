@@ -1,21 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1036:
-#ˌindˈeretro# >>> *#indˈeret# ( GOLD : #ɨndˈərət#) :
-ˌi n d ˈe r e t r o 
-*#indˈeretro# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#indˈeret# | 83 : r [+syl,-stres,+round] > ∅/ [+syl] t __ #
-*#indˈɛret# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#endˈɛret# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#endˈɛret#
-*#endˈɛɾet# | 169 : r > ɾ / __ [nnas,ncons]
-*#andˈɛɾet# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#indˈɛɾet# | 175 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
-*#indˈeɾet# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#indˈɛɾet# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#indˈɛaɾet# | 214 : ∅ > a / [-tense] __
-*#indˈeˈaɾet# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#inde̯ˈaɾet# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#inde̯ˈaɾet#
-*#indˈeɾet# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#indˈeret# | 264 : ɾ > r 
-Old Romanian stage form : *#indˈeret#
-Final form : *#indˈeret#
+#ˈintro# >>> *#ˈɨntru# ( GOLD : #ˈɨntru#) :
+ˈi n t r o 
+*#ˈentro# | 127 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ˈentro#
+*#ˈentɾo# | 169 : r > ɾ / __ [nnas,ncons]
+*#ˈantɾo# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ˈantɾu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ˈəntɾu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ˈəntɾu#
+*#ˈəntru# | 264 : ɾ > r 
+*#ˈɨntru# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ˈɨntrw# | 278 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
+*#ˈɨntru# | 282 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#ˈɨntru#
+Final form : *#ˈɨntru#

@@ -1,17 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 185:
-#strˈambum# >>> *#strˈɨmb# ( GOLD : #strˈɨmb#) :
-s t r ˈa m b u m 
-*#strˈambu# | 45 : m > ∅ / [-stres] __ #
-*#istrˈambu# | 110 : ∅ > i / # __ s [+cons,-son]
-*#estrˈambu# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#strˈambu# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strˈambu#
-*#stɾˈambu# | 169 : r > ɾ / __ [nnas,ncons]
-*#stɾˈəmbu# | 218 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#stɾˈəmbu#
-*#strˈəmbu# | 264 : ɾ > r 
-*#strˈɨmbu# | 267 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
-*#strˈɨmbw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#strˈɨmb# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#strˈɨmb#
-Final form : *#strˈɨmb#
+#spˈissum# >>> ... ( GOLD : ...) :
+s p ˈi s s u m 
+*#spˈissu# | 45 : m > ∅ / [-stres] __ #
+*#ispˈissu# | 110 : ∅ > i / # __ s [+cons,-son]
+*#espˈessu# | 127 : [+syl,-long,+hi,-back] > [-hi] 
+*#espˈesu# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#spˈesu# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#spˈesu#
+Common Romanian stage form : *#spˈesu#
+*#spˈəsu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#spˈəsw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#spˈəs# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#spˈəs#
+Final form : ...

@@ -1,12 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1030:
-#illˈaːk# >>> *#lˈa# ( GOLD : #lˈa#) :
-i l l ˈaː k 
-*#illˈaː# | 80 : [+cons,-cont] > ∅ / __ #
-*#ellˈaː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#ellˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ellˈa#
-*#elˈa# | 205 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#elˈa#
-*#lˈa# | 255 : e > ∅ / # __ [-syl] [-cons]
-Old Romanian stage form : *#lˈa#
-Final form : *#lˈa#
+#ˈin# >>> *#ˈɨn# ( GOLD : #ˈɨn#) :
+ˈi n 
+*#ˈiːn# | 124 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#ˈin# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈin#
+*#ˈan# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ˈən# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ˈən#
+*#ˈɨn# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ˈɨn#
+Final form : *#ˈɨn#

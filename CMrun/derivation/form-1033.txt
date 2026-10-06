@@ -1,20 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1033:
-#ˌinˌadˈintroː# >>> *#ɨnədˈintru# ( GOLD : #ɨnəˈuntru#) :
-ˌi n ˌa d ˈi n t r oː 
-*#inadˈintroː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enadˈentroː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#enadˈentro# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enadˈentro#
-*#enadˈentɾo# | 169 : r > ɾ / __ [nnas,ncons]
-*#anadˈentɾo# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#anadˈentɾu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənadˈentɾu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənədˈentɾu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənədˈentɾu#
-*#ənədˈintɾu# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ənədˈintru# | 264 : ɾ > r 
-*#ɨnədˈintru# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnədˈintrw# | 278 : [+syl,+hi,-stres] > [-syl,0stres,0prim] / [+cons] [+cons,+son,-nas] __ #
-*#ɨnədˈintru# | 282 : {w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-Old Romanian stage form : *#ɨnədˈintru#
-Final form : *#ɨnədˈintru#
+#ˌinˌadpˈost# >>> *#ɨnəpˈoj# ( GOLD : #ɨnapˈoj#) :
+ˌi n ˌa d p ˈo s t 
+*#inadpˈost# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inapˈost# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
+*#inapˈos# | 80 : [+cons,-cont] > ∅ / __ #
+*#enapˈos# | 127 : [+syl,-long,+hi,-back] > [-hi] 
+*#enapˈoj# | 167 : s > j / [+stres] __ #
+Balkan Romance stage form : *#enapˈoj#
+*#anapˈoj# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənapˈoj# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənəpˈoj# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ənəpˈoj#
+*#ɨnəpˈoj# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnəpˈoj#
+Final form : *#ɨnəpˈoj#

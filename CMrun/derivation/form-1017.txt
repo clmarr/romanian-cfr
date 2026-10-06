@@ -1,18 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1017:
-#ˌadfˈoraːs# >>> *#afo̯ˈarə# ( GOLD : #afˈarə#) :
-ˌa d f ˈo r aː s 
-*#adfˈoraːs# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#afˈoraːs# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#afˈoras# | 160 : [+syl] > [-long,-splng] 
-*#afˈora# | 168 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#afˈora#
-*#afˈoɾa# | 169 : r > ɾ / __ [nnas,ncons]
-*#afˈɔɾa# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#afˈɔaɾa# | 214 : ∅ > a / [-tense] __
-*#afˈoˈaɾa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#afo̯ˈaɾa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#afo̯ˈaɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#afo̯ˈaɾə#
-*#afo̯ˈarə# | 264 : ɾ > r 
-Old Romanian stage form : *#afo̯ˈarə#
-Final form : *#afo̯ˈarə#
+#ˌalioːrˈeːs# >>> *#ajerˈej# ( GOLD : #ajˈure̯ˈa#) :
+ˌa l i oː r ˈeː s 
+*#ˌaljoːrˈeːs# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#aljoːrˈeːs# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aljjerˈeːs# | 143 : [+round,-prim] > j e/ [+front,-cons,-lo] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
+*#aljjerˈes# | 160 : [+syl] > [-long,-splng] 
+*#aljjerˈej# | 167 : s > j / [+stres] __ #
+Balkan Romance stage form : *#aljjerˈej#
+*#aljjeɾˈej# | 169 : r > ɾ / __ [nnas,ncons]
+*#alʲjjeɾˈej# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#alʲjeɾˈej# | 207 : j > ∅ / [+cons,+front] __
+*#aʎjeɾˈej# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#aʎjeɾˈej#
+*#aʎjerˈej# | 264 : ɾ > r 
+*#ajjerˈej# | 268 : [+son,+cons,+front] > j 
+*#ajerˈej# | 285 : j > ∅ / __ [+front,+hi]
+Old Romanian stage form : *#ajerˈej#
+Final form : *#ajerˈej#
