@@ -310,7 +310,8 @@ $ NEW RULE: ˈu > ˈo / [+nas] __ r.
 
 
 $ Oddball syncope in suffolica(re)>sufleca.
-	[+syl] > ∅ / f f __ l
+	$[+syl] > ∅ / f f __ l
+		$ Now handled by new rule "Round vowel syncope after [f]".
 
 $ R4 {Syncope, Dissimilation of [tl]}
 	$ R4A Syncope
@@ -330,7 +331,9 @@ $ R4 {Syncope, Dissimilation of [tl]}
 		$ Syncope between nasals must come after [o].
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
 		$ Syncope after [l] cannot occur in the presence of palatal vowels.
-			[+syl,+hi,-long,-stres] > ∅ / [+syl,alo,afront] l __ [+cons] [+syl,blo,bfront]
+			$[+syl,+hi,-long,-stres] > ∅ / [+syl,alo,afront] l __ [+cons] [+syl,blo,bfront]
+				$ EDIT: Easier to explain as only occurring before another coronal.
+					[+syl,+hi,-long,-stres] > ∅ / [+syl] l __ [+cor] [+syl]
 		$ [r] must cluster with voiced consonants after syncope.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
 		$ [rrVk] syncopates. Since this only applies to etyma related to carricare, there isn't actually a lot of evidence for it. FLAG -- reexamine later.
@@ -347,7 +350,9 @@ $ NEW SONORANT-FREE SYNCOPE: Syncope will occur between a fricative and an obstr
 	[+syl,+hi,-long,-stres] > ∅ / [+syl] [-son,+cont] __ [-son] [+syl]
 		$ This hypothesis is only supported by one word... FLAG -- either try to find more examples or consider for removal.
 		$ Can also occur when fricative is followed by a stop, but only when preceding vowel is [+hi]? (Unsure on conditioning. FLAG -- reexamine later.)
-			[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
+			$[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
+				$ EDIT: Stop and following obstruent must have matching voicing.
+					[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont,avoi] __ [-son,avoi] [+syl]
 
 
 $ There seems to be an oddball syncope in monticellus>muncel. We can condition a nasal-plosive cluster–plosive syncope to only occur pretonically and after a round vowel, but this is hyperspecific and ought to be reexamined in the future. FLAG
@@ -369,6 +374,7 @@ $ Yet another oddball syncope in cubitum>cot. FLAG -- reexamine later.
 
 $ˈoː > ˈɔ / __ [+cons,+son] [+syl,+hi,-long,-stres] [+cons] [+syl,-lo] $ only helping soricem>șoarece. FLAG -- reexamine later; consider for removal.
 	$ Removing for now, even though it decreases accuracy. There's some sort of s>ș phenomenon that occurs in this word, șerpânță, and ședea that we're missing, but it needs something more expansive than this rule to explain it. $ (also așeza?)
+		$ EDIT: Handled with new rule "Voiceless coronal assimilates to distant palatal when in the onset of a heavy syllable".
 
 
 $ NEW RULE: [l] metathesis 1
@@ -811,6 +817,12 @@ $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [
 			$ can actually capture this with just agreement in two features: cont and lab
 		$formerly:	{p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
 	[-son,scont,blab] > ∅ / __ [-son,scont,blab] 
+
+
+$ NEW RULE: Round vowel syncope after [f]
+	$ Following consonant must be singleton, can be [s] or [l], and cannot be [r] or [ɡ] -- modelling as [avoi,alat].
+		[+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
+			$ Really ought to be dated to after the breakup of Common Romanian because of Aromanian fusati/fusate, but it also has to predate [l]-flapping because of sufleca... FLAG
 
 
 	$ CM 9/23 -- hopefully final final k > g rule -- initial, can see through s mobile, requires only sonorants and vowels following -- classic lenition rule really, just somewhat elaborate
@@ -1742,6 +1754,10 @@ $ NEW RULE: Schwa deletion before a nonhigh vocoid
 
 $ CM 9/21 NEW RULE : iie > ie phenomenon. Fairly recent -- iie attested for ie etc. 
 j > ∅ / [+hi,+front] __ e
+
+$ Initial cluster simplification for fsat>sat
+	$ Probably should postdate Old Romanian given that fsat is attested.
+		[-voi] > ∅ / # __ [-voi,+cont]
 
 =Old Romanian
 $to be moved later
