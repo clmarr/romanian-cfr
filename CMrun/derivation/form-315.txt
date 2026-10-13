@@ -1,15 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 315:
-#mˌanˈeː# >>> *#mɨne̯ˈa# ( GOLD : #mɨne̯ˈa#) :
-m ˌa n ˈeː 
-*#manˈeː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#manˈe# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#manˈe#
-*#manˈɛ# | 198 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#manˈɛa# | 214 : ∅ > a / [-tense] __
-*#manˈeˈa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#mane̯ˈa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#məne̯ˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#məne̯ˈa#
-*#mɨne̯ˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#mɨne̯ˈa#
-Final form : *#mɨne̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 315:
+#ˌekskˌubulˈaː# >>> *#skulˈa# ( GOLD : #skulˈa#) :
+ˌe k s k ˌu b u l ˈaː 
+*#ekskubulˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekskublˈaː# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
+*#eskublˈaː# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskuβlˈaː# | 125 : b > β / [-cons] __ [+cont]
+*#eskuwlˈaː# | 144 : β > w / __ [+son,+cons]
+*#eskuwlˈa# | 160 : [+syl] > [-long,-splng] 
+*#skuwlˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skuwlˈa#
+*#skulˈa# | 191 : w > ∅ / [+syl,+hi,+back] __
+Common Romanian stage form : *#skulˈa#
+Old Romanian stage form : *#skulˈa#
+Final form : *#skulˈa#

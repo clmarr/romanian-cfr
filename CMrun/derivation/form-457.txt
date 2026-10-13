@@ -1,11 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 457:
-#suffolikˈaː# >>> *#suflekˈa# ( GOLD : #suflekˈa#) :
-s u f f o l i k ˈaː 
-*#sufflikˈaː# | 52 : [+syl] > ∅ / f f __ l
-*#sufflekˈaː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#suflekˈaː# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#suflekˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#suflekˈa#
-Common Romanian stage form : *#suflekˈa#
-Old Romanian stage form : *#suflekˈa#
-Final form : *#suflekˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 457:
+#submˈitte# >>> *#sumˈete# ( GOLD : #sumˈete#) :
+s u b m ˈi t t e 
+*#suβmˈitte# | 125 : b > β / [-cons] __ [+cont]
+*#suβmˈette# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#suwmˈette# | 144 : β > w / __ [+son,+cons]
+*#suwmˈete# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#suwmˈete#
+*#sumˈete# | 191 : w > ∅ / [+syl,+hi,+back] __
+*#sumˈɛte# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sumˈɛate# | 214 : ∅ > a / [-tense] __
+*#sumˈeˈate# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#sume̯ˈate# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#sume̯ˈate#
+*#sumˈete# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#sumˈete#
+Final form : *#sumˈete#

@@ -1,15 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1131:
-#ekstrakolˈaː# >>> *#strəkurˈa# ( GOLD : #strekurˈa#) :
-e k s t r a k o l ˈaː 
-*#estrakolˈaː# | 97 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estrakolˈa# | 160 : [+syl] > [-long,-splng] 
-*#strakolˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strakolˈa#
-*#stɾakolˈa# | 169 : r > ɾ / __ [nnas,ncons]
-*#stɾakulˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#stɾakuɾˈa# | 189 : l > ɾ / [+syl] __ [+syl]
-*#stɾəkuɾˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#stɾəkuɾˈa#
-*#strəkurˈa# | 264 : ɾ > r 
-Old Romanian stage form : *#strəkurˈa#
-Final form : *#strəkurˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1131:
+#ekstˈorkwe# >>> *#sto̯ˈart͡ʃe# ( GOLD : #sto̯ˈart͡ʃe#) :
+e k s t ˈo r k w e 
+*#ekstˈorkβe# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#estˈorkβe# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estˈorke# | 147 : β > ∅ 
+*#estˈorkʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#stˈorkʲe# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stˈorkʲe#
+*#stˈɔrkʲe# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stˈɔarkʲe# | 214 : ∅ > a / [-tense] __
+*#stˈoˈarkʲe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#sto̯ˈarkʲe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#sto̯ˈarc͡ɕe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#sto̯ˈart͡ʃe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#sto̯ˈart͡ʃe#
+Old Romanian stage form : *#sto̯ˈart͡ʃe#
+Final form : *#sto̯ˈart͡ʃe#

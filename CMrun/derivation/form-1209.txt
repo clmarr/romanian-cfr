@@ -1,16 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1209:
-#jˈuɡum# >>> *#ʒˈuɡ# ( GOLD : #ʒˈuɡ#) :
-j ˈu ɡ u m 
-*#jˈuɡu# | 45 : m > ∅ / [-stres] __ #
-*#djˈuɡu# | 95 : j > d j / # __ [+syl] [+cons]
-*#dʲˈuɡu# | 131 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɡʲˈuɡu# | 134 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-Balkan Romance stage form : *#ɡʲˈuɡu#
-*#ɟ͡ʑˈuɡu# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈuɡu# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒˈuɡu#
-*#ʒˈuɡu# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒˈuɡw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒˈuɡ# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ʒˈuɡ#
-Final form : *#ʒˈuɡ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1209:
+#hiːbernˈaː# >>> *#jernˈa# ( GOLD : #jernˈa#) :
+h iː b e r n ˈaː 
+*#iːbernˈaː# | 41 : [-son,-cons] > ∅ 
+*#iːβernˈaː# | 125 : b > β / [-cons] __ [+cont]
+*#iːernˈaː# | 147 : β > ∅ 
+*#jernˈaː# | 154 : [+front,+hi,+syl,-prim] > j / __ e
+*#jernˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#jernˈa#
+*#jeɾnˈa# | 169 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#jeɾnˈa#
+*#jernˈa# | 264 : ɾ > r 
+Old Romanian stage form : *#jernˈa#
+Final form : *#jernˈa#

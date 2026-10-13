@@ -50,7 +50,6 @@ m > n / __ #
 p > m / [+syl,+prim,+hi] __ [+cor,-son]
 r [+syl,+back] ∅ > ∅ [+syl,+son] r/ [+cons,+back] __ [-cont,-back] [+syl]
 [+hi,+stres] > [-hi] / [+nas] __ r
-[+syl] > ∅ / f f __ l
 [+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl] ( s ) [+cons,-cont,+cor] __ l ( [-cons,-syl] ) [+syl]
 [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
@@ -58,13 +57,13 @@ r [+syl,+back] ∅ > ∅ [+syl,+son] r/ [+cons,+back] __ [-cont,-back] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
 [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
-[+syl,+hi,-long,-stres] > ∅ / [+syl,alo,afront] l __ [+cons] [+syl,blo,bfront]
+[+syl,+hi,-long,-stres] > ∅ / [+syl] l __ [+cor] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl] l l __ [-cont,+back] [+syl,-lo]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ( [-syl] ) [+syl,-stres,-lo]
 [+syl,+hi,-long,-stres] > ∅ / [+syl] [-son,+cont] __ [-son] [+syl]
-[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont] __ [-son] [+syl]
+[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont,avoi] __ [-son,avoi] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-cont,-delrel] __ [-cont,-delrel] [+prim]
 a > ∅ / [+syl] p __ n [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+round] b __ t [+syl]
@@ -148,6 +147,7 @@ s > z / # e __ [+voi,-son]
 β > w / [+syl,+round,-hi] __ [+syl,+lo]
 β > ∅ 
 [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+[+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
 k > ɡ / # ( ( e ) s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
 b j > j b / [+stres] __
 m > w / [+lo] __ n
@@ -314,3 +314,4 @@ e > i / # t͡ʃ __ r [-cons]
 w > ∅ / [-lab] [+syl,+round] __ r
 ə > ∅ / __ [-cons,-hi]
 j > ∅ / [+hi,+front] __ e
+[-voi] > ∅ / # __ [-voi,+cont]

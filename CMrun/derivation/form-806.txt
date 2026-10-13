@@ -1,12 +1,25 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 806:
-#ˌupˈupad͡zam# >>> *#pˈupəzə# ( GOLD : #pˈupəzə#) :
-ˌu p ˈu p a d͡z a m 
-*#upˈupad͡zam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#upˈupad͡za# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#upˈupad͡za#
-*#upˈupəd͡zə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#upˈupəd͡zə#
-*#pˈupəd͡zə# | 256 : u > ∅ / # __ [+cons,-cor,-front]
-*#pˈupəzə# | 273 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#pˈupəzə#
-Final form : *#pˈupəzə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 806:
+#tˌurturˈellam# >>> *#turture̯ˈa# ( GOLD : #turture̯ˈa#) :
+t ˌu r t u r ˈe l l a m 
+*#turturˈellam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#turturˈella# | 45 : m > ∅ / [-stres] __ #
+*#turturˈɛlla# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#turturˈɛlla#
+*#turtuɾˈɛlla# | 169 : r > ɾ / __ [nnas,ncons]
+*#turtuɾjˈɛlla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#turtuɾjˈella# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#turtuɾjˈɛlla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#turtuɾjˈɛwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#turtuɾʲjˈɛwa# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#turtuɾʲˈɛwa# | 207 : j > ∅ / [+cons,+front] __
+*#turtuɾˈɛwa# | 211 : ɾʲ > ɾ / [+hi] __
+*#turtuɾˈɛawa# | 214 : ∅ > a / [-tense] __
+*#turtuɾˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#turtuɾe̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#turtuɾe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#turtuɾe̯ˈaw# | 226 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#turtuɾe̯ˈa# | 227 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+Common Romanian stage form : *#turtuɾe̯ˈa#
+*#turture̯ˈa# | 264 : ɾ > r 
+Old Romanian stage form : *#turture̯ˈa#
+Final form : *#turture̯ˈa#

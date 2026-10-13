@@ -1,12 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 719:
-#ˌekstˌirpˈiː# >>> *#sterpˈi# ( GOLD : #stɨrpˈi#) :
-ˌe k s t ˌi r p ˈiː 
-*#ekstirpˈiː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#estirpˈiː# | 97 : [-cont] > ∅ / __ [+strid] [+cons]
-*#esterpˈiː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#esterpˈi# | 160 : [+syl] > [-long,-splng] 
-*#sterpˈi# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#sterpˈi#
-Common Romanian stage form : *#sterpˈi#
-Old Romanian stage form : *#sterpˈi#
-Final form : *#sterpˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 719:
+#dˌeːpˈoːne# >>> *#depˈune# ( GOLD : #depˈune#) :
+d ˌeː p ˈoː n e 
+*#deːpˈoːne# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#depˈone# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#depˈone#
+*#depˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#depˈune#
+Old Romanian stage form : *#depˈune#
+Final form : *#depˈune#

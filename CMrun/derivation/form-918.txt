@@ -1,14 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 918:
-#frˈankum# >>> *#frˈɨnk# ( GOLD : #frˈɨnk#) :
-f r ˈa n k u m 
-*#frˈanku# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#frˈanku#
-*#fɾˈanku# | 169 : r > ɾ / __ [nnas,ncons]
-*#fɾˈənku# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#fɾˈənku#
-*#frˈənku# | 264 : ɾ > r 
-*#frˈɨnku# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#frˈɨnkw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#frˈɨnk# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#frˈɨnk#
-Final form : *#frˈɨnk#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 918:
+#dˈominum# >>> *#dˈomn# ( GOLD : #dˈomn#) :
+d ˈo m i n u m 
+*#dˈominu# | 45 : m > ∅ / [-stres] __ #
+*#dˈomnu# | 58 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
+Balkan Romance stage form : *#dˈomnu#
+Common Romanian stage form : *#dˈomnu#
+*#dˈomnw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dˈomn# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dˈomn#
+Final form : *#dˈomn#

@@ -1,17 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 145:
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 145:
 #ˌinpˌerɡˈyːrum# >>> *#ɨmpreʒˈur# ( GOLD : #ɨmpreʒˈur#) :
 ˌi n p ˌe r ɡ ˈyː r u m 
 *#inperɡˈyːrum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#inperɡˈyːru# | 45 : m > ∅ / [-stres] __ #
-*#inpreɡˈyːru# | 74 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( ( @ )* [+syl] ) ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
-*#inpreɡjˈyːru# | 113 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
-*#inpreɡjˈuːru# | 115 : [+front,+round] > [-front,+back] 
-*#inpreɡɡjˈuːru# | 125 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#enpreɡɡjˈuːru# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#enpreɡdʲˈuːru# | 131 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enpreddʲˈuːru# | 132 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#enpredɡʲˈuːru# | 134 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#enpreɡʲˈuːru# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#inpreɡˈyːru# | 73 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( ( @ )* [+syl] ) ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
+*#inpreɡjˈyːru# | 112 : ∅ > j / [+cons,+back] ( [+cons,+son] ) __ [+front,+round] [+cons,+son]
+*#inpreɡjˈuːru# | 114 : [+front,+round] > [-front,+back] 
+*#inpreɡɡjˈuːru# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#enpreɡɡjˈuːru# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#enpreɡdʲˈuːru# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#enpreddʲˈuːru# | 131 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#enpredɡʲˈuːru# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#enpreɡʲˈuːru# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 *#enpreɡʲˈuru# | 160 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#enpreɡʲˈuru#
 *#enpɾeɡʲˈuɾu# | 169 : r > ɾ / __ [nnas,ncons]

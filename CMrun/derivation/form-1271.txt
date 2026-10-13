@@ -1,16 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1271:
-#tˈorkwe# >>> *#to̯ˈart͡ʃe# ( GOLD : #to̯ˈart͡ʃe#) :
-t ˈo r k w e 
-*#tˈorkβe# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#tˈorke# | 148 : β > ∅ 
-*#tˈorkʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#tˈorkʲe#
-*#tˈɔrkʲe# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tˈɔarkʲe# | 214 : ∅ > a / [-tense] __
-*#tˈoˈarkʲe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#to̯ˈarkʲe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#to̯ˈarc͡ɕe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#to̯ˈart͡ʃe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#to̯ˈart͡ʃe#
-Old Romanian stage form : *#to̯ˈart͡ʃe#
-Final form : *#to̯ˈart͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1271:
+#tˈekse# >>> *#t͡sˈese# ( GOLD : #t͡sˈese#) :
+t ˈe k s e 
+*#tˈesse# | 102 : k > s / __ s
+*#tˈɛsse# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#tˈɛse# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#tˈɛse#
+*#tjˈɛse# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#tjˈese# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tjˈɛse# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#tʲjˈɛse# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tʲˈɛse# | 207 : j > ∅ / [+cons,+front] __
+*#tʲˈɛase# | 214 : ∅ > a / [-tense] __
+*#tʲˈeˈase# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tʲe̯ˈase# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#t͡sʲe̯ˈase# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡se̯ˈase# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡se̯ˈase#
+*#t͡sˈese# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#t͡sˈese#
+Final form : *#t͡sˈese#

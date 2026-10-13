@@ -1,23 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 284:
-#ˌinɡlˌuttˈiː# >>> *#ɨnɡit͡sˈi# ( GOLD : #ɨnɡit͡sˈi#) :
-ˌi n ɡ l ˌu t t ˈiː 
-*#inɡluttˈiː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɡluttˈiː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡlutˈiː# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#enɡlutˈi# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡlutˈi#
-*#anɡlutˈi# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#anɡlutjˈi# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#anɡlutʲjˈi# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#anɡlutʲˈi# | 207 : j > ∅ / [+cons,+front] __
-*#ənɡlutʲˈi# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənɡʎutʲˈi# | 228 : l > ʎ / [-cont,-ant,-cor] __
-*#ənɡʎut͡sʲˈi# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənɡʎut͡sˈi# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənɡʎut͡sˈi#
-*#ɨnɡʎut͡sˈi# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnɡjut͡sˈi# | 268 : [+son,+cons,+front] > j 
-*#ɨnɡjit͡sˈi# | 284 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
-*#ɨnɡit͡sˈi# | 285 : j > ∅ / __ [+front,+hi]
-Old Romanian stage form : *#ɨnɡit͡sˈi#
-Final form : *#ɨnɡit͡sˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 284:
+#ˌimbˌukkˈaː# >>> *#ɨmbukˈa# ( GOLD : #ɨmbukˈa#) :
+ˌi m b ˌu k k ˈaː 
+*#imbukkˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#embukkˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#embukˈaː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#embukˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#embukˈa#
+*#ambukˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#əmbukˈa# | 218 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əmbukˈa#
+*#ɨmbukˈa# | 267 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+Old Romanian stage form : *#ɨmbukˈa#
+Final form : *#ɨmbukˈa#

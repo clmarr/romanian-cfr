@@ -1,22 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 441:
-#faskˈiolam# >>> *#fəʃo̯ˈarə# ( GOLD : #fəʃio̯ˈarə#) :
-f a s k ˈi o l a m 
-*#faskˈiola# | 45 : m > ∅ / [-stres] __ #
-*#faskiˈoːla# | 116 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#faskjˈoːla# | 122 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#fastʲˈoːla# | 131 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#fasʲˈoːla# | 133 : s [-cont,+front] > sʲ
-*#fasʲˈola# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fasʲˈola#
-*#fasʲˈoɾa# | 189 : l > ɾ / [+syl] __ [+syl]
-*#fasʲˈɔɾa# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#faɕˈɔɾa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#faɕˈɔaɾa# | 214 : ∅ > a / [-tense] __
-*#faɕˈoˈaɾa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#faɕo̯ˈaɾa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#fəɕo̯ˈaɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fəʃo̯ˈaɾə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fəʃo̯ˈaɾə#
-*#fəʃo̯ˈarə# | 264 : ɾ > r 
-Old Romanian stage form : *#fəʃo̯ˈarə#
-Final form : *#fəʃo̯ˈarə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 441:
+#fˈaskiam# >>> *#fˈaʃə# ( GOLD : #fˈaʃə#) :
+f ˈa s k i a m 
+*#fˈaskjam# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fˈaskja# | 45 : m > ∅ / [-stres] __ #
+*#fˈastʲa# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#fˈasʲa# | 132 : s [-cont,+front] > sʲ
+Balkan Romance stage form : *#fˈasʲa#
+*#fˈaɕa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#fˈaɕə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#fˈaʃə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#fˈaʃə#
+Old Romanian stage form : *#fˈaʃə#
+Final form : *#fˈaʃə#

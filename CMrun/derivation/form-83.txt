@@ -1,16 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 83:
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 83:
 #bˌaptidiˈoːnem# >>> *#boteʒˈune# ( GOLD : #boteʒˈune#) :
 b ˌa p t i d i ˈoː n e m 
 *#bˌaptidjˈoːnem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#baptidjˈoːnem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#baptidjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#boptidjˈoːne# | 89 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
-*#botidjˈoːne# | 91 : p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
-*#botiddjˈoːne# | 125 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#boteddjˈoːne# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#boteddʲˈoːne# | 131 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#botedɡʲˈoːne# | 134 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#boteɡʲˈoːne# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#boptidjˈoːne# | 88 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
+*#botidjˈoːne# | 90 : p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
+*#botiddjˈoːne# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#boteddjˈoːne# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#boteddʲˈoːne# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#botedɡʲˈoːne# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#boteɡʲˈoːne# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 *#boteɡʲˈone# | 160 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#boteɡʲˈone#
 *#buteɡʲˈone# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #

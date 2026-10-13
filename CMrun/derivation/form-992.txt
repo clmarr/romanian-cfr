@@ -1,14 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 992:
-#rˈussum# >>> *#rˈus# ( GOLD : #rˈus#) :
-r ˈu s s u m 
-*#rˈussu# | 45 : m > ∅ / [-stres] __ #
-*#rˈusu# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#rˈusu#
-*#ɾˈusu# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾˈusu# | 170 : ∅ > r / # __ ɾ
-Common Romanian stage form : *#rɾˈusu#
-*#rˈusu# | 243 : {ɾ;r} > {∅;∅} / r __
-*#rˈusw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rˈus# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#rˈus#
-Final form : *#rˈus#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 992:
+#rˈoseum# >>> *#rˈoʃ# ( GOLD : #rˈoʃ#) :
+r ˈo s e u m 
+*#rˈosjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rˈosju# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#rˈosju#
+*#ɾˈosju# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾˈosju# | 170 : ∅ > r / # __ ɾ
+*#rɾˈosʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rɾˈosʲu# | 207 : j > ∅ / [+cons,+front] __
+*#rɾˈoɕu# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#rɾˈoʃu# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾˈoʃu#
+*#rˈoʃu# | 243 : {ɾ;r} > {∅;∅} / r __
+*#rˈoʃw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rˈoʃ# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rˈoʃ#
+Final form : *#rˈoʃ#

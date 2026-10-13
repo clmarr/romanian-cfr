@@ -1,12 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 468:
-#pˈaːnem# >>> *#pˈɨjne# ( GOLD : #pˈɨjne#) :
-p ˈaː n e m 
-*#pˈaːne# | 45 : m > ∅ / [-stres] __ #
-*#pˈane# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pˈane#
-*#pˈəne# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#pˈəne#
-*#pˈɨne# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#pˈɨjne# | 300 : ∅ > j / ˈɨ __ n [-cons,+front,-lo] ( [+syl] ) #
-Old Romanian stage form : *#pˈɨjne#
-Final form : *#pˈɨjne#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 468:
+#merˈendae̯# >>> *#merˈinde# ( GOLD : #merˈinde#) :
+m e r ˈe n d a e̯ 
+*#merˈendaj# | 20 : e̯ > j 
+*#merˈendɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#merˈɛndɛː# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#merˈɛndɛ# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#merˈɛndɛ#
+*#meɾˈɛndɛ# | 169 : r > ɾ / __ [nnas,ncons]
+*#meɾˈendɛ# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#meɾˈende# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#meɾˈende#
+*#meɾˈinde# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#merˈinde# | 264 : ɾ > r 
+Old Romanian stage form : *#merˈinde#
+Final form : *#merˈinde#

@@ -1,20 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1284:
-#ferrˈaːrium# >>> ... ( GOLD : ...) :
-f e r r ˈaː r i u m 
-*#ferrˈaːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ferrˈaːrju# | 45 : m > ∅ / [-stres] __ #
-*#ferrˈarju# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ferrˈarju#
-*#ferɾˈaɾju# | 169 : r > ɾ / __ [nnas,ncons]
-*#ferɾˈaɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ferɾˈaɾʲu# | 207 : j > ∅ / [+cons,+front] __
-*#ferɾˈajɾu# | 231 : ɾʲ > j ɾ 
-Common Romanian stage form : *#ferɾˈajɾu#
-*#fərɾˈajɾu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#fərˈajɾu# | 243 : {ɾ;r} > {∅;∅} / r __
-*#fərˈajru# | 264 : ɾ > r 
-*#fərˈajrw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fərˈajr# | 280 : w̥ > ∅ / [-syl] __ #
-*#fərˈar# | 288 : j > ∅ / __ r
-Old Romanian stage form : *#fərˈar#
-Final form : ...
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1284:
+#fˈabrum# >>> *#fˈawr# ( GOLD : #fˈawr#) :
+f ˈa b r u m 
+*#fˈabru# | 45 : m > ∅ / [-stres] __ #
+*#fˈaβru# | 125 : b > β / [-cons] __ [+cont]
+*#fˈawru# | 144 : β > w / __ [+son,+cons]
+Balkan Romance stage form : *#fˈawru#
+*#fˈawɾu# | 169 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#fˈawɾu#
+*#fˈawru# | 264 : ɾ > r 
+*#fˈawrw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fˈawr# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fˈawr#
+Final form : *#fˈawr#

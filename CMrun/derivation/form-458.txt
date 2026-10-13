@@ -1,17 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 458:
-#kˈenam# >>> *#t͡ʃˈinə# ( GOLD : #t͡ʃˈinə#) :
-k ˈe n a m 
-*#kˈena# | 45 : m > ∅ / [-stres] __ #
-*#kˈɛna# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kʲˈɛna# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kʲˈɛna#
-*#kʲjˈɛna# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#kʲjˈena# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kʲˈena# | 207 : j > ∅ / [+cons,+front] __
-*#kʲˈenə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#c͡ɕˈenə# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃˈenə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃˈenə#
-*#t͡ʃˈinə# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#t͡ʃˈinə#
-Final form : *#t͡ʃˈinə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 458:
+#suffolikˈaː# >>> *#suflekˈa# ( GOLD : #suflekˈa#) :
+s u f f o l i k ˈaː 
+*#suffolekˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#sufolekˈaː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#suflekˈaː# | 149 : [+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
+*#suflekˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#suflekˈa#
+Common Romanian stage form : *#suflekˈa#
+Old Romanian stage form : *#suflekˈa#
+Final form : *#suflekˈa#

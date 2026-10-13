@@ -1,22 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 411:
-#pˈereoː# >>> *#pˈer# ( GOLD : #pjˈer#) :
-p ˈe r e oː 
-*#pˈerjoː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#pˈɛrjoː# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛrjo# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pˈɛrjo#
-*#pˈɛɾjo# | 169 : r > ɾ / __ [nnas,ncons]
-*#pjˈɛɾjo# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈeɾjo# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈeɾju# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#pjˈeɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pjˈeɾʲu# | 207 : j > ∅ / [+cons,+front] __
-*#pjˈejɾu# | 231 : ɾʲ > j ɾ 
-Common Romanian stage form : *#pjˈejɾu#
-*#pˈejɾu# | 257 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
-*#pˈejru# | 264 : ɾ > r 
-*#pˈejrw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pˈejr# | 280 : w̥ > ∅ / [-syl] __ #
-*#pˈer# | 288 : j > ∅ / __ r
-Old Romanian stage form : *#pˈer#
-Final form : *#pˈer#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 411:
+#ˌokkˈiːde# >>> *#ut͡ʃˈide# ( GOLD : #ut͡ʃˈide#) :
+ˌo k k ˈiː d e 
+*#okkˈiːde# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#okˈiːde# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#okʲˈiːde# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#okʲˈide# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#okʲˈide#
+*#ukʲˈide# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ukʲjˈide# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#ukʲˈide# | 207 : j > ∅ / [+cons,+front] __
+*#uc͡ɕˈide# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ut͡ʃˈide# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ut͡ʃˈide#
+Old Romanian stage form : *#ut͡ʃˈide#
+Final form : *#ut͡ʃˈide#

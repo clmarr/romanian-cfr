@@ -1,13 +1,26 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1266:
-#spˈatʰam# >>> *#spˈatə# ( GOLD : #spˈatə#) :
-s p ˈa tʰ a m 
-*#spˈatam# | 23 : [+cons,+sg] > [-sg] 
-*#spˈata# | 45 : m > ∅ / [-stres] __ #
-*#ispˈata# | 110 : ∅ > i / # __ s [+cons,-son]
-*#espˈata# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#spˈata# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spˈata#
-*#spˈatə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#spˈatə#
-Old Romanian stage form : *#spˈatə#
-Final form : *#spˈatə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1266:
+#retˈella# >>> *#rət͡se̯ˈa# ( GOLD : #ret͡se̯ˈa#) :
+r e t ˈe l l a  
+*#retˈɛlla# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#retˈɛlla#
+*#ɾetˈɛlla# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾetˈɛlla# | 170 : ∅ > r / # __ ɾ
+*#rɾetjˈɛlla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#rɾetjˈella# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#rɾetjˈɛlla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#rɾetjˈɛwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#rɾetʲjˈɛwa# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rɾetʲˈɛwa# | 207 : j > ∅ / [+cons,+front] __
+*#rɾetʲˈɛawa# | 214 : ∅ > a / [-tense] __
+*#rɾetʲˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#rɾetʲe̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#rɾetʲe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#rɾetʲe̯ˈaw# | 226 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#rɾetʲe̯ˈa# | 227 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+*#rɾet͡sʲe̯ˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rɾet͡se̯ˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾet͡se̯ˈa#
+*#ret͡se̯ˈa# | 243 : {ɾ;r} > {∅;∅} / r __
+*#rət͡se̯ˈa# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Old Romanian stage form : *#rət͡se̯ˈa#
+Final form : *#rət͡se̯ˈa#

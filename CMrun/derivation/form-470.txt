@@ -1,15 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 470:
-#plakˈentam# >>> *#plət͡ʃˈintə# ( GOLD : #plət͡ʃˈintə#) :
-p l a k ˈe n t a m 
-*#plakˈenta# | 45 : m > ∅ / [-stres] __ #
-*#plakˈɛnta# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#plakʲˈɛnta# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#plakʲˈɛnta#
-*#plakʲˈenta# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#pləkʲˈentə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pləc͡ɕˈentə# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#plət͡ʃˈentə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#plət͡ʃˈentə#
-*#plət͡ʃˈintə# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#plət͡ʃˈintə#
-Final form : *#plət͡ʃˈintə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 470:
+#piːnsˈaːtum# >>> *#pisˈat# ( GOLD : #pəsˈat#) :
+p iː n s ˈaː t u m 
+*#piːnsˈaːtu# | 45 : m > ∅ / [-stres] __ #
+*#piːsˈaːtu# | 92 : [+syl] n > [+long] ∅/ # ( ( @ )* [-cons] ) [+cons] __ [-son,+cont]
+*#pisˈatu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pisˈatu#
+Common Romanian stage form : *#pisˈatu#
+*#pisˈatw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pisˈat# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pisˈat#
+Final form : *#pisˈat#

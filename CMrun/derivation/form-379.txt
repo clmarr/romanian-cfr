@@ -1,11 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 379:
-#mˈentem# >>> *#mˈinte# ( GOLD : #mˈinte#) :
-m ˈe n t e m 
-*#mˈente# | 45 : m > ∅ / [-stres] __ #
-*#mˈɛnte# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#mˈɛnte#
-*#mˈente# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#mˈente#
-*#mˈinte# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#mˈinte#
-Final form : *#mˈinte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 379:
+#juːdikˈaː# >>> *#ʒudekˈa# ( GOLD : #ʒudekˈa#) :
+j uː d i k ˈaː 
+*#djuːdikˈaː# | 94 : j > d j / # __ [+syl] [+cons]
+*#djuːdekˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#dʲuːdekˈaː# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲuːdekˈaː# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲudekˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɡʲudekˈa#
+*#ɟ͡ʑudekˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒudekˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒudekˈa#
+*#ʒudekˈa# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ʒudekˈa#
+Final form : *#ʒudekˈa#

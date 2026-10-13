@@ -1,15 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 892:
-#mˈuːtulam# >>> *#mˈukje# ( GOLD : #mˈukje#) :
-m ˈuː t u l a m 
-*#mˈuːtula# | 45 : m > ∅ / [-stres] __ #
-*#mˈuːtla# | 54 : [+syl,+hi,-long,-stres] > ∅ / [+syl] ( s ) [+cons,-cont,+cor] __ l ( [-cons,-syl] ) [+syl]
-*#mˈuːkla# | 70 : t > k / __ l
-*#mˈukla# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mˈukla#
-*#mˈuklə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#mˈukʎə# | 228 : l > ʎ / [-cont,-ant,-cor] __
-*#mˈukʎe# | 229 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#mˈukʎe#
-*#mˈukje# | 268 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#mˈukje#
-Final form : *#mˈukje#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 892:
+#mˈuːkkidum# >>> *#mˈut͡ʃed# ( GOLD : #mˈut͡ʃed#) :
+m ˈuː k k i d u m 
+*#mˈuːkkidu# | 45 : m > ∅ / [-stres] __ #
+*#mˈuːkkedu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#mˈuːkedu# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#mˈuːkʲedu# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#mˈukʲedu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mˈukʲedu#
+*#mˈuc͡ɕedu# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mˈut͡ʃedu# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mˈut͡ʃedu#
+*#mˈut͡ʃedw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mˈut͡ʃed# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mˈut͡ʃed#
+Final form : *#mˈut͡ʃed#

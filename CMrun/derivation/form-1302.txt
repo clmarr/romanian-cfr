@@ -1,16 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1302:
-#fˈorfikem# >>> *#fo̯ˈarfet͡ʃe# ( GOLD : #fo̯ˈarfet͡ʃe#) :
-f ˈo r f i k e m 
-*#fˈorfike# | 45 : m > ∅ / [-stres] __ #
-*#fˈorfeke# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#fˈorfekʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#fˈorfekʲe#
-*#fˈɔrfekʲe# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#fˈɔarfekʲe# | 214 : ∅ > a / [-tense] __
-*#fˈoˈarfekʲe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fo̯ˈarfekʲe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#fo̯ˈarfec͡ɕe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fo̯ˈarfet͡ʃe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fo̯ˈarfet͡ʃe#
-Old Romanian stage form : *#fo̯ˈarfet͡ʃe#
-Final form : *#fo̯ˈarfet͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1302:
+#frˌimbˈiːa# >>> *#frimbˈie# ( GOLD : #frɨmbˈie#) :
+f r ˌi m b ˈiː a 
+*#frimbˈiːa# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#frembˈiːa# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#frembˈia# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#frembˈia#
+*#fɾembˈia# | 169 : r > ɾ / __ [nnas,ncons]
+*#fɾembˈiə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fɾembˈiə#
+*#fɾimbˈiə# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#frimbˈiə# | 264 : ɾ > r 
+*#frimbˈie# | 275 : ə > e / [+front,+hi] __ #
+Old Romanian stage form : *#frimbˈie#
+Final form : *#frimbˈie#

@@ -1,10 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 966:
-#serwˈaː# >>> *#serbˈa# ( GOLD : #serbˈa#) :
-s e r w ˈaː 
-*#serβˈaː# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#serbˈaː# | 144 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-*#serbˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#serbˈa#
-Common Romanian stage form : *#serbˈa#
-Old Romanian stage form : *#serbˈa#
-Final form : *#serbˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 966:
+#pˈaskʰae̯# >>> *#pˈaʃte# ( GOLD : #pˈaʃte#) :
+p ˈa s kʰ a e̯ 
+*#pˈaskʰaj# | 20 : e̯ > j 
+*#pˈaskaj# | 23 : [+cons,+sg] > [-sg] 
+*#pˈaskɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#pˈaskʲɛː# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#pˈaskʲɛ# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈaskʲɛ#
+*#pˈaskʲe# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˈaʃte# | 232 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#pˈaʃte#
+Old Romanian stage form : *#pˈaʃte#
+Final form : *#pˈaʃte#

@@ -1,16 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 410:
-#ˌokkˈiːde# >>> *#ut͡ʃˈide# ( GOLD : #ut͡ʃˈide#) :
-ˌo k k ˈiː d e 
-*#okkˈiːde# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#okˈiːde# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#okʲˈiːde# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#okʲˈide# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#okʲˈide#
-*#ukʲˈide# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ukʲjˈide# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ukʲˈide# | 207 : j > ∅ / [+cons,+front] __
-*#uc͡ɕˈide# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ut͡ʃˈide# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ut͡ʃˈide#
-Old Romanian stage form : *#ut͡ʃˈide#
-Final form : *#ut͡ʃˈide#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 410:
+#mˈortum# >>> *#mˈort# ( GOLD : #mˈort#) :
+m ˈo r t u m 
+*#mˈortu# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#mˈortu#
+Common Romanian stage form : *#mˈortu#
+*#mˈortw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mˈort# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mˈort#
+Final form : *#mˈort#

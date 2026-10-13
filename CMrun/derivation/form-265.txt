@@ -1,13 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 265:
-#mˌedˈullam# >>> *#mədˈuvə# ( GOLD : #mədˈuvə#) :
-m ˌe d ˈu l l a m 
-*#medˈullam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#medˈulla# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#medˈulla#
-*#medˈuwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#medˈuva# | 224 : [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
-*#medˈuvə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#medˈuvə#
-*#mədˈuvə# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-Old Romanian stage form : *#mədˈuvə#
-Final form : *#mədˈuvə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 265:
+#kˈarnem# >>> *#kˈarne# ( GOLD : #kˈarne#) :
+k ˈa r n e m 
+*#kˈarne# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#kˈarne#
+*#kˈaɾne# | 169 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#kˈaɾne#
+*#kˈarne# | 264 : ɾ > r 
+Old Romanian stage form : *#kˈarne#
+Final form : *#kˈarne#

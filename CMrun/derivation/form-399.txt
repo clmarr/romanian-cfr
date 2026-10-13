@@ -1,19 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 399:
-#ɡˈeme# >>> *#d͡ʒˈeme# ( GOLD : #d͡ʒˈeme#) :
-ɡ ˈe m e 
-*#ɡˈɛme# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡʲˈɛme# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#ɡʲˈɛme#
-*#ɡʲjˈɛme# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#ɡʲjˈeme# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡʲjˈɛme# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
-*#ɡʲˈɛme# | 207 : j > ∅ / [+cons,+front] __
-*#ɡʲˈɛame# | 214 : ∅ > a / [-tense] __
-*#ɡʲˈeˈame# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɡʲe̯ˈame# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ɟ͡ʑe̯ˈame# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒe̯ˈame# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒe̯ˈame#
-*#d͡ʒˈeme# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#d͡ʒˈeme#
-Final form : *#d͡ʒˈeme#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 399:
+#fˈebrim# >>> *#fjˈorj# ( GOLD : #fjˈorj#) :
+f ˈe b r i m 
+*#fˈebri# | 45 : m > ∅ / [-stres] __ #
+*#fˈɛbri# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɛbriː# | 123 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#fˈɛβriː# | 125 : b > β / [-cons] __ [+cont]
+*#fˈɛwriː# | 144 : β > w / __ [+son,+cons]
+*#fˈɛwri# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈɛwri#
+*#fˈɛwɾi# | 169 : r > ɾ / __ [nnas,ncons]
+*#fjˈɛwɾi# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#fjˈewɾi# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#fjˈowɾi# | 182 : [+syl] > [+round,+lab,-front,+back] / [+front] __ w
+*#fjˈoɾi# | 183 : w > ∅ / __ ɾ [+front,-lo]
+Common Romanian stage form : *#fjˈoɾi#
+*#fjˈori# | 264 : ɾ > r 
+*#fjˈorj̊# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fjˈorj# | 281 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#fjˈorj#
+Final form : *#fjˈorj#

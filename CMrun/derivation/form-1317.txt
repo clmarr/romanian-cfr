@@ -1,19 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1317:
-#prehˈende# >>> *#prˈinde# ( GOLD : #prˈinde#) :
-p r e h ˈe n d e 
-*#preˈende# | 41 : [-son,-cons] > ∅ 
-*#priˈende# | 117 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#prjˈende# | 122 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#prjˈɛnde# | 123 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#prjˈɛnde#
-*#pɾjˈɛnde# | 169 : r > ɾ / __ [nnas,ncons]
-*#pɾjˈende# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#pɾʲjˈende# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pɾʲˈende# | 207 : j > ∅ / [+cons,+front] __
-*#pjɾˈende# | 231 : ɾʲ > j ɾ 
-Common Romanian stage form : *#pjɾˈende#
-*#pjɾˈinde# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#pjrˈinde# | 264 : ɾ > r 
-*#prˈinde# | 288 : j > ∅ / __ r
-Old Romanian stage form : *#prˈinde#
-Final form : *#prˈinde#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1317:
+#striɡˈaː# >>> *#striɡˈa# ( GOLD : #striɡˈa#) :
+s t r i ɡ ˈaː 
+*#istriɡˈaː# | 109 : ∅ > i / # __ s [+cons,-son]
+*#estreɡˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#estreɡˈa# | 160 : [+syl] > [-long,-splng] 
+*#streɡˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#streɡˈa#
+*#stɾeɡˈa# | 169 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#stɾeɡˈa#
+*#streɡˈa# | 264 : ɾ > r 
+*#striɡˈa# | 291 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+Old Romanian stage form : *#striɡˈa#
+Final form : *#striɡˈa#

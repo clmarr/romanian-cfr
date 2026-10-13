@@ -1,27 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 961:
-#kwadraːɡˈeːsimiː# >>> *#pərˈesimj# ( GOLD : #pərˈesimj#) :
-k w a d r aː ɡ ˈeː s i m iː 
-*#kwarraːɡˈeːsimiː# | 38 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-*#kβarraːɡˈeːsimiː# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#parraːɡˈeːsimiː# | 108 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
-*#parraːˈeːsimiː# | 112 : ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
-*#parraːˈeːsemiː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#parraːjˈeːsemiː# | 156 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
-*#parrajˈesemi# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#parrajˈesemi#
-*#parɾajˈesemi# | 169 : r > ɾ / __ [nnas,ncons]
-*#parɾajˈɛsemi# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#parɾajˈɛasemi# | 214 : ∅ > a / [-tense] __
-*#parɾajˈeˈasemi# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#parɾaje̯ˈasemi# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pərɾəje̯ˈasemi# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pərɾəje̯ˈasemi#
-*#pərəje̯ˈasemi# | 243 : {ɾ;r} > {∅;∅} / r __
-*#pərəjˈesemi# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pərəˈesemi# | 257 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front,-lo]
-*#pərəˈesemj̊# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pərəˈesemj# | 281 : {w̥;j̊} > {w;j} 
-*#pərəˈesimj# | 289 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-*#pərˈesimj# | 314 : ə > ∅ / __ [-cons,-hi]
-Old Romanian stage form : *#pərˈesimj#
-Final form : *#pərˈesimj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 961:
+#pekkˈaːtum# >>> *#pəkˈat# ( GOLD : #pəkˈat#) :
+p e k k ˈaː t u m 
+*#pekkˈaːtu# | 45 : m > ∅ / [-stres] __ #
+*#pekˈaːtu# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#pekˈatu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pekˈatu#
+Common Romanian stage form : *#pekˈatu#
+*#pəkˈatu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#pəkˈatw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəkˈat# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pəkˈat#
+Final form : *#pəkˈat#

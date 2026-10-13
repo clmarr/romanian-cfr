@@ -1,12 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 969:
-#inkantˈaː# >>> *#ɨnkɨntˈa# ( GOLD : #ɨnkɨntˈa#) :
-i n k a n t ˈaː 
-*#enkantˈaː# | 127 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkantˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkantˈa#
-*#ankantˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənkəntˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənkəntˈa#
-*#ɨnkɨntˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnkɨntˈa#
-Final form : *#ɨnkɨntˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 969:
+#monumˈentum# >>> *#monmˈɨnt# ( GOLD : #mormˈɨnt#) :
+m o n u m ˈe n t u m 
+*#monumˈentu# | 45 : m > ∅ / [-stres] __ #
+*#monmˈentu# | 58 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
+*#monmˈɛntu# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#monmˈɛntu#
+*#monmˈentu# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#monmˈentu#
+*#monmˈəntu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#monmˈɨntu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#monmˈɨntw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#monmˈɨnt# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#monmˈɨnt#
+Final form : *#monmˈɨnt#

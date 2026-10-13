@@ -1,14 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 10:
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 10:
 #ˌadiˈuːtoː# >>> *#aʒˈut# ( GOLD : #aʒˈut#) :
 ˌa d i ˈuː t oː 
 *#ˌadjˈuːtoː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
 *#adjˈuːtoː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ajˈuːtoː# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adjˈuːtoː# | 96 : j > d j / [+syl,-stres] __ [+syl,+round]
-*#addjˈuːtoː# | 125 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#addʲˈuːtoː# | 131 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#adɡʲˈuːtoː# | 134 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#aɡʲˈuːtoː# | 149 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#adjˈuːtoː# | 95 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#addjˈuːtoː# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#addʲˈuːtoː# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#adɡʲˈuːtoː# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#aɡʲˈuːtoː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 *#aɡʲˈuto# | 160 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#aɡʲˈuto#
 *#aɡʲˈutu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #

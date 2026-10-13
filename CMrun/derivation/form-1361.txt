@@ -1,22 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1361:
-#mulˈierem# >>> *#mujˈere# ( GOLD : #mujˈere#) :
-m u l ˈi e r e m 
-*#mulˈiere# | 45 : m > ∅ / [-stres] __ #
-*#muliˈeːre# | 116 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#muljˈeːre# | 122 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#muljˈere# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#muljˈere#
-*#muljˈeɾe# | 169 : r > ɾ / __ [nnas,ncons]
-*#muljˈɛɾe# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mulʲjˈɛɾe# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mulʲˈɛɾe# | 207 : j > ∅ / [+cons,+front] __
-*#muʎˈɛɾe# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#muʎˈɛaɾe# | 214 : ∅ > a / [-tense] __
-*#muʎˈeˈaɾe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#muʎe̯ˈaɾe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#muʎe̯ˈaɾe#
-*#muʎˈeɾe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#muʎˈere# | 264 : ɾ > r 
-*#mujˈere# | 268 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#mujˈere#
-Final form : *#mujˈere#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1361:
+#ˌintreɡwˈaː# >>> *#ɨntre̯ˈa# ( GOLD : #ɨntrebˈa#) :
+ˌi n t r e ɡ w ˈaː 
+*#intreɡwˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#intreɡβˈaː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#intrebˈaː# | 107 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
+*#intreβˈaː# | 125 : b > β / [-cons] __ [+cont]
+*#entreβˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#entreˈaː# | 147 : β > ∅ 
+*#entreˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#entreˈa#
+*#entɾeˈa# | 169 : r > ɾ / __ [nnas,ncons]
+*#antɾeˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#antɾe̯ˈa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#əntɾe̯ˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əntɾe̯ˈa#
+*#əntre̯ˈa# | 264 : ɾ > r 
+*#ɨntre̯ˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨntre̯ˈa#
+Final form : *#ɨntre̯ˈa#
