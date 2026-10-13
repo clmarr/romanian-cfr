@@ -1,9 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1023:
-#dˌeːpˈarte# >>> *#depˈarte# ( GOLD : #depˈarte#) :
-d ˌeː p ˈa r t e 
-*#deːpˈarte# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#depˈarte# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#depˈarte#
-Common Romanian stage form : *#depˈarte#
-Old Romanian stage form : *#depˈarte#
-Final form : *#depˈarte#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1023:
+#ˌekkehˈikke# >>> *#at͡ʃˈit͡ʃe# ( GOLD : #at͡ʃˈit͡ʃe#) :
+ˌe k k e h ˈi k k e 
+*#ekkehˈikke# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#akkehˈikke# | 36 : e > a / # __ k k
+*#akkeˈikke# | 41 : [-son,-cons] > ∅ 
+*#akkiˈikke# | 116 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+*#akkˈikke# | 119 : [+syl,αhi,βlo,ɣfront,ðback] > ∅ / __ [+syl,αhi,βlo,ɣfront,ðback]
+*#akkˈekke# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#akkˈikke# | 127 : [+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
+*#akˈike# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#akʲˈikʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#akʲˈikʲe#
+*#akʲjˈikʲe# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#akʲˈikʲe# | 207 : j > ∅ / [+cons,+front] __
+*#ac͡ɕˈic͡ɕe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#at͡ʃˈit͡ʃe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#at͡ʃˈit͡ʃe#
+Old Romanian stage form : *#at͡ʃˈit͡ʃe#
+Final form : *#at͡ʃˈit͡ʃe#

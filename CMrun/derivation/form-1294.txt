@@ -1,21 +1,25 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1294:
-#oːllˈaːrium# >>> *#olˈar# ( GOLD : #olˈar#) :
-oː l l ˈaː r i u m 
-*#oːllˈaːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#oːllˈaːrju# | 45 : m > ∅ / [-stres] __ #
-*#ollˈarju# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ollˈarju#
-*#ollˈaɾju# | 169 : r > ɾ / __ [nnas,ncons]
-*#ullˈaɾju# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ulˈaɾju# | 205 : {l l;m m} > {l;m} 
-*#ulˈaɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ulˈaɾʲu# | 207 : j > ∅ / [+cons,+front] __
-*#ulˈajɾu# | 231 : ɾʲ > j ɾ 
-Common Romanian stage form : *#ulˈajɾu#
-*#olˈajɾu# | 248 : u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
-*#olˈajru# | 264 : ɾ > r 
-*#olˈajrw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#olˈajr# | 280 : w̥ > ∅ / [-syl] __ #
-*#olˈar# | 288 : j > ∅ / __ r
-Old Romanian stage form : *#olˈar#
-Final form : *#olˈar#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1294:
+#oːllikˈellam# >>> *#ult͡ʃe̯ˈa# ( GOLD : #ult͡ʃe̯ˈa#) :
+oː l l i k ˈe l l a m 
+*#oːllikˈella# | 45 : m > ∅ / [-stres] __ #
+*#oːllkˈella# | 62 : [+syl,+hi,-long,-stres] > ∅ / [+syl] l l __ [-cont,+back] [+syl,-lo]
+*#oːllkˈɛlla# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#oːllkʲˈɛlla# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#ollkʲˈɛlla# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ollkʲˈɛlla#
+*#ollkʲˈella# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ullkʲˈella# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ullkʲˈɛlla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ullkʲˈɛwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#ulkʲˈɛwa# | 205 : {l l;m m} > {l;m} 
+*#ulkʲˈɛawa# | 214 : ∅ > a / [-tense] __
+*#ulkʲˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ulkʲe̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ulkʲe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ulkʲe̯ˈaw# | 226 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#ulkʲe̯ˈa# | 227 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+*#ulc͡ɕe̯ˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ult͡ʃe̯ˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ult͡ʃe̯ˈa#
+Old Romanian stage form : *#ult͡ʃe̯ˈa#
+Final form : *#ult͡ʃe̯ˈa#

@@ -1,19 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 392:
-#wˌirtuˈoːsum# >>> *#vɨrtˈos# ( GOLD : #vɨrtˈos#) :
-w ˌi r t u ˈoː s u m 
-*#wˌirtwˈoːsum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wirtwˈoːsum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wirtwˈoːsu# | 45 : m > ∅ / [-stres] __ #
-*#βirtβˈoːsu# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#βertβˈoːsu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#vertβˈoːsu# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#vertˈoːsu# | 147 : β > ∅ 
-*#vertˈosu# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#vertˈosu#
-Common Romanian stage form : *#vertˈosu#
-*#vərtˈosu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#vɨrtˈosu# | 272 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
-*#vɨrtˈosw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vɨrtˈos# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vɨrtˈos#
-Final form : *#vɨrtˈos#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 392:
+#sˈaːnum# >>> ... ( GOLD : ...) :
+s ˈaː n u m 
+*#sˈaːnu# | 45 : m > ∅ / [-stres] __ #
+*#sˈanu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sˈanu#
+*#sˈənu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#sˈənu#
+*#sˈɨnu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#sˈɨnw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈɨn# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sˈɨn#
+Final form : ...

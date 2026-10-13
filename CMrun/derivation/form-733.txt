@@ -1,24 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 733:
-#rhˌonkidiˈaː# >>> *#runkezˈa# ( GOLD : #rɨnkezˈa#) :
-r h ˌo n k i d i ˈaː 
-*#rhˌonkidjˈaː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#rhonkidjˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ronkidjˈaː# | 41 : [-son,-cons] > ∅ 
-*#ronkiddjˈaː# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ronkeddjˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#ronkeddʲˈaː# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ronkedʲˈaː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ronkʲedʲˈaː# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#ronkʲedʲˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ronkʲedʲˈa#
-*#ɾonkʲedʲˈa# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾonkʲedʲˈa# | 170 : ∅ > r / # __ ɾ
-*#rɾunkʲedʲˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#rɾunkedʲˈa# | 210 : [+back,+front] [+syl] > [-front] [-hi]/ [+cor,+son] [+syl] ( n ) __ ( [+voi,-syl] ) [+prim,-round,-hi]
-*#rɾunked͡zʲˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾunked͡zˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾunked͡zˈa#
-*#runked͡zˈa# | 243 : {ɾ;r} > {∅;∅} / r __
-*#runkezˈa# | 273 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#runkezˈa#
-Final form : *#runkezˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 733:
+#rˈaɡe# >>> *#rˈad͡ʒe# ( GOLD : #rˈad͡ʒe#) :
+r ˈa ɡ e 
+*#rˈaɡʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#rˈaɡʲe#
+*#ɾˈaɡʲe# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾˈaɡʲe# | 170 : ∅ > r / # __ ɾ
+*#rɾˈaɟ͡ʑe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rɾˈad͡ʒe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rɾˈad͡ʒe#
+*#rˈad͡ʒe# | 243 : {ɾ;r} > {∅;∅} / r __
+Old Romanian stage form : *#rˈad͡ʒe#
+Final form : *#rˈad͡ʒe#

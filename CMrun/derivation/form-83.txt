@@ -1,24 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 83:
-#bˌaptidiˈoːnem# >>> *#boteʒˈune# ( GOLD : #boteʒˈune#) :
-b ˌa p t i d i ˈoː n e m 
-*#bˌaptidjˈoːnem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#baptidjˈoːnem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#baptidjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#boptidjˈoːne# | 88 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
-*#botidjˈoːne# | 90 : p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
-*#botiddjˈoːne# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#boteddjˈoːne# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#boteddʲˈoːne# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#botedɡʲˈoːne# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#boteɡʲˈoːne# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#boteɡʲˈone# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#boteɡʲˈone#
-*#buteɡʲˈone# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#buteɡʲˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#buteɟ͡ʑˈune# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#buted͡ʒˈune# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#buted͡ʒˈune#
-*#boted͡ʒˈune# | 248 : u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
-*#boteʒˈune# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#boteʒˈune#
-Final form : *#boteʒˈune#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 83:
+#ˌaːrsˈuːram# >>> *#arsˈurə# ( GOLD : #arsˈurə#) :
+ˌaː r s ˈuː r a m 
+*#aːrsˈuːram# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#aːrsˈuːra# | 45 : m > ∅ / [-stres] __ #
+*#arsˈura# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#arsˈura#
+*#arsˈuɾa# | 169 : r > ɾ / __ [nnas,ncons]
+*#arsˈuɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#arsˈuɾə#
+*#arsˈurə# | 264 : ɾ > r 
+Old Romanian stage form : *#arsˈurə#
+Final form : *#arsˈurə#

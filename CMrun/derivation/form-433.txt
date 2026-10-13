@@ -1,19 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 433:
-#aːnˈellum# >>> *#inˈel# ( GOLD : #inˈel#) :
-aː n ˈe l l u m 
-*#aːnˈellu# | 45 : m > ∅ / [-stres] __ #
-*#aːnˈɛllu# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#anˈɛllu# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#anˈɛllu#
-*#inˈɛllu# | 175 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
-*#injˈɛllu# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#injˈellu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#injˈelu# | 205 : {l l;m m} > {l;m} 
-*#inʲjˈelu# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#inʲˈelu# | 207 : j > ∅ / [+cons,+front] __
-*#inˈelu# | 208 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front,-lo] [-nas]
-Common Romanian stage form : *#inˈelu#
-*#inˈelw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#inˈel# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#inˈel#
-Final form : *#inˈel#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 433:
+#westiːmˈentum# >>> *#beʃtimˈɨnt# ( GOLD : #veʃmˈɨnt#) :
+w e s t iː m ˈe n t u m 
+*#westiːmˈentu# | 45 : m > ∅ / [-stres] __ #
+*#βestiːmˈentu# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#βestiːmˈɛntu# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bestiːmˈɛntu# | 135 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
+*#bestimˈɛntu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#bestimˈɛntu#
+*#bestimˈentu# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#bestjimˈentu# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#bestʲjimˈentu# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#bestʲimˈentu# | 207 : j > ∅ / [+cons,+front] __
+*#beʃtimˈentu# | 232 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#beʃtimˈentu#
+*#beʃtimˈəntu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#beʃtimˈɨntu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#beʃtimˈɨntw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#beʃtimˈɨnt# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#beʃtimˈɨnt#
+Final form : *#beʃtimˈɨnt#

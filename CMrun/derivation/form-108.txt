@@ -1,13 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 108:
-#kˌomminikˈaː# >>> *#kuminekˈa# ( GOLD : #kuminekˈa#) :
-k ˌo m m i n i k ˈaː 
-*#komminikˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kommenekˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#kommenekˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kommenekˈa#
-*#kummenekˈa# | 185 : o > u / __ [+lab,+cont,+cons]
-*#kumenekˈa# | 205 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#kumenekˈa#
-*#kuminekˈa# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#kuminekˈa#
-Final form : *#kuminekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 108:
+#kˌoɡnˈaːtum# >>> *#kumnˈat# ( GOLD : #kumnˈat#) :
+k ˌo ɡ n ˈaː t u m 
+*#kˌoŋnˈaːtum# | 21 : ɡ > ŋ / __ n
+*#koŋnˈaːtum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#koŋnˈaːtu# | 45 : m > ∅ / [-stres] __ #
+*#komnˈaːtu# | 103 : ŋ > m / __ n
+*#komnˈatu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#komnˈatu#
+*#kumnˈatu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#kumnˈatu#
+*#kumnˈatw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kumnˈat# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kumnˈat#
+Final form : *#kumnˈat#

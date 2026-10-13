@@ -1,16 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1142:
-#ˌinkirkˈaː# >>> *#ɨnt͡ʃerkˈa# ( GOLD : #ɨnt͡ʃerkˈa#) :
-ˌi n k i r k ˈaː 
-*#inkirkˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enkerkˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkʲerkˈaː# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#enkʲerkˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkʲerkˈa#
-*#ankʲerkˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənkʲerkˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənc͡ɕerkˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənt͡ʃerkˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənt͡ʃerkˈa#
-*#ɨnt͡ʃerkˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnt͡ʃerkˈa#
-Final form : *#ɨnt͡ʃerkˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1142:
+#ˌinklaːwiˈaː# >>> *#ɨnkjejˈa# ( GOLD : #ɨnkjejˈa#) :
+ˌi n k l aː w i ˈaː 
+*#ˌinklaːwjˈaː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#inklaːwjˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inklaːβjˈaː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#enklaːβjˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#enklaːjˈaː# | 147 : β > ∅ 
+*#enklajˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enklajˈa#
+*#anklajˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənklajˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənkləjˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ənkʎəjˈa# | 228 : l > ʎ / [-cont,-ant,-cor] __
+*#ənkʎejˈa# | 229 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#ənkʎejˈa#
+*#ɨnkʎejˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnkjejˈa# | 268 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#ɨnkjejˈa#
+Final form : *#ɨnkjejˈa#

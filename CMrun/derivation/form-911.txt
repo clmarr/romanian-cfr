@@ -1,17 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 911:
-#wˌiskˈoːsum# >>> *#vɨskˈos# ( GOLD : #vɨskˈos#) :
-w ˌi s k ˈoː s u m 
-*#wiskˈoːsum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wiskˈoːsu# | 45 : m > ∅ / [-stres] __ #
-*#βiskˈoːsu# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#βeskˈoːsu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#veskˈoːsu# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#veskˈosu# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#veskˈosu#
-Common Romanian stage form : *#veskˈosu#
-*#vəskˈosu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#vɨskˈosu# | 246 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
-*#vɨskˈosw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vɨskˈos# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vɨskˈos#
-Final form : *#vɨskˈos#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 911:
+#kolˈostram# >>> *#kuro̯ˈastrə# ( GOLD : #korˈastrə#) :
+k o l ˈo s t r a m 
+*#kolˈostra# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#kolˈostra#
+*#kolˈostɾa# | 169 : r > ɾ / __ [nnas,ncons]
+*#kulˈostɾa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kuɾˈostɾa# | 189 : l > ɾ / [+syl] __ [+syl]
+*#kuɾˈɔstɾa# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kuɾˈɔastɾa# | 214 : ∅ > a / [-tense] __
+*#kuɾˈoˈastɾa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kuɾo̯ˈastɾa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kuɾo̯ˈastɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kuɾo̯ˈastɾə#
+*#kuro̯ˈastrə# | 264 : ɾ > r 
+Old Romanian stage form : *#kuro̯ˈastrə#
+Final form : *#kuro̯ˈastrə#

@@ -1,25 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 102:
-#kˌeːrasiˈaːrium# >>> *#t͡ʃirəʃˈar# ( GOLD : #t͡ʃireʃˈar#) :
-k ˌeː r a s i ˈaː r i u m 
-*#kˌeːrasjˈaːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#keːrasjˈaːrjum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#keːrasjˈaːrju# | 45 : m > ∅ / [-stres] __ #
-*#kʲeːrasjˈaːrju# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#kʲerasjˈarju# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kʲerasjˈarju#
-*#kʲeɾasjˈaɾju# | 169 : r > ɾ / __ [nnas,ncons]
-*#kʲeɾasʲjˈaɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kʲeɾasʲˈaɾʲu# | 207 : j > ∅ / [+cons,+front] __
-*#kʲeɾaɕˈaɾʲu# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#kʲeɾəɕˈaɾʲu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kʲeɾəɕˈajɾu# | 231 : ɾʲ > j ɾ 
-*#c͡ɕeɾəɕˈajɾu# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃeɾəʃˈajɾu# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃeɾəʃˈajɾu#
-*#t͡ʃerəʃˈajru# | 264 : ɾ > r 
-*#t͡ʃerəʃˈajrw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#t͡ʃerəʃˈajr# | 280 : w̥ > ∅ / [-syl] __ #
-*#t͡ʃerəʃˈar# | 288 : j > ∅ / __ r
-*#t͡ʃirəʃˈar# | 306 : e > i / # t͡ʃ __ r [-cons]
-Old Romanian stage form : *#t͡ʃirəʃˈar#
-Final form : *#t͡ʃirəʃˈar#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 102:
+#kˈawulam# >>> *#ɡˈawrə# ( GOLD : #ɡˈawrə#) :
+k ˈa w u l a m 
+*#kˈawula# | 45 : m > ∅ / [-stres] __ #
+*#kˈaβula# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#kˈaula# | 147 : β > ∅ 
+*#ɡˈaula# | 150 : k > ɡ / # ( ( e ) s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
+Balkan Romance stage form : *#ɡˈaula#
+*#ɡˈauɾa# | 189 : l > ɾ / [+syl] __ [+syl]
+*#ɡˈawɾa# | 190 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+*#ɡˈawɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ɡˈawɾə#
+*#ɡˈawrə# | 264 : ɾ > r 
+Old Romanian stage form : *#ɡˈawrə#
+Final form : *#ɡˈawrə#

@@ -1,21 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 168:
-#pˈerɡulam# >>> *#pjˈerɡje# ( GOLD : #pˈɨrɡje#) :
-p ˈe r ɡ u l a m 
-*#pˈerɡula# | 45 : m > ∅ / [-stres] __ #
-*#pˈerɡla# | 56 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#pˈɛrɡla# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#pˈɛrɡla#
-*#pjˈɛrɡla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈerɡla# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛrɡla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛarɡla# | 214 : ∅ > a / [-tense] __
-*#pjˈeˈarɡla# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈarɡla# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pje̯ˈarɡlə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pje̯ˈarɡʎə# | 228 : l > ʎ / [-cont,-ant,-cor] __
-*#pje̯ˈarɡʎe# | 229 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#pje̯ˈarɡʎe#
-*#pjˈerɡʎe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pjˈerɡje# | 268 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#pjˈerɡje#
-Final form : *#pjˈerɡje#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 168:
+#pˌaːwˈoːnem# >>> *#pəˈun# ( GOLD : #pəˈun#) :
+p ˌaː w ˈoː n e m 
+*#paːwˈoːnem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#paːwˈoːne# | 45 : m > ∅ / [-stres] __ #
+*#paːβˈoːne# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#paːˈoːne# | 147 : β > ∅ 
+*#paˈone# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#paˈone#
+*#paˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pəˈune# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pəˈun# | 236 : e > ∅ / [+syl] [+prim] [+cons] __ #
+Common Romanian stage form : *#pəˈun#
+Old Romanian stage form : *#pəˈun#
+Final form : *#pəˈun#

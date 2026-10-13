@@ -1,16 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1240:
-#ˌinfrontˈaː# >>> *#ɨnfruntˈa# ( GOLD : #ɨnfruntˈa#) :
-ˌi n f r o n t ˈaː 
-*#infrontˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enfrontˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#enfrontˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enfrontˈa#
-*#enfɾontˈa# | 169 : r > ɾ / __ [nnas,ncons]
-*#anfɾontˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#anfɾuntˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənfɾuntˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənfɾuntˈa#
-*#ənfruntˈa# | 264 : ɾ > r 
-*#ɨnfruntˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnfruntˈa#
-Final form : *#ɨnfruntˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1240:
+#ˌinwˈinke# >>> *#ɨnvˈint͡ʃe# ( GOLD : #ɨnvˈint͡ʃe#) :
+ˌi n w ˈi n k e 
+*#inwˈinke# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inβˈinke# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#enβˈenke# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#envˈenke# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#envˈenkʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#envˈenkʲe#
+*#anvˈenkʲe# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ənvˈenkʲe# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənvˈenc͡ɕe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ənvˈent͡ʃe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ənvˈent͡ʃe#
+*#ənvˈint͡ʃe# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#ɨnvˈint͡ʃe# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnvˈint͡ʃe#
+Final form : *#ɨnvˈint͡ʃe#

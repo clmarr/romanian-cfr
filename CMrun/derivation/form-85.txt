@@ -1,21 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 85:
-#bˌasˈilikam# >>> *#bisˈerikə# ( GOLD : #bisˈerikə#) :
-b ˌa s ˈi l i k a m 
-*#basˈilikam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#basˈilika# | 45 : m > ∅ / [-stres] __ #
-*#basˈeleka# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#basˈeleka#
-*#basˈeɾeka# | 189 : l > ɾ / [+syl] __ [+syl]
-*#basˈɛɾeka# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#basˈɛaɾeka# | 214 : ∅ > a / [-tense] __
-*#basˈeˈaɾeka# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#base̯ˈaɾeka# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#bəse̯ˈaɾekə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#bəse̯ˈaɾekə#
-*#bəsˈeɾekə# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#bəsˈerekə# | 264 : ɾ > r 
-*#bəsˈerikə# | 289 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-*#besˈerikə# | 292 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo] [-strid]
-*#bisˈerikə# | 294 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Old Romanian stage form : *#bisˈerikə#
-Final form : *#bisˈerikə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 85:
+#bˌaptidiˈaː# >>> *#botezˈa# ( GOLD : #botezˈa#) :
+b ˌa p t i d i ˈaː 
+*#bˌaptidjˈaː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#baptidjˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#boptidjˈaː# | 88 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / [+lab,+voi,+cons] __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
+*#botidjˈaː# | 90 : p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
+*#botiddjˈaː# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#boteddjˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#boteddʲˈaː# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#botedʲˈaː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#botedʲˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#botedʲˈa#
+*#butedʲˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#buted͡zʲˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#buted͡zˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#buted͡zˈa#
+*#boted͡zˈa# | 248 : u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
+*#botezˈa# | 273 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#botezˈa#
+Final form : *#botezˈa#

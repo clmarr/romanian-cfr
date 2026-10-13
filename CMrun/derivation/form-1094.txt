@@ -1,15 +1,10 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1094:
-#ˌinɡannˈaː# >>> *#ɨnɡɨnˈa# ( GOLD : #ɨnɡɨnˈa#) :
-ˌi n ɡ a n n ˈaː 
-*#inɡannˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɡannˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡannˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡannˈa#
-*#anɡannˈa# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənɡannˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənɡənnˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənɡənnˈa#
-*#ənɡənˈa# | 261 : n n > n 
-*#ɨnɡɨnˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnɡɨnˈa#
-Final form : *#ɨnɡɨnˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1094:
+#rˈumpe# >>> *#rˈumpe# ( GOLD : #rˈupe#) :
+r ˈu m p e 
+Balkan Romance stage form : *#rˈumpe#
+*#ɾˈumpe# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾˈumpe# | 170 : ∅ > r / # __ ɾ
+Common Romanian stage form : *#rɾˈumpe#
+*#rˈumpe# | 243 : {ɾ;r} > {∅;∅} / r __
+Old Romanian stage form : *#rˈumpe#
+Final form : *#rˈumpe#

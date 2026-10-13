@@ -1,21 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 195:
-#fˈeːminum# >>> *#fˈamɨn# ( GOLD : ...) :
-f ˈeː m i n u m 
-*#fˈeːminu# | 45 : m > ∅ / [-stres] __ #
-*#fˈeːmenu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#fˈemenu# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fˈemenu#
-*#fˈemanu# | 174 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#fˈɛmanu# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
-*#fˈɛamanu# | 214 : ∅ > a / [-tense] __
-*#fˈeˈamanu# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fe̯ˈamanu# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#fe̯ˈamənu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#fe̯ˈamənu#
-*#fə̯ˈamənu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#fˈamənu# | 242 : ə̯ > ∅ / __ [+syl,+lo]
-*#fˈamɨnu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#fˈamɨnw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fˈamɨn# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fˈamɨn#
-Final form : *#fˈamɨn#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 195:
+#wˈiskum# >>> *#vˈɨsk# ( GOLD : #vˈɨsk#) :
+w ˈi s k u m 
+*#wˈisku# | 45 : m > ∅ / [-stres] __ #
+*#βˈisku# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈesku# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈesku# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈesku#
+Common Romanian stage form : *#vˈesku#
+*#vˈəsku# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vˈɨsku# | 246 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback]
+*#vˈɨskw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vˈɨsk# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈɨsk#
+Final form : *#vˈɨsk#

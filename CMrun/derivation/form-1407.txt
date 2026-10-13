@@ -1,19 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1407:
-#ˈillae̯# >>> *#jˈele# ( GOLD : #jˈele#) :
-ˈi l l a e̯ 
-*#ˈillaj# | 20 : e̯ > j 
-*#ˈillɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#ˈellɛː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#ˈellɛ# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈellɛ#
-*#ˈelle# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈelle# | 188 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
-*#jˈɛlle# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#jˈɛle# | 205 : {l l;m m} > {l;m} 
-*#jˈɛale# | 214 : ∅ > a / [-tense] __
-*#jˈeˈale# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#je̯ˈale# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#je̯ˈale#
-*#jˈele# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#jˈele#
-Final form : *#jˈele#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1407:
+#ˈeo# >>> *#jˈew# ( GOLD : #jˈew#) :
+ˈe o 
+*#ˈew# | 47 : [+syl,+round] > w / [+syl,+stres] __ #
+*#ˈeβ# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#ˈɛβ# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɛw̥# | 145 : β > w̥ / __ #
+Balkan Romance stage form : *#ˈɛw̥#
+*#ˈew̥# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈew̥# | 188 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
+Common Romanian stage form : *#jˈew̥#
+*#jˈew# | 281 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#jˈew#
+Final form : *#jˈew#

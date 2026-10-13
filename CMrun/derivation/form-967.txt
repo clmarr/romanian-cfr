@@ -1,10 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 967:
-#serwˈaː# >>> *#serbˈa# ( GOLD : #serbˈa#) :
-s e r w ˈaː 
-*#serβˈaː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#serbˈaː# | 143 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-*#serbˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#serbˈa#
-Common Romanian stage form : *#serbˈa#
-Old Romanian stage form : *#serbˈa#
-Final form : *#serbˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 967:
+#monumˈentum# >>> *#monmˈɨnt# ( GOLD : #mormˈɨnt#) :
+m o n u m ˈe n t u m 
+*#monumˈentu# | 45 : m > ∅ / [-stres] __ #
+*#monmˈentu# | 58 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
+*#monmˈɛntu# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#monmˈɛntu#
+*#monmˈentu# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#monmˈentu#
+*#monmˈəntu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#monmˈɨntu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#monmˈɨntw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#monmˈɨnt# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#monmˈɨnt#
+Final form : *#monmˈɨnt#

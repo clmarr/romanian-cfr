@@ -1,16 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1045:
-#sˈuper# >>> *#sprˈe# ( GOLD : #sprˈe#) :
-s ˈu p e r 
-*#spˈer# | 14 : [+prim,αround,βfront,-long] [-cont,αlab,βfront] [+syl] > ∅ [-cont,+cons,0tense] [+prim,+stres,+syl,+son]/ # s __
-*#sprˈe# | 83 : ∅ [+syl] r > r [+syl,+son] ∅/ [+cons] [-son] __ #
-*#isprˈe# | 109 : ∅ > i / # __ s [+cons,-son]
-*#isprˈɛ# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#esprˈɛ# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#sprˈɛ# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#sprˈɛ#
-*#spɾˈɛ# | 169 : r > ɾ / __ [nnas,ncons]
-*#spɾˈe# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#spɾˈe#
-*#sprˈe# | 264 : ɾ > r 
-Old Romanian stage form : *#sprˈe#
-Final form : *#sprˈe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1045:
+#tardˈiːwum# >>> *#tɨrzˈiw# ( GOLD : #tɨrzˈiw#) :
+t a r d ˈiː w u m 
+*#tardˈiːwu# | 45 : m > ∅ / [-stres] __ #
+*#tardˈiːβu# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#tardˈiːu# | 147 : β > ∅ 
+*#tardˈiu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tardˈiu#
+*#tardˈiw# | 190 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+*#tardjˈiw# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#tardʲjˈiw# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tardʲˈiw# | 207 : j > ∅ / [+cons,+front] __
+*#tərdʲˈiw# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#tərd͡zʲˈiw# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#tərd͡zˈiw# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#tərd͡zˈiw#
+*#tɨrd͡zˈiw# | 272 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
+*#tɨrzˈiw# | 273 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#tɨrzˈiw#
+Final form : *#tɨrzˈiw#

@@ -1,22 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 467:
-#mˈuriam# >>> *#mo̯ˈare# ( GOLD : #mo̯ˈare#) :
-m ˈu r i a m 
-*#mˈurjam# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈurja# | 45 : m > ∅ / [-stres] __ #
-*#mˈorja# | 51 : [+hi,+stres] > [-hi] / [+nas] __ r
-Balkan Romance stage form : *#mˈorja#
-*#mˈoɾja# | 169 : r > ɾ / __ [nnas,ncons]
-*#mˈɔɾja# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mˈɔɾʲja# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mˈɔɾʲa# | 207 : j > ∅ / [+cons,+front] __
-*#mˈɔaɾʲa# | 214 : ∅ > a / [-tense] __
-*#mˈoˈaɾʲa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#mo̯ˈaɾʲa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#mo̯ˈaɾʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#mo̯ˈaɾʲe# | 229 : ə > e / [+cons,+front,+son] __
-*#mo̯ˈajɾe# | 231 : ɾʲ > j ɾ 
-Common Romanian stage form : *#mo̯ˈajɾe#
-*#mo̯ˈajre# | 264 : ɾ > r 
-*#mo̯ˈare# | 288 : j > ∅ / __ r
-Old Romanian stage form : *#mo̯ˈare#
-Final form : *#mo̯ˈare#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 467:
+#frˌiktˈuːram# >>> *#friptˈurə# ( GOLD : #friptˈurə#) :
+f r ˌi k t ˈuː r a m 
+*#friktˈuːram# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#friktˈuːra# | 45 : m > ∅ / [-stres] __ #
+*#friptˈuːra# | 100 : k > p / __ t
+*#freptˈuːra# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#freptˈura# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#freptˈura#
+*#fɾeptˈuɾa# | 169 : r > ɾ / __ [nnas,ncons]
+*#fɾeptˈuɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fɾeptˈuɾə#
+*#freptˈurə# | 264 : ɾ > r 
+*#friptˈurə# | 291 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+Old Romanian stage form : *#friptˈurə#
+Final form : *#friptˈurə#

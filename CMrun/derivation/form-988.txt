@@ -1,23 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 988:
-#pertraːjˈike# >>> *#petrˈet͡ʃe# ( GOLD : #petrˈet͡ʃe#) :
-p e r t r aː j ˈi k e 
-*#pertrˈaːjike# | 32 : [+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#pertrˈaːjke# | 34 : i > ∅ / j __
-*#pertrˈɛːke# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#petrˈɛːke# | 72 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#petrˈɛːkʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#petrˈɛkʲe# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#petrˈɛkʲe#
-*#petɾˈɛkʲe# | 169 : r > ɾ / __ [nnas,ncons]
-*#petɾˈekʲe# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#petɾˈɛkʲe# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#petɾˈɛakʲe# | 214 : ∅ > a / [-tense] __
-*#petɾˈeˈakʲe# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#petɾe̯ˈakʲe# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#petɾe̯ˈac͡ɕe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#petɾe̯ˈat͡ʃe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#petɾe̯ˈat͡ʃe#
-*#petɾˈet͡ʃe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#petrˈet͡ʃe# | 264 : ɾ > r 
-Old Romanian stage form : *#petrˈet͡ʃe#
-Final form : *#petrˈet͡ʃe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 988:
+#ɡˈalbinum# >>> *#ɡˈalben# ( GOLD : #ɡˈalben#) :
+ɡ ˈa l b i n u m 
+*#ɡˈalbinu# | 45 : m > ∅ / [-stres] __ #
+*#ɡˈalbenu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ɡˈalbenu#
+Common Romanian stage form : *#ɡˈalbenu#
+*#ɡˈalbənu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#ɡˈalbenu# | 265 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,!ufront] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+*#ɡˈalbenw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɡˈalben# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɡˈalben#
+Final form : *#ɡˈalben#

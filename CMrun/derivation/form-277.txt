@@ -1,14 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 277:
-#rˌesˌufflˈaː# >>> *#rəsuflˈa# ( GOLD : #rəsuflˈa#) :
-r ˌe s ˌu f f l ˈaː 
-*#resufflˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#resuflˈaː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#resuflˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#resuflˈa#
-*#ɾesuflˈa# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾesuflˈa# | 170 : ∅ > r / # __ ɾ
-Common Romanian stage form : *#rɾesuflˈa#
-*#resuflˈa# | 243 : {ɾ;r} > {∅;∅} / r __
-*#rəsuflˈa# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Old Romanian stage form : *#rəsuflˈa#
-Final form : *#rəsuflˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 277:
+#wˌidˈeː# >>> *#vede̯ˈa# ( GOLD : #vede̯ˈa#) :
+w ˌi d ˈeː 
+*#widˈeː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#βidˈeː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#βedˈeː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#vedˈeː# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#vedˈe# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#vedˈe#
+*#vedˈɛ# | 198 : [+syl,-hi,-lo,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
+*#vedˈɛa# | 214 : ∅ > a / [-tense] __
+*#vedˈeˈa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#vede̯ˈa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#vede̯ˈa#
+Old Romanian stage form : *#vede̯ˈa#
+Final form : *#vede̯ˈa#

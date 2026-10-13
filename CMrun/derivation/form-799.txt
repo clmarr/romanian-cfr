@@ -1,14 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 799:
-#palˈumbum# >>> *#porˈumb# ( GOLD : #porˈumb#) :
-p a l ˈu m b u m 
-*#palˈumbu# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#palˈumbu#
-*#paɾˈumbu# | 189 : l > ɾ / [+syl] __ [+syl]
-*#pəɾˈumbu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pəɾˈumbu#
-*#poɾˈumbu# | 249 : ə > o / # ( p ) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
-*#porˈumbu# | 264 : ɾ > r 
-*#porˈumbw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#porˈumb# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#porˈumb#
-Final form : *#porˈumb#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 799:
+#mˈerulam# >>> *#mjˈerlə# ( GOLD : #mjˈerlə#) :
+m ˈe r u l a m 
+*#mˈerula# | 45 : m > ∅ / [-stres] __ #
+*#mˈerla# | 60 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#mˈɛrla# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛrla#
+*#mjˈɛrla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈerla# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈerla# | 213 : [-tense] > [+tense,-cons,-lat,+cont,0delrel] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
+*#mjˈerlə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mjˈerlə#
+Old Romanian stage form : *#mjˈerlə#
+Final form : *#mjˈerlə#

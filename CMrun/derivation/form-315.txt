@@ -1,15 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 315:
-#ˌekskˌubulˈaː# >>> *#skulˈa# ( GOLD : #skulˈa#) :
-ˌe k s k ˌu b u l ˈaː 
-*#ekskubulˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskublˈaː# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
-*#eskublˈaː# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskuβlˈaː# | 125 : b > β / [-cons] __ [+cont]
-*#eskuwlˈaː# | 144 : β > w / __ [+son,+cons]
-*#eskuwlˈa# | 160 : [+syl] > [-long,-splng] 
-*#skuwlˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skuwlˈa#
-*#skulˈa# | 191 : w > ∅ / [+syl,+hi,+back] __
-Common Romanian stage form : *#skulˈa#
-Old Romanian stage form : *#skulˈa#
-Final form : *#skulˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 315:
+#dˌormˈiː# >>> *#dormˈi# ( GOLD : #dormˈi#) :
+d ˌo r m ˈiː 
+*#dormˈiː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#dormˈi# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dormˈi#
+*#doɾmˈi# | 169 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#doɾmˈi#
+*#dormˈi# | 264 : ɾ > r 
+Old Romanian stage form : *#dormˈi#
+Final form : *#dormˈi#

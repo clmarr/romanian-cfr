@@ -1,16 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 381:
-#mentiˈoːnem# >>> *#mint͡ʃˈune# ( GOLD : #mint͡ʃˈunə#) :
-m e n t i ˈoː n e m 
-*#mentjˈoːnem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mentjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#mentʲˈoːne# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#menkʲˈoːne# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#menkʲˈone# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#menkʲˈone#
-*#menkʲˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#menc͡ɕˈune# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ment͡ʃˈune# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ment͡ʃˈune#
-*#mint͡ʃˈune# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#mint͡ʃˈune#
-Final form : *#mint͡ʃˈune#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 381:
+#juːdikˈaː# >>> *#ʒudekˈa# ( GOLD : #ʒudekˈa#) :
+j uː d i k ˈaː 
+*#djuːdikˈaː# | 94 : j > d j / # __ [+syl] [+cons]
+*#djuːdekˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#dʲuːdekˈaː# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲuːdekˈaː# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲudekˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɡʲudekˈa#
+*#ɟ͡ʑudekˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒudekˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒudekˈa#
+*#ʒudekˈa# | 274 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Old Romanian stage form : *#ʒudekˈa#
+Final form : *#ʒudekˈa#

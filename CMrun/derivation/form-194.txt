@@ -1,18 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 194:
-#wˈiːtrikum# >>> *#vˈitriɡ# ( GOLD : #vˈitriɡ#) :
-w ˈiː t r i k u m 
-*#wˈiːtriku# | 45 : m > ∅ / [-stres] __ #
-*#βˈiːtriku# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#βˈiːtreku# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#vˈiːtreku# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#vˈitreku# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#vˈitreku#
-*#vˈitɾeku# | 169 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#vˈitɾeku#
-*#vˈitreku# | 264 : ɾ > r 
-*#vˈitreɡu# | 276 : k > ɡ / [-cont,-voi] r [+syl] __ [-stres] #
-*#vˈitreɡw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vˈitreɡ# | 280 : w̥ > ∅ / [-syl] __ #
-*#vˈitriɡ# | 291 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Old Romanian stage form : *#vˈitriɡ#
-Final form : *#vˈitriɡ#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 194:
+#wˌeːssˈiːkam# >>> *#beʃˈikə# ( GOLD : #bəʃˈikə#) :
+w ˌeː s s ˈiː k a m 
+*#weːssˈiːkam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#weːssˈiːka# | 45 : m > ∅ / [-stres] __ #
+*#βeːssˈiːka# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#beːssˈiːka# | 135 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
+*#beːsˈiːka# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#besˈika# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#besˈika#
+*#besjˈika# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#besʲjˈika# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#besʲˈika# | 207 : j > ∅ / [+cons,+front] __
+*#beɕˈika# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#beɕˈikə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#beʃˈikə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#beʃˈikə#
+Old Romanian stage form : *#beʃˈikə#
+Final form : *#beʃˈikə#

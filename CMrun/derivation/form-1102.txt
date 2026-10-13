@@ -1,18 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1102:
-#ˌadwˈiks# >>> *#abˈi# ( GOLD : #abˈi#) :
-ˌa d w ˈi k s 
-*#adwˈiks# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#awwˈiks# | 38 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-*#aββˈiks# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#aββˈips# | 101 : k > p / [+syl,+stres,αfront,αhi] __ s
-*#aββˈis# | 104 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
-*#aββˈiːs# | 123 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#aβbˈiːs# | 143 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-*#abˈiːs# | 147 : β > ∅ 
-*#abˈis# | 160 : [+syl] > [-long,-splng] 
-*#abˈij# | 167 : s > j / [+stres] __ #
-Balkan Romance stage form : *#abˈij#
-Common Romanian stage form : *#abˈij#
-*#abˈi# | 238 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
-Old Romanian stage form : *#abˈi#
-Final form : *#abˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1102:
+#bˈonum# >>> *#bˈun# ( GOLD : #bˈun#) :
+b ˈo n u m 
+*#bˈonu# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#bˈonu#
+*#bˈunu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#bˈunu#
+*#bˈunw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#bˈun# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#bˈun#
+Final form : *#bˈun#

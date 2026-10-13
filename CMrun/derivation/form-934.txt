@@ -1,19 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 934:
-#wiːkiːnitˈaːtem# >>> *#vet͡ʃinətˈate# ( GOLD : #vet͡ʃinətˈate#) :
-w iː k iː n i t ˈaː t e m 
-*#wiːkiːnitˈaːte# | 45 : m > ∅ / [-stres] __ #
-*#βiːkiːnitˈaːte# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#βiːkiːnetˈaːte# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#viːkiːnetˈaːte# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#viːkʲiːnetˈaːte# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#vikʲinetˈate# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#vikʲinetˈate#
-*#vekʲinetˈate# | 203 : i > e / [+cons] __ [+cons,+front]
-*#vekʲjinetˈate# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#vekʲinetˈate# | 207 : j > ∅ / [+cons,+front] __
-*#vec͡ɕinetˈate# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vet͡ʃinetˈate# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vet͡ʃinetˈate#
-*#vet͡ʃinətˈate# | 270 : e > ə / [-back] n __ t
-Old Romanian stage form : *#vet͡ʃinətˈate#
-Final form : *#vet͡ʃinətˈate#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 934:
+#wiktimˈaː# >>> *#vitemˈa# ( GOLD : #vətəmˈa#) :
+w i k t i m ˈaː 
+*#βiktimˈaː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#βiptimˈaː# | 100 : k > p / __ t
+*#βitimˈaː# | 104 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
+*#βetemˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#vetemˈaː# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#vetemˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#vetemˈa#
+Common Romanian stage form : *#vetemˈa#
+*#vitemˈa# | 294 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
+Old Romanian stage form : *#vitemˈa#
+Final form : *#vitemˈa#

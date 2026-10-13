@@ -1,20 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 650:
-#mastˈikʰinum# >>> *#məste̯ˈakɨn# ( GOLD : #meste̯ˈakən#) :
-m a s t ˈi kʰ i n u m 
-*#mastˈikinum# | 23 : [+cons,+sg] > [-sg] 
-*#mastˈikanum# | 31 : i > a / [+stres,+hi,αlab] ( [-syl,αlab] )* __ [+cons,+son] [+syl,+hi] m #
-*#mastˈikanu# | 45 : m > ∅ / [-stres] __ #
-*#mastˈekanu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#mastˈekanu#
-*#mastˈɛkanu# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mastˈɛakanu# | 214 : ∅ > a / [-tense] __
-*#mastˈeˈakanu# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#maste̯ˈakanu# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#maste̯ˈakənu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#məste̯ˈakənu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#məste̯ˈakənu#
-*#məste̯ˈakɨnu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#məste̯ˈakɨnw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#məste̯ˈakɨn# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#məste̯ˈakɨn#
-Final form : *#məste̯ˈakɨn#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 650:
+#frˈaksinum# >>> *#frˈasin# ( GOLD : #frˈasin#) :
+f r ˈa k s i n u m 
+*#frˈaksinu# | 45 : m > ∅ / [-stres] __ #
+*#frˈassinu# | 102 : k > s / __ s
+*#frˈassenu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#frˈasenu# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#frˈasenu#
+*#fɾˈasenu# | 169 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#fɾˈasenu#
+*#fɾˈasinu# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+*#frˈasinu# | 264 : ɾ > r 
+*#frˈasinw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#frˈasin# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#frˈasin#
+Final form : *#frˈasin#

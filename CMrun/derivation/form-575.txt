@@ -1,22 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 575:
-#dˌeːmˌaːnˈitia# >>> *#demine̯ˈat͡sə# ( GOLD : #dimine̯ˈat͡sə#) :
-d ˌeː m ˌaː n ˈi t i a 
-*#dˌeːmˌaːnˈitja# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#deːmaːnˈitja# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#deːmaːnˈittja# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#deːmaːnˈettja# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#deːmaːnˈettʲa# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#deːmaːnˈetʲa# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#demanˈetʲa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#demanˈetʲa#
-*#deminˈetʲa# | 175 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
-*#deminˈɛtʲa# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#deminˈɛatʲa# | 214 : ∅ > a / [-tense] __
-*#deminˈeˈatʲa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#demine̯ˈatʲa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#demine̯ˈatʲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#demine̯ˈat͡sʲə# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#demine̯ˈat͡sə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#demine̯ˈat͡sə#
-Old Romanian stage form : *#demine̯ˈat͡sə#
-Final form : *#demine̯ˈat͡sə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 575:
+#hˈeriː# >>> *#jˈerj# ( GOLD : #jˈerj#) :
+h ˈe r iː 
+*#ˈeriː# | 41 : [-son,-cons] > ∅ 
+*#ˈɛriː# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈɛri# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈɛri#
+*#ˈɛɾi# | 169 : r > ɾ / __ [nnas,ncons]
+*#ˈeɾi# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈeɾi# | 188 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
+Common Romanian stage form : *#jˈeɾi#
+*#jˈeri# | 264 : ɾ > r 
+*#jˈerj̊# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#jˈerj# | 281 : {w̥;j̊} > {w;j} 
+Old Romanian stage form : *#jˈerj#
+Final form : *#jˈerj#

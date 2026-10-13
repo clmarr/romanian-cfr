@@ -1,9 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 419:
-#tˈussem# >>> *#tˈuse# ( GOLD : #tˈuse#) :
-t ˈu s s e m 
-*#tˈusse# | 45 : m > ∅ / [-stres] __ #
-*#tˈuse# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#tˈuse#
-Common Romanian stage form : *#tˈuse#
-Old Romanian stage form : *#tˈuse#
-Final form : *#tˈuse#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 419:
+#rˌepˈoːne# >>> *#rəpˈune# ( GOLD : #rəpˈune#) :
+r ˌe p ˈoː n e 
+*#repˈoːne# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#repˈone# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#repˈone#
+*#ɾepˈone# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾepˈone# | 170 : ∅ > r / # __ ɾ
+*#rɾepˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#rɾepˈune#
+*#repˈune# | 243 : {ɾ;r} > {∅;∅} / r __
+*#rəpˈune# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Old Romanian stage form : *#rəpˈune#
+Final form : *#rəpˈune#

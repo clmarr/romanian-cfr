@@ -1,15 +1,11 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 76:
-#ˌarborˈeːtum# >>> *#arburˈet# ( GOLD : #arborˈet#) :
-ˌa r b o r ˈeː t u m 
-*#arborˈeːtum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#arborˈeːtu# | 45 : m > ∅ / [-stres] __ #
-*#arborˈetu# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#arborˈetu#
-*#arboɾˈetu# | 169 : r > ɾ / __ [nnas,ncons]
-*#arbuɾˈetu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#arbuɾˈetu#
-*#arburˈetu# | 264 : ɾ > r 
-*#arburˈetw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#arburˈet# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#arburˈet#
-Final form : *#arburˈet#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 76:
+#ˈarborem# >>> *#ˈarbure# ( GOLD : #ˈarbore#) :
+ˈa r b o r e m 
+*#ˈarbore# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#ˈarbore#
+*#ˈarboɾe# | 169 : r > ɾ / __ [nnas,ncons]
+*#ˈarbuɾe# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#ˈarbuɾe#
+*#ˈarbure# | 264 : ɾ > r 
+Old Romanian stage form : *#ˈarbure#
+Final form : *#ˈarbure#

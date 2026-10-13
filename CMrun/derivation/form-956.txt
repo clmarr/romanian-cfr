@@ -1,27 +1,17 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 956:
-#inkliːnaːtiˈoːnem# >>> *#ɨnkinət͡ʃˈune# ( GOLD : #ɨnkinət͡ʃˈune#) :
-i n k l iː n aː t i ˈoː n e m 
-*#inkliːnaːtjˈoːnem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inkliːnaːtjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#inkliːnaːttjˈoːne# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#enkliːnaːttjˈoːne# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkliːnaːttʲˈoːne# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enkliːnaːtkʲˈoːne# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#enkliːnaːkʲˈoːne# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#enklinakʲˈone# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enklinakʲˈone#
-*#anklinakʲˈone# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ankljinakʲˈone# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#anklʲjinakʲˈone# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#anklʲinakʲˈone# | 207 : j > ∅ / [+cons,+front] __
-*#ankʎinakʲˈone# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ənkʎinakʲˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənkʎinəkʲˈune# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənkʎinəc͡ɕˈune# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənkʎinət͡ʃˈune# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənkʎinət͡ʃˈune#
-*#ɨnkʎinət͡ʃˈune# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnkjinət͡ʃˈune# | 268 : [+son,+cons,+front] > j 
-*#ɨnkinət͡ʃˈune# | 285 : j > ∅ / __ [+front,+hi]
-Old Romanian stage form : *#ɨnkinət͡ʃˈune#
-Final form : *#ɨnkinət͡ʃˈune#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 956:
+#miːriˈoːnem# >>> *#minˈune# ( GOLD : #minˈune#) :
+m iː r i ˈoː n e m 
+*#miːrjˈoːnem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#miːrjˈoːne# | 45 : m > ∅ / [-stres] __ #
+*#mirjˈone# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mirjˈone#
+*#miɾjˈone# | 169 : r > ɾ / __ [nnas,ncons]
+*#miɾʲjˈone# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#miɾʲˈone# | 207 : j > ∅ / [+cons,+front] __
+*#miɾˈone# | 211 : ɾʲ > ɾ / [+hi] __
+*#miɾˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#miɾˈune#
+*#mirˈune# | 264 : ɾ > r 
+*#minˈune# | 303 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Old Romanian stage form : *#minˈune#
+Final form : *#minˈune#

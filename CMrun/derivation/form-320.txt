@@ -1,16 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 320:
-#wˌiɡilˈaː# >>> *#veɡe̯ˈa# ( GOLD : #veɡe̯ˈa#) :
-w ˌi ɡ i l ˈaː 
-*#wiɡilˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wiɡlˈaː# | 54 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#βiɡlˈaː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#βeɡlˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#veɡlˈaː# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#veɡlˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#veɡlˈa#
-*#veɡʎˈa# | 228 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#veɡʎˈa#
-*#veɡjˈa# | 268 : [+son,+cons,+front] > j 
-*#veɡe̯ˈa# | 296 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
-Old Romanian stage form : *#veɡe̯ˈa#
-Final form : *#veɡe̯ˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 320:
+#rˌepˌawsˈaː# >>> *#rəposˈa# ( GOLD : #rəposˈa#) :
+r ˌe p ˌa w s ˈaː 
+*#repawsˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#reposˈaː# | 26 : a w > o / [+cons] __ [+cons,+cont]
+*#reposˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#reposˈa#
+*#ɾeposˈa# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾeposˈa# | 170 : ∅ > r / # __ ɾ
+*#rɾepusˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#rɾepusˈa#
+*#repusˈa# | 243 : {ɾ;r} > {∅;∅} / r __
+*#rəpusˈa# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rəposˈa# | 248 : u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
+Old Romanian stage form : *#rəposˈa#
+Final form : *#rəposˈa#

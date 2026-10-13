@@ -1,10 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 823:
-#lˌakˈustam# >>> *#ləkˈustə# ( GOLD : #ləkˈustə#) :
-l ˌa k ˈu s t a m 
-*#lakˈustam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#lakˈusta# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#lakˈusta#
-*#ləkˈustə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ləkˈustə#
-Old Romanian stage form : *#ləkˈustə#
-Final form : *#ləkˈustə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 823:
+#lˈendinam# >>> *#lˈindinə# ( GOLD : #lˈindinə#) :
+l ˈe n d i n a m 
+*#lˈendina# | 45 : m > ∅ / [-stres] __ #
+*#lˈɛndina# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɛndena# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#lˈɛndena#
+*#lˈendena# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#lˈendenə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#lˈendenə#
+*#lˈindenə# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#lˈindinə# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#lˈindinə#
+Final form : *#lˈindinə#

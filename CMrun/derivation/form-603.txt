@@ -1,18 +1,19 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 603:
-#ˌae̯ruːɡˈiːna# >>> *#arud͡ʒˈinə# ( GOLD : #rud͡ʒˈinə#) :
-ˌa e̯ r uː ɡ ˈiː n a 
-*#ˌaruːɡˈiːna# | 9 : e̯ > ∅ / # [+lo] __ [+son]
-*#aruːɡˈiːna# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#aruːɡʲˈiːna# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#aruɡʲˈina# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#aruɡʲˈina#
-*#aɾuɡʲˈina# | 169 : r > ɾ / __ [nnas,ncons]
-*#aɾuɡʲjˈina# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#aɾuɡʲˈina# | 207 : j > ∅ / [+cons,+front] __
-*#aɾuɡʲˈinə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#aɾuɟ͡ʑˈinə# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aɾud͡ʒˈinə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#aɾud͡ʒˈinə#
-*#arud͡ʒˈinə# | 264 : ɾ > r 
-Old Romanian stage form : *#arud͡ʒˈinə#
-Final form : *#arud͡ʒˈinə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 603:
+#pˈikulam# >>> *#pˈekje# ( GOLD : #pˈəkurə#) :
+p ˈi k u l a m 
+*#pˈikula# | 45 : m > ∅ / [-stres] __ #
+*#pˈikla# | 56 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#pˈekla# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈekla#
+*#pˈɛkla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pˈɛakla# | 214 : ∅ > a / [-tense] __
+*#pˈeˈakla# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pe̯ˈakla# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pe̯ˈaklə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pe̯ˈakʎə# | 228 : l > ʎ / [-cont,-ant,-cor] __
+*#pe̯ˈakʎe# | 229 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#pe̯ˈakʎe#
+*#pˈekʎe# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#pˈekje# | 268 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#pˈekje#
+Final form : *#pˈekje#

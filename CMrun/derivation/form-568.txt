@@ -1,16 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 568:
-#wˈentum# >>> *#vˈɨnt# ( GOLD : #vˈɨnt#) :
-w ˈe n t u m 
-*#wˈentu# | 45 : m > ∅ / [-stres] __ #
-*#βˈentu# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#βˈɛntu# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛntu# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vˈɛntu#
-*#vˈentu# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#vˈentu#
-*#vˈəntu# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#vˈɨntu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#vˈɨntw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vˈɨnt# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vˈɨnt#
-Final form : *#vˈɨnt#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 568:
+#sˈikkitaːs# >>> *#sˈet͡ʃetə# ( GOLD : #sˈet͡ʃetə#) :
+s ˈi k k i t aː s 
+*#sˈekketaːs# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#sˈeketaːs# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#sˈekʲetaːs# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#sˈekʲetas# | 160 : [+syl] > [-long,-splng] 
+*#sˈekʲeta# | 168 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#sˈekʲeta#
+*#sˈɛkʲeta# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sˈɛakʲeta# | 214 : ∅ > a / [-tense] __
+*#sˈeˈakʲeta# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#se̯ˈakʲeta# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#se̯ˈakʲetə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#se̯ˈac͡ɕetə# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#se̯ˈat͡ʃetə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#se̯ˈat͡ʃetə#
+*#sˈet͡ʃetə# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+Old Romanian stage form : *#sˈet͡ʃetə#
+Final form : *#sˈet͡ʃetə#

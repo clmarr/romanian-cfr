@@ -1,18 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1169:
-#traɡinˈaː# >>> *#trəɡənˈa# ( GOLD : #trəɡənˈa#) :
-t r a ɡ i n ˈaː 
-*#traɡenˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#traɡʲenˈaː# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#traɡʲenˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#traɡʲenˈa#
-*#tɾaɡʲenˈa# | 169 : r > ɾ / __ [nnas,ncons]
-*#tɾaɡʲinˈa# | 200 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#tɾaɡʲjinˈa# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#tɾaɡʲinˈa# | 207 : j > ∅ / [+cons,+front] __
-*#tɾaɡenˈa# | 210 : [+back,+front] [+syl] > [-front] [-hi]/ [+cor,+son] [+syl] ( n ) __ ( [+voi,-syl] ) [+prim,-round,-hi]
-*#tɾəɡenˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#tɾəɡenˈa#
-*#trəɡenˈa# | 264 : ɾ > r 
-*#trəɡənˈa# | 293 : e > ə / ɡ __ n
-Old Romanian stage form : *#trəɡənˈa#
-Final form : *#trəɡənˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1169:
+#traːmˈitte# >>> *#trimˈete# ( GOLD : #trimˈite#) :
+t r aː m ˈi t t e 
+*#traːmˈette# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#traːmˈete# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#tramˈete# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tramˈete#
+*#tɾamˈete# | 169 : r > ɾ / __ [nnas,ncons]
+*#tɾimˈete# | 175 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
+*#tɾimˈɛte# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#tɾimˈɛate# | 214 : ∅ > a / [-tense] __
+*#tɾimˈeˈate# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tɾime̯ˈate# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#tɾime̯ˈate#
+*#tɾimˈete# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#trimˈete# | 264 : ɾ > r 
+Old Romanian stage form : *#trimˈete#
+Final form : *#trimˈete#

@@ -1,13 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 113:
-#kˌurtiˈaː# >>> *#kurt͡sˈa# ( GOLD : #krut͡sˈa#) :
-k ˌu r t i ˈaː 
-*#kˌurtjˈaː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kurtjˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kurtʲˈaː# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#kurtʲˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kurtʲˈa#
-*#kurt͡sʲˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#kurt͡sˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kurt͡sˈa#
-Old Romanian stage form : *#kurt͡sˈa#
-Final form : *#kurt͡sˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 113:
+#krˈistam# >>> *#kre̯ˈastə# ( GOLD : #kre̯ˈastə#) :
+k r ˈi s t a m 
+*#krˈista# | 45 : m > ∅ / [-stres] __ #
+*#krˈesta# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#krˈesta#
+*#kɾˈesta# | 169 : r > ɾ / __ [nnas,ncons]
+*#kɾˈɛsta# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kɾˈɛasta# | 214 : ∅ > a / [-tense] __
+*#kɾˈeˈasta# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kɾe̯ˈasta# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kɾe̯ˈastə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#kɾe̯ˈastə#
+*#kre̯ˈastə# | 264 : ɾ > r 
+Old Romanian stage form : *#kre̯ˈastə#
+Final form : *#kre̯ˈastə#

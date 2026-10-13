@@ -1,23 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 285:
-#ˌinɡlˌuttˈiː# >>> *#ɨnɡit͡sˈi# ( GOLD : #ɨnɡit͡sˈi#) :
-ˌi n ɡ l ˌu t t ˈiː 
-*#inɡluttˈiː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɡluttˈiː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡlutˈiː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#enɡlutˈi# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡlutˈi#
-*#anɡlutˈi# | 173 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#anɡlutjˈi# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#anɡlutʲjˈi# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#anɡlutʲˈi# | 207 : j > ∅ / [+cons,+front] __
-*#ənɡlutʲˈi# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənɡʎutʲˈi# | 228 : l > ʎ / [-cont,-ant,-cor] __
-*#ənɡʎut͡sʲˈi# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənɡʎut͡sˈi# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənɡʎut͡sˈi#
-*#ɨnɡʎut͡sˈi# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnɡjut͡sˈi# | 268 : [+son,+cons,+front] > j 
-*#ɨnɡjit͡sˈi# | 284 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
-*#ɨnɡit͡sˈi# | 285 : j > ∅ / __ [+front,+hi]
-Old Romanian stage form : *#ɨnɡit͡sˈi#
-Final form : *#ɨnɡit͡sˈi#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 285:
+#fˈamem# >>> *#fo̯ˈame# ( GOLD : #fo̯ˈame#) :
+f ˈa m e m 
+*#fˈame# | 45 : m > ∅ / [-stres] __ #
+*#fˈome# | 89 : [+syl,+lo] > [-lo,-front,+back,+round,+lab] / f __ [+lab,αvoi,αnas] ( [-syl] )* [-stres]
+Balkan Romance stage form : *#fˈome#
+*#fˈɔme# | 196 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-back]
+*#fˈɔame# | 214 : ∅ > a / [-tense] __
+*#fˈoˈame# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fo̯ˈame# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#fo̯ˈame#
+Old Romanian stage form : *#fo̯ˈame#
+Final form : *#fo̯ˈame#

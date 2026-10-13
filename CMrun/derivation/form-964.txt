@@ -1,22 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 964:
-#roɡaːtiˈoːnem# >>> *#ruɡət͡ʃˈune# ( GOLD : #ruɡət͡ʃˈune#) :
-r o ɡ aː t i ˈoː n e m 
-*#roɡaːtjˈoːnem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#roɡaːtjˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#roɡaːttjˈoːne# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#roɡaːttʲˈoːne# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#roɡaːtkʲˈoːne# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#roɡaːkʲˈoːne# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#roɡakʲˈone# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#roɡakʲˈone#
-*#ɾoɡakʲˈone# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾoɡakʲˈone# | 170 : ∅ > r / # __ ɾ
-*#rɾuɡakʲˈone# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#rɾuɡakʲˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#rɾuɡəkʲˈune# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#rɾuɡəc͡ɕˈune# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾuɡət͡ʃˈune# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾuɡət͡ʃˈune#
-*#ruɡət͡ʃˈune# | 243 : {ɾ;r} > {∅;∅} / r __
-Old Romanian stage form : *#ruɡət͡ʃˈune#
-Final form : *#ruɡət͡ʃˈune#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 964:
+#pˈaskʰae̯# >>> *#pˈaʃte# ( GOLD : #pˈaʃte#) :
+p ˈa s kʰ a e̯ 
+*#pˈaskʰaj# | 20 : e̯ > j 
+*#pˈaskaj# | 23 : [+cons,+sg] > [-sg] 
+*#pˈaskɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#pˈaskʲɛː# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#pˈaskʲɛ# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈaskʲɛ#
+*#pˈaskʲe# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pˈaʃte# | 232 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#pˈaʃte#
+Old Romanian stage form : *#pˈaʃte#
+Final form : *#pˈaʃte#

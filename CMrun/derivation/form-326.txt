@@ -1,20 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 326:
-#pˈektinat# >>> *#pjˈeptinə# ( GOLD : #pjˈeptənə#) :
-p ˈe k t i n a t 
-*#pˈektina# | 79 : [+cons,-cont] > ∅ / __ #
-*#pˈeptina# | 100 : k > p / __ t
-*#pˈɛptina# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛptena# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#pˈɛptena#
-*#pjˈɛptena# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈeptena# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛptena# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛaptena# | 214 : ∅ > a / [-tense] __
-*#pjˈeˈaptena# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈaptena# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pje̯ˈaptenə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pje̯ˈaptenə#
-*#pjˈeptenə# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#pjˈeptinə# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#pjˈeptinə#
-Final form : *#pjˈeptinə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 326:
+#pˌaːɡˈaːnum# >>> *#pəɡˈɨn# ( GOLD : #pəɡˈɨn#) :
+p ˌaː ɡ ˈaː n u m 
+*#paːɡˈaːnum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#paːɡˈaːnu# | 45 : m > ∅ / [-stres] __ #
+*#paɡˈanu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#paɡˈanu#
+*#paɡˈənu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#pəɡˈənu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pəɡˈənu#
+*#pəɡˈɨnu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#pəɡˈɨnw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəɡˈɨn# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pəɡˈɨn#
+Final form : *#pəɡˈɨn#

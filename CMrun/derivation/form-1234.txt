@@ -1,14 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1234:
-#ˌekspantikˈaː# >>> *#spɨntekˈa# ( GOLD : #spintekˈa#) :
-ˌe k s p a n t i k ˈaː 
-*#ekspantikˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#espantikˈaː# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espantekˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#espantekˈa# | 160 : [+syl] > [-long,-splng] 
-*#spantekˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spantekˈa#
-*#spəntekˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#spəntekˈa#
-*#spɨntekˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#spɨntekˈa#
-Final form : *#spɨntekˈa#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1234:
+#weːnˈaː# >>> *#vɨnˈa# ( GOLD : #vɨnˈa#) :
+w eː n ˈaː 
+*#βeːnˈaː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#veːnˈaː# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#venˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#venˈa#
+*#vanˈa# | 174 : [+front,-hi] > [+lo,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#vənˈa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#vənˈa#
+*#vɨnˈa# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#vɨnˈa#
+Final form : *#vɨnˈa#

@@ -1,10 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 857:
-#sˈummam# >>> *#sˈumə# ( GOLD : #sˈumə#) :
-s ˈu m m a m 
-*#sˈumma# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#sˈumma#
-*#sˈuma# | 205 : {l l;m m} > {l;m} 
-*#sˈumə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#sˈumə#
-Old Romanian stage form : *#sˈumə#
-Final form : *#sˈumə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 857:
+#ˌekkutˌantum# >>> *#akutɨnt# ( GOLD : #atˈɨt#) :
+ˌe k k u t ˌa n t u m 
+*#ekkutantum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#akkutantum# | 36 : e > a / # __ k k
+*#akkutantu# | 45 : m > ∅ / [-stres] __ #
+*#akutantu# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#akutantu#
+*#akutəntu# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#akutəntu#
+*#akutɨntu# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#akutɨntw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#akutɨnt# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#akutɨnt#
+Final form : *#akutɨnt#

@@ -1,16 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 678:
-#pˌaːnˈiːkum# >>> *#pənˈink# ( GOLD : #pərˈink#) :
-p ˌaː n ˈiː k u m 
-*#paːnˈiːkum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#paːnˈiːku# | 45 : m > ∅ / [-stres] __ #
-*#panˈiku# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#panˈiku#
-*#pənˈiku# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#pənˈiku#
-*#pənˈinku# | 239 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-*#pɨnˈinku# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#pənˈinku# | 269 : [+syl,+hi,+tense,-back,-front,αprim] > [-hi,0tense] / p __ n [+syl,!αfront]
-*#pənˈinkw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pənˈink# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pənˈink#
-Final form : *#pənˈink#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 678:
+#mˈilium# >>> *#mˈej# ( GOLD : #mˈej#) :
+m ˈi l i u m 
+*#mˈiljum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈilju# | 45 : m > ∅ / [-stres] __ #
+*#mˈelju# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#mˈelju#
+*#mˈelʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mˈelʲu# | 207 : j > ∅ / [+cons,+front] __
+*#mˈeʎu# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#mˈeʎu#
+*#mˈeju# | 268 : [+son,+cons,+front] > j 
+*#mˈejw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mˈej# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mˈej#
+Final form : *#mˈej#

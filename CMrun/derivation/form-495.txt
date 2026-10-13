@@ -1,13 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 495:
-#pˈortam# >>> *#po̯ˈartə# ( GOLD : #po̯ˈartə#) :
-p ˈo r t a m 
-*#pˈorta# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#pˈorta#
-*#pˈɔrta# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pˈɔarta# | 214 : ∅ > a / [-tense] __
-*#pˈoˈarta# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#po̯ˈarta# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#po̯ˈartə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#po̯ˈartə#
-Old Romanian stage form : *#po̯ˈartə#
-Final form : *#po̯ˈartə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 495:
+#ostˈeolum# >>> *#uʃˈor# ( GOLD : #uʃˈor#) :
+o s t ˈe o l u m 
+*#ostˈeolu# | 45 : m > ∅ / [-stres] __ #
+*#osteˈoːlu# | 115 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
+*#ostiˈoːlu# | 116 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+*#ostjˈoːlu# | 121 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#ostʲˈoːlu# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#osʲˈoːlu# | 132 : s [-cont,+front] > sʲ
+*#osʲˈolu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#osʲˈolu#
+*#usʲˈolu# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#usʲˈoɾu# | 189 : l > ɾ / [+syl] __ [+syl]
+*#uɕˈoɾu# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#uʃˈoɾu# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#uʃˈoɾu#
+*#uʃˈoru# | 264 : ɾ > r 
+*#uʃˈorw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#uʃˈor# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#uʃˈor#
+Final form : *#uʃˈor#

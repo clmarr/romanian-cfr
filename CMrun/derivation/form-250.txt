@@ -1,15 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 250:
-#wˈentrem# >>> *#vˈintre# ( GOLD : #vˈintre#) :
-w ˈe n t r e m 
-*#wˈentre# | 45 : m > ∅ / [-stres] __ #
-*#βˈentre# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#βˈɛntre# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vˈɛntre# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vˈɛntre#
-*#vˈɛntɾe# | 169 : r > ɾ / __ [nnas,ncons]
-*#vˈentɾe# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#vˈentɾe#
-*#vˈintɾe# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#vˈintre# | 264 : ɾ > r 
-Old Romanian stage form : *#vˈintre#
-Final form : *#vˈintre#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 250:
+#ˌumbilˈiːkum# >>> *#mberˈik# ( GOLD : #burˈik#) :
+ˌu m b i l ˈiː k u m 
+*#umbilˈiːkum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#umbilˈiːku# | 45 : m > ∅ / [-stres] __ #
+*#umbelˈiːku# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#umbelˈiku# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#umbelˈiku#
+*#umbeɾˈiku# | 189 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#umbeɾˈiku#
+*#mbeɾˈiku# | 256 : u > ∅ / # __ [+cons,-cor,-front]
+*#mberˈiku# | 264 : ɾ > r 
+*#mberˈikw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mberˈik# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mberˈik#
+Final form : *#mberˈik#

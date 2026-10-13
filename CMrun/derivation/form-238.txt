@@ -1,11 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 238:
-#pˌulmˈoːnem# >>> *#pulmˈune# ( GOLD : #pləmˈɨn#) :
-p ˌu l m ˈoː n e m 
-*#pulmˈoːnem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pulmˈoːne# | 45 : m > ∅ / [-stres] __ #
-*#pulmˈone# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pulmˈone#
-*#pulmˈune# | 192 : ˈo > ˈu / [+nas] __ [+nas]
-Common Romanian stage form : *#pulmˈune#
-Old Romanian stage form : *#pulmˈune#
-Final form : *#pulmˈune#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 238:
+#nˈoːdam# >>> *#no̯ˈadə# ( GOLD : #no̯ˈadə#) :
+n ˈoː d a m 
+*#nˈoːda# | 45 : m > ∅ / [-stres] __ #
+*#nˈoda# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#nˈoda#
+*#nˈɔda# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈɔada# | 214 : ∅ > a / [-tense] __
+*#nˈoˈada# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#no̯ˈada# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#no̯ˈadə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#no̯ˈadə#
+Old Romanian stage form : *#no̯ˈadə#
+Final form : *#no̯ˈadə#

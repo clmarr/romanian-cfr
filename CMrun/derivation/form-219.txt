@@ -1,13 +1,21 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 219:
-#nˈaːriːs# >>> *#nˈarj# ( GOLD : #nˈərj#) :
-n ˈaː r iː s 
-*#nˈaris# | 160 : [+syl] > [-long,-splng] 
-*#nˈari# | 168 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#nˈari#
-*#nˈaɾi# | 169 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#nˈaɾi#
-*#nˈari# | 264 : ɾ > r 
-*#nˈarj̊# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#nˈarj# | 281 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#nˈarj#
-Final form : *#nˈarj#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 219:
+#mˌaːksˈillam# >>> *#məse̯ˈa# ( GOLD : #məse̯ˈa#) :
+m ˌaː k s ˈi l l a m 
+*#maːksˈillam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#maːksˈilla# | 45 : m > ∅ / [-stres] __ #
+*#maːssˈilla# | 102 : k > s / __ s
+*#maːssˈella# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#maːsˈella# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#masˈella# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#masˈella#
+*#masˈɛlla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#masˈɛwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#masˈɛawa# | 214 : ∅ > a / [-tense] __
+*#masˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mase̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#məse̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#məse̯ˈaw# | 226 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#məse̯ˈa# | 227 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+Common Romanian stage form : *#məse̯ˈa#
+Old Romanian stage form : *#məse̯ˈa#
+Final form : *#məse̯ˈa#

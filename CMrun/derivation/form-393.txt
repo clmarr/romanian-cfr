@@ -1,23 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 393:
-#ˌarˈaːneam# >>> *#rˈɨje# ( GOLD : #rˈɨje#) :
-ˌa r ˈaː n e a m 
-*#ˌarˈaːnjam# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#arˈaːnjam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#arˈaːnja# | 45 : m > ∅ / [-stres] __ #
-*#rˈaːnja# | 105 : a > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
-*#rˈanja# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rˈanja#
-*#ɾˈanja# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾˈanja# | 170 : ∅ > r / # __ ɾ
-*#rɾˈanʲja# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾˈanʲa# | 207 : j > ∅ / [+cons,+front] __
-*#rɾˈaɲa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#rɾˈəɲa# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#rɾˈəɲə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#rɾˈəɲe# | 229 : ə > e / [+cons,+front,+son] __
-Common Romanian stage form : *#rɾˈəɲe#
-*#rˈəɲe# | 243 : {ɾ;r} > {∅;∅} / r __
-*#rˈɨɲe# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#rˈɨje# | 268 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#rˈɨje#
-Final form : *#rˈɨje#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 393:
+#wˌindikˈaː# >>> *#vindekˈa# ( GOLD : #vindekˈa#) :
+w ˌi n d i k ˈaː 
+*#windikˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#βindikˈaː# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#βendekˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#vendekˈaː# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#vendekˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#vendekˈa#
+Common Romanian stage form : *#vendekˈa#
+*#vindekˈa# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Old Romanian stage form : *#vindekˈa#
+Final form : *#vindekˈa#

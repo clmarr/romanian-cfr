@@ -1,17 +1,13 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 268:
-#pˈellem# >>> *#pjˈele# ( GOLD : #pjˈele#) :
-p ˈe l l e m 
-*#pˈelle# | 45 : m > ∅ / [-stres] __ #
-*#pˈɛlle# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#pˈɛlle#
-*#pjˈɛlle# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈelle# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛlle# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛle# | 205 : {l l;m m} > {l;m} 
-*#pjˈɛale# | 214 : ∅ > a / [-tense] __
-*#pjˈeˈale# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈale# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#pje̯ˈale#
-*#pjˈele# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-Old Romanian stage form : *#pjˈele#
-Final form : *#pjˈele#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 268:
+#mˌedˈullam# >>> *#mədˈuvə# ( GOLD : #mədˈuvə#) :
+m ˌe d ˈu l l a m 
+*#medˈullam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#medˈulla# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#medˈulla#
+*#medˈuwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#medˈuva# | 224 : [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
+*#medˈuvə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#medˈuvə#
+*#mədˈuvə# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+Old Romanian stage form : *#mədˈuvə#
+Final form : *#mədˈuvə#
