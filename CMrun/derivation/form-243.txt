@@ -1,21 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 243:
-#rˌenˈunkulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
-r ˌe n ˈu n k u l u m 
-*#renˈunkulum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#renˈunkulu# | 45 : m > ∅ / [-stres] __ #
-*#renˈunklu# | 57 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-Balkan Romance stage form : *#renˈunklu#
-*#ɾenˈunklu# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾenˈunklu# | 170 : ∅ > r / # __ ɾ
-*#rɾenˈunkʎu# | 228 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#rɾenˈunkʎu#
-*#renˈunkʎu# | 243 : {ɾ;r} > {∅;∅} / r __
-*#rənˈunkʎu# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-*#rərˈunkʎu# | 245 : n > r / ə __ [+syl,+hi,+back] [+nas]
-*#rərˈunkju# | 268 : [+son,+cons,+front] > j 
-*#rərˈunkjw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rərˈunkj# | 280 : w̥ > ∅ / [-syl] __ #
-*#rənˈunkj# | 303 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
-*#rərˈunkj# | 304 : n > r / r [+syl] __ [+syl] n
-Old Romanian stage form : *#rərˈunkj#
-Final form : *#rərˈunkj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 243:
+#rˌeːnˈikulum# >>> *#rɨnˈekj# ( GOLD : #rinˈikj#) :
+r ˌeː n ˈi k u l u m 
+*#reːnˈikulum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#reːnˈikulu# | 45 : m > ∅ / [-stres] __ #
+*#reːnˈiklu# | 57 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#reːnˈeklu# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#renˈeklu# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#renˈeklu#
+*#ɾenˈeklu# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾenˈeklu# | 170 : ∅ > r / # __ ɾ
+*#rɾinˈeklu# | 200 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#rɾinˈekʎu# | 228 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#rɾinˈekʎu#
+*#rinˈekʎu# | 243 : {ɾ;r} > {∅;∅} / r __
+*#rɨnˈekʎu# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#rɨnˈekju# | 268 : [+son,+cons,+front] > j 
+*#rɨnˈekjw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rɨnˈekj# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rɨnˈekj#
+Final form : *#rɨnˈekj#

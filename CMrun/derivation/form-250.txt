@@ -1,16 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 250:
-#ˌumbilˈiːkum# >>> *#mberˈik# ( GOLD : #burˈik#) :
-ˌu m b i l ˈiː k u m 
-*#umbilˈiːkum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#umbilˈiːku# | 45 : m > ∅ / [-stres] __ #
-*#umbelˈiːku# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#umbelˈiku# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#umbelˈiku#
-*#umbeɾˈiku# | 189 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#umbeɾˈiku#
-*#mbeɾˈiku# | 256 : u > ∅ / # __ [+cons,-cor,-front]
-*#mberˈiku# | 264 : ɾ > r 
-*#mberˈikw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mberˈik# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mberˈik#
-Final form : *#mberˈik#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 250:
+#trˈunkulum# >>> *#trˈunkj# ( GOLD : #trˈunkj#) :
+t r ˈu n k u l u m 
+*#trˈunkulu# | 45 : m > ∅ / [-stres] __ #
+*#trˈunklu# | 56 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+Balkan Romance stage form : *#trˈunklu#
+*#tɾˈunklu# | 169 : r > ɾ / __ [nnas,ncons]
+*#tɾˈunkʎu# | 228 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#tɾˈunkʎu#
+*#trˈunkʎu# | 264 : ɾ > r 
+*#trˈunkju# | 268 : [+son,+cons,+front] > j 
+*#trˈunkjw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#trˈunkj# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#trˈunkj#
+Final form : *#trˈunkj#

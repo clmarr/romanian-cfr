@@ -1,26 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1265:
-#retˈella# >>> *#rət͡se̯ˈa# ( GOLD : #ret͡se̯ˈa#) :
-r e t ˈe l l a  
-*#retˈɛlla# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#retˈɛlla#
-*#ɾetˈɛlla# | 169 : r > ɾ / __ [nnas,ncons]
-*#rɾetˈɛlla# | 170 : ∅ > r / # __ ɾ
-*#rɾetjˈɛlla# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#rɾetjˈella# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#rɾetjˈɛlla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#rɾetjˈɛwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#rɾetʲjˈɛwa# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#rɾetʲˈɛwa# | 207 : j > ∅ / [+cons,+front] __
-*#rɾetʲˈɛawa# | 214 : ∅ > a / [-tense] __
-*#rɾetʲˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#rɾetʲe̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#rɾetʲe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#rɾetʲe̯ˈaw# | 226 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#rɾetʲe̯ˈa# | 227 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-*#rɾet͡sʲe̯ˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#rɾet͡se̯ˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#rɾet͡se̯ˈa#
-*#ret͡se̯ˈa# | 243 : {ɾ;r} > {∅;∅} / r __
-*#rət͡se̯ˈa# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Old Romanian stage form : *#rət͡se̯ˈa#
-Final form : *#rət͡se̯ˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1265:
+#raskulˈaː# >>> *#rəʃkjˈa# ( GOLD : #rəʃkjˈa#) :
+r a s k u l ˈaː 
+*#rasklˈaː# | 54 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
+*#rasklˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rasklˈa#
+*#ɾasklˈa# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾasklˈa# | 170 : ∅ > r / # __ ɾ
+*#rɾəsklˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#rɾəskʎˈa# | 228 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#rɾəskʎˈa#
+*#rəskʎˈa# | 243 : {ɾ;r} > {∅;∅} / r __
+*#rəʃkʎˈa# | 252 : s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
+*#rəʃkjˈa# | 268 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#rəʃkjˈa#
+Final form : *#rəʃkjˈa#

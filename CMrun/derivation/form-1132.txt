@@ -1,14 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1132:
-#ekstrikˈaː# >>> *#strikˈa# ( GOLD : #strikˈa#) :
-e k s t r i k ˈaː 
-*#estrikˈaː# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estrekˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrekˈa# | 160 : [+syl] > [-long,-splng] 
-*#strekˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strekˈa#
-*#stɾekˈa# | 169 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#stɾekˈa#
-*#strekˈa# | 264 : ɾ > r 
-*#strikˈa# | 291 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Old Romanian stage form : *#strikˈa#
-Final form : *#strikˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1132:
+#ekstrakolˈaː# >>> *#strəkurˈa# ( GOLD : #strekurˈa#) :
+e k s t r a k o l ˈaː 
+*#estrakolˈaː# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estrakolˈa# | 160 : [+syl] > [-long,-splng] 
+*#strakolˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#strakolˈa#
+*#stɾakolˈa# | 169 : r > ɾ / __ [nnas,ncons]
+*#stɾakulˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#stɾakuɾˈa# | 189 : l > ɾ / [+syl] __ [+syl]
+*#stɾəkuɾˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#stɾəkuɾˈa#
+*#strəkurˈa# | 264 : ɾ > r 
+Old Romanian stage form : *#strəkurˈa#
+Final form : *#strəkurˈa#

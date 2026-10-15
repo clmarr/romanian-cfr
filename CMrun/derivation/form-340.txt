@@ -1,15 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 340:
-#fˌeːlˈiːkem# >>> *#ferˈit͡ʃe# ( GOLD : #ferˈit͡ʃe#) :
-f ˌeː l ˈiː k e m 
-*#feːlˈiːkem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːlˈiːke# | 45 : m > ∅ / [-stres] __ #
-*#feːlˈiːkʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#felˈikʲe# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#felˈikʲe#
-*#feɾˈikʲe# | 189 : l > ɾ / [+syl] __ [+syl]
-*#feɾˈic͡ɕe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#feɾˈit͡ʃe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#feɾˈit͡ʃe#
-*#ferˈit͡ʃe# | 264 : ɾ > r 
-Old Romanian stage form : *#ferˈit͡ʃe#
-Final form : *#ferˈit͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 340:
+#ˌekstˌemperˈaː# >>> *#stimpərˈa# ( GOLD : #stɨmpərˈa#) :
+ˌe k s t ˌe m p e r ˈaː 
+*#ekstemperˈaː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#estemperˈaː# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
+*#estemperˈa# | 160 : [+syl] > [-long,-splng] 
+*#stemperˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#stemperˈa#
+*#stempeɾˈa# | 169 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#stempeɾˈa#
+*#stempəɾˈa# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#stimpəɾˈa# | 253 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
+*#stimpərˈa# | 264 : ɾ > r 
+Old Romanian stage form : *#stimpərˈa#
+Final form : *#stimpərˈa#

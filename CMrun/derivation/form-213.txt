@@ -1,11 +1,25 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 213:
-#dˈentem# >>> *#dˈinte# ( GOLD : #dˈinte#) :
-d ˈe n t e m 
-*#dˈente# | 45 : m > ∅ / [-stres] __ #
-*#dˈɛnte# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#dˈɛnte#
-*#dˈente# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-Common Romanian stage form : *#dˈente#
-*#dˈinte# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#dˈinte#
-Final form : *#dˈinte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 213:
+#kˌerˈebulum# >>> *#krˈejer# ( GOLD : #krˈejer#) :
+k ˌe r ˈe b u l u m 
+*#kerˈebulum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kerˈebulu# | 45 : m > ∅ / [-stres] __ #
+*#krˈebulu# | 48 : [+syl,+front,-lo,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#krˈɛbulu# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈɛβulu# | 125 : b > β / [-cons] __ [+cont]
+*#krˈɛβjelu# | 142 : [+round,-prim] > j e/ [+front,-cons,-lo] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
+*#krˈɛjelu# | 147 : β > ∅ 
+Balkan Romance stage form : *#krˈɛjelu#
+*#kɾˈɛjelu# | 169 : r > ɾ / __ [nnas,ncons]
+*#kɾˈejelu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kɾˈejeɾu# | 189 : l > ɾ / [+syl] __ [+syl]
+*#kɾˈɛjeɾu# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kɾˈɛajeɾu# | 214 : ∅ > a / [-tense] __
+*#kɾˈeˈajeɾu# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kɾe̯ˈajeɾu# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#kɾe̯ˈajeɾu#
+*#kɾˈejeɾu# | 251 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#krˈejeru# | 264 : ɾ > r 
+*#krˈejerw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#krˈejer# | 280 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#krˈejer#
+Final form : *#krˈejer#

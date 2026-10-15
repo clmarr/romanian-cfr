@@ -1,11 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 921:
-#hospitˈaː# >>> *#ospətˈa# ( GOLD : #ospətˈa#) :
-h o s p i t ˈaː 
-*#ospitˈaː# | 41 : [-son,-cons] > ∅ 
-*#ospetˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#ospetˈa# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ospetˈa#
-Common Romanian stage form : *#ospetˈa#
-*#ospətˈa# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-Old Romanian stage form : *#ospətˈa#
-Final form : *#ospətˈa#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 921:
+#hˈospitem# >>> *#o̯ˈaspete# ( GOLD : #o̯ˈaspete#) :
+h ˈo s p i t e m 
+*#ˈospitem# | 41 : [-son,-cons] > ∅ 
+*#ˈospite# | 45 : m > ∅ / [-stres] __ #
+*#ˈospete# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ˈospete#
+*#ˈɔspete# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔaspete# | 214 : ∅ > a / [-tense] __
+*#ˈoˈaspete# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈaspete# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#o̯ˈaspete#
+Old Romanian stage form : *#o̯ˈaspete#
+Final form : *#o̯ˈaspete#

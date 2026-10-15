@@ -1,13 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1096:
-#spˈarɡe# >>> *#spˈard͡ʒe# ( GOLD : #spˈard͡ʒe#) :
-s p ˈa r ɡ e 
-*#ispˈarɡe# | 109 : ∅ > i / # __ s [+cons,-son]
-*#espˈarɡe# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#espˈarɡʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#spˈarɡʲe# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#spˈarɡʲe#
-*#spˈarɟ͡ʑe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#spˈard͡ʒe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#spˈard͡ʒe#
-Old Romanian stage form : *#spˈard͡ʒe#
-Final form : *#spˈard͡ʒe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1096:
+#skarpinˈaː# >>> *#skərpinˈa# ( GOLD : #skərpinˈa#) :
+s k a r p i n ˈaː 
+*#iskarpinˈaː# | 109 : ∅ > i / # __ s [+cons,-son]
+*#eskarpenˈaː# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskarpenˈa# | 160 : [+syl] > [-long,-splng] 
+*#skarpenˈa# | 161 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#skarpenˈa#
+*#skarpinˈa# | 200 : [+syl,+front,-hi,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#skərpinˈa# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skərpinˈa#
+Old Romanian stage form : *#skərpinˈa#
+Final form : *#skərpinˈa#

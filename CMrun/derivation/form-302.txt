@@ -1,10 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 302:
-#fˈutue# >>> *#fˈute# ( GOLD : #fˈute#) :
-f ˈu t u e 
-*#fˈutwe# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#fˈutβe# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#fˈute# | 147 : β > ∅ 
-Balkan Romance stage form : *#fˈute#
-Common Romanian stage form : *#fˈute#
-Old Romanian stage form : *#fˈute#
-Final form : *#fˈute#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 302:
+#fˈie# >>> *#fˈi# ( GOLD : #fˈi#) :
+f ˈi e 
+*#fˈii# | 117 : [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
+*#fˈi# | 118 : [+syl,αhi,βlo,ɣfront,ðback] > ∅ / [αhi,βlo,ɣfront,ðback,+stres] __
+*#fˈiː# | 123 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#fˈi# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈi#
+Common Romanian stage form : *#fˈi#
+Old Romanian stage form : *#fˈi#
+Final form : *#fˈi#

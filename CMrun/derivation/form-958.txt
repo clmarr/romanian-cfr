@@ -1,14 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 958:
-#paːɡaːnitˈaːtem# >>> *#pəɡɨnətˈate# ( GOLD : #pəɡɨnətˈate#) :
-p aː ɡ aː n i t ˈaː t e m 
-*#paːɡaːnitˈaːte# | 45 : m > ∅ / [-stres] __ #
-*#paːɡaːnetˈaːte# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#paɡanetˈate# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#paɡanetˈate#
-*#paɡənetˈate# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#pəɡənetˈate# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pəɡənetˈate#
-*#pəɡɨnetˈate# | 266 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#pəɡɨnətˈate# | 270 : e > ə / [-back] n __ t
-Old Romanian stage form : *#pəɡɨnətˈate#
-Final form : *#pəɡɨnətˈate#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 958:
+#oːraːtiˈoːnem# >>> *#urət͡ʃˈune# ( GOLD : #urət͡ʃˈune#) :
+oː r aː t i ˈoː n e m 
+*#oːraːtjˈoːnem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#oːraːtjˈoːne# | 45 : m > ∅ / [-stres] __ #
+*#oːraːttjˈoːne# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#oːraːttʲˈoːne# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#oːraːtkʲˈoːne# | 133 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#oːraːkʲˈoːne# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#orakʲˈone# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#orakʲˈone#
+*#oɾakʲˈone# | 169 : r > ɾ / __ [nnas,ncons]
+*#uɾakʲˈone# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#uɾakʲˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#uɾəkʲˈune# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#uɾəc͡ɕˈune# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#uɾət͡ʃˈune# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#uɾət͡ʃˈune#
+*#urət͡ʃˈune# | 264 : ɾ > r 
+Old Romanian stage form : *#urət͡ʃˈune#
+Final form : *#urət͡ʃˈune#

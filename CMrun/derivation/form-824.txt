@@ -1,14 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 824:
-#lˌumbrˈiːkum# >>> *#lumbrˈik# ( GOLD : #limbrˈik#) :
-l ˌu m b r ˈiː k u m 
-*#lumbrˈiːkum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#lumbrˈiːku# | 45 : m > ∅ / [-stres] __ #
-*#lumbrˈiku# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#lumbrˈiku#
-*#lumbɾˈiku# | 169 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#lumbɾˈiku#
-*#lumbrˈiku# | 264 : ɾ > r 
-*#lumbrˈikw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lumbrˈik# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#lumbrˈik#
-Final form : *#lumbrˈik#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 824:
+#lˈendinam# >>> *#lˈindinə# ( GOLD : #lˈindinə#) :
+l ˈe n d i n a m 
+*#lˈendina# | 45 : m > ∅ / [-stres] __ #
+*#lˈɛndina# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɛndena# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#lˈɛndena#
+*#lˈendena# | 176 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#lˈendenə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#lˈendenə#
+*#lˈindenə# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+*#lˈindinə# | 254 : [+syl,+front,-hi,-lo] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#lˈindinə#
+Final form : *#lˈindinə#

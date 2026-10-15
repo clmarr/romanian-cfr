@@ -1,15 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 420:
-#tˌussˈiː# >>> *#tuʃˈi# ( GOLD : #tuʃˈi#) :
-t ˌu s s ˈiː 
-*#tussˈiː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#tusˈiː# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#tusˈi# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#tusˈi#
-*#tusjˈi# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#tusʲjˈi# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#tusʲˈi# | 207 : j > ∅ / [+cons,+front] __
-*#tuɕˈi# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#tuʃˈi# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#tuʃˈi#
-Old Romanian stage form : *#tuʃˈi#
-Final form : *#tuʃˈi#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 420:
+#rˌepˈoːne# >>> *#rəpˈune# ( GOLD : #rəpˈune#) :
+r ˌe p ˈoː n e 
+*#repˈoːne# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#repˈone# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#repˈone#
+*#ɾepˈone# | 169 : r > ɾ / __ [nnas,ncons]
+*#rɾepˈone# | 170 : ∅ > r / # __ ɾ
+*#rɾepˈune# | 217 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#rɾepˈune#
+*#repˈune# | 243 : {ɾ;r} > {∅;∅} / r __
+*#rəpˈune# | 244 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Old Romanian stage form : *#rəpˈune#
+Final form : *#rəpˈune#

@@ -1,21 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1277:
-#liɡnˈaːrium# >>> *#lemnˈar# ( GOLD : #lemnˈar#) :
-l i ɡ n ˈaː r i u m 
-*#liɡnˈaːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#liŋnˈaːrjum# | 21 : ɡ > ŋ / __ n
-*#liŋnˈaːrju# | 45 : m > ∅ / [-stres] __ #
-*#limnˈaːrju# | 103 : ŋ > m / __ n
-*#lemnˈaːrju# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#lemnˈarju# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#lemnˈarju#
-*#lemnˈaɾju# | 169 : r > ɾ / __ [nnas,ncons]
-*#lemnˈaɾʲju# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#lemnˈaɾʲu# | 207 : j > ∅ / [+cons,+front] __
-*#lemnˈajɾu# | 231 : ɾʲ > j ɾ 
-Common Romanian stage form : *#lemnˈajɾu#
-*#lemnˈajru# | 264 : ɾ > r 
-*#lemnˈajrw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lemnˈajr# | 280 : w̥ > ∅ / [-syl] __ #
-*#lemnˈar# | 288 : j > ∅ / __ r
-Old Romanian stage form : *#lemnˈar#
-Final form : *#lemnˈar#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1277:
+#dolˈaː# >>> *#durˈa# ( GOLD : #durˈa#) :
+d o l ˈaː 
+*#dolˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dolˈa#
+*#dulˈa# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#duɾˈa# | 189 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#duɾˈa#
+*#durˈa# | 264 : ɾ > r 
+Old Romanian stage form : *#durˈa#
+Final form : *#durˈa#

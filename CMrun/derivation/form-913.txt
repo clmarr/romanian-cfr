@@ -1,18 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 913:
-#kˈohortem# >>> *#ko̯ˈarte# ( GOLD : #kˈurte#) :
-k ˈo h o r t e m 
-*#kˈoortem# | 41 : [-son,-cons] > ∅ 
-*#kˈoorte# | 45 : m > ∅ / [-stres] __ #
-*#koˈoːrte# | 115 : [-lo,+prim] [-cons] > [-stres,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons]
-*#kuˈoːrte# | 116 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#kwˈoːrte# | 121 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#kˈoːrte# | 129 : w > ∅ / __ [+syl]
-*#kˈorte# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kˈorte#
-*#kˈɔrte# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔarte# | 214 : ∅ > a / [-tense] __
-*#kˈoˈarte# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈarte# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#ko̯ˈarte#
-Old Romanian stage form : *#ko̯ˈarte#
-Final form : *#ko̯ˈarte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 913:
+#aspektˈaː# >>> *#aʃteptˈa# ( GOLD : #aʃteptˈa#) :
+a s p e k t ˈaː 
+*#askeptˈaː# | 28 : p [+syl] k > k [+syl,+son] p/ s __ t
+*#askʲeptˈaː# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#askʲeptˈa# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#askʲeptˈa#
+*#aʃteptˈa# | 232 : s [-cont,+front] > ʃ t
+Common Romanian stage form : *#aʃteptˈa#
+Old Romanian stage form : *#aʃteptˈa#
+Final form : *#aʃteptˈa#

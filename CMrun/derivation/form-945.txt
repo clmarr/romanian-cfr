@@ -1,17 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 945:
-#neɡˈoːtium# >>> *#neɡˈot͡s# ( GOLD : #neɡˈot͡s#) :
-n e ɡ ˈoː t i u m 
-*#neɡˈoːtjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#neɡˈoːtju# | 45 : m > ∅ / [-stres] __ #
-*#neɡˈoːttju# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#neɡˈoːttʲu# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#neɡˈoːtʲu# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#neɡˈotʲu# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#neɡˈotʲu#
-*#neɡˈot͡sʲu# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#neɡˈot͡su# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#neɡˈot͡su#
-*#neɡˈot͡sw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#neɡˈot͡s# | 280 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#neɡˈot͡s#
-Final form : *#neɡˈot͡s#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 945:
+#neɡoːtiaːtˈoːrem# >>> *#neɡut͡sətˈor# ( GOLD : #neɡut͡sətˈor#) :
+n e ɡ oː t i aː t ˈoː r e m 
+*#neɡoːtjaːtˈoːrem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#neɡoːtjaːtˈoːre# | 45 : m > ∅ / [-stres] __ #
+*#neɡoːtjaːtˈoːr# | 87 : e > ∅ / [-round] t ˈoː r __ #
+*#neɡoːttjaːtˈoːr# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#neɡoːttʲaːtˈoːr# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#neɡoːtʲaːtˈoːr# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#neɡotʲatˈor# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#neɡotʲatˈor#
+*#neɡutʲatˈor# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#neɡutʲətˈor# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#neɡut͡sʲətˈor# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#neɡut͡sətˈor# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#neɡut͡sətˈor#
+Old Romanian stage form : *#neɡut͡sətˈor#
+Final form : *#neɡut͡sətˈor#

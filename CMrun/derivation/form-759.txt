@@ -1,17 +1,23 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 759:
-#pˌorkˈiːnam# >>> *#purt͡ʃˈinə# ( GOLD : #purt͡ʃˈinə#) :
-p ˌo r k ˈiː n a m 
-*#porkˈiːnam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈiːna# | 45 : m > ∅ / [-stres] __ #
-*#porkʲˈiːna# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#porkʲˈina# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#porkʲˈina#
-*#purkʲˈina# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purkʲjˈina# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#purkʲˈina# | 207 : j > ∅ / [+cons,+front] __
-*#purkʲˈinə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#purc͡ɕˈinə# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#purt͡ʃˈinə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#purt͡ʃˈinə#
-Old Romanian stage form : *#purt͡ʃˈinə#
-Final form : *#purt͡ʃˈinə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 759:
+#pˌorkˈellam# >>> *#purt͡ʃe̯ˈa# ( GOLD : #purt͡ʃe̯ˈa#) :
+p ˌo r k ˈe l l a m 
+*#porkˈellam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#porkˈella# | 45 : m > ∅ / [-stres] __ #
+*#porkˈɛlla# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#porkʲˈɛlla# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#porkʲˈɛlla#
+*#porkʲˈella# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#purkʲˈella# | 184 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#purkʲˈɛlla# | 195 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#purkʲˈɛwa# | 201 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#purkʲˈɛawa# | 214 : ∅ > a / [-tense] __
+*#purkʲˈeˈawa# | 215 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#purkʲe̯ˈawa# | 216 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#purkʲe̯ˈawə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#purkʲe̯ˈaw# | 226 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
+*#purkʲe̯ˈa# | 227 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
+*#purc͡ɕe̯ˈa# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#purt͡ʃe̯ˈa# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#purt͡ʃe̯ˈa#
+Old Romanian stage form : *#purt͡ʃe̯ˈa#
+Final form : *#purt͡ʃe̯ˈa#

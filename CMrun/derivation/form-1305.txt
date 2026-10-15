@@ -1,23 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1305:
-#liksˈiːwiam# >>> *#leʃˈie# ( GOLD : #leʃˈie#) :
-l i k s ˈiː w i a m 
-*#liksˈiːwjam# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#liksˈiːwja# | 45 : m > ∅ / [-stres] __ #
-*#liksˈiːβja# | 91 : w > β / __ ( [-cons] ( @ )* ) #
-*#lissˈiːβja# | 102 : k > s / __ s
-*#lessˈiːβja# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-*#lessˈiːja# | 147 : β > ∅ 
-*#lesˈiːja# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#lesˈija# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#lesˈija#
-*#lesjˈija# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#lesʲjˈija# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#lesʲˈija# | 207 : j > ∅ / [+cons,+front] __
-*#leɕˈija# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#leɕˈijə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#leʃˈijə# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#leʃˈijə#
-*#leʃˈije# | 275 : ə > e / [+front,+hi] __ #
-*#leʃˈie# | 315 : j > ∅ / [+hi,+front] __ e
-Old Romanian stage form : *#leʃˈie#
-Final form : *#leʃˈie#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1305:
+#lawatˈuːram# >>> *#lətˈurə# ( GOLD : #lətˈurə#) :
+l a w a t ˈuː r a m 
+*#lawatˈuːra# | 45 : m > ∅ / [-stres] __ #
+*#laβatˈuːra# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#laatˈuːra# | 147 : β > ∅ 
+*#latˈuːra# | 153 : [+syl,-stres] > ∅ / a __
+*#latˈura# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#latˈura#
+*#latˈuɾa# | 169 : r > ɾ / __ [nnas,ncons]
+*#lətˈuɾə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#lətˈuɾə#
+*#lətˈurə# | 264 : ɾ > r 
+Old Romanian stage form : *#lətˈurə#
+Final form : *#lətˈurə#

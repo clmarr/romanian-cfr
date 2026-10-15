@@ -1,19 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 773:
-#bˈuːbalum# >>> *#bˈowr# ( GOLD : #bˈowr#) :
-b ˈuː b a l u m 
-*#bˈuːbalu# | 45 : m > ∅ / [-stres] __ #
-*#bˈuːβalu# | 125 : b > β / [-cons] __ [+cont]
-*#bˈuːalu# | 147 : β > ∅ 
-*#bˈualu# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#bˈualu#
-*#bˈuaɾu# | 189 : l > ɾ / [+syl] __ [+syl]
-*#bˈuəɾu# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#bˈuəɾu#
-*#bˈuəru# | 264 : ɾ > r 
-*#bˈuərw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bˈuər# | 280 : w̥ > ∅ / [-syl] __ #
-*#bˈoər# | 310 : [+syl,+hi] > [-hi] / [+cons] __ ə
-*#bˈowər# | 311 : ∅ > w / [+prim,+round,-hi] __ [+syl]
-*#bˈowr# | 312 : ə > ∅ / w __ @
-Old Romanian stage form : *#bˈowr#
-Final form : *#bˈowr#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 773:
+#wˌitˈuleam# >>> *#vətˈuje# ( GOLD : #vətˈuje#) :
+w ˌi t ˈu l e a m 
+*#wˌitˈuljam# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#witˈuljam# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#witˈulja# | 45 : m > ∅ / [-stres] __ #
+*#βitˈulja# | 91 : w > β / __ ( [-cons] ( @ )* ) #
+*#βetˈulja# | 126 : [+syl,-long,+hi,-back] > [-hi] 
+*#vetˈulja# | 136 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vetˈulja#
+*#vetˈulʲja# | 206 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vetˈulʲa# | 207 : j > ∅ / [+cons,+front] __
+*#vetˈuʎa# | 212 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#vetˈuʎə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#vetˈuʎe# | 229 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#vetˈuʎe#
+*#vətˈuʎe# | 240 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#vətˈuje# | 268 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#vətˈuje#
+Final form : *#vətˈuje#

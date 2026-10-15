@@ -1,16 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 442:
-#kˈinɡulam# >>> *#kˈinɡə# ( GOLD : #kˈinɡə#) :
-k ˈi n ɡ u l a m 
-*#kˈinɡula# | 45 : m > ∅ / [-stres] __ #
-*#kˈinɡla# | 56 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#klˈinɡa# | 78 : ∅ [+syl] [+nas] [-cont,+back] l > l [+syl,+son] [+nas] [-cont,+back,+cons,0tense] ∅/ [-cont,+back] __
-*#klˈenɡa# | 126 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#klˈenɡa#
-*#klˈenɡə# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kʎˈenɡə# | 228 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#kʎˈenɡə#
-*#kʎˈinɡə# | 247 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#kjˈinɡə# | 268 : [+son,+cons,+front] > j 
-*#kˈinɡə# | 285 : j > ∅ / __ [+front,+hi]
-Old Romanian stage form : *#kˈinɡə#
-Final form : *#kˈinɡə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 442:
+#braːkˈiːle# >>> *#brət͡ʃˈire# ( GOLD : #brət͡ʃˈire#) :
+b r aː k ˈiː l e 
+*#braːkʲˈiːle# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#brakʲˈile# | 160 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#brakʲˈile#
+*#bɾakʲˈile# | 169 : r > ɾ / __ [nnas,ncons]
+*#bɾakʲˈiɾe# | 189 : l > ɾ / [+syl] __ [+syl]
+*#bɾakʲjˈiɾe# | 204 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#bɾakʲˈiɾe# | 207 : j > ∅ / [+cons,+front] __
+*#bɾəkʲˈiɾe# | 225 : [-cons,+lo,-stres,-long] > ə / @ __
+*#bɾəc͡ɕˈiɾe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#bɾət͡ʃˈiɾe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#bɾət͡ʃˈiɾe#
+*#brət͡ʃˈire# | 264 : ɾ > r 
+Old Romanian stage form : *#brət͡ʃˈire#
+Final form : *#brət͡ʃˈire#
