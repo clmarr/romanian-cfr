@@ -3,8 +3,8 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 213:
 k ˌe r ˈe b u l u m 
 *#kerˈebulum# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#kerˈebulu# | 46 : m > ∅ / [-stres] __ #
-*#krˈebulu# | 49 : [+syl,+front,-lo,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
-*#krˈɛbulu# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#krˈebulu# | 49 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#krˈɛbulu# | 120 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#krˈɛβulu# | 123 : b > β / [-cons] __ [+cont]
 *#krˈɛβjelu# | 139 : [+round,-prim] > j e/ [+front,-cons,-lo] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
 *#krˈɛjelu# | 144 : β > ∅ 
@@ -13,11 +13,11 @@ Balkan Romance stage form : *#krˈɛjelu#
 *#kɾˈejelu# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
 *#kɾˈejeɾu# | 186 : l > ɾ / [+syl] __ [+syl]
 *#kɾˈɛjeɾu# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kɾˈɛajeɾu# | 211 : ∅ > a / [-tense] __
-*#kɾˈeˈajeɾu# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kɾe̯ˈajeɾu# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#kɾe̯ˈajeɾu#
-*#kɾˈejeɾu# | 248 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#kɾˈɛɑjeɾu# | 211 : ∅ > ɑ / [-tense] __
+*#kɾˈeˈɑjeɾu# | 212 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kɾe̯ˈɑjeɾu# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#kɾe̯ˈɑjeɾu#
+*#kɾˈejeɾu# | 248 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
 *#krˈejeru# | 261 : ɾ > r 
 *#krˈejerw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
 *#krˈejer# | 277 : w̥ > ∅ / [-syl] __ #

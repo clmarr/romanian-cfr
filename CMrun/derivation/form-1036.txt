@@ -3,19 +3,19 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1036:
 ˌi n d ˈe r e t r o 
 *#indˈeretro# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#indˈeret# | 86 : r [+syl,-stres,+round] > ∅/ [+syl] t __ #
-*#indˈɛret# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#indˈɛret# | 120 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#endˈɛret# | 124 : [+syl,-long,+hi,-back] > [-hi] 
 Balkan Romance stage form : *#endˈɛret#
 *#endˈɛɾet# | 166 : r > ɾ / __ [nnas,ncons]
 *#andˈɛɾet# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#indˈɛɾet# | 172 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,-lo,!aprim]
+*#indˈɛɾet# | 172 : [+lo,aprim] > [-lo,+hi] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,!aprim]
 *#indˈeɾet# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
 *#indˈɛɾet# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#indˈɛaɾet# | 211 : ∅ > a / [-tense] __
-*#indˈeˈaɾet# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#inde̯ˈaɾet# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#inde̯ˈaɾet#
-*#indˈeɾet# | 248 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#indˈɛɑɾet# | 211 : ∅ > ɑ / [-tense] __
+*#indˈeˈɑɾet# | 212 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#inde̯ˈɑɾet# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#inde̯ˈɑɾet#
+*#indˈeɾet# | 248 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
 *#indˈeret# | 261 : ɾ > r 
 Old Romanian stage form : *#indˈeret#
 Final form : *#indˈeret#

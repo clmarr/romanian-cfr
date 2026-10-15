@@ -1,19 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 153:
-#ˌinˌɑltiˈɑː# >>> *#ɨnəlt͡sˈɑ# ( GOLD : #ɨnəlt͡sˈɑ#) :
+#ˌinˌɑltiˈɑː# >>> *#anəlt͡sˈɑ# ( GOLD : #ɨnəlt͡sˈɑ#) :
 ˌi n ˌɑ l t i ˈɑː 
-*#ˌinˌaltiˈɑː# | 6 : [+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
-*#ˌinˌaltjˈɑː# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inaltjˈɑː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inaltʲˈɑː# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enaltʲˈɑː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#enaltʲˈɑ# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enaltʲˈɑ#
-*#analtʲˈɑ# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənaltʲˈɑ# | 214 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənəltʲˈɑ# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənəlt͡sʲˈɑ# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənəlt͡sˈɑ# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənəlt͡sˈɑ#
-*#ɨnəlt͡sˈɑ# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnəlt͡sˈɑ#
-Final form : *#ɨnəlt͡sˈɑ#
+*#ˌinˌɑltjˈɑː# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#inɑltjˈɑː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inɑltʲˈɑː# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#enɑltʲˈɑː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑltʲˈɑ# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enɑltʲˈɑ#
+*#anɑltʲˈɑ# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#anəltʲˈɑ# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+*#anəlt͡sʲˈɑ# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#anəlt͡sˈɑ# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#anəlt͡sˈɑ#
+Old Romanian stage form : *#anəlt͡sˈɑ#
+Final form : *#anəlt͡sˈɑ#

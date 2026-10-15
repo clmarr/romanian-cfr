@@ -1,18 +1,26 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 828:
-#ˌoe̯strˈikulɑm# >>> *#strˈekurə# ( GOLD : #strˈekje#) :
+#ˌoe̯strˈikulɑm# >>> *#strˈekje# ( GOLD : #strˈekje#) :
 ˌo e̯ s t r ˈi k u l ɑ m 
 *#ˌojstrˈikulɑm# | 21 : e̯ > j 
 *#ojstrˈikulɑm# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#eːstrˈikulɑm# | 44 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
 *#eːstrˈikulɑ# | 46 : m > ∅ / [-stres] __ #
-*#eːstrˈekulɑ# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrˈekulɑ# | 157 : [+syl] > [-long,-splng] 
-*#strˈekulɑ# | 158 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strˈekulɑ#
-*#stɾˈekulɑ# | 166 : r > ɾ / __ [nnas,ncons]
-*#stɾˈekuɾɑ# | 186 : l > ɾ / [+syl] __ [+syl]
-*#stɾˈekuɾə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#stɾˈekuɾə#
-*#strˈekurə# | 261 : ɾ > r 
-Old Romanian stage form : *#strˈekurə#
-Final form : *#strˈekurə#
+*#eːstrˈiklɑ# | 62 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#eːstrˈeklɑ# | 124 : [+syl,-long,+hi,-back] > [-hi] 
+*#estrˈeklɑ# | 157 : [+syl] > [-long,-splng] 
+*#strˈeklɑ# | 158 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#strˈeklɑ#
+*#stɾˈeklɑ# | 166 : r > ɾ / __ [nnas,ncons]
+*#stɾˈɛklɑ# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#stɾˈɛɑklɑ# | 211 : ∅ > ɑ / [-tense] __
+*#stɾˈeˈɑklɑ# | 212 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#stɾe̯ˈɑklɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#stɾe̯ˈɑklə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+*#stɾe̯ˈɑkʎə# | 225 : l > ʎ / [-cont,-ant,-cor] __
+*#stɾe̯ˈɑkʎe# | 226 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#stɾe̯ˈɑkʎe#
+*#stɾˈekʎe# | 248 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#strˈekʎe# | 261 : ɾ > r 
+*#strˈekje# | 265 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#strˈekje#
+Final form : *#strˈekje#

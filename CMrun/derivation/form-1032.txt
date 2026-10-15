@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1032:
-#ˌinˌɑbˈinte# >>> *#ɨnəˈinte# ( GOLD : #ɨnɑˈinte#) :
+#ˌinˌɑbˈinte# >>> *#anəˈinte# ( GOLD : #ɨnɑˈinte#) :
 ˌi n ˌɑ b ˈi n t e 
 *#inɑbˈinte# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#inɑβˈinte# | 123 : b > β / [-cons] __ [+cont]
@@ -7,10 +7,8 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1032:
 *#enɑˈente# | 144 : β > ∅ 
 Balkan Romance stage form : *#enɑˈente#
 *#anɑˈente# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənɑˈente# | 214 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənəˈente# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənəˈente#
-*#ənəˈinte# | 244 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnəˈinte# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnəˈinte#
-Final form : *#ɨnəˈinte#
+*#anəˈente# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#anəˈente#
+*#anəˈinte# | 244 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Old Romanian stage form : *#anəˈinte#
+Final form : *#anəˈinte#

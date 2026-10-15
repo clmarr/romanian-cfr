@@ -1,20 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 151:
-#ˌimperˈɑːtum# >>> *#ɨmpərˈat# ( GOLD : #ɨmpərˈɑt#) :
+#ˌimperˈɑːtum# >>> *#amperˈɑt# ( GOLD : #ɨmpərˈɑt#) :
 ˌi m p e r ˈɑː t u m 
-*#ˌimperˈaːtum# | 6 : [+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
-*#imperˈaːtum# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#imperˈaːtu# | 46 : m > ∅ / [-stres] __ #
-*#emperˈaːtu# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#emperˈatu# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#emperˈatu#
-*#empeɾˈatu# | 166 : r > ɾ / __ [nnas,ncons]
-*#ampeɾˈatu# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#əmpeɾˈatu# | 215 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#əmpeɾˈatu#
-*#əmpəɾˈatu# | 237 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#əmpərˈatu# | 261 : ɾ > r 
-*#ɨmpərˈatu# | 264 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
-*#ɨmpərˈatw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨmpərˈat# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɨmpərˈat#
-Final form : *#ɨmpərˈat#
+*#imperˈɑːtum# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#imperˈɑːtu# | 46 : m > ∅ / [-stres] __ #
+*#emperˈɑːtu# | 124 : [+syl,-long,+hi,-back] > [-hi] 
+*#emperˈɑtu# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#emperˈɑtu#
+*#empeɾˈɑtu# | 166 : r > ɾ / __ [nnas,ncons]
+*#ampeɾˈɑtu# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+Common Romanian stage form : *#ampeɾˈɑtu#
+*#amperˈɑtu# | 261 : ɾ > r 
+*#amperˈɑtw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#amperˈɑt# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#amperˈɑt#
+Final form : *#amperˈɑt#

@@ -1,10 +1,10 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 594:
-#hˌibˈernɑm# >>> *#jˈarnə# ( GOLD : #jˈɑrnə#) :
+#hˌibˈernɑm# >>> *#jˈɑrnə# ( GOLD : #jˈɑrnə#) :
 h ˌi b ˈe r n ɑ m 
 *#hibˈernɑm# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ibˈernɑm# | 42 : [-son,-cons] > ∅ 
 *#ibˈernɑ# | 46 : m > ∅ / [-stres] __ #
-*#ibˈɛrnɑ# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ibˈɛrnɑ# | 120 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#iβˈɛrnɑ# | 123 : b > β / [-cons] __ [+cont]
 *#eβˈɛrnɑ# | 124 : [+syl,-long,+hi,-back] > [-hi] 
 *#eˈɛrnɑ# | 144 : β > ∅ 
@@ -13,13 +13,13 @@ Balkan Romance stage form : *#eˈɛrnɑ#
 *#ejˈɛɾnɑ# | 174 : ∅ > j / [+syl] __ [-cons,-tense,+prim]
 *#ejˈeɾnɑ# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
 *#ejˈɛɾnɑ# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ejˈɛaɾnɑ# | 211 : ∅ > a / [-tense] __
-*#ejˈeˈaɾnɑ# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#eje̯ˈaɾnɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#eje̯ˈaɾnə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#eje̯ˈaɾnə#
-*#je̯ˈaɾnə# | 252 : e > ∅ / # __ [-syl] [-cons]
-*#jˈaɾnə# | 255 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
-*#jˈarnə# | 261 : ɾ > r 
-Old Romanian stage form : *#jˈarnə#
-Final form : *#jˈarnə#
+*#ejˈɛɑɾnɑ# | 211 : ∅ > ɑ / [-tense] __
+*#ejˈeˈɑɾnɑ# | 212 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#eje̯ˈɑɾnɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#eje̯ˈɑɾnə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#eje̯ˈɑɾnə#
+*#je̯ˈɑɾnə# | 252 : e > ∅ / # __ [-syl] [-cons]
+*#jˈɑɾnə# | 255 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
+*#jˈɑrnə# | 261 : ɾ > r 
+Old Romanian stage form : *#jˈɑrnə#
+Final form : *#jˈɑrnə#

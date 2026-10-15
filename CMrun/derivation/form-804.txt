@@ -1,32 +1,31 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 804:
-#pˌerwˌiɡilɑːtˈoːriɑm# >>> *#priveɡjeto̯ˈare# ( GOLD : #priviɡjeto̯ˈɑre#) :
+#pˌerwˌiɡilɑːtˈoːriɑm# >>> *#priveɡjeto̯ˈɑre# ( GOLD : #priviɡjeto̯ˈɑre#) :
 p ˌe r w ˌi ɡ i l ɑː t ˈoː r i ɑ m 
-*#pˌerwˌiɡilaːtˈoːriɑm# | 6 : [+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
-*#pˌerwˌiɡilaːtˈoːrjɑm# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#perwiɡilaːtˈoːrjɑm# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#perwiɡilaːtˈoːrjɑ# | 46 : m > ∅ / [-stres] __ #
-*#perwiɡlaːtˈoːrjɑ# | 63 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,alo,afront]
-*#perβiɡlaːtˈoːrjɑ# | 93 : w > β / __ ( [-cons] ( @ )* ) #
-*#preβiɡlaːtˈoːrjɑ# | 94 : ∅ [-prim,kback] r > r [-prim,+syl,+son] ∅/ # ( [+syl] n ) [-delrel,kback,-voi,-cor] __ [-son]
-*#preβeɡlaːtˈoːrjɑ# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#preveɡlaːtˈoːrjɑ# | 133 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#preveɡlatˈorjɑ# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#preveɡlatˈorjɑ#
-*#pɾeveɡlatˈoɾjɑ# | 166 : r > ɾ / __ [nnas,ncons]
-*#pɾeveɡlatˈɔɾjɑ# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pɾeveɡlatˈɔɾʲjɑ# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pɾeveɡlatˈɔɾʲɑ# | 204 : j > ∅ / [+cons,+front] __
-*#pɾeveɡlatˈɔaɾʲɑ# | 211 : ∅ > a / [-tense] __
-*#pɾeveɡlatˈoˈaɾʲɑ# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pɾeveɡlato̯ˈaɾʲɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pɾeveɡləto̯ˈaɾʲə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-*#pɾeveɡʎəto̯ˈaɾʲə# | 225 : l > ʎ / [-cont,-ant,-cor] __
-*#pɾeveɡʎeto̯ˈaɾʲe# | 226 : ə > e / [+cons,+front,+son] __
-*#pɾeveɡʎeto̯ˈajɾe# | 228 : ɾʲ > j ɾ 
-Common Romanian stage form : *#pɾeveɡʎeto̯ˈajɾe#
-*#preveɡʎeto̯ˈajre# | 261 : ɾ > r 
-*#preveɡjeto̯ˈajre# | 265 : [+son,+cons,+front] > j 
-*#preveɡjeto̯ˈare# | 285 : j > ∅ / __ r
-*#priveɡjeto̯ˈare# | 288 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Old Romanian stage form : *#priveɡjeto̯ˈare#
-Final form : *#priveɡjeto̯ˈare#
+*#pˌerwˌiɡilɑːtˈoːrjɑm# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#perwiɡilɑːtˈoːrjɑm# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#perwiɡilɑːtˈoːrjɑ# | 46 : m > ∅ / [-stres] __ #
+*#perwiɡlɑːtˈoːrjɑ# | 63 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#perβiɡlɑːtˈoːrjɑ# | 93 : w > β / __ ( [-cons] ( @ )* ) #
+*#preβiɡlɑːtˈoːrjɑ# | 94 : ∅ [-prim,kback] r > r [-prim,+syl,+son] ∅/ # ( [+syl] n ) [-delrel,kback,-voi,-cor] __ [-son]
+*#preβeɡlɑːtˈoːrjɑ# | 124 : [+syl,-long,+hi,-back] > [-hi] 
+*#preveɡlɑːtˈoːrjɑ# | 133 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#preveɡlɑtˈorjɑ# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#preveɡlɑtˈorjɑ#
+*#pɾeveɡlɑtˈoɾjɑ# | 166 : r > ɾ / __ [nnas,ncons]
+*#pɾeveɡlɑtˈɔɾjɑ# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pɾeveɡlɑtˈɔɾʲjɑ# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#pɾeveɡlɑtˈɔɾʲɑ# | 204 : j > ∅ / [+cons,+front] __
+*#pɾeveɡlɑtˈɔɑɾʲɑ# | 211 : ∅ > ɑ / [-tense] __
+*#pɾeveɡlɑtˈoˈɑɾʲɑ# | 212 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pɾeveɡlɑto̯ˈɑɾʲɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pɾeveɡləto̯ˈɑɾʲə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pɾeveɡʎəto̯ˈɑɾʲə# | 225 : l > ʎ / [-cont,-ant,-cor] __
+*#pɾeveɡʎeto̯ˈɑɾʲe# | 226 : ə > e / [+cons,+front,+son] __
+*#pɾeveɡʎeto̯ˈɑjɾe# | 228 : ɾʲ > j ɾ 
+Common Romanian stage form : *#pɾeveɡʎeto̯ˈɑjɾe#
+*#preveɡʎeto̯ˈɑjre# | 261 : ɾ > r 
+*#preveɡjeto̯ˈɑjre# | 265 : [+son,+cons,+front] > j 
+*#preveɡjeto̯ˈɑre# | 285 : j > ∅ / __ r
+*#priveɡjeto̯ˈɑre# | 288 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+Old Romanian stage form : *#priveɡjeto̯ˈɑre#
+Final form : *#priveɡjeto̯ˈɑre#
