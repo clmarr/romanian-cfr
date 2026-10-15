@@ -1,15 +1,20 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1126:
-#dˈiːriɡe# >>> *#drˈid͡ʒe# ( GOLD : #drˈed͡ʒe#) :
-d ˈiː r i ɡ e 
-*#dˈiːrɡe# | 60 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
-*#drˈiːɡe# | 73 : ∅ [+syl,-back] r > r [+syl,+son] ∅/ # ( ( @ )* [+syl] ) ( [+nas] ) [-cont,-back] __ [-syl,+back] ( j ) [+syl]
-*#drˈiːɡʲe# | 157 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#drˈiɡʲe# | 160 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#drˈiɡʲe#
-*#dɾˈiɡʲe# | 169 : r > ɾ / __ [nnas,ncons]
-*#dɾˈiɟ͡ʑe# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#dɾˈid͡ʒe# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#dɾˈid͡ʒe#
-*#drˈid͡ʒe# | 264 : ɾ > r 
-Old Romanian stage form : *#drˈid͡ʒe#
-Final form : *#drˈid͡ʒe#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1126:
+#dˌiːrˈiɡe# >>> *#drˈed͡ʒe# ( GOLD : #drˈed͡ʒe#) :
+d ˌiː r ˈi ɡ e 
+*#diːrˈiɡe# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#drˈiɡe# | 49 : [+syl,+front,-lo,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#drˈeɡe# | 124 : [+syl,-long,+hi,-back] > [-hi] 
+*#drˈeɡʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#drˈeɡʲe#
+*#dɾˈeɡʲe# | 166 : r > ɾ / __ [nnas,ncons]
+*#dɾˈɛɡʲe# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dɾˈɛaɡʲe# | 211 : ∅ > a / [-tense] __
+*#dɾˈeˈaɡʲe# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dɾe̯ˈaɡʲe# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#dɾe̯ˈaɟ͡ʑe# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#dɾe̯ˈad͡ʒe# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#dɾe̯ˈad͡ʒe#
+*#dɾˈed͡ʒe# | 248 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#drˈed͡ʒe# | 261 : ɾ > r 
+Old Romanian stage form : *#drˈed͡ʒe#
+Final form : *#drˈed͡ʒe#

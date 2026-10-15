@@ -1,20 +1,18 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 890:
+Derivation file for run '../romanian-cfr/CMrun'; form ID 890:
 #mˈedium# >>> *#mjˈez# ( GOLD : #mjˈez#) :
 m ˈe d i u m 
-*#mˈedjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈedju# | 45 : m > ∅ / [-stres] __ #
-*#mˈɛdju# | 122 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛddju# | 124 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#mˈɛddʲu# | 130 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#mˈɛdʲu# | 148 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#mˈedjum# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈedju# | 46 : m > ∅ / [-stres] __ #
+*#mˈedʲu# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#mˈɛdʲu# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 Balkan Romance stage form : *#mˈɛdʲu#
-*#mjˈɛdʲu# | 178 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#mjˈedʲu# | 181 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mjˈed͡zʲu# | 233 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mjˈed͡zu# | 234 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#mjˈɛdʲu# | 175 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈedʲu# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈed͡zʲu# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mjˈed͡zu# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#mjˈed͡zu#
-*#mjˈezu# | 273 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#mjˈezw̥# | 279 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#mjˈez# | 280 : w̥ > ∅ / [-syl] __ #
+*#mjˈezu# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#mjˈezw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mjˈez# | 277 : w̥ > ∅ / [-syl] __ #
 Old Romanian stage form : *#mjˈez#
 Final form : *#mjˈez#
