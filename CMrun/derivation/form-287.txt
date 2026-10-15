@@ -1,12 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 287:
-#ˌimbˌukkˈɑː# >>> *#ambukˈɑ# ( GOLD : #ɨmbukˈɑ#) :
+#ˌimbˌukkˈɑː# >>> *#ɨmbukˈɑ# ( GOLD : #ɨmbukˈɑ#) :
 ˌi m b ˌu k k ˈɑː 
 *#imbukkˈɑː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#embukkˈɑː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
 *#embukˈɑː# | 145 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 *#embukˈɑ# | 157 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#embukˈɑ#
-*#ambukˈɑ# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-Common Romanian stage form : *#ambukˈɑ#
-Old Romanian stage form : *#ambukˈɑ#
-Final form : *#ambukˈɑ#
+*#ɑmbukˈɑ# | 170 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#əmbukˈɑ# | 215 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əmbukˈɑ#
+*#ɨmbukˈɑ# | 264 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+Old Romanian stage form : *#ɨmbukˈɑ#
+Final form : *#ɨmbukˈɑ#

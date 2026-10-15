@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 151:
-#ˌimperˈɑːtum# >>> *#amperˈɑt# ( GOLD : #ɨmpərˈɑt#) :
+#ˌimperˈɑːtum# >>> *#ɨmperˈɑt# ( GOLD : #ɨmpərˈɑt#) :
 ˌi m p e r ˈɑː t u m 
 *#imperˈɑːtum# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#imperˈɑːtu# | 46 : m > ∅ / [-stres] __ #
@@ -7,10 +7,12 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 151:
 *#emperˈɑtu# | 157 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#emperˈɑtu#
 *#empeɾˈɑtu# | 166 : r > ɾ / __ [nnas,ncons]
-*#ampeɾˈɑtu# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-Common Romanian stage form : *#ampeɾˈɑtu#
-*#amperˈɑtu# | 261 : ɾ > r 
-*#amperˈɑtw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#amperˈɑt# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#amperˈɑt#
-Final form : *#amperˈɑt#
+*#ɑmpeɾˈɑtu# | 170 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#əmpeɾˈɑtu# | 215 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əmpeɾˈɑtu#
+*#əmperˈɑtu# | 261 : ɾ > r 
+*#ɨmperˈɑtu# | 264 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+*#ɨmperˈɑtw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨmperˈɑt# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɨmperˈɑt#
+Final form : *#ɨmperˈɑt#

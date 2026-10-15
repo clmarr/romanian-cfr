@@ -1,17 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1138:
-#impɑrtˈiː# >>> *#ampɨrt͡sˈi# ( GOLD : #ɨmpərt͡sˈi#) :
+#impɑrtˈiː# >>> *#ɨmpɨrt͡sˈi# ( GOLD : #ɨmpərt͡sˈi#) :
 i m p ɑ r t ˈiː 
 *#empɑrtˈiː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
 *#empɑrtˈi# | 157 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#empɑrtˈi#
-*#ampɑrtˈi# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ampɑrtjˈi# | 201 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ampɑrtʲjˈi# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ampɑrtʲˈi# | 204 : j > ∅ / [+cons,+front] __
-*#ampərtʲˈi# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ampərt͡sʲˈi# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ampərt͡sˈi# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ampərt͡sˈi#
-*#ampɨrt͡sˈi# | 269 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
-Old Romanian stage form : *#ampɨrt͡sˈi#
-Final form : *#ampɨrt͡sˈi#
+*#ɑmpɑrtˈi# | 170 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑmpɑrtjˈi# | 201 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#ɑmpɑrtʲjˈi# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɑmpɑrtʲˈi# | 204 : j > ∅ / [+cons,+front] __
+*#əmpɑrtʲˈi# | 215 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#əmpərtʲˈi# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+*#əmpərt͡sʲˈi# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#əmpərt͡sˈi# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#əmpərt͡sˈi#
+*#ɨmpərt͡sˈi# | 264 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+*#ɨmpɨrt͡sˈi# | 269 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
+Old Romanian stage form : *#ɨmpɨrt͡sˈi#
+Final form : *#ɨmpɨrt͡sˈi#

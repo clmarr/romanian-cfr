@@ -74,7 +74,6 @@ $CM 10/2 HR.9b --consonants unround
 [+cons,+round] > [-round,-lab]
 
 
-
 $ Latin [(ˈ)ae̯] simplification rules.
 	$ [(ˈ)ae̯] simplifies when between word boundary and sonorant (vowels count).
 		e̯ > ∅ / # [+lo] __ [+son]
@@ -983,7 +982,7 @@ k > ɡ / __ [+back,-stres] [+cor,-cont] [+prim] [+son] [-syl]
 			$ Has to apply both before beta rules and after above new rule.
 
 $ iN- > îN-. CM 10/1 -- moved to before Common Romanian -- this is actually to a, see as a in Aromanian. Formerly: [+syl,+front,+hi] > [-front] / # __ [+nas]. 
-[+syl,+front] > [-hi,+lo] / # __ [+nas]
+[+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
 
 $CM 10/1 -- lowering of e to a after in [-lab] F/V/M(m) (r) __ n u/e/a
 [+front,-hi] > [+lo,+tense,+back,-front] / # ((@)* [-lab]) ([+lab,+cont,+cons])+ ([+cor]) __ n [+syl,uround,uhi]

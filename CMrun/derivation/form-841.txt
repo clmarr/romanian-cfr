@@ -1,11 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 841:
-#ˌimpˌutˈɑː# >>> *#amputˈɑ# ( GOLD : #ɨmputˈɑ#) :
+#ˌimpˌutˈɑː# >>> *#ɨmputˈɑ# ( GOLD : #ɨmputˈɑ#) :
 ˌi m p ˌu t ˈɑː 
 *#imputˈɑː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#emputˈɑː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
 *#emputˈɑ# | 157 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#emputˈɑ#
-*#amputˈɑ# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-Common Romanian stage form : *#amputˈɑ#
-Old Romanian stage form : *#amputˈɑ#
-Final form : *#amputˈɑ#
+*#ɑmputˈɑ# | 170 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#əmputˈɑ# | 215 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əmputˈɑ#
+*#ɨmputˈɑ# | 264 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ m [+cons]
+Old Romanian stage form : *#ɨmputˈɑ#
+Final form : *#ɨmputˈɑ#
