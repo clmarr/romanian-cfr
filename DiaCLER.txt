@@ -383,7 +383,7 @@ $ There seems to be an oddball syncope in monticellus>muncel. We can condition a
 		$ The now cluster-medial [t] is then deleted--incorporating this into later [nkt]>[nt] rule.
 	
 $ Another oddball syncope in drepanellam>drepnea. FLAG -- reexamine later.
-	a > ∅ / [+syl] p __ n [+syl]
+	ɑ > ∅ / [+syl] p __ n [+syl]
 		$ Also, this should probably take place after a>ă, since schwa is a much more likely target for syncope.
 	
 $ Yet another oddball syncope in cubitum>cot. FLAG -- reexamine later.
@@ -597,7 +597,7 @@ $ NEW RULE: [a] aphaeresis before stressed heavy syllables
 	$ The consonant after the stressed vowel must be coronal.
 	$ If the [a] is followed by a consonant, that consonant can only be voiced if it is a sonorant.
 	$ Besides simply being heavy, the following syllable must also have a coronal sonorant somewhere other than the first consonant of the onset. (splitting annotinu as a.nno.ti.nu :/)
-		a > ∅ / # __ {([+cons,ason,avoi]) ([+cor,+son]) [+stres] [+cor,+son] [-syl];[+cons,ason,avoi] [+cor,+son] [+stres,+long]}
+		ɑ > ∅ / # __ {([+cons,ason,avoi]) ([+cor,+son]) [+stres] [+cor,+son] [-syl];[+cons,ason,avoi] [+cor,+son] [+stres,+long]}
 
 
 $ R11 Labialization of [kw] and [ɡw] before [a]

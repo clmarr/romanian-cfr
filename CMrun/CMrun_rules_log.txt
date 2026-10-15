@@ -71,7 +71,7 @@ j [+front,+round] > ∅ [-round,-lab]/ __ l
 [+syl,+hi,-long,-stres] > ∅ / [+syl] [-son,+cont] __ [-son] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont,avoi] __ [-son,avoi] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-delrel,-front] __ [-delrel,-front] [+prim]
-a > ∅ / [+syl] p __ n [+syl]
+ɑ > ∅ / [+syl] p __ n [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+round] b __ t [+syl]
 t > k / __ l
 p l [+syl] [+son,+cons] t ∅ > p ∅ [+syl,+son] [+son,+cons,0tense] t l/ # __
@@ -107,8 +107,8 @@ k > p / [+syl,+stres,αfront,αhi] __ s
 k > s / __ s
 ŋ > m / __ n
 p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
-a > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
-a > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
+ɑ > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
+ɑ > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
 [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
 n > m / __ [+lab,-strid,+cons] β
 ∅ > i / # __ s [+cons,-son]

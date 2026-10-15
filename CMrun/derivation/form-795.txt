@@ -1,27 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 795:
-#drˌepɑnˈellɑm# >>> *#drepɨne̯ˈɑ# ( GOLD : #drepne̯ˈɑ#) :
+#drˌepɑnˈellɑm# >>> *#drepne̯ˈɑ# ( GOLD : #drepne̯ˈɑ#) :
 d r ˌe p ɑ n ˈe l l ɑ m 
 *#drepɑnˈellɑm# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#drepɑnˈellɑ# | 46 : m > ∅ / [-stres] __ #
-*#drepɑnˈɛllɑ# | 120 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#drepɑnˈɛllɑ#
-*#dɾepɑnˈɛllɑ# | 166 : r > ɾ / __ [nnas,ncons]
-*#dɾepɑnjˈɛllɑ# | 175 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#dɾepɑnjˈellɑ# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dɾepɑnjˈɛllɑ# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#dɾepɑnjˈɛwɑ# | 198 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#dɾepɑnʲjˈɛwɑ# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dɾepɑnʲˈɛwɑ# | 204 : j > ∅ / [+cons,+front] __
-*#dɾepɑnˈɛwɑ# | 205 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front] [-nas]
-*#dɾepɑnˈɛɑwɑ# | 211 : ∅ > ɑ / [-tense] __
-*#dɾepɑnˈeˈɑwɑ# | 212 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dɾepɑne̯ˈɑwɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#dɾepəne̯ˈɑwɑ# | 214 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#dɾepəne̯ˈɑwə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-*#dɾepəne̯ˈɑw# | 223 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
-*#dɾepəne̯ˈɑ# | 224 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ #
-Common Romanian stage form : *#dɾepəne̯ˈɑ#
-*#drepəne̯ˈɑ# | 261 : ɾ > r 
-*#drepɨne̯ˈɑ# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#drepɨne̯ˈɑ#
-Final form : *#drepɨne̯ˈɑ#
+*#drepnˈellɑ# | 73 : ɑ > ∅ / [+syl] p __ n [+syl]
+*#drepnˈɛllɑ# | 120 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#drepnˈɛllɑ#
+*#dɾepnˈɛllɑ# | 166 : r > ɾ / __ [nnas,ncons]
+*#dɾepnˈellɑ# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dɾepnˈɛllɑ# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dɾepnˈɛwɑ# | 198 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#dɾepnˈɛɑwɑ# | 211 : ∅ > ɑ / [-tense] __
+*#dɾepnˈeˈɑwɑ# | 212 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dɾepne̯ˈɑwɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#dɾepne̯ˈɑwə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+*#dɾepne̯ˈɑw# | 223 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#dɾepne̯ˈɑ# | 224 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ #
+Common Romanian stage form : *#dɾepne̯ˈɑ#
+*#drepne̯ˈɑ# | 261 : ɾ > r 
+Old Romanian stage form : *#drepne̯ˈɑ#
+Final form : *#drepne̯ˈɑ#
