@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 340:
-#ˌekstˌemperˈɑː# >>> *#stimperˈɑ# ( GOLD : #stɨmpərˈɑ#) :
+#ˌekstˌemperˈɑː# >>> *#stimpərˈɑ# ( GOLD : #stɨmpərˈɑ#) :
 ˌe k s t ˌe m p e r ˈɑː 
 *#ekstemperˈɑː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#estemperˈɑː# | 101 : [-cont] > ∅ / __ [+strid] [+cons]
@@ -8,7 +8,8 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 340:
 Balkan Romance stage form : *#stemperˈɑ#
 *#stempeɾˈɑ# | 166 : r > ɾ / __ [nnas,ncons]
 Common Romanian stage form : *#stempeɾˈɑ#
-*#stimpeɾˈɑ# | 250 : [+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
-*#stimperˈɑ# | 261 : ɾ > r 
-Old Romanian stage form : *#stimperˈɑ#
-Final form : *#stimperˈɑ#
+*#stempəɾˈɑ# | 237 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#stimpəɾˈɑ# | 250 : [+syl,+front] > [+hi] / __ m [+cons,-nas]
+*#stimpərˈɑ# | 261 : ɾ > r 
+Old Romanian stage form : *#stimpərˈɑ#
+Final form : *#stimpərˈɑ#

@@ -1,5 +1,5 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 68:
-#ˌɑppˌensˈɑː# >>> *#ɑpesˈɑ# ( GOLD : #ɑpəsˈɑ#) :
+#ˌɑppˌensˈɑː# >>> *#ɑpəsˈɑ# ( GOLD : #ɑpəsˈɑ#) :
 ˌɑ p p ˌe n s ˈɑː 
 *#ɑppensˈɑː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#ɑppeːsˈɑː# | 100 : [+syl] n > [+long] ∅/ p p __ [-son,+cont]
@@ -7,5 +7,6 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 68:
 *#ɑpesˈɑ# | 157 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#ɑpesˈɑ#
 Common Romanian stage form : *#ɑpesˈɑ#
-Old Romanian stage form : *#ɑpesˈɑ#
-Final form : *#ɑpesˈɑ#
+*#ɑpəsˈɑ# | 237 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+Old Romanian stage form : *#ɑpəsˈɑ#
+Final form : *#ɑpəsˈɑ#
