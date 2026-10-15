@@ -25,9 +25,6 @@ $ CM 10/2 HR.1c -- Bn > m. Bleeds RTR cluster reduction much later.
 $CM 10/2 HR.1d stress retraction V1 cor ˈV2 j V3 > ˈV1 C j V3  onto V1 if V1 is not initial. Feeds HR.2a and HR.3a
 [+syl] [+cor] [+prim] > [+prim] [+cor] ∅ / [+syl] (@)* __ j [+syl] ([-syl]) #
 
-$CM HR.1e u: to y:
-[+hi,+round,+long] > [-back,+front]
-
 	$-- 2
 $CM 10/2 HR.2a ˈVlo,-round > eː / __ (C)+ j. Counterbled by HR.3a
 [+lo,+prim,-round] > ˈeː / __ ([-syl])+ j 
@@ -39,7 +36,6 @@ $CM 10/2 HR.3a -- ʎw, lw, lj > ll.
 
 
 =Latin
-
 
 	$--4
 $CM 10/2 HR.4a ə > ɐ in R __ velar. Bleeds HR.5a
@@ -116,6 +112,11 @@ $ NEW RULE: cōn- stressing.
 $ NEW RULE: [k] voices before (either primarily or secondarily) stressed [aw]
 	$ Counterbled by loss of secondary stress.
 		$k > ɡ / __ [+lo,+stres] w
+
+
+	$ R13A Lenɡtheninɡ of second vowel in vowel combinations and concommitant shift in stress. Now with raising.
+		$CM 10/15 moved way forward, and reformulated to not occur in final sylalbles. 
+		[-lo,+prim] [+syl] > [-stres,+hi] [+long,+prim] / __ [+cons] (@)* [+syl] $ EDIT: Only occurs before a consonant.
 
 
 $ Auxiliary rules necessary for Pardess' assumed Latin inputs 
@@ -293,14 +294,6 @@ $ NEW RULE: [p] > [m] between a stressed high vowel and a coronal obstruent.
 	$ Affects nuptiae>nunți, ipsum>îns, and adidipsum>adins.
 		p > m / [+syl,+prim,+hi] __ [+cor,-son]
 
-$ NEW RULE: Forward velar repulsion of [r]
-	$ If [r] is in a cluster with a [+back] consonant, it will be repulsed to the following cluster.
-	$ This repulsion must push the [r] across a [+back] vowel. (opposite of backward velar repulsion!!!)
-	$ The [r] can only jump to a one-consonant cluster.
-	$ The [r] cannot jump to another [+back] consonant.
-	$ The [r] must jump to a stop.
-		r [+syl,+back] ∅ > ∅ [+syl] r / [+cons,+back] __ [-cont,-back] [+syl]
-			$ This only affects one word, but since we can see that the exact reverse phenomenon is relatively well-attested, it feels more solid. Still, FLAG -- reexamine later.
 
 $ NEW RULE: ˈu > ˈo / [+nas] __ r.
 	$ Only valid inputs in our lexicon are nurum and muriam.
@@ -309,9 +302,41 @@ $ NEW RULE: ˈu > ˈo / [+nas] __ r.
 		[+hi,+stres] > [-hi] / [+nas] __ r
 
 
-$ Oddball syncope in suffolica(re)>sufleca.
-	$[+syl] > ∅ / f f __ l
-		$ Now handled by new rule "Round vowel syncope after [f]".
+$ NEW RULE: [p]-deletion between non-palatal vowels and stops.
+	p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
+
+$CM 9/28 -- bleeding R18a and the palatalizations of g, g deleted if after nonround vowels and before front (non-low) vocoid followed by s or vocoid. Not fed by y > ju. Does not feed ij > iː
+ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
+
+$ R7 Fortition of syllable initial [y]: [y] > [dy]
+	$ Cannot be followed by Vj if it happens word-initially ([+cons] takes care of the one case where this is relevant):
+			$ CM 10/15 -- posterior is -syl not +cons -- happens before w.
+		j > d j / # __ [+syl] [-syl]
+	$ Must be before a round vowel and after an unstressed vowel if it happens word-medially:
+		j > d j / [+syl,-stres] __ [+syl,+round]
+	$ TODO Possible that if there are 2+ cons beforehand, there may be issues.
+	$ Becomes ǰ in 18
+
+$ OUTCOMES OF LATIN AND PROTO-ALBANIAN [y] -- CM 10/15 confirmed, shared.
+	$ CM 10/15 moved following to before r attraction earlier in development of Balkan Romance
+$Preyodization of [y] occurs when the preceding consonant is a velar (with an optional sonorant in the cluster) and the following consonant is a sonorant:
+		∅ > j / [+cons,+back] ([+cons,+son]) __ [+front,+round] [+cons,+son]
+	$ Yod-[y] sequences coalesce before [l]:
+		j [+front,+round] > ∅ [-round,-lab] / __ l
+
+	$ CM 9/18/26 CONSOLIDATION OF FIRST PALATAL COALESCENCE -- dtgk > palatalized stops tʲ dʲ, 
+			$ with absorption of j, in a SINGLE rule. 
+			$ these become gʲ kʲ in areas they were not formerly thought to DEPALATALIZE
+		$CM 9/18/26 -- treating these as proper palatal stops for now is best for other reasons:
+			$ there is a depalatalization rule that hits both kʲ gʲ and later produced tʲ dʲ sʲ , producing k g t d j 
+			$ sʲ patterns with palatalized s produced by second palatal coalescence
+			$ no need to posit extra places of articulation if we don't need to.  
+	[-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+
+
+
+	
+
 
 $ R4 {Syncope, Dissimilation of [tl]}
 	$ R4A Syncope
@@ -321,9 +346,9 @@ $ R4 {Syncope, Dissimilation of [tl]}
 		$ Found better explanation of this syncope than "There are many exceptions." NB: I'm pretty sure there are other syncopes still being missed; however, these are all the ones that occur in the presence of sonorants.
 		$ Syncope does not occur after a glide.
 		$ There are no examples in our lexicon in which syncope could occur before a glide.
+		
 		$ Stops must cluster with [l] after syncope.
-			$ Syncope between [b] and [l] (doesn't occur after palatal vowels)
-				[+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
+			$ syncope in b __ l moved later -- CM 10/15
 			$ Syncope between alveolar stops and [l] (optional [s] in cluster) (optional glide after [l])
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) [+cons,-cont,+cor] __ l ([-cons,-syl]) [+syl]
 			$ Syncope between velar stops and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
@@ -356,7 +381,7 @@ $ NEW SONORANT-FREE SYNCOPE: Syncope will occur between a fricative and an obstr
 
 
 $ There seems to be an oddball syncope in monticellus>muncel. We can condition a nasal-plosive cluster–plosive syncope to only occur pretonically and after a round vowel, but this is hyperspecific and ought to be reexamined in the future. FLAG
-	[+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-cont,-delrel] __ [-cont,-delrel] [+prim]	
+	[+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-delrel,-front] __ [-delrel,-front] [+prim]	
 		$ The now cluster-medial [t] is then deleted--incorporating this into later [nkt]>[nt] rule.
 	
 $ Another oddball syncope in drepanellam>drepnea. FLAG -- reexamine later.
@@ -391,18 +416,6 @@ $ NEW RULE: RTR cluster reduction
 	$ Preceding consonant cannot be coronal.
 		[+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
 
-
-$ NEW RULE: Backward velar repulsion of [r]
-	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous cluster.
-	$ This repulsion cannot push the [r] across a [+back] vowel. (opposite of forward velar repulsion!!!)
-	$ The [r] can only jump from a two-consonant cluster (following [j] allowed) to (1) a one-consonant cluster or (2) a nasal-initial cluster.
-	$ The [r] cannot jump to another [+back] consonant.
-	$ The [r] must jump to a stop.
-		$ rC case:
-			∅ [+syl,-back] r > r [+syl] ∅ / # ((@)* [+syl]) ([+nas]) [-cont,-back] __ [-syl,+back] (j) [+syl]
-		$ Cr case ([w] is interpreted as part of the vowel in this case, not as a consonant, probably due to its position in the syllable):
-			∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / # ((@)* [+syl]) ([+nas]) [-cont,-back] __ [+syl]
-				$ Note that this final [+syl] is actually irrelevant given our data and the phonotactics of Latin.
 
 
 $ NEW RULE: <qu> > <c> word-initially before stressed or long low vowel
@@ -463,19 +476,49 @@ $ NEW RULE: Interlabial rounding of /a/.
 	$ Does not occur before [b].
 	$ Does not occur after [p].
 	$ Does not occur in familiam>fəmeje...no idea why, given that famem>foamə.
+			$ CM 10/18 well, note Aromanian fumeaʎə 
 		$ EDIT: Maybe this is just because it won't happen when following syllable contains a stressed vowel?
 		$ Adding this to the rule, but it seems poorly motivated...FLAG -- reexamine later.
-			[+syl,+lo] > [-lo,-front,+back,+round,+lab] / {[+lab,+voi,+cons];f} __ [+lab,αvoi,αnas] ([-syl])* [-stres]
+			$[+syl,+lo] > [-lo,-front,+back,+round,+lab] / {[+lab,+voi,+cons];f} __ [+lab,αvoi,αnas] ([-syl])* [-stres]
+			$ CM 10/18 simplified and reformed to handle fact that botejune etc are only affected later (Aromanian has schwa for this and related words)
+				$ now targets stressed ˈa.
+		ˈa > ˈo / [+lab,+cont] __ m
 
-
-$ NEW RULE: [p]-deletion between non-palatal vowels and stops.
-	p > ∅ / [+syl,αfront,αlo] __ [-cont,-lab]
 
 
 $ R6 Frontinɡ of [w] to [β]
 	$w > β
 	$ EDIT: This does not occur before consonants.
 		w > β / __ ([-cons] (@)*) #
+
+
+	$ below is handled by these
+$ NEW RULE: Backward velar repulsion of [r]
+	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous cluster.
+	$ This repulsion cannot push the [r] across a [+back] vowel. (opposite of forward velar repulsion!!!)
+	$ The [r] can only jump from a two-consonant cluster (following [j] allowed) to (1) a one-consonant cluster or (2) a nasal-initial cluster.
+	$ The [r] cannot jump to another [+back] consonant.
+	$ The [r] must jump to a stop.
+		$ REFORMED CM 10/15/26: Rhotic metatheses, counterbled by R4a.bl, fed by R6 { consolidates velar repulsion of r and other r metathesis rules.}
+ 	$ first rhotic metathesis: r V-prim > V-prim r if the V is preceded by a stem initial voiceless stop sharing its backness, and followed by an obstruent
+			$ new simpler vsn hits 6 rather than only 1 word
+   ∅ [-prim,kback] r > r [-prim] ∅ / # ( [+syl] n ) [-delrel,kback,-voi,-cor] __ [-son]
+						$ old vsn: ∅ [+syl,-back] r > r [+syl] ∅ / # ((@)* [+syl]) ([+nas]) [-cont,-back] __ [-syl,+back] (j) [+syl]
+	
+		$second rhotic metathesis: r Vround > Vround r between stops, if one is labial and the other velar
+	r [+round,+syl] ∅ > ∅ [+syl] r / [-delrel,βback,-βlab] __ [-delrel,-βback,βlab] 
+	
+		$ last rhotic metathesis : Cr case ([w] is interpreted as part of the vowel in this case, not as a consonant, probably due to its position in the syllable):
+			∅ [+syl,-back] [+cons,+back] r > r [+syl,-back] [+cons,+back] ∅ / # ((@)* [+syl]) ([+nas]) [-cont,-back] __ [+syl]
+				$ Note that this final [+syl] is actually irrelevant given our data and the phonotactics of Latin.
+
+
+	$ At this point, all remaining [y]s retract.  -- CM 10/15/26 moved much later toward Proto-Balkan Romance. Counterbleeds rhotic metathesis.
+		[+front,+round] > [-front,+back]
+
+$ from R4a, moved 10/15/26 -- Syncope between [b] and [l] (doesn't occur after palatal vowels)
+				[+syl,+hi,-long,-stres] > ∅ / [+syl,αfront,αlo] b __ l [+syl]
+			
 
 $ R3B Reduction of [n] + fricative
 	$[+syl] n > [+long] ∅ / [+cons] __ [-son,+cont]
@@ -489,13 +532,7 @@ $ R3B Reduction of [n] + fricative
 				$ would give <con-> before [β]). For now, commenting out manuarium>mâner.
 
 
-$ R7 Fortition of syllable initial [y]: [y] > [dy]
-	$ Cannot be followed by Vj if it happens word-initially ([+cons] takes care of the one case where this is relevant):
-		j > d j / # __ [+syl] [+cons]
-	$ Must be before a round vowel and after an unstressed vowel if it happens word-medially:
-		j > d j / [+syl,-stres] __ [+syl,+round]
-	$ TODO Possible that if there are 2+ cons beforehand, there may be issues.
-	$ Becomes ǰ in 18
+
 
 $ R8 Simplification of K[s]K,K[z]K cluster
 	$[-son] > ∅ / __ [+strid] [-son]
@@ -522,12 +559,12 @@ $ R10 {Various consonant assimilations}
 		$ CM EDIT 9/16/26: the actual conditioning is more likely that this occurs only when a coronal stands on the other side of the vocoid or vocoid sequence before the /rs/. This is more likely as it would be motivated by reducing the number of distinct articulations at the same place of articulation (coronal). In this way morsica and ursus are regular without hyperconditioning for stress or removal from the lexicon. 
 			r > s / [+cor] ([-cons])* __ s
 
-	$ R10B Assimilation of [p] to [s]
-		p > s / __ s
+	$ R10B Assimilation of [p] to [s]. CM 10/18 suppressed, zero domain
+		$p > s / __ s
 
 
-
-$ R10C Velar assimilation
+	$ CM 10/15 -- moved forward to before first palatalization.
+$ R10C Velar assimilation 
 	$ Replaced Pardess's original formulation with something new below.
 	$ R10Ca Partial assimilation of velars
 		$ This is not assimilation, just a chanɡe of place of articulation after stressed vowel.
@@ -539,6 +576,7 @@ $ R10C Velar assimilation
 
 	$ R10C reworking.
 		$ Major notes: Stress placement is only relevant for assimilations before [s], as evidence for stress relevance for ŋ > m / __ n presented in Pardess is limited to cognoscere>cunoaște, which is more easily explained by widely-evidenced alternative conoscere being the origin for this word (see Walther von Wartburg's Französisches Etymologisches Wörterbuch, volume 2: C Q K, page 848, https://lecteur-few.atilf.fr/lire/20/848). Stress relevance for k > p / __ t is better explained by dissimilation for the few words which appear not to have undergone the rule (see below), although this does not explain the lack of [p] in arăta (FLAG). Perhaps source for arăta is incorrect, though.
+			$ CM 10/15 kt, ks r TODO
 		$ k > p / __ t in all positions.
 			k > p / __ t
 		$ k > p / __ s only happens posttonically, but not for fraxinum>frasin and texere>țese. also might not happen in advix>abi(a), but if it does happen in that word, we already have a following dissimilation rule for victima(re)>vătăma that will remove the [p].
@@ -584,23 +622,10 @@ $ R12 Prothesis: initial [s]C > [is]C
 
 
 $ Reinterpretation of /ˈij/ as /ˈiː/
-	ˈi j > ˈiː
+	$ˈi j > ˈiː -- CM 10/15: suppressed. Zero effect.
 
 
-$CM 9/28 -- bleeding R18a and the palatalizations of g, g deleted if after nonround vowels and before front (non-low) vocoid followed by s or vocoid. Not fed by y > ju. Does not feed ij > iː
-ɡ > ∅ / [-cons,-round] __ [+front,-lo] [scons,sstrid]
-
-$ OUTCOMES OF LATIN [y]
-	$ Preyodization of [y] occurs when the preceding consonant is a velar (with an optional sonorant in the cluster) and the following consonant is a sonorant:
-		∅ > j / [+cons,+back] ([+cons,+son]) __ [+front,+round] [+cons,+son]
-	$ Yod-[y] sequences coalesce before [l]:
-		j [+front,+round] > ∅ [-round,-lab] / __ l
-	$ All remaining [y]s retract.
-		[+front,+round] > [-front,+back]
-
-$ R13 {Many sequential vowel chanɡes}
-	$ R13A Lenɡtheninɡ of second vowel in vowel combinations and concommitant shift in stress
-		[-lo,+prim] [-cons] > [-stres] [+long,+prim] / __ [+cons] $ EDIT: Only occurs before a consonant.
+$ R13 {Many sequential vowel chanɡes} -- CM 10/15 13A relocdated much earlier
 
 	$ R13B Raisinɡ of [o] and [e]
 		$ (When adjacent to another vowel)
@@ -678,14 +703,6 @@ $ R18 {Many C+j-related chanɡes}
 			${p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 				$ Moved to just after R13F.
 
-	$ CM 9/18/26 CONSOLIDATION OF FIRST PALATAL COALESCENCE -- dtgk > palatalized stops tʲ dʲ, 
-			$ with absorption of j, in a SINGLE rule. 
-			$ these become gʲ kʲ in areas they were not formerly thought to DEPALATALIZE
-		$CM 9/18/26 -- treating these as proper palatal stops for now is best for other reasons:
-			$ there is a depalatalization rule that hits both kʲ gʲ and later produced tʲ dʲ sʲ , producing k g t d j 
-			$ sʲ patterns with palatalized s produced by second palatal coalescence
-			$ no need to posit extra places of articulation if we don't need to.  
-	[-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
 
 	$ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
 		$ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
@@ -1369,7 +1386,6 @@ $ NEW RULE: [ˈu] > [ˈo] between a cluster of voiced coronals and a front sonor
 	ˈu > ˈo / # ((@)* [+syl]) ([+cor,+voi])+ __ [+front,+son]
 
 
-	
 
 ~ Common Romanian
 
@@ -1428,10 +1444,11 @@ $ NEW RULE CM 9/23 secondary u > o phenomena, not seen in Aromanian or most othe
 	$ Consider moving these later.
 	$ initial u > o before intervicalic alveolars continuants
 	$ countered by R53B, but bled by e > i in __ NT 
-		$ first rule -- olar, boteza, botejune, reposa
-u > o / # ( ( ( @ )* [+syl] ) [+lab,-cont] ) __ [+cor,+ant,rvoi,rlat] [+syl,+front,-hi]
-		$ second rule -- porumb, porumbă, osunză, poturnichie 
-ə > o / # (p) __ [+cor,+ant,rvoi,rson] [+back,+hi,+syl]
+		$ first rule -- olar,  reposa; formerly boteza and botejune but these will need tobe otherwise handled (Aromanian has schwa for them, so they actually show ə > o )
+u > o / # ( ( @ )* [+lab] ) __ [+cor,+cont] ˈa
+		$ second rule -- porumb, porumbă,  poturnichie, boteza ,botejune
+			$ osunză -- is analogical instead .
+ə > o / # ([+lab,-cont]) __ [+cor,-cont,rvoi,rson] [uhi,uround,-ufront,+syl]
 
 $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 	$ R53A Monophthonɡization of [e̯a] after [š] or [ts]
@@ -1727,10 +1744,10 @@ $ NEW RULE: Word-inital [t͡ʃe] > [t͡ʃi] before a single [r].
 	$ This only affects two words, so it's a bit iffy, especially since the conditioning is so specific. FLAG -- reexamine later.
 		e > i / # t͡ʃ __ r [-cons]
 
-$ NEW RULE: ți > țî/țâ before a syllable with a [-front] vowel
-	[+syl,+front,+hi] > [-front] / t͡s __ ([-syl])* [+syl,-front]
+$ NEW RULE: ți > țî/țâ before a syllable with a [-front] vowel (a no longer treated as front; e̯a is not acceptable tho)
+	[+syl,+front,+hi] > [-front] / t͡s __ ([+cons])* [+syl,-front]
 		$ It then recurs in *țițină > *țițână > țâțână.
-			[+syl,+front,+hi] > [-front] / t͡s __ ([-syl])* [+syl,-front]
+			[+syl,+front,+hi] > [-front] / t͡s __ ([+cons])* [+syl,-front]
 
 $ NEW RULES: Handling of various outcomes of *uă
 	$ Each of these rules only affects, at most, two words. As such, they are all highly suspect.
