@@ -1,23 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 987:
-#pertraːjˈike# >>> *#petrˈet͡ʃe# ( GOLD : #petrˈet͡ʃe#) :
-p e r t r aː j ˈi k e 
-*#pertrˈaːjike# | 33 : [+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#pertrˈaːjke# | 35 : i > ∅ / j __
-*#pertrˈɛːke# | 43 : [+syl,+lo] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#petrˈɛːke# | 78 : [+cons,+son] > ∅ / [+cons,-cor] [+syl] __ [-cont,-voi] [+cons,+son]
-*#petrˈɛːkʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#petrˈɛkʲe# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#petrˈɛkʲe#
-*#petɾˈɛkʲe# | 166 : r > ɾ / __ [nnas,ncons]
-*#petɾˈekʲe# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#petɾˈɛkʲe# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#petɾˈɛakʲe# | 211 : ∅ > a / [-tense] __
-*#petɾˈeˈakʲe# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#petɾe̯ˈakʲe# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#petɾe̯ˈac͡ɕe# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#petɾe̯ˈat͡ʃe# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#petɾe̯ˈat͡ʃe#
-*#petɾˈet͡ʃe# | 248 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
-*#petrˈet͡ʃe# | 261 : ɾ > r 
-Old Romanian stage form : *#petrˈet͡ʃe#
-Final form : *#petrˈet͡ʃe#
+#jˈokum# >>> *#ʒˈok# ( GOLD : #ʒˈok#) :
+j ˈo k u m 
+*#jˈoku# | 46 : m > ∅ / [-stres] __ #
+*#djˈoku# | 54 : j > d j / # __ [+syl] [-syl]
+*#dʲˈoku# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɡʲˈoku# | 130 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#ɡʲˈoku#
+*#ɟ͡ʑˈoku# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒˈoku# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒˈoku#
+*#ʒˈoku# | 271 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ʒˈokw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʒˈok# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ʒˈok#
+Final form : *#ʒˈok#

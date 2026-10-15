@@ -1,20 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 952:
-#dˈeum# >>> *#zˈew# ( GOLD : #zˈew#) :
-d ˈe u m 
-*#dˈeu# | 46 : m > ∅ / [-stres] __ #
-*#dˈew# | 48 : [+syl,+round] > w / [+syl,+stres] __ #
-*#dˈeβ# | 93 : w > β / __ ( [-cons] ( @ )* ) #
-*#dˈɛβ# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#dˈɛw̥# | 142 : β > w̥ / __ #
-Balkan Romance stage form : *#dˈɛw̥#
-*#djˈɛw̥# | 175 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#djˈew̥# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dʲjˈew̥# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#dʲˈew̥# | 204 : j > ∅ / [+cons,+front] __
-*#d͡zʲˈew̥# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡zˈew̥# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡zˈew̥#
-*#zˈew̥# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#zˈew# | 278 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#zˈew#
-Final form : *#zˈew#
+#krˈukem# >>> *#krˈut͡ʃe# ( GOLD : #krˈut͡ʃe#) :
+k r ˈu k e m 
+*#krˈuke# | 46 : m > ∅ / [-stres] __ #
+*#krˈukʲe# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#krˈukʲe#
+*#kɾˈukʲe# | 166 : r > ɾ / __ [nnas,ncons]
+*#kɾˈuc͡ɕe# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#kɾˈut͡ʃe# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kɾˈut͡ʃe#
+*#krˈut͡ʃe# | 261 : ɾ > r 
+Old Romanian stage form : *#krˈut͡ʃe#
+Final form : *#krˈut͡ʃe#

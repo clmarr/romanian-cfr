@@ -1,16 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 576:
-#hˈeriː# >>> *#jˈerj# ( GOLD : #jˈerj#) :
-h ˈe r iː 
-*#ˈeriː# | 42 : [-son,-cons] > ∅ 
-*#ˈɛriː# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ˈɛri# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈɛri#
-*#ˈɛɾi# | 166 : r > ɾ / __ [nnas,ncons]
-*#ˈeɾi# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#jˈeɾi# | 185 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
-Common Romanian stage form : *#jˈeɾi#
-*#jˈeri# | 261 : ɾ > r 
-*#jˈerj̊# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#jˈerj# | 278 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#jˈerj#
-Final form : *#jˈerj#
+#dˈiem# >>> *#zˈi# ( GOLD : #zˈi#) :
+d ˈi e m 
+*#dˈie# | 46 : m > ∅ / [-stres] __ #
+*#dˈii# | 115 : [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
+*#dˈi# | 116 : [+syl,αhi,βlo,ɣfront,ðback] > ∅ / [αhi,βlo,ɣfront,ðback,+stres] __
+*#dˈiː# | 121 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#dˈi# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dˈi#
+*#djˈi# | 201 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#dʲjˈi# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#dʲˈi# | 204 : j > ∅ / [+cons,+front] __
+*#d͡zʲˈi# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡zˈi# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡zˈi#
+*#zˈi# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#zˈi#
+Final form : *#zˈi#

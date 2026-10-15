@@ -1,19 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1020:
-#dˌeːˌekkeˈinde# >>> *#det͡ʃˈinde# ( GOLD : #det͡ʃˈinde#) :
-d ˌeː ˌe k k e ˈi n d e 
-*#dˌeːkkeˈinde# | 13 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
-*#dˌeːkkjˈinde# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#deːkkjˈinde# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#deːktʲˈinde# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#deːktʲˈende# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#deːttʲˈende# | 128 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
-*#deːtkʲˈende# | 130 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#deːkʲˈende# | 145 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#dekʲˈende# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dekʲˈende#
-*#dec͡ɕˈende# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#det͡ʃˈende# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#det͡ʃˈende#
-*#det͡ʃˈinde# | 244 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#det͡ʃˈinde#
-Final form : *#det͡ʃˈinde#
+#kurrˈendum# >>> *#kurˈɨnd# ( GOLD : #kurˈɨnd#) :
+k u r r ˈe n d u m 
+*#kurrˈendu# | 46 : m > ∅ / [-stres] __ #
+*#kurrˈɛndu# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#kurrˈɛndu#
+*#kurɾˈɛndu# | 166 : r > ɾ / __ [nnas,ncons]
+*#kurɾˈendu# | 173 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Common Romanian stage form : *#kurɾˈendu#
+*#kurˈendu# | 240 : {ɾ;r} > {∅;∅} / r __
+*#kurˈəndu# | 241 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#kurˈɨndu# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#kurˈɨndw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kurˈɨnd# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kurˈɨnd#
+Final form : *#kurˈɨnd#

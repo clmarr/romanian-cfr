@@ -1,14 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 768:
-#bˌerbˈeːkum# >>> *#berbˈek# ( GOLD : #berbˈek#) :
-b ˌe r b ˈeː k u m 
-*#berbˈeːkum# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#berbˈeːku# | 46 : m > ∅ / [-stres] __ #
-*#berbˈeku# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#berbˈeku#
-Common Romanian stage form : *#berbˈeku#
-*#berbˈəku# | 237 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
-*#berbˈeku# | 262 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,!ufront] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
-*#berbˈekw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#berbˈek# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#berbˈek#
-Final form : *#berbˈek#
+#wˈerrum# >>> *#vjˈer# ( GOLD : #vjˈer#) :
+w ˈe r r u m 
+*#wˈerru# | 46 : m > ∅ / [-stres] __ #
+*#βˈerru# | 93 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈɛrru# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#vˈɛrru# | 133 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈɛrru#
+*#vˈɛrɾu# | 166 : r > ɾ / __ [nnas,ncons]
+*#vjˈɛrɾu# | 175 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#vjˈerɾu# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#vjˈerɾu#
+*#vjˈeru# | 240 : {ɾ;r} > {∅;∅} / r __
+*#vjˈerw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#vjˈer# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vjˈer#
+Final form : *#vjˈer#

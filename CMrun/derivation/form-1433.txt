@@ -1,16 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1433:
-#ˈipsum# >>> *#ˈɨns# ( GOLD : #ˈɨns#) :
-ˈi p s u m 
-*#ˈipsu# | 46 : m > ∅ / [-stres] __ #
-*#ˈimsu# | 50 : p > m / [+syl,+prim,+hi] __ [+cor,-son]
-*#ˈemsu# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#ˈensu# | 162 : m > n / __ [+cons,-lab,-nas]
-Balkan Romance stage form : *#ˈensu#
-*#ˈansu# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ˈənsu# | 214 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ˈənsu#
-*#ˈɨnsu# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ˈɨnsw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈɨns# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ˈɨns#
-Final form : *#ˈɨns#
+#fɑmˈiliɑm# >>> *#femˈeje# ( GOLD : #femˈeje#) :
+f ɑ m ˈi l i ɑ m 
+*#fɑmˈiljɑm# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fɑmˈiljɑ# | 46 : m > ∅ / [-stres] __ #
+*#fɑmˈeljɑ# | 124 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#fɑmˈeljɑ#
+*#fɑmˈɛljɑ# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#fɑmˈɛlʲjɑ# | 203 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#fɑmˈɛlʲɑ# | 204 : j > ∅ / [+cons,+front] __
+*#fɑmˈɛʎɑ# | 209 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#fɑmˈɛaʎɑ# | 211 : ∅ > a / [-tense] __
+*#fɑmˈeˈaʎɑ# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fɑme̯ˈaʎɑ# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#fəme̯ˈaʎə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+*#fəme̯ˈaʎe# | 226 : ə > e / [+cons,+front,+son] __
+Common Romanian stage form : *#fəme̯ˈaʎe#
+*#fəmˈeʎe# | 248 : e̯ ˈa > ˈe / __ ( [-syl] )* [+syl,+front,-lo,-hi]
+*#fəmˈeje# | 265 : [+son,+cons,+front] > j 
+*#femˈeje# | 289 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi,-lo] [-strid]
+Old Romanian stage form : *#femˈeje#
+Final form : *#femˈeje#

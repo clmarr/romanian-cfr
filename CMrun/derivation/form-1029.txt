@@ -1,12 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1029:
-#illˈaːk# >>> *#lˈa# ( GOLD : #lˈa#) :
-i l l ˈaː k 
-*#illˈaː# | 83 : [+cons,-cont] > ∅ / __ #
-*#ellˈaː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#ellˈa# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ellˈa#
-*#elˈa# | 202 : {l l;m m} > {l;m} 
-Common Romanian stage form : *#elˈa#
-*#lˈa# | 252 : e > ∅ / # __ [-syl] [-cons]
-Old Romanian stage form : *#lˈa#
-Final form : *#lˈa#
+#hˈɑːkdˈieː# >>> *#ˈɑze# ( GOLD : #ˈɑzj#) :
+h ˈɑː k d ˈi eː 
+*#hˈɑːkdieː# | 16 : [+prim] > [-stres,-prim,+syl,+son] / [+prim] ( [-syl] )* __
+*#hˈɑːkdjeː# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˈɑːkdjeː# | 42 : [-son,-cons] > ∅ 
+*#ˈɑːkdʲeː# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ˈɑːddʲeː# | 128 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#ˈɑːdʲeː# | 145 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#ˈɑdʲe# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈɑdʲe#
+*#ˈɑd͡zʲe# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ˈɑd͡ze# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ˈɑd͡ze#
+*#ˈɑze# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#ˈɑze#
+Final form : *#ˈɑze#

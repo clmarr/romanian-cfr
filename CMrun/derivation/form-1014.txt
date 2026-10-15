@@ -1,16 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1014:
-#ˌadhˈiːkkeː# >>> *#aˈit͡ʃ# ( GOLD : #aˈit͡ʃj#) :
-ˌa d h ˈiː k k eː 
-*#adhˈiːkkeː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ahˈiːkkeː# | 40 : d > ∅ / [+syl,+lo] __ [-syl]
-*#aˈiːkkeː# | 42 : [-son,-cons] > ∅ 
-*#aˈiːkeː# | 145 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#aˈiːkʲeː# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#aˈikʲe# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#aˈikʲe#
-*#aˈic͡ɕe# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#aˈit͡ʃe# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-*#aˈit͡ʃ# | 233 : e > ∅ / [+syl] [+prim] [+cons] __ #
-Common Romanian stage form : *#aˈit͡ʃ#
-Old Romanian stage form : *#aˈit͡ʃ#
-Final form : *#aˈit͡ʃ#
+#ˌɑddˌeːˈɑnte# >>> *#ɑdˈinte# ( GOLD : #ɑdˈinte#) :
+ˌɑ d d ˌeː ˈɑ n t e 
+*#ˌɑddˌeːˈante# | 6 : [+lo] > [-round,-lab,+front,-back] / [-lab,-back] __ [-lab,-back]
+*#ˌɑddˈeːˈante# | 12 : [+syl,+long] > [+prim,+stres,+syl,+son] / __ [+syl,-long,+prim]
+*#ˌɑddˈeːnte# | 13 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
+*#ɑddˈeːnte# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑdˈeːnte# | 40 : d > ∅ / [+syl,+lo] __ [-syl]
+*#ɑdˈente# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɑdˈente#
+Common Romanian stage form : *#ɑdˈente#
+*#ɑdˈinte# | 244 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
+Old Romanian stage form : *#ɑdˈinte#
+Final form : *#ɑdˈinte#

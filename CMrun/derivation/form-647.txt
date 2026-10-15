@@ -1,22 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 647:
-#sˌurkˈellam# >>> *#surt͡ʃe̯ˈa# ( GOLD : #surt͡ʃe̯ˈa#) :
-s ˌu r k ˈe l l a m 
-*#surkˈellam# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#surkˈella# | 46 : m > ∅ / [-stres] __ #
-*#surkˈɛlla# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#surkʲˈɛlla# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#surkʲˈɛlla#
-*#surkʲˈella# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#surkʲˈɛlla# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#surkʲˈɛwa# | 198 : l l > w / # ( @ )* [-lab] ( @ )* __ a ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#surkʲˈɛawa# | 211 : ∅ > a / [-tense] __
-*#surkʲˈeˈawa# | 212 : [-hi,-lo,+prim] a > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#surkʲe̯ˈawa# | 213 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#surkʲe̯ˈawə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-*#surkʲe̯ˈaw# | 223 : ə > ∅ / [-cons,-syl] ˈa [-cons,-syl] __
-*#surkʲe̯ˈa# | 224 : [-cons,-syl] > ∅ / [-cons,-syl] ˈa __ #
-*#surc͡ɕe̯ˈa# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#surt͡ʃe̯ˈa# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#surt͡ʃe̯ˈa#
-Old Romanian stage form : *#surt͡ʃe̯ˈa#
-Final form : *#surt͡ʃe̯ˈa#
+#sˌurkˈellum# >>> *#surt͡ʃˈel# ( GOLD : #surt͡ʃˈel#) :
+s ˌu r k ˈe l l u m 
+*#surkˈellum# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#surkˈellu# | 46 : m > ∅ / [-stres] __ #
+*#surkˈɛllu# | 120 : [-cons,-long,-hi,-lo,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#surkʲˈɛllu# | 154 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#surkʲˈɛllu#
+*#surkʲˈellu# | 178 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#surkʲˈelu# | 202 : {l l;m m} > {l;m} 
+*#surc͡ɕˈelu# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#surt͡ʃˈelu# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#surt͡ʃˈelu#
+*#surt͡ʃˈelw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#surt͡ʃˈel# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#surt͡ʃˈel#
+Final form : *#surt͡ʃˈel#

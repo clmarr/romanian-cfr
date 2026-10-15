@@ -1,18 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 543:
-#ˌinˌuksorˈaː# >>> *#ɨnsurˈa# ( GOLD : #ɨnsurˈa#) :
-ˌi n ˌu k s o r ˈaː 
-*#inuksorˈaː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inksorˈaː# | 69 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ( [-syl] ) [+syl,-stres,-lo]
-*#insorˈaː# | 102 : [-cont] > ∅ / [+cons] __ [-son,-voi]
-*#ensorˈaː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#ensorˈa# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ensorˈa#
-*#ensoɾˈa# | 166 : r > ɾ / __ [nnas,ncons]
-*#ansoɾˈa# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ansuɾˈa# | 181 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənsuɾˈa# | 214 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənsuɾˈa#
-*#ənsurˈa# | 261 : ɾ > r 
-*#ɨnsurˈa# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnsurˈa#
-Final form : *#ɨnsurˈa#
+#hˌospˈitium# >>> *#ospˈət͡s# ( GOLD : #ospˈət͡s#) :
+h ˌo s p ˈi t i u m 
+*#hˌospˈitjum# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#hospˈitjum# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ospˈitjum# | 42 : [-son,-cons] > ∅ 
+*#ospˈitju# | 46 : m > ∅ / [-stres] __ #
+*#ospˈitʲu# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ospˈetʲu# | 124 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ospˈetʲu#
+*#ospˈet͡sʲu# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ospˈet͡su# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ospˈet͡su#
+*#ospˈət͡su# | 237 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,αfront,αlo]
+*#ospˈət͡sw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ospˈət͡s# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ospˈət͡s#
+Final form : *#ospˈət͡s#

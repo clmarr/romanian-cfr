@@ -1,13 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1013:
-#ˌaddˌeːˈante# >>> *#adˈinte# ( GOLD : #adˈinte#) :
-ˌa d d ˌeː ˈa n t e 
-*#ˌaddˈeːˈante# | 12 : [+syl,+long] > [+prim,+stres,+syl,+son] / __ [+syl,-long,+prim]
-*#ˌaddˈeːnte# | 13 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
-*#addˈeːnte# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#adˈeːnte# | 40 : d > ∅ / [+syl,+lo] __ [-syl]
-*#adˈente# | 157 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#adˈente#
-Common Romanian stage form : *#adˈente#
-*#adˈinte# | 244 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-Old Romanian stage form : *#adˈinte#
-Final form : *#adˈinte#
+#tiːtiˈoːnem# >>> *#tet͡ʃˈune# ( GOLD : #tət͡ʃˈune#) :
+t iː t i ˈoː n e m 
+*#tiːtjˈoːnem# | 18 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#tiːtjˈoːne# | 46 : m > ∅ / [-stres] __ #
+*#tiːtʲˈoːne# | 58 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#tiːkʲˈoːne# | 130 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#tikʲˈone# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tikʲˈone#
+*#tekʲˈone# | 200 : i > e / [+cons] __ [+cons,+front]
+*#tekʲˈune# | 214 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#tec͡ɕˈune# | 230 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#tet͡ʃˈune# | 231 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#tet͡ʃˈune#
+Old Romanian stage form : *#tet͡ʃˈune#
+Final form : *#tet͡ʃˈune#

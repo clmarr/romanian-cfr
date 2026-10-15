@@ -1,18 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1031:
-#ˌinˌabˈinte# >>> *#ɨnəˈinte# ( GOLD : #ɨnaˈinte#) :
-ˌi n ˌa b ˈi n t e 
-*#inabˈinte# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inaβˈinte# | 123 : b > β / [-cons] __ [+cont]
-*#enaβˈente# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#enaˈente# | 144 : β > ∅ 
-*#enajˈente# | 153 : ∅ > j / [+syl,αfront,αlo] __ [+front,-hi,-lo,+tense]
-Balkan Romance stage form : *#enajˈente#
-*#anajˈente# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
-*#ənajˈente# | 214 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənəjˈente# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənəjˈente#
-*#ənəjˈinte# | 244 : [+syl,+front,-hi,-lo] > [+hi] / __ n [+cons]
-*#ɨnəjˈinte# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnəˈinte# | 282 : j > ∅ / __ [+front,+hi]
-Old Romanian stage form : *#ɨnəˈinte#
-Final form : *#ɨnəˈinte#
+#ˈin# >>> *#ˈɨn# ( GOLD : #ˈɨn#) :
+ˈi n 
+*#ˈiːn# | 121 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#ˈin# | 157 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈin#
+*#ˈan# | 170 : [+syl,+front] > [-hi,+lo] / # __ [+nas]
+*#ˈən# | 214 : {a;ˈa;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#ˈən#
+*#ˈɨn# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ˈɨn#
+Final form : *#ˈɨn#

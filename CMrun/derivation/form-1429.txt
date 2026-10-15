@@ -1,19 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1429:
-#ˌekskˈawulat# >>> *#zɡˈawrə# ( GOLD : #zɡˈəwrə#) :
-ˌe k s k ˈa w u l a t  
-*#ekskˈawulat# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskˈawula# | 83 : [+cons,-cont] > ∅ / __ #
-*#ekskˈaβula# | 93 : w > β / __ ( [-cons] ( @ )* ) #
-*#eskˈaβula# | 101 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskˈaula# | 144 : β > ∅ 
-*#esɡˈaula# | 147 : k > ɡ / # ( ( e ) s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
-*#sɡˈaula# | 158 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#sɡˈaula#
-*#zɡˈaula# | 169 : s > z / # __ [+voi,-son]
-*#zɡˈauɾa# | 186 : l > ɾ / [+syl] __ [+syl]
-*#zɡˈawɾa# | 187 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-*#zɡˈawɾə# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#zɡˈawɾə#
-*#zɡˈawrə# | 261 : ɾ > r 
-Old Romanian stage form : *#zɡˈawrə#
-Final form : *#zɡˈawrə#
+#ˌekskˈɑwuloː# >>> *#zɡˈɑwr# ( GOLD : #zɡˈəwr#) :
+ˌe k s k ˈɑ w u l oː 
+*#ekskˈɑwuloː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekskˈɑβuloː# | 93 : w > β / __ ( [-cons] ( @ )* ) #
+*#eskˈɑβuloː# | 101 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskˈɑuloː# | 144 : β > ∅ 
+*#esɡˈɑuloː# | 147 : k > ɡ / # ( ( e ) s ) __ [+syl,alo,!around] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
+*#esɡˈɑulo# | 157 : [+syl] > [-long,-splng] 
+*#sɡˈɑulo# | 158 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sɡˈɑulo#
+*#zɡˈɑulo# | 169 : s > z / # __ [+voi,-son]
+*#zɡˈɑulu# | 181 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#zɡˈɑuɾu# | 186 : l > ɾ / [+syl] __ [+syl]
+*#zɡˈɑwɾu# | 187 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Common Romanian stage form : *#zɡˈɑwɾu#
+*#zɡˈɑwru# | 261 : ɾ > r 
+*#zɡˈɑwrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#zɡˈɑwr# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#zɡˈɑwr#
+Final form : *#zɡˈɑwr#
