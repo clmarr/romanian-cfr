@@ -1,16 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 198:
-#fˈeːminum# >>> *#fˈəmɨn# ( GOLD : ...) :
+#fˈeːminum# >>> *#fˈɑmɨn# ( GOLD : ...) :
 f ˈeː m i n u m 
-*#fˈeːminu# | 46 : m > ∅ / [-stres] __ #
-*#fˈeːmenu# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#fˈemenu# | 157 : [+syl] > [-long,-splng] 
+*#fˈeːminu# | 45 : m > ∅ / [-stres] __ #
+*#fˈeːmenu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#fˈemenu# | 156 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#fˈemenu#
-*#fˈemɑnu# | 171 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#fˈemənu# | 214 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#fˈemənu#
-*#fˈəmənu# | 237 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
-*#fˈəmɨnu# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#fˈəmɨnw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fˈəmɨn# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fˈəmɨn#
-Final form : *#fˈəmɨn#
+*#fˈemɑnu# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#fˈɛmɑnu# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-round]
+*#fˈɛɑmɑnu# | 210 : ∅ > ɑ / [-tense] __
+*#fˈeˈɑmɑnu# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fe̯ˈɑmɑnu# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#fe̯ˈɑmənu# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#fe̯ˈɑmənu#
+*#fə̯ˈɑmənu# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#fˈɑmənu# | 238 : ə̯ > ∅ / __ [+syl,+lo]
+*#fˈɑmɨnu# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#fˈɑmɨnw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#fˈɑmɨn# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fˈɑmɨn#
+Final form : *#fˈɑmɨn#

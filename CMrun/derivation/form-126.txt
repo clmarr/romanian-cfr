@@ -1,18 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 126:
-#ekskˌɑrminˈɑː# >>> *#skərmɨnˈɑ# ( GOLD : #skərmənˈɑ#) :
+#ekskˌɑrminˈɑː# >>> *#skərmənˈɑ# ( GOLD : #skərmənˈɑ#) :
 e k s k ˌɑ r m i n ˈɑː 
-*#ekskɑrminˈɑː# | 25 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eskɑrminˈɑː# | 101 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskɑrmenˈɑː# | 124 : [+syl,-long,+hi,-back] > [-hi] 
-*#eskɑrmenˈɑ# | 157 : [+syl] > [-long,-splng] 
-*#skɑrmenˈɑ# | 158 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#ekskɑrminˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#eskɑrminˈɑː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskɑrmenˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskɑrmenˈɑ# | 156 : [+syl] > [-long,-splng] 
+*#skɑrmenˈɑ# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
 Balkan Romance stage form : *#skɑrmenˈɑ#
-*#skɑɾmenˈɑ# | 166 : r > ɾ / __ [nnas,ncons]
-*#skɑɾmɑnˈɑ# | 171 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#skɑɾmənˈɑ# | 214 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#skəɾmənˈɑ# | 222 : [-cons,+lo,-stres,-long] > ə / @ __
+*#skɑɾmenˈɑ# | 165 : r > ɾ / __ [nnas,ncons]
+*#skɑɾmɑnˈɑ# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#skɑɾmənˈɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#skəɾmənˈɑ# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
 Common Romanian stage form : *#skəɾmənˈɑ#
-*#skərmənˈɑ# | 261 : ɾ > r 
-*#skərmɨnˈɑ# | 263 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#skərmɨnˈɑ#
-Final form : *#skərmɨnˈɑ#
+*#skərmənˈɑ# | 260 : ɾ > r 
+*#skərmɨnˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#skərmənˈɑ# | 266 : [+syl,+hi,+tense,-back,-front] > [-hi,0tense] / @ m __ n [+syl,-hi,-round]
+Old Romanian stage form : *#skərmənˈɑ#
+Final form : *#skərmənˈɑ#

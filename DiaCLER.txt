@@ -96,10 +96,10 @@ $ <de> proclisis.
 $ NEW RULE: #s'VCV > #sC'V (super > *sper > spre)
 	$ Labialism of first vowel and consonant have to match.
 	$ Frontness of first vowel and consonant also have to match.
-	$ Syncopated vowel must be short.
-		[+prim,αround,βfront,-long] [-cont,αlab,βfront] [+syl] > ∅ [-cont] [+prim] / # s __
+	$ Syncopated vowel must be short and non-low
+		$[+prim,αround,βfront,-long,-lo] [-cont,αlab,βfront] [+syl] > ∅ [-cont] [+prim] / # s __
 			$ This only affects super > spre. FLAG -- reexamine later.
-
+		$suppressed.
 
 $ NEW RULE: cōn- stressing.
 	$ Seems to be motivated by a confusion of which round vowel gets primary stress.
@@ -154,7 +154,7 @@ $ NEW RULE: laqueum (at this point laquium) > lacium
 
 
 $ NEW RULE: [aw] > [o] / C __ [+cons,+cont]
-	a w > o / [+cons] __ [+cons,+cont]
+	ɑ w > o / [+cons] __ [+cons,+cont]
 
 
 $ NEW RULE: Labial-attractive metathesis
@@ -500,7 +500,7 @@ $ NEW RULE: Backward velar repulsion of [r]
 		$ REFORMED CM 10/15/26: Rhotic metatheses, counterbled by R4a.bl, fed by R6 { consolidates velar repulsion of r and other r metathesis rules.}
  	$ first rhotic metathesis: r V-prim > V-prim r if the V is preceded by a stem initial voiceless stop sharing its backness, and followed by an obstruent
 			$ new simpler vsn hits 6 rather than only 1 word
-   ∅ [-prim,kback] r > r [-prim] ∅ / # ( [+syl] n ) [-delrel,kback,-voi,-cor] __ [-son]
+   ∅ [-prim,-lo,kback] r > r [-prim] ∅ / # ( [+syl] n ) [-delrel,kback,-voi,-cor] __ [-son]
 						$ old vsn: ∅ [+syl,-back] r > r [+syl] ∅ / # ((@)* [+syl]) ([+nas]) [-cont,-back] __ [-syl,+back] (j) [+syl]
 	
 		$second rhotic metathesis: r Vround > Vround r between stops, if one is labial and the other velar
@@ -579,7 +579,7 @@ $ R10C Velar assimilation
 			k > p / __ t
 		$ k > p / __ s only happens posttonically, but not for fraxinum>frasin and texere>țese. also might not happen in advix>abi(a), but if it does happen in that word, we already have a following dissimilation rule for victima(re)>vătăma that will remove the [p].
 			$ very unsure for conditioning for this rule. for now, using [αfront,αhi], but this seems poorly motivated. FLAG -- reexamine later.
-				k > p / [+syl,+stres,αfront,αhi] __ s
+				k > p / [+syl,+stres,-αround,αhi] __ s
 		$ k > s / __ s elsewhere.
 			k > s / __ s
 		$ ŋ > m / __ n in all positions.
@@ -975,7 +975,7 @@ $ NEW RULE: [k] voices before an unstressed back vowel when the following conson
 	$ [+cor] is only excluding cucurbita>curcubetă. FLAG -- maybe something else is relevant here?
 		$k > ɡ / __ [+back,-stres] {[+cor,-cont] [-syl,-cons] [+prim];[+cor,-cont] [+prim] [+son] [-syl]}
 			$ excluding first disjunct -no effect
-k > ɡ / __ [+back,-stres] [+cor,-cont] [+prim] [+son] [-syl]
+k > ɡ / __ [+round,-stres] [+cor,-cont] [+prim] [+son] [-syl]
 	$ REAPPLICATION: [s]-voicing word-initially before a voiced obstruent
 		s > z / # __ [+voi,-son]
 			$ Has to apply both before beta rules and after above new rule.
@@ -1093,7 +1093,7 @@ $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
 		[-hi,-lo,+stres] > [-tense] / __ ([-nas,-syl] ([-syl])*) [+syl,-hi,-round]
 
 		$ Single [m] case.
-			[-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-back]
+			[-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-round]
 
 
 		$ EDIT: This doesn't occur before [w]. We can simply undo the change below.
@@ -1431,7 +1431,7 @@ $ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u] [+
 	n > r / ə __ [+syl,+hi,+back] [+nas]
 
 $ NEW RULE: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements
-	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback]
+	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback,-lo]
 		$ Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.
 
 $ CM 9/23 earlier raising in NT 
@@ -1528,7 +1528,7 @@ $ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant
 			$ This is a very overdetailed formulation of this rule for this lexicon (RoLLex.txt).
 			$ It should handle most cases, notably not those where the following consonant cluster has three or more consonants in it.
 				$ CM 10/1 changed second rule to posterior context from +cons,-strid,-lat -> +cons,nnas,ncont,nvoi V; prior as R B-strid -- berb(e)c, farmec, galben, carpen,  ; not sarbăd, aspru, oarfăn, foarfece, scărmăna,  ;; further simplified
-	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,uround,uhi,-ufront]) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,uround,uhi,ifront,-iback]) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
 
 $ R47A Raisinɡ of [ə] before [n] or [m]CV
 	$ EDIT: Does not occur after a vowel.
@@ -1549,8 +1549,9 @@ $ R55 Denasalization of [ñ]
 	[+son,+cons,+front] > j
 
 $ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
-	[+syl,+hi,+tense,-back,-front,αprim] > [-hi,0tense] / p __ n [+syl,-αfront]
-
+	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / p __ n [+syl,alo,-ahi]
+$ NEW RULE: Reversal of R47A in between @ m __ n a/ə
+	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / @ m __ n [+syl,-hi,-round]
 $ Non-Pardessian [e]-backing rules
 	e > ə / [-back] n __ t
 	e > ə / s __ [+cons,αson,αlat] [+cons] $ this only affects 3 words. FLAG -- reexamine later
