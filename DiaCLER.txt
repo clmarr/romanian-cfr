@@ -1550,8 +1550,8 @@ $ R55 Denasalization of [ñ]
 
 $ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
 	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / p __ n [+syl,alo,-ahi]
-$ NEW RULE: Reversal of R47A in between @ m __ n a/ə
-	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / @ m __ n [+syl,-hi,-round]
+$ NEW RULE: Reversal of R47A for unstressed cases in between @ m __ n a/ə
+	ɨ > ə / @ m __ n [+syl,-front]
 $ Non-Pardessian [e]-backing rules
 	e > ə / [-back] n __ t
 	e > ə / s __ [+cons,αson,αlat] [+cons] $ this only affects 3 words. FLAG -- reexamine later
