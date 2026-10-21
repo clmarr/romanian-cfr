@@ -231,10 +231,12 @@ u > ∅ / [-cons] [+nas,-lab] __ [+strid]
 ə > ∅ / w __ @
 ə > ∅ / [+syl] __ [anas,acont]
 s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
-[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-[-cons,-back,-hi,-lo,-front] > [+front,+tense,-cons,-lat,+cont,0delrel] / ˈi ( [-syl] )* __ @
+m > n / __ s
 e > ∅ / # __ [-syl] ( [-cons] ) [+syl] ( [-syl] )* [+syl]
 u > ∅ / # __ [+cons,-cor,-front,-nas]
+[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+[-cons,-back,-hi,-lo,-front] > [+front,+tense,-cons,-lat,+cont,0delrel] / ˈi ( [-syl] )* __ @
+[+syl,+front] > [+hi] / __ n [+cons]
 m > n / __ [+cons,-lab,-nas]
 m > w / [+cons] [-round,-front] __ n
 ə > e / [+cons,+front,+son] __
@@ -248,7 +250,6 @@ o̯ [+lo,aprim,bstres] > [aprim,bstres,+syl,+son] ∅/ __ w
 ə̯ > ∅ / __ [+syl,+lo]
 n > r / ə __ [+syl,+hi,+back] [+nas]
 [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback,-lo]
-[+syl,+front] > [+hi] / __ n [+cons]
 u > o / # ( ( @ )* [+lab] ) __ [+cor,+cont] ˈɑ
 ə > o / # ( [+lab,-cont] ) __ [+cor,-cont,rvoi,rson] [uhi,uround,!ufront,+syl]
 e̯ ˈɑ > ˈɑ / ʃ __

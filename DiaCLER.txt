@@ -1398,7 +1398,24 @@ $ [s] palatalizes before [j] < [ʎ]. Feeds iea > ea .
 	s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
 
 
-$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Apparently shared with Aromanian.
+	$ CM 10/22 earlier ms > ns shared with Arom
+m > n / __ s
+
+$ NEW RULE: [e] aphaeresis. Feeds iea > ea phenomena.  Needs at least two syllables afterward
+	e > ∅ / # __ [-syl] ([-cons]) [+syl] ([-syl])* [+syl]
+
+	$ CM 9/18/26 u-aphaeresis before labials and velars
+	u > ∅ / # __ [+cons,-cor,-front,-nas]
+
+
+~ Common Romanian
+
+$ CHAPTER 6
+$ THE DEVELOPMENT OF DACO-ROMANIAN
+$ (11TH CENTURY TO THE PRESENT)
+	
+	
+$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Only partially shared with Aromanian.
 	$ R46A [e],[ə] > [e̯],[ə̯] after a labial and before a syllable containinɡ a back vowel
 		$ Looks like he means e,e̯ > ə,ə̯.
 		$ Pardess considers [a] to be [+back], hence [-front] instead of simply [+back]. That this formulation allows schwa to be a trigger is not a mistake.
@@ -1408,19 +1425,9 @@ $ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Apparentl
 			$ EDIT: Does not occur after [ˈi]. (Only affects vipera(m)>viperă.) FLAG
 				[-cons,-back,-hi,-lo,-front] > [+front,+tense] / ˈi ([-syl])* __ @ $ This is a much more general way to state this that has the same effect in our lexicon; may have just been a different change. FLAG
 
-	
-$ NEW RULE: [e] aphaeresis. Feeds iea > ea phenomena. Bled by en > in. Needs at least two syllables afterward
-	e > ∅ / # __ [-syl] ([-cons]) [+syl] ([-syl])* [+syl]
 
-	$ CM 9/18/26 u-aphaeresis before labials and velars
-	u > ∅ / # __ [+cons,-cor,-front,-nas]
-
-~ Common Romanian
-
-$ CHAPTER 6
-$ THE DEVELOPMENT OF DACO-ROMANIAN
-$ (11TH CENTURY TO THE PRESENT)
-	
+$ CM 9/23 earlier raising in NT -- shared with Arom.
+[+syl,+front] > [+hi] / __ n [+cons]
 
 $ Nasal assimilation
 	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
@@ -1502,9 +1509,6 @@ $ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u] [+
 $ NEW RULE: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements
 	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback,-lo]
 		$ Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.
-
-$ CM 9/23 earlier raising in NT -- chronology seems to exclude shared development with Aromanian etc even though outcomes are shared.
-[+syl,+front] > [+hi] / __ n [+cons]
 
 $ NEW RULE CM 9/23 secondary u > o phenomena, not seen in Aromanian or most other varieties. 
 	$ Consider moving these later.
