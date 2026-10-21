@@ -2,13 +2,13 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 380:
 #ˌintˌellˈiɡe# >>> *#ɨnt͡selˈed͡ʒe# ( GOLD : #ɨnt͡selˈed͡ʒe#) :
 ˌi n t ˌe l l ˈi ɡ e 
 *#intellˈiɡe# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#entellˈeɡe# | 118 : [+syl,-long,+hi,-back] > [-hi] 
-*#entellˈeɡʲe# | 148 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#entʲellˈeɡʲe# | 150 : [+cor,-voi] > [+front,+hi] / __ [+syl] [+son] [-syl] ( [-syl] )* [+syl] ( @ )* [+cons,+front]
+*#entellˈeɡe# | 119 : [+syl,-long,+hi,-back] > [-hi] 
+*#entellˈeɡʲe# | 149 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#entʲellˈeɡʲe# | 151 : [+cor,-voi] > [+front,+hi] / __ [+syl] [+son] [-syl] ( [-syl] )* [+syl] ( @ )* [+cons,+front]
 Balkan Romance stage form : *#entʲellˈeɡʲe#
-*#ɑntʲellˈeɡʲe# | 164 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑntʲellˈɛɡʲe# | 186 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ɑntʲelˈɛɡʲe# | 195 : {l l;m m} > {l;m} 
+*#ɑntʲellˈeɡʲe# | 163 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑntʲellˈɛɡʲe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ɑntʲelˈɛɡʲe# | 194 : {l l;m m} > {l;m} 
 *#ɑntʲelˈɛɑɡʲe# | 204 : ∅ > ɑ / [-tense] __
 *#ɑntʲelˈeˈɑɡʲe# | 205 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
 *#ɑntʲele̯ˈɑɡʲe# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
@@ -16,7 +16,7 @@ Balkan Romance stage form : *#entʲellˈeɡʲe#
 *#ənt͡sʲele̯ˈɑɟ͡ʑe# | 218 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
 *#ənt͡sele̯ˈɑd͡ʒe# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#ənt͡sele̯ˈɑd͡ʒe#
-*#ənt͡selˈed͡ʒe# | 246 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#ɨnt͡selˈed͡ʒe# | 260 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ənt͡selˈed͡ʒe# | 254 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#ɨnt͡selˈed͡ʒe# | 265 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
 Old Romanian stage form : *#ɨnt͡selˈed͡ʒe#
 Final form : *#ɨnt͡selˈed͡ʒe#
