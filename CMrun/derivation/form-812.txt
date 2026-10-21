@@ -1,17 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 812:
-#lˈɑktiːs# >>> *#lˈɑpt͡sj# ( GOLD : #lˈɑpt͡sj#) :
-l ˈɑ k t iː s 
-*#lˈɑptiːs# | 103 : k > p / __ t
-*#lˈɑptis# | 156 : [+syl] > [-long,-splng] 
-*#lˈɑpti# | 164 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#lˈɑpti#
-*#lˈɑptji# | 200 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#lˈɑptʲji# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#lˈɑptʲi# | 203 : j > ∅ / [+cons,+front] __
-*#lˈɑpt͡sʲi# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#lˈɑpt͡si# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#lˈɑpt͡si#
-*#lˈɑpt͡sj̊# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lˈɑpt͡sj# | 278 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#lˈɑpt͡sj#
-Final form : *#lˈɑpt͡sj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 812:
+#pˌiskˈɑːrium# >>> *#pəskˈɑr# ( GOLD : #pəskˈɑr#) :
+p ˌi s k ˈɑː r i u m 
+*#pˌiskˈɑːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#piskˈɑːrjum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#piskˈɑːrju# | 45 : m > ∅ / [-stres] __ #
+*#peskˈɑːrju# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#peskˈɑrju# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#peskˈɑrju#
+*#peskˈɑɾju# | 165 : r > ɾ / __ [nnas,ncons]
+*#peskˈɑɾʲju# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#peskˈɑɾʲu# | 203 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#peskˈɑɾʲu#
+*#peskˈɑjɾu# | 233 : ɾʲ > j ɾ 
+*#pəskˈɑjɾu# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#pəskˈɑjru# | 260 : ɾ > r 
+*#pəskˈɑjrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəskˈɑjr# | 277 : w̥ > ∅ / [-syl] __ #
+*#pəskˈɑr# | 285 : j > ∅ / __ r
+Old Romanian stage form : *#pəskˈɑr#
+Final form : *#pəskˈɑr#

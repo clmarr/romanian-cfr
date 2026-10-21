@@ -1,20 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1349:
-#sˈeptem# >>> *#ʃˈɑpte# ( GOLD : #ʃˈɑpte#) :
-s ˈe p t e m 
-*#sˈepte# | 45 : m > ∅ / [-stres] __ #
-*#sˈɛpte# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#sˈɛpte#
-*#sjˈɛpte# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#sjˈepte# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛpte# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#sʲjˈɛpte# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#sʲˈɛpte# | 203 : j > ∅ / [+cons,+front] __
-*#ɕˈɛpte# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɕˈɛɑpte# | 210 : ∅ > ɑ / [-tense] __
-*#ɕˈeˈɑpte# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɕe̯ˈɑpte# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ʃe̯ˈɑpte# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃe̯ˈɑpte#
-*#ʃˈɑpte# | 246 : e̯ ˈɑ > ˈɑ / ʃ __
-Old Romanian stage form : *#ʃˈɑpte#
-Final form : *#ʃˈɑpte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1349:
+#kˈoksɑm# >>> *#ko̯ˈɑpsə# ( GOLD : #ko̯ˈɑpsə#) :
+k ˈo k s ɑ m 
+*#kˈoksɑ# | 45 : m > ∅ / [-stres] __ #
+*#kˈopsɑ# | 104 : k > p / [+syl,+stres,!αround,αhi] __ s
+Balkan Romance stage form : *#kˈopsɑ#
+*#kˈɔpsɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kˈɔɑpsɑ# | 210 : ∅ > ɑ / [-tense] __
+*#kˈoˈɑpsɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ko̯ˈɑpsɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ko̯ˈɑpsə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ko̯ˈɑpsə#
+Old Romanian stage form : *#ko̯ˈɑpsə#
+Final form : *#ko̯ˈɑpsə#

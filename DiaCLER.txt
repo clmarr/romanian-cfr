@@ -1321,20 +1321,6 @@ $ R43 Palatalization of [l] after a velar consonant
 	$ For compatibility:
 		l > ʎ / [-cont,-ant,-cor] __
 
-$ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
-	$ ə > e / [-cont,+hi,-strid] __
-	$ But these are both actually [+cont]
-		$ə > e / [+cons,+hi,+front,-strid] __
-		$ CM 9/18/26 -- its actually happening specifically after SONORANT palatal consonants
-			$ occurs after ɾʲ 
-	ə > e / [+cons,+front,+son] __ 
-
-		$CM 9/18/26 PALATAL r UNPACKING
-			$ -- ɾʲ unpacks instead of depalatalizing -- but it counterbleeds R44.
-			$ becomes ɾʲ if before non-high vocoid, and no more than one vocoid earlier in the word (not muria > moare) 
-	ɾʲ > ɾ j / # (([+cons])* (j) [-cons] ([+cons])*) __ [-hi]
-			$ j ɾ after non-initial tonic vowel. Otherwise ɾ j 
-	ɾʲ > j ɾ 
 
 $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
 	$ R45A Assimilation: [s] > [š] before [č]
@@ -1364,7 +1350,7 @@ $ TODO CONSOLIDATE INTO EARLIER?
 		$ ɾʲ has special behavior (see above) 
 	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
 		$ affrication as special rule is necessary because otherwise it will sweep up ɕ
-	[-cont,+front] > [+delrel,+strid,-back]
+	[-cont,-son,+front] > [+delrel,+strid,-back]
 		$ fronting of palatals etc.: 
 	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
 
@@ -1390,7 +1376,30 @@ $ NEW RULE: [ˈu] > [ˈo] between a cluster of voiced coronals and a front sonor
 $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
+	$ 
 
+	$ CM oct '26 -- moved R44 and palatal r unpacking to after Common Romanian, given different outcomes:
+		$ different outcomes : excavoriare > Romanian zgâria vs. Megl zgaira
+		$ different patterning of raising of ə after palatals	
+			$cichoria > Rom cicoare vs ARom tsicoarã;
+			$ Rom and Arom have ʎə > ʎe but not Megl-Rom
+				$ Megl fumea-ʎă, ungʎã , miʎ-ã,muc-ʎã, tindec-ʎã vs -ʎe in Rom and Arom
+			$ Arom has ə > e after palatal obstruents: fascia > fașă , Arom fashe > fashi. 
+
+$ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
+	$ ə > e / [-cont,+hi,-strid] __
+	$ But these are both actually [+cont]
+		$ə > e / [+cons,+hi,+front,-strid] __
+		$ CM 9/18/26 -- its actually happening specifically after SONORANT palatal consonants
+			$ occurs after ɾʲ 
+	ə > e / [+cons,+front,+son] __ 
+
+		$CM 9/18/26 PALATAL r UNPACKING
+			$ -- ɾʲ unpacks instead of depalatalizing -- but it counterbleeds R44.
+			$ becomes ɾʲ if before non-high vocoid, and no more than one vocoid earlier in the word (not muria > moare) 
+	ɾʲ > ɾ j / # (([+cons])* (j) [-cons] ([+cons])*) __ [-hi]
+			$ j ɾ after non-initial tonic vowel. Otherwise ɾ j 
+	ɾʲ > j ɾ 
 
 $ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
 	$ vie, vie, mie, fie -- -ie not -ije endings

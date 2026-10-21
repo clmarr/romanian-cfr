@@ -1,18 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 906:
-#strˈinktum# >>> *#strˈimt# ( GOLD : #strˈɨmt#) :
-s t r ˈi n k t u m 
-*#strˈinktu# | 45 : m > ∅ / [-stres] __ #
-*#strˈintu# | 101 : [-cont] > ∅ / [+cons] __ [-son,-voi]
-*#istrˈintu# | 112 : ∅ > i / # __ s [+cons,-son]
-*#estrˈentu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#strˈentu# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
-*#strˈemtu# | 162 : n > m / [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ( [+cor,+ant] )* [+syl]
-Balkan Romance stage form : *#strˈemtu#
-*#stɾˈemtu# | 165 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#stɾˈemtu#
-*#stɾˈimtu# | 249 : [+syl,+front] > [+hi] / __ m [+cons,-nas]
-*#strˈimtu# | 260 : ɾ > r 
-*#strˈimtw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#strˈimt# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#strˈimt#
-Final form : *#strˈimt#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 906:
+#sˌubtˈiːlem# >>> *#subt͡sˈire# ( GOLD : #subt͡sˈire#) :
+s ˌu b t ˈiː l e m 
+*#subtˈiːlem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#subtˈiːle# | 45 : m > ∅ / [-stres] __ #
+*#subtˈile# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#subtˈile#
+*#subtˈiɾe# | 185 : l > ɾ / [+syl] __ [+syl]
+*#subtjˈiɾe# | 200 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#subtʲjˈiɾe# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#subtʲˈiɾe# | 203 : j > ∅ / [+cons,+front] __
+*#subt͡sʲˈiɾe# | 226 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#subt͡sˈiɾe# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#subt͡sˈiɾe#
+*#subt͡sˈire# | 260 : ɾ > r 
+Old Romanian stage form : *#subt͡sˈire#
+Final form : *#subt͡sˈire#

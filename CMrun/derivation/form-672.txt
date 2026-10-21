@@ -1,16 +1,20 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 672:
-#wˈiːteɑm# >>> *#vˈit͡sə# ( GOLD : #vˈit͡sə#) :
-w ˈiː t e ɑ m 
-*#wˈiːtjɑm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wˈiːtjɑ# | 45 : m > ∅ / [-stres] __ #
-*#wˈiːtʲɑ# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#βˈiːtʲɑ# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#vˈiːtʲɑ# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#vˈitʲɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#vˈitʲɑ#
-*#vˈitʲə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-*#vˈit͡sʲə# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vˈit͡sə# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vˈit͡sə#
-Old Romanian stage form : *#vˈit͡sə#
-Final form : *#vˈit͡sə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 672:
+#hˈederɑm# >>> *#jˈederə# ( GOLD : #jˈederə#) :
+h ˈe d e r ɑ m 
+*#ˈederɑm# | 41 : [-son,-cons] > ∅ 
+*#ˈederɑ# | 45 : m > ∅ / [-stres] __ #
+*#ˈɛderɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#ˈɛderɑ#
+*#ˈɛdeɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
+*#ˈedeɾɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#jˈedeɾɑ# | 184 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
+*#jˈɛdeɾɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#jˈɛɑdeɾɑ# | 210 : ∅ > ɑ / [-tense] __
+*#jˈeˈɑdeɾɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#je̯ˈɑdeɾɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#je̯ˈɑdeɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#je̯ˈɑdeɾə#
+*#jˈedeɾə# | 247 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#jˈederə# | 260 : ɾ > r 
+Old Romanian stage form : *#jˈederə#
+Final form : *#jˈederə#

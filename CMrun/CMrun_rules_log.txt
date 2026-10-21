@@ -223,15 +223,15 @@ w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
 ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
 [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ #
 l > ʎ / [-cont,-ant,-cor] __
-ə > e / [+cons,+front,+son] __
-ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
-ɾʲ > j ɾ 
 s [-cont,+front] > ʃ t
-[-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+[-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
 [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 u > ɨ / [-son] __ n [-cont,-voi]
 e > ∅ / [+syl] [+prim] [+cons] __ #
 ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
+ə > e / [+cons,+front,+son] __
+ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
+ɾʲ > j ɾ 
 [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
 ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
 [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]

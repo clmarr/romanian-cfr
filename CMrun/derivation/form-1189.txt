@@ -1,16 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1189:
-#trˌiːbulˈɑː# >>> *#trjerˈɑ# ( GOLD : #trejerˈɑ#) :
-t r ˌiː b u l ˈɑː 
-*#triːbulˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#triːβulˈɑː# | 122 : b > β / [-cons] __ [+cont]
-*#triːβjelˈɑː# | 138 : [+round,-prim] > j e/ [+front,-cons] ( [+lab,+voi,-nas] ) __ [+cor,+son,-nas]
-*#triːjelˈɑː# | 143 : β > ∅ 
-*#trijelˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#trijelˈɑ#
-*#tɾijelˈɑ# | 165 : r > ɾ / __ [nnas,ncons]
-*#tɾijeɾˈɑ# | 185 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#tɾijeɾˈɑ#
-*#trijerˈɑ# | 260 : ɾ > r 
-*#trjerˈɑ# | 294 : i > ∅ / __ j [+syl]
-Old Romanian stage form : *#trjerˈɑ#
-Final form : *#trjerˈɑ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1189:
+#wentulˈɑː# >>> *#vɨnturˈɑ# ( GOLD : #vɨnturˈɑ#) :
+w e n t u l ˈɑː 
+*#βentulˈɑː# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#ventulˈɑː# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#ventulˈɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ventulˈɑ#
+*#ventuɾˈɑ# | 185 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#ventuɾˈɑ#
+*#vəntuɾˈɑ# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#vənturˈɑ# | 260 : ɾ > r 
+*#vɨnturˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#vɨnturˈɑ#
+Final form : *#vɨnturˈɑ#

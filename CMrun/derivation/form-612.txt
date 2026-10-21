@@ -1,19 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 612:
-#montikˈellum# >>> *#munt͡ʃˈel# ( GOLD : #munt͡ʃˈel#) :
-m o n t i k ˈe l l u m 
-*#montikˈellu# | 45 : m > ∅ / [-stres] __ #
-*#montkˈellu# | 71 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-delrel,-front] __ [-delrel,-front] [+prim]
-*#monkˈellu# | 101 : [-cont] > ∅ / [+cons] __ [-son,-voi]
-*#monkˈɛllu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#monkʲˈɛllu# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#monkʲˈɛllu#
-*#monkʲˈellu# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#munkʲˈellu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#munkʲˈelu# | 201 : {l l;m m} > {l;m} 
-*#munc͡ɕˈelu# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#munt͡ʃˈelu# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#munt͡ʃˈelu#
-*#munt͡ʃˈelw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#munt͡ʃˈel# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#munt͡ʃˈel#
-Final form : *#munt͡ʃˈel#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 612:
+#plˈɑɡium# >>> *#plˈɑj# ( GOLD : #plˈɑj#) :
+p l ˈɑ ɡ i u m 
+*#plˈɑɡjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#plˈɑɡju# | 45 : m > ∅ / [-stres] __ #
+*#plˈɑju# | 52 : ɡ > ∅ / [-cons,-round] __ [+front] [scons,sstrid]
+Balkan Romance stage form : *#plˈɑju#
+Common Romanian stage form : *#plˈɑju#
+*#plˈɑjw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#plˈɑj# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#plˈɑj#
+Final form : *#plˈɑj#

@@ -1,21 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 505:
-#trɑːjˈektɑm# >>> *#tre̯ˈɑptə# ( GOLD : #tre̯ˈɑptə#) :
-t r ɑː j ˈe k t ɑ m 
-*#trɑːjˈektɑ# | 45 : m > ∅ / [-stres] __ #
-*#trɑːjˈeptɑ# | 103 : k > p / __ t
-*#trɑːjˈɛptɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#trɑjˈɛptɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#trɑjˈɛptɑ#
-*#tɾɑjˈɛptɑ# | 165 : r > ɾ / __ [nnas,ncons]
-*#tɾɑjˈeptɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#tɾɑjˈɛptɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tɾɑjˈɛɑptɑ# | 210 : ∅ > ɑ / [-tense] __
-*#tɾɑjˈeˈɑptɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#tɾɑje̯ˈɑptɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#tɾəje̯ˈɑptə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#tɾəje̯ˈɑptə#
-*#tɾəe̯ˈɑptə# | 256 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
-*#trəe̯ˈɑptə# | 260 : ɾ > r 
-*#tre̯ˈɑptə# | 311 : ə > ∅ / __ [-cons,-hi]
-Old Romanian stage form : *#tre̯ˈɑptə#
-Final form : *#tre̯ˈɑptə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 505:
+#ɑrmˈɑːrium# >>> *#ɑrmˈɑr# ( GOLD : #ɑrmˈɑr#) :
+ɑ r m ˈɑː r i u m 
+*#ɑrmˈɑːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɑrmˈɑːrju# | 45 : m > ∅ / [-stres] __ #
+*#ɑrmˈɑrju# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɑrmˈɑrju#
+*#ɑɾmˈɑɾju# | 165 : r > ɾ / __ [nnas,ncons]
+*#ɑɾmˈɑɾʲju# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɑɾmˈɑɾʲu# | 203 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#ɑɾmˈɑɾʲu#
+*#ɑɾmˈɑjɾu# | 233 : ɾʲ > j ɾ 
+*#ɑrmˈɑjru# | 260 : ɾ > r 
+*#ɑrmˈɑjrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɑrmˈɑjr# | 277 : w̥ > ∅ / [-syl] __ #
+*#ɑrmˈɑr# | 285 : j > ∅ / __ r
+Old Romanian stage form : *#ɑrmˈɑr#
+Final form : *#ɑrmˈɑr#

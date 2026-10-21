@@ -1,20 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 815:
-#sˌerpˈentiɑm# >>> *#ʃerpˈɨnt͡sə# ( GOLD : #ʃerpˈɨnt͡sə#) :
-s ˌe r p ˈe n t i ɑ m 
-*#sˌerpˈentjɑm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#serpˈentjɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#serpˈentjɑ# | 45 : m > ∅ / [-stres] __ #
-*#serpˈentʲɑ# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#serpˈɛntʲɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sʲerpˈɛntʲɑ# | 155 : [+cor,-voi] > [+front,+hi] / __ [+syl] [+son] [-syl] ( [-syl] )* [+syl] ( @ )* [+cons,+front]
-Balkan Romance stage form : *#sʲerpˈɛntʲɑ#
-*#sʲerpˈentʲɑ# | 172 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#ɕerpˈentʲɑ# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɕerpˈentʲə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɕerpˈent͡sʲə# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ʃerpˈent͡sə# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃerpˈent͡sə#
-*#ʃerpˈənt͡sə# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
-*#ʃerpˈɨnt͡sə# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ʃerpˈɨnt͡sə#
-Final form : *#ʃerpˈɨnt͡sə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 815:
+#wˈiːperɑm# >>> *#vˈiperə# ( GOLD : #vˈiperə#) :
+w ˈiː p e r ɑ m 
+*#wˈiːperɑ# | 45 : m > ∅ / [-stres] __ #
+*#βˈiːperɑ# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#vˈiːperɑ# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#vˈiperɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#vˈiperɑ#
+*#vˈipeɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
+*#vˈipeɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#vˈipeɾə#
+*#vˈipəɾə# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#vˈipeɾə# | 237 : [-cons,-back,-hi,-lo,-front] > [+front,+tense,-cons,-lat,+cont,0delrel] / ˈi ( [-syl] )* __ @
+*#vˈiperə# | 260 : ɾ > r 
+Old Romanian stage form : *#vˈiperə#
+Final form : *#vˈiperə#

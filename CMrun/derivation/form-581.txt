@@ -1,17 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 581:
-#mˌerˈiːdieːm# >>> *#merˈize# ( GOLD : #merˈizə#) :
-m ˌe r ˈiː d i eː m 
-*#mˌerˈiːdjeːm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#merˈiːdjeːm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#merˈiːdjeː# | 45 : m > ∅ / [-stres] __ #
-*#merˈiːdʲeː# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#merˈidʲe# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#merˈidʲe#
-*#meɾˈidʲe# | 165 : r > ɾ / __ [nnas,ncons]
-*#meɾˈid͡zʲe# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#meɾˈid͡ze# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#meɾˈid͡ze#
-*#merˈid͡ze# | 260 : ɾ > r 
-*#merˈize# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#merˈize#
-Final form : *#merˈize#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 581:
+#nˈoktem# >>> *#no̯ˈɑpte# ( GOLD : #no̯ˈɑpte#) :
+n ˈo k t e m 
+*#nˈokte# | 45 : m > ∅ / [-stres] __ #
+*#nˈopte# | 103 : k > p / __ t
+Balkan Romance stage form : *#nˈopte#
+*#nˈɔpte# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nˈɔɑpte# | 210 : ∅ > ɑ / [-tense] __
+*#nˈoˈɑpte# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#no̯ˈɑpte# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#no̯ˈɑpte#
+Old Romanian stage form : *#no̯ˈɑpte#
+Final form : *#no̯ˈɑpte#

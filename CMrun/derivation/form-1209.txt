@@ -1,22 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1209:
-#fˌeːnˈikeɑ# >>> *#fɨne̯ˈɑt͡sə# ( GOLD : #fɨne̯ˈɑt͡sə#) :
-f ˌeː n ˈi k e ɑ 
-*#fˌeːnˈikjɑ# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːnˈikjɑ# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːnˈitʲɑ# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#feːnˈetʲɑ# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#fenˈetʲɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fenˈetʲɑ#
-*#fɑnˈetʲɑ# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#fɑnˈɛtʲɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#fɑnˈɛɑtʲɑ# | 210 : ∅ > ɑ / [-tense] __
-*#fɑnˈeˈɑtʲɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fɑne̯ˈɑtʲɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#fəne̯ˈɑtʲɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#fəne̯ˈɑtʲə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fəne̯ˈɑt͡sʲə# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fəne̯ˈɑt͡sə# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fəne̯ˈɑt͡sə#
-*#fɨne̯ˈɑt͡sə# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#fɨne̯ˈɑt͡sə#
-Final form : *#fɨne̯ˈɑt͡sə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1209:
+#hiːbernˈɑː# >>> *#jernˈɑ# ( GOLD : #jernˈɑ#) :
+h iː b e r n ˈɑː 
+*#iːbernˈɑː# | 41 : [-son,-cons] > ∅ 
+*#iːβernˈɑː# | 122 : b > β / [-cons] __ [+cont]
+*#iːernˈɑː# | 143 : β > ∅ 
+*#jernˈɑː# | 150 : [+front,+hi,+syl,-prim] > j / __ e
+*#jernˈɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#jernˈɑ#
+*#jeɾnˈɑ# | 165 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#jeɾnˈɑ#
+*#jernˈɑ# | 260 : ɾ > r 
+Old Romanian stage form : *#jernˈɑ#
+Final form : *#jernˈɑ#

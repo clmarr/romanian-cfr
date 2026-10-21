@@ -1,10 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1129:
-#ekskurtˈɑː# >>> *#skurtˈɑ# ( GOLD : #skurtˈɑ#) :
-e k s k u r t ˈɑː 
-*#eskurtˈɑː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskurtˈɑ# | 156 : [+syl] > [-long,-splng] 
-*#skurtˈɑ# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skurtˈɑ#
-Common Romanian stage form : *#skurtˈɑ#
-Old Romanian stage form : *#skurtˈɑ#
-Final form : *#skurtˈɑ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1129:
+#ekspulwerˈɑː# >>> *#spulberˈɑ# ( GOLD : #spulberˈɑ#) :
+e k s p u l w e r ˈɑː 
+*#ekspulβerˈɑː# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#espulβerˈɑː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espulberˈɑː# | 139 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#espulberˈɑ# | 156 : [+syl] > [-long,-splng] 
+*#spulberˈɑ# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#spulberˈɑ#
+*#spulbeɾˈɑ# | 165 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#spulbeɾˈɑ#
+*#spulbəɾˈɑ# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#spulbərˈɑ# | 260 : ɾ > r 
+*#spulberˈɑ# | 261 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,ifront,!iback] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+Old Romanian stage form : *#spulberˈɑ#
+Final form : *#spulberˈɑ#

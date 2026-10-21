@@ -1,18 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 836:
-#deˈorsum# >>> *#ʒˈos# ( GOLD : #ʒˈos#) :
-d e ˈo r s u m 
-*#djˈorsum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#djˈorsu# | 45 : m > ∅ / [-stres] __ #
-*#dʲˈorsu# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲˈossu# | 102 : r > s / [+cor] ( [-cons] )* __ s
-*#ɡʲˈossu# | 129 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲˈosu# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɡʲˈosu#
-*#ɟ͡ʑˈosu# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈosu# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒˈosu#
-*#ʒˈosu# | 271 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒˈosw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒˈos# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ʒˈos#
-Final form : *#ʒˈos#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 836:
+#dˌeːsˈertum# >>> *#deʃˈert# ( GOLD : #deʃˈert#) :
+d ˌeː s ˈe r t u m 
+*#deːsˈertum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːsˈertu# | 45 : m > ∅ / [-stres] __ #
+*#deːsˈɛrtu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#desˈɛrtu# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#desˈɛrtu#
+*#desjˈɛrtu# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#desjˈertu# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#desʲjˈertu# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#desʲˈertu# | 203 : j > ∅ / [+cons,+front] __
+*#deɕˈertu# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#deʃˈertu# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#deʃˈertu#
+*#deʃˈertw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#deʃˈert# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#deʃˈert#
+Final form : *#deʃˈert#

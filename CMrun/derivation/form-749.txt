@@ -1,20 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 749:
-#kˈokkinum# >>> *#ko̯ˈɑt͡ʃin# ( GOLD : #ko̯ˈɑt͡ʃin#) :
-k ˈo k k i n u m 
-*#kˈokkinu# | 45 : m > ∅ / [-stres] __ #
-*#kˈokkenu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#kˈokenu# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#kˈokʲenu# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#kˈokʲenu#
-*#kˈɔkʲenu# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔɑkʲenu# | 210 : ∅ > ɑ / [-tense] __
-*#kˈoˈɑkʲenu# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈɑkʲenu# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ko̯ˈɑc͡ɕenu# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ko̯ˈɑt͡ʃenu# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ko̯ˈɑt͡ʃenu#
-*#ko̯ˈɑt͡ʃinu# | 250 : [+syl,+front] > [+hi] / __ n [-stres]
-*#ko̯ˈɑt͡ʃinw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ko̯ˈɑt͡ʃin# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ko̯ˈɑt͡ʃin#
-Final form : *#ko̯ˈɑt͡ʃin#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 749:
+#kˌornˈuːtum# >>> *#kurnˈut# ( GOLD : #kornˈut#) :
+k ˌo r n ˈuː t u m 
+*#kornˈuːtum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kornˈuːtu# | 45 : m > ∅ / [-stres] __ #
+*#kornˈutu# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kornˈutu#
+*#koɾnˈutu# | 165 : r > ɾ / __ [nnas,ncons]
+*#kuɾnˈutu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#kuɾnˈutu#
+*#kurnˈutu# | 260 : ɾ > r 
+*#kurnˈutw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kurnˈut# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kurnˈut#
+Final form : *#kurnˈut#

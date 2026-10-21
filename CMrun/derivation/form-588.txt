@@ -1,20 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 588:
-#wˈeneris# >>> *#vˈɨnerj# ( GOLD : #vˈinerj#) :
-w ˈe n e r i s 
-*#βˈeneris# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#βˈɛneris# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#βˈɛneriːs# | 120 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#vˈɛneriːs# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#vˈɛneris# | 156 : [+syl] > [-long,-splng] 
-*#vˈɛneri# | 164 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#vˈɛneri#
-*#vˈɛneɾi# | 165 : r > ɾ / __ [nnas,ncons]
-*#vˈɑneɾi# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#vˈəneɾi# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#vˈəneɾi#
-*#vˈəneri# | 260 : ɾ > r 
-*#vˈɨneri# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#vˈɨnerj̊# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vˈɨnerj# | 278 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#vˈɨnerj#
-Final form : *#vˈɨnerj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 588:
+#ˌɑprˈiːliem# >>> *#prˈie# ( GOLD : #prˈie#) :
+ˌɑ p r ˈiː l i e m 
+*#ˌɑprˈiːljem# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɑprˈiːljem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑprˈiːlje# | 45 : m > ∅ / [-stres] __ #
+*#prˈiːlje# | 108 : ɑ > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
+*#prˈilje# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#prˈilje#
+*#pɾˈilje# | 165 : r > ɾ / __ [nnas,ncons]
+*#pɾˈilʲje# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#pɾˈilʲe# | 203 : j > ∅ / [+cons,+front] __
+*#pɾˈiʎe# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Common Romanian stage form : *#pɾˈiʎe#
+*#prˈiʎe# | 260 : ɾ > r 
+*#prˈije# | 264 : [+son,+cons,+front] > j 
+*#prˈie# | 312 : j > ∅ / [+hi,+front] __ e
+Old Romanian stage form : *#prˈie#
+Final form : *#prˈie#

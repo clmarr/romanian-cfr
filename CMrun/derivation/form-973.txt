@@ -1,10 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 973:
-#kʰˈɑrtɑm# >>> *#kˈɑrtə# ( GOLD : #kˈɑrtə#) :
-kʰ ˈɑ r t ɑ m 
-*#kˈɑrtɑm# | 23 : [+cons,+sg] > [-sg] 
-*#kˈɑrtɑ# | 45 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#kˈɑrtɑ#
-*#kˈɑrtə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kˈɑrtə#
-Old Romanian stage form : *#kˈɑrtə#
-Final form : *#kˈɑrtə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 973:
+#kʰˈɑrtɑe̯# >>> *#kˈɑrte# ( GOLD : #kˈɑrte#) :
+kʰ ˈɑ r t ɑ e̯ 
+*#kʰˈɑrtɑj# | 20 : e̯ > j 
+*#kˈɑrtɑj# | 23 : [+cons,+sg] > [-sg] 
+*#kˈɑrtɛː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,+front,-back,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#kˈɑrtɛ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kˈɑrtɛ#
+*#kˈɑrte# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Common Romanian stage form : *#kˈɑrte#
+Old Romanian stage form : *#kˈɑrte#
+Final form : *#kˈɑrte#

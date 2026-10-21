@@ -1,18 +1,24 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1171:
-#trɑːmˈitte# >>> *#trimˈete# ( GOLD : #trimˈite#) :
-t r ɑː m ˈi t t e 
-*#trɑːmˈette# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#trɑːmˈete# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#trɑmˈete# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#trɑmˈete#
-*#tɾɑmˈete# | 165 : r > ɾ / __ [nnas,ncons]
-*#tɾimˈete# | 171 : [+lo,aprim] > [-lo,+hi,-back,+front] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,!aprim]
-*#tɾimˈɛte# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tɾimˈɛɑte# | 210 : ∅ > ɑ / [-tense] __
-*#tɾimˈeˈɑte# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#tɾime̯ˈɑte# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#tɾime̯ˈɑte#
-*#tɾimˈete# | 247 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#trimˈete# | 260 : ɾ > r 
-Old Romanian stage form : *#trimˈete#
-Final form : *#trimˈete#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1171:
+#bukkˈellɑm# >>> *#but͡ʃe̯ˈɑ# ( GOLD : #but͡ʃe̯ˈɑ#) :
+b u k k ˈe l l ɑ m 
+*#bukkˈellɑ# | 45 : m > ∅ / [-stres] __ #
+*#bukkˈɛllɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bukˈɛllɑ# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#bukʲˈɛllɑ# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#bukʲˈɛllɑ#
+*#bukʲjˈɛllɑ# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#bukʲjˈellɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#bukʲjˈɛllɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#bukʲjˈɛwɑ# | 197 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#bukʲˈɛwɑ# | 203 : j > ∅ / [+cons,+front] __
+*#bukʲˈɛɑwɑ# | 210 : ∅ > ɑ / [-tense] __
+*#bukʲˈeˈɑwɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#bukʲe̯ˈɑwɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#bukʲe̯ˈɑwə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+*#bukʲe̯ˈɑw# | 222 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#bukʲe̯ˈɑ# | 223 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ #
+*#buc͡ɕe̯ˈɑ# | 226 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#but͡ʃe̯ˈɑ# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#but͡ʃe̯ˈɑ#
+Old Romanian stage form : *#but͡ʃe̯ˈɑ#
+Final form : *#but͡ʃe̯ˈɑ#

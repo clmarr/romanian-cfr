@@ -1,18 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 713:
-#bˌoːlˈeːtem# >>> *#burˈete# ( GOLD : #burˈete#) :
-b ˌoː l ˈeː t e m 
-*#boːlˈeːtem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#boːlˈeːte# | 45 : m > ∅ / [-stres] __ #
-*#bolˈete# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#bolˈete#
-*#bulˈete# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#buɾˈete# | 185 : l > ɾ / [+syl] __ [+syl]
-*#buɾˈɛte# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#buɾˈɛɑte# | 210 : ∅ > ɑ / [-tense] __
-*#buɾˈeˈɑte# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#buɾe̯ˈɑte# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#buɾe̯ˈɑte#
-*#buɾˈete# | 247 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#burˈete# | 260 : ɾ > r 
-Old Romanian stage form : *#burˈete#
-Final form : *#burˈete#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 713:
+#ˈeːskɑm# >>> *#jˈɑskə# ( GOLD : #jˈɑskə#) :
+ˈeː s k ɑ m 
+*#ˈeːskɑ# | 45 : m > ∅ / [-stres] __ #
+*#ˈeskɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈeskɑ#
+*#jˈeskɑ# | 184 : ∅ > j / # __ ˈe ( [-nas] ( @ )* ) #
+*#jˈɛskɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#jˈɛɑskɑ# | 210 : ∅ > ɑ / [-tense] __
+*#jˈeˈɑskɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#je̯ˈɑskɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#je̯ˈɑskə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#je̯ˈɑskə#
+*#jˈɑskə# | 254 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
+Old Romanian stage form : *#jˈɑskə#
+Final form : *#jˈɑskə#

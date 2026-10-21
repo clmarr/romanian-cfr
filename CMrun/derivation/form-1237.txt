@@ -1,16 +1,27 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1237:
-#weːnɑːtˈoːrem# >>> *#vɨnətˈor# ( GOLD : #vɨnətˈor#) :
-w eː n ɑː t ˈoː r e m 
-*#weːnɑːtˈoːre# | 45 : m > ∅ / [-stres] __ #
-*#weːnɑːtˈoːr# | 90 : e > ∅ / [-round] t ˈoː r __ #
-*#βeːnɑːtˈoːr# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#veːnɑːtˈoːr# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#venɑtˈor# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#venɑtˈor#
-*#vɑnɑtˈor# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#vənɑtˈor# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#vənətˈor# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#vənətˈor#
-*#vɨnətˈor# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#vɨnətˈor#
-Final form : *#vɨnətˈor#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1237:
+#weːnɑːtˈoːriɑm# >>> *#vɨnəto̯ˈɑre# ( GOLD : #vɨnəto̯ˈɑre#) :
+w eː n ɑː t ˈoː r i ɑ m 
+*#weːnɑːtˈoːrjɑm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#weːnɑːtˈoːrjɑ# | 45 : m > ∅ / [-stres] __ #
+*#βeːnɑːtˈoːrjɑ# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#veːnɑːtˈoːrjɑ# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#venɑtˈorjɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#venɑtˈorjɑ#
+*#venɑtˈoɾjɑ# | 165 : r > ɾ / __ [nnas,ncons]
+*#vɑnɑtˈoɾjɑ# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
+*#vɑnɑtˈɔɾjɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vɑnɑtˈɔɾʲjɑ# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#vɑnɑtˈɔɾʲɑ# | 203 : j > ∅ / [+cons,+front] __
+*#vɑnɑtˈɔɑɾʲɑ# | 210 : ∅ > ɑ / [-tense] __
+*#vɑnɑtˈoˈɑɾʲɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#vɑnɑto̯ˈɑɾʲɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#vənɑto̯ˈɑɾʲɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#vənəto̯ˈɑɾʲə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#vənəto̯ˈɑɾʲə#
+*#vənəto̯ˈɑɾʲe# | 231 : ə > e / [+cons,+front,+son] __
+*#vənəto̯ˈɑjɾe# | 233 : ɾʲ > j ɾ 
+*#vənəto̯ˈɑjre# | 260 : ɾ > r 
+*#vɨnəto̯ˈɑjre# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#vɨnəto̯ˈɑre# | 285 : j > ∅ / __ r
+Old Romanian stage form : *#vɨnəto̯ˈɑre#
+Final form : *#vɨnəto̯ˈɑre#

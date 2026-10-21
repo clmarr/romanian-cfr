@@ -1,18 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1427:
-#krˈeːskis# >>> *#krˈeʃtj# ( GOLD : #krˈeʃtj#) :
-k r ˈeː s k i s 
-*#krˈeːskiːs# | 120 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#krˈeːskʲiːs# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#krˈeskʲis# | 156 : [+syl] > [-long,-splng] 
-*#krˈeskʲi# | 164 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#krˈeskʲi#
-*#kɾˈeskʲi# | 165 : r > ɾ / __ [nnas,ncons]
-*#kɾˈeskʲji# | 200 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#kɾˈeskʲi# | 203 : j > ∅ / [+cons,+front] __
-*#kɾˈeʃti# | 228 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#kɾˈeʃti#
-*#krˈeʃti# | 260 : ɾ > r 
-*#krˈeʃtj̊# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#krˈeʃtj# | 278 : {w̥;j̊} > {w;j} 
-Old Romanian stage form : *#krˈeʃtj#
-Final form : *#krˈeʃtj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1427:
+#ekskˈɑwum# >>> *#zɡˈɑw# ( GOLD : #zɡˈəw#) :
+e k s k ˈɑ w u m 
+*#ekskˈɑwu# | 45 : m > ∅ / [-stres] __ #
+*#ekskˈɑβu# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#eskˈɑβu# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskˈɑu# | 143 : β > ∅ 
+*#esɡˈɑu# | 146 : k > ɡ / # ( ( e ) s ) __ [+syl,+back] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
+*#sɡˈɑu# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sɡˈɑu#
+*#zɡˈɑu# | 168 : s > z / # __ [+voi,-son]
+*#zɡˈɑw# | 186 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Common Romanian stage form : *#zɡˈɑw#
+Old Romanian stage form : *#zɡˈɑw#
+Final form : *#zɡˈɑw#

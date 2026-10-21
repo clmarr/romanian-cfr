@@ -1,16 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1241:
-#ˌinfrontˈɑː# >>> *#ɨnfruntˈɑ# ( GOLD : #ɨnfruntˈɑ#) :
-ˌi n f r o n t ˈɑː 
-*#infrontˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enfrontˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#enfrontˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enfrontˈɑ#
-*#enfɾontˈɑ# | 165 : r > ɾ / __ [nnas,ncons]
-*#ɑnfɾontˈɑ# | 169 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnfɾuntˈɑ# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənfɾuntˈɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənfɾuntˈɑ#
-*#ənfruntˈɑ# | 260 : ɾ > r 
-*#ɨnfruntˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnfruntˈɑ#
-Final form : *#ɨnfruntˈɑ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1241:
+#ˌinwˈinke# >>> *#ɨnvˈint͡ʃe# ( GOLD : #ɨnvˈint͡ʃe#) :
+ˌi n w ˈi n k e 
+*#inwˈinke# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inβˈinke# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#enβˈenke# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#envˈenke# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#envˈenkʲe# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+Balkan Romance stage form : *#envˈenkʲe#
+*#ɑnvˈenkʲe# | 169 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənvˈenkʲe# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənvˈenc͡ɕe# | 226 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ənvˈent͡ʃe# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ənvˈent͡ʃe#
+*#ənvˈint͡ʃe# | 243 : [+syl,+front] > [+hi] / __ n [+cons]
+*#ɨnvˈint͡ʃe# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnvˈint͡ʃe#
+Final form : *#ɨnvˈint͡ʃe#

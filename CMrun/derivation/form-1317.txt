@@ -1,12 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1317:
-#respˈonde# >>> *#rəspˈunde# ( GOLD : #rəspˈunde#) :
-r e s p ˈo n d e 
-Balkan Romance stage form : *#respˈonde#
-*#ɾespˈonde# | 165 : r > ɾ / __ [nnas,ncons]
-*#rɾespˈonde# | 166 : ∅ > r / # __ ɾ
-*#rɾespˈunde# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#rɾespˈunde#
-*#respˈunde# | 239 : {ɾ;r} > {∅;∅} / r __
-*#rəspˈunde# | 240 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Old Romanian stage form : *#rəspˈunde#
-Final form : *#rəspˈunde#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1317:
+#striɡˈɑː# >>> *#striɡˈɑ# ( GOLD : #striɡˈɑ#) :
+s t r i ɡ ˈɑː 
+*#istriɡˈɑː# | 112 : ∅ > i / # __ s [+cons,-son]
+*#estreɡˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#estreɡˈɑ# | 156 : [+syl] > [-long,-splng] 
+*#streɡˈɑ# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#streɡˈɑ#
+*#stɾeɡˈɑ# | 165 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#stɾeɡˈɑ#
+*#streɡˈɑ# | 260 : ɾ > r 
+*#striɡˈɑ# | 288 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
+Old Romanian stage form : *#striɡˈɑ#
+Final form : *#striɡˈɑ#

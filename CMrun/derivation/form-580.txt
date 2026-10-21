@@ -1,22 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 580:
-#mˈediɑ# >>> *#mˈɑzə# ( GOLD : #mjˈɑzə#) :
-m ˈe d i ɑ 
-*#mˈedjɑ# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈedʲɑ# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#mˈɛdʲɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#mˈɛdʲɑ#
-*#mjˈɛdʲɑ# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#mjˈedʲɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mjˈɛdʲɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#mjˈɛɑdʲɑ# | 210 : ∅ > ɑ / [-tense] __
-*#mjˈeˈɑdʲɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#mje̯ˈɑdʲɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#mje̯ˈɑdʲə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-*#mje̯ˈɑd͡zʲə# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mje̯ˈɑd͡zə# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mje̯ˈɑd͡zə#
-*#me̯ˈɑd͡zə# | 256 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
-*#mˈɑd͡zə# | 258 : e̯ > ∅ / # [+cons,αcont,-strid] __ ˈɑ [+cons,!αcont] ə #
-*#mˈɑzə# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Old Romanian stage form : *#mˈɑzə#
-Final form : *#mˈɑzə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 580:
+#mˌerˈiːdieːm# >>> *#merˈize# ( GOLD : #merˈizə#) :
+m ˌe r ˈiː d i eː m 
+*#mˌerˈiːdjeːm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#merˈiːdjeːm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#merˈiːdjeː# | 45 : m > ∅ / [-stres] __ #
+*#merˈiːdʲeː# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#merˈidʲe# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#merˈidʲe#
+*#meɾˈidʲe# | 165 : r > ɾ / __ [nnas,ncons]
+*#meɾˈid͡zʲe# | 226 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#meɾˈid͡ze# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#meɾˈid͡ze#
+*#merˈid͡ze# | 260 : ɾ > r 
+*#merˈize# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#merˈize#
+Final form : *#merˈize#

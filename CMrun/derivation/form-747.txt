@@ -1,13 +1,24 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 747:
-#kˌɑprˈiːnɑm# >>> *#kəprˈinə# ( GOLD : #kəprˈinə#) :
-k ˌɑ p r ˈiː n ɑ m 
-*#kɑprˈiːnɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kɑprˈiːnɑ# | 45 : m > ∅ / [-stres] __ #
-*#kɑprˈinɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kɑprˈinɑ#
-*#kɑpɾˈinɑ# | 165 : r > ɾ / __ [nnas,ncons]
-*#kəpɾˈinə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kəpɾˈinə#
-*#kəprˈinə# | 260 : ɾ > r 
-Old Romanian stage form : *#kəprˈinə#
-Final form : *#kəprˈinə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 747:
+#kˌɑtˈellɑm# >>> *#kət͡se̯ˈɑ# ( GOLD : #kət͡se̯ˈɑ#) :
+k ˌɑ t ˈe l l ɑ m 
+*#kɑtˈellɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kɑtˈellɑ# | 45 : m > ∅ / [-stres] __ #
+*#kɑtˈɛllɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#kɑtˈɛllɑ#
+*#kɑtjˈɛllɑ# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#kɑtjˈellɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kɑtjˈɛllɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#kɑtjˈɛwɑ# | 197 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#kɑtʲjˈɛwɑ# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kɑtʲˈɛwɑ# | 203 : j > ∅ / [+cons,+front] __
+*#kɑtʲˈɛɑwɑ# | 210 : ∅ > ɑ / [-tense] __
+*#kɑtʲˈeˈɑwɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kɑtʲe̯ˈɑwɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kətʲe̯ˈɑwə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+*#kətʲe̯ˈɑw# | 222 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#kətʲe̯ˈɑ# | 223 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ #
+*#kət͡sʲe̯ˈɑ# | 226 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#kət͡se̯ˈɑ# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#kət͡se̯ˈɑ#
+Old Romanian stage form : *#kət͡se̯ˈɑ#
+Final form : *#kət͡se̯ˈɑ#

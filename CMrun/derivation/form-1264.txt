@@ -1,20 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1264:
-#pˈedinum# >>> *#pjˈedin# ( GOLD : #pjˈedin#) :
-p ˈe d i n u m 
-*#pˈedinu# | 45 : m > ∅ / [-stres] __ #
-*#pˈɛdinu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pˈɛdenu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#pˈɛdenu#
-*#pjˈɛdenu# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈedenu# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛdenu# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛɑdenu# | 210 : ∅ > ɑ / [-tense] __
-*#pjˈeˈɑdenu# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈɑdenu# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#pje̯ˈɑdenu#
-*#pjˈedenu# | 247 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#pjˈedinu# | 250 : [+syl,+front] > [+hi] / __ n [-stres]
-*#pjˈedinw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pjˈedin# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pjˈedin#
-Final form : *#pjˈedin#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1264:
+#pˈiːllɑm# >>> *#pˈiwə# ( GOLD : #pˈiwə#) :
+p ˈiː l l ɑ m 
+*#pˈiːllɑ# | 45 : m > ∅ / [-stres] __ #
+*#pˈillɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈillɑ#
+*#pˈiwɑ# | 197 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#pˈiwə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pˈiwə#
+Old Romanian stage form : *#pˈiwə#
+Final form : *#pˈiwə#

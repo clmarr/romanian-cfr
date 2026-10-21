@@ -1,20 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 497:
-#ostˈeolum# >>> *#uʃˈor# ( GOLD : #uʃˈor#) :
-o s t ˈe o l u m 
-*#ostiˈoːlum# | 16 : [-lo,+prim] [+syl] > [-stres,+hi,-prim,+syl,+son] [+long,+prim,+stres,+syl,+son]/ __ [+cons] ( @ )* [+syl]
-*#ostjˈoːlum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ostjˈoːlu# | 45 : m > ∅ / [-stres] __ #
-*#ostʲˈoːlu# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#osʲˈoːlu# | 128 : s [-cont,+front] > sʲ
-*#osʲˈolu# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#osʲˈolu#
-*#usʲˈolu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#usʲˈoɾu# | 185 : l > ɾ / [+syl] __ [+syl]
-*#uɕˈoɾu# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#uʃˈoɾu# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#uʃˈoɾu#
-*#uʃˈoru# | 260 : ɾ > r 
-*#uʃˈorw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#uʃˈor# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#uʃˈor#
-Final form : *#uʃˈor#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 497:
+#ˈoːstiɑ# >>> *#o̯ˈɑʃə# ( GOLD : #ˈuʃə#) :
+ˈoː s t i ɑ 
+*#ˈoːstjɑ# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˈoːstʲɑ# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ˈoːsʲɑ# | 128 : s [-cont,+front] > sʲ
+*#ˈosʲɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈosʲɑ#
+*#ˈɔsʲɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔɕɑ# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ˈɔɑɕɑ# | 210 : ∅ > ɑ / [-tense] __
+*#ˈoˈɑɕɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈɑɕɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#o̯ˈɑɕə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+*#o̯ˈɑʃə# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#o̯ˈɑʃə#
+Old Romanian stage form : *#o̯ˈɑʃə#
+Final form : *#o̯ˈɑʃə#

@@ -1,16 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1273:
-#tˈorkwe# >>> *#to̯ˈɑrt͡ʃe# ( GOLD : #to̯ˈɑrt͡ʃe#) :
-t ˈo r k w e 
-*#tˈorkβe# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#tˈorke# | 143 : β > ∅ 
-*#tˈorkʲe# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#tˈorkʲe#
-*#tˈɔrkʲe# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tˈɔɑrkʲe# | 210 : ∅ > ɑ / [-tense] __
-*#tˈoˈɑrkʲe# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#to̯ˈɑrkʲe# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#to̯ˈɑrc͡ɕe# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#to̯ˈɑrt͡ʃe# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#to̯ˈɑrt͡ʃe#
-Old Romanian stage form : *#to̯ˈɑrt͡ʃe#
-Final form : *#to̯ˈɑrt͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1273:
+#tˈortum# >>> *#tˈort# ( GOLD : #tˈort#) :
+t ˈo r t u m 
+*#tˈortu# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#tˈortu#
+Common Romanian stage form : *#tˈortu#
+*#tˈortw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#tˈort# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#tˈort#
+Final form : *#tˈort#

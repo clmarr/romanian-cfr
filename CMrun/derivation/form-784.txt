@@ -1,15 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 784:
-#krˌistˈɑːtum# >>> *#krestˈɑt# ( GOLD : #krestˈɑt#) :
-k r ˌi s t ˈɑː t u m 
-*#kristˈɑːtum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kristˈɑːtu# | 45 : m > ∅ / [-stres] __ #
-*#krestˈɑːtu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#krestˈɑtu# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#krestˈɑtu#
-*#kɾestˈɑtu# | 165 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#kɾestˈɑtu#
-*#krestˈɑtu# | 260 : ɾ > r 
-*#krestˈɑtw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#krestˈɑt# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#krestˈɑt#
-Final form : *#krestˈɑt#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 784:
+#klˈubium# >>> *#kˈijb# ( GOLD : #kˈujb#) :
+k l ˈu b i u m 
+*#klˈubjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#klˈubju# | 45 : m > ∅ / [-stres] __ #
+*#klˈubbju# | 121 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+*#klˈubju# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#klˈujbu# | 147 : b j > j b / [+stres] __
+Balkan Romance stage form : *#klˈujbu#
+*#kʎˈujbu# | 224 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#kʎˈujbu#
+*#kjˈujbu# | 264 : [+son,+cons,+front] > j 
+*#kjˈujbw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kjˈujb# | 277 : w̥ > ∅ / [-syl] __ #
+*#kjˈijb# | 281 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
+*#kˈijb# | 282 : j > ∅ / __ [+front,+hi]
+Old Romanian stage form : *#kˈijb#
+Final form : *#kˈijb#

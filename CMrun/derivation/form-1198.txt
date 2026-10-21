@@ -1,17 +1,23 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1198:
-#seːminɑːtˈuːrɑm# >>> *#semənətˈurə# ( GOLD : #semənətˈurə#) :
-s eː m i n ɑː t ˈuː r ɑ m 
-*#seːminɑːtˈuːrɑ# | 45 : m > ∅ / [-stres] __ #
-*#seːmenɑːtˈuːrɑ# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#semenɑtˈurɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#semenɑtˈurɑ#
-*#semenɑtˈuɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
-*#semɑnɑtˈuɾɑ# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#semənɑtˈuɾɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#semənətˈuɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#semənətˈuɾə#
-*#semənətˈurə# | 260 : ɾ > r 
-*#semɨnətˈurə# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#semənətˈurə# | 266 : ɨ > ə / @ m __ n [+syl,-front]
-Old Romanian stage form : *#semənətˈurə#
-Final form : *#semənətˈurə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1198:
+#tˈerrɑm# >>> *#t͡sˈɑrə# ( GOLD : #t͡sˈɑrə#) :
+t ˈe r r ɑ m 
+*#tˈerrɑ# | 45 : m > ∅ / [-stres] __ #
+*#tˈɛrrɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#tˈɛrrɑ#
+*#tˈɛrɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
+*#tjˈɛrɾɑ# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#tjˈerɾɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#tjˈɛrɾɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#tʲjˈɛrɾɑ# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tʲˈɛrɾɑ# | 203 : j > ∅ / [+cons,+front] __
+*#tʲˈɛɑrɾɑ# | 210 : ∅ > ɑ / [-tense] __
+*#tʲˈeˈɑrɾɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tʲe̯ˈɑrɾɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#tʲe̯ˈɑrɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+*#t͡sʲe̯ˈɑrɾə# | 226 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡se̯ˈɑrɾə# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡se̯ˈɑrɾə#
+*#t͡se̯ˈɑrə# | 239 : {ɾ;r} > {∅;∅} / r __
+*#t͡sˈɑrə# | 259 : e̯ > ∅ / [+delrel,-distr] __ ˈɑ [+voi,+cor]
+Old Romanian stage form : *#t͡sˈɑrə#
+Final form : *#t͡sˈɑrə#

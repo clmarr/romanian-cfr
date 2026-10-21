@@ -1,10 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 619:
-#kˈurre# >>> ... ( GOLD : ...) :
-k ˈu r r e 
-Balkan Romance stage form : *#kˈurre#
-*#kˈurɾe# | 165 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#kˈurɾe#
-*#kˈure# | 239 : {ɾ;r} > {∅;∅} / r __
-*#kˈurə# | 240 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Old Romanian stage form : *#kˈurə#
-Final form : ...
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 619:
+#ˌekssˌuːkkˈɑː# >>> *#sukˈɑ# ( GOLD : #uskˈɑ#) :
+ˌe k s s ˌuː k k ˈɑː 
+*#ekssuːkkˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#essuːkkˈɑː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
+*#esuːkˈɑː# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#esukˈɑ# | 156 : [+syl] > [-long,-splng] 
+*#sukˈɑ# | 160 : e > ∅ / # __ s [+syl,-front]
+Balkan Romance stage form : *#sukˈɑ#
+Common Romanian stage form : *#sukˈɑ#
+Old Romanian stage form : *#sukˈɑ#
+Final form : *#sukˈɑ#

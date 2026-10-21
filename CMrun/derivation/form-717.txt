@@ -1,16 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 717:
-#sˌilwˈɑːtikum# >>> *#səlbˈɑtek# ( GOLD : #səlbˈɑtek#) :
-s ˌi l w ˈɑː t i k u m 
-*#silwˈɑːtikum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#silwˈɑːtiku# | 45 : m > ∅ / [-stres] __ #
-*#silβˈɑːtiku# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#selβˈɑːteku# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#selbˈɑːteku# | 139 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-*#selbˈɑteku# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#selbˈɑteku#
-Common Romanian stage form : *#selbˈɑteku#
-*#səlbˈɑteku# | 268 : e > ə / s __ [+cons,αson,αlat] [+cons]
-*#səlbˈɑtekw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#səlbˈɑtek# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#səlbˈɑtek#
-Final form : *#səlbˈɑtek#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 717:
+#wˈiːtɑm# >>> *#vˈitə# ( GOLD : #vˈitə#) :
+w ˈiː t ɑ m 
+*#wˈiːtɑ# | 45 : m > ∅ / [-stres] __ #
+*#βˈiːtɑ# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#vˈiːtɑ# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#vˈitɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#vˈitɑ#
+*#vˈitə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#vˈitə#
+Old Romanian stage form : *#vˈitə#
+Final form : *#vˈitə#

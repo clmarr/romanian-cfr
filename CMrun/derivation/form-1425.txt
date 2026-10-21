@@ -1,17 +1,17 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1425:
-#kiːwitˈɑːtem# >>> *#t͡ʃetˈɑte# ( GOLD : #t͡ʃetˈɑte#) :
-k iː w i t ˈɑː t e m 
-*#kiːwitˈɑːte# | 45 : m > ∅ / [-stres] __ #
-*#kiːβitˈɑːte# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#kiːβetˈɑːte# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#kiːetˈɑːte# | 143 : β > ∅ 
-*#kjetˈɑːte# | 150 : [+front,+hi,+syl,-prim] > j / __ e
-*#kʲjetˈɑːte# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#kʲjetˈɑte# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kʲjetˈɑte#
-*#kʲetˈɑte# | 203 : j > ∅ / [+cons,+front] __
-*#c͡ɕetˈɑte# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃetˈɑte# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃetˈɑte#
-Old Romanian stage form : *#t͡ʃetˈɑte#
-Final form : *#t͡ʃetˈɑte#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1425:
+#dˈiːkoː# >>> *#zˈik# ( GOLD : #zˈik#) :
+d ˈiː k oː 
+*#dˈiko# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dˈiko#
+*#dˈiku# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#djˈiku# | 200 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#dʲjˈiku# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#dʲˈiku# | 203 : j > ∅ / [+cons,+front] __
+*#d͡zʲˈiku# | 226 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡zˈiku# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡zˈiku#
+*#zˈiku# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+*#zˈikw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#zˈik# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#zˈik#
+Final form : *#zˈik#

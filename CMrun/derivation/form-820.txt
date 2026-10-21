@@ -1,16 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 820:
-#kˈiːmikem# >>> *#t͡ʃˈint͡ʃe# ( GOLD : #t͡ʃˈint͡ʃe#) :
-k ˈiː m i k e m 
-*#kˈiːmike# | 45 : m > ∅ / [-stres] __ #
-*#kˈiːmke# | 68 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ( [-syl] ) [+syl,-stres,-lo]
-*#kʲˈiːmkʲe# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#kʲˈimkʲe# | 156 : [+syl] > [-long,-splng] 
-*#kʲˈinkʲe# | 161 : m > n / __ [+cons,-lab,-nas]
-Balkan Romance stage form : *#kʲˈinkʲe#
-*#kʲjˈinkʲe# | 200 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#kʲˈinkʲe# | 203 : j > ∅ / [+cons,+front] __
-*#c͡ɕˈinc͡ɕe# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃˈint͡ʃe# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#t͡ʃˈint͡ʃe#
-Old Romanian stage form : *#t͡ʃˈint͡ʃe#
-Final form : *#t͡ʃˈint͡ʃe#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 820:
+#flˈuktul# >>> *#flˈuture# ( GOLD : #flˈuture#) :
+f l ˈu k t u l 
+*#flˈuktule# | 84 : ∅ > e / l __ #
+*#flˈuptule# | 103 : k > p / __ t
+*#flˈutule# | 107 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
+Balkan Romance stage form : *#flˈutule#
+*#flˈutuɾe# | 185 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#flˈutuɾe#
+*#flˈuture# | 260 : ɾ > r 
+Old Romanian stage form : *#flˈuture#
+Final form : *#flˈuture#

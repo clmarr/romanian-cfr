@@ -1,26 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 516:
-#ɡˈeminum# >>> *#d͡ʒe̯ˈɑmən# ( GOLD : #d͡ʒe̯ˈɑmən#) :
-ɡ ˈe m i n u m 
-*#ɡˈeminu# | 45 : m > ∅ / [-stres] __ #
-*#ɡˈɛminu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡˈɛmenu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#ɡʲˈɛmenu# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#ɡʲˈɛmenu#
-*#ɡʲˈɛmɑnu# | 170 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / # ( ( @ )* [-lab] ) [+lab,+cont,+cons] ( [+lab,+cont,+cons] )* ( [+cor] ) __ n [+syl,uround,uhi]
-*#ɡʲjˈɛmɑnu# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#ɡʲjˈemɑnu# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡʲjˈɛmɑnu# | 192 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-round]
-*#ɡʲˈɛmɑnu# | 203 : j > ∅ / [+cons,+front] __
-*#ɡʲˈɛɑmɑnu# | 210 : ∅ > ɑ / [-tense] __
-*#ɡʲˈeˈɑmɑnu# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɡʲe̯ˈɑmɑnu# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ɡʲe̯ˈɑmənu# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ɟ͡ʑe̯ˈɑmənu# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒe̯ˈɑmənu# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒe̯ˈɑmənu#
-*#d͡ʒe̯ˈɑmɨnu# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#d͡ʒe̯ˈɑmənu# | 266 : ɨ > ə / @ m __ n [+syl,-front]
-*#d͡ʒe̯ˈɑmənw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#d͡ʒe̯ˈɑmən# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#d͡ʒe̯ˈɑmən#
-Final form : *#d͡ʒe̯ˈɑmən#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 516:
+#mˈɑmmɑm# >>> *#mˈumə# ( GOLD : #mˈumə#) :
+m ˈɑ m m ɑ m 
+*#mˈɑmmɑ# | 45 : m > ∅ / [-stres] __ #
+*#mˈommɑ# | 91 : ˈɑ > ˈo / [+lab,+cont] __ m
+Balkan Romance stage form : *#mˈommɑ#
+*#mˈummɑ# | 188 : ˈo > ˈu / [+nas] __ [+nas]
+*#mˈumɑ# | 201 : {l l;m m} > {l;m} 
+*#mˈumə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#mˈumə#
+Old Romanian stage form : *#mˈumə#
+Final form : *#mˈumə#

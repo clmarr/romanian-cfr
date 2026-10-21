@@ -1,16 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 683:
-#ˈɑːlium# >>> *#ˈɑj# ( GOLD : #ˈɑj#) :
-ˈɑː l i u m 
-*#ˈɑːljum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ˈɑːlju# | 45 : m > ∅ / [-stres] __ #
-*#ˈɑlju# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ˈɑlju#
-*#ˈɑlʲju# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ˈɑlʲu# | 203 : j > ∅ / [+cons,+front] __
-*#ˈɑʎu# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#ˈɑʎu#
-*#ˈɑju# | 264 : [+son,+cons,+front] > j 
-*#ˈɑjw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ˈɑj# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ˈɑj#
-Final form : *#ˈɑj#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 683:
+#kɑwlˈikulum# >>> *#kurˈekj# ( GOLD : #kurˈekj#) :
+k ɑ w l ˈi k u l u m 
+*#kolˈikulum# | 26 : ɑ w > o / [+cons] __ [+cons,+cont]
+*#kolˈikulu# | 45 : m > ∅ / [-stres] __ #
+*#kolˈiklu# | 62 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#kolˈeklu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#kolˈeklu#
+*#kulˈeklu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kuɾˈeklu# | 185 : l > ɾ / [+syl] __ [+syl]
+*#kuɾˈekʎu# | 224 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#kuɾˈekʎu#
+*#kurˈekʎu# | 260 : ɾ > r 
+*#kurˈekju# | 264 : [+son,+cons,+front] > j 
+*#kurˈekjw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kurˈekj# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kurˈekj#
+Final form : *#kurˈekj#

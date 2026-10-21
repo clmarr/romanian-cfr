@@ -1,23 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 615:
-#skˌɑmnˈellum# >>> *#skəwnˈel# ( GOLD : #skəwnˈel#) :
-s k ˌɑ m n ˈe l l u m 
-*#skɑmnˈellum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#skɑmnˈellu# | 45 : m > ∅ / [-stres] __ #
-*#iskɑmnˈellu# | 112 : ∅ > i / # __ s [+cons,-son]
-*#iskɑmnˈɛllu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#eskɑmnˈɛllu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#eskɑwnˈɛllu# | 148 : m > w / [+lo] __ n
-*#skɑwnˈɛllu# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#skɑwnˈɛllu#
-*#skɑwnjˈɛllu# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#skɑwnjˈellu# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#skɑwnjˈelu# | 201 : {l l;m m} > {l;m} 
-*#skɑwnʲjˈelu# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#skɑwnʲˈelu# | 203 : j > ∅ / [+cons,+front] __
-*#skɑwnˈelu# | 204 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front] [-nas]
-*#skəwnˈelu# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#skəwnˈelu#
-*#skəwnˈelw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#skəwnˈel# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#skəwnˈel#
-Final form : *#skəwnˈel#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 615:
+#sˌolˈiːnum# >>> ... ( GOLD : ...) :
+s ˌo l ˈiː n u m 
+*#solˈiːnum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#solˈiːnu# | 45 : m > ∅ / [-stres] __ #
+*#solˈinu# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#solˈinu#
+*#sulˈinu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#suɾˈinu# | 185 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#suɾˈinu#
+*#surˈinu# | 260 : ɾ > r 
+*#surˈinw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#surˈin# | 277 : w̥ > ∅ / [-syl] __ #
+*#sunˈin# | 300 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Old Romanian stage form : *#sunˈin#
+Final form : ...

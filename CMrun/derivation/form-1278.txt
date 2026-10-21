@@ -1,11 +1,21 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1278:
-#dolˈɑː# >>> *#durˈɑ# ( GOLD : #durˈɑ#) :
-d o l ˈɑː 
-*#dolˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#dolˈɑ#
-*#dulˈɑ# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#duɾˈɑ# | 185 : l > ɾ / [+syl] __ [+syl]
-Common Romanian stage form : *#duɾˈɑ#
-*#durˈɑ# | 260 : ɾ > r 
-Old Romanian stage form : *#durˈɑ#
-Final form : *#durˈɑ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1278:
+#liɡnˈɑːrium# >>> *#lemnˈɑr# ( GOLD : #lemnˈɑr#) :
+l i ɡ n ˈɑː r i u m 
+*#liɡnˈɑːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#liŋnˈɑːrjum# | 21 : ɡ > ŋ / __ n
+*#liŋnˈɑːrju# | 45 : m > ∅ / [-stres] __ #
+*#limnˈɑːrju# | 106 : ŋ > m / __ n
+*#lemnˈɑːrju# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#lemnˈɑrju# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lemnˈɑrju#
+*#lemnˈɑɾju# | 165 : r > ɾ / __ [nnas,ncons]
+*#lemnˈɑɾʲju# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lemnˈɑɾʲu# | 203 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#lemnˈɑɾʲu#
+*#lemnˈɑjɾu# | 233 : ɾʲ > j ɾ 
+*#lemnˈɑjru# | 260 : ɾ > r 
+*#lemnˈɑjrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#lemnˈɑjr# | 277 : w̥ > ∅ / [-syl] __ #
+*#lemnˈɑr# | 285 : j > ∅ / __ r
+Old Romanian stage form : *#lemnˈɑr#
+Final form : *#lemnˈɑr#

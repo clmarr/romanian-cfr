@@ -1,25 +1,12 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 653:
-#juːnˈiperum# >>> *#ʒune̯ˈɑpər# ( GOLD : #ʒne̯ˈɑpən#) :
-j uː n ˈi p e r u m 
-*#juːnˈiperu# | 45 : m > ∅ / [-stres] __ #
-*#djuːnˈiperu# | 53 : j > d j / # __ [+syl] [-syl]
-*#dʲuːnˈiperu# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲuːnˈeperu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#ɡʲuːnˈeperu# | 129 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲunˈeperu# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɡʲunˈeperu#
-*#ɡʲunˈepeɾu# | 165 : r > ɾ / __ [nnas,ncons]
-*#ɡʲunˈɛpeɾu# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ɡʲunˈɛɑpeɾu# | 210 : ∅ > ɑ / [-tense] __
-*#ɡʲunˈeˈɑpeɾu# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɡʲune̯ˈɑpeɾu# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ɟ͡ʑune̯ˈɑpeɾu# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒune̯ˈɑpeɾu# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒune̯ˈɑpeɾu#
-*#d͡ʒune̯ˈɑpəɾu# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
-*#d͡ʒune̯ˈɑpəru# | 260 : ɾ > r 
-*#ʒune̯ˈɑpəru# | 271 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒune̯ˈɑpərw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ʒune̯ˈɑpər# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ʒune̯ˈɑpər#
-Final form : *#ʒune̯ˈɑpər#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 653:
+#pɑdˈuːlem# >>> *#pədˈure# ( GOLD : #pədˈure#) :
+p ɑ d ˈuː l e m 
+*#pɑdˈuːle# | 45 : m > ∅ / [-stres] __ #
+*#pɑdˈule# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pɑdˈule#
+*#pɑdˈuɾe# | 185 : l > ɾ / [+syl] __ [+syl]
+*#pədˈuɾe# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pədˈuɾe#
+*#pədˈure# | 260 : ɾ > r 
+Old Romanian stage form : *#pədˈure#
+Final form : *#pədˈure#

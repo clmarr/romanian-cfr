@@ -1,15 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 844:
-#mˌeːnsˈuːrɑm# >>> *#məsˈurə# ( GOLD : #məsˈurə#) :
-m ˌeː n s ˈuː r ɑ m 
-*#meːnsˈuːrɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#meːnsˈuːrɑ# | 45 : m > ∅ / [-stres] __ #
-*#meːsˈuːrɑ# | 98 : [+syl] n > [+long] ∅/ # ( ( @ )* [-cons] ) [+cons] __ [-son,+cont]
-*#mesˈurɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mesˈurɑ#
-*#mesˈuɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
-*#mesˈuɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#mesˈuɾə#
-*#məsˈuɾə# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
-*#məsˈurə# | 260 : ɾ > r 
-Old Romanian stage form : *#məsˈurə#
-Final form : *#məsˈurə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 844:
+#mˌeːnsuːrˈɑː# >>> *#məsurˈɑ# ( GOLD : #məsurˈɑ#) :
+m ˌeː n s uː r ˈɑː 
+*#meːnsuːrˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#meːsuːrˈɑː# | 98 : [+syl] n > [+long] ∅/ # ( ( @ )* [-cons] ) [+cons] __ [-son,+cont]
+*#mesurˈɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mesurˈɑ#
+*#mesuɾˈɑ# | 165 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#mesuɾˈɑ#
+*#məsuɾˈɑ# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#məsurˈɑ# | 260 : ɾ > r 
+Old Romanian stage form : *#məsurˈɑ#
+Final form : *#məsurˈɑ#

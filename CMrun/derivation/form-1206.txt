@@ -1,15 +1,8 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1206:
-#ˌinsˌiɡnˈɑː# >>> *#ɨnsemnˈɑ# ( GOLD : #ɨnsemnˈɑ#) :
-ˌi n s ˌi ɡ n ˈɑː 
-*#ˌinsˌiŋnˈɑː# | 21 : ɡ > ŋ / __ n
-*#insiŋnˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#insimnˈɑː# | 106 : ŋ > m / __ n
-*#ensemnˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#ensemnˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ensemnˈɑ#
-*#ɑnsemnˈɑ# | 169 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənsemnˈɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənsemnˈɑ#
-*#ɨnsemnˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnsemnˈɑ#
-Final form : *#ɨnsemnˈɑ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1206:
+#tˈonde# >>> *#tˈunde# ( GOLD : #tˈunde#) :
+t ˈo n d e 
+Balkan Romance stage form : *#tˈonde#
+*#tˈunde# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#tˈunde#
+Old Romanian stage form : *#tˈunde#
+Final form : *#tˈunde#

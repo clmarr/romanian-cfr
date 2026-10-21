@@ -1,14 +1,10 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 724:
-#ˌekstˈirpum# >>> *#stˈerp# ( GOLD : #stˈerp#) :
-ˌe k s t ˈi r p u m 
-*#ekstˈirpum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekstˈirpu# | 45 : m > ∅ / [-stres] __ #
-*#estˈirpu# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estˈerpu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#stˈerpu# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stˈerpu#
-Common Romanian stage form : *#stˈerpu#
-*#stˈerpw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#stˈerp# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#stˈerp#
-Final form : *#stˈerp#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 724:
+#fˌeːtˈɑː# >>> *#fətˈɑ# ( GOLD : #fətˈɑ#) :
+f ˌeː t ˈɑː 
+*#feːtˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#fetˈɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fetˈɑ#
+Common Romanian stage form : *#fetˈɑ#
+*#fətˈɑ# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+Old Romanian stage form : *#fətˈɑ#
+Final form : *#fətˈɑ#

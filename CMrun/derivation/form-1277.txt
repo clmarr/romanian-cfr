@@ -1,19 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1277:
-#doɡˈɑːrium# >>> *#duɡˈɑr# ( GOLD : #doɡˈɑr#) :
-d o ɡ ˈɑː r i u m 
-*#doɡˈɑːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#doɡˈɑːrju# | 45 : m > ∅ / [-stres] __ #
-*#doɡˈɑrju# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#doɡˈɑrju#
-*#doɡˈɑɾju# | 165 : r > ɾ / __ [nnas,ncons]
-*#duɡˈɑɾju# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#duɡˈɑɾʲju# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#duɡˈɑɾʲu# | 203 : j > ∅ / [+cons,+front] __
-*#duɡˈɑjɾu# | 227 : ɾʲ > j ɾ 
-Common Romanian stage form : *#duɡˈɑjɾu#
-*#duɡˈɑjru# | 260 : ɾ > r 
-*#duɡˈɑjrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#duɡˈɑjr# | 277 : w̥ > ∅ / [-syl] __ #
-*#duɡˈɑr# | 285 : j > ∅ / __ r
-Old Romanian stage form : *#duɡˈɑr#
-Final form : *#duɡˈɑr#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1277:
+#dolˈɑː# >>> *#durˈɑ# ( GOLD : #durˈɑ#) :
+d o l ˈɑː 
+*#dolˈɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dolˈɑ#
+*#dulˈɑ# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#duɾˈɑ# | 185 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#duɾˈɑ#
+*#durˈɑ# | 260 : ɾ > r 
+Old Romanian stage form : *#durˈɑ#
+Final form : *#durˈɑ#

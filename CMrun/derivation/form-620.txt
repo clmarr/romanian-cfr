@@ -1,12 +1,15 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 620:
-#ˌekssˌuːkkˈɑː# >>> *#sukˈɑ# ( GOLD : #uskˈɑ#) :
-ˌe k s s ˌuː k k ˈɑː 
-*#ekssuːkkˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#essuːkkˈɑː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
-*#esuːkˈɑː# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#esukˈɑ# | 156 : [+syl] > [-long,-splng] 
-*#sukˈɑ# | 160 : e > ∅ / # __ s [+syl,-front]
-Balkan Romance stage form : *#sukˈɑ#
-Common Romanian stage form : *#sukˈɑ#
-Old Romanian stage form : *#sukˈɑ#
-Final form : *#sukˈɑ#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 620:
+#ˌekssˈuːkkoː# >>> *#sˈuk# ( GOLD : #usˈuk#) :
+ˌe k s s ˈuː k k oː 
+*#ekssˈuːkkoː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#essˈuːkkoː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
+*#esˈuːkoː# | 144 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#esˈuko# | 156 : [+syl] > [-long,-splng] 
+*#sˈuko# | 160 : e > ∅ / # __ s [+syl,-front]
+Balkan Romance stage form : *#sˈuko#
+*#sˈuku# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#sˈuku#
+*#sˈukw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈuk# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sˈuk#
+Final form : *#sˈuk#

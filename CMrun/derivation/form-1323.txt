@@ -1,14 +1,18 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1323:
-#fˈoe̯tum# >>> *#fˈət# ( GOLD : #fˈət#) :
-f ˈo e̯ t u m 
-*#fˈojtum# | 20 : e̯ > j 
-*#fˈeːtum# | 43 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
-*#fˈeːtu# | 45 : m > ∅ / [-stres] __ #
-*#fˈetu# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fˈetu#
-Common Romanian stage form : *#fˈetu#
-*#fˈətu# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
-*#fˈətw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#fˈət# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#fˈət#
-Final form : *#fˈət#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1323:
+#fˈoe̯tɑm# >>> *#fˈɑtə# ( GOLD : #fˈɑtə#) :
+f ˈo e̯ t ɑ m 
+*#fˈojtɑm# | 20 : e̯ > j 
+*#fˈeːtɑm# | 43 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
+*#fˈeːtɑ# | 45 : m > ∅ / [-stres] __ #
+*#fˈetɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈetɑ#
+*#fˈɛtɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#fˈɛɑtɑ# | 210 : ∅ > ɑ / [-tense] __
+*#fˈeˈɑtɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fe̯ˈɑtɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#fe̯ˈɑtə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#fe̯ˈɑtə#
+*#fə̯ˈɑtə# | 236 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) [-syl,-front] ( [-syl,-front] )* [+syl,-front]
+*#fˈɑtə# | 238 : ə̯ > ∅ / __ [+syl,+lo]
+Old Romanian stage form : *#fˈɑtə#
+Final form : *#fˈɑtə#

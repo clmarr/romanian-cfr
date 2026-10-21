@@ -1,21 +1,19 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1429:
-#ˌekskˈɑwuloː# >>> *#zɡˈɑwr# ( GOLD : #zɡˈəwr#) :
-ˌe k s k ˈɑ w u l oː 
-*#ekskˈɑwuloː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskˈɑβuloː# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#eskˈɑβuloː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskˈɑuloː# | 143 : β > ∅ 
-*#esɡˈɑuloː# | 146 : k > ɡ / # ( ( e ) s ) __ [+syl,+back] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
-*#esɡˈɑulo# | 156 : [+syl] > [-long,-splng] 
-*#sɡˈɑulo# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#sɡˈɑulo#
-*#zɡˈɑulo# | 168 : s > z / # __ [+voi,-son]
-*#zɡˈɑulu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#zɡˈɑuɾu# | 185 : l > ɾ / [+syl] __ [+syl]
-*#zɡˈɑwɾu# | 186 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-Common Romanian stage form : *#zɡˈɑwɾu#
-*#zɡˈɑwru# | 260 : ɾ > r 
-*#zɡˈɑwrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#zɡˈɑwr# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#zɡˈɑwr#
-Final form : *#zɡˈɑwr#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1429:
+#ˌekskˈɑwulɑt# >>> *#zɡˈɑwrə# ( GOLD : #zɡˈəwrə#) :
+ˌe k s k ˈɑ w u l ɑ t  
+*#ekskˈɑwulɑt# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekskˈɑwulɑ# | 82 : [+cons,-cont] > ∅ / __ #
+*#ekskˈɑβulɑ# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#eskˈɑβulɑ# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskˈɑulɑ# | 143 : β > ∅ 
+*#esɡˈɑulɑ# | 146 : k > ɡ / # ( ( e ) s ) __ [+syl,+back] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
+*#sɡˈɑulɑ# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
+Balkan Romance stage form : *#sɡˈɑulɑ#
+*#zɡˈɑulɑ# | 168 : s > z / # __ [+voi,-son]
+*#zɡˈɑuɾɑ# | 185 : l > ɾ / [+syl] __ [+syl]
+*#zɡˈɑwɾɑ# | 186 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+*#zɡˈɑwɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#zɡˈɑwɾə#
+*#zɡˈɑwrə# | 260 : ɾ > r 
+Old Romanian stage form : *#zɡˈɑwrə#
+Final form : *#zɡˈɑwrə#

@@ -1,18 +1,11 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 807:
-#stˈurdium# >>> *#stˈurz# ( GOLD : #stˈurz#) :
-s t ˈu r d i u m 
-*#stˈurdjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#stˈurdju# | 45 : m > ∅ / [-stres] __ #
-*#stˈurdʲu# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#istˈurdʲu# | 112 : ∅ > i / # __ s [+cons,-son]
-*#estˈurdʲu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#stˈurdʲu# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#stˈurdʲu#
-*#stˈurd͡zʲu# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#stˈurd͡zu# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#stˈurd͡zu#
-*#stˈurzu# | 270 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-*#stˈurzw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#stˈurz# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#stˈurz#
-Final form : *#stˈurz#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 807:
+#tˈurturɑm# >>> *#tˈurturə# ( GOLD : #tˈurturə#) :
+t ˈu r t u r ɑ m 
+*#tˈurturɑ# | 45 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#tˈurturɑ#
+*#tˈurtuɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
+*#tˈurtuɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#tˈurtuɾə#
+*#tˈurturə# | 260 : ɾ > r 
+Old Romanian stage form : *#tˈurturə#
+Final form : *#tˈurturə#

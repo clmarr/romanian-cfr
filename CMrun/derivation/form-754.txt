@@ -1,23 +1,13 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 754:
-#iˌuwˈenkɑm# >>> *#ʒˈunkə# ( GOLD : #ʒˈunkə#) :
-i ˌu w ˈe n k ɑ m 
-*#jˌuwˈenkɑm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juwˈenkɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#jˈuwenkɑm# | 33 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] [-stres,-prim,+syl,+son]
-*#jˈuwɑnkɑm# | 44 : [+front,+syl,-hi,-prim] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / @ [+syl,+round] w __
-*#jˈuwɑnkɑ# | 45 : m > ∅ / [-stres] __ #
-*#djˈuwɑnkɑ# | 53 : j > d j / # __ [+syl] [-syl]
-*#dʲˈuwɑnkɑ# | 57 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲˈuβɑnkɑ# | 92 : w > β / __ ( [-cons] ( @ )* ) #
-*#ɡʲˈuβɑnkɑ# | 129 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲˈuɑnkɑ# | 143 : β > ∅ 
-Balkan Romance stage form : *#ɡʲˈuɑnkɑ#
-*#ɡʲˈuənkɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ɡʲˈuənkə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɟ͡ʑˈuənkə# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈuənkə# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒˈuənkə#
-*#ʒˈuənkə# | 271 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-*#ʒˈunkə# | 306 : ə > ∅ / [+syl] __ [anas,acont]
-Old Romanian stage form : *#ʒˈunkə#
-Final form : *#ʒˈunkə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 754:
+#ˌowˈiːnɑm# >>> *#oˈinə# ( GOLD : #oˈinə#) :
+ˌo w ˈiː n ɑ m 
+*#owˈiːnɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#owˈiːnɑ# | 45 : m > ∅ / [-stres] __ #
+*#oβˈiːnɑ# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#oˈiːnɑ# | 143 : β > ∅ 
+*#oˈinɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#oˈinɑ#
+*#oˈinə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#oˈinə#
+Old Romanian stage form : *#oˈinə#
+Final form : *#oˈinə#

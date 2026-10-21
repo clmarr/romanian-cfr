@@ -1,14 +1,23 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 494:
-#fontˈɑːnɑm# >>> *#fɨntˈɨnə# ( GOLD : #fɨntˈɨnə#) :
-f o n t ˈɑː n ɑ m 
-*#fontˈɑːnɑ# | 45 : m > ∅ / [-stres] __ #
-*#fontˈɑnɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fontˈɑnɑ#
-*#funtˈɑnɑ# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#funtˈənɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#funtˈənə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-*#fɨntˈənə# | 231 : u > ɨ / [-son] __ n [-cont,-voi]
-Common Romanian stage form : *#fɨntˈənə#
-*#fɨntˈɨnə# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#fɨntˈɨnə#
-Final form : *#fɨntˈɨnə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 494:
+#fenˈestrɑm# >>> *#fere̯ˈɑstrə# ( GOLD : #fere̯ˈɑstrə#) :
+f e n ˈe s t r ɑ m 
+*#ferˈestrɑm# | 30 : n > r / [+syl] __ [+stres] [-syl] ( [-syl] )* r
+*#ferˈestrɑ# | 45 : m > ∅ / [-stres] __ #
+*#ferˈɛstrɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#ferˈɛstrɑ#
+*#feɾˈɛstɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
+*#feɾjˈɛstɾɑ# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#feɾjˈestɾɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#feɾjˈɛstɾɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#feɾʲjˈɛstɾɑ# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#feɾʲˈɛstɾɑ# | 203 : j > ∅ / [+cons,+front] __
+*#feɾʲˈɛɑstɾɑ# | 210 : ∅ > ɑ / [-tense] __
+*#feɾʲˈeˈɑstɾɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#feɾʲe̯ˈɑstɾɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#feɾʲe̯ˈɑstɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#feɾʲe̯ˈɑstɾə#
+*#feɾje̯ˈɑstɾə# | 232 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
+*#feɾe̯ˈɑstɾə# | 256 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
+*#fere̯ˈɑstrə# | 260 : ɾ > r 
+Old Romanian stage form : *#fere̯ˈɑstrə#
+Final form : *#fere̯ˈɑstrə#

@@ -1,22 +1,16 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 716:
-#dˌomˈestikum# >>> *#dumˈestek# ( GOLD : #dumˈestek#) :
-d ˌo m ˈe s t i k u m 
-*#domˈestikum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#domˈestiku# | 45 : m > ∅ / [-stres] __ #
-*#domˈɛstiku# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#domˈɛsteku# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#domˈɛsteku#
-*#domjˈɛsteku# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#domjˈesteku# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dumjˈesteku# | 181 : o > u / __ [+lab,+cont,+cons]
-*#dumjˈɛsteku# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#dumjˈɛɑsteku# | 210 : ∅ > ɑ / [-tense] __
-*#dumjˈeˈɑsteku# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dumje̯ˈɑsteku# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#dumje̯ˈɑsteku#
-*#dumjˈesteku# | 247 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#dumˈesteku# | 253 : j > ∅ / @ __ ˈe ( [+cor,+cont,-nas,-lat] ) ( [-voi,-cont] ) [+front]
-*#dumˈestekw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dumˈestek# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#dumˈestek#
-Final form : *#dumˈestek#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 716:
+#sˌilwˈɑːtikum# >>> *#səlbˈɑtek# ( GOLD : #səlbˈɑtek#) :
+s ˌi l w ˈɑː t i k u m 
+*#silwˈɑːtikum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#silwˈɑːtiku# | 45 : m > ∅ / [-stres] __ #
+*#silβˈɑːtiku# | 92 : w > β / __ ( [-cons] ( @ )* ) #
+*#selβˈɑːteku# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#selbˈɑːteku# | 139 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#selbˈɑteku# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#selbˈɑteku#
+Common Romanian stage form : *#selbˈɑteku#
+*#səlbˈɑteku# | 268 : e > ə / s __ [+cons,αson,αlat] [+cons]
+*#səlbˈɑtekw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#səlbˈɑtek# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#səlbˈɑtek#
+Final form : *#səlbˈɑtek#

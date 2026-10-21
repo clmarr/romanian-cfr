@@ -1,14 +1,24 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 1179:
-#sˈɑrkinɑm# >>> *#sˈɑrt͡ʃinə# ( GOLD : #sˈɑrt͡ʃinə#) :
-s ˈɑ r k i n ɑ m 
-*#sˈɑrkinɑ# | 45 : m > ∅ / [-stres] __ #
-*#sˈɑrkenɑ# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#sˈɑrkʲenɑ# | 153 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#sˈɑrkʲenɑ#
-*#sˈɑrkʲenə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-*#sˈɑrc͡ɕenə# | 229 : [-cont,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#sˈɑrt͡ʃenə# | 230 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#sˈɑrt͡ʃenə#
-*#sˈɑrt͡ʃinə# | 250 : [+syl,+front] > [+hi] / __ n [-stres]
-Old Romanian stage form : *#sˈɑrt͡ʃinə#
-Final form : *#sˈɑrt͡ʃinə#
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1179:
+#sˈellɑm# >>> *#ʃˈɑ# ( GOLD : #ʃˈɑ#) :
+s ˈe l l ɑ m 
+*#sˈellɑ# | 45 : m > ∅ / [-stres] __ #
+*#sˈɛllɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#sˈɛllɑ#
+*#sjˈɛllɑ# | 174 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#sjˈellɑ# | 177 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#sjˈɛllɑ# | 191 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sjˈɛwɑ# | 197 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#sʲjˈɛwɑ# | 202 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#sʲˈɛwɑ# | 203 : j > ∅ / [+cons,+front] __
+*#ɕˈɛwɑ# | 208 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ɕˈɛɑwɑ# | 210 : ∅ > ɑ / [-tense] __
+*#ɕˈeˈɑwɑ# | 211 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɕe̯ˈɑwɑ# | 212 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ɕe̯ˈɑwə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ɕe̯ˈɑw# | 222 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#ɕe̯ˈɑ# | 223 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ #
+*#ʃe̯ˈɑ# | 227 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ʃe̯ˈɑ#
+*#ʃˈɑ# | 246 : e̯ ˈɑ > ˈɑ / ʃ __
+Old Romanian stage form : *#ʃˈɑ#
+Final form : *#ʃˈɑ#
