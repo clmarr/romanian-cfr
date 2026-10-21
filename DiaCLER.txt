@@ -851,9 +851,6 @@ $ R20 Attraction of ɡlides
 	$ CM 9/23 -- moving this to after degemination -- happens to bj. 
 		b j > j b / [+stres] __ 
 
-$ Pardess mentions a dissimilation occurring near here in R22C. The following appears to be the correct formulation.
-	$ CM 9/23 -- moved to after k voicing, which it counterfeeds
-	m > w / [+lo] __ n
 
 
 $ HIATUS RESOLUTION RULES
@@ -1345,6 +1342,9 @@ $ NEW RULE: [ˈu] > [ˈo] between a cluster of voiced coronals and a front sonor
 	ˈu > ˈo / # ((@)* [+syl]) ([+cor,+voi])+ __ [+front,+son]
 
 
+$ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel) -- oct '26 suppressed, no effect 
+	$r > ∅ / {[+cor];p} [+syl] __ #
+
 $ NEW RULE Oct '26 : r/ɾ deletion in CrV# if prior syllable is also rV 
 			$rostrum > rost, inderetrō > îndărăt
 			$ fed by R5c : frāter > fratre > frate; perexter > prestre > preste/pristi (later > peste)
@@ -1370,6 +1370,8 @@ $ R50 + R51.
 $ R48 Deɡemination of [nn]: [nn] > [n]. CM Oct '26 -- relocdated to before Common Romanian, as it is shared.
 	n n > n
 
+$ NEW RULE OCT '26: u lost in V N-lab __ strid. Not m -- amuți. Fed by R48. Shared between Arom and Rom.
+u > ∅ / [-cons] [+nas,-lab] __ [+strid]
 
 ~ Common Romanian
 
@@ -1379,8 +1381,10 @@ $ (11TH CENTURY TO THE PRESENT)
 	
 	
 
-$ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel) -- oct '26 suppressed, no effect 
-	$r > ∅ / {[+cor];p} [+syl] __ #
+$ Pardess mentions a dissimilation occurring near here in R22C. The following appears to be the correct formulation.
+	$ CM 9/23 -- moved to after k voicing, which it counterfeeds; 10/21 -- moved to after common Romanian -- not shared with Arom.
+		$ now needs to come after cons (cons before a/ə)-- not amnar, doamna
+	m > w / [+cons] [-round,-front] __ n
 
 	$ CM oct '26 -- moved R44 and palatal r unpacking to after Common Romanian, given different outcomes:
 		$ different outcomes : excavoriare > Romanian zgâria vs. Megl zgaira
