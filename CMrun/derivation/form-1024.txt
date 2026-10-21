@@ -1,13 +1,14 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1024:
-#dˈeːpost# >>> *#dˈep# ( GOLD : #dˈupə#) :
-d ˈeː p o s t 
-*#dˈeːpos# | 82 : [+cons,-cont] > ∅ / __ #
-*#dˈepos# | 156 : [+syl] > [-long,-splng] 
-*#dˈepo# | 164 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#dˈepo#
-*#dˈepu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#dˈepu#
-*#dˈepw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dˈep# | 277 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#dˈep#
-Final form : *#dˈep#
+#dˌeːpost# >>> *#dep# ( GOLD : #dupə#) :
+d ˌeː p o s t 
+*#deːpost# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːpos# | 82 : [+cons,-cont] > ∅ / __ #
+*#depos# | 156 : [+syl] > [-long,-splng] 
+*#depo# | 164 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#depo#
+*#depu# | 180 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#depu#
+*#depw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dep# | 277 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dep#
+Final form : *#dep#
