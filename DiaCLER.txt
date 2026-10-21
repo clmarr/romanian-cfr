@@ -92,7 +92,6 @@ $ <de> proclisis.
 		[+syl,+long] > [+prim] / __ [+syl,-long,+prim]
 		[+syl,-long] > ∅ / [+syl,+long] __ [+cons] $ EDIT: Fixed to prevent this from happening in mania. Formerly: [+syl,-long] > ∅ / [+syl,+long] __
 
-
 $ NEW RULE: #s'VCV > #sC'V (super > *sper > spre)
 	$ Labialism of first vowel and consonant have to match.
 	$ Frontness of first vowel and consonant also have to match.
@@ -444,32 +443,6 @@ $ R5 {Deletion of word-final oral or nasal stop, Addition of word-final [e] afte
 			$ Pardess also mentions kwen > kwene >> DR cine
 			$ ...but using ∅ > e / [+son,+cons,+cor] __ # instead reduces accuracy. Wiktionary says cine is inherited from a different VL form (quene, not quem), but this seems dubious.
 
-$ NEW RULE: [-ro~u] apocope after singleton [t]
-	r [+syl,-stres,+round] > ∅ / [+syl] t __ #
-		$ Only affects 2 words... FLAG -- reexamine later
-
-	$ R5C Metathesis of word-final [r]
-		$ Pardess: V r # > r V #
-		$ NEW CONDITIONING: only happens after two consonants, at least the second of which is an obstruent.
-			∅ [+syl] r > r [+syl] ∅ / [+cons] [-son] __ #
-				$ needs to "jump over" the w in kwattwor
-					∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+cons] [-son] __ #
-
-
-$ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel)
-	r > ∅ / {[+cor];p} [+syl] __ #
-
-
-$ NEW RULE: -tore > -tor		$ FLAG -- try to expand beyond this!
-	$ EDIT: doesn't affect putorem>putoare for some reason? blocking it from occurring after round segments fixes it, but now we have an even more hyperspecific rule...
-		e > ∅ / [-round] t ˈoː r __ #
-
-
-$ -riam reflexes: a > e / r j __ #
-		$ CM 9/18/26 -- now handled by R44.
-	$ɑ > e / r j __ #
-
-
 $ NEW RULE: Interlabial rounding of /a/.
 	$ Does not occur before [b].
 	$ Does not occur after [p].
@@ -482,15 +455,29 @@ $ NEW RULE: Interlabial rounding of /a/.
 				$ now targets stressed ˈɑ.
 		ˈɑ > ˈo / [+lab,+cont] __ m
 
-
-
 $ R6 Frontinɡ of [w] to [β]
 	$w > β
-	$ EDIT: This does not occur before consonants.
+	$ EDIT: This does not occur before consonants. Counterbled by R5C -- relocdated
 		w > β / __ ([-cons] (@)*) #
 
+	$ R5C Metathesis of word-final [r]
+		$ Pardess: V r # > r V #
+		$ OCT 2026 --  new conditioning -- where continuance = voicing ; excluddes ūber , but hits super per perinter quattuor  etc.
+			∅ [+syl] r > r [+syl] ∅ / [wcont,wvoi] __ #
 
-	$ below is handled by these
+		$ NEW CONDITIONING: only happens after two consonants, at least the second of which is an obstruent.
+			$∅ [+syl] r > r [+syl] ∅ / [+cons] [-son] __ #
+				$ needs to "jump over" the w in kwattwor
+					$∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+cons] [-son] __ #
+
+
+$ NEW RULE: -tore > -tor		$ FLAG -- try to expand beyond this!
+	$ EDIT: doesn't affect putorem>putoare for some reason? blocking it from occurring after round segments fixes it, but now we have an even more hyperspecific rule...
+		e > ∅ / [-round] t ˈoː r __ #
+
+
+$ -riam reflexes: a > e / r j __ #	$ CM 9/18/26 -- now handled by R44. $ɑ > e / r j __ #
+
 $ NEW RULE: Backward velar repulsion of [r]
 	$ If an [r] is in a cluster with a [+back] consonant (including [w]), it will be repulsed to the previous cluster.
 	$ This repulsion cannot push the [r] across a [+back] vowel. (opposite of forward velar repulsion!!!)
@@ -807,8 +794,8 @@ $ NEW RULE: [β] > [v] between vowel and [ˈeː] (Formerly: [β] > [v] between v
 	$ R22B Occlusivization of [β]
 		β > b / # ((@)* [-cons]) [+cons,-nas,+voi] __
 
-	$ R22C [β] becomes the velar ɡlide [w] before a resonant
-		β > w / __ [+son,+cons]
+	$ R22C [β] becomes the velar ɡlide [w] before a resonant. EDIT oct '26 -- and after vocoid -- not initial, not interconsonantal.
+		β > w / [-cons] __ [+son,+cons]
 
 $ [β] > [w] word-finally
 	β > w̥ / __ #
@@ -905,10 +892,15 @@ $ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a conso
 	$ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
 	$ Pardess' rule is misformulated. Optinɡ for plain-sense interpretation of title
 		$e > ∅ / # __ [+strid,+ant] [+cons]
-			$ Doesn't happen in exi>ieși... [e] reinforced by palatal vowel? But this doesn't bear out for other forms with palatal vowels...
 			$ New idea: the palatal vowel thing is only relevant for [essV]. This only fixes ieși, though, so it's suspicious. FLAG -- reexamine later.
-				e > ∅ / # __ [+strid,+ant] {[-cont];[+cons,+cont,-strid];[+cons,+cont,-ant]} $ Formerly: {[-cont];[+cont,-strid];[+cont,-ant]}
-				e > ∅ / # __ s [+syl,-front] $ Formerly: # __ s s [+syl,-front]
+					$ Oct 2026:
+						$ expanded to occur before CC+ where first C is general non-nasal anterior, not specifically strident.  
+						$__ strid,ant [+cont,-ant ] scenario has no domain, excluded. 
+				e > ∅ / # __ [+ant,-nas] {[-cont];[+cons,+cont,-strid];[+cons,+cont,-ant]} $ Formerly: {[-cont];[+cont,-strid];[+cont,-ant]}
+				$ before single s, domain excludes exi>ieși... [e] reinforced by palatal vowel? But this doesn't bear out for other forms with palatal vowels...
+				$ CM oct 2026 -- also doesn't happen for exsuccare > usuc,usca. Prefers following non-high (likely low --most sonorous) vowel.
+			
+				e > ∅ / # __ s [+syl,-hi] $ Formerly: # __ s s [+syl,-hi] $
 					$ (Both reformulated due to moving below degemination.)
 			$ Alternative hypothesis: under the "samă is from Hungarian szám" theory, we could simply condition this on the following consonant being [-strid].
 
@@ -1370,13 +1362,27 @@ $ NEW RULE: [ˈu] > [ˈo] between a cluster of voiced coronals and a front sonor
 	ˈu > ˈo / # ((@)* [+syl]) ([+cor,+voi])+ __ [+front,+son]
 
 
+$ NEW RULE Oct '26 : r/ɾ deletion in CrV# if prior syllable is also rV 
+			$rostrum > rost, inderetrō > îndărăt
+			$ fed by R5c : frāter > fratre > frate; perexter > prestre > preste/pristi (later > peste)
+			$ apparently if prior vowel is stressed and front ? -- fenestra : fereastră, printre, printru 
+				$ could be fed by reduction of unstressed in inderetrō > îndărăt, but preste still unexplained 
+			$ alternatively, bled by glide formation in fereastră
+		$ Aromanian aratru seems unaffected whereas Romanian arat is -- rule is perhaps right around divergence, to explain slightly different conditioning.
+			$there does also seem to be an Aromanian arat, aratu, so maybe aratru is just a learned item. Megl ărat, Rom arat.
+		$ using -son to exclude printre, printru for now.
+ɾ > ∅ / ɾ [+syl] ([-son])+ __ [+syl] #
 
 ~ Common Romanian
 
 $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
-	$ 
+	
+	
+
+$ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel) -- oct '26 suppressed, no effect 
+	$r > ∅ / {[+cor];p} [+syl] __ #
 
 	$ CM oct '26 -- moved R44 and palatal r unpacking to after Common Romanian, given different outcomes:
 		$ different outcomes : excavoriare > Romanian zgâria vs. Megl zgaira
@@ -1443,9 +1449,8 @@ $ NEW RULE: Raising of [ə] before non-homorganic fricative+occlusive cluster wi
 	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback,-lo]
 		$ Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.
 
-$ CM 9/23 earlier raising in NT 
+$ CM 9/23 earlier raising in NT -- chronology seems to exclude shared development with Aromanian etc even though outcomes are shared.
 [+syl,+front] > [+hi] / __ n [+cons]
-
 
 $ NEW RULE CM 9/23 secondary u > o phenomena, not seen in Aromanian or most other varieties. 
 	$ Consider moving these later.
@@ -1627,19 +1632,19 @@ $CM 10-1  -- at a point after division of Daco-Romanian dialects but before fina
 n > ∅ / [-cor] r [-round,-front,+syl] __ u #
   
 	$ R59A Devoicinɡ of word-final [u] and [i] except after a consonant plus a liquid
-		$ First, excluding CRu# and CRi# sequences by sending them to voiced approximant:
-			[+syl,+hi,-stres] > [-syl] / [+cons] [+cons,+son,-nas] __ #
-				$ Reformulated to be [-nas], as it seems to be what Pardess meant by "liquid".
-		$ Next, devoicing and desyllabifying the rest of the word-final [u]s and [i]s.
+		$ Devoicing and desyllabifying  word-final [u]s and [i]s.
 			[+syl,+hi,-stres] > [-voi,-syl] / __ #
+
+		$ CM Oct 2026 -- handle exceptions by resyllabification at this point. 
+			$ two contexts: C R __ # and # (V-stres) (C) __ # --- vowel retained for both
+		{w̥;j̊} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+		{w̥;j̊} > {u;i} / # ([-prim]) ([-syl]) __ #
 
 	$ R59B Loss of word-final voiceless [w̥]
 		$ First, deleting word-final [w̥] when not after a vowel.
 			w̥ > ∅ / [-syl] __ #
-		$ Next, revoicing all voiceless approximants.
+		$ Then revoicing all voiceless approximants.
 			{w̥;j̊} > {w;j}
-		$ Finally, turning excluded phones from R59A back into full vowels.
-			{w;j} > {u;i} / [+cons] [+cons,+son,-nas] __ #
 
 	$ R59C Word-final [ii] > [i]
 		$i i > i / __ #
@@ -1777,6 +1782,12 @@ $ NEW RULES: Handling of various outcomes of *uă
 $ NEW RULE: Schwa deletion before a nonhigh vocoid
 	ə > ∅ / __ [-cons,-hi]
 
+=Old Romanian
+$to be moved earlier
+
+$ CM oct '26 NEW RULE : pre, preste > pe, peste. Parallel development in Aromanian. Forms before this occurred attested in both, though.
+r > ∅ / # p __ (([-syl])* [-prim] ([-syl])*)* #
+
 $ CM 9/21 NEW RULE : iie > ie phenomenon. Fairly recent -- iie attested for ie etc. 
 j > ∅ / [+hi,+front] __ e
 
@@ -1784,5 +1795,3 @@ $ Initial cluster simplification for fsat>sat
 	$ Probably should postdate Old Romanian given that fsat is attested.
 		[-voi] > ∅ / # __ [-voi,+cont]
 
-=Old Romanian
-$to be moved later

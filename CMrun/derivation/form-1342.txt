@@ -1,9 +1,12 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1342:
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1342:
 #pˌer# >>> *#pe# ( GOLD : #pe#) :
 p ˌe r 
 *#per# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pe# | 89 : r > ∅ / p [+syl] __ #
-Balkan Romance stage form : *#pe#
-Common Romanian stage form : *#pe#
-Old Romanian stage form : *#pe#
+*#pre# | 87 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
+Balkan Romance stage form : *#pre#
+*#pɾe# | 161 : r > ɾ / __ [nnas,ncons]
+Common Romanian stage form : *#pɾe#
+*#pre# | 257 : ɾ > r 
+Old Romanian stage form : *#pre#
+*#pe# | 309 : r > ∅ / # p __ ( ( [-syl] )* [-prim] ( [-syl] )* )* #
 Final form : *#pe#

@@ -1,14 +1,14 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1234:
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1234:
 #ˌekspɑntikˈɑː# >>> *#spɨntekˈɑ# ( GOLD : #spintekˈɑ#) :
 ˌe k s p ɑ n t i k ˈɑː 
 *#ekspɑntikˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#espɑntikˈɑː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espɑntekˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#espɑntekˈɑ# | 156 : [+syl] > [-long,-splng] 
-*#spɑntekˈɑ# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
+*#espɑntikˈɑː# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espɑntekˈɑː# | 119 : [+syl,-long,+hi,-back] > [-hi] 
+*#espɑntekˈɑ# | 152 : [+syl] > [-long,-splng] 
+*#spɑntekˈɑ# | 153 : e > ∅ / # __ [+ant,-nas] [-cont]
 Balkan Romance stage form : *#spɑntekˈɑ#
-*#spəntekˈɑ# | 213 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#spəntekˈɑ# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
 Common Romanian stage form : *#spəntekˈɑ#
-*#spɨntekˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#spɨntekˈɑ# | 259 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
 Old Romanian stage form : *#spɨntekˈɑ#
 Final form : *#spɨntekˈɑ#

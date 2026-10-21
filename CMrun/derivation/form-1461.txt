@@ -1,14 +1,15 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1461:
-#ˌekstrɑː# >>> *#strə# ( GOLD : #strə#) :
-ˌe k s t r ɑː 
-*#ekstrɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#estrɑː# | 100 : [-cont] > ∅ / __ [+strid] [+cons]
-*#estrɑ# | 156 : [+syl] > [-long,-splng] 
-*#strɑ# | 157 : e > ∅ / # __ [+strid,+ant] [-cont]
-Balkan Romance stage form : *#strɑ#
-*#stɾɑ# | 165 : r > ɾ / __ [nnas,ncons]
-*#stɾə# | 221 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#stɾə#
-*#strə# | 260 : ɾ > r 
-Old Romanian stage form : *#strə#
-Final form : *#strə#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1461:
+#pˌerˌekster# >>> *#peste# ( GOLD : #peste#) :
+p ˌe r ˌe k s t e r 
+*#perekster# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#prekster# | 48 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#prekstre# | 87 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
+*#prestre# | 96 : [-cont] > ∅ / __ [+strid] [+cons]
+Balkan Romance stage form : *#prestre#
+*#pɾestɾe# | 161 : r > ɾ / __ [nnas,ncons]
+*#pɾeste# | 227 : ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
+Common Romanian stage form : *#pɾeste#
+*#preste# | 257 : ɾ > r 
+Old Romanian stage form : *#preste#
+*#peste# | 309 : r > ∅ / # p __ ( ( [-syl] )* [-prim] ( [-syl] )* )* #
+Final form : *#peste#

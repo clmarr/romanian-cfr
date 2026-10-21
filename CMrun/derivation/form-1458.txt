@@ -1,11 +1,16 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1458:
-#dˌeːin# >>> *#de# ( GOLD : #din#) :
-d ˌeː i n 
-*#dˌeːn# | 13 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
-*#deːn# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#deː# | 83 : [+nas] > ∅ / @ [-cons] __ #
-*#de# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#de#
-Common Romanian stage form : *#de#
-Old Romanian stage form : *#de#
-Final form : *#de#
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1458:
+#dˌeːˌintroː# >>> *#dintru# ( GOLD : #dintru#) :
+d ˌeː ˌi n t r oː 
+*#dˌeːntroː# | 13 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
+*#deːntroː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#dentro# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dentro#
+*#dentɾo# | 161 : r > ɾ / __ [nnas,ncons]
+*#dentɾu# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Common Romanian stage form : *#dentɾu#
+*#dintɾu# | 240 : [+syl,+front] > [+hi] / __ n [+cons]
+*#dintru# | 257 : ɾ > r 
+*#dintrw̥# | 272 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dintru# | 273 : {w̥;j̊} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Old Romanian stage form : *#dintru#
+Final form : *#dintru#
