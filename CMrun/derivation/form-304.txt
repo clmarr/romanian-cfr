@@ -1,19 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 304:
-#ˌinɡrˌewikˈɑː# >>> *#ɨnɡrikˈɑ# ( GOLD : #ɨnɡrekˈɑ#) :
+#ˌinɡrˌewikˈɑː# >>> *#ɨnɡrekˈɑ# ( GOLD : #ɨnɡrekˈɑ#) :
 ˌi n ɡ r ˌe w i k ˈɑː 
 *#inɡrewikˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inɡreβikˈɑː# | 86 : w > β / __ ( [-cons] ( @ )* ) #
-*#enɡreβekˈɑː# | 119 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡreekˈɑː# | 139 : β > ∅ 
-*#enɡreekˈɑ# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡreekˈɑ#
-*#enɡɾeekˈɑ# | 161 : r > ɾ / __ [nnas,ncons]
-*#ɑnɡɾeekˈɑ# | 165 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənɡɾeekˈɑ# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənɡɾekˈɑ# | 214 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback] __
-Common Romanian stage form : *#ənɡɾekˈɑ#
-*#ənɡrekˈɑ# | 257 : ɾ > r 
-*#ɨnɡrekˈɑ# | 259 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnɡrikˈɑ# | 285 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Old Romanian stage form : *#ɨnɡrikˈɑ#
-Final form : *#ɨnɡrikˈɑ#
+*#inɡreβikˈɑː# | 85 : w > β / __ ( [-cons] ( @ )* ) #
+*#enɡreβekˈɑː# | 118 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɡrewɑkˈɑː# | 129 : β [+front,-hi,-prim] > w [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel]/ [+syl,+front,-hi,-lo] __
+*#enɡrewɑkˈɑ# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enɡrewɑkˈɑ#
+*#enɡɾewɑkˈɑ# | 161 : r > ɾ / __ [nnas,ncons]
+*#ɑnɡɾewɑkˈɑ# | 165 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənɡɾewɑkˈɑ# | 208 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənɡɾeɑkˈɑ# | 214 : w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
+*#ənɡɾeəkˈɑ# | 216 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#ənɡɾeəkˈɑ#
+*#ənɡreəkˈɑ# | 257 : ɾ > r 
+*#ɨnɡreəkˈɑ# | 259 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnɡrekˈɑ# | 304 : ə > ∅ / [+syl] __ [anas,acont]
+Old Romanian stage form : *#ɨnɡrekˈɑ#
+Final form : *#ɨnɡrekˈɑ#

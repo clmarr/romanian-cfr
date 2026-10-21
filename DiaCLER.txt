@@ -252,13 +252,6 @@ $ R2 {Monophthonɡization of AE, Monophthonɡization of OE}
 			{o j;ˈo j} > {eː;ˈeː} / __ [+cons]
 
 
-$ NEW RULE: [e] > a after [+son][+round][w].
-		$ Affects: *rovem > rouă, novem > nouă, and juvenem > *juăne > june.
-		$ CM oct 4 -- broadened to after any consonant -- round vowel just can't be initial.
-			$ CM oct 4 -- moved to after R2, which feeds it for două, and after stress shift in iuvenca
-			$ CM oct 4 -- broadened to hit all mid front vowels.
-	[+front,+syl,-hi,-prim] > [+lo,+tense,+back,-front] / @ [+syl,+round] w __
-
 
 $ R3 {Reduction of final [m], Reduction of [n] + fricative}
 	$ R3A Reduction of final [m]
@@ -653,7 +646,6 @@ $ R21 Spirantization of [b]
 		$ EDIT: Does not occur between two identical consonants. Simply undoing below.
 			[+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
 
-
 $ Moved R16 and R14 to after R24.
 	$ R16 Loss of vowel lenɡth (moved from original position)
 		$[+syl] > [-long]
@@ -772,6 +764,18 @@ $ R22 {Beta becomes v/b/w/ɡ/∅}
 				$ The Latin word from which berbec descends (vervex) apparently became berbex before the breakup of Latin (REW 9270).
 				$ The other exceptions are handled by preceding new rule.
 
+$ NEW RULE: [e] > a after [+son][+round] w/β.
+		$ Affects: *rovem > rouă, novem > nouă, and juvenem > *juăne > june.
+		$ CM oct 4 -- broadened to after any consonant -- round vowel just can't be initial.
+			$ CM oct 4 -- moved to after R2, which feeds it for două, and after stress shift in iuvenca
+			$ CM oct 4 -- broadened to hit all mid front vowels.
+			$ CM oct 21 -- moved to after i > e and medial b > β, 
+				$applies after e and ɛ -- Arom greauã, neauã, beauã
+					$ not after i or a -- kiːβetˈɑːte > cetate, cheie, vie, spaiimă, scrie , ierna, etc.
+	β [+front,-hi,-prim] > w [+lo,+tense,+back,-front] / {@ [+syl,+round];[+syl,+front,-hi,-lo]} __
+
+
+
 $ NEW RULE: [β] > [v] between vowel and [ˈeː] (Formerly: [β] > [v] between vowel and [ˈe])
 	β > v / [+syl] __ [+prim,+front,-hi,+long]
 				
@@ -798,7 +802,7 @@ $ NEW RULE: [β] > [v] between vowel and [ˈeː] (Formerly: [β] > [v] between v
 		β > w / [-cons] __ [+son,+cons]
 
 $ [β] > [w] word-finally
-	β > w̥ / __ #
+	β > w / __ #
 
 $ NEW RULE: [β] > [w] between [(ˈ)o] and [(ˈ)a] 
 	β > w / [+syl,+round,-hi] __ [+syl,+lo]
@@ -820,11 +824,6 @@ $ R23 Deɡemination of consonants except the alveolar resonants [ll], [nn] and [
 		$formerly:	{p p;t t;k k;b b;d d;ɡ ɡ;s s;z z;f f;v v;t t͡ʃ;t t͡s;d d͡ʒ;d d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
 	[-son,scont,blab] > ∅ / __ [-son,scont,blab] 
 
-
-$ NEW RULE: Round vowel syncope after [f]
-	$ Following consonant must be singleton, can be [s] or [l], and cannot be [r] or [ɡ] -- modelling as [avoi,alat].
-		[+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
-			$ Really ought to be dated to after the breakup of Common Romanian because of Aromanian fusati/fusate, but it also has to predate [l]-flapping because of sufleca... FLAG
 
 
 	$ CM 9/23 -- hopefully final final k > g rule -- initial, can see through s mobile, requires only sonorants and vowels following -- classic lenition rule really, just somewhat elaborate
@@ -938,8 +937,6 @@ $ R25 {Final s -> j or ∅}
 		$ Not phonological, but appears to Pardess to result from above rule.
 
 
-
-
 ~Balkan Romance
 
 $ CHAPTER 5
@@ -1001,7 +998,7 @@ $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 $ CM 9/23 w-coloring and prerhotic w-deletion rule
 	$ w-coloring: i,e > u,o between front element and w  : ciur, fior 
 		$ fed by R27B 
-[+syl] > [+round,+lab,-front,+back] / [+front] __ w
+[+syl] > [+round,+lab,-front,+back] / [+front] __ w @
 
 	$ w-deletion before ɾ followed by front and non-low elements: fawrekˈɑ > fereca, fjˈowri > fjor, kʲuwri > ciur, excavVriat > zgawrje > zgârje , etc.
 		$ not before back: lăuruscă, graur < grawru, aurarium > awrarju > aurar, taur, laur, etc. 
@@ -1063,8 +1060,8 @@ $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 $ Unstressed high vowel becomes a glide after another vowel
 	[+hi,-stres] > [-syl] / [+syl] __
 
-$ NEW RULE: [w] > ∅ / [(ˈ)u] __
-	w > ∅ / [+syl,+hi,+back] __
+$ NEW RULE: [w] > ∅ / [(ˈ)u] __ @
+	w > ∅ / [+syl,+hi,+back] __ @
 
 $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
 	ˈo > ˈu / [+nas] __ [+nas]
@@ -1088,9 +1085,7 @@ $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
 			[-hi,-lo,+stres] > [-tense] / __ m [+syl,-hi,-round]
 
 
-		$ EDIT: This doesn't occur before [w]. We can simply undo the change below.
-			[+stres,-hi,-lo] > [+tense] / __ w
-	
+
 		$ This change should be occurring in the second-conjugation infinitives, but since we're representing them without final -re in our lexicon, this is not taking place.
 		$ Thankfully, with the exception of the words spre, pe, and ie, all words with final [ˈe] at this point in the lexicon are second-conjugation verbs.
 		$ Since the words to be excluded are the only ones without a preceding syllable, we can filter them out easily.
@@ -1294,18 +1289,6 @@ $ R38 [e'a] > [e̯'a]
 
 
 
-$ NEW RULES: V̯ˈɑV̯ə simplification
-	$w ə > ∅ / [-cons,-syl] ˈɑ __ 
-		$ Quite possibly the schwa was deleted first and the resulting triphthong was dispreferred, so the [w] was subsequently deleted as well.
-		$ CM 9/18/26 -- only after ˈɑ (not just [+syl]) -- not after ji -- but 9/23, doesn't need to be word final (was, formerly)
-		$ EDIT: When this happens word-medially, only the schwa is deleted. Thus, we actually have two deletions: first the schwa, and then the semivowel word-finally.
-		$ EDIT: corrigia(m)>*curreajə>curea appears to pattern with this as well. Expanding to include all semivowels and renaming.
-		$ (previously: "Reflex of Latin -llam lost when preceding vowel tenses and breaks")
-		$ Schwa deletion:
-			ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
-		$ Semivowel deletion:
-			[-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ #
-
 	
 
 $ R43 Palatalization of [l] after a velar consonant
@@ -1373,6 +1356,21 @@ $ NEW RULE Oct '26 : r/ɾ deletion in CrV# if prior syllable is also rV
 		$ using -son to exclude printre, printru for now.
 ɾ > ∅ / ɾ [+syl] ([-son])+ __ [+syl] #
 
+$ R50 + R51. 
+		$ CM oct 2026 -- shared with Aromanian , moved to before split
+	$ R50 backinɡ of front vowels after [rr].  ${e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r r __
+	$ R51 Simplification of [rr] to [r] $r r > ɾ
+	$ CM EDIT 9/16 -- now r r is r ɾ medially and initially. Revised accordingly.
+		$new R50: 
+	{ɾ;r} > {∅;∅} / r __ 
+		$new R51
+	{e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+
+
+$ R48 Deɡemination of [nn]: [nn] > [n]. CM Oct '26 -- relocdated to before Common Romanian, as it is shared.
+	n n > n
+
+
 ~ Common Romanian
 
 $ CHAPTER 6
@@ -1392,6 +1390,7 @@ $ NEW RULE: Word-final [r] deletion after coronal/[p] (and vowel) -- oct '26 sup
 				$ Megl fumea-ʎă, ungʎã , miʎ-ã,muc-ʎã, tindec-ʎã vs -ʎe in Rom and Arom
 			$ Arom has ə > e after palatal obstruents: fascia > fașă , Arom fashe > fashi. 
 
+
 $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 	$ ə > e / [-cont,+hi,-strid] __
 	$ But these are both actually [+cont]
@@ -1406,6 +1405,26 @@ $ R44 Frontinɡ of [ə] after [ʎ] and [ñ]
 	ɾʲ > ɾ j / # (([+cons])* (j) [-cons] ([+cons])*) __ [-hi]
 			$ j ɾ after non-initial tonic vowel. Otherwise ɾ j 
 	ɾʲ > j ɾ 
+
+			$ EDIT: Tensing doesn't occur before [w].			formerly : [+stres,-hi,-lo] > [+tense] / __ w
+				$ CM Oct 2026 -- actually this is a separate rule that operates upon *oawa < Common Romanian *ɔw 
+						$ Aromanian noaua, beaua, neaua.. etc.
+				$ Romainan oaw > ow.
+	o̯ [+lo,aprim,bstres] > [aprim,bstres,+syl] ∅ / __ w
+
+$ NEW RULES: V̯ˈɑV̯ə simplification
+	$w ə > ∅ / [-cons,-syl] ˈɑ __ 
+		$ Quite possibly the schwa was deleted first and the resulting triphthong was dispreferred, so the [w] was subsequently deleted as well.
+		$ CM 9/18/26 -- only after ˈɑ (not just [+syl]) -- not after ji -- but 9/23, doesn't need to be word final (was, formerly)
+		$ EDIT: When this happens word-medially, only the schwa is deleted. Thus, we actually have two deletions: first the schwa, and then the semivowel word-finally.
+		$ EDIT: corrigia(m)>*curreajə>curea appears to pattern with this as well. Expanding to include all semivowels and renaming.
+		$ (previously: "Reflex of Latin -llam lost when preceding vowel tenses and breaks")
+		$ Schwa deletion:
+			ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+		$ Semivowel deletion -- Oct 2026 now applies before obstruent too.
+			[-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ([-son] (@)*) #
+	$ must be after Common Romanian bc not shared, -eaua endings preserved in Arom etc.
+
 
 $ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
 	$ vie, vie, mie, fie -- -ie not -ije endings
@@ -1432,15 +1451,6 @@ $ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}
 
 	$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
 		ə̯ > ∅ / __ [+syl,+lo]
-
-$ R50 + R51. 
-	$ R50 backinɡ of front vowels after [rr].  ${e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r r __
-	$ R51 Simplification of [rr] to [r] $r r > ɾ
-	$ CM EDIT 9/16 -- now r r is r ɾ medially and initially. Revised accordingly.
-		$new R50: 
-	{ɾ;r} > {∅;∅} / r __ 
-		$new R51
-	{e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
 
 $ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u] [+nas]
 	n > r / ə __ [+syl,+hi,+back] [+nas]
@@ -1519,9 +1529,6 @@ $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 				$ Moved to just before new rule "Reversal of R47A...".
 
 
-$ R48 Deɡemination of [nn]: [nn] > [n]
-	n n > n
-
 $ NEW RULE: [e̯ˈɑ] > [ˈɑ] in words of shape [αcont]e̯ˈɑ[-αcont]ə
 	$ Doesn't happen in ceram>ceară; could be a matter of how we're transcribing <ceV>?
 			$ CMː -- its because there are separate criteria for after stridents. (moved)
@@ -1561,6 +1568,14 @@ $ R55 Denasalization of [ñ]
 
 	$ CM 9/18/26 consolidation of ɲ/ʎ gliding to single rule
 	[+son,+cons,+front] > j
+
+$ NEW RULE: Round vowel syncope after [f]
+	$ Following consonant must be singleton, can be [s] or [l], and cannot be [r] or [ɡ] -- modelling as [avoi,alat].
+		[+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
+			$ Really ought to be dated to after the breakup of Common Romanian because of Aromanian fusati/fusate, but it also has to predate [l]-flapping because of sufleca... FLAG
+	$ must be after breakup -- Arom fusatu for fsat > sat
+		$ bled by ʎ > j in fuior -- moved to after that
+
 
 $ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
 	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / p __ n [+syl,alo,-ahi]
