@@ -968,7 +968,10 @@ $ iN- > îN-. CM 10/1 -- moved to before Common Romanian -- this is actually to 
 [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
 
 $CM 10/1 -- lowering of e to a after in [-lab] F/V/M(m) (r) __ n u/e/a
-[+front,-hi] > [+lo,+tense,+back,-front] / # ((@)* [-lab]) ([+lab,+cont,+cons])+ ([+cor]) __ n [+syl,uround,uhi]
+	$now only f and fr as priors, n Vback (incl ɑ) as posterior, based on implications for Common Romanian based on relatives, e.g. Aromanian
+		$formerly[+front,-hi] > [+lo,+tense,+back,-front] / # ((@)* [-lab]) ([+lab,+cont,+cons])+ ([+cor]) __ n [+syl,uround,uhi]
+[+front,-hi] > [+lo,+tense,+back,-front] / f ([+cor]) __ n
+
 
 $ CM 10/1 -- raising of a in feet bearing stress initially and after (non-post-labial) sonorants, before N e. Not in feet lacking stress -- amândoi.
 [+lo,aprim] > [-lo,+hi,-back,+front] / # ((@)* [-lab] [+son,+cons]) __ [+nas] ([-cont,+voi,-hi]) [+front,-hi,-aprim]
@@ -1429,6 +1432,15 @@ $ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Only part
 $ CM 9/23 earlier raising in NT -- shared with Arom.
 [+syl,+front] > [+hi] / __ n [+cons]
 
+	$ CM 9/18/26 u-aphaeresis before labials and velars
+	u > ∅ / # __ [+cons,-cor,-front,-nas]
+
+~ Common Romanian
+
+$ CHAPTER 6
+$ THE DEVELOPMENT OF DACO-ROMANIAN
+$ (11TH CENTURY TO THE PRESENT)
+	
 $ Nasal assimilation
 	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
 	$ new rule "[n] dissimilates to [m] between voiceless coronals" has to have taken place before Aromanian and Daco-Romanian diverged,
@@ -1487,12 +1499,6 @@ $ NEW RULES: V̯ˈɑV̯ə simplification
 	$ must be after Common Romanian bc not shared, -eaua endings preserved in Arom etc.
 
 
-$ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
-	$ vie, vie, mie, fie -- -ie not -ije endings
-	$ necessary for filium > fiu, vânăt, fân, pe, abi 
-		$ posterior syllable cannot be -a, or -ă -- todo use =lo when can, but using efront,-eback for now because ə is treated as ə at this stage not ɐ as it perhaps should be.
-[+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ([+hi,+front,+syl]) __ ([+syl,-lo,efront,-eback] ([+nas] (@)*)) #
-
 $ NEW RULE: Forward spreading of [n] to following occlusive
 	$ Only occurs across a [+hi] vowel.
 	$ Does not occur before labial stops.
@@ -1527,6 +1533,18 @@ $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of
 
 	$ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
 		e̯ ˈɑ > ˈe / __ ([-syl])* [+syl,+front,-hi]
+
+$ CM 10/21 nasal vowel retractions in lab __ n V-round,-hi
+	$counterfed by postlabial loss of j : bine
+	$counterfeeds R53B
+[+front,+syl] > [-hi,-front,0tense] / # ((@)* [+syl,-round] (ɾ)) [+lab,+cons] (t) __ n [+syl,-round,-hi]
+
+$ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
+	$ vie, vie, mie, fie -- -ie not -ije endings
+	$ necessary for filium > fiu, vânăt, fân, pe, abi 
+		$ posterior syllable cannot be -a, or -ă -- todo use =lo when can, but using efront,-eback for now because ə is treated as ə at this stage not ɐ as it perhaps should be.
+[+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ([+hi,+front,+syl]) __ ([+syl,-lo,efront,-eback] ([+nas] (@)*)) #
+
 
 $ R47B Raisinɡ of [e] before [n]
 		$[+syl,+front,-hi] > [+hi] / __ [+nas]
