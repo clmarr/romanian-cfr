@@ -1235,7 +1235,8 @@ $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
 		${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] {[-cons];[+cons,-nas];#}
 		${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context.
 	$ CM edit 9/16 -- consolidated the above to two rather than four. Functionally equivalent -- except a third rule (EDIT) that covers mN only for unstressed o and a (miel, cumnat, dumestic)
-	{ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
+		$ Oct 2026 -- raising of ˈə all the way to ˈɨ before nasals shared with Aromanian 
+	{ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
 	$ suppressed -- no effect: {ɑ;o} > {ə;u} / __ m [-syl]
 
 
@@ -1332,10 +1333,6 @@ $ TODO CONSOLIDATE INTO EARLIER?
 	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
 
 
-$ NEW RULE: Fronting of [u] after an obstruent and before an [n]-voiceless plosive cluster.  
-	u > ɨ / [-son] __ n [-cont,-voi] $ possible intermediate stage of [ʉ]
-		$ Also should be noted that this rule only fixes a couple of words, so it is dubious. FLAG: reexamine later.
-		$ aduncum>adânc also appears to be affected; however, this may be due to analogy with adânca.
 
 
 $ NEW RULE: -ăune > -ăun
@@ -1404,12 +1401,34 @@ $ [s] palatalizes before [j] < [ʎ]. Feeds iea > ea .
 	$ CM 10/22 earlier ms > ns shared with Arom
 m > n / __ s
 
-$ NEW RULE: [e] aphaeresis. Feeds iea > ea phenomena.  Needs at least two syllables afterward
+$ NEW RULE: [e] aphaeresis. Feeds iea > ea phenomena.  Needs at least two syllables afterward. Shared with Arom.
 	e > ∅ / # __ [-syl] ([-cons]) [+syl] ([-syl])* [+syl]
 
-	$ CM 9/18/26 u-aphaeresis before labials and velars
+
+	$ CM 9/18/26 u-aphaeresis before labials and velars -- shared with Arom.
 	u > ∅ / # __ [+cons,-cor,-front,-nas]
 
+
+$ NEW RULE: Forward spreading of [n] to following occlusive
+	$ Only occurs across a [+hi] vowel. Does not occur before labial stops. Common Romanian
+				$ not before t though (minut, cărut) -- and this doesn't feed the u > ɨ rule in those positions.
+					$ RULE CROSSING
+		$fed by ˈəN > ˈɨN
+		∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
+			$ This ought to occur in adminacia(re)>amenința, but amenința doesn't have the right vowel here under our current cascade.
+			$ Since we also have attested amenița, it is clear that the vowel ought to be [i] at the time of this change.
+
+$ NEW RULE: Fronting of [u] after a non-strident coronal and before certain NT clusters. Cannot be first syll if stressed. 
+		$ possible intermediate stage of [ʉ]
+	u > ɨ / [+cor,-strid,+voi] __ n [-delrel,-lab] [-cons,-lo]
+	ˈu > ˈɨ / [+syl] (@)* [+cor,-strid,+voi] __ n [-delrel,-lab] [-cons,-lo]
+		$adânca and mănânca may be analogically affected based on adânc and mănânc
+
+$ CM 9/23 earlier raising in NT -- shared across Common Romanian 
+[+syl,+front] > [+hi] / __ n [+cons]
+
+$ CM 10/23 Common Romanian raising of first syllable post-peripheral ən before tonic ˈɑ
+ə > ɨ / # ([-syl])* [+cons,-cor] __ n (@)* ˈɑ 
 
 ~ Common Romanian
 
@@ -1417,8 +1436,10 @@ $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
 	
-	
-$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Only partially shared with Aromanian.
+	$ OCT 2026 : forward spreading of [n] continues to before t, not in Aromanian, and not feeding u > ɨ
+		∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+
+	$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Only partially shared with Aromanian.
 	$ R46A [e],[ə] > [e̯],[ə̯] after a labial and before a syllable containinɡ a back vowel
 		$ Looks like he means e,e̯ > ə,ə̯.
 		$ Pardess considers [a] to be [+back], hence [-front] instead of simply [+back]. That this formulation allows schwa to be a trigger is not a mistake.
@@ -1428,19 +1449,6 @@ $ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Only part
 			$ EDIT: Does not occur after [ˈi]. (Only affects vipera(m)>viperă.) FLAG
 				[-cons,-back,-hi,-lo,-front] > [+front,+tense] / ˈi ([-syl])* __ @ $ This is a much more general way to state this that has the same effect in our lexicon; may have just been a different change. FLAG
 
-
-$ CM 9/23 earlier raising in NT -- shared with Arom.
-[+syl,+front] > [+hi] / __ n [+cons]
-
-	$ CM 9/18/26 u-aphaeresis before labials and velars
-	u > ∅ / # __ [+cons,-cor,-front,-nas]
-
-~ Common Romanian
-
-$ CHAPTER 6
-$ THE DEVELOPMENT OF DACO-ROMANIAN
-$ (11TH CENTURY TO THE PRESENT)
-	
 $ Nasal assimilation
 	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
 	$ new rule "[n] dissimilates to [m] between voiceless coronals" has to have taken place before Aromanian and Daco-Romanian diverged,
@@ -1499,18 +1507,9 @@ $ NEW RULES: V̯ˈɑV̯ə simplification
 	$ must be after Common Romanian bc not shared, -eaua endings preserved in Arom etc.
 
 
-$ NEW RULE: Forward spreading of [n] to following occlusive
-	$ Only occurs across a [+hi] vowel.
-	$ Does not occur before labial stops.
-		∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-			$ This ought to occur in adminacia(re)>amenința, but amenința doesn't have the right vowel here under our current cascade.
-			$ Since we also have attested amenița, it is clear that the vowel ought to be [i] at the time of this change.
 
 	$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
 		ə̯ > ∅ / __ [+syl,+lo]
-
-$ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u] [+nas]
-	n > r / ə __ [+syl,+hi,+back] [+nas]
 
 $ NEW RULE: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements
 	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback,-lo]
@@ -1539,6 +1538,8 @@ $ CM 10/21 nasal vowel retractions in lab __ n V-round,-hi
 	$counterfeeds R53B
 [+front,+syl] > [-hi,-front,0tense] / # ((@)* [+syl,-round] (ɾ)) [+lab,+cons] (t) __ n [+syl,-round,-hi]
 
+
+
 $ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
 	$ vie, vie, mie, fie -- -ie not -ije endings
 	$ necessary for filium > fiu, vânăt, fân, pe, abi 
@@ -1557,6 +1558,10 @@ $ R47B Raisinɡ of [e] before [n]
 				$ CM 9/18/2026 note 2 -- execptions pepene noaten pieptene have pattern... TODO
 				$ CM 9/23 -- moved raising in NT to before ea > e 
 
+
+$ CM 10/23 əne > ene assimilations: pepene, pieptene, (venenu > )venin; 
+	$counterfeeds R47B, feeds je >e phenom added 9/16
+ə > [+front,+tense] / [+lab] __ n [+front,-hi,+tense]
 
 $ R54 Delateralization of [ʎ] $ʎ > j $ CM 9/18/26 -- consolidated 
 
@@ -1635,8 +1640,10 @@ $ NEW RULE: Round vowel syncope after [f]
 
 $ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
 	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / p __ n [+syl,alo,-ahi]
-$ NEW RULE: Reversal of R47A for unstressed cases in between @ m __ n a/ə
-	ɨ > ə / @ m __ n [+syl,-front]
+$ NEW RULE: Reversal of R47A for unstressed cases in between non-strident consonant and non-front vowel. Cannot have word bound on both sides of this sequence
+	ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+	ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
+
 $ Non-Pardessian [e]-backing rules
 	e > ə / [-back] n __ t
 	e > ə / s __ [+cons,αson,αlat] [+cons] $ this only affects 3 words. FLAG -- reexamine later
@@ -1648,6 +1655,9 @@ $ R49 Raisinɡ of [ə] before [r,s] plus consonant
 	$ə > ɨ / __ s [+cons] [+hi,+syl] $ Deactivated.
 		$ The one example of this occurring in our lexicon is already handled by the new rule "Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements" in the middle of R47.
 		$ The only other example given by Pardess is a borrowing from Bulgarian.
+
+$ NEW RULE OCT 23 2026 -- backing of i in lab __ n (V̯) t/d/ts (not t͡ʃ -- minciune) V-front
+[+syl,+hi] > [-front] / [+lab,+cons] __ n ([-prim]) [-cont,+ant] [+syl,-front]
 
 
 $ R50 and R51 moved to just after R46.
@@ -1793,35 +1803,9 @@ $ [i] > [j] after a vowel
 $ Nasal assimilation
 	n > m / __ [-cont,+lab]
 
-$ NEW RULE: [j] excrescence between [ˈɨ] and [n] + a palatal (semi)vowel
-	∅ > j / ˈɨ __ n [-cons,+front] ([+syl]) #
-		$ This has to occur in words like mâini (plural of singular mână) and pâinea (definite singular of pâine).
-		$ This does not, however, occur in mânecă, hence the conditioning making the vowel be word-final.
-		$ NB: This has to have happened after the breakup of Common Romanian; see Aromanian mãni, pãni, cãni for Daco-Romanian mâine, pâine, and câine.
-		$ As such, words like genitive/dative române for singular română are likely analogical,
-		$ as the difference between Latin -ae and -em must have been eliminated by the time this change took place.
-		$ However, see also Megleno-Romanian cǫini and pǫini (although the plural of MR mǫnă is mǫn', not *mǫin').
-		
-
 $ NEW RULE: Backwards [n]-spreading across affricate+[i]
 	∅ > n / [+front,+hi] __ [+delrel,-cont,+voi] [+syl,+hi,+front] n
 	
-$ NEW RULE: [r] to [n] assimilation
-	$ Only occurs intervocalically.
-	$ [n] must not be followed by an alveolar. ([-ant] handles this since we don't have any following labials.)
-	$ Preceding vowel must be [-lo].
-	$ For the exclusion of phalanga>părângă, we can condition with [αant,αcont], but this seems ill-motivated. Including for now.
-		$ Doing this also allows us to use [+syl] instead of [+syl,-lo], but we will leave [+syl,-lo] for now because it seems to be relevant.
-		$ (Higher sonority of preceding vowel may make the sonorant consonant more distinct.)
-			r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ([-ant] (@)*) #
-				$ Does not occur in in renunculum>rărunchi because of reinforcement from preceding [r]. Undoing below.
-					n > r / r [+syl] __ [+syl] n
-	
-$ [r] assimilates to preceding nasal in seamăn and semăna
-	$ If we condition this to only occur among [-hi] vowels, only the target words are affected.
-	$ However, this only works because seamăn has a final vowel at this stage that may have been deleted earlier. FLAG -- reexamine later.
-		r > n / [+syl,-hi] [+nas] [+syl,-hi] __ [+syl,-hi]
-
 $ NEW RULE: Word-inital [t͡ʃe] > [t͡ʃi] before a single [r].
 	$ This only affects two words, so it's a bit iffy, especially since the conditioning is so specific. FLAG -- reexamine later.
 		e > i / # t͡ʃ __ r [-cons]
@@ -1844,6 +1828,37 @@ $ NEW RULE: Schwa deletion before a nonhigh vocoid
 
 =Old Romanian
 $to be moved earlier
+
+
+$ NEW RULE: [j] excrescence between [ˈɨ] and [n] + a palatal (semi)vowel
+	∅ > j / ˈɨ __ n [-cons,+front] ([+syl]) #
+		$ This has to occur in words like mâini (plural of singular mână) and pâinea (definite singular of pâine).
+		$ This does not, however, occur in mânecă, hence the conditioning making the vowel be word-final.
+		$ NB: This has to have happened after the breakup of Common Romanian; see Aromanian mãni, pãni, cãni for Daco-Romanian mâine, pâine, and câine.
+		$ As such, words like genitive/dative române for singular română are likely analogical,
+		$ as the difference between Latin -ae and -em must have been eliminated by the time this change took place.
+		$ However, see also Megleno-Romanian cǫini and pǫini (although the plural of MR mǫnă is mǫn', not *mǫin').
+	$ in attested period; Megl-Rom development is parallel.
+
+
+$ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u] [+nas]. Occurs after breakup of Romanian dialects.
+	n > r / ə __ [+syl,+hi,+back] [+nas]
+
+$ NEW RULE: [r] to [n] assimilation
+	$ Only occurs intervocalically.
+	$ [n] must not be followed by an alveolar. ([-ant] handles this since we don't have any following labials.)
+	$ Preceding vowel must be [-lo].
+	$ For the exclusion of phalanga>părângă, we can condition with [αant,αcont], but this seems ill-motivated. Including for now.
+		$ Doing this also allows us to use [+syl] instead of [+syl,-lo], but we will leave [+syl,-lo] for now because it seems to be relevant.
+		$ (Higher sonority of preceding vowel may make the sonorant consonant more distinct.)
+			r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ([-ant] (@)*) #
+				$ Does not occur in in renunculum>rărunchi because of reinforcement from preceding [r]. Undoing below.
+					n > r / r [+syl] __ [+syl] n
+	
+$ [r] assimilates to preceding nasal in seamăn and semăna
+	$ If we condition this to only occur among [-hi] vowels, only the target words are affected.
+	$ However, this only works because seamăn has a final vowel at this stage that may have been deleted earlier. FLAG -- reexamine later.
+		r > n / [+syl,-hi] [+nas] [+syl,-hi] __ [+syl,-hi]
 
 $ CM oct '26 NEW RULE : pre, preste > pe, peste. Parallel development in Aromanian. Forms before this occurred attested in both, though.
 r > ∅ / # p __ (([-syl])* [-prim] ([-syl])*)* #
