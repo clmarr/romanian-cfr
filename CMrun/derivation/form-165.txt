@@ -1,15 +1,25 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 165:
-#mˌɑnuːkˈɑː# >>> *#mənunkˈɑ# ( GOLD : #mɨnkˈɑ#) :
-m ˌɑ n uː k ˈɑː 
-*#mɑnuːkˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#mɑnukˈɑ# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mɑnukˈɑ#
-*#mənukˈɑ# | 207 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#mənunkˈɑ# | 235 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
-*#mɨnunkˈɑ# | 239 : ə > ɨ / # ( [-syl] )* [+cons,-cor] __ n ( @ )* ˈɑ
-Common Romanian stage form : *#mɨnunkˈɑ#
-*#mənunkˈɑ# | 275 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
-Old Romanian stage form : *#mənunkˈɑ#
-*#mərunkˈɑ# | 315 : n > r / ə __ [+syl,+hi,+back] [+nas]
-*#mənunkˈɑ# | 316 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
-Final form : *#mənunkˈɑ#
+#mˌɑnnuˈɑːrium# >>> *#mənˈɑr# ( GOLD : #mɨnˈer#) :
+m ˌɑ n n u ˈɑː r i u m 
+*#mˌɑnnwˈɑːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mɑnnwˈɑːrjum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#mɑnnwˈɑːrju# | 44 : m > ∅ / [-stres] __ #
+*#mɑnnβˈɑːrju# | 85 : w > β / __ ( [-cons] ( @ )* ) #
+*#mɑnnˈɑːrju# | 141 : β > ∅ 
+*#mɑnnˈɑrju# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mɑnnˈɑrju#
+*#mɑnnˈɑɾju# | 159 : r > ɾ / __ [nnas,ncons]
+*#mɑnnˈɑɾʲju# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mɑnnˈɑɾʲu# | 197 : j > ∅ / [+cons,+front] __
+*#mənnˈɑɾʲu# | 215 : [-cons,+lo,-stres,-long] > ə / @ __
+*#mənˈɑɾʲu# | 225 : n n > n 
+*#mɨnˈɑɾʲu# | 239 : ə > ɨ / # ( [-syl] )* [+cons,-cor] __ n ( @ )* ˈɑ
+Common Romanian stage form : *#mɨnˈɑɾʲu#
+*#mɨnˈɑjɾu# | 247 : ɾʲ > j ɾ 
+*#mɨnˈɑjru# | 268 : ɾ > r 
+*#mənˈɑjru# | 275 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+*#mənˈɑjrw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#mənˈɑjr# | 289 : w̥ > ∅ / [-syl] __ #
+*#mənˈɑr# | 296 : j > ∅ / __ r
+Old Romanian stage form : *#mənˈɑr#
+Final form : *#mənˈɑr#

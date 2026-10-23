@@ -1,20 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 118:
-#ekkuhˈik# >>> *#ɑt͡ʃˈi# ( GOLD : #ɑt͡ʃˈi#) :
-e k k u h ˈi k 
-*#ɑkkuhˈik# | 36 : e > ɑ / # __ k k
-*#ɑkkuˈik# | 41 : [-son,-cons] > ∅ 
-*#ɑkkuˈi# | 81 : [+cons,-cont] > ∅ / __ #
-*#ɑkkwˈi# | 114 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#ɑkkwˈiː# | 116 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#ɑkkˈiː# | 122 : w > ∅ / __ [+syl]
-*#ɑkˈiː# | 142 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ɑkʲˈiː# | 149 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-*#ɑkʲˈi# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑkʲˈi#
-*#ɑkʲjˈi# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ɑkʲˈi# | 197 : j > ∅ / [+cons,+front] __
-*#ɑc͡ɕˈi# | 218 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ɑt͡ʃˈi# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ɑt͡ʃˈi#
-Old Romanian stage form : *#ɑt͡ʃˈi#
-Final form : *#ɑt͡ʃˈi#
+#kwˈae̯roː# >>> *#t͡ʃˈer# ( GOLD : #t͡ʃˈer#) :
+k w ˈa e̯ r oː 
+*#kwˈajroː# | 20 : e̯ > j 
+*#kwˈɛːroː# | 42 : [+syl,+lo] j > [-lo,-tense,+long,+front,-back,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
+*#kβˈɛːroː# | 85 : w > β / __ ( [-cons] ( @ )* ) #
+*#kˈɛːroː# | 141 : β > ∅ 
+*#kʲˈɛːroː# | 149 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
+*#kʲˈɛro# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kʲˈɛro#
+*#kʲˈɛɾo# | 159 : r > ɾ / __ [nnas,ncons]
+*#kʲjˈɛɾo# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#kʲjˈeɾo# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kʲjˈeɾu# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#kʲˈeɾu# | 197 : j > ∅ / [+cons,+front] __
+*#c͡ɕˈeɾu# | 218 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃˈeɾu# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡ʃˈeɾu#
+*#t͡ʃˈeru# | 268 : ɾ > r 
+*#t͡ʃˈerw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#t͡ʃˈer# | 289 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#t͡ʃˈer#
+Final form : *#t͡ʃˈer#

@@ -1,18 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 543:
-#ˌinˌuksoːrˈɑː# >>> *#ɨnsurˈɑ# ( GOLD : #ɨnsurˈɑ#) :
-ˌi n ˌu k s oː r ˈɑː 
-*#inuksoːrˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inksoːrˈɑː# | 67 : [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ( [-syl] ) [+syl,-stres,-lo]
-*#insoːrˈɑː# | 97 : [-cont] > ∅ / [+cons] __ [-son,-voi]
-*#ensoːrˈɑː# | 119 : [+syl,-long,+hi,-back] > [-hi] 
-*#ensorˈɑ# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ensorˈɑ#
-*#ensoɾˈɑ# | 159 : r > ɾ / __ [nnas,ncons]
-*#ɑnsoɾˈɑ# | 163 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnsuɾˈɑ# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənsuɾˈɑ# | 207 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənsuɾˈɑ#
-*#ənsurˈɑ# | 268 : ɾ > r 
-*#ɨnsurˈɑ# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnsurˈɑ#
-Final form : *#ɨnsurˈɑ#
+#hˌospˈitium# >>> *#ospˈət͡s# ( GOLD : #ospˈət͡s#) :
+h ˌo s p ˈi t i u m 
+*#hˌospˈitjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#hospˈitjum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ospˈitjum# | 41 : [-son,-cons] > ∅ 
+*#ospˈitju# | 44 : m > ∅ / [-stres] __ #
+*#ospˈitʲu# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ospˈetʲu# | 119 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ospˈetʲu#
+*#ospˈet͡sʲu# | 218 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ospˈet͡su# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ospˈet͡su#
+*#ospˈət͡su# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#ospˈət͡sw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ospˈət͡s# | 289 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ospˈət͡s#
+Final form : *#ospˈət͡s#

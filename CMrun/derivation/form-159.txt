@@ -1,19 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 159:
-#ˌinfˌɑskiˈɑː# >>> *#ɨnfəʃˈɑ# ( GOLD : #ɨnfəʃˈɑ#) :
-ˌi n f ˌɑ s k i ˈɑː 
-*#ˌinfˌɑskjˈɑː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#infɑskjˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#infɑstʲˈɑː# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enfɑstʲˈɑː# | 119 : [+syl,-long,+hi,-back] > [-hi] 
-*#enfɑsʲˈɑː# | 124 : s [-cont,+front] > sʲ
-*#enfɑsʲˈɑ# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enfɑsʲˈɑ#
-*#ɑnfɑsʲˈɑ# | 163 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnfɑɕˈɑ# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ənfɑɕˈɑ# | 207 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənfəɕˈɑ# | 215 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənfəʃˈɑ# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənfəʃˈɑ#
-*#ɨnfəʃˈɑ# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnfəʃˈɑ#
-Final form : *#ɨnfəʃˈɑ#
+#ˌindˌireːktˈɑː# >>> *#ɨndreptˈɑ# ( GOLD : #ɨndreptˈɑ#) :
+ˌi n d ˌi r eː k t ˈɑː 
+*#indireːktˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#indreːktˈɑː# | 47 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#indreːptˈɑː# | 99 : k > p / __ t
+*#endreːptˈɑː# | 119 : [+syl,-long,+hi,-back] > [-hi] 
+*#endreptˈɑ# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#endreptˈɑ#
+*#endɾeptˈɑ# | 159 : r > ɾ / __ [nnas,ncons]
+*#ɑndɾeptˈɑ# | 163 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#əndɾeptˈɑ# | 207 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#əndɾeptˈɑ#
+*#əndreptˈɑ# | 268 : ɾ > r 
+*#ɨndreptˈɑ# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨndreptˈɑ#
+Final form : *#ɨndreptˈɑ#
