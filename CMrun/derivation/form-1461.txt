@@ -3,13 +3,13 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1461:
 p ˌe r ˌe k s t e r 
 *#perekster# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#prekster# | 47 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
-*#prekstre# | 86 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
-*#prestre# | 95 : [-cont] > ∅ / __ [+strid] [+cons]
+*#prekstre# | 88 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
+*#prestre# | 98 : [-cont] > ∅ / __ [+strid] [+cons]
 Balkan Romance stage form : *#prestre#
-*#pɾestɾe# | 159 : r > ɾ / __ [nnas,ncons]
-*#pɾeste# | 222 : ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
+*#pɾestɾe# | 163 : r > ɾ / __ [nnas,ncons]
+*#pɾeste# | 226 : ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
 Common Romanian stage form : *#pɾeste#
-*#preste# | 269 : ɾ > r 
+*#preste# | 275 : ɾ > r 
 Old Romanian stage form : *#preste#
-*#peste# | 319 : r > ∅ / # p __ ( ( [-syl] )* [-prim] ( [-syl] )* )* #
+*#peste# | 327 : r > ∅ / # p __ ( ( [-syl] )* [-prim] ( [-syl] )* )* #
 Final form : *#peste#

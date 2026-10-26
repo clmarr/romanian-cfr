@@ -343,8 +343,8 @@ $ R4 {Syncope, Dissimilation of [tl]}
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] (s) [+cons,-cont,+cor] __ l ([-cons,-syl]) [+syl]
 			$ Syncope between velar stops and [l] (pickier than alveolars: can't be before palatal vowels and can't be after syllables that contain a voiceless fricative in the onset) HOWEVER we can have a nonlateral consonant before the velar
 				[+syl,+hi,-long,-stres] > ∅ / {# ([+son]);[+cons,+voi,-son] ([+son]);[-cont] ([+son]);[+syl] ([+son])+} [+syl] ([+cons,+cont,-lat]) [+back,-cont] __ l [+syl,-front]
-		$ Syncope between nasals must come after [o].
-			[+syl,+hi,-long,-stres] > ∅ / [+syl,+round,-hi] [+nas] __ [+nas] [+syl]
+		$ Syncope between nasals must come after tonic [o].
+			[+syl,+hi,-long,-stres] > ∅ / ˈo [+nas] __ [+nas] [+syl]
 		$ Syncope after [l] cannot occur in the presence of palatal vowels.
 			$[+syl,+hi,-long,-stres] > ∅ / [+syl,-front] l __ [+cons] [+syl,-front]
 				$ EDIT: Easier to explain as only occurring before another coronal.
@@ -423,6 +423,13 @@ $ NEW RULE: [l] metathesis 2
 		∅ [+syl] [-cont,+back] l > l [+syl] [-cont,+back] ∅ / [-cont,+back] __
 		∅ [+syl] [+nas] [-cont,+back] l > l [+syl] [+nas] [-cont,+back] ∅ / [-cont,+back] __
 
+$ new rule oct 26 : coloring vowels between m/mb and intervocalic l/ll/n . Unclear how to also hit termen > țărm at this time.
+	$ affected : lamură, acolo, buric
+[-lo,-prim,-round] > o / [+back] m (b) __ [+son,+cor,nnas,!nlat] ( [+son,+cor,nnas,!nlat] ) [+syl]
+
+
+$ new rule oct 26 : m Vround n V > mVrV if neither v is stressed
+n > r / m [-prim,+round] __ [-prim]
 
 $ R5 {Deletion of word-final oral or nasal stop, Addition of word-final [e] after [l], Metathesis of word-final [r]}
 	$ R5A Deletion of word-final oral or nasal stop
@@ -464,6 +471,8 @@ $ R6 Frontinɡ of [w] to [β]
 				$ needs to "jump over" the w in kwattwor
 					$∅ [-cons] [+syl] r > r [-cons] [+syl] ∅ / [+cons] [-son] __ #
 
+$ NEW RULE oct 26 cm -- fed by R5c -- in unstressed words in -son* V (n) (T) r (V) C*, fisrt V reduces
+[-prim] > ə / # [-voi] ( [-syl] ) __ ( [+nas] ) ( [-voi] ) ( r ) [-prim] ( [+cons] )* #
 
 $ NEW RULE: -tore > -tor		$ FLAG -- try to expand beyond this!
 	$ EDIT: doesn't affect putorem>putoare for some reason? blocking it from occurring after round segments fixes it, but now we have an even more hyperspecific rule...
@@ -614,6 +623,10 @@ $ R13 {Many sequential vowel chanɡes} -- CM 10/15 13A relocdated much earlier
 		$ (When adjacent to another vowel)
 			[+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
 			[+syl,-lo,-long,-stres] > [+hi] / [+syl] __
+
+
+$ CM 9/18/26 -- umV after velar simplifies to oa. Does not feed R13B, feeds R13C
+u m > o / [+back] __ [+syl]
 
 	$ R13C Contraction of Vowel Combinations
 		$ "Two sequential identical vowels coalesce."
@@ -880,7 +893,7 @@ $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
 		$ Still doesnt work so:
 			${ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
 		$ CM FIRST PALATALIZATION CONSOLIDATION: sent instead to palatal affricates, no need for extra phonemes or extra distinctions. This does not totally merge with the first palatalization, however, as it doesn't show the same depalatalization behavior, for example not depalatalizing in post-tonic position. 
-	[-cont,+back] > [+front] / __ [-cons,-back,-lo]
+	[-cont,+back] > [+front] / __ [-cons,+front]
 
 
 $ NEW RULE: Voiceless coronal assimilates to distant palatal when in the onset of a heavy syllable
@@ -993,15 +1006,7 @@ $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 		$ [ɛ] always tenses regardless of [j]-insertion:
 			[-cons,-tense] > [+tense]
 
-$ CM 9/23 w-coloring and prerhotic w-deletion rule
-	$ w-coloring: i,e > u,o between front element and w  : ciur, fior 
-		$ fed by R27B 
-[+syl] > [+round,+lab,-front,+back] / [+front] __ w @
 
-	$ w-deletion before ɾ followed by front and non-low elements: fawrekˈɑ > fereca, fjˈowri > fjor, kʲuwri > ciur, excavVriat > zgawrje > zgârje , etc.
-		$ not before back: lăuruscă, graur < grawru, aurarium > awrarju > aurar, taur, laur, etc. 
-		$ not before low : aura, făurar, gaură 
-w > ∅ / __ ɾ [+front]
 
 $ R28 Unstressed [o] > [u]
 	$ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
@@ -1051,6 +1056,10 @@ $ R30 Preyodization of initial [e]: [e] > [ye]
 			$ For stressed [ˈe], this does not occur before nasals, but it occurs before other kinds of sonorants.
 				∅ > j / # __ ˈe ([-nas] (@)*) #
 
+$ NEW RULE oct 26 -- u > o in # (V̯) k __ (l/r)+ ˈo : Old Romanian corună whence cunună, acolo, corastră
+u > o / # ([-prim]) k __ ([+cor,+son,-nas])* ˈo
+
+
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	l > ɾ / [+syl] __ [+syl]
 		$ "It did not apply to words of Slavic oriɡin" with more info, see p100
@@ -1064,8 +1073,6 @@ $ NEW RULE: [w] > ∅ / [(ˈ)u] __ @
 $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
 	ˈo > ˈu / [+nas] __ [+nas]
 
-$ CM 9/18/26 -- umV after velar simplifies to oa
-u m > o / [+back] __ [+syl]
 
 $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
 	$ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant. CM 9/16/26 -- removed +syl from feat matrices with +stres -- this is redundant per feature implications.
@@ -1333,6 +1340,11 @@ $ TODO CONSOLIDATE INTO EARLIER?
 	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
 
 
+	$ new rule oct 26 u > o also in Cperiph __ ɾ (V̯) n ˈV
+u > o / [+cons,-cor] __ ɾ ([-prim]) [+nas] [+prim]
+
+	$ new rule oct 26  u > o in # (V (N)) k/m/p/f __ (r/s) t/p (s/r/t) (e̯/o̯) ˈV 
+u > o / # ( [-prim] ( [+nas] ) ) [+cons,-cor,mvoi,mson] __ ( [+cor,+ant,+cont,svoi,sson] )  [+ant,-voi] ([-cont,rvoi,rson] ) ( [-cons,-hi,-syl] ) [+prim]
 
 
 $ NEW RULE: -ăune > -ăun
@@ -1439,8 +1451,19 @@ $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
 	
+
 	$ OCT 2026 : forward spreading of [n] continues to before t, not in Aromanian, and not feeding u > ɨ
 		∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+
+$ CM 9/23 w-coloring and prerhotic w-deletion rule -- post Common Romanian
+	$ w-coloring: i,e > u,o between front element and w  : ciur, fior 
+		$ fed by R27B 
+[+syl,-lo] > [+round,+lab,-front,+back] / [+front] __ w @
+
+	$ w-deletion before ɾ followed by front and non-low elements: fawrekˈɑ > fereca, fjˈowri > fjor, kʲuwri > ciur, excavVriat > zgawrje > zgârje , etc.
+		$ not before back: lăuruscă, graur < grawru, aurarium > awrarju > aurar, taur, laur, etc. 
+		$ not before low : aura, făurar, gaură 
+w > ∅ / __ [-cont,+son] [+front]
 
 	$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Only partially shared with Aromanian.
 	$ R46A [e],[ə] > [e̯],[ə̯] after a labial and before a syllable containinɡ a back vowel
@@ -1830,6 +1853,7 @@ $ NEW RULE: Schwa deletion before a nonhigh vocoid
 $to be moved earlier
 
 
+
 $ NEW RULE: [j] excrescence between [ˈɨ] and [n] + a palatal (semi)vowel
 	∅ > j / ˈɨ __ n [-cons,+front] ([+syl]) #
 		$ This has to occur in words like mâini (plural of singular mână) and pâinea (definite singular of pâine).
@@ -1841,8 +1865,8 @@ $ NEW RULE: [j] excrescence between [ˈɨ] and [n] + a palatal (semi)vowel
 	$ in attested period; Megl-Rom development is parallel.
 
 
-$ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u] [+nas]. Occurs after breakup of Romanian dialects.
-	n > r / ə __ [+syl,+hi,+back] [+nas]
+$ NEW RULE: Intervocalic dissimilatory [n]-flapping between schwa and [(ˈ)u/(')i] [+nas]. Occurs after breakup of Romanian dialects.
+	n > r / ə __ [+syl,+hi] [+nas]
 
 $ NEW RULE: [r] to [n] assimilation
 	$ Only occurs intervocalically.
@@ -1859,6 +1883,13 @@ $ [r] assimilates to preceding nasal in seamăn and semăna
 	$ If we condition this to only occur among [-hi] vowels, only the target words are affected.
 	$ However, this only works because seamăn has a final vowel at this stage that may have been deleted earlier. FLAG -- reexamine later.
 		r > n / [+syl,-hi] [+nas] [+syl,-hi] __ [+syl,-hi]
+
+
+$ o > u rules in attested period -- oct 26 : 
+	$ 1. in p/f __ R t
+[+round,+syl] > [+hi] / [+lab,-voi] __ [+cor,+son] t
+	$ 2. -- feed by r > n -- o > u after initial cons and before sequences of either anterior obstruents (+r allwoed), or n , followed by tonic vowel
+o > u / # ( ([-prim]) [+nas]) ([-cont,-cor]) __ [nnas,nvoi,+ant] ( [nnas,nvoi,+cor] )* ( ( [-prim] ) [+son,+cor] ) ( [-syl,-hi,-cons] ) [+prim]
 
 $ CM oct '26 NEW RULE : pre, preste > pe, peste. Parallel development in Aromanian. Forms before this occurred attested in both, though.
 r > ∅ / # p __ (([-syl])* [-prim] ([-syl])*)* #

@@ -3,18 +3,18 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1036:
 ˌi n d ˌeː r ˌe t r oː 
 *#indeːretroː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#indretroː# | 47 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
-*#endretroː# | 119 : [+syl,-long,+hi,-back] > [-hi] 
-*#endretro# | 152 : [+syl] > [-long,-splng] 
+*#endretroː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#endretro# | 156 : [+syl] > [-long,-splng] 
 Balkan Romance stage form : *#endretro#
-*#endɾetɾo# | 159 : r > ɾ / __ [nnas,ncons]
-*#ɑndɾetɾo# | 163 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑndɾetɾu# | 174 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#əndɾetɾu# | 207 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#əndɾetu# | 222 : ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
+*#endɾetɾo# | 163 : r > ɾ / __ [nnas,ncons]
+*#ɑndɾetɾo# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑndɾetɾu# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#əndɾetɾu# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#əndɾetu# | 226 : ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
 Common Romanian stage form : *#əndɾetu#
-*#əndretu# | 269 : ɾ > r 
-*#ɨndretu# | 271 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨndretw̥# | 287 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨndret# | 290 : w̥ > ∅ / [-syl] __ #
+*#əndretu# | 275 : ɾ > r 
+*#ɨndretu# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨndretw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨndret# | 296 : w̥ > ∅ / [-syl] __ #
 Old Romanian stage form : *#ɨndret#
 Final form : *#ɨndret#
