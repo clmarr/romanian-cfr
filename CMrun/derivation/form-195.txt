@@ -1,26 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 195:
-#wˌɑllikˈellɑm# >>> *#vəlt͡ʃe̯ˈɑ# ( GOLD : #vɨlt͡ʃe̯ˈɑ#) :
-w ˌɑ l l i k ˈe l l ɑ m 
-*#wɑllikˈellɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wɑllikˈellɑ# | 44 : m > ∅ / [-stres] __ #
-*#wɑllkˈellɑ# | 66 : [+syl,+hi,-long,-stres] > ∅ / [+syl] l l __ [-cont,+back] [+syl,-lo]
-*#βɑllkˈellɑ# | 85 : w > β / __ ( [-cons] ( @ )* ) #
-*#βɑllkˈɛllɑ# | 115 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#vɑllkˈɛllɑ# | 128 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#vɑllkʲˈɛllɑ# | 149 : [-cont,+back] > [+front] / __ [-cons,-back,-lo]
-Balkan Romance stage form : *#vɑllkʲˈɛllɑ#
-*#vɑllkʲˈellɑ# | 171 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#vɑllkʲˈɛllɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vɑllkʲˈɛwɑ# | 190 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#vɑlkʲˈɛwɑ# | 194 : {l l;m m} > {l;m} 
-*#vɑlkʲˈɛɑwɑ# | 204 : ∅ > ɑ / [-tense] __
-*#vɑlkʲˈeˈɑwɑ# | 205 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#vɑlkʲe̯ˈɑwɑ# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#vəlkʲe̯ˈɑwə# | 215 : [-cons,+lo,-stres,-long] > ə / @ __
-*#vəlc͡ɕe̯ˈɑwə# | 218 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vəlt͡ʃe̯ˈɑwə# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#vəlt͡ʃe̯ˈɑwə#
-*#vəlt͡ʃe̯ˈɑw# | 249 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
-*#vəlt͡ʃe̯ˈɑ# | 250 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
-Old Romanian stage form : *#vəlt͡ʃe̯ˈɑ#
-Final form : *#vəlt͡ʃe̯ˈɑ#
+#wˌeːssˈiːkɑm# >>> *#beʃˈikə# ( GOLD : #bəʃˈikə#) :
+w ˌeː s s ˈiː k ɑ m 
+*#weːssˈiːkɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#weːssˈiːkɑ# | 44 : m > ∅ / [-stres] __ #
+*#βeːssˈiːkɑ# | 85 : w > β / __ ( [-cons] ( @ )* ) #
+*#beːssˈiːkɑ# | 127 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
+*#beːsˈiːkɑ# | 142 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#besˈikɑ# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#besˈikɑ#
+*#besjˈikɑ# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#besʲjˈikɑ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#besʲˈikɑ# | 197 : j > ∅ / [+cons,+front] __
+*#beɕˈikɑ# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#beɕˈikə# | 215 : [-cons,+lo,-stres,-long] > ə / @ __
+*#beʃˈikə# | 219 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#beʃˈikə#
+Old Romanian stage form : *#beʃˈikə#
+Final form : *#beʃˈikə#

@@ -1,19 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 395:
-#wˌirtuˈoːsum# >>> *#vɨrtˈos# ( GOLD : #vɨrtˈos#) :
-w ˌi r t u ˈoː s u m 
-*#wˌirtwˈoːsum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wirtwˈoːsum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wirtwˈoːsu# | 44 : m > ∅ / [-stres] __ #
-*#βirtβˈoːsu# | 85 : w > β / __ ( [-cons] ( @ )* ) #
-*#βertβˈoːsu# | 119 : [+syl,-long,+hi,-back] > [-hi] 
-*#vertβˈoːsu# | 128 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#vertˈoːsu# | 141 : β > ∅ 
-*#vertˈosu# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#vertˈosu#
-Common Romanian stage form : *#vertˈosu#
-*#vərtˈosu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#vɨrtˈosu# | 279 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
-*#vɨrtˈosw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vɨrtˈos# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vɨrtˈos#
-Final form : *#vɨrtˈos#
+#ˌɑrˈɑːneɑm# >>> *#rˈɨje# ( GOLD : #rˈɨje#) :
+ˌɑ r ˈɑː n e ɑ m 
+*#ˌɑrˈɑːnjɑm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɑrˈɑːnjɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑrˈɑːnjɑ# | 44 : m > ∅ / [-stres] __ #
+*#rˈɑːnjɑ# | 104 : ɑ > ∅ / # __ ( [+cons,ason,avoi] ) ( [+cor,+son] ) [+stres] [+cor,+son] [-syl]
+*#rˈɑnjɑ# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rˈɑnjɑ#
+*#ɾˈɑnjɑ# | 159 : r > ɾ / __ [nnas,ncons]
+*#rɾˈɑnjɑ# | 160 : ∅ > r / # __ ɾ
+*#rɾˈɑnʲjɑ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rɾˈɑnʲɑ# | 197 : j > ∅ / [+cons,+front] __
+*#rɾˈɑɲɑ# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#rɾˈɨɲɑ# | 207 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#rɾˈɨɲə# | 215 : [-cons,+lo,-stres,-long] > ə / @ __
+*#rˈɨɲə# | 223 : {ɾ;r} > {∅;∅} / r __
+Common Romanian stage form : *#rˈɨɲə#
+*#rˈɨɲe# | 246 : ə > e / [+cons,+front,+son] __
+*#rˈɨje# | 273 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#rˈɨje#
+Final form : *#rˈɨje#

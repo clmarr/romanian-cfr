@@ -1,21 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 244:
-#rˌeːnˈikulum# >>> *#rɨnˈekj# ( GOLD : #rinˈikj#) :
-r ˌeː n ˈi k u l u m 
-*#reːnˈikulum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#reːnˈikulu# | 44 : m > ∅ / [-stres] __ #
-*#reːnˈiklu# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#reːnˈeklu# | 119 : [+syl,-long,+hi,-back] > [-hi] 
-*#renˈeklu# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#renˈeklu#
-*#ɾenˈeklu# | 159 : r > ɾ / __ [nnas,ncons]
-*#rɾenˈeklu# | 160 : ∅ > r / # __ ɾ
-*#rɾinˈeklu# | 189 : [+syl,+front,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#rɾinˈekʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
-*#rinˈekʎu# | 223 : {ɾ;r} > {∅;∅} / r __
-*#rɨnˈekʎu# | 224 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Common Romanian stage form : *#rɨnˈekʎu#
-*#rɨnˈekju# | 272 : [+son,+cons,+front] > j 
-*#rɨnˈekjw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#rɨnˈekj# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#rɨnˈekj#
-Final form : *#rɨnˈekj#
+#rˌeːnˈunkulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
+r ˌeː n ˈu n k u l u m 
+*#reːnˈunkulum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#reːnˈunkulu# | 44 : m > ∅ / [-stres] __ #
+*#reːnˈunklu# | 61 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#renˈunklu# | 152 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#renˈunklu#
+*#ɾenˈunklu# | 159 : r > ɾ / __ [nnas,ncons]
+*#rɾenˈunklu# | 160 : ∅ > r / # __ ɾ
+*#rɾenˈunkʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
+*#renˈunkʎu# | 223 : {ɾ;r} > {∅;∅} / r __
+*#rənˈunkʎu# | 224 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Common Romanian stage form : *#rənˈunkʎu#
+*#rɨnˈunkʎu# | 271 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#rɨnˈunkju# | 273 : [+son,+cons,+front] > j 
+*#rənˈunkju# | 276 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+*#rənˈunkjw̥# | 287 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rənˈunkj# | 290 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rənˈunkj#
+*#rərˈunkj# | 315 : n > r / ə __ [+syl,+hi,+back] [+nas]
+*#rənˈunkj# | 316 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+*#rərˈunkj# | 317 : n > r / r [+syl] __ [+syl] n
+Final form : *#rərˈunkj#

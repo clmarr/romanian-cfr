@@ -1,18 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 207:
-#wˌetrˈɑːnum# >>> *#bətrˈɨn# ( GOLD : #bətrˈɨn#) :
-w ˌe t r ˈɑː n u m 
-*#wetrˈɑːnum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wetrˈɑːnu# | 44 : m > ∅ / [-stres] __ #
-*#βetrˈɑːnu# | 85 : w > β / __ ( [-cons] ( @ )* ) #
-*#betrˈɑːnu# | 127 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
-*#betrˈɑnu# | 152 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#betrˈɑnu#
-*#betɾˈɑnu# | 159 : r > ɾ / __ [nnas,ncons]
-*#betɾˈɨnu# | 207 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#betɾˈɨnu#
-*#bətɾˈɨnu# | 241 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#bətrˈɨnu# | 268 : ɾ > r 
-*#bətrˈɨnw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bətrˈɨn# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#bətrˈɨn#
-Final form : *#bətrˈɨn#
+#wˈirɡulɑm# >>> *#vˈerɡje# ( GOLD : #vˈərɡurə#) :
+w ˈi r ɡ u l ɑ m 
+*#wˈirɡulɑ# | 44 : m > ∅ / [-stres] __ #
+*#wˈirɡlɑ# | 58 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#βˈirɡlɑ# | 85 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈerɡlɑ# | 119 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈerɡlɑ# | 128 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+Balkan Romance stage form : *#vˈerɡlɑ#
+*#vˈɛrɡlɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛɑrɡlɑ# | 204 : ∅ > ɑ / [-tense] __
+*#vˈeˈɑrɡlɑ# | 205 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈɑrɡlɑ# | 206 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ve̯ˈɑrɡlə# | 215 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ve̯ˈɑrɡʎə# | 216 : l > ʎ / [-cont,-ant,-cor] __
+Common Romanian stage form : *#ve̯ˈɑrɡʎə#
+*#ve̯ˈɑrɡʎe# | 246 : ə > e / [+cons,+front,+son] __
+*#vˈerɡʎe# | 257 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#vˈerɡje# | 273 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#vˈerɡje#
+Final form : *#vˈerɡje#
