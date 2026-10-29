@@ -1,17 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1036:
-#ˌintro# >>> *#ɨntru# ( GOLD : #ɨntru#) :
-ˌi n t r o 
-*#intro# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#entro# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#entro#
-*#entɾo# | 163 : r > ɾ / __ [nnas,ncons]
-*#ɑntɾo# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑntɾu# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#əntɾu# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#əntɾu#
-*#əntru# | 275 : ɾ > r 
-*#ɨntru# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨntrw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨntru# | 294 : {w̥;j̊} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-Old Romanian stage form : *#ɨntru#
-Final form : *#ɨntru#
+#pˌerˈinter# >>> *#prˈintre# ( GOLD : #prˈintre#) :
+p ˌe r ˈi n t e r 
+*#perˈinter# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#prˈinter# | 47 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#prˈintre# | 88 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
+*#prˈentre# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#prˈentre#
+*#pɾˈentɾe# | 163 : r > ɾ / __ [nnas,ncons]
+*#pɾˈintɾe# | 242 : [+syl,+front] > [+hi] / __ n [+cons]
+Common Romanian stage form : *#pɾˈintɾe#
+*#prˈintre# | 274 : ɾ > r 
+Old Romanian stage form : *#prˈintre#
+Final form : *#prˈintre#

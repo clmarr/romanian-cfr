@@ -1,15 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1258:
-#sˈuːbulum# >>> *#sˈul# ( GOLD : #sˈul#) :
-s ˈuː b u l u m 
-*#sˈuːbulu# | 44 : m > ∅ / [-stres] __ #
-*#sˈuːblu# | 95 : [+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
-*#sˈuːβlu# | 122 : b > β / [-cons] __ [+cont]
-*#sˈuːwlu# | 142 : β > w / [-cons] __ [+son,+cons]
-*#sˈuwlu# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#sˈuwlu#
-*#sˈulu# | 184 : w > ∅ / [+syl,+hi,+back] __ @
-Common Romanian stage form : *#sˈulu#
-*#sˈulw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#sˈul# | 296 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#sˈul#
-Final form : *#sˈul#
+#pˈedinum# >>> *#pjˈedin# ( GOLD : #pjˈedin#) :
+p ˈe d i n u m 
+*#pˈedinu# | 44 : m > ∅ / [-stres] __ #
+*#pˈɛdinu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛdenu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛdenu#
+*#pjˈɛdenu# | 172 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈedenu# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛdenu# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛɑdenu# | 206 : ∅ > ɑ / [-tense] __
+*#pjˈeˈɑdenu# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈɑdenu# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#pje̯ˈɑdenu#
+*#pjˈedenu# | 263 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#pjˈedinu# | 267 : [+syl,+front] > [+hi] / __ n [-stres]
+*#pjˈedinw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pjˈedin# | 295 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pjˈedin#
+Final form : *#pjˈedin#

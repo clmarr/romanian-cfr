@@ -1,16 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1439:
-#ˌindˈuplikoː# >>> *#ɨndˈuplek# ( GOLD : #ɨndˈuplek#) :
-ˌi n d ˈu p l i k oː 
-*#indˈuplikoː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#endˈuplekoː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#endˈupleko# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#endˈupleko#
-*#ɑndˈupleko# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑndˈupleku# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#əndˈupleku# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#əndˈupleku#
-*#ɨndˈupleku# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨndˈuplekw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨndˈuplek# | 296 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɨndˈuplek#
-Final form : *#ɨndˈuplek#
+#ˌinwˈitioː# >>> *#ɨnvˈət͡s# ( GOLD : #ɨnvˈət͡s#) :
+ˌi n w ˈi t i oː 
+*#ˌinwˈitjoː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#inwˈitjoː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inwˈitʲoː# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#inβˈitʲoː# | 87 : w > β / __ ( [-cons] ( @ )* ) #
+*#enβˈetʲoː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#envˈetʲoː# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#envˈetʲo# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#envˈetʲo#
+*#ɑnvˈetʲo# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑnvˈetʲu# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənvˈetʲu# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənvˈet͡sʲu# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ənvˈet͡su# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ənvˈet͡su#
+*#ənvˈət͡su# | 248 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#ɨnvˈət͡su# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnvˈət͡sw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨnvˈət͡s# | 295 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɨnvˈət͡s#
+Final form : *#ɨnvˈət͡s#

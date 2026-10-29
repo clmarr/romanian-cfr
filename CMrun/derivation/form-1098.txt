@@ -1,17 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1098:
-#wˌolwˈe# >>> *#volbe̯ˈɑ# ( GOLD : #hˈolbɑ#) :
-w ˌo l w ˈe 
-*#wolwˈe# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#βolβˈe# | 87 : w > β / __ ( [-cons] ( @ )* ) #
-*#βolβˈɛ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#volβˈɛ# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#volbˈɛ# | 141 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#volbˈɛ#
-*#volbˈe# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#volbˈɛ# | 189 : [+syl,-hi,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#volbˈɛɑ# | 206 : ∅ > ɑ / [-tense] __
-*#volbˈeˈɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#volbe̯ˈɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#volbe̯ˈɑ#
-Old Romanian stage form : *#volbe̯ˈɑ#
-Final form : *#volbe̯ˈɑ#
+#ˌɑdwˈiks# >>> *#ɑbˈi# ( GOLD : #ɑbˈi#) :
+ˌɑ d w ˈi k s 
+*#ɑdwˈiks# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑwwˈiks# | 38 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
+*#ɑββˈiks# | 87 : w > β / __ ( [-cons] ( @ )* ) #
+*#ɑββˈips# | 103 : k > p / [+syl,+stres,!αround,αhi] __ s
+*#ɑββˈis# | 106 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
+*#ɑββˈiːs# | 120 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#ɑβbˈiːs# | 141 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#ɑbˈiːs# | 145 : β > ∅ 
+*#ɑbˈis# | 156 : [+syl] > [-long,-splng] 
+*#ɑbˈij# | 161 : s > j / [+stres] __ #
+Balkan Romance stage form : *#ɑbˈij#
+Common Romanian stage form : *#ɑbˈij#
+*#ɑbˈi# | 265 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+Old Romanian stage form : *#ɑbˈi#
+Final form : *#ɑbˈi#

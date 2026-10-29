@@ -1,12 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1043:
-#sˌubtus# >>> *#sub# ( GOLD : #sub#) :
-s ˌu b t u s 
-*#subtus# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#subtu# | 162 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#subtu#
-Common Romanian stage form : *#subtu#
-*#subtw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#subt# | 296 : w̥ > ∅ / [-syl] __ #
-*#sub# | 301 : [-cont,αvoi] > ∅ / [-cont,!αvoi] __ #
-Old Romanian stage form : *#sub#
-Final form : *#sub#
+#tɑrdˈiːwum# >>> *#tɨrzˈiw# ( GOLD : #tɨrzˈiw#) :
+t ɑ r d ˈiː w u m 
+*#tɑrdˈiːwu# | 44 : m > ∅ / [-stres] __ #
+*#tɑrdˈiːβu# | 87 : w > β / __ ( [-cons] ( @ )* ) #
+*#tɑrdˈiːu# | 145 : β > ∅ 
+*#tɑrdˈiu# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tɑrdˈiu#
+*#tɑrdˈiw# | 183 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+*#tɑrdjˈiw# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#tɑrdʲjˈiw# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tɑrdʲˈiw# | 199 : j > ∅ / [+cons,+front] __
+*#tərdʲˈiw# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
+*#tərd͡zʲˈiw# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#tərd͡zˈiw# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#tərd͡zˈiw#
+*#tɨrd͡zˈiw# | 285 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
+*#tɨrzˈiw# | 287 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Old Romanian stage form : *#tɨrzˈiw#
+Final form : *#tɨrzˈiw#

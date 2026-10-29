@@ -1,15 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1340:
-#ˌinter# >>> *#ɨntre# ( GOLD : #ɨntre#) :
-ˌi n t e r 
-*#inter# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#intre# | 88 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
-*#entre# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#entre#
-*#entɾe# | 163 : r > ɾ / __ [nnas,ncons]
-*#ɑntɾe# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#əntɾe# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#əntɾe#
-*#əntre# | 275 : ɾ > r 
-*#ɨntre# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨntre#
-Final form : *#ɨntre#
+#dˈorsum# >>> *#dˈos# ( GOLD : #dˈos#) :
+d ˈo r s u m 
+*#dˈorsu# | 44 : m > ∅ / [-stres] __ #
+*#dˈossu# | 101 : r > s / [+cor] ( [-cons] )* __ s
+*#dˈosu# | 146 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#dˈosu#
+Common Romanian stage form : *#dˈosu#
+*#dˈosw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dˈos# | 295 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dˈos#
+Final form : *#dˈos#

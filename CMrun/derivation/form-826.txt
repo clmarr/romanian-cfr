@@ -1,26 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 826:
-#ˌoe̯strˈikulɑm# >>> *#strˈekje# ( GOLD : #strˈekje#) :
-ˌo e̯ s t r ˈi k u l ɑ m 
-*#ˌojstrˈikulɑm# | 20 : e̯ > j 
-*#ojstrˈikulɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eːstrˈikulɑm# | 43 : {o j;ˈo j} > {eː;ˈeː} / __ [+cons]
-*#eːstrˈikulɑ# | 44 : m > ∅ / [-stres] __ #
-*#eːstrˈiklɑ# | 60 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#eːstrˈeklɑ# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#estrˈeklɑ# | 156 : [+syl] > [-long,-splng] 
-*#strˈeklɑ# | 157 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#strˈeklɑ#
-*#stɾˈeklɑ# | 163 : r > ɾ / __ [nnas,ncons]
-*#stɾˈɛklɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#stɾˈɛɑklɑ# | 206 : ∅ > ɑ / [-tense] __
-*#stɾˈeˈɑklɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#stɾe̯ˈɑklɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#stɾe̯ˈɑklə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#stɾe̯ˈɑkʎə# | 218 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#stɾe̯ˈɑkʎə#
-*#stɾe̯ˈɑkʎe# | 252 : ə > e / [+cons,+front,+son] __
-*#stɾˈekʎe# | 263 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#strˈekʎe# | 275 : ɾ > r 
-*#strˈekje# | 279 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#strˈekje#
-Final form : *#strˈekje#
+#pˈuːlikem# >>> *#pˈurit͡ʃe# ( GOLD : #pˈurit͡ʃe#) :
+p ˈuː l i k e m 
+*#pˈuːlike# | 44 : m > ∅ / [-stres] __ #
+*#pˈuːleke# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#pˈuːlekʲe# | 153 : [-cont,+back] > [+front] / __ [-cons,+front]
+*#pˈulekʲe# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pˈulekʲe#
+*#pˈuɾekʲe# | 182 : l > ɾ / [+syl] __ [+syl]
+*#pˈuɾec͡ɕe# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#pˈuɾet͡ʃe# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#pˈuɾet͡ʃe#
+*#pˈuret͡ʃe# | 274 : ɾ > r 
+*#pˈurit͡ʃe# | 309 : e > i / [+lab] [+cons,+voi,-front] __ [+cor,-voi] [+syl,-hi]
+Old Romanian stage form : *#pˈurit͡ʃe#
+Final form : *#pˈurit͡ʃe#

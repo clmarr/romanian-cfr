@@ -1602,8 +1602,9 @@ $ R57 [yea] > [ya]
 		$ This change always occurs when preceded by a word boundary.
 		$ It also occurs in novellam>nuia, so including [u] in the conditioning here, although it is a bit clunky.
 			e̯ > ∅ / # ((@)* u) j __ [+syl,+lo]
-		$ When not preceded by a word boundary, this change only occurs between a labial and a CR cluster.
-			e̯ > ∅ / [+lab] j __ [+syl,+lo] [+cons] [+cons,+son,-nas]
+		$ When not preceded by a word boundary, this change only occurs between a labial and an intervocalic coronal sequence
+				$piatră, miază, cămașă, arguably pâță-- but not veaspă (with labial)
+			e̯ > ∅ / [+lab] (j) __ [+syl,+lo] ([+cor])+ [+syl]
 		$ [j] gets deleted instead in other cases. CM 9/18/26 -- only after consonants, also happens to ʎ 
 			[+front,+son,-syl] > ∅ / [+cons] (ə) __ e̯ [+syl,+lo]
 	$ CM 9/18/26 -- moved back here -- consider further consolidations. 
@@ -1619,7 +1620,7 @@ $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 $ NEW RULE: [e̯ˈɑ] > [ˈɑ] in words of shape [αcont]e̯ˈɑ[-αcont]ə
 	$ Doesn't happen in ceram>ceară; could be a matter of how we're transcribing <ceV>?
 			$ CMː -- its because there are separate criteria for after stridents. (moved)
-		e̯ > ∅ / # [+cons,αcont,-strid] __ ˈɑ [+cons,-αcont] ə #
+		$ SUPPRESSED -- no accurate domain .e̯ > ∅ / # [+cons,αcont,-strid] __ ˈɑ [+cons,-αcont] ə #
 			$ for stridents: limited to after t͡s and d͡z, and before voiced coronals (TODO why though?)
 		e̯ > ∅ / [+delrel,-distr] __ ˈɑ [+voi,+cor]
 

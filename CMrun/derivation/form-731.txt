@@ -1,11 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 731:
-#mˌorsikˈɑː# >>> *#mursekˈɑ# ( GOLD : #mursekˈɑ#) :
-m ˌo r s i k ˈɑː 
-*#morsikˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#morsekˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#morsekˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#morsekˈɑ#
-*#mursekˈɑ# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#mursekˈɑ#
-Old Romanian stage form : *#mursekˈɑ#
-Final form : *#mursekˈɑ#
+#rˈɑɡe# >>> *#rˈɑd͡ʒe# ( GOLD : #rˈɑd͡ʒe#) :
+r ˈɑ ɡ e 
+*#rˈɑɡʲe# | 153 : [-cont,+back] > [+front] / __ [-cons,+front]
+Balkan Romance stage form : *#rˈɑɡʲe#
+*#ɾˈɑɡʲe# | 163 : r > ɾ / __ [nnas,ncons]
+*#rɾˈɑɡʲe# | 164 : ∅ > r / # __ ɾ
+*#rɾˈɑɟ͡ʑe# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rɾˈɑd͡ʒe# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#rˈɑd͡ʒe# | 227 : {ɾ;r} > {∅;∅} / r __
+Common Romanian stage form : *#rˈɑd͡ʒe#
+Old Romanian stage form : *#rˈɑd͡ʒe#
+Final form : *#rˈɑd͡ʒe#

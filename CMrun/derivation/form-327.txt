@@ -1,14 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 327:
-#pˌɑːɡˈɑːnum# >>> *#pəɡˈɨn# ( GOLD : #pəɡˈɨn#) :
-p ˌɑː ɡ ˈɑː n u m 
-*#pɑːɡˈɑːnum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pɑːɡˈɑːnu# | 44 : m > ∅ / [-stres] __ #
-*#pɑɡˈɑnu# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pɑɡˈɑnu#
-*#pɑɡˈɨnu# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#pəɡˈɨnu# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pəɡˈɨnu#
-*#pəɡˈɨnw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pəɡˈɨn# | 296 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pəɡˈɨn#
-Final form : *#pəɡˈɨn#
+#pˈektinɑt# >>> *#pjˈeptənə# ( GOLD : #pjˈeptənə#) :
+p ˈe k t i n ɑ t 
+*#pˈektinɑ# | 83 : [+cons,-cont] > ∅ / __ #
+*#pˈeptinɑ# | 102 : k > p / __ t
+*#pˈɛptinɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛptenɑ# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛptenɑ#
+*#pjˈɛptenɑ# | 172 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈeptenɑ# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛptenɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛɑptenɑ# | 206 : ∅ > ɑ / [-tense] __
+*#pjˈeˈɑptenɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈɑptenɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#pje̯ˈɑptenə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#pje̯ˈɑptenə#
+*#pjˈeptenə# | 263 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#pjˈeptənə# | 264 : [+front,+syl] > [-hi,-front,0tense] / # ( ( @ )* [+syl,-round] ( ɾ ) ) [+lab,+cons] ( t ) __ n [+syl,-round,-hi]
+*#pjˈeptɨnə# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#pjˈeptənə# | 282 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
+Old Romanian stage form : *#pjˈeptənə#
+Final form : *#pjˈeptənə#

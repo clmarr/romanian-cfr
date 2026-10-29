@@ -1,16 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 817:
-#kˌɑwˈoːnem# >>> *#ɡəˈun# ( GOLD : #ɡəˈun#) :
-k ˌɑ w ˈoː n e m 
-*#kɑwˈoːnem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kɑwˈoːne# | 44 : m > ∅ / [-stres] __ #
-*#kɑβˈoːne# | 87 : w > β / __ ( [-cons] ( @ )* ) #
-*#kɑˈoːne# | 145 : β > ∅ 
-*#ɡɑˈoːne# | 147 : k > ɡ / # ( ( e ) s ) __ [+syl,+back] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
-*#ɡɑˈone# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɡɑˈone#
-*#ɡɑˈune# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ɡəˈune# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɡəˈun# | 224 : e > ∅ / [+syl] [+prim] [+cons] __ #
-Common Romanian stage form : *#ɡəˈun#
-Old Romanian stage form : *#ɡəˈun#
-Final form : *#ɡəˈun#
+#flˈuktul# >>> *#flˈuture# ( GOLD : #flˈuture#) :
+f l ˈu k t u l 
+*#flˈuktule# | 85 : ∅ > e / l __ #
+*#flˈuptule# | 102 : k > p / __ t
+*#flˈutule# | 106 : p > ∅ / [+lab] ( l ) [+syl,+hi,-long] __ [+cons]
+Balkan Romance stage form : *#flˈutule#
+*#flˈutuɾe# | 182 : l > ɾ / [+syl] __ [+syl]
+Common Romanian stage form : *#flˈutuɾe#
+*#flˈuture# | 274 : ɾ > r 
+Old Romanian stage form : *#flˈuture#
+Final form : *#flˈuture#

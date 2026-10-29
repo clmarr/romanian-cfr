@@ -1,12 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 37:
-#ˌɑdiˌektˈɑː# >>> *#ɑjeptˈɑ# ( GOLD : #ɑjeptˈɑ#) :
-ˌɑ d i ˌe k t ˈɑː 
-*#ˌɑdjˌektˈɑː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ɑdjektˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑjektˈɑː# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
-*#ɑjeptˈɑː# | 102 : k > p / __ t
-*#ɑjeptˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑjeptˈɑ#
-Common Romanian stage form : *#ɑjeptˈɑ#
-Old Romanian stage form : *#ɑjeptˈɑ#
-Final form : *#ɑjeptˈɑ#
+#ˌɑdiˈuːnum# >>> *#ɑʒˈun# ( GOLD : #ɑʒˈun#) :
+ˌɑ d i ˈuː n u m 
+*#ˌɑdjˈuːnum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɑdjˈuːnum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑjˈuːnum# | 39 : d > ∅ / [+syl,+lo] __ [-syl]
+*#ɑjˈuːnu# | 44 : m > ∅ / [-stres] __ #
+*#ɑdjˈuːnu# | 53 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#ɑdʲˈuːnu# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɑɡʲˈuːnu# | 129 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɑɡʲˈunu# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɑɡʲˈunu#
+*#ɑɟ͡ʑˈunu# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ɑd͡ʒˈunu# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ɑd͡ʒˈunu#
+*#ɑʒˈunu# | 288 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+*#ɑʒˈunw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɑʒˈun# | 295 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɑʒˈun#
+Final form : *#ɑʒˈun#

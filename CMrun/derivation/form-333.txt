@@ -1,20 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 333:
-#inkˌommˈitte# >>> *#ɨnkumˈete# ( GOLD : #ɨnkumˈete#) :
-i n k ˌo m m ˈi t t e 
-*#inkommˈitte# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enkommˈette# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkommˈete# | 146 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#enkommˈete#
-*#ɑnkommˈete# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnkummˈete# | 177 : o > u / __ [+lab,+cont,+cons]
-*#ɑnkummˈɛte# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ɑnkumˈɛte# | 196 : {l l;m m} > {l;m} 
-*#ɑnkumˈɛɑte# | 206 : ∅ > ɑ / [-tense] __
-*#ɑnkumˈeˈɑte# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɑnkume̯ˈɑte# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ənkume̯ˈɑte# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ənkume̯ˈɑte#
-*#ənkumˈete# | 263 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#ɨnkumˈete# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnkumˈete#
-Final form : *#ɨnkumˈete#
+#dolˈeː# >>> *#dure̯ˈɑ# ( GOLD : #dure̯ˈɑ#) :
+d o l ˈeː 
+*#dolˈe# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dolˈe#
+*#dulˈe# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#duɾˈe# | 182 : l > ɾ / [+syl] __ [+syl]
+*#duɾˈɛ# | 189 : [+syl,-hi,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
+*#duɾˈɛɑ# | 206 : ∅ > ɑ / [-tense] __
+*#duɾˈeˈɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#duɾe̯ˈɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#duɾe̯ˈɑ#
+*#dure̯ˈɑ# | 274 : ɾ > r 
+Old Romanian stage form : *#dure̯ˈɑ#
+Final form : *#dure̯ˈɑ#

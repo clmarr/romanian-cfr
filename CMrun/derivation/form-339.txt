@@ -1,18 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 339:
-#ˌekspˌɑwiːmentˈɑː# >>> *#spemɨntˈɑ# ( GOLD : #spəjmɨntˈɑ#) :
-ˌe k s p ˌɑ w iː m e n t ˈɑː 
-*#ekspɑwiːmentˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekspɑβiːmentˈɑː# | 87 : w > β / __ ( [-cons] ( @ )* ) #
-*#espɑβiːmentˈɑː# | 98 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espɑiːmentˈɑː# | 145 : β > ∅ 
-*#espɑmentˈɑː# | 149 : [+syl,-stres] > ∅ / ɑ __
-*#espɑmentˈɑ# | 156 : [+syl] > [-long,-splng] 
-*#spɑmentˈɑ# | 157 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#spɑmentˈɑ#
-*#spəmentˈɑ# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#spəmintˈɑ# | 242 : [+syl,+front] > [+hi] / __ n [+cons]
-Common Romanian stage form : *#spəmintˈɑ#
-*#spemintˈɑ# | 276 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,ifront,!iback] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
-*#spemɨntˈɑ# | 287 : [+syl,+hi] > [-front] / [+lab,+cons] __ n ( [-prim] ) [-cont,+ant] [+syl,-front]
-Old Romanian stage form : *#spemɨntˈɑ#
-Final form : *#spemɨntˈɑ#
+#fˌeːlˈiːkem# >>> *#ferˈit͡ʃe# ( GOLD : #ferˈit͡ʃe#) :
+f ˌeː l ˈiː k e m 
+*#feːlˈiːkem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#feːlˈiːke# | 44 : m > ∅ / [-stres] __ #
+*#feːlˈiːkʲe# | 153 : [-cont,+back] > [+front] / __ [-cons,+front]
+*#felˈikʲe# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#felˈikʲe#
+*#feɾˈikʲe# | 182 : l > ɾ / [+syl] __ [+syl]
+*#feɾˈic͡ɕe# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#feɾˈit͡ʃe# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#feɾˈit͡ʃe#
+*#ferˈit͡ʃe# | 274 : ɾ > r 
+Old Romanian stage form : *#ferˈit͡ʃe#
+Final form : *#ferˈit͡ʃe#

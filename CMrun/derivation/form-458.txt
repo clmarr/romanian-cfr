@@ -1,21 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 458:
-#infɑskiolˈɑː# >>> *#ɨnfəʃurˈɑ# ( GOLD : #ɨnfəʃurˈɑ#) :
-i n f ɑ s k i o l ˈɑː 
-*#infɑskjolˈɑː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#infɑstʲolˈɑː# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enfɑstʲolˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#enfɑsʲolˈɑː# | 128 : s [-cont,+front] > sʲ
-*#enfɑsʲolˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enfɑsʲolˈɑ#
-*#ɑnfɑsʲolˈɑ# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnfɑsʲulˈɑ# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ɑnfɑsʲuɾˈɑ# | 182 : l > ɾ / [+syl] __ [+syl]
-*#ɑnfɑɕuɾˈɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ənfɑɕuɾˈɑ# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənfəɕuɾˈɑ# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənfəʃuɾˈɑ# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənfəʃuɾˈɑ#
-*#ənfəʃurˈɑ# | 275 : ɾ > r 
-*#ɨnfəʃurˈɑ# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnfəʃurˈɑ#
-Final form : *#ɨnfəʃurˈɑ#
+#sˌubmˈitte# >>> *#sumˈete# ( GOLD : #sumˈete#) :
+s ˌu b m ˈi t t e 
+*#submˈitte# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#suβmˈitte# | 122 : b > β / [-cons] __ [+cont]
+*#suβmˈette# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#suwmˈette# | 142 : β > w / [-cons] __ [+son,+cons]
+*#suwmˈete# | 146 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#suwmˈete#
+*#sumˈete# | 184 : w > ∅ / [+syl,+hi,+back] __ @
+*#sumˈɛte# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sumˈɛɑte# | 206 : ∅ > ɑ / [-tense] __
+*#sumˈeˈɑte# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#sume̯ˈɑte# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#sume̯ˈɑte#
+*#sumˈete# | 263 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Old Romanian stage form : *#sumˈete#
+Final form : *#sumˈete#

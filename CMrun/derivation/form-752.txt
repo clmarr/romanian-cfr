@@ -1,23 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 752:
-#iˌuwˈenkɑm# >>> *#ʒˈunkə# ( GOLD : #ʒˈunkə#) :
-i ˌu w ˈe n k ɑ m 
-*#jˌuwˈenkɑm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#juwˈenkɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#jˈuwenkɑm# | 33 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] [-stres,-prim,+syl,+son]
-*#jˈuwenkɑ# | 44 : m > ∅ / [-stres] __ #
-*#djˈuwenkɑ# | 52 : j > d j / # __ [+syl] [-syl]
-*#dʲˈuwenkɑ# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲˈuβenkɑ# | 87 : w > β / __ ( [-cons] ( @ )* ) #
-*#ɡʲˈuβenkɑ# | 129 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲˈuwɑnkɑ# | 133 : β [+front,-hi,-prim] > w [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel]/ @ [+syl,+round] __
-Balkan Romance stage form : *#ɡʲˈuwɑnkɑ#
-*#ɡʲˈuɑnkɑ# | 184 : w > ∅ / [+syl,+hi,+back] __ @
-*#ɡʲˈuənkɑ# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ɡʲˈuənkə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɟ͡ʑˈuənkə# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈuənkə# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-*#d͡ʒˈunkə# | 234 : ə > ∅ / [+syl] __ [anas,acont]
-Common Romanian stage form : *#d͡ʒˈunkə#
-*#ʒˈunkə# | 289 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Old Romanian stage form : *#ʒˈunkə#
-Final form : *#ʒˈunkə#
+#ˈowem# >>> *#o̯ˈɑje# ( GOLD : #o̯ˈɑje#) :
+ˈo w e m 
+*#ˈowe# | 44 : m > ∅ / [-stres] __ #
+*#ˈoβe# | 87 : w > β / __ ( [-cons] ( @ )* ) #
+*#ˈoe# | 145 : β > ∅ 
+*#ˈoje# | 152 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
+Balkan Romance stage form : *#ˈoje#
+*#ˈɔje# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔɑje# | 206 : ∅ > ɑ / [-tense] __
+*#ˈoˈɑje# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈɑje# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#o̯ˈɑje#
+Old Romanian stage form : *#o̯ˈɑje#
+Final form : *#o̯ˈɑje#

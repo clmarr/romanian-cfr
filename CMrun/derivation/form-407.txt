@@ -1,19 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 407:
-#lˌɑnɡwˈeːskoː# >>> *#lɨnd͡ʒˈesk# ( GOLD : #lɨnd͡ʒˈesk#) :
-l ˌɑ n ɡ w ˈeː s k oː 
-*#lɑnɡwˈeːskoː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#lɑnɡβˈeːskoː# | 87 : w > β / __ ( [-cons] ( @ )* ) #
-*#lɑnɡˈeːskoː# | 145 : β > ∅ 
-*#lɑnɡʲˈeːskoː# | 153 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#lɑnɡʲˈesko# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#lɑnɡʲˈesko#
-*#lɑnɡʲˈesku# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#lənɡʲˈesku# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#lənɟ͡ʑˈesku# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#lənd͡ʒˈesku# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#lənd͡ʒˈesku#
-*#lɨnd͡ʒˈesku# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#lɨnd͡ʒˈeskw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#lɨnd͡ʒˈesk# | 296 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#lɨnd͡ʒˈesk#
-Final form : *#lɨnd͡ʒˈesk#
+#lˌɑnɡwˈoːrem# >>> *#lɨnɡo̯ˈɑre# ( GOLD : #lɨnɡo̯ˈɑre#) :
+l ˌɑ n ɡ w ˈoː r e m 
+*#lɑnɡwˈoːrem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#lɑnɡwˈoːre# | 44 : m > ∅ / [-stres] __ #
+*#lɑnɡβˈoːre# | 87 : w > β / __ ( [-cons] ( @ )* ) #
+*#lɑnɡˈoːre# | 145 : β > ∅ 
+*#lɑnɡˈore# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lɑnɡˈore#
+*#lɑnɡˈoɾe# | 163 : r > ɾ / __ [nnas,ncons]
+*#lɑnɡˈɔɾe# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#lɑnɡˈɔɑɾe# | 206 : ∅ > ɑ / [-tense] __
+*#lɑnɡˈoˈɑɾe# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#lɑnɡo̯ˈɑɾe# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#lənɡo̯ˈɑɾe# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Common Romanian stage form : *#lənɡo̯ˈɑɾe#
+*#lənɡo̯ˈɑre# | 274 : ɾ > r 
+*#lɨnɡo̯ˈɑre# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#lɨnɡo̯ˈɑre#
+Final form : *#lɨnɡo̯ˈɑre#

@@ -1,25 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 594:
-#hˌibˈernɑm# >>> *#jˈɑrnə# ( GOLD : #jˈɑrnə#) :
-h ˌi b ˈe r n ɑ m 
-*#hibˈernɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ibˈernɑm# | 41 : [-son,-cons] > ∅ 
-*#ibˈernɑ# | 44 : m > ∅ / [-stres] __ #
-*#ibˈɛrnɑ# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#iβˈɛrnɑ# | 122 : b > β / [-cons] __ [+cont]
-*#eβˈɛrnɑ# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#eˈɛrnɑ# | 145 : β > ∅ 
-Balkan Romance stage form : *#eˈɛrnɑ#
-*#eˈɛɾnɑ# | 163 : r > ɾ / __ [nnas,ncons]
-*#ejˈɛɾnɑ# | 171 : ∅ > j / [+syl] __ [-cons,-tense,+prim]
-*#ejˈeɾnɑ# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ejˈɛɾnɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ejˈɛɑɾnɑ# | 206 : ∅ > ɑ / [-tense] __
-*#ejˈeˈɑɾnɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#eje̯ˈɑɾnɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#eje̯ˈɑɾnə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#je̯ˈɑɾnə# | 237 : e > ∅ / # __ [-syl] ( [-cons] ) [+syl] ( [-syl] )* [+syl]
-Common Romanian stage form : *#je̯ˈɑɾnə#
-*#jˈɑɾnə# | 270 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
-*#jˈɑrnə# | 275 : ɾ > r 
-Old Romanian stage form : *#jˈɑrnə#
-Final form : *#jˈɑrnə#
+#pɑwiːmˈentum# >>> *#pəmˈɨnt# ( GOLD : #pəmˈɨnt#) :
+p ɑ w iː m ˈe n t u m 
+*#pɑwiːmˈentu# | 44 : m > ∅ / [-stres] __ #
+*#pɑβiːmˈentu# | 87 : w > β / __ ( [-cons] ( @ )* ) #
+*#pɑβiːmˈɛntu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pɑiːmˈɛntu# | 145 : β > ∅ 
+*#pɑmˈɛntu# | 149 : [+syl,-stres] > ∅ / ɑ __
+Balkan Romance stage form : *#pɑmˈɛntu#
+*#pɑmˈentu# | 170 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#pəmˈentu# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
+*#pəmˈintu# | 242 : [+syl,+front] > [+hi] / __ n [+cons]
+Common Romanian stage form : *#pəmˈintu#
+*#pəmˈɨntu# | 286 : [+syl,+hi] > [-front] / [+lab,+cons] __ n ( [-prim] ) [-cont,+ant] [+syl,-front]
+*#pəmˈɨntw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#pəmˈɨnt# | 295 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pəmˈɨnt#
+Final form : *#pəmˈɨnt#

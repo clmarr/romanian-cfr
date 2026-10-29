@@ -1,12 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 128:
-#eksmˈultum# >>> *#smˈult# ( GOLD : #smˈult#) :
-e k s m ˈu l t u m 
-*#eksmˈultu# | 44 : m > ∅ / [-stres] __ #
-*#esmˈultu# | 98 : [-cont] > ∅ / __ [+strid] [+cons]
-*#smˈultu# | 158 : e > ∅ / # __ [+ant,-nas] [+cons,+cont,-strid]
-Balkan Romance stage form : *#smˈultu#
-Common Romanian stage form : *#smˈultu#
-*#smˈultw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#smˈult# | 296 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#smˈult#
-Final form : *#smˈult#
+#ˌeːrikium# >>> *#rət͡ʃ# ( GOLD : #ˈɑrit͡ʃ#) :
+ˌeː r i k i u m 
+*#ˌeːrikjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#eːrikjum# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑːrikjum# | 37 : eː > ɑː / # __ ( [+cons] )* [+hi]
+*#rikjum# | 40 : [+syl,-prim] > ∅ / # __ [+son] i
+*#rikju# | 44 : m > ∅ / [-stres] __ #
+*#ritʲu# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#retʲu# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#rekʲu# | 129 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+Balkan Romance stage form : *#rekʲu#
+*#ɾekʲu# | 163 : r > ɾ / __ [nnas,ncons]
+*#rɾekʲu# | 164 : ∅ > r / # __ ɾ
+*#rɾec͡ɕu# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rɾet͡ʃu# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#ret͡ʃu# | 227 : {ɾ;r} > {∅;∅} / r __
+*#rət͡ʃu# | 228 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Common Romanian stage form : *#rət͡ʃu#
+*#rət͡ʃw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rət͡ʃ# | 295 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rət͡ʃ#
+Final form : *#rət͡ʃ#

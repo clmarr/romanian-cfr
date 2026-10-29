@@ -1,13 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 94:
-#dˌiskˌɑrrikˈɑː# >>> *#deskərkˈɑ# ( GOLD : #deskərkˈɑ#) :
-d ˌi s k ˌɑ r r i k ˈɑː 
-*#diskɑrrikˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#diskɑrrkˈɑː# | 65 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
-*#deskɑrrkˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#deskɑrrkˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#deskɑrrkˈɑ#
-*#deskərrkˈɑ# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#deskərkˈɑ# | 227 : {ɾ;r} > {∅;∅} / r __
-Common Romanian stage form : *#deskərkˈɑ#
-Old Romanian stage form : *#deskərkˈɑ#
-Final form : *#deskərkˈɑ#
+#dˌolˈoːrem# >>> *#duro̯ˈɑre# ( GOLD : #duro̯ˈɑre#) :
+d ˌo l ˈoː r e m 
+*#dolˈoːrem# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#dolˈoːre# | 44 : m > ∅ / [-stres] __ #
+*#dolˈore# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dolˈore#
+*#dolˈoɾe# | 163 : r > ɾ / __ [nnas,ncons]
+*#dulˈoɾe# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#duɾˈoɾe# | 182 : l > ɾ / [+syl] __ [+syl]
+*#duɾˈɔɾe# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#duɾˈɔɑɾe# | 206 : ∅ > ɑ / [-tense] __
+*#duɾˈoˈɑɾe# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#duɾo̯ˈɑɾe# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#duɾo̯ˈɑɾe#
+*#duro̯ˈɑre# | 274 : ɾ > r 
+Old Romanian stage form : *#duro̯ˈɑre#
+Final form : *#duro̯ˈɑre#

@@ -1,20 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 161:
-#ˌinwˌitiˈɑː# >>> *#ɨnvət͡sˈɑ# ( GOLD : #ɨnvət͡sˈɑ#) :
-ˌi n w ˌi t i ˈɑː 
-*#ˌinwˌitjˈɑː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inwitjˈɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inwitʲˈɑː# | 56 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#inβitʲˈɑː# | 87 : w > β / __ ( [-cons] ( @ )* ) #
-*#enβetʲˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#envetʲˈɑː# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#envetʲˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#envetʲˈɑ#
-*#ɑnvetʲˈɑ# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənvetʲˈɑ# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənvet͡sʲˈɑ# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənvet͡sˈɑ# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənvet͡sˈɑ#
-*#ənvət͡sˈɑ# | 248 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#ɨnvət͡sˈɑ# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnvət͡sˈɑ#
-Final form : *#ɨnvət͡sˈɑ#
+#iɡnˈɑːrium# >>> *#ɑmnˈɑr# ( GOLD : #ɑmnˈɑr#) :
+i ɡ n ˈɑː r i u m 
+*#iɡnˈɑːrjum# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#iŋnˈɑːrjum# | 21 : ɡ > ŋ / __ n
+*#iŋnˈɑːrju# | 44 : m > ∅ / [-stres] __ #
+*#imnˈɑːrju# | 105 : ŋ > m 
+*#emnˈɑːrju# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#emnˈɑrju# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#emnˈɑrju#
+*#emnˈɑɾju# | 163 : r > ɾ / __ [nnas,ncons]
+*#ɑmnˈɑɾju# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑmnˈɑɾʲju# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɑmnˈɑɾʲu# | 199 : j > ∅ / [+cons,+front] __
+Common Romanian stage form : *#ɑmnˈɑɾʲu#
+*#ɑmnˈɑjɾu# | 254 : ɾʲ > j ɾ 
+*#ɑmnˈɑjru# | 274 : ɾ > r 
+*#ɑmnˈɑjrw̥# | 292 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɑmnˈɑjr# | 295 : w̥ > ∅ / [-syl] __ #
+*#ɑmnˈɑr# | 302 : j > ∅ / __ r
+Old Romanian stage form : *#ɑmnˈɑr#
+Final form : *#ɑmnˈɑr#

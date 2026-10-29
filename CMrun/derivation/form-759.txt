@@ -1,17 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 759:
-#pˌorkˈiːnɑm# >>> *#purt͡ʃˈinə# ( GOLD : #purt͡ʃˈinə#) :
-p ˌo r k ˈiː n ɑ m 
-*#porkˈiːnɑm# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈiːnɑ# | 44 : m > ∅ / [-stres] __ #
-*#porkʲˈiːnɑ# | 153 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#porkʲˈinɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#porkʲˈinɑ#
-*#purkʲˈinɑ# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purkʲjˈinɑ# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#purkʲˈinɑ# | 199 : j > ∅ / [+cons,+front] __
-*#purkʲˈinə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#purc͡ɕˈinə# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#purt͡ʃˈinə# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#purt͡ʃˈinə#
-Old Romanian stage form : *#purt͡ʃˈinə#
-Final form : *#purt͡ʃˈinə#
+#skrˈoːfɑm# >>> *#skro̯ˈɑfə# ( GOLD : #skro̯ˈɑfə#) :
+s k r ˈoː f ɑ m 
+*#skrˈoːfɑ# | 44 : m > ∅ / [-stres] __ #
+*#iskrˈoːfɑ# | 111 : ∅ > i / # __ s [+cons,-son]
+*#eskrˈoːfɑ# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskrˈofɑ# | 156 : [+syl] > [-long,-splng] 
+*#skrˈofɑ# | 157 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#skrˈofɑ#
+*#skɾˈofɑ# | 163 : r > ɾ / __ [nnas,ncons]
+*#skɾˈɔfɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#skɾˈɔɑfɑ# | 206 : ∅ > ɑ / [-tense] __
+*#skɾˈoˈɑfɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#skɾo̯ˈɑfɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#skɾo̯ˈɑfə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#skɾo̯ˈɑfə#
+*#skro̯ˈɑfə# | 274 : ɾ > r 
+Old Romanian stage form : *#skro̯ˈɑfə#
+Final form : *#skro̯ˈɑfə#

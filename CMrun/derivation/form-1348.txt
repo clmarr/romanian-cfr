@@ -1,14 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1348:
-#kˈoksɑm# >>> *#ko̯ˈɑpsə# ( GOLD : #ko̯ˈɑpsə#) :
-k ˈo k s ɑ m 
-*#kˈoksɑ# | 44 : m > ∅ / [-stres] __ #
-*#kˈopsɑ# | 103 : k > p / [+syl,+stres,!αround,αhi] __ s
-Balkan Romance stage form : *#kˈopsɑ#
-*#kˈɔpsɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kˈɔɑpsɑ# | 206 : ∅ > ɑ / [-tense] __
-*#kˈoˈɑpsɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ko̯ˈɑpsɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ko̯ˈɑpsə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ko̯ˈɑpsə#
-Old Romanian stage form : *#ko̯ˈɑpsə#
-Final form : *#ko̯ˈɑpsə#
+#pˈektinem# >>> *#pjˈeptɨne# ( GOLD : #pjˈeptene#) :
+p ˈe k t i n e m 
+*#pˈektine# | 44 : m > ∅ / [-stres] __ #
+*#pˈeptine# | 102 : k > p / __ t
+*#pˈɛptine# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɛptene# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#pˈɛptene#
+*#pjˈɛptene# | 172 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈeptene# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛptene# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛɑptene# | 206 : ∅ > ɑ / [-tense] __
+*#pjˈeˈɑptene# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈɑptene# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Common Romanian stage form : *#pje̯ˈɑptene#
+*#pjˈeptene# | 263 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#pjˈeptəne# | 264 : [+front,+syl] > [-hi,-front,0tense] / # ( ( @ )* [+syl,-round] ( ɾ ) ) [+lab,+cons] ( t ) __ n [+syl,-round,-hi]
+*#pjˈeptɨne# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#pjˈeptɨne#
+Final form : *#pjˈeptɨne#

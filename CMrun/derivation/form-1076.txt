@@ -1,21 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1076:
-#sˈedeːt# >>> *#ʃˈɑde# ( GOLD : #ʃˈede#) :
-s ˈe d eː t 
-*#sˈedeː# | 83 : [+cons,-cont] > ∅ / __ #
-*#sˈɛdeː# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛde# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#sˈɛde#
-*#sjˈɛde# | 172 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#sjˈede# | 175 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛde# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#sʲjˈɛde# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#sʲˈɛde# | 199 : j > ∅ / [+cons,+front] __
-*#ɕˈɛde# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɕˈɛɑde# | 206 : ∅ > ɑ / [-tense] __
-*#ɕˈeˈɑde# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɕe̯ˈɑde# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ʃe̯ˈɑde# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃe̯ˈɑde#
-*#ʃˈɑde# | 262 : e̯ ˈɑ > ˈɑ / ʃ __
-Old Romanian stage form : *#ʃˈɑde#
-Final form : *#ʃˈɑde#
+#tiːnˈeː# >>> *#t͡sine̯ˈɑ# ( GOLD : #t͡sine̯ˈɑ#) :
+t iː n ˈeː 
+*#tinˈe# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#tinˈe#
+*#tinˈɛ# | 189 : [+syl,-hi,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
+*#tjinˈɛ# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#tʲjinˈɛ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#tʲinˈɛ# | 199 : j > ∅ / [+cons,+front] __
+*#tʲinˈɛɑ# | 206 : ∅ > ɑ / [-tense] __
+*#tʲinˈeˈɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#tʲine̯ˈɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#t͡sʲine̯ˈɑ# | 220 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡sine̯ˈɑ# | 221 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#t͡sine̯ˈɑ#
+Old Romanian stage form : *#t͡sine̯ˈɑ#
+Final form : *#t͡sine̯ˈɑ#
