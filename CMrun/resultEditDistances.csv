@@ -18,7 +18,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 16,*/ɑməd͡ʒˈi/,/ɑməd͡ʒˈi/,0,0.0,0.0,5,5
 17,*/ɑmənət͡sˈɑ/,/ɑmenint͡sˈɑ/,3,0.375,0.7115384615384616,7,8
 18,*/ɑninˈɑ/,/ɑninˈɑ/,0,0.0,0.0,5,5
-19,*/ɑzˈij/,/ɑdˈij/,1,0.25,0.09615384615384616,4,4
+19,*/ɑdˈij/,/ɑdˈij/,0,0.0,0.0,4,4
 20,*/ɑdormˈi/,/ɑdormˈi/,0,0.0,0.0,6,6
 21,*/ɑplekˈɑ/,/ɑplekˈɑ/,0,0.0,0.0,6,6
 22,*/ɑpˈune/,/ɑpˈune/,0,0.0,0.0,5,5
@@ -600,7 +600,7 @@ ID,CFR_prediction,gold,rawLevenshteinED,phonemewiseLevenshteinED,featureED,pred_
 612,*/munt͡ʃˈel/,/munt͡ʃˈel/,0,0.0,0.0,6,6
 613,*/plˈɑj/,/plˈɑj/,0,0.0,0.0,4,4
 614,*/rˈɨpə/,/rˈɨpə/,0,0.0,0.0,4,4
-615,*/skəwnˈer/,/skəwnˈel/,1,0.14285714285714285,0.038461538461538464,7,7
+615,*/skəwnˈel/,/skəwnˈel/,0,0.0,0.0,7,7
 617,*/vˈɑle/,/vˈɑle/,0,0.0,0.0,4,4
 618,*/ˈɑlbje/,/ˈɑlbje/,0,0.0,0.0,5,5
 620,*/jesukˈɑ/,/uskˈɑ/,3,0.75,1.4615384615384615,6,4
