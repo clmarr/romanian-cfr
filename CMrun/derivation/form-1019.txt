@@ -1,14 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1019:
-#kˌontrɑː# >>> *#kətrə# ( GOLD : #kətrə#) :
-k ˌo n t r ɑː 
-*#kontrɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kotrɑː# | 76 : [+cons,+son] > ∅ / [+cons,-cor] [+syl,-prim] __ [-cont,-voi] [+cons,+son]
-*#kətrɑː# | 89 : [-prim] > ə / # [-voi] ( [-syl] ) __ ( [+nas] ) ( [-voi] ) ( r ) [-prim] ( [+cons] )* #
-*#kətrɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kətrɑ#
-*#kətɾɑ# | 163 : r > ɾ / __ [nnas,ncons]
-*#kətɾə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kətɾə#
-*#kətrə# | 275 : ɾ > r 
-Old Romanian stage form : *#kətrə#
-Final form : *#kətrə#
+#kurrˈendum# >>> *#kurˈɨnd# ( GOLD : #kurˈɨnd#) :
+k u r r ˈe n d u m 
+*#kurrˈendu# | 44 : m > ∅ / [-stres] __ #
+*#kurrˈɛndu# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#kurrˈɛndu#
+Balkan Romance stage form : *#kurrˈɛndu#
+*#kurɾˈɛndu# | 163 : r > ɾ / __ [nnas,ncons]
+*#kurɾˈendu# | 170 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#kurˈendu# | 227 : {ɾ;r} > {∅;∅} / r __
+*#kurˈəndu# | 228 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Common Romanian stage form : *#kurˈəndu#
+*#kurˈɨndu# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#kurˈɨndw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kurˈɨnd# | 296 : w̥ > ∅ / [-syl] __ #
+Final form : *#kurˈɨnd#

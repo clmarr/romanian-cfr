@@ -1,13 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1031:
-#ˌin# >>> *#ɨn# ( GOLD : #ɨn#) :
-ˌi n 
-*#in# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#iːn# | 120 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
-*#in# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#in#
-*#ɑn# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ən# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#ən#
-*#ɨn# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨn#
-Final form : *#ɨn#
+#ˌinˌɑbˈinte# >>> *#ɨnəˈinte# ( GOLD : #ɨnɑˈinte#) :
+ˌi n ˌɑ b ˈi n t e 
+*#inɑbˈinte# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inɑβˈinte# | 122 : b > β / [-cons] __ [+cont]
+*#enɑβˈente# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑˈente# | 145 : β > ∅ 
+*#enɑjˈente# | 152 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
+Balkan Romance stage form : *#enɑjˈente#
+Balkan Romance stage form : *#enɑjˈente#
+*#ɑnɑjˈente# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənɑjˈente# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənəjˈente# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ənəjˈinte# | 242 : [+syl,+front] > [+hi] / __ n [+cons]
+Common Romanian stage form : *#ənəjˈinte#
+*#ɨnəjˈinte# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnəˈinte# | 300 : j > ∅ / __ [+front,+hi]
+Final form : *#ɨnəˈinte#

@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1032:
-#ˌinˌɑbˈinte# >>> *#ɨnəˈinte# ( GOLD : #ɨnɑˈinte#) :
-ˌi n ˌɑ b ˈi n t e 
-*#inɑbˈinte# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inɑβˈinte# | 122 : b > β / [-cons] __ [+cont]
-*#enɑβˈente# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɑˈente# | 145 : β > ∅ 
-*#enɑjˈente# | 152 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
-Balkan Romance stage form : *#enɑjˈente#
-*#ɑnɑjˈente# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənɑjˈente# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənəjˈente# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənəjˈinte# | 242 : [+syl,+front] > [+hi] / __ n [+cons]
-Common Romanian stage form : *#ənəjˈinte#
-*#ɨnəjˈinte# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnəˈinte# | 300 : j > ∅ / __ [+front,+hi]
-Old Romanian stage form : *#ɨnəˈinte#
-Final form : *#ɨnəˈinte#
+#ˌinˌɑdˈintroː# >>> *#ɨnədˈintru# ( GOLD : #ɨnəˈuntru#) :
+ˌi n ˌɑ d ˈi n t r oː 
+*#inɑdˈintroː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enɑdˈentroː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑdˈentro# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enɑdˈentro#
+Balkan Romance stage form : *#enɑdˈentro#
+*#enɑdˈentɾo# | 163 : r > ɾ / __ [nnas,ncons]
+*#ɑnɑdˈentɾo# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑnɑdˈentɾu# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənɑdˈentɾu# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənədˈentɾu# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ənədˈintɾu# | 242 : [+syl,+front] > [+hi] / __ n [+cons]
+Common Romanian stage form : *#ənədˈintɾu#
+*#ənədˈintru# | 275 : ɾ > r 
+*#ɨnədˈintru# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨnədˈintrw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨnədˈintru# | 294 : {w̥;j̊} > {u;i} / [+cons] [+cons,+son,-nas] __ #
+Final form : *#ɨnədˈintru#

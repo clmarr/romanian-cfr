@@ -1,14 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1317:
-#striɡˈɑː# >>> *#striɡˈɑ# ( GOLD : #striɡˈɑ#) :
-s t r i ɡ ˈɑː 
-*#istriɡˈɑː# | 111 : ∅ > i / # __ s [+cons,-son]
-*#estreɡˈɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#estreɡˈɑ# | 156 : [+syl] > [-long,-splng] 
-*#streɡˈɑ# | 157 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#streɡˈɑ#
-*#stɾeɡˈɑ# | 163 : r > ɾ / __ [nnas,ncons]
-Common Romanian stage form : *#stɾeɡˈɑ#
-*#streɡˈɑ# | 275 : ɾ > r 
-*#striɡˈɑ# | 306 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Old Romanian stage form : *#striɡˈɑ#
-Final form : *#striɡˈɑ#
+#prehˈende# >>> *#prˈinde# ( GOLD : #prˈinde#) :
+p r e h ˈe n d e 
+*#preˈende# | 41 : [-son,-cons] > ∅ 
+*#priˈende# | 112 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+*#prjˈende# | 118 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
+*#prjˈɛnde# | 119 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#prjˈɛnde#
+Balkan Romance stage form : *#prjˈɛnde#
+*#pɾjˈɛnde# | 163 : r > ɾ / __ [nnas,ncons]
+*#pɾjˈende# | 170 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#pɾʲjˈende# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#pɾʲˈende# | 199 : j > ∅ / [+cons,+front] __
+*#pɾʲˈinde# | 242 : [+syl,+front] > [+hi] / __ n [+cons]
+Common Romanian stage form : *#pɾʲˈinde#
+*#pjɾˈinde# | 254 : ɾʲ > j ɾ 
+*#pjrˈinde# | 275 : ɾ > r 
+*#prˈinde# | 303 : j > ∅ / __ r
+Final form : *#prˈinde#

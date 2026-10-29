@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1035:
-#ˌinkˌontrɑː# >>> *#ɨnkutrə# ( GOLD : #ɨnkotro#) :
-ˌi n k ˌo n t r ɑː 
-*#inkontrɑː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkotrɑː# | 76 : [+cons,+son] > ∅ / [+cons,-cor] [+syl,-prim] __ [-cont,-voi] [+cons,+son]
-*#enkotrɑː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkotrɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkotrɑ#
-*#enkotɾɑ# | 163 : r > ɾ / __ [nnas,ncons]
-*#ɑnkotɾɑ# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnkutɾɑ# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənkutɾɑ# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənkutɾə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ənkutɾə#
-*#ənkutrə# | 275 : ɾ > r 
-*#ɨnkutrə# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnkutrə#
-Final form : *#ɨnkutrə#
+#ˌindˌeːrˌetroː# >>> *#ɨndret# ( GOLD : #ɨndˈərət#) :
+ˌi n d ˌeː r ˌe t r oː 
+*#indeːretroː# | 24 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#indretroː# | 47 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#endretroː# | 123 : [+syl,-long,+hi,-back] > [-hi] 
+*#endretro# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#endretro#
+Balkan Romance stage form : *#endretro#
+*#endɾetɾo# | 163 : r > ɾ / __ [nnas,ncons]
+*#ɑndɾetɾo# | 167 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑndɾetɾu# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#əndɾetɾu# | 209 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#əndɾetu# | 226 : ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
+Common Romanian stage form : *#əndɾetu#
+*#əndretu# | 275 : ɾ > r 
+*#ɨndretu# | 277 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɨndretw̥# | 293 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɨndret# | 296 : w̥ > ∅ / [-syl] __ #
+Final form : *#ɨndret#
