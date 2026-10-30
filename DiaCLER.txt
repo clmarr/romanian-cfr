@@ -1606,8 +1606,103 @@ $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 				$ Moved to just before new rule "Reversal of R47A...".
 
 
-$ <r> trilling. CM 9/16/26 - moved to after je > e rule. 
+$ <r> trilling.
 	ɾ > r
+
+
+$ R55 Denasalization of [ñ]
+	$ [+son,-ant,+cor] > [-nas,-cons,-lat]
+	$ Reframinɡ because this doesn't work:
+	$ Clayton: add -cor and it will work (Pardess doesn't distinɡuish postalv from pal)
+		$ɲ > n / # __
+			$ CM 9/18/26 -- removed initial depalatalization -- this is now handled by the nasal depalatalization at the end of Common Romanian -- words affected also show nʲ > n in Aromanian etc.
+		$ɲ > j $ CM 9/18/26 -- consolidated 
+
+
+
+$ R50 and R51 moved to just after R46. -- consolidated
+	$ R50 backinɡ of front vowels after [rr]
+		$[-cons,+front] > [+back] / r r __
+		$ Pardess calls it a 'backinɡ' but it is not simply [+back]
+		$ i is just -front, e is -front,0tense
+			${e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r r __
+		
+	$ R51 Simplification of [rr] to [r]
+		$ r r > [-rep]
+			$r r > ɾ
+
+
+$ NEW RULE OCT 23 2026 -- backing of i in lab __ n (V̯) t/d/ts (not t͡ʃ -- minciune) V-front
+[+syl,+hi] > [-front] / [+lab,+cons] __ n ([-prim]) [-cont,+ant] [+syl,-front]
+
+$ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant, unless labiality is reinforced by preceding [o]/[o̯ˈɑ] or following consonant is a sibilant or a lateral
+	$ Labelling this a new rule rather than a simple edit because it affects words whose schwas do not result from R46A.
+	$ Also, it doesn't take place until after R48.
+		$[+syl,-front,-back,-hi] > [+front,+tense] / {#;[+syl,+round,+hi];# ([-cons,-syl,-round]) [+syl,-round];[+cons] ([-cons,-syl,-round]) [+syl,-round]} [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
+	$CM 10/1 suppressed [+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,+round,+hi]) [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
+	$CM 10/1 supprssed [+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+cons]) ([-cons,-syl,-round]) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
+			$ This is a very overdetailed formulation of this rule for this lexicon (RoLLex.txt).
+			$ It should handle most cases, notably not those where the following consonant cluster has three or more consonants in it.
+				$ CM 10/1 changed second rule to posterior context from +cons,-strid,-lat -> +cons,nnas,ncont,nvoi V; prior as R B-strid -- berb(e)c, farmec, galben, carpen,  ; not sarbăd, aspru, oarfăn, foarfece, scărmăna,  ;; further simplified
+	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,uround,uhi,ifront,-iback]) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+
+$ R47A Raisinɡ of [ə] before [n] or [m]CV
+	$ EDIT: Does not occur after a vowel.
+		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / # ((@)* [+cons]) __ [+nas,-lab]
+		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / # ((@)* [+cons]) __ m [+cons]
+			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈɑ, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈɑ
+				$ pənetˈe, pˈən(n)uɾə, and depənˈɑ taken care of by new rule "Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel".
+
+$ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
+	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / p __ n [+syl,alo,-ahi]
+$ NEW RULE: Reversal of R47A for unstressed cases in between non-strident consonant and non-front vowel. Cannot have word bound on both sides of this sequence
+	ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+	ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
+
+$CM 10-1  -- at a point after division of Daco-Romanian dialects but before final w loss, Wallachian -nu > -u after rɨ -- frâu, brâu (vs. brână), părâu, grâu. Not of the r is post-coronal -- bătrân
+n > ∅ / [-cor] r [-round,-front,+syl] __ u #
+  
+	$ R59A Devoicinɡ of word-final [u] and [i] except after a consonant plus a liquid
+		$ Devoicing and desyllabifying  word-final [u]s and [i]s.
+			[+syl,+hi,-stres] > [-voi,-syl] / __ #
+
+		$ CM Oct 2026 -- handle exceptions by resyllabification at this point. 
+			$ two contexts: C R __ # and # (V-stres) (C) __ # --- vowel retained for both. înghiu shows it falls a second time in Old rom
+		{w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+		{w̥;j̊} > {u;i} / # ([-prim]) ([-syl]) __ #
+
+	$ R59B Loss of word-final voiceless [w̥]
+		$ First, deleting word-final [w̥] when not after a vowel.
+			w̥ > ∅ / [-syl] __ #
+		$ Then revoicing all voiceless approximants.
+			{w̥;j̊} > {w;j}
+
+	$ R59C Word-final [ii] > [i]
+		$i i > i / __ #
+		[+syl,+front,+hi,-stres] > ∅ / [+syl,+front,+hi] __ #
+
+
+
+	$ CM 9/18/26 consolidation of ɲ/ʎ gliding to single rule
+	[+son,+cons,+front] > j
+
+
+$ NEW RULE: a > e / j __ j. Counterbled by above.
+	[+lo] > [-lo,+front,-back] / j __ j
+
+$ Reflexes of -riVm.
+	j > ∅ / __ r
+
+$ NEW RULE: Round vowel syncope after [f]
+	$ Following consonant must be singleton, can be [s] or [l], and cannot be [r] or [ɡ] -- modelling as [avoi,alat].
+		[+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
+			$ Really ought to be dated to after the breakup of Common Romanian because of Aromanian fusati/fusate, but it also has to predate [l]-flapping because of sufleca... FLAG
+	$ must be after breakup -- Arom fusatu for fsat > sat
+		$ bled by ʎ > j in fuior -- must be after that
+
+
+~Old Romanian
+
 
 $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 		$ at least R53B is bled by R46A; 
@@ -1623,12 +1718,13 @@ $ R54 Delateralization of [ʎ] $ʎ > j $ CM 9/18/26 -- consolidated
 
 
 $ CM EDIT 9/16/2026 -- new rule -- fed by R53B 
-	$ -- non-initial jˈe > ˈe before (r/s) (voiceless plosive or strident) front (non-low): 
-		$, dumestec/-ic, merge, merg-is analogical;  arete, , perete, vechi, pepene, cireși
-		$ Counterfed by l-tapping. e/ʎ/ʃ/d͡ʒ treated as class -- +front.
-	$j > ∅ / @ __ ˈe ([+cor,+cont,-nas,-lat]) {[+strid];[-cont,-voi]} [+front]
+	$ -- non-initial jˈe > ˈe in certain conditions
 j > ∅ / m __ ˈe [+cor,+cont,-nas,-lat] [+cor,-cont]
-j > ∅ / @ __ ˈe [-voi] ([+front]) [+syl]
+j > ∅ / @ __ ˈe [-voi] ([+front]) ([+syl] (@)*) #
+
+
+$accounting for cases like înghiu etc. Also vechiu > vechi -- counterbleeds je > e
+[+hi,-stres] > ∅ / [-cons,-syl] __ #
 
 $ R57 [yea] > [ya]
 	$e̯ > ∅ / j __ [+syl,+lo]
@@ -1653,51 +1749,6 @@ $ NEW RULE: [e̯ˈɑ] > [ˈɑ] in words of shape [αcont]e̯ˈɑ[-αcont]ə
 		$ after Old Romanian -- țeară is attested
 		e̯ > ∅ / [+delrel,-distr] __ ˈɑ [+voi,+cor]
 
-
-
-$ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant, unless labiality is reinforced by preceding [o]/[o̯ˈɑ] or following consonant is a sibilant or a lateral
-	$ Labelling this a new rule rather than a simple edit because it affects words whose schwas do not result from R46A.
-	$ Also, it doesn't take place until after R48.
-		$[+syl,-front,-back,-hi] > [+front,+tense] / {#;[+syl,+round,+hi];# ([-cons,-syl,-round]) [+syl,-round];[+cons] ([-cons,-syl,-round]) [+syl,-round]} [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
-	$CM 10/1 suppressed [+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,+round,+hi]) [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
-	$CM 10/1 supprssed [+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+cons]) ([-cons,-syl,-round]) [+syl,-round] [+cons,-lab] [+cons,+lab] __ ([+cons,+son]) [+cons,-strid,-lat] ([-cons] (@)*) #
-			$ This is a very overdetailed formulation of this rule for this lexicon (RoLLex.txt).
-			$ It should handle most cases, notably not those where the following consonant cluster has three or more consonants in it.
-				$ CM 10/1 changed second rule to posterior context from +cons,-strid,-lat -> +cons,nnas,ncont,nvoi V; prior as R B-strid -- berb(e)c, farmec, galben, carpen,  ; not sarbăd, aspru, oarfăn, foarfece, scărmăna,  ;; further simplified
-	[+syl,-front,-back,-hi] > [+front,+tense] / # ((@)* [+syl,uround,uhi,ifront,-iback]) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
-
-$ R47A Raisinɡ of [ə] before [n] or [m]CV
-	$ EDIT: Does not occur after a vowel.
-		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / # ((@)* [+cons]) __ [+nas,-lab]
-		[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / # ((@)* [+cons]) __ m [+cons]
-			$ TODO: still need to refine this more to block the few instances where this does not happen that i have identified: skəɾmənˈɑ, pənetˈe, sənetˈV(...), pˈən(n)uɾə, semənətˈuɾu, mənukˈuɾu, depənˈɑ
-				$ pənetˈe, pˈən(n)uɾə, and depənˈɑ taken care of by new rule "Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel".
-
-$ R55 Denasalization of [ñ]
-	$ [+son,-ant,+cor] > [-nas,-cons,-lat]
-	$ Reframinɡ because this doesn't work:
-	$ Clayton: add -cor and it will work (Pardess doesn't distinɡuish postalv from pal)
-		$ɲ > n / # __
-			$ CM 9/18/26 -- removed initial depalatalization -- this is now handled by the nasal depalatalization at the end of Common Romanian -- words affected also show nʲ > n in Aromanian etc.
-		$ɲ > j $ CM 9/18/26 -- consolidated 
-
-	$ CM 9/18/26 consolidation of ɲ/ʎ gliding to single rule
-	[+son,+cons,+front] > j
-
-$ NEW RULE: Round vowel syncope after [f]
-	$ Following consonant must be singleton, can be [s] or [l], and cannot be [r] or [ɡ] -- modelling as [avoi,alat].
-		[+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
-			$ Really ought to be dated to after the breakup of Common Romanian because of Aromanian fusati/fusate, but it also has to predate [l]-flapping because of sufleca... FLAG
-	$ must be after breakup -- Arom fusatu for fsat > sat
-		$ bled by ʎ > j in fuior -- moved to after that
-
-
-$ NEW RULE: Reversal of R47A when vowel is between [p] and [n] and vowel stress does not match frontness of following vowel
-	[+syl,+hi,+tense,-back,-front] > [-hi,0tense] / p __ n [+syl,alo,-ahi]
-$ NEW RULE: Reversal of R47A for unstressed cases in between non-strident consonant and non-front vowel. Cannot have word bound on both sides of this sequence
-	ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
-	ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
-
 $ Non-Pardessian [e]-backing rules
 	e > ə / [-back] n __ t
 	e > ə / s __ [+cons,αson,αlat] [+cons] $ this only affects 3 words. FLAG -- reexamine later
@@ -1710,20 +1761,6 @@ $ R49 Raisinɡ of [ə] before [r,s] plus consonant
 		$ The one example of this occurring in our lexicon is already handled by the new rule "Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements" in the middle of R47.
 		$ The only other example given by Pardess is a borrowing from Bulgarian.
 
-$ NEW RULE OCT 23 2026 -- backing of i in lab __ n (V̯) t/d/ts (not t͡ʃ -- minciune) V-front
-[+syl,+hi] > [-front] / [+lab,+cons] __ n ([-prim]) [-cont,+ant] [+syl,-front]
-
-
-$ R50 and R51 moved to just after R46.
-	$ R50 backinɡ of front vowels after [rr]
-		$[-cons,+front] > [+back] / r r __
-		$ Pardess calls it a 'backinɡ' but it is not simply [+back]
-		$ i is just -front, e is -front,0tense
-			${e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r r __
-		
-	$ R51 Simplification of [rr] to [r]
-		$ r r > [-rep]
-			$r r > ɾ
 
 
 $ R53 moved to just before R47.
@@ -1750,30 +1787,8 @@ $ R58 Assimilation: word-final [ə] > [e] after [i]
 
 
 $ NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
-	k > ɡ / [-cont,-voi] r [+syl] __ [-stres] #
+	k > ɡ / [-cont,-voi] r [+syl] __ ([-stres]) #
 		$ This is EXTREMELY poorly attested--only affects apricum>aprig and vitricus>vitreg in our lexicon. FLAG -- reexamine later
-
-$CM 10-1  -- at a point after division of Daco-Romanian dialects but before final w loss, Wallachian -nu > -u after rɨ -- frâu, brâu (vs. brână), părâu, grâu. Not of the r is post-coronal -- bătrân
-n > ∅ / [-cor] r [-round,-front,+syl] __ u #
-  
-	$ R59A Devoicinɡ of word-final [u] and [i] except after a consonant plus a liquid
-		$ Devoicing and desyllabifying  word-final [u]s and [i]s.
-			[+syl,+hi,-stres] > [-voi,-syl] / __ #
-
-		$ CM Oct 2026 -- handle exceptions by resyllabification at this point. 
-			$ two contexts: C R __ # and # (V-stres) (C) __ # --- vowel retained for both
-		{w̥;j̊} > {u;i} / [+cons] [+cons,+son,-nas] __ #
-		{w̥;j̊} > {u;i} / # ([-prim]) ([-syl]) __ #
-
-	$ R59B Loss of word-final voiceless [w̥]
-		$ First, deleting word-final [w̥] when not after a vowel.
-			w̥ > ∅ / [-syl] __ #
-		$ Then revoicing all voiceless approximants.
-			{w̥;j̊} > {w;j}
-
-	$ R59C Word-final [ii] > [i]
-		$i i > i / __ #
-		[+syl,+front,+hi,-stres] > ∅ / [+syl,+front,+hi] __ #
 
 
 $ NEW RULE: Assimilation of high vowels to [j]
@@ -1796,11 +1811,6 @@ $Temporary: Rules with no relative chronology (TODO)
 $ Word-final two-stop heterolaryngeal cluster reduction
 	[-cont,αvoi] > ∅ / [-cont,-αvoi] __ #
 
-$ NEW RULE: a > e / j __ j
-	[+lo] > [-lo,+front,-back] / j __ j
-
-$ Reflexes of -riVm.
-	j > ∅ / __ r
 
 $ NEW RULE: Posttonic [e] raises to [i] before a non-alveolar, non-final consonant
 	$ "Non-final" is probably actually contributing more in the way of the following segment; this is likely dissimilatory from the schwa that is always found after the consonant at this stage when it isn't word-final.
@@ -1867,8 +1877,6 @@ $ NEW RULES: Handling of various outcomes of *uă
 $ NEW RULE: Schwa deletion before a nonhigh vocoid
 	ə > ∅ / __ [-cons,-hi]
 
-~Old Romanian
-$to be moved earlier
 
 $ R52 moved to after Old Romanian -- attested forms in 17th century haven't had it yet, not seen in some dialects (Mold, Banat...somewhat)
 $ R52 {dz > z, d͡ʒ > ʒ before o/u}
