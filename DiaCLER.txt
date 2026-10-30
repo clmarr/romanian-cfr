@@ -1465,15 +1465,6 @@ $ CM 9/23 w-coloring and prerhotic w-deletion rule -- post Common Romanian
 		$ not before low : aura, făurar, gaură 
 w > ∅ / __ [-cont,+son] [+front]
 
-	$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. Bleeds R47B. Only partially shared with Aromanian.
-	$ R46A [e],[ə] > [e̯],[ə̯] after a labial and before a syllable containinɡ a back vowel
-		$ Looks like he means e,e̯ > ə,ə̯.
-		$ Pardess considers [a] to be [+back], hence [-front] instead of simply [+back]. That this formulation allows schwa to be a trigger is not a mistake.
-			$[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([+syl]) ([-syl])+ [+syl,-front]
-			$ EDIT: Does not occur when there are [+front] elements between the target syllable and the trigger syllable.
-				[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([+syl]) ([-syl,-front])* [+cons,-front] ([-syl,-front])* [+syl,-front]
-			$ EDIT: Does not occur after [ˈi]. (Only affects vipera(m)>viperă.) FLAG
-				[-cons,-back,-hi,-lo,-front] > [+front,+tense] / ˈi ([-syl])* __ @ $ This is a much more general way to state this that has the same effect in our lexicon; may have just been a different change. FLAG
 
 $ Nasal assimilation
 	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
@@ -1532,32 +1523,26 @@ $ NEW RULES: V̯ˈɑV̯ə simplification
 			[-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ([-son] (@)*) #
 	$ must be after Common Romanian bc not shared, -eaua endings preserved in Arom etc.
 
-
-
-	$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
-		ə̯ > ∅ / __ [+syl,+lo]
-
-$ NEW RULE: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements
-	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback,-lo]
-		$ Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.
-
 $ NEW RULE CM 9/23 secondary u > o phenomena, not seen in Aromanian or most other varieties. 
 	$ Consider moving these later.
 	$ initial u > o before intervicalic alveolars continuants
 	$ countered by R53B, but bled by e > i in __ NT 
 		$ first rule -- olar,  reposa; formerly boteza and botejune but these will need tobe otherwise handled (Aromanian has schwa for them, so they actually show ə > o )
 u > o / # ( ( @ )* [+lab] ) __ [+cor,+cont] ˈɑ
-		$ second rule -- porumb, porumbă,  poturnichie, boteza ,botejune
+		$ NEW RULE CM 9/23 ə > o -- porumb, porumbă,  poturnichie, boteza ,botejune
 			$ osunză -- is analogical instead .
-ə > o / # ([+lab,-cont]) __ [+cor,-cont,rvoi,rson] [uhi,uround,-ufront,+syl]
+			$ fed by R46A
+[-stres,-lo,-hi] > o / # ([+lab,-cont]) __ [+cor,-cont,rvoi,rson] [uhi,uround,-ufront,+syl]
 
-$ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
-	$ R53A Monophthonɡization of [e̯a] after [š] or [ts]
-		e̯ ˈɑ > ˈɑ / ʃ __
-			$ Doesn't actually occur after [ts].
+$ CM OCT 26 pjea > pje earlier than other ea to e : necessary for piere, pieptene, pieptănă, arguably pârghie pîță
+	$ does not require e in next syllable as most other ea to e does
+	$ may feed R46A in pîță pârghie
+	$ applying this for all labials
+	$ needs to have a front element later i nthe word though -- not piatra
+	$ therefore counterbled by CM 10/21 nasal vowel retractions in postlabial position
+e̯ ˈɑ > ˈe / [+lab] j __ (@)* [+front]
 
-	$ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
-		e̯ ˈɑ > ˈe / __ ([-syl])* [+syl,+front,-hi]
+
 
 $ CM 10/21 nasal vowel retractions in lab __ n V-round,-hi
 	$counterfed by postlabial loss of j : bine
@@ -1573,6 +1558,30 @@ $ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated 
 [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ([+hi,+front,+syl]) __ ([+syl,-lo,efront,-eback] ([+nas] (@)*)) #
 
 
+	$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. 
+		$Bleeds R47B. Only partially shared with Aromanian. 
+		$Some Romanian dialects esp in Old Rom seem to not have it. 
+	$ R46A [e],[ə] > [e̯],[ə̯] after a labial and before a syllable containinɡ a back vowel
+		$ Looks like he means e,e̯ > ə,ə̯.
+		$ Pardess considers [a] to be [+back], hence [-front] instead of simply [+back]. That this formulation allows schwa to be a trigger is not a mistake.
+			$[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([+syl]) ([-syl])+ [+syl,-front]
+			$ EDIT: Does not occur when there are [+front] elements between the target syllable and the trigger syllable.
+				[-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([+syl]) ([-syl,-front])* [+cons,-front] ([-syl,-front])* [+syl,-front]
+			$ EDIT: Does not occur after [ˈi]. (Only affects vipera(m)>viperă.) FLAG
+				[-cons,-back,-hi,-lo,-front] > [+front,+tense] / ˈi ([-syl])* __ @ $ This is a much more general way to state this that has the same effect in our lexicon; may have just been a different change. FLAG
+
+
+$ NEW RULE: Raising of [ə] before non-homorganic fricative+occlusive cluster with following vowel matching frontness/backness of cluster elements
+		$fed by R46A e > ə phenomena 
+	[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / __ [+cons,+cont,-son,αant,βfront] [-cont,-αant,ɣback] [+syl,βfront,ɣback,-lo]
+		$ Poorly attested. TODO: Either find more examples of this raising or remove/modify this rule so it isn't overfitting.
+
+
+	$ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
+			$fed by R46A
+		ə̯ > ∅ / __ [+syl,+lo]
+
+
 $ R47B Raisinɡ of [e] before [n]
 		$[+syl,+front,-hi] > [+hi] / __ [+nas]
 		$ EDIT: When this occurs before [m], it must be followed by a nonnasal consonant.
@@ -1586,15 +1595,40 @@ $ R47B Raisinɡ of [e] before [n]
 
 
 $ CM 10/23 əne > ene assimilations: pepene, pieptene, (venenu > )venin; 
-	$counterfeeds R47B, feeds je >e phenom added 9/16
+	$counterfeeds R47B, feeds je >e phenom added 9/16; feeds R53B
 ə > [+front,+tense] / [+lab] __ n [+front,-hi,+tense]
+
+$ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
+	$ R47A Raisinɡ of [ə] before [n] or [m]CV
+		$ EDIT: Does not occur after a vowel.
+			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
+			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
+				$ Moved to just before new rule "Reversal of R47A...".
+
+
+$ <r> trilling. CM 9/16/26 - moved to after je > e rule. 
+	ɾ > r
+
+$ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
+		$ at least R53B is bled by R46A; 
+		$R53A appears to have happened after Old Romanian given attested șease. -- moved later.
+	$ R53A Monophthonɡization of [e̯a] after [š] or [ts]
+		e̯ ˈɑ > ˈɑ / ʃ __
+			$ Doesn't actually occur after [ts].
+
+	$ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
+		e̯ ˈɑ > ˈe / __ ([-syl])* [+syl,+front,-hi]
 
 $ R54 Delateralization of [ʎ] $ʎ > j $ CM 9/18/26 -- consolidated 
 
 
-
-$ CM EDIT 9/16/2026 -- new rule -- fed by R53B (53B was already before 47B) -- non-initial jˈe > ˈe before (r/s) (T-voi) front (non-low): cireși, dumestec/-ic, arete, merge, perete, vechi. Counterfed by l-tapping. e/ʎ/ʃ/d͡ʒ treated as class -- +front.
-	j > ∅ / @ __ ˈe ([+cor,+cont,-nas,-lat]) ([-voi,-cont]) [+front]
+$ CM EDIT 9/16/2026 -- new rule -- fed by R53B 
+	$ -- non-initial jˈe > ˈe before (r/s) (voiceless plosive or strident) front (non-low): 
+		$, dumestec/-ic, merge, merg-is analogical;  arete, , perete, vechi, pepene, cireși
+		$ Counterfed by l-tapping. e/ʎ/ʃ/d͡ʒ treated as class -- +front.
+	$j > ∅ / @ __ ˈe ([+cor,+cont,-nas,-lat]) {[+strid];[-cont,-voi]} [+front]
+j > ∅ / m __ ˈe [+cor,+cont,-nas,-lat] [+cor,-cont]
+j > ∅ / @ __ ˈe [-voi] ([+front]) [+syl]
 
 $ R57 [yea] > [ya]
 	$e̯ > ∅ / j __ [+syl,+lo]
@@ -1609,12 +1643,6 @@ $ R57 [yea] > [ya]
 			[+front,+son,-syl] > ∅ / [+cons] (ə) __ e̯ [+syl,+lo]
 	$ CM 9/18/26 -- moved back here -- consider further consolidations. 
 
-$ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
-	$ R47A Raisinɡ of [ə] before [n] or [m]CV
-		$ EDIT: Does not occur after a vowel.
-			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ [+nas,-lab]
-			$[+syl,-back,-front,-hi,-lo] > [+hi,+tense] / {#;[+cons]} __ m [+cons]
-				$ Moved to just before new rule "Reversal of R47A...".
 
 
 $ NEW RULE: [e̯ˈɑ] > [ˈɑ] in words of shape [αcont]e̯ˈɑ[-αcont]ə
@@ -1622,10 +1650,9 @@ $ NEW RULE: [e̯ˈɑ] > [ˈɑ] in words of shape [αcont]e̯ˈɑ[-αcont]ə
 			$ CMː -- its because there are separate criteria for after stridents. (moved)
 		$ SUPPRESSED -- no accurate domain .e̯ > ∅ / # [+cons,αcont,-strid] __ ˈɑ [+cons,-αcont] ə #
 			$ for stridents: limited to after t͡s and d͡z, and before voiced coronals (TODO why though?)
+		$ after Old Romanian -- țeară is attested
 		e̯ > ∅ / [+delrel,-distr] __ ˈɑ [+voi,+cor]
 
-$ <r> trilling. CM 9/16/26 - moved to after je > e rule. 
-	ɾ > r
 
 
 $ NEW RULE: "Reversal of R46A" when labial is preceded by a non-labial consonant, unless labiality is reinforced by preceding [o]/[o̯ˈɑ] or following consonant is a sibilant or a lateral
