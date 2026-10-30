@@ -1445,7 +1445,7 @@ $ CM 10/23 Common Romanian raising of first syllable post-peripheral ən before 
 $ Nasal assimilation. CM 10/26 -- shared across Common Romanian, moved to before its end
 	n > m / __ [-cont,+lab]
 
-~ Common Romanian
+~Common Romanian
 
 $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
@@ -1699,16 +1699,6 @@ $ R50 and R51 moved to just after R46.
 			$r r > ɾ
 
 
-$ R52 {dz > z, d͡ʒ > ʒ before o/u}
-	$ R52A Deaffrication of voiced alveolar affricate: [dz] > [z]
-		$[+delrel,+ant,+voi] > [-delrel]
-		$ We also need [+cont] here for it to do what the title says.
-			[+delrel,+ant,+voi] > [0delrel,+cont]
-
-	$ R52B Deaffrication of voiced palatal affricate: [ǰ] > [ž] before [o] or [u]
-		[-son,+delrel,-ant,+voi] > [+cont] / __ [-cons,+round]
-
-
 $ R53 moved to just before R47.
 	$ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 		$ R53A Monophthonɡization of [e̯a] after [š] or [ts]
@@ -1853,6 +1843,15 @@ $ NEW RULE: Schwa deletion before a nonhigh vocoid
 ~Old Romanian
 $to be moved earlier
 
+$ R52 moved to after Old Romanian -- attested forms in 17th century haven't had it yet, not seen in some dialects (Mold, Banat...somewhat)
+$ R52 {dz > z, d͡ʒ > ʒ before o/u}
+	$ R52A Deaffrication of voiced alveolar affricate: [dz] > [z]
+		$[+delrel,+ant,+voi] > [-delrel]
+		$ We also need [+cont] here for it to do what the title says.
+			[+delrel,+ant,+voi] > [0delrel,+cont]
+
+	$ R52B Deaffrication of voiced palatal affricate: [ǰ] > [ž] before [o] or [u]
+		[-son,+delrel,-ant,+voi] > [+cont] / __ [-cons,+round]
 
 
 $ NEW RULE: [j] excrescence between [ˈɨ] and [n] + a palatal (semi)vowel

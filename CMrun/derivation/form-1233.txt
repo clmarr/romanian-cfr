@@ -1,14 +1,26 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1233:
-#deːspoliˈɑː# >>> *#despujˈɑ# ( GOLD : #despujˈɑ#) :
-d eː s p o l i ˈɑː 
-*#deːspoljˈɑː# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#despoljˈɑ# | 156 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#despoljˈɑ#
-*#despuljˈɑ# | 176 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#despulʲjˈɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#despulʲˈɑ# | 199 : j > ∅ / [+cons,+front] __
-*#despuʎˈɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Common Romanian stage form : *#despuʎˈɑ#
-*#despujˈɑ# | 278 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#despujˈɑ#
-Final form : *#despujˈɑ#
+#weːnɑːtˈoːriɑm# >>> *#vɨnəto̯ˈɑre# ( GOLD : #vɨnəto̯ˈɑre#) :
+w eː n ɑː t ˈoː r i ɑ m 
+*#weːnɑːtˈoːrjɑm# | 17 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#weːnɑːtˈoːrjɑ# | 44 : m > ∅ / [-stres] __ #
+*#βeːnɑːtˈoːrjɑ# | 87 : w > β / __ ( [-cons] ( @ )* ) #
+*#veːnɑːtˈoːrjɑ# | 132 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#venɑtˈorjɑ# | 156 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#venɑtˈorjɑ#
+*#venɑtˈoɾjɑ# | 163 : r > ɾ / __ [nnas,ncons]
+*#venɑtˈɔɾjɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#venɑtˈɔɾʲjɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#venɑtˈɔɾʲɑ# | 199 : j > ∅ / [+cons,+front] __
+*#venɑtˈɔɑɾʲɑ# | 206 : ∅ > ɑ / [-tense] __
+*#venɑtˈoˈɑɾʲɑ# | 207 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#venɑto̯ˈɑɾʲɑ# | 208 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#venəto̯ˈɑɾʲə# | 217 : [-cons,+lo,-stres,-long] > ə / @ __
+Common Romanian stage form : *#venəto̯ˈɑɾʲə#
+*#vənəto̯ˈɑɾʲə# | 248 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#vənəto̯ˈɑɾʲe# | 252 : ə > e / [+cons,+front,+son] __
+*#vənəto̯ˈɑjɾe# | 254 : ɾʲ > j ɾ 
+*#vənəto̯ˈɑjre# | 274 : ɾ > r 
+*#vɨnəto̯ˈɑjre# | 276 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#vɨnəto̯ˈɑre# | 300 : j > ∅ / __ r
+Old Romanian stage form : *#vɨnəto̯ˈɑre#
+Final form : *#vɨnəto̯ˈɑre#

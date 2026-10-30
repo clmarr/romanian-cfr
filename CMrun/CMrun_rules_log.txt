@@ -285,8 +285,6 @@ e > ə / [-back] n __ t
 e > ə / s __ [+cons,αson,αlat] [+cons]
 ə > ɨ / __ r [+cons,-cont,+cor,+ant]
 [+syl,+hi] > [-front] / [+lab,+cons] __ n ( [-prim] ) [-cont,+ant] [+syl,-front]
-[+delrel,+ant,+voi] > [0delrel,+cont] 
-[-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
 ə > e / [+front,+hi] __ #
 k > ɡ / [-cont,-voi] r [+syl] __ [-stres] #
 n > ∅ / [-cor] r [-round,-front,+syl] __ u #
@@ -317,6 +315,8 @@ e > i / # t͡ʃ __ r [-cons]
 [+syl,+front,+hi] > [-front] / t͡s __ ( [+cons] )* [+syl,-front]
 w > ∅ / [-lab] [+syl,+round] __ r
 ə > ∅ / __ [-cons,-hi]
+[+delrel,+ant,+voi] > [0delrel,+cont] 
+[-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
 ∅ > j / ˈɨ __ n [-cons,+front] ( [+syl] ) #
 n > r / ə __ [+syl,+hi] [+nas]
 r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
