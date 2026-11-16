@@ -2387,6 +2387,8 @@ $ NEW RULE: Round vowel syncope after [f]
 
 ~Old Romanian
 
+$ CM insertion 11.16.26 -- final -a to -ə (again?). Handles -a in Slavic etc. vocab. Not if after a vocoid.
+ɑ > ə / [+cons] __ #
 
 $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 		$ at least R53B is bled by R46A; 
@@ -2467,7 +2469,8 @@ $ R56 Loss of yod before [i]
 $ R58 Assimilation: word-final [ə] > [e] after [i]
 	$ Pardess: ə > [-back] / i __ #
 	$ EDIT: need to capture [j] as a potential context as well:
-		ə > e / [+front,+hi] __ #
+			$ CM edit 11.16.26.b -- hits all unround unfront unstressed vowels
+		[-round,-front,-prim] > e / [+front,+hi] __ #
 
 
 $ NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
