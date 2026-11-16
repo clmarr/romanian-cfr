@@ -1,17 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 825:
-#pˌeːdˈukulum# >>> *#pədˈukj# ( GOLD : #pədˈukje#) :
-p ˌeː d ˈu k u l u m 
-*#peːdˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#peːdˈukulu# | 35 : m > ∅ / [-stres] __ #
-*#peːdˈuklu# | 50 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#pedˈuklu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pedˈuklu#
-*#pedˈukʎu# | 209 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#pedˈukʎu#
-*#pədˈukʎu# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#pədˈukʎw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#pədˈukʎu# | 269 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
-*#pədˈukju# | 274 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#pədˈukju#
-*#pədˈukj# | 283 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
-Final form : *#pədˈukj#
+... >>> *#tˈeme# ( GOLD : #tˈeme#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#tˈeme# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#tˈeme#
+Proto-Romanian I stage form : *#tˈeme#
+*#tˈɛme# | 320 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-round]
+*#tˈɛɑme# | 338 : ∅ > ɑ / [-tense] __
+*#tˈeˈɑme# | 339 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#te̯ˈɑme# | 340 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#te̯ˈɑme#
+Common Romanian stage form : *#te̯ˈɑme#
+Old Romanian stage form : *#te̯ˈɑme#
+*#tˈeme# | 421 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Final form : *#tˈeme#

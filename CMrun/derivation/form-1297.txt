@@ -1,15 +1,28 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1297:
-#frˌimbˈiːɑ# >>> *#frimbˈie# ( GOLD : #frɨmbˈie#) :
-f r ˌi m b ˈiː ɑ 
-*#frimbˈiːɑ# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#frembˈiːɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#frembˈiɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#frembˈiɑ#
-*#fɾembˈiɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#fɾembˈiə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#fɾembˈiə#
-*#fɾimbˈiə# | 256 : [+syl,+front] > [+hi] / __ m [+cons,-nas]
-*#frimbˈiə# | 259 : ɾ > r 
-Old Romanian stage form : *#frimbˈiə#
-*#frimbˈie# | 291 : [-round,-front,-prim] > e / [+front,+hi] __ #
-Final form : *#frimbˈie#
+... >>> *#nˈor# ( GOLD : #nˈor#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#nˈuːbɑlum# | 163 : i > ɑ / [+stres,+hi,αlab] ( [-syl,αlab] )* __ [+cons,+son] [+syl,+hi] m #
+*#nˈuːbɑlu# | 176 : m > ∅ / [-stres] __ #
+*#nˈuːβɑlu# | 254 : b > β / [-cons] __ [+cont]
+*#nˈuːɑlu# | 277 : β > ∅ 
+*#nˈuɑlu# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#nˈuɑlu#
+Proto-Romanian I stage form : *#nˈuɑlu#
+*#nˈuɑɾu# | 314 : l > ɾ / [+syl] __ [+syl]
+*#nˈuəɾu# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+*#nˈoəɾu# | 363 : [+syl,+round,+hi] > [-hi] / [+cons] __ ə [+cor,-nas]
+*#nˈowəɾu# | 364 : ∅ > w / [+prim,+round,-hi] __ [+syl]
+*#nˈowɾu# | 365 : ə > ∅ / w __ @
+Proto-Romanian II stage form : *#nˈowɾu#
+Common Romanian stage form : *#nˈowɾu#
+*#nˈowru# | 400 : ɾ > r 
+*#nˈowrw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#nˈowr# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#nˈowr#
+*#nˈor# | 451 : w > ∅ / [-lab] [+syl,+round] __ r
+Final form : *#nˈor#

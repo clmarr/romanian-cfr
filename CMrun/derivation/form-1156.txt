@@ -1,23 +1,25 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1156:
-#ˌinkwiˈeːtum# >>> *#ɨnt͡ʃˈet# ( GOLD : #ɨnt͡ʃˈet#) :
-ˌi n k w i ˈeː t u m 
-*#ˌinkwjˈeːtum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inkwjˈeːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkwjˈeːtu# | 35 : m > ∅ / [-stres] __ #
-*#inkβjˈeːtu# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#enkβjˈeːtu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkjˈeːtu# | 136 : β > ∅ 
-*#enkʲjˈeːtu# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#enkʲjˈetu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkʲjˈetu#
-*#ɑnkʲjˈetu# | 158 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnkʲˈetu# | 190 : j > ∅ / [+cons,+front] __
-*#ənkʲˈetu# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənc͡ɕˈetu# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənt͡ʃˈetu# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənt͡ʃˈetu#
-*#ɨnt͡ʃˈetu# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnt͡ʃˈetw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɨnt͡ʃˈet# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɨnt͡ʃˈet#
-Final form : *#ɨnt͡ʃˈet#
+... >>> *#spemɨntˈɑ# ( GOLD : #spəjmɨntˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ekspɑwiːmentˈɑː# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekspɑβiːmentˈɑː# | 219 : w > β / __ ( [-cons] ( @ )* ) #
+*#espɑβiːmentˈɑː# | 230 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espɑiːmentˈɑː# | 277 : β > ∅ 
+*#espɑmentˈɑː# | 281 : [+syl,-stres] > ∅ / ɑ __
+*#espɑmentˈɑ# | 288 : [+syl] > [-long,-splng] 
+*#spɑmentˈɑ# | 289 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#spɑmentˈɑ#
+Proto-Romanian I stage form : *#spɑmentˈɑ#
+*#spəmentˈɑ# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+*#spəmintˈɑ# | 374 : [+syl,+front] > [+hi] / __ n [+cons]
+Proto-Romanian II stage form : *#spəmintˈɑ#
+Common Romanian stage form : *#spəmintˈɑ#
+*#spəmɨntˈɑ# | 401 : [+syl,+hi] > [-front] / [+lab,+cons] __ n ( [-prim] ) [-cont,+ant] [+syl,-front]
+*#spemɨntˈɑ# | 402 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,ifront,!iback] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+Old Romanian stage form : *#spemɨntˈɑ#
+Final form : *#spemɨntˈɑ#

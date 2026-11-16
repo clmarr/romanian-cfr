@@ -1,15 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 309:
-#kˌɑstiːɡˈɑː# >>> *#kɨʃtiɡˈɑ# ( GOLD : #kɨʃtiɡˈɑ#) :
-k ˌɑ s t iː ɡ ˈɑː 
-*#kɑstiːɡˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kɑstiɡˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kɑstiɡˈɑ#
-*#kɑstjiɡˈɑ# | 186 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#kɑstʲjiɡˈɑ# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kɑstʲiɡˈɑ# | 190 : j > ∅ / [+cons,+front] __
-*#kəstʲiɡˈɑ# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəʃtiɡˈɑ# | 210 : s [-cont,+front] > ʃ t
-Common Romanian stage form : *#kəʃtiɡˈɑ#
-*#kɨʃtiɡˈɑ# | 254 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback,-lo]
-Old Romanian stage form : *#kɨʃtiɡˈɑ#
-Final form : *#kɨʃtiɡˈɑ#
+... >>> *#o̯ˈɑspete# ( GOLD : #o̯ˈɑspete#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ˈospitem# | 173 : [-son,-cons] > ∅ 
+*#ˈospite# | 176 : m > ∅ / [-stres] __ #
+*#ˈospete# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ˈospete#
+Proto-Romanian I stage form : *#ˈospete#
+*#ˈɔspete# | 319 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ˈɔɑspete# | 338 : ∅ > ɑ / [-tense] __
+*#ˈoˈɑspete# | 339 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#o̯ˈɑspete# | 340 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#o̯ˈɑspete#
+Common Romanian stage form : *#o̯ˈɑspete#
+Old Romanian stage form : *#o̯ˈɑspete#
+Final form : *#o̯ˈɑspete#

@@ -1,16 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 412:
-#ˌokkˈiːde# >>> *#ut͡ʃˈide# ( GOLD : #ut͡ʃˈide#) :
-ˌo k k ˈiː d e 
-*#okkˈiːde# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#okˈiːde# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#okʲˈiːde# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#okʲˈide# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#okʲˈide#
-*#ukʲˈide# | 167 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ukʲjˈide# | 186 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ukʲˈide# | 190 : j > ∅ / [+cons,+front] __
-*#uc͡ɕˈide# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ut͡ʃˈide# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ut͡ʃˈide#
-Old Romanian stage form : *#ut͡ʃˈide#
-Final form : *#ut͡ʃˈide#
+... >>> *#kˈirn# ( GOLD : #kˈɨrn#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+Balkan Romance stage form : ...
+*#kˈʊɾnʊ# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#kˈʊɾnʊ#
+*#kjˈʊɾnʊ# | 304 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#kjˈuɾnu# | 307 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-Romanian II stage form : *#kjˈuɾnu#
+Common Romanian stage form : *#kjˈuɾnu#
+*#kjˈurnu# | 400 : ɾ > r 
+*#kjˈurnw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kjˈurn# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kjˈurn#
+*#kjˈirn# | 434 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
+*#kˈirn# | 435 : j > ∅ / __ [+front,+hi]
+Final form : *#kˈirn#

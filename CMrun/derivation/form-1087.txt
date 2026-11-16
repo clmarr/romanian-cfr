@@ -1,19 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1087:
-#ekskˌutulˈɑː# >>> *#ʃkikˈɑ# ( GOLD : #skuturˈɑ#) :
-e k s k ˌu t u l ˈɑː 
-*#ekskutulˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskutlˈɑː# | 48 : [+syl,+hi,-long,-stres] > ∅ / [+syl] ( s ) [+cons,-cont,+cor] __ l ( [-cons,-syl] ) [+syl]
-*#ekskuklˈɑː# | 64 : t > k / __ l
-*#eksklukˈɑː# | 70 : ∅ [+syl] [-cont,+back] l > l [+syl,+son] [-cont,+back,+cons,0tense] ∅/ [-cont,+back] __
-*#esklukˈɑː# | 89 : [-cont] > ∅ / __ [+strid] [+cons]
-*#esklukˈɑ# | 147 : [+syl] > [-long,-splng] 
-*#sklukˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#sklukˈɑ#
-*#skʎukˈɑ# | 209 : l > ʎ / [-cont,-ant,-cor] __
-*#ʃkʎukˈɑ# | 226 : s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
-Common Romanian stage form : *#ʃkʎukˈɑ#
-*#ʃkjukˈɑ# | 274 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#ʃkjukˈɑ#
-*#ʃkjikˈɑ# | 293 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
-*#ʃkikˈɑ# | 294 : j > ∅ / __ [+front,+hi]
-Final form : *#ʃkikˈɑ#
+... >>> *#surt͡ʃˈel# ( GOLD : #surt͡ʃˈel#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#surkˈellum# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#surkˈellu# | 176 : m > ∅ / [-stres] __ #
+*#surkˈɛllu# | 251 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#surkʲˈɛllu# | 285 : [-cont,+back] > [+front] / __ [-cons,+front]
+Balkan Romance stage form : *#surkʲˈɛllu#
+Proto-Romanian I stage form : *#surkʲˈɛllu#
+*#surkʲˈellu# | 307 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#surkʲˈelu# | 328 : {l l;m m} > {l;m} 
+*#surc͡ɕˈelu# | 352 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#surt͡ʃˈelu# | 353 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Proto-Romanian II stage form : *#surt͡ʃˈelu#
+Common Romanian stage form : *#surt͡ʃˈelu#
+*#surt͡ʃˈelw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#surt͡ʃˈel# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#surt͡ʃˈel#
+Final form : *#surt͡ʃˈel#

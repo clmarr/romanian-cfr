@@ -8,7 +8,9 @@ import UTILS
 
 OUTPUT ="gjiRoLLAPS.csv"
 STAGE_CIRCUMFIX = "_"
-OUTPUT_HEADER = ["Latin","Balkan Romance","Proto-Romanian I","Proto-Romanian II","Common Romanian","Old Romanian","Romanian"]
+OUTPUT_HEADER = ["Proto-Indo-European", "Proto-Balkan-Indo-European", "Archaic Proto-Albanian", "Classical Proto-Albanian",
+                 "Sub-Romanian",
+                 "Latin","Balkan Romance","Proto-Romanian I","Proto-Romanian II","Common Romanian","Old Romanian","Romanian"]
 
 def cmt_stage_marking(line, header_in_use, src):
     content = UTILS.get_lex_line_content(line)

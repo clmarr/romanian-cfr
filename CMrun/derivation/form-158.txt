@@ -1,15 +1,27 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 158:
-#ˌinɡˌɑnnˈɑː# >>> *#ɨnɡɨnˈɑ# ( GOLD : #ɨnɡɨnˈɑ#) :
-ˌi n ɡ ˌɑ n n ˈɑː 
-*#inɡɑnnˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɡɑnnˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡɑnnˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡɑnnˈɑ#
-*#ɑnɡɑnnˈɑ# | 158 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənɡɑnnˈɑ# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənɡənnˈɑ# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənɡənˈɑ# | 220 : n n > n 
-Common Romanian stage form : *#ənɡənˈɑ#
-*#ɨnɡɨnˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnɡɨnˈɑ#
-Final form : *#ɨnɡɨnˈɑ#
+... >>> *#ɑlˈed͡ʒe# ( GOLD : #ɑlˈed͡ʒe#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ɑdlˈeɡe# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑllˈeɡe# | 170 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
+*#ɑllˈɛɡe# | 251 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɑllˈɛɡʲe# | 285 : [-cont,+back] > [+front] / __ [-cons,+front]
+Balkan Romance stage form : *#ɑllˈɛɡʲe#
+Proto-Romanian I stage form : *#ɑllˈɛɡʲe#
+*#ɑllˈeɡʲe# | 307 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#ɑllˈɛɡʲe# | 319 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ɑlˈɛɡʲe# | 328 : {l l;m m} > {l;m} 
+*#ɑlˈɛɑɡʲe# | 338 : ∅ > ɑ / [-tense] __
+*#ɑlˈeˈɑɡʲe# | 339 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɑle̯ˈɑɡʲe# | 340 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ɑle̯ˈɑɟ͡ʑe# | 352 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ɑle̯ˈɑd͡ʒe# | 353 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Proto-Romanian II stage form : *#ɑle̯ˈɑd͡ʒe#
+Common Romanian stage form : *#ɑle̯ˈɑd͡ʒe#
+Old Romanian stage form : *#ɑle̯ˈɑd͡ʒe#
+*#ɑlˈed͡ʒe# | 421 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Final form : *#ɑlˈed͡ʒe#

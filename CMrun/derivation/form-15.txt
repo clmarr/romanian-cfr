@@ -1,17 +1,25 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 15:
-#ˌɑdmˌɑɡˈiː# >>> *#ɑməd͡ʒˈi# ( GOLD : #ɑməd͡ʒˈi#) :
-ˌɑ d m ˌɑ ɡ ˈiː 
-*#ɑdmɑɡˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑmmɑɡˈiː# | 29 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-*#ɑmmɑɡʲˈiː# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#ɑmmɑɡʲˈi# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑmmɑɡʲˈi#
-*#ɑmmɑɡʲjˈi# | 186 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ɑmɑɡʲjˈi# | 187 : {l l;m m} > {l;m} 
-*#ɑmɑɡʲˈi# | 190 : j > ∅ / [+cons,+front] __
-*#ɑməɡʲˈi# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɑməɟ͡ʑˈi# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ɑməd͡ʒˈi# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ɑməd͡ʒˈi#
-Old Romanian stage form : *#ɑməd͡ʒˈi#
-Final form : *#ɑməd͡ʒˈi#
+... >>> *#ɨnəˈinte# ( GOLD : #ɨnɑˈinte#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#inɑbˈinte# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inɑβˈinte# | 254 : b > β / [-cons] __ [+cont]
+*#enɑβˈente# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑˈente# | 277 : β > ∅ 
+*#enɑjˈente# | 284 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
+Balkan Romance stage form : *#enɑjˈente#
+Proto-Romanian I stage form : *#enɑjˈente#
+*#ɑnɑjˈente# | 299 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənɑjˈente# | 341 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənəjˈente# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+*#ənəjˈinte# | 374 : [+syl,+front] > [+hi] / __ n [+cons]
+Proto-Romanian II stage form : *#ənəjˈinte#
+Common Romanian stage form : *#ənəjˈinte#
+*#ɨnəjˈinte# | 403 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnəjˈinte#
+*#ɨnəˈinte# | 435 : j > ∅ / __ [+front,+hi]
+Final form : *#ɨnəˈinte#

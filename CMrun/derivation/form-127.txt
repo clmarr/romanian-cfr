@@ -1,15 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 127:
-#ekspellɑwˈɑː# >>> *#spəlˈɑ# ( GOLD : #spəlˈɑ#) :
-e k s p e l l ɑ w ˈɑː 
-*#ekspellɑβˈɑː# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#espellɑβˈɑː# | 89 : [-cont] > ∅ / __ [+strid] [+cons]
-*#espellɑˈɑː# | 136 : β > ∅ 
-*#espellɑˈɑ# | 147 : [+syl] > [-long,-splng] 
-*#spellɑˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#spellɑˈɑ#
-*#spelɑˈɑ# | 187 : {l l;m m} > {l;m} 
-*#spelˈɑ# | 204 : [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback,+stres]
-Common Romanian stage form : *#spelˈɑ#
-*#spəlˈɑ# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-Old Romanian stage form : *#spəlˈɑ#
-Final form : *#spəlˈɑ#
+... >>> *#ɑkutɨnt# ( GOLD : #ɑtˈɨt#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ekkutɑntum# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑkkutɑntum# | 168 : e > ɑ / # __ k k
+*#ɑkkutɑntu# | 176 : m > ∅ / [-stres] __ #
+*#ɑkutɑntu# | 278 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#ɑkutɑntu#
+Proto-Romanian I stage form : *#ɑkutɑntu#
+*#ɑkutəntu# | 341 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ɑkutəntu#
+Common Romanian stage form : *#ɑkutəntu#
+*#ɑkutɨntu# | 403 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɑkutɨntw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ɑkutɨnt# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɑkutɨnt#
+Final form : *#ɑkutɨnt#

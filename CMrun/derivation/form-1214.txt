@@ -1,20 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1214:
-#bowˈɑːrium# >>> *#bowˈɑr# ( GOLD : #bowˈɑr#) :
-b o w ˈɑː r i u m 
-*#bowˈɑːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#bowˈɑːrju# | 35 : m > ∅ / [-stres] __ #
-*#boβˈɑːrju# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#bowˈɑːrju# | 135 : β > w / [+syl,+round,-hi] __ [+syl,+lo]
-*#bowˈɑrju# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#bowˈɑrju#
-*#bowˈɑɾju# | 154 : r > ɾ / __ [nnas,ncons]
-*#bowˈɑɾʲju# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#bowˈɑɾʲu# | 190 : j > ∅ / [+cons,+front] __
-Common Romanian stage form : *#bowˈɑɾʲu#
-*#bowˈɑjɾu# | 243 : ɾʲ > j ɾ 
-*#bowˈɑjru# | 259 : ɾ > r 
-*#bowˈɑjrw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bowˈɑjr# | 271 : w̥ > ∅ / [-syl] __ #
-*#bowˈɑr# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#bowˈɑr#
-Final form : *#bowˈɑr#
+... >>> *#zˈik# ( GOLD : #zˈik#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#dˈiko# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dˈiko#
+Proto-Romanian I stage form : *#dˈiko#
+*#dˈiku# | 308 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#djˈiku# | 327 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#dʲjˈiku# | 329 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#dʲˈiku# | 331 : j > ∅ / [+cons,+front] __
+*#d͡zʲˈiku# | 352 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡zˈiku# | 353 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Proto-Romanian II stage form : *#d͡zˈiku#
+Common Romanian stage form : *#d͡zˈiku#
+*#d͡zˈikw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#d͡zˈik# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#d͡zˈik#
+*#zˈik# | 453 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#zˈik#

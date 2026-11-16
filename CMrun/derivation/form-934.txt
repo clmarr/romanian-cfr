@@ -1,13 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 934:
-#kˌompˌɑrˈɑː# >>> *#kumpərˈɑ# ( GOLD : #kumpərˈɑ#) :
-k ˌo m p ˌɑ r ˈɑː 
-*#kompɑrˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kompɑrˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kompɑrˈɑ#
-*#kompɑɾˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#kumpɑɾˈɑ# | 168 : o > u / __ [+lab,+cont,+cons]
-*#kumpəɾˈɑ# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kumpəɾˈɑ#
-*#kumpərˈɑ# | 259 : ɾ > r 
-Old Romanian stage form : *#kumpərˈɑ#
-Final form : *#kumpərˈɑ#
+... >>> *#dep# ( GOLD : #dupə#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#deːpost# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːpos# | 215 : [+cons,-cont] > ∅ / __ #
+*#depos# | 288 : [+syl] > [-long,-splng] 
+*#depo# | 294 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#depo#
+Proto-Romanian I stage form : *#depo#
+*#depu# | 308 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#depu#
+Common Romanian stage form : *#depu#
+*#depw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#dep# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dep#
+Final form : *#dep#

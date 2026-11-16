@@ -1,20 +1,26 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1073:
-#sˈedeːt# >>> ... ( GOLD : ...) :
-s ˈe d eː t 
-*#sˈedeː# | 74 : [+cons,-cont] > ∅ / __ #
-*#sˈɛdeː# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#sˈɛde# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#sˈɛde#
-*#sjˈɛde# | 163 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#sjˈede# | 166 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛde# | 178 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#sʲjˈɛde# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#sʲˈɛde# | 190 : j > ∅ / [+cons,+front] __
-*#ɕˈɛde# | 195 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɕˈɛɑde# | 197 : ∅ > ɑ / [-tense] __
-*#ɕˈeˈɑde# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɕe̯ˈɑde# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ʃe̯ˈɑde# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃe̯ˈɑde#
-Old Romanian stage form : *#ʃe̯ˈɑde#
-Final form : ...
+... >>> *#skreʒˈɑj# ( GOLD : #skriʒe̯ˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+Balkan Romance stage form : ...
+*#skɾiʒˈɑlʲɪ# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#skɾiʒˈɑlʲɪ#
+*#skɾiʒˈɑlʲi# | 307 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#skɾeʒˈɑlʲi# | 326 : i > e / [+cons] __ [+cons,+front]
+*#skɾeʒˈɑlʲji# | 327 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#skɾeʒˈɑlʲi# | 331 : j > ∅ / [+cons,+front] __
+*#skɾeʑˈɑʎi# | 336 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#skɾeʒˈɑʎi# | 353 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Proto-Romanian II stage form : *#skɾeʒˈɑʎi#
+Common Romanian stage form : *#skɾeʒˈɑʎi#
+*#skreʒˈɑʎi# | 400 : ɾ > r 
+*#skreʒˈɑʎj̊# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#skreʒˈɑʎj# | 413 : {w̥;j̊} > {w;j} 
+*#skreʒˈɑjj# | 415 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#skreʒˈɑjj#
+*#skreʒˈɑj# | 435 : j > ∅ / __ [+front,+hi]
+Final form : *#skreʒˈɑj#

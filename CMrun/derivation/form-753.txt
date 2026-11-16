@@ -1,16 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 753:
-#pˌekuwˈiːnɑm# >>> *#pəkˈujnə# ( GOLD : #pəkˈujnə#) :
-p ˌe k u w ˈiː n ɑ m 
-*#pekuwˈiːnɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pekˈuwiːnɑm# | 24 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] [-stres,-prim,+syl,+son]
-*#pekˈuwiːnɑ# | 35 : m > ∅ / [-stres] __ #
-*#pekˈuβiːnɑ# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#pekˈuiːnɑ# | 136 : β > ∅ 
-*#pekˈuinɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pekˈuinɑ#
-*#pekˈujnɑ# | 174 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
-*#pekˈujnə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pekˈujnə#
-*#pəkˈujnə# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-Old Romanian stage form : *#pəkˈujnə#
-Final form : *#pəkˈujnə#
+... >>> *#ʃtˈi# ( GOLD : #ʃtˈi#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#iskˈiː# | 243 : ∅ > i / # __ s [+cons,-son]
+*#eskˈiː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskʲˈiː# | 285 : [-cont,+back] > [+front] / __ [-cons,+front]
+*#eskʲˈi# | 288 : [+syl] > [-long,-splng] 
+*#skʲˈi# | 289 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#skʲˈi#
+Proto-Romanian I stage form : *#skʲˈi#
+*#skʲjˈi# | 327 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#skʲˈi# | 331 : j > ∅ / [+cons,+front] __
+*#ʃtˈi# | 351 : s [-cont,+front] > ʃ t
+Proto-Romanian II stage form : *#ʃtˈi#
+Common Romanian stage form : *#ʃtˈi#
+Old Romanian stage form : *#ʃtˈi#
+Final form : *#ʃtˈi#

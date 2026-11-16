@@ -1,14 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1015:
-#kˌontrɑː# >>> *#kətrə# ( GOLD : #kətrə#) :
-k ˌo n t r ɑː 
-*#kontrɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kotrɑː# | 67 : [+cons,+son] > ∅ / [+cons,-cor] [+syl,-prim] __ [-cont,-voi] [+cons,+son]
-*#kətrɑː# | 80 : [-prim] > ə / # [-voi] ( [-syl] ) __ ( [+nas] ) ( [-voi] ) ( r ) [-prim] ( [+cons] )* #
-*#kətrɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kətrɑ#
-*#kətɾɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#kətɾə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#kətɾə#
-*#kətrə# | 259 : ɾ > r 
-Old Romanian stage form : *#kətrə#
-Final form : *#kətrə#
+... >>> *#semənˈɑ# ( GOLD : #semənˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#seːmenˈɑː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#semenˈɑ# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#semenˈɑ#
+Proto-Romanian I stage form : *#semenˈɑ#
+*#seminˈɑ# | 323 : [+syl,+front,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+Proto-Romanian II stage form : *#seminˈɑ#
+Common Romanian stage form : *#seminˈɑ#
+*#semənˈɑ# | 391 : [+front,+syl] > [-hi,-front,0tense] / # ( ( @ )* [+syl,-round] ( ɾ ) ) [+lab,+cons] ( t ) __ n [+syl,-round,-hi]
+*#semɨnˈɑ# | 403 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#semənˈɑ# | 407 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
+Old Romanian stage form : *#semənˈɑ#
+Final form : *#semənˈɑ#

@@ -1,5 +1,3 @@
-DiaCLER temp
-
 $ DiaCLER: A debugged implementation of the ordered chanɡes of Pardess (1990) as a DiaSim cascade
 $
 $ The ɡoal of this debugged cascade is to present the most complete list of the sound changes that occurred from Latin to Daco-Romanian 
@@ -1633,6 +1631,7 @@ $ R25 {Final s -> j or ∅}
 
 =Balkan Romance
 
+
 $ CHAPTER 5
 $ THE DEVELOPMENT OF COMMON ROMANIAN
 $ (6TH-11TH CENTURIES A.D.)
@@ -1663,7 +1662,9 @@ k > ɡ / __ [+round,-stres] [+cor,-cont] [+prim] [+son] [-syl]
 		s > z / # __ [+voi,-son]
 			$ Has to apply both before beta rules and after above new rule.
 
-$ iN- > îN-. CM 10/1 -- moved to before Common Romanian -- this is actually to a, see as a in Aromanian. Formerly: [+syl,+front,+hi] > [-front] / # __ [+nas]. 
+=Proto-Romanian I
+
+$ iN- > îN-. CM 10/1 -- moved to before Common Romanian -- this is actually to a, reflecting as a in Aromanian. Formerly: [+syl,+front,+hi] > [-front] / # __ [+nas]. 
 [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
 
 $CM 10/1 -- lowering of e to a after in [-lab] F/V/M(m) (r) __ n u/e/a
@@ -2128,8 +2129,11 @@ $ CM 9/23 earlier raising in NT -- shared across Common Romanian
 $ CM 10/23 Common Romanian raising of first syllable post-peripheral ən before tonic ˈɑ
 ə > ɨ / # ([-syl])* [+cons,-cor] __ n (@)* ˈɑ 
 
+=Proto-Romanian II
+
 $ Nasal assimilation. CM 10/26 -- shared across Common Romanian, moved to before its end
 	n > m / __ [-cont,+lab]
+
 
 ~Common Romanian
 

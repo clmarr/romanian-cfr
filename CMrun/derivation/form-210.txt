@@ -1,19 +1,25 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 210:
-#kˌɑpitˈiːnɑm# >>> *#kəpət͡sˈɨnə# ( GOLD : #kəpət͡sˈɨnə#) :
-k ˌɑ p i t ˈiː n ɑ m 
-*#kɑpitˈiːnɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kɑpitˈiːnɑ# | 35 : m > ∅ / [-stres] __ #
-*#kɑpetˈiːnɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#kɑpetˈinɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kɑpetˈinɑ#
-*#kɑpetjˈinɑ# | 186 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#kɑpetʲjˈinɑ# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kɑpetʲˈinɑ# | 190 : j > ∅ / [+cons,+front] __
-*#kəpetʲˈinə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#kəpet͡sʲˈinə# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#kəpet͡sˈinə# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kəpet͡sˈinə#
-Old Romanian stage form : *#kəpet͡sˈinə#
-*#kəpət͡sˈinə# | 297 : e > ə / ə ( [-syl] )* __ ( [-syl] )* [+syl,+hi]
-*#kəpət͡sˈɨnə# | 308 : [+syl,+front,+hi] > [-front] / t͡s __ ( [+cons] )* [+syl,-front]
-Final form : *#kəpət͡sˈɨnə#
+... >>> *#ɑfo̯ˈɑrə# ( GOLD : #ɑfˈɑrə#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ɑdfˈorɑːs# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑfˈorɑːs# | 171 : d > ∅ / [+syl,+lo] __ [-syl]
+*#ɑfˈorɑs# | 288 : [+syl] > [-long,-splng] 
+*#ɑfˈorɑ# | 294 : [+strid] > ∅ / __ #
+Balkan Romance stage form : *#ɑfˈorɑ#
+*#ɑfˈoɾɑ# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#ɑfˈoɾɑ#
+*#ɑfˈɔɾɑ# | 319 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ɑfˈɔɑɾɑ# | 338 : ∅ > ɑ / [-tense] __
+*#ɑfˈoˈɑɾɑ# | 339 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɑfo̯ˈɑɾɑ# | 340 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ɑfo̯ˈɑɾə# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+Proto-Romanian II stage form : *#ɑfo̯ˈɑɾə#
+Common Romanian stage form : *#ɑfo̯ˈɑɾə#
+*#ɑfo̯ˈɑrə# | 400 : ɾ > r 
+Old Romanian stage form : *#ɑfo̯ˈɑrə#
+Final form : *#ɑfo̯ˈɑrə#

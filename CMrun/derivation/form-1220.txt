@@ -1,18 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1220:
-#koˈɑːɡulum# >>> *#ke̯ˈɑɡ# ( GOLD : #ke̯ˈɑɡ#) :
-k o ˈɑː ɡ u l u m 
-*#kwˈɑːɡulum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#kwˈɑːɡulu# | 35 : m > ∅ / [-stres] __ #
-*#kwˈɑːɡlu# | 51 : [+syl,+hi,-long,-stres] > ∅ / [-cont] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#kˈɑːɡlu# | 68 : w > ∅ / # ( i n ) ( [-syl] )* k __ [+syl,+prim,+lo] [+voi]
-*#klˈɑːɡu# | 70 : ∅ [+syl] [-cont,+back] l > l [+syl,+son] [-cont,+back,+cons,0tense] ∅/ [-cont,+back] __
-*#klˈɑɡu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#klˈɑɡu#
-*#kʎˈɑɡu# | 209 : l > ʎ / [-cont,-ant,-cor] __
-Common Romanian stage form : *#kʎˈɑɡu#
-*#kʎˈɑɡw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#kʎˈɑɡ# | 271 : w̥ > ∅ / [-syl] __ #
-*#kjˈɑɡ# | 274 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#kjˈɑɡ#
-*#ke̯ˈɑɡ# | 303 : j > e̯ / # ( ( @ )* [+syl] ) [-cont,+back] __ [+lo]
-Final form : *#ke̯ˈɑɡ#
+... >>> *#zɡˈɑw# ( GOLD : #zɡˈəw#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ekskˈɑwu# | 176 : m > ∅ / [-stres] __ #
+*#ekskˈɑβu# | 219 : w > β / __ ( [-cons] ( @ )* ) #
+*#eskˈɑβu# | 230 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskˈɑu# | 277 : β > ∅ 
+*#esɡˈɑu# | 279 : k > ɡ / # ( ( e ) s ) __ [+syl,+back] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
+*#sɡˈɑu# | 289 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#sɡˈɑu#
+*#zɡˈɑu# | 298 : s > z / # __ [+voi,-son]
+Proto-Romanian I stage form : *#zɡˈɑu#
+*#zɡˈɑw# | 315 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Proto-Romanian II stage form : *#zɡˈɑw#
+Common Romanian stage form : *#zɡˈɑw#
+Old Romanian stage form : *#zɡˈɑw#
+Final form : *#zɡˈɑw#

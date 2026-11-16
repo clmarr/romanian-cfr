@@ -1,16 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1138:
-#ˌinkirkˈɑː# >>> *#ɨnt͡ʃerkˈɑ# ( GOLD : #ɨnt͡ʃerkˈɑ#) :
-ˌi n k i r k ˈɑː 
-*#inkirkˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enkerkˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkʲerkˈɑː# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#enkʲerkˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkʲerkˈɑ#
-*#ɑnkʲerkˈɑ# | 158 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənkʲerkˈɑ# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənc͡ɕerkˈɑ# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənt͡ʃerkˈɑ# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənt͡ʃerkˈɑ#
-*#ɨnt͡ʃerkˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnt͡ʃerkˈɑ#
-Final form : *#ɨnt͡ʃerkˈɑ#
+... >>> *#strˈɨmb# ( GOLD : #strˈɨmb#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#strˈɑmbu# | 176 : m > ∅ / [-stres] __ #
+*#istrˈɑmbu# | 243 : ∅ > i / # __ s [+cons,-son]
+*#estrˈɑmbu# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#strˈɑmbu# | 289 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#strˈɑmbu#
+*#stɾˈɑmbu# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#stɾˈɑmbu#
+*#stɾˈɨmbu# | 342 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#stɾˈɨmbu#
+Common Romanian stage form : *#stɾˈɨmbu#
+*#strˈɨmbu# | 400 : ɾ > r 
+*#strˈɨmbw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#strˈɨmb# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#strˈɨmb#
+Final form : *#strˈɨmb#

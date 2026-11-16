@@ -1,13 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1010:
-#ˌɑddˌeːˈɑnte# >>> *#ɑdˈinte# ( GOLD : #ɑdˈinte#) :
-ˌɑ d d ˌeː ˈɑ n t e 
-*#ˌɑddˈeːˈɑnte# | 3 : [+syl,+long] > [+prim,+stres,+syl,+son] / __ [+syl,-long,+prim]
-*#ˌɑddˈeːnte# | 4 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
-*#ɑddˈeːnte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑdˈeːnte# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
-*#ɑdˈente# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑdˈente#
-*#ɑdˈinte# | 233 : [+syl,+front] > [+hi] / __ n [+cons]
-Common Romanian stage form : *#ɑdˈinte#
-Old Romanian stage form : *#ɑdˈinte#
-Final form : *#ɑdˈinte#
+... >>> *#sekˈure# ( GOLD : #sekˈure#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#sekˈuːre# | 176 : m > ∅ / [-stres] __ #
+*#sekˈure# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sekˈure#
+*#sekˈuɾe# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#sekˈuɾe#
+Proto-Romanian II stage form : *#sekˈuɾe#
+Common Romanian stage form : *#sekˈuɾe#
+*#sekˈure# | 400 : ɾ > r 
+Old Romanian stage form : *#sekˈure#
+Final form : *#sekˈure#

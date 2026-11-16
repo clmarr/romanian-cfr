@@ -1,21 +1,26 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 302:
-#ˌinɡrˌewikˈɑː# >>> *#ɨnɡrikˈɑ# ( GOLD : #ɨnɡrekˈɑ#) :
-ˌi n ɡ r ˌe w i k ˈɑː 
-*#inɡrewikˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inɡreβikˈɑː# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#enɡreβekˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡrewɑkˈɑː# | 125 : β [+front,-hi,-prim] > w [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel]/ [+syl,+front,-hi,-lo] __
-*#enɡrewɑkˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡrewɑkˈɑ#
-*#enɡɾewɑkˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#ɑnɡɾewɑkˈɑ# | 158 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənɡɾewɑkˈɑ# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənɡɾeɑkˈɑ# | 206 : w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
-*#ənɡɾeəkˈɑ# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənɡɾekˈɑ# | 225 : ə > ∅ / [+syl] __ [anas,acont]
-Common Romanian stage form : *#ənɡɾekˈɑ#
-*#ənɡrekˈɑ# | 259 : ɾ > r 
-*#ɨnɡrekˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnɡrekˈɑ#
-*#ɨnɡrikˈɑ# | 298 : e > i / [+cons,αlab] r __ [+cons,αlab,-cor]
-Final form : *#ɨnɡrikˈɑ#
+... >>> *#ˈie# ( GOLD : #ˈie#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#lˈiːnjɑm# | 149 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#lˈiːnjɑ# | 176 : m > ∅ / [-stres] __ #
+*#lˈinjɑ# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lˈinjɑ#
+Proto-Romanian I stage form : *#lˈinjɑ#
+*#ljˈinjɑ# | 327 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#lʲjˈinʲjɑ# | 329 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lʲˈinʲɑ# | 331 : j > ∅ / [+cons,+front] __
+*#ʎˈiɲɑ# | 336 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ʎˈiɲə# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+Proto-Romanian II stage form : *#ʎˈiɲə#
+Common Romanian stage form : *#ʎˈiɲə#
+*#ʎˈiɲe# | 382 : ə > e / [+cons,+front,+son] __
+*#jˈije# | 415 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#jˈije#
+*#ˈije# | 435 : j > ∅ / __ [+front,+hi]
+*#ˈie# | 463 : j > ∅ / [+hi,+front] __ e
+Final form : *#ˈie#

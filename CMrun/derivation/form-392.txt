@@ -1,19 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 392:
-#wˌirtuˈoːsum# >>> *#vɨrtˈos# ( GOLD : #vɨrtˈos#) :
-w ˌi r t u ˈoː s u m 
-*#wˌirtwˈoːsum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#wirtwˈoːsum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wirtwˈoːsu# | 35 : m > ∅ / [-stres] __ #
-*#βirtβˈoːsu# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#βertβˈoːsu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#vertβˈoːsu# | 123 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#vertˈoːsu# | 136 : β > ∅ 
-*#vertˈosu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#vertˈosu#
-Common Romanian stage form : *#vertˈosu#
-*#vərtˈosu# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#vərtˈosw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#vərtˈos# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#vərtˈos#
-*#vɨrtˈos# | 290 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
-Final form : *#vɨrtˈos#
+... >>> *#kəpˈəstru# ( GOLD : #kəpˈəstru#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#kɑpˈistrum# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#kɑpˈistru# | 176 : m > ∅ / [-stres] __ #
+*#kɑpˈestru# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#kɑpˈestru#
+*#kɑpˈestɾu# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#kɑpˈestɾu#
+*#kəpˈestɾu# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+Proto-Romanian II stage form : *#kəpˈestɾu#
+Common Romanian stage form : *#kəpˈestɾu#
+*#kəpˈəstɾu# | 393 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#kəpˈəstru# | 400 : ɾ > r 
+*#kəpˈəstrw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#kəpˈəstru# | 410 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+Old Romanian stage form : *#kəpˈəstru#
+Final form : *#kəpˈəstru#

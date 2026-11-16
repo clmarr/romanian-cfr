@@ -1,14 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 4:
-#ˌɑdˌɑppˈositum# >>> *#ɑdəpˈost# ( GOLD : #ɑdəpˈost#) :
-ˌɑ d ˌɑ p p ˈo s i t u m 
-*#ɑdɑppˈositum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑdɑppˈositu# | 35 : m > ∅ / [-stres] __ #
-*#ɑdɑppˈostu# | 59 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [-son,+cont] __ [-son] [+syl]
-*#ɑdɑpˈostu# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-Balkan Romance stage form : *#ɑdɑpˈostu#
-*#ɑdəpˈostu# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#ɑdəpˈostu#
-*#ɑdəpˈostw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɑdəpˈost# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɑdəpˈost#
-Final form : *#ɑdəpˈost#
+... >>> *#xɨrt͡sˈie# ( GOLD : #hɨrtˈie#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : *#xɑrtˈijɑ#
+*#xɑrtjˈijɑ# | 327 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#xɑrtʲjˈijɑ# | 329 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#xɑrtʲˈijɑ# | 331 : j > ∅ / [+cons,+front] __
+*#xərtʲˈijə# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+*#xərt͡sʲˈijə# | 352 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#xərt͡sˈijə# | 353 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Proto-Romanian II stage form : *#xərt͡sˈijə#
+Common Romanian stage form : *#xərt͡sˈijə#
+Old Romanian stage form : *#xərt͡sˈijə#
+*#xɨrt͡sˈijə# | 431 : ə > ɨ / __ r [+cons,-cont,+cor,+ant]
+*#xɨrt͡sˈije# | 432 : [-round,-front,-prim] > e / [+front,+hi] __ #
+*#xɨrt͡sˈie# | 463 : j > ∅ / [+hi,+front] __ e
+Final form : *#xɨrt͡sˈie#

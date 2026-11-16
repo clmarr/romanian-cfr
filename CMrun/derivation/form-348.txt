@@ -1,15 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 348:
-#mˌoːnstrˈɑː# >>> *#mustrˈɑ# ( GOLD : #mustrˈɑ#) :
-m ˌoː n s t r ˈɑː 
-*#moːnstrˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#moːstrˈɑː# | 87 : [+syl] n > [+long] ∅/ # ( ( @ )* [-cons] ) [+cons] __ [-son,+cont]
-*#mostrˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mostrˈɑ#
-*#mostɾˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#mustɾˈɑ# | 167 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#mostɾˈɑ# | 214 : u > o / # ( [-prim] ( [+nas] ) ) [+cons,-cor,mvoi,mson] __ ( [+cor,+ant,+cont,svoi,sson] ) [+ant,-voi] ( [-cont,rvoi,rson] ) ( [-cons,-hi,-syl] ) [+prim]
-Common Romanian stage form : *#mostɾˈɑ#
-*#mostrˈɑ# | 259 : ɾ > r 
-Old Romanian stage form : *#mostrˈɑ#
-*#mustrˈɑ# | 320 : o > u / # ( ( [-prim] ) [+nas] ) ( [-cont,-cor] ) __ [nnas,nvoi,+ant] ( [nnas,nvoi,+cor] )* ( ( [-prim] ) [+son,+cor] ) ( [-syl,-hi,-cons] ) [+prim]
-Final form : *#mustrˈɑ#
+... >>> *#ˈokj# ( GOLD : #ˈokj#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ˈokulu# | 176 : m > ∅ / [-stres] __ #
+*#ˈoklu# | 190 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+Balkan Romance stage form : *#ˈoklu#
+Proto-Romanian I stage form : *#ˈoklu#
+*#ˈokʎu# | 350 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#ˈokʎu#
+Common Romanian stage form : *#ˈokʎu#
+*#ˈokʎw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ˈokʎu# | 410 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+*#ˈokju# | 415 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#ˈokju#
+*#ˈokj# | 424 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
+Final form : *#ˈokj#

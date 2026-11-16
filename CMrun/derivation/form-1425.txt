@@ -1,20 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1425:
-#ˌekskˈɑwriɑt# >>> *#zɡˈɑwrə# ( GOLD : #zɡˈɨrje#) :
-ˌe k s k ˈɑ w r i ɑ t 
-*#ˌekskˈɑwrjɑt# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ekskˈɑwrjɑt# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskˈɑwrjɑ# | 74 : [+cons,-cont] > ∅ / __ #
-*#eskˈɑwrjɑ# | 89 : [-cont] > ∅ / __ [+strid] [+cons]
-*#esɡˈɑwrjɑ# | 138 : k > ɡ / # ( ( e ) s ) __ [+syl,+back] [+lab,+voi,-nas] ( ( [-syl,+son,-front] ( j ) ) [-prim] )* #
-*#sɡˈɑwrjɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#sɡˈɑwrjɑ#
-*#sɡˈɑwɾjɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#zɡˈɑwɾjɑ# | 157 : s > z / # __ [+voi,-son]
-*#zɡˈɑwɾʲjɑ# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#zɡˈɑwɾʲɑ# | 190 : j > ∅ / [+cons,+front] __
-*#zɡˈɑwɾɑ# | 194 : ɾʲ > ɾ / [+hi] __
-*#zɡˈɑwɾə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#zɡˈɑwɾə#
-*#zɡˈɑwrə# | 259 : ɾ > r 
-Old Romanian stage form : *#zɡˈɑwrə#
-Final form : *#zɡˈɑwrə#
+... >>> *#rˈɨs# ( GOLD : #rˈɨs#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#rˈiːsu# | 176 : m > ∅ / [-stres] __ #
+*#rˈisu# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rˈisu#
+*#ɾˈisu# | 295 : r > ɾ / __ [nnas,ncons]
+*#rɾˈisu# | 296 : ∅ > r / # __ ɾ
+Proto-Romanian I stage form : *#rɾˈisu#
+*#rˈisu# | 359 : {ɾ;r} > {∅;∅} / r __
+*#rˈɨsu# | 360 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Proto-Romanian II stage form : *#rˈɨsu#
+Common Romanian stage form : *#rˈɨsu#
+*#rˈɨsw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#rˈɨs# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#rˈɨs#
+Final form : *#rˈɨs#

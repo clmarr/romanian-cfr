@@ -1,15 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 8:
-#ˌɑdˈipsum# >>> *#ɑdˈins# ( GOLD : #ɑdˈins#) :
-ˌɑ d ˈi p s u m 
-*#ɑdˈipsum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑdˈipsu# | 35 : m > ∅ / [-stres] __ #
-*#ɑdˈimsu# | 39 : p > m / [+syl,+prim,+hi] __ [+cor,-son]
-*#ɑdˈemsu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#ɑdˈemsu#
-*#ɑdˈensu# | 227 : m > n / __ s
-*#ɑdˈinsu# | 233 : [+syl,+front] > [+hi] / __ n [+cons]
-Common Romanian stage form : *#ɑdˈinsu#
-*#ɑdˈinsw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#ɑdˈins# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɑdˈins#
-Final form : *#ɑdˈins#
+... >>> *#volbe̯ˈɑ# ( GOLD : #holbˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#wolwˈe# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#βolβˈe# | 219 : w > β / __ ( [-cons] ( @ )* ) #
+*#βolβˈɛ# | 251 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#volβˈɛ# | 264 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#volbˈɛ# | 273 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+Balkan Romance stage form : *#volbˈɛ#
+Proto-Romanian I stage form : *#volbˈɛ#
+*#volbˈe# | 307 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#volbˈɛ# | 321 : [+syl,-hi,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
+*#volbˈɛɑ# | 338 : ∅ > ɑ / [-tense] __
+*#volbˈeˈɑ# | 339 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#volbe̯ˈɑ# | 340 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#volbe̯ˈɑ#
+Common Romanian stage form : *#volbe̯ˈɑ#
+Old Romanian stage form : *#volbe̯ˈɑ#
+Final form : *#volbe̯ˈɑ#

@@ -1,19 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 16:
-#ˌɑdmˌiːnɑkiˈɑː# >>> *#ɑmənət͡sˈɑ# ( GOLD : #ɑmenint͡sˈɑ#) :
-ˌɑ d m ˌiː n ɑ k i ˈɑː 
-*#ˌɑdmˌiːnɑkjˈɑː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ɑdmiːnɑkjˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑmmiːnɑkjˈɑː# | 29 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-*#ɑmmiːnɑtʲˈɑː# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɑmminɑtʲˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑmminɑtʲˈɑ#
-*#ɑminɑtʲˈɑ# | 187 : {l l;m m} > {l;m} 
-*#ɑminətʲˈɑ# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɑminət͡sʲˈɑ# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ɑminət͡sˈɑ# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ɑminət͡sˈɑ#
-*#ɑmənət͡sˈɑ# | 250 : [+front,+syl] > [-hi,-front,0tense] / # ( ( @ )* [+syl,-round] ( ɾ ) ) [+lab,+cons] ( t ) __ n [+syl,-round,-hi]
-*#ɑmɨnət͡sˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɑmənət͡sˈɑ# | 266 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
-Old Romanian stage form : *#ɑmənət͡sˈɑ#
-Final form : *#ɑmənət͡sˈɑ#
+... >>> *#ɨnəpˈoj# ( GOLD : #ɨnɑpˈoj#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#inɑdpˈost# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inɑpˈost# | 171 : d > ∅ / [+syl,+lo] __ [-syl]
+*#inɑpˈos# | 215 : [+cons,-cont] > ∅ / __ #
+*#enɑpˈos# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑpˈoj# | 293 : s > j / [+stres] __ #
+Balkan Romance stage form : *#enɑpˈoj#
+Proto-Romanian I stage form : *#enɑpˈoj#
+*#ɑnɑpˈoj# | 299 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənɑpˈoj# | 341 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənəpˈoj# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+Proto-Romanian II stage form : *#ənəpˈoj#
+Common Romanian stage form : *#ənəpˈoj#
+*#ɨnəpˈoj# | 403 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnəpˈoj#
+Final form : *#ɨnəpˈoj#

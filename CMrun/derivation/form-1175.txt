@@ -1,24 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1175:
-#sˈellɑm# >>> *#ʃˈɑ# ( GOLD : #ʃˈɑ#) :
-s ˈe l l ɑ m 
-*#sˈellɑ# | 35 : m > ∅ / [-stres] __ #
-*#sˈɛllɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#sˈɛllɑ#
-*#sjˈɛllɑ# | 163 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#sjˈellɑ# | 166 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#sjˈɛllɑ# | 178 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#sjˈɛwɑ# | 183 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
-*#sʲjˈɛwɑ# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#sʲˈɛwɑ# | 190 : j > ∅ / [+cons,+front] __
-*#ɕˈɛwɑ# | 195 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#ɕˈɛɑwɑ# | 197 : ∅ > ɑ / [-tense] __
-*#ɕˈeˈɑwɑ# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɕe̯ˈɑwɑ# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ɕe̯ˈɑwə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ʃe̯ˈɑwə# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ʃe̯ˈɑwə#
-*#ʃe̯ˈɑw# | 245 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
-*#ʃe̯ˈɑ# | 246 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
-Old Romanian stage form : *#ʃe̯ˈɑ#
-*#ʃˈɑ# | 279 : e̯ ˈɑ > ˈɑ / ʃ __
-Final form : *#ʃˈɑ#
+... >>> *#səpre# ( GOLD : #spre#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#supre# | 220 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
+*#səpre# | 221 : [-prim] > ə / # [-voi] ( [-syl] ) __ ( [+nas] ) ( [-voi] ) ( r ) [-prim] ( [+cons] )* #
+Balkan Romance stage form : *#səpre#
+*#səpɾe# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#səpɾe#
+Proto-Romanian II stage form : *#səpɾe#
+Common Romanian stage form : *#səpɾe#
+*#səpre# | 400 : ɾ > r 
+Old Romanian stage form : *#səpre#
+Final form : *#səpre#

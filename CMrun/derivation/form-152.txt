@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 152:
-#ˌinkˌɑlkeˈɑː# >>> *#ɨnkəlt͡sˈɑ# ( GOLD : #ɨnkəlt͡sˈɑ#) :
-ˌi n k ˌɑ l k e ˈɑː 
-*#ˌinkˌɑlkjˈɑː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#inkɑlkjˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkɑltʲˈɑː# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#enkɑltʲˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkɑltʲˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkɑltʲˈɑ#
-*#ɑnkɑltʲˈɑ# | 158 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənkɑltʲˈɑ# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənkəltʲˈɑ# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənkəlt͡sʲˈɑ# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənkəlt͡sˈɑ# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənkəlt͡sˈɑ#
-*#ɨnkəlt͡sˈɑ# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnkəlt͡sˈɑ#
-Final form : *#ɨnkəlt͡sˈɑ#
+... >>> *#ɨnˈɑfurə# ( GOLD : #ɑnˈɑfurə#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+Balkan Romance stage form : ...
+*#ɑnˈɑfoɾɑ# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#ɑnˈɑfoɾɑ#
+*#ɑnˈɑfuɾɑ# | 308 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ənˈɑfuɾɑ# | 341 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#ənˈɑfuɾə# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+Proto-Romanian II stage form : *#ənˈɑfuɾə#
+Common Romanian stage form : *#ənˈɑfuɾə#
+*#ənˈɑfurə# | 400 : ɾ > r 
+*#ɨnˈɑfurə# | 403 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnˈɑfurə#
+Final form : *#ɨnˈɑfurə#

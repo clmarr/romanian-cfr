@@ -1,16 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 121:
-#ekskˌɑdˈeː# >>> *#skəde̯ˈɑ# ( GOLD : #skəde̯ˈɑ#) :
-e k s k ˌɑ d ˈeː 
-*#ekskɑdˈeː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#eskɑdˈeː# | 89 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskɑdˈe# | 147 : [+syl] > [-long,-splng] 
-*#skɑdˈe# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#skɑdˈe#
-*#skɑdˈɛ# | 180 : [+syl,-hi,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#skɑdˈɛɑ# | 197 : ∅ > ɑ / [-tense] __
-*#skɑdˈeˈɑ# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#skɑde̯ˈɑ# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#skəde̯ˈɑ# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#skəde̯ˈɑ#
-Old Romanian stage form : *#skəde̯ˈɑ#
-Final form : *#skəde̯ˈɑ#
+... >>> *#ɑʒutˈɑ# ( GOLD : #ɑʒutˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ˌɑdjˌuːtˈɑː# | 149 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɑdjuːtˈɑː# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑjuːtˈɑː# | 171 : d > ∅ / [+syl,+lo] __ [-syl]
+*#ɑdjuːtˈɑː# | 185 : j > d j / [+syl,-stres] __ [+syl,+round]
+*#ɑdʲuːtˈɑː# | 188 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɑɡʲuːtˈɑː# | 261 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɑɡʲutˈɑ# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɑɡʲutˈɑ#
+Proto-Romanian I stage form : *#ɑɡʲutˈɑ#
+*#ɑɟ͡ʑutˈɑ# | 352 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ɑd͡ʒutˈɑ# | 353 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Proto-Romanian II stage form : *#ɑd͡ʒutˈɑ#
+Common Romanian stage form : *#ɑd͡ʒutˈɑ#
+Old Romanian stage form : *#ɑd͡ʒutˈɑ#
+*#ɑʒutˈɑ# | 454 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Final form : *#ɑʒutˈɑ#

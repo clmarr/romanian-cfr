@@ -1,17 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 61:
-#ˌɑmmˌɑttˈiː# >>> *#ɑmət͡sˈi# ( GOLD : #ɑmet͡sˈi#) :
-ˌɑ m m ˌɑ t t ˈiː 
-*#ɑmmɑttˈiː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑmmɑtˈiː# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ɑmmɑtˈi# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑmmɑtˈi#
-*#ɑmmɑtjˈi# | 186 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ɑmɑtjˈi# | 187 : {l l;m m} > {l;m} 
-*#ɑmɑtʲjˈi# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɑmɑtʲˈi# | 190 : j > ∅ / [+cons,+front] __
-*#ɑmətʲˈi# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ɑmət͡sʲˈi# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ɑmət͡sˈi# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ɑmət͡sˈi#
-Old Romanian stage form : *#ɑmət͡sˈi#
-Final form : *#ɑmət͡sˈi#
+... >>> *#ɨnsurˈɑ# ( GOLD : #ɨnsurˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ensolˈɑː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#ensolˈɑ# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ensolˈɑ#
+Proto-Romanian I stage form : *#ensolˈɑ#
+*#ɑnsolˈɑ# | 299 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑnsulˈɑ# | 308 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ɑnsuɾˈɑ# | 314 : l > ɾ / [+syl] __ [+syl]
+*#ənsuɾˈɑ# | 341 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ənsuɾˈɑ#
+Common Romanian stage form : *#ənsuɾˈɑ#
+*#ənsurˈɑ# | 400 : ɾ > r 
+*#ɨnsurˈɑ# | 403 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnsurˈɑ#
+Final form : *#ɨnsurˈɑ#

@@ -1,23 +1,33 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 984:
-#pertrɑːjˈike# >>> *#petrˈet͡ʃe# ( GOLD : #petrˈet͡ʃe#) :
-p e r t r ɑː j ˈi k e 
-*#pertrˈɑːjike# | 23 : [+syl] [-cons,-syl,+hi,+front] [+syl,+prim,+hi,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] i
-*#pertrˈɑːjke# | 25 : i > ∅ / j __
-*#pertrˈɛːke# | 33 : [+syl,+lo] j > [-lo,-tense,+long,+front,-back,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#petrˈɛːke# | 67 : [+cons,+son] > ∅ / [+cons,-cor] [+syl,-prim] __ [-cont,-voi] [+cons,+son]
-*#petrˈɛːkʲe# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#petrˈɛkʲe# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#petrˈɛkʲe#
-*#petɾˈɛkʲe# | 154 : r > ɾ / __ [nnas,ncons]
-*#petɾˈekʲe# | 166 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#petɾˈɛkʲe# | 178 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#petɾˈɛɑkʲe# | 197 : ∅ > ɑ / [-tense] __
-*#petɾˈeˈɑkʲe# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#petɾe̯ˈɑkʲe# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#petɾe̯ˈɑc͡ɕe# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#petɾe̯ˈɑt͡ʃe# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#petɾe̯ˈɑt͡ʃe#
-*#petre̯ˈɑt͡ʃe# | 259 : ɾ > r 
-Old Romanian stage form : *#petre̯ˈɑt͡ʃe#
-*#petrˈet͡ʃe# | 280 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-Final form : *#petrˈet͡ʃe#
+... >>> *#sərt͡ʃinˈɑr# ( GOLD : #sərt͡ʃinˈer#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#sˌɑrkinˈɑːrjum# | 149 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#sɑrkinˈɑːrjum# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#sɑrkinˈɑːrju# | 176 : m > ∅ / [-stres] __ #
+*#sɑrkenˈɑːrju# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#sɑrkʲenˈɑːrju# | 285 : [-cont,+back] > [+front] / __ [-cons,+front]
+*#sɑrkʲenˈɑrju# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sɑrkʲenˈɑrju#
+*#sɑrkʲenˈɑɾju# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#sɑrkʲenˈɑɾju#
+*#sɑrkʲinˈɑɾju# | 323 : [+syl,+front,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+*#sɑrkʲjinˈɑɾju# | 327 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#sɑrkʲjinˈɑɾʲju# | 329 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#sɑrkʲinˈɑɾʲu# | 331 : j > ∅ / [+cons,+front] __
+*#sərkʲinˈɑɾʲu# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+*#sərc͡ɕinˈɑɾʲu# | 352 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#sərt͡ʃinˈɑɾʲu# | 353 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Proto-Romanian II stage form : *#sərt͡ʃinˈɑɾʲu#
+Common Romanian stage form : *#sərt͡ʃinˈɑɾʲu#
+*#sərt͡ʃinˈɑjɾu# | 384 : ɾʲ > j ɾ 
+*#sərt͡ʃinˈɑjru# | 400 : ɾ > r 
+*#sərt͡ʃinˈɑjrw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sərt͡ʃinˈɑjr# | 412 : w̥ > ∅ / [-syl] __ #
+*#sərt͡ʃinˈɑr# | 417 : j > ∅ / __ r
+Old Romanian stage form : *#sərt͡ʃinˈɑr#
+Final form : *#sərt͡ʃinˈɑr#

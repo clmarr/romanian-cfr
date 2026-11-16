@@ -1,18 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 204:
-#wˌetrˈɑːnum# >>> *#bətrˈɨn# ( GOLD : #bətrˈɨn#) :
-w ˌe t r ˈɑː n u m 
-*#wetrˈɑːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wetrˈɑːnu# | 35 : m > ∅ / [-stres] __ #
-*#βetrˈɑːnu# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#betrˈɑːnu# | 122 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
-*#betrˈɑnu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#betrˈɑnu#
-*#betɾˈɑnu# | 154 : r > ɾ / __ [nnas,ncons]
-*#betɾˈɨnu# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Common Romanian stage form : *#betɾˈɨnu#
-*#bətɾˈɨnu# | 252 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#bətrˈɨnu# | 259 : ɾ > r 
-*#bətrˈɨnw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#bətrˈɨn# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#bətrˈɨn#
-Final form : *#bətrˈɨn#
+... >>> *#ɑpro̯ˈɑpe# ( GOLD : #ɑpro̯ˈɑpe#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ɑdprˈope# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑprˈope# | 171 : d > ∅ / [+syl,+lo] __ [-syl]
+Balkan Romance stage form : *#ɑprˈope#
+*#ɑpɾˈope# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#ɑpɾˈope#
+*#ɑpɾˈɔpe# | 319 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ɑpɾˈɔɑpe# | 338 : ∅ > ɑ / [-tense] __
+*#ɑpɾˈoˈɑpe# | 339 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɑpɾo̯ˈɑpe# | 340 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#ɑpɾo̯ˈɑpe#
+Common Romanian stage form : *#ɑpɾo̯ˈɑpe#
+*#ɑpro̯ˈɑpe# | 400 : ɾ > r 
+Old Romanian stage form : *#ɑpro̯ˈɑpe#
+Final form : *#ɑpro̯ˈɑpe#

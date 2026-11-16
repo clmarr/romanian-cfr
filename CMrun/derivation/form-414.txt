@@ -1,25 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 414:
-#pˈereɑt# >>> *#pjˈere# ( GOLD : #pjˈere#) :
-p ˈe r e ɑ t 
-*#pˈerjɑt# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#pˈerjɑ# | 74 : [+cons,-cont] > ∅ / __ #
-*#pˈɛrjɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#pˈɛrjɑ#
-*#pˈɛɾjɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#pjˈɛɾjɑ# | 163 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pjˈeɾjɑ# | 166 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pjˈɛɾjɑ# | 178 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pjˈɛɾʲjɑ# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pjˈɛɾʲɑ# | 190 : j > ∅ / [+cons,+front] __
-*#pjˈɛɑɾʲɑ# | 197 : ∅ > ɑ / [-tense] __
-*#pjˈeˈɑɾʲɑ# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pje̯ˈɑɾʲɑ# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pje̯ˈɑɾʲə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-Common Romanian stage form : *#pje̯ˈɑɾʲə#
-*#pje̯ˈɑɾʲe# | 241 : ə > e / [+cons,+front,+son] __
-*#pje̯ˈɑjɾe# | 243 : ɾʲ > j ɾ 
-*#pjˈejɾe# | 249 : e̯ ˈɑ > ˈe / [+lab] j __ ( @ )* [+front]
-*#pjˈejre# | 259 : ɾ > r 
-*#pjˈere# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#pjˈere#
-Final form : *#pjˈere#
+... >>> *#kˈirmə# ( GOLD : #kˈɨrmə#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+Balkan Romance stage form : ...
+*#kˈʊɾmɑ# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#kˈʊɾmɑ#
+*#kjˈʊɾmɑ# | 304 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#kjˈuɾmɑ# | 307 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#kjˈuɾmə# | 349 : [-cons,+lo,-stres,-long] > ə / @ __
+Proto-Romanian II stage form : *#kjˈuɾmə#
+Common Romanian stage form : *#kjˈuɾmə#
+*#kjˈurmə# | 400 : ɾ > r 
+Old Romanian stage form : *#kjˈurmə#
+*#kjˈirmə# | 434 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
+*#kˈirmə# | 435 : j > ∅ / __ [+front,+hi]
+Final form : *#kˈirmə#

@@ -1,17 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1095:
-#wˌolwˈe# >>> *#volbe̯ˈɑ# ( GOLD : #holbˈɑ#) :
-w ˌo l w ˈe 
-*#wolwˈe# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#βolβˈe# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#βolβˈɛ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#volβˈɛ# | 123 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#volbˈɛ# | 132 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
-Balkan Romance stage form : *#volbˈɛ#
-*#volbˈe# | 166 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#volbˈɛ# | 180 : [+syl,-hi,+stres,+front] > [-tense,-cons,-lat,+cont,0delrel] / [+syl] ( [-syl] )* __ #
-*#volbˈɛɑ# | 197 : ∅ > ɑ / [-tense] __
-*#volbˈeˈɑ# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#volbe̯ˈɑ# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#volbe̯ˈɑ#
-Old Romanian stage form : *#volbe̯ˈɑ#
-Final form : *#volbe̯ˈɑ#
+... >>> *#suflekˈɑ# ( GOLD : #suflekˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#subfollikˈɑː# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#suβfollikˈɑː# | 254 : b > β / [-cons] __ [+cont]
+*#suβfollekˈɑː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#sufollekˈɑː# | 277 : β > ∅ 
+*#sufollekˈɑ# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#sufollekˈɑ#
+Proto-Romanian I stage form : *#sufollekˈɑ#
+*#sufullekˈɑ# | 308 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#sufulekˈɑ# | 328 : {l l;m m} > {l;m} 
+Proto-Romanian II stage form : *#sufulekˈɑ#
+Common Romanian stage form : *#sufulekˈɑ#
+*#suflekˈɑ# | 418 : [+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
+Old Romanian stage form : *#suflekˈɑ#
+Final form : *#suflekˈɑ#

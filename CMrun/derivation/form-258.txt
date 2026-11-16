@@ -1,19 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 258:
-#ɡˌenˈukulum# >>> *#d͡ʒenˈunkj# ( GOLD : #d͡ʒenˈunkj#) :
-ɡ ˌe n ˈu k u l u m 
-*#ɡenˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɡenˈukulu# | 35 : m > ∅ / [-stres] __ #
-*#ɡenˈuklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#ɡʲenˈuklu# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-Balkan Romance stage form : *#ɡʲenˈuklu#
-*#ɡʲenˈukʎu# | 209 : l > ʎ / [-cont,-ant,-cor] __
-*#ɟ͡ʑenˈukʎu# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒenˈukʎu# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-*#d͡ʒenˈunkʎu# | 230 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
-Common Romanian stage form : *#d͡ʒenˈunkʎu#
-*#d͡ʒenˈunkʎw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#d͡ʒenˈunkʎu# | 269 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
-*#d͡ʒenˈunkju# | 274 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#d͡ʒenˈunkju#
-*#d͡ʒenˈunkj# | 283 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
-Final form : *#d͡ʒenˈunkj#
+... >>> *#prˈiɡ# ( GOLD : #ˈɑpriɡ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ɑprˈiːkum# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑprˈiːku# | 176 : m > ∅ / [-stres] __ #
+*#prˈiːku# | 240 : ɑ > ∅ / # __ [+cons,ason,avoi] [+cor,+son] [+stres,+long]
+*#prˈiku# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#prˈiku#
+*#pɾˈiku# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#pɾˈiku#
+Proto-Romanian II stage form : *#pɾˈiku#
+Common Romanian stage form : *#pɾˈiku#
+*#prˈiku# | 400 : ɾ > r 
+*#prˈikw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#prˈik# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#prˈik#
+*#prˈiɡ# | 433 : k > ɡ / [-cont,-voi] r [+syl] __ ( [-stres] ) #
+Final form : *#prˈiɡ#

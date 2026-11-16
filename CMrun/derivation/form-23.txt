@@ -1,21 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 23:
-#ˌɑdprˌehˈende# >>> *#ɑprˈinde# ( GOLD : #ɑprˈinde#) :
-ˌɑ d p r ˌe h ˈe n d e 
-*#ɑdprehˈende# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑprehˈende# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
-*#ɑpreˈende# | 32 : [-son,-cons] > ∅ 
-*#ɑpriˈende# | 103 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#ɑprjˈende# | 109 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#ɑprjˈɛnde# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ɑprjˈɛnde#
-*#ɑpɾjˈɛnde# | 154 : r > ɾ / __ [nnas,ncons]
-*#ɑpɾjˈende# | 161 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#ɑpɾʲjˈende# | 188 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɑpɾʲˈende# | 190 : j > ∅ / [+cons,+front] __
-*#ɑpɾʲˈinde# | 233 : [+syl,+front] > [+hi] / __ n [+cons]
-Common Romanian stage form : *#ɑpɾʲˈinde#
-*#ɑpjɾˈinde# | 243 : ɾʲ > j ɾ 
-*#ɑpjrˈinde# | 259 : ɾ > r 
-*#ɑprˈinde# | 276 : j > ∅ / __ r
-Old Romanian stage form : *#ɑprˈinde#
-Final form : *#ɑprˈinde#
+... >>> *#ɨnkɨntˈɑ# ( GOLD : #ɨnkɨntˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#enkɑntˈɑː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkɑntˈɑ# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enkɑntˈɑ#
+Proto-Romanian I stage form : *#enkɑntˈɑ#
+*#ɑnkɑntˈɑ# | 299 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənkəntˈɑ# | 341 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ənkəntˈɑ#
+Common Romanian stage form : *#ənkəntˈɑ#
+*#ɨnkɨntˈɑ# | 403 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnkɨntˈɑ#
+Final form : *#ɨnkɨntˈɑ#

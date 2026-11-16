@@ -1,18 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1166:
-#trɑːmˈitte# >>> *#trimˈete# ( GOLD : #trimˈite#) :
-t r ɑː m ˈi t t e 
-*#trɑːmˈette# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#trɑːmˈete# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#trɑmˈete# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#trɑmˈete#
-*#tɾɑmˈete# | 154 : r > ɾ / __ [nnas,ncons]
-*#tɾimˈete# | 160 : [+lo,aprim] > [-lo,+hi,-back,+front] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,!aprim]
-*#tɾimˈɛte# | 178 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#tɾimˈɛɑte# | 197 : ∅ > ɑ / [-tense] __
-*#tɾimˈeˈɑte# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#tɾime̯ˈɑte# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Common Romanian stage form : *#tɾime̯ˈɑte#
-*#trime̯ˈɑte# | 259 : ɾ > r 
-Old Romanian stage form : *#trime̯ˈɑte#
-*#trimˈete# | 280 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-Final form : *#trimˈete#
+... >>> *#spɨntekˈɑ# ( GOLD : #spintekˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ekspɑntikˈɑː# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#espɑntikˈɑː# | 230 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espɑntekˈɑː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+*#espɑntekˈɑ# | 288 : [+syl] > [-long,-splng] 
+*#spɑntekˈɑ# | 289 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#spɑntekˈɑ#
+Proto-Romanian I stage form : *#spɑntekˈɑ#
+*#spəntekˈɑ# | 341 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#spɨntekˈɑ# | 375 : ə > ɨ / # ( [-syl] )* [+cons,-cor] __ n ( @ )* ˈɑ
+Proto-Romanian II stage form : *#spɨntekˈɑ#
+Common Romanian stage form : *#spɨntekˈɑ#
+Old Romanian stage form : *#spɨntekˈɑ#
+Final form : *#spɨntekˈɑ#

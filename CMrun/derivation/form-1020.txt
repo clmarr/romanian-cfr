@@ -1,14 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1020:
-#dˌeːpost# >>> *#dep# ( GOLD : #dupə#) :
-d ˌeː p o s t 
-*#deːpost# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#deːpos# | 74 : [+cons,-cont] > ∅ / __ #
-*#depos# | 147 : [+syl] > [-long,-splng] 
-*#depo# | 153 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#depo#
-*#depu# | 167 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Common Romanian stage form : *#depu#
-*#depw̥# | 268 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
-*#dep# | 271 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#dep#
-Final form : *#dep#
+... >>> *#sˈemn# ( GOLD : #sˈemn#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#sˈiŋnum# | 153 : ɡ > ŋ / __ n
+*#sˈiŋnu# | 176 : m > ∅ / [-stres] __ #
+*#sˈimnu# | 237 : ŋ > m 
+*#sˈemnu# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#sˈemnu#
+Proto-Romanian I stage form : *#sˈemnu#
+Proto-Romanian II stage form : *#sˈemnu#
+Common Romanian stage form : *#sˈemnu#
+*#sˈemnw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#sˈemn# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sˈemn#
+Final form : *#sˈemn#

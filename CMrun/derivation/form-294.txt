@@ -1,18 +1,26 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 294:
-#sˌuɡɡluttiˈɑː# >>> *#suɡit͡sˈɑ# ( GOLD : #suɡit͡sˈɑ#) :
-s ˌu ɡ ɡ l u t t i ˈɑː 
-*#sˌuɡɡluttjˈɑː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#suɡɡluttjˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#suɡɡluttʲˈɑː# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#suɡlutʲˈɑː# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#suɡlutʲˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#suɡlutʲˈɑ#
-*#suɡʎutʲˈɑ# | 209 : l > ʎ / [-cont,-ant,-cor] __
-*#suɡʎut͡sʲˈɑ# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#suɡʎut͡sˈɑ# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#suɡʎut͡sˈɑ#
-*#suɡjut͡sˈɑ# | 274 : [+son,+cons,+front] > j 
-Old Romanian stage form : *#suɡjut͡sˈɑ#
-*#suɡjit͡sˈɑ# | 293 : [+syl,+hi] > [+front,-back,-round,-lab] / j __
-*#suɡit͡sˈɑ# | 294 : j > ∅ / __ [+front,+hi]
-Final form : *#suɡit͡sˈɑ#
+... >>> *#inˈel# ( GOLD : #inˈel#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ɑːnˈellu# | 176 : m > ∅ / [-stres] __ #
+*#ɑːnˈɛllu# | 251 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɑnˈɛllu# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɑnˈɛllu#
+Proto-Romanian I stage form : *#ɑnˈɛllu#
+*#inˈɛllu# | 301 : [+lo,aprim] > [-lo,+hi,-back,+front] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,!aprim]
+*#injˈɛllu# | 304 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#injˈellu# | 307 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#injˈelu# | 328 : {l l;m m} > {l;m} 
+*#inʲjˈelu# | 329 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#inʲˈelu# | 331 : j > ∅ / [+cons,+front] __
+*#inˈelu# | 332 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front] [-nas]
+Proto-Romanian II stage form : *#inˈelu#
+Common Romanian stage form : *#inˈelu#
+*#inˈelw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#inˈel# | 412 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#inˈel#
+Final form : *#inˈel#

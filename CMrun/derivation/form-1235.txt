@@ -1,17 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1235:
-#ˌinfrˈɑnɡe# >>> *#ɨnfrˈɨnd͡ʒe# ( GOLD : #ɨnfrˈɨnd͡ʒe#) :
-ˌi n f r ˈɑ n ɡ e 
-*#infrˈɑnɡe# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enfrˈɑnɡe# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enfrˈɑnɡʲe# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-Balkan Romance stage form : *#enfrˈɑnɡʲe#
-*#enfɾˈɑnɡʲe# | 154 : r > ɾ / __ [nnas,ncons]
-*#ɑnfɾˈɑnɡʲe# | 158 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənfɾˈɨnɡʲe# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənfɾˈɨnɟ͡ʑe# | 211 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ənfɾˈɨnd͡ʒe# | 212 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ənfɾˈɨnd͡ʒe#
-*#ənfrˈɨnd͡ʒe# | 259 : ɾ > r 
-*#ɨnfrˈɨnd͡ʒe# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnfrˈɨnd͡ʒe#
-Final form : *#ɨnfrˈɨnd͡ʒe#
+... >>> *#zburˈɑ# ( GOLD : #zburˈɑ#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#ekswolˈɑː# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#eksβolˈɑː# | 219 : w > β / __ ( [-cons] ( @ )* ) #
+*#esβolˈɑː# | 230 : [-cont] > ∅ / __ [+strid] [+cons]
+*#ezβolˈɑː# | 262 : s > z / # e __ [+voi,-son]
+*#ezbolˈɑː# | 273 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#ezbolˈɑ# | 288 : [+syl] > [-long,-splng] 
+*#zbolˈɑ# | 289 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#zbolˈɑ#
+Proto-Romanian I stage form : *#zbolˈɑ#
+*#zbulˈɑ# | 308 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#zbuɾˈɑ# | 314 : l > ɾ / [+syl] __ [+syl]
+Proto-Romanian II stage form : *#zbuɾˈɑ#
+Common Romanian stage form : *#zbuɾˈɑ#
+*#zburˈɑ# | 400 : ɾ > r 
+Old Romanian stage form : *#zburˈɑ#
+Final form : *#zburˈɑ#

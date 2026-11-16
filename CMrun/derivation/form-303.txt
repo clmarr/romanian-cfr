@@ -1,26 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 303:
-#ˌinɡrˈewikɑt# >>> *#ɨnɡre̯ˈɑkə# ( GOLD : #ɨnɡre̯ˈɑkə#) :
-ˌi n ɡ r ˈe w i k ɑ t 
-*#inɡrˈewikɑt# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inɡrˈewikɑ# | 74 : [+cons,-cont] > ∅ / __ #
-*#inɡrˈeβikɑ# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#inɡrˈɛβikɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#enɡrˈɛβekɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡrˈɛwɑkɑ# | 125 : β [+front,-hi,-prim] > w [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel]/ [+syl,+front,-hi,-lo] __
-Balkan Romance stage form : *#enɡrˈɛwɑkɑ#
-*#enɡɾˈɛwɑkɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#ɑnɡɾˈɛwɑkɑ# | 158 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnɡɾˈewɑkɑ# | 166 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɑnɡɾˈɛwɑkɑ# | 178 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#ɑnɡɾˈɛɑwɑkɑ# | 197 : ∅ > ɑ / [-tense] __
-*#ɑnɡɾˈeˈɑwɑkɑ# | 198 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɑnɡɾe̯ˈɑwɑkɑ# | 199 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#ənɡɾe̯ˈɑwɑkɑ# | 200 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#ənɡɾe̯ˈɑwəkə# | 208 : [-cons,+lo,-stres,-long] > ə / @ __
-*#ənɡɾe̯ˈɑwkə# | 224 : ə > ∅ / w __ @
-Common Romanian stage form : *#ənɡɾe̯ˈɑwkə#
-*#ənɡɾe̯ˈɑkə# | 246 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
-*#ənɡre̯ˈɑkə# | 259 : ɾ > r 
-*#ɨnɡre̯ˈɑkə# | 262 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnɡre̯ˈɑkə#
-Final form : *#ɨnɡre̯ˈɑkə#
+... >>> *#ˈin# ( GOLD : #ˈin#) :
+... 
+Proto-Balkan-Indo-European stage form : ...
+Archaic Proto-Albanian stage form : ...
+Classical Proto-Albanian stage form : ...
+Sub-Romanian stage form : ...
+Latin stage form : ...
+*#lˈiːnu# | 176 : m > ∅ / [-stres] __ #
+*#lˈinu# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lˈinu#
+Proto-Romanian I stage form : *#lˈinu#
+*#ljˈinu# | 327 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#lʲjˈinu# | 329 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lʲˈinu# | 331 : j > ∅ / [+cons,+front] __
+*#ʎˈinu# | 336 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Proto-Romanian II stage form : *#ʎˈinu#
+Common Romanian stage form : *#ʎˈinu#
+*#ʎˈinw̥# | 409 : [+syl,+hi,-stres] > [-voi,-syl,0stres,0prim] / __ #
+*#ʎˈin# | 412 : w̥ > ∅ / [-syl] __ #
+*#jˈin# | 415 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#jˈin#
+*#ˈin# | 435 : j > ∅ / __ [+front,+hi]
+Final form : *#ˈin#
