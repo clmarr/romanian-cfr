@@ -376,6 +376,8 @@ u > ɨ / [+cor,-strid,+voi] __ n [-delrel,-lab] [-cons,-lo]
 ə > ɨ / # ( [-syl] )* [+cons,-cor] __ n ( @ )* ˈɑ
 n > m / __ [-cont,+lab]
 ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+x > f / __ ( [+hi,+syl] ( [+cor,+son] ( [+syl] ) ) ) v
+x > f / v ( [+syl] ) ( [+cor,+son] ) ( [+syl] ) __
 [+syl,-lo] > [+round,+lab,-front,+back] / [+front] __ w @
 w > ∅ / __ [-cont,+son] [+front]
 m > n / __ [+cons,-lab,-nas]
@@ -417,6 +419,7 @@ w̥ > ∅ / [-syl] __ #
 [+lo] > [-lo,+front,-back] / j __ j
 j > ∅ / __ r
 [+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
+x > f / [+cor,-strid] [+syl,+round] __
 ɑ > ə / [+cons] __ #
 e̯ ˈɑ > ˈɑ / ʃ __
 e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
