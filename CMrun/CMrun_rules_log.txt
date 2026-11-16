@@ -349,18 +349,12 @@ w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
 [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
 [-cons,+lo,-stres,-long] > ə / @ __
 l > ʎ / [-cont,-ant,-cor] __
-s [-cont,+front] > ʃ t
-[-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-[-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-u > o / [+cons,-cor] __ ɾ ( [-prim] ) [+nas] [+prim]
-u > o / # ( [-prim] ( [+nas] ) ) [+cons,-cor,mvoi,mson] __ ( [+cor,+ant,+cont,svoi,sson] ) [+ant,-voi] ( [-cont,rvoi,rson] ) ( [-cons,-hi,-syl] ) [+prim]
 e > ∅ / [+syl] [+prim] [+cons] __ #
 ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
 ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
 {ɾ;r} > {∅;∅} / r __
 {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
 n n > n 
-u > ∅ / [-cons] [+nas,-lab] __ [+strid]
 [+syl,+round,+hi] > [-hi] / [+cons] __ ə [+cor,-nas]
 ∅ > w / [+prim,+round,-hi] __ [+syl]
 ə > ∅ / w __ @
@@ -374,6 +368,12 @@ u > ɨ / [+cor,-strid,+voi] __ n [-delrel,-lab] [-cons,-lo]
 ˈu > ˈɨ / [+syl] ( @ )* [+cor,-strid,+voi] __ n [-delrel,-lab] [-cons,-lo]
 [+syl,+front] > [+hi] / __ n [+cons]
 ə > ɨ / # ( [-syl] )* [+cons,-cor] __ n ( @ )* ˈɑ
+x > [-delrel,afront,-cont,+cons,0tense]/ [+strid,+cor,+cont] ( [+syl,-lo] ) __ [afront]
+[+cont,+strid,+cor] [-cont,+front] > [-ant,+distr,+front,+cor] [+ant,+cor,-distr,-front,-hi,-back,-delrel,-strid,-cont,+cons,0tense]
+[-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+[-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+u > ∅ / [-cons] [+nas,-lab] __ [+strid]
+u > o / [+cons,-cor] __ ɾ ( [-prim] ) [+nas] [+prim]
 n > m / __ [-cont,+lab]
 ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
 x > f / __ ( [+hi,+syl] ( [+cor,+son] ( [+syl] ) ) ) v
@@ -419,8 +419,10 @@ w̥ > ∅ / [-syl] __ #
 [+lo] > [-lo,+front,-back] / j __ j
 j > ∅ / __ r
 [+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
-x > f / [+cor,-strid] [+syl,+round] __
+x > f / [+ant,-strid] [+syl,+round] __
 ɑ > ə / [+cons] __ #
+x > k / [+back,-lo,-cons] __
+x > h 
 e̯ ˈɑ > ˈɑ / ʃ __
 e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
 j > ∅ / m __ ˈe [+cor,+cont,-nas,-lat] [+cor,-cont]

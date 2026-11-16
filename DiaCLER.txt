@@ -2009,29 +2009,7 @@ $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
 			$ EDIT: Expanding to handle sti reflexes:
 				$[-cont,-voi,+delrel] > t / ʃ __
 
-	$CM 9/18/26 -- consolidated R45 to single rule, without dependence on +delrel but rather palatality it refers to. 
-		$ move to before second palatalization resolution, which bleeds this. 
-	s [-cont,+front] > ʃ t
 
-$ TODO CONSOLIDATE INTO EARLIER? 
-	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
-			$ BLEEDS R44, COUNTERBLEEDS R45
-		$ t͡sʲ d͡zʲ 
-		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
-		$ ɲ ʎ stay put
-		$ ɾʲ has special behavior (see above) 
-	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
-		$ affrication as special rule is necessary because otherwise it will sweep up ɕ
-	[-cont,-son,+front] > [+delrel,+strid,-back]
-		$ fronting of palatals etc.: 
-	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
-
-
-	$ new rule oct 26 u > o also in Cperiph __ ɾ (V̯) n ˈV
-u > o / [+cons,-cor] __ ɾ ([-prim]) [+nas] [+prim]
-
-	$ new rule oct 26  u > o in # (V (N)) k/m/p/f __ (r/s) t/p (s/r/t) (e̯/o̯) ˈV 
-u > o / # ( [-prim] ( [+nas] ) ) [+cons,-cor,mvoi,mson] __ ( [+cor,+ant,+cont,svoi,sson] )  [+ant,-voi] ([-cont,rvoi,rson] ) ( [-cons,-hi,-syl] ) [+prim]
 
 
 $ NEW RULE: -ăune > -ăun
@@ -2071,8 +2049,6 @@ $ R50 + R51.
 $ R48 Deɡemination of [nn]: [nn] > [n]. CM Oct '26 -- relocdated to before Common Romanian, as it is shared.
 	n n > n
 
-$ NEW RULE OCT '26: u lost in V N-lab __ strid. Not m -- amuți. Fed by R48. Shared between Arom and Rom.
-u > ∅ / [-cons] [+nas,-lab] __ [+strid]
 
 $ NEW RULES: Handling of various outcomes of *uă
 	$ Each of these rules only affects, at most, two words. As such, they are all highly suspect.
@@ -2129,7 +2105,40 @@ $ CM 9/23 earlier raising in NT -- shared across Common Romanian
 $ CM 10/23 Common Romanian raising of first syllable post-peripheral ən before tonic ˈɑ
 ə > ɨ / # ([-syl])* [+cons,-cor] __ n (@)* ˈɑ 
 
+
 =Proto-Romanian II
+
+	$ CM 11.16.26.f -- post-sibilant x > k before back, > kʲ before front. Feeds s Tʲ > ʃt 
+x > [-delrel,afront] / [+strid,+cor,+cont] ([+syl,-lo]) __ [afront]
+
+	$CM 9/18/26 -- consolidated R45 to single rule, without dependence on +delrel but rather palatality it refers to. 
+		$ move to before second palatalization resolution, which counterbleeds this. 
+		$ 11.16.26 -- fixed to apply to z/ʒ d too. 
+	[+cont,+strid,+cor] [-cont,+front] > [-ant,+distr,+front] [+ant,+cor,-distr,-front,-hi,-back,-delrel,-strid]
+
+	$ new rule oct 26  u > o in # (V (N)) k/m/p/f __ (r/s) t/p (s/r/t) (e̯/o̯) ˈV. Bled by skʲ> ʃt
+$u > o / # ( [-prim] ( [+nas] ) ) [+cons,-cor,mvoi,mson] __ ( [+cor,+ant,+cont,svoi,sson] )  [+ant,-voi] ([-cont,rvoi,rson] ) ( [-cons,-hi,-syl] ) [+prim]
+	$ 11.16.26 -- SUPPRESSED. Overly complicated, appears to affect correctly only amorți and cotei -- tehre are probably other explanations for these. 
+
+$ TODO CONSOLIDATE INTO EARLIER? 
+	$ PER 9/18/26, CM edit -- SECOND PALATALIZATION CONSOLIDATION: resolution, palatal elements assume the forms they have in Common Romanian: 
+			$ BLEEDS R44, COUNTERBLEEDS R45
+		$ t͡sʲ d͡zʲ 
+		$ c͡ɕ j͡ʑ ɕ go to t͡ʃ d͡ʒ ʃ
+		$ ɲ ʎ stay put
+		$ ɾʲ has special behavior (see above) 
+	$ ... in summary, this can be formalized in a rule that operates on all palatal obstruents, completely depalatalizing them if anterior, and otherwise moving them to postalveolar position. 
+		$ affrication as special rule is necessary because otherwise it will sweep up ɕ
+	[-cont,-son,+front] > [+delrel,+strid,-back]
+		$ fronting of palatals etc.: 
+	[-son,+front,ðant] > [+cor,-hi,-ðfront,-ðdistr]
+
+$ NEW RULE OCT '26: u lost in V N-lab __ strid. Not m -- amuți. Fed by R48. Shared between Arom and Rom. Fed by second palatalization consolidation. 
+u > ∅ / [-cons] [+nas,-lab] __ [+strid]
+
+	$ new rule oct 26 u > o also in Cperiph __ ɾ (V̯) n ˈV. Bled by second palatalization resoluation. 
+u > o / [+cons,-cor] __ ɾ ([-prim]) [+nas] [+prim]
+
 
 $ Nasal assimilation. CM 10/26 -- shared across Common Romanian, moved to before its end
 	n > m / __ [-cont,+lab]
@@ -2396,12 +2405,18 @@ $ NEW RULE: Round vowel syncope after [f]
 		$ bled by ʎ > j in fuior -- must be after that
 
 $ CM 11.16.26.e Slavic *x > f after non-strident coronal + round. 
-x > f / [+cor,-strid] [+syl,+round] __ 
+x > f / [+ant,-strid] [+syl,+round] __ 
 
 ~Old Romanian
 
-$ CM insertion 11.16.26 -- final -a to -ə (again?). Handles -a in Slavic etc. vocab. Not if after a vocoid.
+$ CM insertion 11.16.26.a -- final -a to -ə (again?). Handles -a in Slavic etc. vocab. Not if after a vocoid.
 ɑ > ə / [+cons] __ #
+
+$ CM insertion 11.16.26.h PSlav *x > k after non-low back vocoids
+x > k / [+back,-lo,-cons] __ 
+
+$ CM insertion 11.16.26.i *x > h elsewhere 
+x > h
 
 $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 		$ at least R53B is bled by R46A; 
