@@ -347,7 +347,8 @@ nʲ > n / # ( ( @ )* [-nas] ) __ [+front] [-nas]
 [+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback] __
 w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
 [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
-[-cons,+lo,-stres,-long] > ə / @ __
+[-cons,+lo,-stres,-long] > ə / [+cons] __
+[-cons,+lo,-stres,-long] > ə / [-cons,+hi] __
 l > ʎ / [-cont,-ant,-cor] __
 e > ∅ / [+syl] [+prim] [+cons] __ #
 ˈu > ˈo / # ( ( @ )* [+syl] ) [+cor,+voi] ( [+cor,+voi] )* __ [+front,+son]
@@ -357,7 +358,7 @@ e > ∅ / [+syl] [+prim] [+cons] __ #
 n n > n 
 [+syl,+round,+hi] > [-hi] / [+cons] __ ə [+cor,-nas]
 ∅ > w / [+prim,+round,-hi] __ [+syl]
-ə > ∅ / w __ @
+[-stres] > ∅ / @ w __ @
 ə > ∅ / [+syl] __ [anas,acont]
 s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
 m > n / __ s

@@ -1964,12 +1964,16 @@ $ R36 {Vwa chanɡes}
 			$ EDIT: Also occurs in viduum>văduv. Following [a] is irrelevant. Stress is irrelevant.
 				[-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
 
+
+=Proto-Romanian II
+
 $ R37 {Raisinɡ of non-initial, non-ɡeminate, unstressed [a], Deɡemination of ɡeminate vowels}
 	$ R37A Raisinɡ of non-initial, non-ɡeminate, unstressed [a]
 		$ Pardess: [-cons,+lo,-stres,-long] > ə / [+cons] __
 		$ Looks like he intended to write ə but forɡot.
-		$ EDIT: Occurs after vowels. 
-			[-cons,+lo,-stres,-long] > ə / @ __
+		$ EDIT: Occurs after high vowels. 
+			[-cons,+lo,-stres,-long] > ə / {[+cons];[-cons,+hi]} __
+
 
 	$ R37B Deɡemination of ɡeminate vowels
 		$[+syl,αhi,βlo,ɣfront,δback] > ∅ / [+syl,αhi,βlo,ɣfront,δback,+stres] __
@@ -2061,8 +2065,8 @@ $ NEW RULES: Handling of various outcomes of *uă
 			$ EDIT: Replaced with following:
 				$ 3.1: [w] insertion after [ˈo]
 					∅ > w / [+prim,+round,-hi] __ [+syl]
-				$ 3.2: Schwa deletion 2
-					ə > ∅ / w __ @
+				$ 3.2: Unstressed vowel deletion 2. FIX: formerly just targeted schwa, but nothing survives in this position.
+					[-stres] > ∅ / @ w __ @
 		
 		$1. Schwa deletion (juăne > june) --- moved to before Common Romanian, as shared with Arom.
 			ə > ∅ / [+syl] __ [anas,acont] $ Would just be [-cont] if nasals were modeled as [-cont] in DiaSim.
@@ -2105,8 +2109,6 @@ $ CM 9/23 earlier raising in NT -- shared across Common Romanian
 $ CM 10/23 Common Romanian raising of first syllable post-peripheral ən before tonic ˈɑ
 ə > ɨ / # ([-syl])* [+cons,-cor] __ n (@)* ˈɑ 
 
-
-=Proto-Romanian II
 
 	$ CM 11.16.26.f -- post-sibilant x > k before back, > kʲ before front. Feeds s Tʲ > ʃt 
 x > [-delrel,afront] / [+strid,+cor,+cont] ([+syl,-lo]) __ [afront]
