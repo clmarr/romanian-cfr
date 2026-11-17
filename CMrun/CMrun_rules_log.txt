@@ -161,6 +161,7 @@ l > ɾ / [-stres] __ [-stres] #
 [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
 [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / f ( [+cor] ) __ n
 [+lo,aprim] > [-lo,+hi,-back,+front] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,!aprim]
+[+syl,+nas] > [-nas,-tense,-cons,-lat,+cont,0delrel] / __ [+front,+strid] ( [-stres] ) [+nas]
 [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
 ∅ > j / [+syl] __ [-cons,-tense,+prim]
 ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
@@ -285,6 +286,7 @@ j > ∅ / __ r
 [+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
 x > f / [+ant,-strid] [+syl,+round] __
 ˈo > o̯ ˈɑ / __ ( [-syl] )* ɑ
+∅ > t / # s __ [+cor,+son,-nas,-lat]
 ɑ > ə / [+cons,-front] __ ( [+cons,-front] ( @ )* ) #
 [-tense,-stres,+hi] > ∅ / __ #
 [+ant,+front,+cons] ∅ > [-front,-hi] j/ __ [+lo]
