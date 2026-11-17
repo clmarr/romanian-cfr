@@ -2408,15 +2408,15 @@ x > f / [+ant,-strid] [+syl,+round] __
 ~Old Romanian
 
 $ CM FIX 11.16.26.j j (soon to become e̯) emitted before a/ˈa if after... (i) depalatalizing palatalized coronals (not ɲ - povarɲa > povarnă), (ii) t͡ʃ (and d͡ʒ, based on Turkic cases like Dobrogea etc), (iii) medial ʒ (tânjea, scrijea vs jar, jale, jaroștea), but NOT ʃ (infășa).
-[+ant,+front] ∅ > [-front,-hi] j / __ [+lo]
-∅ > j / {[-cont,+front];@ [+cont,+front]} __ [+lo]
+[+ant,+front,+cons] ∅ > [-front,-hi] j / __ [+lo]
+∅ > j / {[-cont,+front];@ [+cont,+front,-son]} __ [+lo]
 
-$ CM FIX 11.16.26.k ja > e̯a after non-labial consonant
-j > e̯ / [+cons,-lab] __ [+lo]
+$ CM FIX 11.16.26.k ja > e̯a after coronal consonant, or g (glacia > gheață etc.), but not k. UNNATURAL CLASS.
+j > e̯ / {[+cor];ɡ} __ [+lo]
 
 
-$ CM insertion 11.16.26.a -- final -a to -ə (again?). Handles -a in Slavic etc. vocab. Not if after a vocoid.
-ɑ > ə / [+cons] __ #
+$ CM insertion 11.16.26.a -- weak -a and -a- to -ə (again?). Handles -a in Slavic etc. vocab. At auslaut, or with non-front consonants on either side.
+ɑ > ə / [+cons,-front] __ ([+cons,-front] (@)*) #
 
 $ CM insertion 11.16.26.h PSlav *x > k after non-low back vocoids
 x > k / [+back,-lo,-cons] __ 
