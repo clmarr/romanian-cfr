@@ -1964,6 +1964,11 @@ $ R36 {Vwa chanɡes}
 			$ EDIT: Also occurs in viduum>văduv. Following [a] is irrelevant. Stress is irrelevant.
 				[-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
 
+$ R43 Palatalization of [l] after a velar consonant
+	$ l > [+hi,-ant] / [-cont,-ant,-cor] __
+	$ moved to before second Slavic wave.
+	$ For compatibility:
+		l > ʎ / [-cont,-ant,-cor] __
 
 =Proto-Romanian II
 
@@ -1972,7 +1977,7 @@ $ R37 {Raisinɡ of non-initial, non-ɡeminate, unstressed [a], Deɡemination of 
 		$ Pardess: [-cons,+lo,-stres,-long] > ə / [+cons] __
 		$ Looks like he intended to write ə but forɡot.
 		$ EDIT: Occurs after high vowels. 
-			[-cons,+lo,-stres,-long] > ə / {[+cons];[-cons,+hi]} __
+			[-cons,+lo,-stres,-long] > ə / {[+cons];[-cons,-front]} __
 
 
 	$ R37B Deɡemination of ɡeminate vowels
@@ -1987,15 +1992,6 @@ $ R38 [e'a] > [e̯'a]
 	$ But it looks like stressed case needs accounted for too so:
 		$e > [-syl] / __ [-cons,+lo]
 	$9/18/26 CM -- removed, no domain. Should be handled with the existing ea > e̯a stress rule. 
-
-
-
-	
-
-$ R43 Palatalization of [l] after a velar consonant
-	$ l > [+hi,-ant] / [-cont,-ant,-cor] __
-	$ For compatibility:
-		l > ʎ / [-cont,-ant,-cor] __
 
 
 $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
@@ -2410,6 +2406,14 @@ $ CM 11.16.26.e Slavic *x > f after non-strident coronal + round.
 x > f / [+ant,-strid] [+syl,+round] __ 
 
 ~Old Romanian
+
+$ CM FIX 11.16.26.j j (soon to become e̯) emitted before a/ˈa if after... (i) depalatalizing palatalized coronals (not ɲ - povarɲa > povarnă), (ii) t͡ʃ (and d͡ʒ, based on Turkic cases like Dobrogea etc), (iii) medial ʒ (tânjea, scrijea vs jar, jale, jaroștea), but NOT ʃ (infășa).
+[+ant,+front] ∅ > [-front,-hi] j / __ [+lo]
+∅ > j / {[-cont,+front];@ [+cont,+front]} __ [+lo]
+
+$ CM FIX 11.16.26.k ja > e̯a after non-labial consonant
+j > e̯ / [+cons,-lab] __ [+lo]
+
 
 $ CM insertion 11.16.26.a -- final -a to -ə (again?). Handles -a in Slavic etc. vocab. Not if after a vocoid.
 ɑ > ə / [+cons] __ #
