@@ -1662,7 +1662,14 @@ k > ɡ / __ [+round,-stres] [+cor,-cont] [+prim] [+son] [-syl]
 		s > z / # __ [+voi,-son]
 			$ Has to apply both before beta rules and after above new rule.
 
+$ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
+	l > ɾ / [+syl] __ [+syl]
+		$ "It did not apply to words of Slavic oriɡin" with more info, see p100. M
+
 =Proto-Romanian I
+
+$ CM 11.16.26.l minor l-rhotacism in VlV# after Slavic: cramură etc
+l > ɾ / [-stres] __ [-stres] #
 
 $ iN- > îN-. CM 10/1 -- moved to before Common Romanian -- this is actually to a, reflecting as a in Aromanian. Formerly: [+syl,+front,+hi] > [-front] / # __ [+nas]. 
 [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
@@ -1746,10 +1753,6 @@ $ R30 Preyodization of initial [e]: [e] > [ye]
 $ NEW RULE oct 26 -- u > o in # (V̯) k __ (l/r)+ ˈo : Old Romanian corună whence cunună, acolo, corastră
 u > o / # ([-prim]) k __ ([+cor,+son,-nas])* ˈo
 
-
-$ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
-	l > ɾ / [+syl] __ [+syl]
-		$ "It did not apply to words of Slavic oriɡin" with more info, see p100
 
 $ Unstressed high vowel becomes a glide after another vowel
 	[+hi,-stres] > [-syl] / [+syl] __
@@ -2169,13 +2172,13 @@ w > ∅ / __ [-cont,+son] [+front]
 
 
 $ Nasal assimilation
-	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
+	$  Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
 	$ new rule "[n] dissimilates to [m] between voiceless coronals" has to have taken place before Aromanian and Daco-Romanian diverged,
 	$ given Aromanian strimtu/strãmtu and simtu/sãmtu, and "[n] dissimilates to [m] between voiceless coronals" has to counterfeed this change.
 	$ Given that Aromanian also has a variant nuntã for numtã, it is safe to assume that the following change did not occur in some parts of the Common Romanian speech area,
 	$ and this variation was levelled in Daco-Romanian while remaining somewhat stable in Aromanian.
 			$ CM oct '26 -- moved to after Common Romanian; not shared with Aromanian.
-		m > n / __ [+cons,-lab,-nas]	
+		m > n / __ [-son,-lab]	
 
 $ Pardess mentions a dissimilation occurring near here in R22C. The following appears to be the correct formulation.
 	$ CM 9/23 -- moved to after k voicing, which it counterfeeds; 10/21 -- moved to after common Romanian -- not shared with Arom.
@@ -2412,6 +2415,9 @@ $ CM insertion 11.16.26.k tonic o > oa under influence of following a -- again
 
 $ CM insertion 11.16.26.a -- weak -a and -a- to -ə (again?). Handles -a in Slavic etc. vocab. At auslaut, or with non-front consonants on either side.
 ɑ > ə / [+cons,-front] __ ([+cons,-front] (@)*) #
+
+$ CM insertion 11.16.26.m final yers deleted. They might not really have existed to begin with.
+[-tense,-stres,+hi] > ∅ / __ #
 
 $ CM FIX 11.16.26.j j (soon to become e̯) emitted before a/ˈa if after... (i) depalatalizing palatalized coronals (not ɲ - povarɲa > povarnă), (ii) t͡ʃ (and d͡ʒ, based on Turkic cases like Dobrogea etc), (iii) medial ʒ (tânjea, scrijea vs jar, jale, jaroștea), but NOT ʃ (infășa).
 [+ant,+front,+cons] ∅ > [-front,-hi] j / __ [+lo]
