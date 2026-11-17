@@ -1975,6 +1975,10 @@ $ R43 Palatalization of [l] after a velar consonant
 
 ~Proto-Romanian II
 
+$ CM 11.17.25.a nasal unpacking, except (11.17.26.b) at auslaut or before a nasal cons, where you simply have denasalization
+∅ > n / [+syl,+nas] __ [-nas]
+[+syl] > [-nas]
+
 $ R37 {Raisinɡ of non-initial, non-ɡeminate, unstressed [a], Deɡemination of ɡeminate vowels}
 	$ R37A Raisinɡ of non-initial, non-ɡeminate, unstressed [a]
 		$ Pardess: [-cons,+lo,-stres,-long] > ə / [+cons] __
@@ -2102,8 +2106,8 @@ $ NEW RULE: Fronting of [u] after a non-strident coronal and before certain NT c
 	ˈu > ˈɨ / [+syl] (@)* [+cor,-strid,+voi] __ n [-delrel,-lab] [-cons,-lo]
 		$adânca and mănânca may be analogically affected based on adânc and mănânc
 
-$ CM 9/23 earlier raising in NT -- shared across Common Romanian 
-[+syl,+front] > [+hi] / __ n [+cons]
+$ CM 9/23 earlier raising in NT -- shared across Common Romanian. EDIT: now applies to ɤ̃ as well
+[+syl,-round,-lo] > [+hi,+tense] / __ n [+cons]
 
 $ CM 10/23 Common Romanian raising of first syllable post-peripheral ən before tonic ˈɑ
 ə > ɨ / # ([-syl])* [+cons,-cor] __ n (@)* ˈɑ 
@@ -2144,6 +2148,8 @@ u > o / [+cons,-cor] __ ɾ ([-prim]) [+nas] [+prim]
 $ Nasal assimilation. CM 10/26 -- shared across Common Romanian, moved to before its end
 	n > m / __ [-cont,+lab]
 
+$ CM 11.16.26.c -- ɯ, ɤ > ɨ, ə 
+[+syl,-lo,-round] > [-back]
 
 ~Common Romanian
 
