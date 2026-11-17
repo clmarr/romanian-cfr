@@ -1,24 +1,30 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1830:
-... >>> *#ferekˈɑ# ( GOLD : #ferekˈɑ#) :
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1830:
+... >>> *#fere̯ˈɑstrə# ( GOLD : #fere̯ˈɑstrə#) :
 ... 
 Proto-Balkan-Indo-European stage form : ...
 Archaic Proto-Albanian stage form : ...
 Classical Proto-Albanian stage form : ...
 Sub-Romanian stage form : ...
 Latin stage form : ...
-*#fɑbrikˈɑː# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#fɑβrikˈɑː# | 254 : b > β / [-cons] __ [+cont]
-*#fɑβrekˈɑː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
-*#fɑwrekˈɑː# | 274 : β > w / [-cons] __ [+son,+cons]
-*#fɑwrekˈɑ# | 288 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fɑwrekˈɑ#
-*#fɑwɾekˈɑ# | 295 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#fɑwɾekˈɑ#
-Proto-Romanian II stage form : *#fɑwɾekˈɑ#
-*#fəwɾekˈɑ# | 351 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#fəwɾekˈɑ#
-*#fəɾekˈɑ# | 383 : w > ∅ / __ [-cont,+son] [+front]
-*#fərekˈɑ# | 404 : ɾ > r 
-Old Romanian stage form : *#fərekˈɑ#
-*#ferekˈɑ# | 454 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi] [-strid]
-Final form : *#ferekˈɑ#
+*#ferˈestrɑm# | 162 : n > r / [+syl] __ [+stres] [-syl] ( [-syl] )* r
+*#ferˈestrɑ# | 176 : m > ∅ / [-stres] __ #
+*#ferˈɛstrɑ# | 251 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#ferˈɛstrɑ#
+*#feɾˈɛstɾɑ# | 295 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#feɾˈɛstɾɑ#
+*#feɾjˈɛstɾɑ# | 306 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#feɾjˈestɾɑ# | 309 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#feɾjˈɛstɾɑ# | 320 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#feɾʲjˈɛstɾɑ# | 330 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#feɾʲˈɛstɾɑ# | 332 : j > ∅ / [+cons,+front] __
+*#feɾʲˈɛɑstɾɑ# | 339 : ∅ > ɑ / [-tense] __
+*#feɾʲˈeˈɑstɾɑ# | 340 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#feɾʲe̯ˈɑstɾɑ# | 341 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#feɾʲe̯ˈɑstɾɑ#
+*#feɾʲe̯ˈɑstɾə# | 351 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#feɾʲe̯ˈɑstɾə#
+*#feɾje̯ˈɑstɾə# | 387 : ɾʲ > ɾ j / # ( ( [+cons] )* ( j ) [-cons] ( [+cons] )* ) __ [-hi]
+*#ferje̯ˈɑstrə# | 404 : ɾ > r 
+Old Romanian stage form : *#ferje̯ˈɑstrə#
+*#fere̯ˈɑstrə# | 441 : [+front,+son,-syl] > ∅ / [+cons] ( ə ) __ e̯ [+syl,+lo]
+Final form : *#fere̯ˈɑstrə#

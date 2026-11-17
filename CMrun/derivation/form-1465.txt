@@ -1,21 +1,28 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1465:
-... >>> *#ruməɡˈɑ# ( GOLD : #rumeɡˈɑ#) :
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1465:
+... >>> *#ruʃˈine# ( GOLD : #ruʃˈine#) :
 ... 
 Proto-Balkan-Indo-European stage form : ...
 Archaic Proto-Albanian stage form : ...
 Classical Proto-Albanian stage form : ...
 Sub-Romanian stage form : ...
 Latin stage form : ...
-*#ruːmiɡˈɑː# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ruːmeɡˈɑː# | 255 : [+syl,-long,+hi,-back] > [-hi] 
-*#rumeɡˈɑ# | 288 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rumeɡˈɑ#
-*#ɾumeɡˈɑ# | 295 : r > ɾ / __ [nnas,ncons]
-*#rɾumeɡˈɑ# | 296 : ∅ > r / # __ ɾ
-Proto-Romanian I stage form : *#rɾumeɡˈɑ#
-Proto-Romanian II stage form : *#rɾumeɡˈɑ#
-*#rumeɡˈɑ# | 356 : {ɾ;r} > {∅;∅} / r __
-Common Romanian stage form : *#rumeɡˈɑ#
-*#ruməɡˈɑ# | 397 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-Old Romanian stage form : *#ruməɡˈɑ#
-Final form : *#ruməɡˈɑ#
+*#rˌosjˈoːnem# | 149 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rosjˈoːnem# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#rosjˈoːne# | 176 : m > ∅ / [-stres] __ #
+*#rosjˈone# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rosjˈone#
+*#ɾosjˈone# | 295 : r > ɾ / __ [nnas,ncons]
+*#rɾosjˈone# | 296 : ∅ > r / # __ ɾ
+Proto-Romanian I stage form : *#rɾosjˈone#
+*#rɾusjˈone# | 310 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#rɾusʲjˈone# | 330 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rɾusʲˈone# | 332 : j > ∅ / [+cons,+front] __
+*#rɾuɕˈone# | 337 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#rɾuɕˈune# | 342 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#rɾuɕˈine# | 344 : [+syl,+hi,+back] > [-back,+front,-lab,-round] / [+cor] [+syl] [+front,+hi,-back] __ @
+Proto-Romanian II stage form : *#rɾuɕˈine#
+*#ruɕˈine# | 356 : {ɾ;r} > {∅;∅} / r __
+*#ruʃˈine# | 375 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ruʃˈine#
+Old Romanian stage form : *#ruʃˈine#
+Final form : *#ruʃˈine#

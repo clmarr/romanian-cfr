@@ -1,19 +1,33 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1408:
-... >>> *#rəpˈi# ( GOLD : #rəpˈi#) :
+Derivation file for run '../romanian-cfr/CMrun'; form ID 1408:
+... >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
 ... 
 Proto-Balkan-Indo-European stage form : ...
 Archaic Proto-Albanian stage form : ...
 Classical Proto-Albanian stage form : ...
 Sub-Romanian stage form : ...
 Latin stage form : ...
-*#rɑpˈi# | 288 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rɑpˈi#
-*#ɾɑpˈi# | 295 : r > ɾ / __ [nnas,ncons]
-*#rɾɑpˈi# | 296 : ∅ > r / # __ ɾ
-Proto-Romanian I stage form : *#rɾɑpˈi#
-Proto-Romanian II stage form : *#rɾɑpˈi#
-*#rɾəpˈi# | 351 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#rəpˈi# | 356 : {ɾ;r} > {∅;∅} / r __
-Common Romanian stage form : *#rəpˈi#
-Old Romanian stage form : *#rəpˈi#
-Final form : *#rəpˈi#
+*#rɑːnˈukulum# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#rɑːnˈukulu# | 176 : m > ∅ / [-stres] __ #
+*#rɑːnˈuklu# | 193 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#rɑnˈuklu# | 288 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rɑnˈuklu#
+*#ɾɑnˈuklu# | 295 : r > ɾ / __ [nnas,ncons]
+*#rɾɑnˈuklu# | 296 : ∅ > r / # __ ɾ
+Proto-Romanian I stage form : *#rɾɑnˈuklu#
+*#rɾənˈuklu# | 342 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#rɾənˈukʎu# | 350 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#rɾənˈukʎu#
+*#rənˈukʎu# | 356 : {ɾ;r} > {∅;∅} / r __
+*#rənˈunkʎu# | 367 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
+Common Romanian stage form : *#rənˈunkʎu#
+*#rɨnˈunkʎu# | 407 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#rənˈunkʎu# | 410 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+*#rənˈunkʎw̥# | 413 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#rənˈunkʎu# | 414 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+*#rənˈunkju# | 419 : [+son,+cons,+front] > j 
+Old Romanian stage form : *#rənˈunkju#
+*#rənˈunkj# | 438 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
+*#rərˈunkj# | 470 : n > r / ə __ [+syl,+hi] [+nas]
+*#rənˈunkj# | 471 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+*#rərˈunkj# | 472 : n > r / r [+syl] __ [+syl] n
+Final form : *#rərˈunkj#

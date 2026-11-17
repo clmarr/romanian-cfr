@@ -1,17 +1,29 @@
-Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 937:
-... >>> *#dəmərˈɨ# ( GOLD : #dumirˈi#) :
+Derivation file for run '../romanian-cfr/CMrun'; form ID 937:
+... >>> *#dumˈestek# ( GOLD : #dumˈestek#) :
 ... 
 Proto-Balkan-Indo-European stage form : ...
 Archaic Proto-Albanian stage form : ...
 Classical Proto-Albanian stage form : ...
 Sub-Romanian stage form : ...
 Latin stage form : ...
-Balkan Romance stage form : ...
-Proto-Romanian I stage form : ...
-*#dɒmarˈi# | 309 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-Romanian II stage form : *#dɒmarˈi#
-*#dəmərˈi# | 351 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#dəmərˈɨ# | 357 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Common Romanian stage form : *#dəmərˈɨ#
-Old Romanian stage form : *#dəmərˈɨ#
-Final form : *#dəmərˈɨ#
+*#domˈestikum# | 156 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#domˈestiku# | 176 : m > ∅ / [-stres] __ #
+*#domˈɛstiku# | 251 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#domˈɛsteku# | 255 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#domˈɛsteku#
+Proto-Romanian I stage form : *#domˈɛsteku#
+*#domjˈɛsteku# | 306 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#domjˈesteku# | 309 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dumjˈesteku# | 311 : o > u / __ [+lab,+cont,+cons]
+*#dumjˈɛsteku# | 320 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dumjˈɛɑsteku# | 339 : ∅ > ɑ / [-tense] __
+*#dumjˈeˈɑsteku# | 340 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dumje̯ˈɑsteku# | 341 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#dumje̯ˈɑsteku#
+Common Romanian stage form : *#dumje̯ˈɑsteku#
+*#dumjˈesteku# | 394 : e̯ ˈɑ > ˈe / [+lab] j __ ( @ )* [+front]
+*#dumjˈestekw̥# | 413 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#dumjˈestek# | 416 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dumjˈestek#
+*#dumˈestek# | 436 : j > ∅ / m __ ˈe [+cor,+cont,-nas,-lat] [+cor,-cont]
+Final form : *#dumˈestek#
