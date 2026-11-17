@@ -1271,7 +1271,7 @@ $ NEW RULE: Dissimilatory deletion of cluster-initial [p] after a labial (previo
 		p > ∅ / [+lab] (l) [+syl,+hi,-long] __ [+cons]
 
 
-$ NEW RULE: [a] aphaeresis before stressed heavy syllables
+$ NEW RULE: [a] aphaeresis before stressed heavy syllables. TODO consider revising. 
 	$ The consonant after the stressed vowel must be coronal.
 	$ If the [a] is followed by a consonant, that consonant can only be voiced if it is a sonorant.
 	$ Besides simply being heavy, the following syllable must also have a coronal sonorant somewhere other than the first consonant of the onset. (splitting annotinu as a.nno.ti.nu :/)
@@ -2432,6 +2432,21 @@ $ CM insertion 11.16.26.a -- weak -a and -a- to -ə (again?). Handles -a in Slav
 $ CM insertion 11.16.26.m final yers deleted. They might not really have existed to begin with.
 [-tense,-stres,+hi] > ∅ / __ #
 
+$ CM insertion 11.16.26.h PSlav *x > k after non-low back vocoids
+x > k / [+back,-lo,-cons] __ 
+
+$ CM insertion 11.16.26.i *x > h elsewhere 
+x > h
+
+$ CM FIX 11.17.26.e : final -k > -g under the influence of earlier sonorants, across non-high vowels -- apricum>aprig and vitricus>vitreg, now supported by Slavic loans: *bošnʲakʊ > boșneag "Bosniak", *počinokǔ > pocinog, *kyslʲak > chișleag, *kutornoxy > cotonog. 
+		$ not after high: greașnic, ceasornic, ceașnic, etc. 
+		$ appears to target v too : topolog, cepeleag. 
+	$ COUNTERBLED by 11.16.26.j ; FED by 11.16.26.m
+	$ ABSORBED INTO THE ABOVE NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
+	$k > ɡ / [-cont,-voi] r [+syl] __ ([-stres]) #
+
+{k;v} > {ɡ;ɡ} / [+syl] [-voi] ( [+syl] ) ( [+cons] ) [+son,+cons] [+syl,-hi] __ #
+
 $ CM FIX 11.16.26.j j (soon to become e̯) emitted before a/ˈa if after... (i) depalatalizing palatalized coronals (not ɲ - povarɲa > povarnă), (ii) t͡ʃ (and d͡ʒ, based on Turkic cases like Dobrogea etc), (iii) medial ʒ (tânjea, scrijea vs jar, jale, jaroștea), but NOT ʃ (infășa).
 [+ant,+front,+cons] ∅ > [-front,-hi] j / __ [+lo]
 ∅ > j / {[-cont,+front];@ [+cont,+front,-son]} __ [+lo]
@@ -2440,11 +2455,7 @@ $ CM FIX 11.16.26.k ja > e̯a after coronal consonant, or g (glacia > gheață e
 j > e̯ / {[+cor];ɡ} __ [+lo]
 
 
-$ CM insertion 11.16.26.h PSlav *x > k after non-low back vocoids
-x > k / [+back,-lo,-cons] __ 
 
-$ CM insertion 11.16.26.i *x > h elsewhere 
-x > h
 
 $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 		$ at least R53B is bled by R46A; 
@@ -2528,10 +2539,6 @@ $ R58 Assimilation: word-final [ə] > [e] after [i]
 			$ CM edit 11.16.26.b -- hits all unround unfront unstressed vowels
 		[-round,-front,-prim] > e / [+front,+hi] __ #
 
-
-$ NEW RULE: [k] > [ɡ] in word-final unstressed syllables after TrV
-	k > ɡ / [-cont,-voi] r [+syl] __ ([-stres]) #
-		$ This is EXTREMELY poorly attested--only affects apricum>aprig and vitricus>vitreg in our lexicon. FLAG -- reexamine later
 
 
 $ NEW RULE: Assimilation of high vowels to [j]

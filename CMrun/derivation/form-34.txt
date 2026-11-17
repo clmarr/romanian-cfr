@@ -1,18 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 34:
-#ˌinɡˌɑnnˈɑː# >>> *#ɨnɡɨnˈɑ# ( GOLD : #ɨnɡɨnˈɑ#) :
-ˌi n ɡ ˌɑ n n ˈɑː 
-*#inɡɑnnˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɡɑnnˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɡɑnnˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɡɑnnˈɑ#
-Proto-Romanian I stage form : *#enɡɑnnˈɑ#
-*#ɑnɡɑnnˈɑ# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənɡɑnnˈɑ# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#ənɡɑnnˈɑ#
-*#ənɡənnˈɑ# | 213 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#ənɡənˈɑ# | 220 : n n > n 
-*#ɨnɡənˈɑ# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#ɨnɡənˈɑ#
-*#ɨnɡɨnˈɑ# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnɡɨnˈɑ#
-Final form : *#ɨnɡɨnˈɑ#
+#inkˌommˈitte# >>> *#ɨnkumˈete# ( GOLD : #ɨnkumˈete#) :
+i n k ˌo m m ˈi t t e 
+*#inkommˈitte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#enkommˈette# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#enkommˈete# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#enkommˈete#
+Proto-Romanian I stage form : *#enkommˈete#
+*#ɑnkommˈete# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑnkummˈete# | 171 : o > u / __ [+lab,+cont,+cons]
+*#ɑnkummˈɛte# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ɑnkumˈɛte# | 189 : {l l;m m} > {l;m} 
+*#ɑnkumˈɛɑte# | 199 : ∅ > ɑ / [-tense] __
+*#ɑnkumˈeˈɑte# | 200 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɑnkume̯ˈɑte# | 201 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#ənkume̯ˈɑte# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ənkume̯ˈɑte#
+*#ɨnkume̯ˈɑte# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#ɨnkume̯ˈɑte#
+Old Romanian stage form : *#ɨnkume̯ˈɑte#
+*#ɨnkumˈete# | 300 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Final form : *#ɨnkumˈete#

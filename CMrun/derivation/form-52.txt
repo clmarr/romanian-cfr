@@ -1,19 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 52:
-#ˌintro# >>> *#ɨntru# ( GOLD : #ɨntru#) :
-ˌi n t r o 
-*#intro# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#entro# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#entro#
-*#entɾo# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#entɾo#
-*#ɑntɾo# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑntɾu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#əntɾu# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#əntɾu#
-*#ɨntɾu# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#ɨntɾu#
-*#ɨntru# | 267 : ɾ > r 
-*#ɨntrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#ɨntru# | 277 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
-Old Romanian stage form : *#ɨntru#
-Final form : *#ɨntru#
+#ˌintˈeɡrum# >>> *#ɨntrˈeɡ# ( GOLD : #ɨntrˈeɡ#) :
+ˌi n t ˈe ɡ r u m 
+*#intˈeɡrum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#intˈeɡru# | 35 : m > ∅ / [-stres] __ #
+*#intrˈeɡu# | 84 : ∅ [+syl,-back] [+cons,+back] r > r [+syl,-back,+son] [+cons,+back,0tense] ∅/ # ( ( @ )* [+syl] ) ( [+nas] ) [-cont,-back] __ [+syl]
+*#intrˈɛɡu# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#entrˈɛɡu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#entrˈɛɡu#
+*#entɾˈɛɡu# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#entɾˈɛɡu#
+*#ɑntɾˈɛɡu# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑntɾˈeɡu# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#əntɾˈeɡu# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#əntɾˈeɡu#
+*#ɨntɾˈeɡu# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#ɨntɾˈeɡu#
+*#ɨntrˈeɡu# | 267 : ɾ > r 
+*#ɨntrˈeɡw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#ɨntrˈeɡ# | 279 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ɨntrˈeɡ#
+Final form : *#ɨntrˈeɡ#

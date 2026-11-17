@@ -1,18 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 16:
-#ˌinˌɑdpˈost# >>> *#ɨnəpˈoj# ( GOLD : #ɨnɑpˈoj#) :
-ˌi n ˌɑ d p ˈo s t 
-*#inɑdpˈost# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inɑpˈost# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
-*#inɑpˈos# | 74 : [+cons,-cont] > ∅ / __ #
-*#enɑpˈos# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɑpˈoj# | 152 : s > j / [+stres] __ #
-Balkan Romance stage form : *#enɑpˈoj#
-Proto-Romanian I stage form : *#enɑpˈoj#
-*#ɑnɑpˈoj# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənɑpˈoj# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#ənɑpˈoj#
-*#ənəpˈoj# | 213 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#ənəpˈoj#
-*#ɨnəpˈoj# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-Old Romanian stage form : *#ɨnəpˈoj#
-Final form : *#ɨnəpˈoj#
+#ˌinˌɑbˈinte# >>> *#ɨnəˈinte# ( GOLD : #ɨnɑˈinte#) :
+ˌi n ˌɑ b ˈi n t e 
+*#inɑbˈinte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inɑβˈinte# | 113 : b > β / [-cons] __ [+cont]
+*#enɑβˈente# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑˈente# | 136 : β > ∅ 
+*#enɑjˈente# | 143 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
+Balkan Romance stage form : *#enɑjˈente#
+Proto-Romanian I stage form : *#enɑjˈente#
+*#ɑnɑjˈente# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənɑjˈente# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ənɑjˈente#
+*#ənəjˈente# | 213 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#ənəjˈinte# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#ənəjˈinte#
+*#ɨnəjˈinte# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnəjˈinte#
+*#ɨnəˈinte# | 313 : j > ∅ / __ [+front,+hi]
+Final form : *#ɨnəˈinte#

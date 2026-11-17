@@ -1,22 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 13:
-#ˌinˌɑdˈintroː# >>> *#ɨnədˈintru# ( GOLD : #ɨnəˈuntru#) :
-ˌi n ˌɑ d ˈi n t r oː 
-*#inɑdˈintroː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#enɑdˈentroː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɑdˈentro# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enɑdˈentro#
-*#enɑdˈentɾo# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#enɑdˈentɾo#
-*#ɑnɑdˈentɾo# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnɑdˈentɾu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənɑdˈentɾu# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#ənɑdˈentɾu#
-*#ənədˈentɾu# | 213 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#ənədˈintɾu# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#ənədˈintɾu#
-*#ənədˈintru# | 267 : ɾ > r 
-*#ɨnədˈintru# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnədˈintrw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#ɨnədˈintru# | 277 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
-Old Romanian stage form : *#ɨnədˈintru#
-Final form : *#ɨnədˈintru#
+#ˌin# >>> *#ɨn# ( GOLD : #ɨn#) :
+ˌi n 
+*#in# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#iːn# | 111 : [+syl,+hi,-back] > [+long] / __ ( [+cons] ) #
+*#in# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#in#
+Proto-Romanian I stage form : *#in#
+*#ɑn# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ən# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ən#
+Common Romanian stage form : *#ən#
+*#ɨn# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨn#
+Final form : *#ɨn#

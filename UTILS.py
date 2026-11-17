@@ -44,12 +44,12 @@ PH_ORDERING = {String: index for index, String in enumerate(SORT_ORDER)}
 
 def linesort(lines):
     # TODO debugging -- if there's a sorting but, try thisː
-    #forms = [li[:li.find("$")].strip() if "$" in li else li for li in lines]
-    #for fli in forms:
-    #    phonemes = [phi for phi in fli.split(" ") if "," not in phi]
-    #    for phii in phonemes:
-    #        if phii not in SORT_ORDER:
-    #            print("sort order missing "+phii+" in line "+fli)
+    forms = [li[:li.find("$")].strip() if "$" in li else li for li in lines]
+    for fli in forms:
+        phonemes = [phi for phi in fli.split(" ") if "," not in phi]
+        for phii in phonemes:
+            if phii not in SORT_ORDER:
+                print("sort order missing "+phii+" in line "+fli)
 
     return sorted(lines, key=lambda ln : [SORT_ORDER.index(str) for str in last_content_col_in_line(ln).split(PH_DELIM)])
 

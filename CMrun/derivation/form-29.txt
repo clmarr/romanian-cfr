@@ -1,20 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 29:
-#ˌinkˌontrɑː# >>> *#ɨnkutrə# ( GOLD : #ɨnkotro#) :
-ˌi n k ˌo n t r ɑː 
-*#inkontrɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inkotrɑː# | 67 : [+cons,+son] > ∅ / [+cons,-cor] [+syl,-prim] __ [-cont,-voi] [+cons,+son]
-*#enkotrɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enkotrɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#enkotrɑ#
-*#enkotɾɑ# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#enkotɾɑ#
-*#ɑnkotɾɑ# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑnkutɾɑ# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ənkutɾɑ# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#ənkutɾɑ#
-*#ənkutɾə# | 213 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#ɨnkutɾə# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#ɨnkutɾə#
-*#ɨnkutrə# | 267 : ɾ > r 
-Old Romanian stage form : *#ɨnkutrə#
-Final form : *#ɨnkutrə#
+#inkliːnˈɑː# >>> *#ɨnkinˈɑ# ( GOLD : #ɨnkinˈɑ#) :
+i n k l iː n ˈɑː 
+*#enkliːnˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#enklinˈɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#enklinˈɑ#
+Proto-Romanian I stage form : *#enklinˈɑ#
+*#ɑnklinˈɑ# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑnkljinˈɑ# | 188 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#ɑnklʲjinˈɑ# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɑnklʲinˈɑ# | 192 : j > ∅ / [+cons,+front] __
+*#ɑnkʎinˈɑ# | 197 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ənkʎinˈɑ# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ənkʎinˈɑ#
+*#ɨnkʎinˈɑ# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#ɨnkʎinˈɑ#
+*#ɨnkjinˈɑ# | 282 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#ɨnkjinˈɑ#
+*#ɨnkinˈɑ# | 313 : j > ∅ / __ [+front,+hi]
+Final form : *#ɨnkinˈɑ#

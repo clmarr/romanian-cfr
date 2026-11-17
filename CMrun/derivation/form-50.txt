@@ -1,22 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 50:
-#ˌintreɡwˈɑː# >>> *#ɨntre̯ˈɑ# ( GOLD : #ɨntrebˈɑ#) :
-ˌi n t r e ɡ w ˈɑː 
-*#intreɡwˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#intreɡβˈɑː# | 78 : w > β / __ ( [-cons] ( @ )* ) #
-*#intrebˈɑː# | 100 : [+back,-cont] β > [-back,-hi,+ant,+lab] ∅/ # ( ( @ )* [-lab] ) __ [+lo]
-*#intreβˈɑː# | 113 : b > β / [-cons] __ [+cont]
-*#entreβˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#entreˈɑː# | 136 : β > ∅ 
-*#entreˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#entreˈɑ#
-*#entɾeˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#entɾeˈɑ#
-*#ɑntɾeˈɑ# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ɑntɾe̯ˈɑ# | 201 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#əntɾe̯ˈɑ# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#əntɾe̯ˈɑ#
-*#ɨntɾe̯ˈɑ# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#ɨntɾe̯ˈɑ#
-*#ɨntre̯ˈɑ# | 267 : ɾ > r 
-Old Romanian stage form : *#ɨntre̯ˈɑ#
-Final form : *#ɨntre̯ˈɑ#
+#ˌinter# >>> *#ɨntre# ( GOLD : #ɨntre#) :
+ˌi n t e r 
+*#inter# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#intre# | 79 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
+*#entre# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#entre#
+*#entɾe# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#entɾe#
+*#ɑntɾe# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#əntɾe# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#əntɾe#
+*#ɨntɾe# | 232 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#ɨntɾe#
+*#ɨntre# | 267 : ɾ > r 
+Old Romanian stage form : *#ɨntre#
+Final form : *#ɨntre#

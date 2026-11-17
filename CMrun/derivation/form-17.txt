@@ -1,17 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 17:
-#ˌinˈɑltum# >>> *#ɨnˈɑlt# ( GOLD : #ɨnˈɑlt#) :
-ˌi n ˈɑ l t u m 
-*#inˈɑltum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inˈɑltu# | 35 : m > ∅ / [-stres] __ #
-*#enˈɑltu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#enˈɑltu#
-Proto-Romanian I stage form : *#enˈɑltu#
-*#ɑnˈɑltu# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
-*#ənˈɑltu# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#ənˈɑltu#
-Common Romanian stage form : *#ənˈɑltu#
-*#ɨnˈɑltu# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#ɨnˈɑltw̥# | 276 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#ɨnˈɑlt# | 279 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɨnˈɑlt#
-Final form : *#ɨnˈɑlt#
+#ˌinˌɑdpˈost# >>> *#ɨnəpˈoj# ( GOLD : #ɨnɑpˈoj#) :
+ˌi n ˌɑ d p ˈo s t 
+*#inɑdpˈost# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#inɑpˈost# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
+*#inɑpˈos# | 74 : [+cons,-cont] > ∅ / __ #
+*#enɑpˈos# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑpˈoj# | 152 : s > j / [+stres] __ #
+Balkan Romance stage form : *#enɑpˈoj#
+Proto-Romanian I stage form : *#enɑpˈoj#
+*#ɑnɑpˈoj# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ənɑpˈoj# | 202 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ənɑpˈoj#
+*#ənəpˈoj# | 213 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#ənəpˈoj#
+*#ɨnəpˈoj# | 270 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+Old Romanian stage form : *#ɨnəpˈoj#
+Final form : *#ɨnəpˈoj#
