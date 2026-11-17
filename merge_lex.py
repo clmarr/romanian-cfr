@@ -1,5 +1,5 @@
 import UTILS
-
+import pdb
 # Script to create merged lexicon from multiple sources (at OUTPUT)
 # they will be organized (quasi phonemically alphabetized) by reflex form, unless modern reflex is obsolesced,
 # ... in which case the last stage with content will be used.
@@ -8,9 +8,28 @@ import UTILS
 
 OUTPUT ="gjiRoLLAPS.csv"
 STAGE_CIRCUMFIX = "_"
-OUTPUT_HEADER = ["Proto-Indo-European", "Proto-Balkan-Indo-European", "Archaic Proto-Albanian", "Classical Proto-Albanian",
+STAGES = ["Proto-Indo-European", "Proto-Balkan-Indo-European", "Archaic Proto-Albanian", "Classical Proto-Albanian",
                  "Sub-Romanian",
                  "Latin","Balkan Romance","Proto-Romanian I","Proto-Romanian II","Common Romanian","Old Romanian","Romanian"]
+
+
+# dictionary with input stage file names as keys and the stage they are marked as as values.
+INPUTS = {"RoLLAPS.csv" : "Latin",
+          "SlavRoLLAPS.csv" : "Slavic varieties"
+        }
+
+stage1 = ""
+for inpi in INPUTS.keys():
+    with open(inpi, "r", encoding="utf-8") as f:
+        header = [li.strip() for li in f.readlines()
+            if (False if li.strip() == "" else li.strip()[0:len(UTILS.HEADER_FLAG)] == UTILS.HEADER_FLAG)]
+        if len(header) == 0:
+            raise RuntimeError("no header!")
+        header = header[0]
+        header = header[header.index(UTILS.HEADER_FLAG)+len(UTILS.HEADER_FLAG):].split(UTILS.HEADER_DELIM)
+        stage1 = header[0] if stage1 == "" \
+            else STAGES[min(STAGES.index(stage1), STAGES.index(header[0]))]
+OUTPUT_HEADER = STAGES[STAGES.index(stage1):]
 
 def cmt_stage_marking(line, header_in_use, src):
     content = UTILS.get_lex_line_content(line)
@@ -24,7 +43,7 @@ def cmt_stage_marking(line, header_in_use, src):
     for iter in range(0, len(cols)):
         if cols[iter].strip() not in [UTILS.ABSENT_ETYM, UTILS.UNATTD_ETYM]:
             infix = STAGE_CIRCUMFIX + \
-                ("Inherited from " if src in OUTPUT_HEADER else "Borrowed from "+src+" into " ) \
+                ("Inherited from " if src in STAGES else "Borrowed from "+src+" into " ) \
                 + header_in_use[iter] + STAGE_CIRCUMFIX
             break
     cmt_loc = line.find(UTILS.CMT_FLAG)
@@ -73,10 +92,6 @@ def digest_line(ln, inp_stage_names, src):
 
     return cmt_stage_marking(UTILS.LEX_DELIM.join(output)+" "+cmt,OUTPUT_HEADER,src)
 
-# dictionary with input stage file names as keys and the stage they are marked as as values.
-INPUTS = {"RoLLAPS.csv" : "Latin",
-          "SlavRoLLAPS.csv" : "Slavic varieties"
-        }
 
 def extract_file_lines(path):
     f = open(path, encoding="utf-8")
@@ -85,9 +100,6 @@ def extract_file_lines(path):
 
     # strip out lines without (uncommented) content
     lines = [li.strip() for li in lines if UTILS.get_lex_line_content(li).strip() != ""]
-
-    #TODO debugging
-    print("header: "+lines[0])
 
     init_by_header = lines[0][0] == UTILS.HEADER_FLAG
     working_header = UTILS.get_lex_line_content(lines[0][1:]).split(UTILS.HEADER_DELIM)
