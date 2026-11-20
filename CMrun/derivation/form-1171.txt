@@ -1,14 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1171:
-#spˌurkˈɑː# >>> *#spurkˈɑ# ( GOLD : #spurkˈɑ#) :
-s p ˌu r k ˈɑː 
-*#spurkˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ispurkˈɑː# | 102 : ∅ > i / # __ s [+cons,-son]
-*#espurkˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#espurkˈɑ# | 147 : [+syl] > [-long,-splng] 
-*#spurkˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#spurkˈɑ#
-Proto-Romanian I stage form : *#spurkˈɑ#
-Proto-Romanian II stage form : *#spurkˈɑ#
-Common Romanian stage form : *#spurkˈɑ#
-Old Romanian stage form : *#spurkˈɑ#
-Final form : *#spurkˈɑ#
+#ekspulwerˈɑː# >>> *#spulberˈɑ# ( GOLD : #spulberˈɑ#) :
+e k s p u l w e r ˈɑː 
+*#ekspulβerˈɑː# | 82 : w > β / __ ( [-cons] ( @ )* ) #
+*#espulβerˈɑː# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espulberˈɑː# | 132 : β > b / # ( ( @ )* [-cons] ) [+cons,-nas,+voi] __
+*#espulberˈɑ# | 147 : [+syl] > [-long,-splng] 
+*#spulberˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#spulberˈɑ#
+*#spulbeɾˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#spulbeɾˈɑ#
+Proto-Romanian II stage form : *#spulbeɾˈɑ#
+Common Romanian stage form : *#spulbeɾˈɑ#
+*#spulbəɾˈɑ# | 268 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#spulbərˈɑ# | 275 : ɾ > r 
+*#spulberˈɑ# | 277 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,ifront,!iback] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+Old Romanian stage form : *#spulberˈɑ#
+Final form : *#spulberˈɑ#

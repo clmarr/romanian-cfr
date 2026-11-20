@@ -1,20 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1712:
-#prehˈende# >>> *#prˈinde# ( GOLD : #prˈinde#) :
-p r e h ˈe n d e 
-*#preˈende# | 32 : [-son,-cons] > ∅ 
-*#priˈende# | 103 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#prjˈende# | 109 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#prjˈɛnde# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#prjˈɛnde#
-*#pɾjˈɛnde# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#pɾjˈɛnde#
-*#pɾjˈende# | 164 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#pɾʲjˈende# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pɾʲˈende# | 192 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#pɾʲˈende#
-*#pɾʲˈinde# | 241 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-*#pɾˈinde# | 244 : [+cons,+hi,+front] > [+cor,+ant,-distr,-hi,-front,-back] / # ( ʃ ) ( [+lab] ) [+lab,-son] __
-Common Romanian stage form : *#pɾˈinde#
-*#prˈinde# | 275 : ɾ > r 
-Old Romanian stage form : *#prˈinde#
-Final form : *#prˈinde#
+#pˌerˈintroː# >>> *#prˈintru# ( GOLD : #prˈintru#) :
+p ˌe r ˈi n t r oː 
+*#perˈintroː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#prˈintroː# | 38 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#prˈentroː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#prˈentro# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#prˈentro#
+*#pɾˈentɾo# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#pɾˈentɾo#
+*#pɾˈentɾu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#pɾˈentɾu#
+*#pɾˈintɾu# | 241 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#pɾˈintɾu#
+*#prˈintru# | 275 : ɾ > r 
+*#prˈintrw̥# | 284 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#prˈintru# | 285 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+Old Romanian stage form : *#prˈintru#
+Final form : *#prˈintru#

@@ -1,20 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 2069:
-#mˌiserˈeːre# >>> *#miserˈere# ( GOLD : #miserˈere#) :
-m ˌi s e r ˈeː r e 
-*#miserˈeːre# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#meserˈeːre# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#meserˈere# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#meserˈere#
-*#meseɾˈeɾe# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#meseɾˈeɾe#
-*#meseɾˈɛɾe# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#meseɾˈɛɑɾe# | 200 : ∅ > ɑ / [-tense] __
-*#meseɾˈeˈɑɾe# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#meseɾe̯ˈɑɾe# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#meseɾe̯ˈɑɾe#
-Common Romanian stage form : *#meseɾe̯ˈɑɾe#
-*#mesere̯ˈɑre# | 275 : ɾ > r 
-Old Romanian stage form : *#mesere̯ˈɑre#
-*#meserˈere# | 311 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#miserˈere# | 331 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Final form : *#miserˈere#
+#mˈerulɑm# >>> *#mjˈerlə# ( GOLD : #mjˈerlə#) :
+m ˈe r u l ɑ m 
+*#mˈerulɑ# | 35 : m > ∅ / [-stres] __ #
+*#mˈerlɑ# | 55 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#mˈɛrlɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛrlɑ#
+Proto-Romanian I stage form : *#mˈɛrlɑ#
+*#mjˈɛrlɑ# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈerlɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrlɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈerlɑ# | 198 : [-tense] > [+tense,-cons,-lat,+cont,0delrel] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
+Proto-Romanian II stage form : *#mjˈerlɑ#
+*#mjˈerlə# | 222 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#mjˈerlə#
+Old Romanian stage form : *#mjˈerlə#
+Final form : *#mjˈerlə#

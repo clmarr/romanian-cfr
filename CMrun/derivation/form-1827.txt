@@ -1,24 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1827:
-#fˌeːtiˈolɑm# >>> *#fet͡ʃo̯ˈɑrə# ( GOLD : #fet͡ʃo̯ˈɑrə#) :
-f ˌeː t i ˈo l ɑ m 
-*#fˌeːtjˈolɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːtjˈolɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːtjˈolɑ# | 35 : m > ∅ / [-stres] __ #
-*#feːtʲˈolɑ# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#feːkʲˈolɑ# | 120 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#fekʲˈolɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fekʲˈolɑ#
-*#fekʲˈoɾɑ# | 158 : l > ɾ / [+syl] __ [+syl]
-Proto-Romanian I stage form : *#fekʲˈoɾɑ#
-*#fekʲˈɔɾɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#fekʲˈɔɑɾɑ# | 200 : ∅ > ɑ / [-tense] __
-*#fekʲˈoˈɑɾɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fekʲo̯ˈɑɾɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#fekʲo̯ˈɑɾɑ#
-*#fekʲo̯ˈɑɾə# | 222 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#fec͡ɕo̯ˈɑɾə# | 246 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fet͡ʃo̯ˈɑɾə# | 247 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fet͡ʃo̯ˈɑɾə#
-*#fet͡ʃo̯ˈɑrə# | 275 : ɾ > r 
-Old Romanian stage form : *#fet͡ʃo̯ˈɑrə#
-Final form : *#fet͡ʃo̯ˈɑrə#
+#fˈeːminum# >>> *#fe̯ˈɑmən# ( GOLD : ...) :
+f ˈeː m i n u m 
+*#fˈeːminu# | 35 : m > ∅ / [-stres] __ #
+*#fˈeːmenu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#fˈemenu# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈemenu#
+Proto-Romanian I stage form : *#fˈemenu#
+*#fˈɛmenu# | 181 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-round]
+*#fˈɛɑmenu# | 200 : ∅ > ɑ / [-tense] __
+*#fˈeˈɑmenu# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#fe̯ˈɑmenu# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#fe̯ˈɑmenu#
+Common Romanian stage form : *#fe̯ˈɑmenu#
+*#fe̯ˈɑmənu# | 268 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#fe̯ˈɑmɨnu# | 278 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#fe̯ˈɑmənu# | 282 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
+*#fe̯ˈɑmənw̥# | 284 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#fe̯ˈɑmən# | 287 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fe̯ˈɑmən#
+Final form : *#fe̯ˈɑmən#

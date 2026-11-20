@@ -1,25 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1557:
-#pˌɑrˈikulɑm# >>> *#perˈekje# ( GOLD : #perˈekje#) :
-p ˌɑ r ˈi k u l ɑ m 
-*#pɑrˈikulɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pɑrˈikulɑ# | 35 : m > ∅ / [-stres] __ #
-*#pɑrˈiklɑ# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#pɑrˈeklɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#pɑrˈeklɑ#
-*#pɑɾˈeklɑ# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#pɑɾˈeklɑ#
-*#pɑɾˈɛklɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pɑɾˈɛɑklɑ# | 200 : ∅ > ɑ / [-tense] __
-*#pɑɾˈeˈɑklɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pɑɾe̯ˈɑklɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-*#pɑɾe̯ˈɑkʎɑ# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Proto-Romanian II stage form : *#pɑɾe̯ˈɑkʎɑ#
-*#pəɾe̯ˈɑkʎə# | 222 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#pəɾe̯ˈɑkʎə#
-*#pəɾe̯ˈɑkʎe# | 257 : ə > e / [+cons,+front,+son] __
-*#pəre̯ˈɑkʎe# | 275 : ɾ > r 
-*#pəre̯ˈɑkje# | 290 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#pəre̯ˈɑkje#
-*#pərˈekje# | 311 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#perˈekje# | 329 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi] [-strid]
-Final form : *#perˈekje#
+#pˌerˌekster# >>> *#peste# ( GOLD : #peste#) :
+p ˌe r ˌe k s t e r 
+*#perekster# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#prekster# | 38 : [+syl,+front,-stres] > ∅ / # ( [+syl,+front,+hi] n ) [-cont] __ r [+syl] ( [+nas] ) [-cont]
+*#prekstre# | 83 : ∅ [+syl] r > r [+syl,+son] ∅/ [wcont,wvoi] __ #
+*#prestre# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
+Balkan Romance stage form : *#prestre#
+*#pɾestɾe# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#pɾestɾe#
+Proto-Romanian II stage form : *#pɾestɾe#
+*#pɾeste# | 226 : ɾ > ∅ / ɾ [+syl] [-son] ( [-son] )* __ [+syl] #
+Common Romanian stage form : *#pɾeste#
+*#preste# | 275 : ɾ > r 
+Old Romanian stage form : *#preste#
+*#peste# | 351 : r > ∅ / # p __ ( ( [-syl] )* [-prim] ( [-syl] )* )* #
+Final form : *#peste#

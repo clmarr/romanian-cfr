@@ -1,14 +1,28 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1409:
-#rɑpˈiː# >>> *#rəpˈi# ( GOLD : #rəpˈi#) :
-r ɑ p ˈiː 
-*#rɑpˈi# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rɑpˈi#
-*#ɾɑpˈi# | 154 : r > ɾ / __ [nnas,ncons]
-*#rɾɑpˈi# | 155 : ∅ > r / # __ ɾ
-Proto-Romanian I stage form : *#rɾɑpˈi#
-Proto-Romanian II stage form : *#rɾɑpˈi#
-*#rɾəpˈi# | 222 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#rəpˈi# | 227 : {ɾ;r} > {∅;∅} / r __
-Common Romanian stage form : *#rəpˈi#
-Old Romanian stage form : *#rəpˈi#
-Final form : *#rəpˈi#
+#rˌɑːnˈukulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
+r ˌɑː n ˈu k u l u m 
+*#rɑːnˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#rɑːnˈukulu# | 35 : m > ∅ / [-stres] __ #
+*#rɑːnˈuklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#rɑnˈuklu# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rɑnˈuklu#
+*#ɾɑnˈuklu# | 154 : r > ɾ / __ [nnas,ncons]
+*#rɾɑnˈuklu# | 155 : ∅ > r / # __ ɾ
+Proto-Romanian I stage form : *#rɾɑnˈuklu#
+*#rɾənˈuklu# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#rɾənˈukʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#rɾənˈukʎu#
+*#rənˈukʎu# | 227 : {ɾ;r} > {∅;∅} / r __
+*#rənˈunkʎu# | 238 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
+Common Romanian stage form : *#rənˈunkʎu#
+*#rɨnˈunkʎu# | 278 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#rənˈunkʎu# | 281 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+*#rənˈunkʎw̥# | 284 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#rənˈunkʎu# | 285 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+*#rənˈunkju# | 290 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#rənˈunkju#
+*#rənˈunkj# | 314 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
+*#rərˈunkj# | 345 : n > r / ə __ [+syl,+hi] [+nas]
+*#rənˈunkj# | 346 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+*#rərˈunkj# | 347 : n > r / r [+syl] __ [+syl] n
+Final form : *#rərˈunkj#

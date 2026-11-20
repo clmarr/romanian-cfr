@@ -1,20 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1730:
-#wˌetrˈɑːnum# >>> *#bətrˈɨn# ( GOLD : #bətrˈɨn#) :
-w ˌe t r ˈɑː n u m 
-*#wetrˈɑːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wetrˈɑːnu# | 35 : m > ∅ / [-stres] __ #
-*#βetrˈɑːnu# | 82 : w > β / __ ( [-cons] ( @ )* ) #
-*#betrˈɑːnu# | 122 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
-*#betrˈɑnu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#betrˈɑnu#
-*#betɾˈɑnu# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#betɾˈɑnu#
-*#betɾˈɨnu# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#betɾˈɨnu#
-Common Romanian stage form : *#betɾˈɨnu#
-*#bətɾˈɨnu# | 268 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#bətrˈɨnu# | 275 : ɾ > r 
-*#bətrˈɨnw̥# | 284 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#bətrˈɨn# | 287 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#bətrˈɨn#
-Final form : *#bətrˈɨn#
+#bˌɑttuˈɑːliɑm# >>> *#bətˈɑje# ( GOLD : #bətˈɑje#) :
+b ˌɑ t t u ˈɑː l i ɑ m 
+*#bˌɑttwˈɑːljɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#bɑttwˈɑːljɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#bɑttwˈɑːljɑ# | 35 : m > ∅ / [-stres] __ #
+*#bɑttβˈɑːljɑ# | 82 : w > β / __ ( [-cons] ( @ )* ) #
+*#bɑttˈɑːljɑ# | 136 : β > ∅ 
+*#bɑtˈɑːljɑ# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#bɑtˈɑljɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#bɑtˈɑljɑ#
+Proto-Romanian I stage form : *#bɑtˈɑljɑ#
+*#bɑtˈɑlʲjɑ# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#bɑtˈɑlʲɑ# | 192 : j > ∅ / [+cons,+front] __
+*#bɑtˈɑʎɑ# | 197 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Proto-Romanian II stage form : *#bɑtˈɑʎɑ#
+*#bətˈɑʎə# | 222 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#bətˈɑʎə#
+*#bətˈɑʎe# | 257 : ə > e / [+cons,+front,+son] __
+*#bətˈɑje# | 290 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#bətˈɑje#
+Final form : *#bətˈɑje#
