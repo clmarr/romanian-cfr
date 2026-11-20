@@ -3,7 +3,7 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 696:
 k w ˈa e̯ r e 
 *#kwˈajre# | 11 : e̯ > j 
 *#kwˈɛːre# | 33 : [+syl,+lo] j > [-lo,-tense,+long,+front,-back,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#kβˈɛːre# | 78 : w > β / __ ( [-cons] ( @ )* ) #
+*#kβˈɛːre# | 82 : w > β / __ ( [-cons] ( @ )* ) #
 *#kˈɛːre# | 136 : β > ∅ 
 *#kʲˈɛːre# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
 *#kʲˈɛre# | 147 : [+syl] > [-long,-splng] 
@@ -15,13 +15,13 @@ Proto-Romanian I stage form : *#kʲˈɛɾe#
 *#kʲjˈɛɾe# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
 *#kʲˈɛɾe# | 192 : j > ∅ / [+cons,+front] __
 *#kʲˈɛɑɾe# | 199 : ∅ > ɑ / [-tense] __
-*#kʲˈeˈɑɾe# | 200 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kʲe̯ˈɑɾe# | 201 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#kʲˈeˈɑɾe# | 206 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#kʲe̯ˈɑɾe# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
 Proto-Romanian II stage form : *#kʲe̯ˈɑɾe#
-*#c͡ɕe̯ˈɑɾe# | 236 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#t͡ʃe̯ˈɑɾe# | 237 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#c͡ɕe̯ˈɑɾe# | 242 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#t͡ʃe̯ˈɑɾe# | 243 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#t͡ʃe̯ˈɑɾe#
-*#t͡ʃe̯ˈɑre# | 267 : ɾ > r 
+*#t͡ʃe̯ˈɑre# | 271 : ɾ > r 
 Old Romanian stage form : *#t͡ʃe̯ˈɑre#
-*#t͡ʃˈere# | 300 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+*#t͡ʃˈere# | 304 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
 Final form : *#t͡ʃˈere#

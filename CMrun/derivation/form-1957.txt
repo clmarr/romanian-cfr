@@ -3,7 +3,7 @@ Derivation file for run '../romanian-cfr/CMrun'; form ID 1957:
 w ˌi t ˈe l l ɑ m 
 *#witˈellɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#witˈellɑ# | 35 : m > ∅ / [-stres] __ #
-*#βitˈellɑ# | 78 : w > β / __ ( [-cons] ( @ )* ) #
+*#βitˈellɑ# | 82 : w > β / __ ( [-cons] ( @ )* ) #
 *#βitˈɛllɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
 *#βetˈɛllɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
 *#vetˈɛllɑ# | 123 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
@@ -12,18 +12,18 @@ Proto-Romanian I stage form : *#vetˈɛllɑ#
 *#vetjˈɛllɑ# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
 *#vetjˈellɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
 *#vetjˈɛllɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vetjˈɛwɑ# | 185 : l l > w / # ( @ )* [-lab] ( @ )* __ ɑ ( ( [-syl] )* [-prim] )* ( [-syl] )* #
+*#vetjˈɛwɑ# | 185 : l l > w / # ( @ )* [-lab] ( @ )* __ [+lo] #
 *#vetʲjˈɛwɑ# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
 *#vetʲˈɛwɑ# | 192 : j > ∅ / [+cons,+front] __
 *#vetʲˈɛɑwɑ# | 199 : ∅ > ɑ / [-tense] __
-*#vetʲˈeˈɑwɑ# | 200 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#vetʲe̯ˈɑwɑ# | 201 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+*#vetʲˈeˈɑwɑ# | 206 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#vetʲe̯ˈɑwɑ# | 207 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
 Proto-Romanian II stage form : *#vetʲe̯ˈɑwɑ#
-*#vetʲe̯ˈɑwə# | 214 : [-cons,+lo,-stres,-long] > ə / [-cons,-front] __
-*#vet͡sʲe̯ˈɑwə# | 236 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#vet͡se̯ˈɑwə# | 237 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#vetʲe̯ˈɑwə# | 219 : [-cons,+lo,-stres,-long] > ə / [-cons,-front] __
+*#vet͡sʲe̯ˈɑwə# | 242 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#vet͡se̯ˈɑwə# | 243 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#vet͡se̯ˈɑwə#
-*#vet͡se̯ˈɑw# | 253 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
-*#vet͡se̯ˈɑ# | 254 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
+*#vet͡se̯ˈɑw# | 257 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#vet͡se̯ˈɑ# | 258 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
 Old Romanian stage form : *#vet͡se̯ˈɑ#
 Final form : *#vet͡se̯ˈɑ#
