@@ -1,26 +1,13 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 118:
-#ˌɑssˈedioː# >>> *#ɑʃˈez# ( GOLD : #ɑʃˈez#) :
-ˌɑ s s ˈe d i oː 
-*#ˌɑssˈedjoː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ɑssˈedjoː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑssˈedʲoː# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#ɑssˈɛdʲoː# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɑsˈɛdʲoː# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ɑsˈɛdʲo# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑsˈɛdʲo#
-Proto-Romanian I stage form : *#ɑsˈɛdʲo#
-*#ɑsjˈɛdʲo# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#ɑsjˈedʲo# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɑsjˈedʲu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ɑsʲjˈedʲu# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɑsʲˈedʲu# | 192 : j > ∅ / [+cons,+front] __
-*#ɑɕˈedʲu# | 197 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Proto-Romanian II stage form : *#ɑɕˈedʲu#
-*#ɑɕˈed͡zʲu# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ɑʃˈed͡zu# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ɑʃˈed͡zu#
-*#ɑʃˈed͡zw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#ɑʃˈed͡z# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#ɑʃˈed͡z#
-*#ɑʃˈez# | 347 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#ɑʃˈez#
+#ɑspektˈɑː# >>> *#ɑʃteptˈɑ# ( GOLD : #ɑʃteptˈɑ#) :
+ɑ s p e k t ˈɑː 
+*#ɑskeptˈɑː# | 19 : p [+syl] k > k [+syl,+son] p/ s __ t
+*#ɑskʲeptˈɑː# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
+*#ɑskʲeptˈɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɑskʲeptˈɑ#
+Proto-Romanian I stage form : *#ɑskʲeptˈɑ#
+Proto-Romanian II stage form : *#ɑskʲeptˈɑ#
+*#ɑʃteptˈɑ# | 247 : [+cont,+strid,+cor] [lcont,llat,+front] > [-ant,+distr,+front,+cor] [+ant,+cor,-back,-hi,-front,-strid,-distr,-delrel,-cont,+cons,0tense]
+Common Romanian stage form : *#ɑʃteptˈɑ#
+Old Romanian stage form : *#ɑʃteptˈɑ#
+Final form : *#ɑʃteptˈɑ#

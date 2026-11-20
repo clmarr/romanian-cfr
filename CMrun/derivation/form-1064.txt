@@ -1,21 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1064:
-#ekskˌutulˈɑː# >>> *#ʃkikˈɑ# ( GOLD : #skuturˈɑ#) :
-e k s k ˌu t u l ˈɑː 
-*#ekskutulˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ekskutlˈɑː# | 48 : [+syl,+hi,-long,-stres] > ∅ / [+syl] ( s ) [+cons,-cont,+cor] __ l ( [-cons,-syl] ) [+syl]
-*#ekskuklˈɑː# | 64 : t > k / __ l
-*#eksklukˈɑː# | 70 : ∅ [+syl] [-cont,+back] l > l [+syl,+son] [-cont,+back,+cons,0tense] ∅/ [-cont,+back] __
-*#esklukˈɑː# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
-*#esklukˈɑ# | 147 : [+syl] > [-long,-splng] 
-*#sklukˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#sklukˈɑ#
-Proto-Romanian I stage form : *#sklukˈɑ#
-*#skʎukˈɑ# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Proto-Romanian II stage form : *#skʎukˈɑ#
-*#ʃkʎukˈɑ# | 236 : s > ʃ / __ [-cont] [+front,+son,+hi,-syl]
-Common Romanian stage form : *#ʃkʎukˈɑ#
-*#ʃkjukˈɑ# | 292 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#ʃkjukˈɑ#
-*#ʃkjikˈɑ# | 312 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
-*#ʃkikˈɑ# | 329 : j > ∅ / __ [+front,+hi]
-Final form : *#ʃkikˈɑ#
+#ˌekskˌubulˈɑː# >>> *#skulˈɑ# ( GOLD : #skulˈɑ#) :
+ˌe k s k ˌu b u l ˈɑː 
+*#ekskubulˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ekskublˈɑː# | 89 : [+syl,+hi,-long,-stres] > ∅ / [+syl,-front] b __ l [+syl]
+*#eskublˈɑː# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskuβlˈɑː# | 113 : b > β / [-cons] __ [+cont]
+*#eskuwlˈɑː# | 133 : β > w / [-cons] __ [+son,-syl]
+*#eskuwlˈɑ# | 147 : [+syl] > [-long,-splng] 
+*#skuwlˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#skuwlˈɑ#
+Proto-Romanian I stage form : *#skuwlˈɑ#
+*#skulˈɑ# | 177 : w > ∅ / [+syl,+hi,+back] __ @
+Proto-Romanian II stage form : *#skulˈɑ#
+Common Romanian stage form : *#skulˈɑ#
+Old Romanian stage form : *#skulˈɑ#
+Final form : *#skulˈɑ#

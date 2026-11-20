@@ -1,24 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 2072:
-#mˌikstˈiːkium# >>> *#meʃtˈit͡s# ( GOLD : #mistrˈet͡s#) :
-m ˌi k s t ˈiː k i u m 
-*#mˌikstˈiːkjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mikstˈiːkjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#mikstˈiːkju# | 35 : m > ∅ / [-stres] __ #
-*#mikstˈiːtʲu# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#mistˈiːtʲu# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
-*#mestˈiːtʲu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#mestˈitʲu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mestˈitʲu#
-Proto-Romanian I stage form : *#mestˈitʲu#
-*#mestjˈitʲu# | 188 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#mestʲjˈitʲu# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#mestʲˈitʲu# | 192 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#mestʲˈitʲu#
-*#meʃtˈitʲu# | 247 : [+cont,+strid,+cor] [lcont,llat,+front] > [-ant,+distr,+front,+cor] [+ant,+cor,-back,-hi,-front,-strid,-distr,-delrel,-cont,+cons,0tense]
-*#meʃtˈit͡sʲu# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#meʃtˈit͡su# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#meʃtˈit͡su#
-*#meʃtˈit͡sw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#meʃtˈit͡s# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#meʃtˈit͡s#
-Final form : *#meʃtˈit͡s#
+#miːriˈoːnem# >>> *#minˈune# ( GOLD : #minˈune#) :
+m iː r i ˈoː n e m 
+*#miːrjˈoːnem# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#miːrjˈoːne# | 35 : m > ∅ / [-stres] __ #
+*#mirjˈone# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mirjˈone#
+*#miɾjˈone# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#miɾjˈone#
+*#miɾʲjˈone# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#miɾʲˈone# | 192 : j > ∅ / [+cons,+front] __
+*#miɾˈone# | 196 : ɾʲ > ɾ / [+hi] __
+*#miɾˈune# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#miɾˈune#
+Common Romanian stage form : *#miɾˈune#
+*#mirˈune# | 277 : ɾ > r 
+Old Romanian stage form : *#mirˈune#
+*#minˈune# | 351 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Final form : *#minˈune#

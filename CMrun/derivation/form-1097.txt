@@ -1,11 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1097:
-... >>> *#səvˈɑdlukə# ( GOLD : #suvˈejkə#) :
-... 
-Balkan Romance stage form : ...
-Proto-Romanian I stage form : ...
-*#sɒvˈɑdlukɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-Romanian II stage form : *#sɒvˈɑdlukɑ#
-*#səvˈɑdlukə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#səvˈɑdlukə#
-Old Romanian stage form : *#səvˈɑdlukə#
-Final form : *#səvˈɑdlukə#
+#sˌubmˈitte# >>> *#sumˈete# ( GOLD : #sumˈete#) :
+s ˌu b m ˈi t t e 
+*#submˈitte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#suβmˈitte# | 113 : b > β / [-cons] __ [+cont]
+*#suβmˈette# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#suwmˈette# | 133 : β > w / [-cons] __ [+son,-syl]
+*#suwmˈete# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+Balkan Romance stage form : *#suwmˈete#
+Proto-Romanian I stage form : *#suwmˈete#
+*#sumˈete# | 177 : w > ∅ / [+syl,+hi,+back] __ @
+*#sumˈɛte# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#sumˈɛɑte# | 200 : ∅ > ɑ / [-tense] __
+*#sumˈeˈɑte# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#sume̯ˈɑte# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#sume̯ˈɑte#
+Common Romanian stage form : *#sume̯ˈɑte#
+Old Romanian stage form : *#sume̯ˈɑte#
+*#sumˈete# | 317 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Final form : *#sumˈete#

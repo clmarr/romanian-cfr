@@ -1,13 +1,15 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1521:
-... >>> *#pɨndˈi# ( GOLD : #pɨndˈi#) :
+... >>> *#pərlo̯ˈɑɡə# ( GOLD : #pɨrlo̯ˈɑɡə#) :
 ... 
 Balkan Romance stage form : ...
 Proto-Romanian I stage form : ...
-Proto-Romanian II stage form : ...
-*#pɤ̃ndˈi# | 221 : ∅ > n / [+syl,+nas] __ [-nas]
-*#pɤndˈi# | 222 : [+syl] > [-nas] 
-*#pɯndˈi# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-*#pɨndˈi# | 253 : [+syl,-lo,-round] > [-back] 
-Common Romanian stage form : *#pɨndˈi#
-Old Romanian stage form : *#pɨndˈi#
-Final form : *#pɨndˈi#
+*#perlˈɔɡɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#perlˈɔɑɡɑ# | 200 : ∅ > ɑ / [-tense] __
+*#perlˈoˈɑɡɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#perlo̯ˈɑɡɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#perlo̯ˈɑɡɑ#
+*#perlo̯ˈɑɡə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#perlo̯ˈɑɡə#
+*#pərlo̯ˈɑɡə# | 270 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+Old Romanian stage form : *#pərlo̯ˈɑɡə#
+Final form : *#pərlo̯ˈɑɡə#

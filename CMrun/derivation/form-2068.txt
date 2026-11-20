@@ -1,16 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 2068:
-#mˈerɡoː# >>> ... ( GOLD : ...) :
-m ˈe r ɡ oː 
-*#mˈɛrɡoː# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#mˈɛrɡo# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mˈɛrɡo#
-Proto-Romanian I stage form : *#mˈɛrɡo#
-*#mjˈɛrɡo# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#mjˈerɡo# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#mjˈerɡu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#mjˈerɡu#
-Common Romanian stage form : *#mjˈerɡu#
-*#mjˈerɡw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#mjˈerɡ# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mjˈerɡ#
-Final form : ...
+#mˈerulɑm# >>> *#mjˈerlə# ( GOLD : #mjˈerlə#) :
+m ˈe r u l ɑ m 
+*#mˈerulɑ# | 35 : m > ∅ / [-stres] __ #
+*#mˈerlɑ# | 55 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
+*#mˈɛrlɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛrlɑ#
+Proto-Romanian I stage form : *#mˈɛrlɑ#
+*#mjˈɛrlɑ# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈerlɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛrlɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈerlɑ# | 198 : [-tense] > [+tense,-cons,-lat,+cont,0delrel] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
+Proto-Romanian II stage form : *#mjˈerlɑ#
+*#mjˈerlə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#mjˈerlə#
+Old Romanian stage form : *#mjˈerlə#
+Final form : *#mjˈerlə#

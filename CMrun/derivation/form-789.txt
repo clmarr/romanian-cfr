@@ -1,19 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 789:
-#jˈuːdeks# >>> *#ʒˈude# ( GOLD : #ʒˈude#) :
-j ˈuː d e k s 
-*#djˈuːdeks# | 43 : j > d j / # __ [+syl] [-syl]
-*#dʲˈuːdeks# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#dʲˈuːdess# | 98 : k > s / __ s
-*#ɡʲˈuːdess# | 120 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
-*#ɡʲˈuːdes# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ɡʲˈudes# | 147 : [+syl] > [-long,-splng] 
-*#ɡʲˈude# | 153 : [+strid] > ∅ / __ #
-Balkan Romance stage form : *#ɡʲˈude#
-Proto-Romanian I stage form : *#ɡʲˈude#
-Proto-Romanian II stage form : *#ɡʲˈude#
-*#ɟ͡ʑˈude# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒˈude# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒˈude#
-Old Romanian stage form : *#d͡ʒˈude#
-*#ʒˈude# | 348 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
-Final form : *#ʒˈude#
+#jˈuwenem# >>> *#ʒˈune# ( GOLD : #ʒˈune#) :
+j ˈu w e n e m 
+*#jˈuwene# | 35 : m > ∅ / [-stres] __ #
+*#djˈuwene# | 43 : j > d j / # __ [+syl] [-syl]
+*#dʲˈuwene# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#dʲˈuβene# | 82 : w > β / __ ( [-cons] ( @ )* ) #
+*#ɡʲˈuβene# | 120 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#ɡʲˈuwɑne# | 124 : β [+front,-hi,-prim] > w [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel]/ @ [+syl,+round] __
+Balkan Romance stage form : *#ɡʲˈuwɑne#
+Proto-Romanian I stage form : *#ɡʲˈuwɑne#
+*#ɡʲˈuɑne# | 177 : w > ∅ / [+syl,+hi,+back] __ @
+*#ɡʲˈuəne# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ɡʲˈuəne#
+*#ɡʲˈune# | 235 : ə > ∅ / [+syl] __ [anas,acont]
+*#ɟ͡ʑˈune# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒˈune# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒˈune#
+Old Romanian stage form : *#d͡ʒˈune#
+*#ʒˈune# | 348 : [-son,+delrel,-ant,+voi] > [+cont,0delrel] / __ [-cons,+round]
+Final form : *#ʒˈune#

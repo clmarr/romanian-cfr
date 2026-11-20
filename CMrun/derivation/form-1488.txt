@@ -1,22 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1488:
-#pˌedukˈellum# >>> *#pədut͡ʃˈel# ( GOLD : #pədut͡ʃˈel#) :
-p ˌe d u k ˈe l l u m 
-*#pedukˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pedukˈellu# | 35 : m > ∅ / [-stres] __ #
-*#pedukˈɛllu# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#pedukʲˈɛllu# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-Balkan Romance stage form : *#pedukʲˈɛllu#
-Proto-Romanian I stage form : *#pedukʲˈɛllu#
-*#pedukʲjˈɛllu# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#pedukʲjˈellu# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#pedukʲjˈelu# | 189 : {l l;m m} > {l;m} 
-*#pedukʲˈelu# | 192 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#pedukʲˈelu#
-*#peduc͡ɕˈelu# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#pedut͡ʃˈelu# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#pedut͡ʃˈelu#
-*#pədut͡ʃˈelu# | 270 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#pədut͡ʃˈelw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#pədut͡ʃˈel# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pədut͡ʃˈel#
-Final form : *#pədut͡ʃˈel#
+#pˌeːdˈukulum# >>> *#pədˈukj# ( GOLD : #pədˈukje#) :
+p ˌeː d ˈu k u l u m 
+*#peːdˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#peːdˈukulu# | 35 : m > ∅ / [-stres] __ #
+*#peːdˈuklu# | 50 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#pedˈuklu# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pedˈuklu#
+Proto-Romanian I stage form : *#pedˈuklu#
+*#pedˈukʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#pedˈukʎu#
+Common Romanian stage form : *#pedˈukʎu#
+*#pədˈukʎu# | 270 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#pədˈukʎw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#pədˈukʎu# | 287 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+*#pədˈukju# | 292 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#pədˈukju#
+*#pədˈukji# | 312 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
+*#pədˈukj# | 320 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
+Final form : *#pədˈukj#

@@ -1,17 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1167:
-#spˌiːnˈɑːlem# >>> *#spinˈɑre# ( GOLD : #spinˈɑre#) :
-s p ˌiː n ˈɑː l e m 
-*#spiːnˈɑːlem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#spiːnˈɑːle# | 35 : m > ∅ / [-stres] __ #
-*#ispiːnˈɑːle# | 102 : ∅ > i / # __ s [+cons,-son]
-*#espiːnˈɑːle# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#espinˈɑle# | 147 : [+syl] > [-long,-splng] 
-*#spinˈɑle# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#spinˈɑle#
-*#spinˈɑɾe# | 158 : l > ɾ / [+syl] __ [+syl]
-Proto-Romanian I stage form : *#spinˈɑɾe#
-Proto-Romanian II stage form : *#spinˈɑɾe#
-Common Romanian stage form : *#spinˈɑɾe#
-*#spinˈɑre# | 277 : ɾ > r 
-Old Romanian stage form : *#spinˈɑre#
-Final form : *#spinˈɑre#
+#ˌekspɑntikˈɑː# >>> *#spɨntekˈɑ# ( GOLD : #spintekˈɑ#) :
+ˌe k s p ɑ n t i k ˈɑː 
+*#ekspɑntikˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#espɑntikˈɑː# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
+*#espɑntekˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#espɑntekˈɑ# | 147 : [+syl] > [-long,-splng] 
+*#spɑntekˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#spɑntekˈɑ#
+Proto-Romanian I stage form : *#spɑntekˈɑ#
+*#spəntekˈɑ# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#spəntekˈɑ#
+*#spɨntekˈɑ# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#spɨntekˈɑ#
+Old Romanian stage form : *#spɨntekˈɑ#
+Final form : *#spɨntekˈɑ#

@@ -1,17 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1086:
-#sˌolˈiːnum# >>> ... ( GOLD : ...) :
-s ˌo l ˈiː n u m 
-*#solˈiːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#solˈiːnu# | 35 : m > ∅ / [-stres] __ #
-*#solˈinu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#solˈinu#
-*#soɾˈinu# | 158 : l > ɾ / [+syl] __ [+syl]
-Proto-Romanian I stage form : *#soɾˈinu#
-*#suɾˈinu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#suɾˈinu#
-Common Romanian stage form : *#suɾˈinu#
-*#surˈinu# | 277 : ɾ > r 
-*#surˈinw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#surˈin# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#surˈin#
-Final form : ...
+#sˌurkˈellɑm# >>> *#surt͡ʃe̯ˈɑ# ( GOLD : #surt͡ʃe̯ˈɑ#) :
+s ˌu r k ˈe l l ɑ m 
+*#surkˈellɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#surkˈellɑ# | 35 : m > ∅ / [-stres] __ #
+*#surkˈɛllɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#surkʲˈɛllɑ# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
+Balkan Romance stage form : *#surkʲˈɛllɑ#
+Proto-Romanian I stage form : *#surkʲˈɛllɑ#
+*#surkʲˈellɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#surkʲˈɛllɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#surkʲˈɛwɑ# | 185 : l l > w / # ( @ )* [-lab] ( @ )* __ [+lo] #
+*#surkʲˈɛɑwɑ# | 200 : ∅ > ɑ / [-tense] __
+*#surkʲˈeˈɑwɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#surkʲe̯ˈɑwɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#surkʲe̯ˈɑwɑ#
+*#surkʲe̯ˈɑwə# | 224 : [-cons,+lo,-stres,-long] > ə / [-cons,-front] __
+*#surc͡ɕe̯ˈɑwə# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#surt͡ʃe̯ˈɑwə# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#surt͡ʃe̯ˈɑwə#
+*#surt͡ʃe̯ˈɑw# | 263 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#surt͡ʃe̯ˈɑ# | 264 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
+Old Romanian stage form : *#surt͡ʃe̯ˈɑ#
+Final form : *#surt͡ʃe̯ˈɑ#

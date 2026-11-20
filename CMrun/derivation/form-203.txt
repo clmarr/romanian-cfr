@@ -1,23 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 203:
-#ˌɑdprˌehˈende# >>> *#ɑprˈinde# ( GOLD : #ɑprˈinde#) :
-ˌɑ d p r ˌe h ˈe n d e 
-*#ɑdprehˈende# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑprehˈende# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
-*#ɑpreˈende# | 32 : [-son,-cons] > ∅ 
-*#ɑpriˈende# | 103 : [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
-*#ɑprjˈende# | 109 : [-cons,+hi,-long,-stres] > [-syl,0stres,0prim] / __ [+syl]
-*#ɑprjˈɛnde# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#ɑprjˈɛnde#
-*#ɑpɾjˈɛnde# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#ɑpɾjˈɛnde#
-*#ɑpɾjˈende# | 164 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
-*#ɑpɾʲjˈende# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ɑpɾʲˈende# | 192 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#ɑpɾʲˈende#
-*#ɑpɾʲˈinde# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#ɑpɾʲˈinde#
-*#ɑpjɾˈinde# | 261 : ɾʲ > j ɾ 
-*#ɑpjrˈinde# | 277 : ɾ > r 
-*#ɑprˈinde# | 294 : j > ∅ / __ r
-Old Romanian stage form : *#ɑprˈinde#
-Final form : *#ɑprˈinde#
+#ˌɑdprˈope# >>> *#ɑpro̯ˈɑpe# ( GOLD : #ɑpro̯ˈɑpe#) :
+ˌɑ d p r ˈo p e 
+*#ɑdprˈope# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑprˈope# | 30 : d > ∅ / [+syl,+lo] __ [-syl]
+Balkan Romance stage form : *#ɑprˈope#
+*#ɑpɾˈope# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#ɑpɾˈope#
+*#ɑpɾˈɔpe# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#ɑpɾˈɔɑpe# | 200 : ∅ > ɑ / [-tense] __
+*#ɑpɾˈoˈɑpe# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ɑpɾo̯ˈɑpe# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#ɑpɾo̯ˈɑpe#
+Common Romanian stage form : *#ɑpɾo̯ˈɑpe#
+*#ɑpro̯ˈɑpe# | 277 : ɾ > r 
+Old Romanian stage form : *#ɑpro̯ˈɑpe#
+Final form : *#ɑpro̯ˈɑpe#
