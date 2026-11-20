@@ -1958,6 +1958,26 @@ $ Nasal assimilation
 		m > n / __ [-son,-lab]	
 
 
+$ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
+	${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
+	$ EDIT: does not happen before [mV].
+		${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] {[-cons];[+cons,-nas];#}
+		${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context.
+	$ CM edit 9/16 -- consolidated the above to two rather than four. Functionally equivalent -- except a third rule (EDIT) that covers mN only for unstressed o and a (miel, cumnat, dumestic)
+		$ Oct 2026 -- raising of ˈə all the way to ˈɨ before nasals shared with Aromanian 
+	{ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
+	$ suppressed -- no effect: {ɑ;o} > {ə;u} / __ m [-syl]
+
+
+$ NEW RULE: Fronting of non-final [(ˈ)u] after palatals
+	$ Only occurs when consonant before palatal is coronal.
+	$ The words this affects are all of somewhat dubious origin (unattested in Latin). FLAG
+			$ counterfeeds CM 9/23 w-coloring
+			$ fed by R33
+		[+syl,+hi,+back] > [-back,+front,-lab,-round] / [+cor] [+syl] [+front,+hi,-back] __ @
+
+
+
 $ CM 11.19.26.b -- wj > j if under influence of prior sonorant consonant. Bleeds CM 9/23 w-coloring for 2 etyma
 	$etyma: lixīva > *lešiwja > leșie (not **leșuie), inclāviāre > *ɨnkʎəwjá > închieia (not **inchioia), creier not *creuier, treiera not *triuiera 
 w > ∅ / [+son,-syl] [+syl] (@)* __ j 
@@ -1994,22 +2014,6 @@ $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
 	[-hi,-lo,+prim] ɑ > [+tense] [+prim] 
 	[-hi,-lo,+syl] > [-syl] / __ [+lo]
 
-$ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
-	${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas] {[-cons];[+cons,-nas];#}
-	$ EDIT: does not happen before [mV].
-		${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ [+nas,-lab] {[-cons];[+cons,-nas];#}
-		${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context.
-	$ CM edit 9/16 -- consolidated the above to two rather than four. Functionally equivalent -- except a third rule (EDIT) that covers mN only for unstressed o and a (miel, cumnat, dumestic)
-		$ Oct 2026 -- raising of ˈə all the way to ˈɨ before nasals shared with Aromanian 
-	{ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
-	$ suppressed -- no effect: {ɑ;o} > {ə;u} / __ m [-syl]
-
-
-$ NEW RULE: Fronting of non-final [(ˈ)u] after palatals
-	$ Only occurs when consonant before palatal is coronal.
-	$ The words this affects are all of somewhat dubious origin (unattested in Latin). FLAG
-		[+syl,+hi,+back] > [-back,+front,-lab,-round] / [+cor] [+syl] [+front,+hi,-back] __ @
-
 
 $ R34 Rhotacism: non-ɡeminate [l] > [r] between vowels
 	$l > ɾ / [+syl] __ [+syl]
@@ -2039,7 +2043,27 @@ $ R43 Palatalization of [l] after a velar consonant
 
 ~Proto-Romanian II
 
-$ CM 11.17.25.a nasal unpacking, except (11.17.26.b) at auslaut or before a nasal cons, where you simply have denasalization
+$ CM 11.20.26.e deletion of v in back obstruent __ hi vowel: smokvina > smochină, skvirna : scârnă
+v > ∅ / [-son,+back] __ [+hi]
+
+
+
+$ PR II consonant cluster simplifications
+	$ s-stop-obstruent *skvara > ... > sfară, *bratri-stv-å > breaslă
+		$ v to l likely not yet -- doensn't happen in skʎ -- rasculā > rășchia , pustulella : pușchea 
+	$ bled by CM 11.20.26.e , bleeds CM 11.20.26.d
+[-cont] > ∅ / [-son] __ [-son]
+
+$ CM 11.20.26.d insertion of vowel between velar obstruent and v/f. Fed by certain syncope rules, counterbleeds first devoicing of v
+	$ Slav I *xvala > *xfala > hofală "deed" (vs. later *xvala > fală "pride"); 
+	$ Slav I or II *elǐxovǔ > Ilfov,*elǐxovǐci > Ilfovăț, *kvașa : covașă
+	$ Slav II *kvasi > a covăsi 
+	$ Slav I or II *gvozdʲ-ǔ > Rom găvozd, Arom guvojdu ; gvozdʲ-ija > Rom găvojdie
+	$ bled by CM 11.20.26.e--  skvirna : scârnă
+	$ not after s -- skvara : sfară altho that might be bleeding;
+∅ > o / [+back,-son] __ [+strid,+lab] 
+
+$ CM 11.17.26.a nasal unpacking, except (11.17.26.b) at auslaut or before a nasal cons, where you simply have denasalization
 ∅ > n / [+syl,+nas] __ [-nas]
 [+syl] > [-nas]
 
@@ -2478,7 +2502,22 @@ $ CM insertion 11.16.26.k tonic o > oa under influence of following a -- again
 ˈo > o̯ ˈɑ / __ ([-syl])* ɑ
 
 $ CM 11.20.26.b a (second) round of devoicing of v after voiceless obstruents. After attested Old Romanian in the case of certain Slavic loanwords, and items where the C-voi v cluster emerged later due to syncope. No evidence that other voiced obstruents don't also devoice -- so written as a general progressive obstruent devoicing rule. 
+	$ latest wave after attested Old Romanian: Slavic *sǔvada > Old Rom svadă > modern sfadă 'squabble', *sǔvětǔ > sveat > sfat "counsel", svẽtǔ > svent, svănt > sfînt "saint" 
 [-son] > [-voi] / [-voi] __ 
+
+$ Initial cluster simplification for fsat>sat
+	$ Probably should postdate Old Romanian given that fsat is attested.
+	$ fs: Latin fossātum > Old ROm fsat > sat
+	$ dv: Slav *dvorǐba > vorbă *dvorǐnikǔ > vornic
+	$ tf: Fîrdea
+	$ xf: fală, făli etc. 
+		$ doesn't happen to s ʃ z ʒ -- various sf- skr- str- spr- etc initials, as well as ʃt- ʃk- zg-, zb-, ʒg (jgeaba etc)
+[-son,flab,fstrid] > ∅ / # __ [-son]
+
+
+$ CM 11.20.26.c deletion of s/ʃ before in initial sf-, ʃf-, when next obstruent is also a coronal strident:
+	$ *svěštǐnikǔ > Old Rom sveaștnic > sfeaștnic > șfeșnic > feșnic 'candlestick';  *  *sǔvǐrsi > svârși > sfârși > fârși ( but sf- form made it into standard) ; etc
+[+strid] > ∅ / # __ f ([+son])* [+strid] 
 
 $ CM insertion 11.17.26.d #sr- to #str- 
 ∅ > t / # s __ [+cor,+son,-nas,-lat] 
@@ -2739,7 +2778,4 @@ r > ∅ / # p __ (([-syl])* [-prim] ([-syl])*)* #
 $ CM 9/21 NEW RULE : iie > ie phenomenon. Fairly recent -- iie attested for ie etc. 
 j > ∅ / [+hi,+front] __ e
 
-$ Initial cluster simplification for fsat>sat
-	$ Probably should postdate Old Romanian given that fsat is attested.
-		[-voi] > ∅ / # __ [-voi,+cont]
 
