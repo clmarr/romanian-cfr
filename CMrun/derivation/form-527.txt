@@ -1,15 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 527:
-... >>> *#kˈɒmpənə# ( GOLD : #kˈumpənə#) :
+... >>> *#kˈumpunə# ( GOLD : #kˈumpənə#) :
 ... 
 Balkan Romance stage form : ...
 Proto-Romanian I stage form : ...
-Proto-Romanian II stage form : *#kˈɒ̃pɒnɑ#
-*#kˈɒ̃npɒnɑ# | 221 : ∅ > n / [+syl,+nas] __ [-nas]
-*#kˈɒnpɒnɑ# | 222 : [+syl] > [-nas] 
-*#kˈɒnpənə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#kˈɒmpənə# | 252 : n > m / __ [-cont,+lab]
-Common Romanian stage form : *#kˈɒmpənə#
-*#kˈɒmpɨnə# | 280 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#kˈɒmpənə# | 284 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
-Old Romanian stage form : *#kˈɒmpənə#
-Final form : *#kˈɒmpənə#
+*#kˈũpɒnɑ# | 180 : [+round,+stres,+lo,nnas] > [-lo,nhi] / __ [-delrel]
+*#kˈũponɑ# | 183 : [+round,+lo,nnas] > [-lo,nhi] 
+*#kˈũpunɑ# | 207 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#kˈũpunɑ#
+*#kˈũnpunɑ# | 225 : ∅ > n / [+syl,+nas] __ [-nas]
+*#kˈunpunɑ# | 226 : [+syl] > [-nas] 
+*#kˈunpunə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#kˈumpunə# | 256 : n > m / __ [-cont,+lab]
+Common Romanian stage form : *#kˈumpunə#
+Old Romanian stage form : *#kˈumpunə#
+Final form : *#kˈumpunə#

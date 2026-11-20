@@ -1780,9 +1780,30 @@ $ NEW RULE: [ˈo] > [ˈu] / [+nas] __ [+nas]
 	ˈo > ˈu / [+nas] __ [+nas]
 
 
+
+$ NEW RULE CM 11.2o.26.a final VwV́ > uV́ if there is a syllable before, affecting first Slavic wave and a few Latin times [adcellare > aciua]. May only operate if first vowel is round; if so, fed by w-coloring. But currently w-coloring treated as 
+[+syl] [+lab,+cont,-nas,-syl,+voi] > u / [+syl] (@)* __ [+prim] #
+
+$ CM 11.20.26.n early ˈɒ, ˈɒ̃  > ˈo, ˈũ before plosives ONLY IF STRESSED. Bleeds 11.20.26.m : prund, scump, grumb, cumpănă
+[+round,+stres,+lo,nnas] > [-lo,nhi] / __ [-delrel]
+
+$ CM 11.20.26.m 
+$ second aspect bled by CM 11.20.26.a 
+	$ unrounding of ɒ in specific scenarios
+	$ 11.20.26.m.1 -- unrounding in peripheral obstruent __ peripheral. Only nasal ɒ
+		$ grămadă, Gâmbuț, crâmpei, pângări, paing, păianjin 
+[+lo,+round,+nas] > [-round,-lab] / [-cor,-son] ([+son]) __ [-cor,-son] 
+	$ 11.20.26.m.2 -- unrounding of ORAL ɒ after obstruent (V-stres) coronal sonorant, if followed by anything it must be high, wiht one segment able to intervene
+[+lo,+round,-nas] > [-round,-lab] / [-son] ([-stres]) [+cor,+son] __ ((@) [+hi] (@)*) #
+
+$ CM 11.20.26.o -- raising of remaining ɒ. Feeds metaphonic laxing. Raises all the way to u if nasal. Denasalizes. 
+[+round,+lo,nnas] > [-lo,nhi]
+
+
+
 $ R31 {Metaphonic laxinɡ, Diphthonɡization: ɛ/ɔ > e̯a/o̯a}
 	$ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the followinɡ syllable except before [n] or before [m] plus a consonant. CM 9/16/26 -- removed +syl from feat matrices with +stres -- this is redundant per feature implications.
-		$ NOT IN PARDESS: Allowed before two-nasal cluster. CM: this is in Pardess -- see his example penna > pană. His exception is only to single n, and to m followed by a consonant; what isn't in pardess is that this hits mn (doamna, toamna); what pardess seems to miss is that it DOESN'T happen before n + non-nasal cons. 
+		$ NOT IN PARDESS: Allowed before two-nasal cluster. CM: this is in Pardess -- see his example penna > pană. His exception is only to single n, and to m followed by a consonant; what isn't in pardess is that this hits mn (doamna, toamna); what pardess seems to miss is that it DOESN'T happen before n + non-nasal cons. CM: doesn't happen to õ < ɒ̃
 			[-hi,-lo,+stres] > [-tense] / __ [+cons,+nas] [+cons,+nas] [+syl,-hi,-round] $ (this case doesn't happen before [e] for some reason? -- CM EDIT 9/16 nope, it is just undone by R53B before [e] -- final element now as [+syl,-hi,-round] not [+syl,-back,+lo])
 
 		$ Nasalless case. -- consolidated per CM 9/16/26
@@ -1925,9 +1946,6 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 $ NEW RULE: Vowel tensing between Cj (NOT Cʲ) and two nonnasal sonorant consonants
 	[-tense] > [+tense] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
 
-$ NEW RULE CM 11.2o.26.a final VwV́ > uV́ if there is a syllable before, affecting first Slavic wave and a few Latin times [adcellare > aciua]. May only operate if first vowel is round; if so, fed by w-coloring. 
-[+syl] [+lab,+cont,-nas,-syl,+voi] > u / [+syl] (@)* __ [+prim] #
-
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
 		∅ > ɑ / [-tense] __
@@ -1965,7 +1983,7 @@ $ R33 Raisinɡ of [a] and [o] before a non-ɡeminate nasal
 		${ɑ;ˈɑ;o;ˈo} > {ə;ˈə;u;ˈu} / __ m [+cons,-nas] $ [m#] isn't an available context.
 	$ CM edit 9/16 -- consolidated the above to two rather than four. Functionally equivalent -- except a third rule (EDIT) that covers mN only for unstressed o and a (miel, cumnat, dumestic)
 		$ Oct 2026 -- raising of ˈə all the way to ˈɨ before nasals shared with Aromanian 
-	{ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
+	{ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ {[+nas,-lab];m [-nas,-syl]} ([-syl,-nas])* ([+syl] (@)*) #
 	$ suppressed -- no effect: {ɑ;o} > {ə;u} / __ m [-syl]
 
 
