@@ -1,15 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 218:
-#ˌɑdmˌikstikˈɑː# >>> *#ɑmestekˈɑ# ( GOLD : #ɑmestekˈɑ#) :
-ˌɑ d m ˌi k s t i k ˈɑː 
-*#ɑdmikstikˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɑmmikstikˈɑː# | 29 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
-*#ɑmmistikˈɑː# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
-*#ɑmmestekˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#ɑmmestekˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɑmmestekˈɑ#
-Proto-Romanian I stage form : *#ɑmmestekˈɑ#
-*#ɑmestekˈɑ# | 189 : {l l;m m} > {l;m} 
-Proto-Romanian II stage form : *#ɑmestekˈɑ#
-Common Romanian stage form : *#ɑmestekˈɑ#
-Old Romanian stage form : *#ɑmestekˈɑ#
-Final form : *#ɑmestekˈɑ#
+#ˌɑdmˌiːnɑkiˈɑː# >>> *#ɑmənət͡sˈɑ# ( GOLD : #ɑmenint͡sˈɑ#) :
+ˌɑ d m ˌiː n ɑ k i ˈɑː 
+*#ˌɑdmˌiːnɑkjˈɑː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ɑdmiːnɑkjˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɑmmiːnɑkjˈɑː# | 29 : {d l;d r;d w;d n;d m} > {l l;r r;w w;n n;m m} / [+syl,+lo] __
+*#ɑmmiːnɑtʲˈɑː# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ɑmminɑtʲˈɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ɑmminɑtʲˈɑ#
+Proto-Romanian I stage form : *#ɑmminɑtʲˈɑ#
+*#ɑminɑtʲˈɑ# | 189 : {l l;m m} > {l;m} 
+Proto-Romanian II stage form : *#ɑminɑtʲˈɑ#
+*#ɑminətʲˈɑ# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#ɑminət͡sʲˈɑ# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ɑminət͡sˈɑ# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ɑminət͡sˈɑ#
+*#ɑmənət͡sˈɑ# | 268 : [+front,+syl] > [-hi,-front,0tense] / # ( ( @ )* [+syl,-round] ( ɾ ) ) [+lab,+cons] ( t ) __ n [+syl,-round,-hi]
+*#ɑmɨnət͡sˈɑ# | 280 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#ɑmənət͡sˈɑ# | 284 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
+Old Romanian stage form : *#ɑmənət͡sˈɑ#
+Final form : *#ɑmənət͡sˈɑ#

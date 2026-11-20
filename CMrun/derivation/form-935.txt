@@ -1,12 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 935:
-#dˌuplikˈɑː# >>> *#duplekˈɑ# ( GOLD : #duplekˈɑ#) :
-d ˌu p l i k ˈɑː 
-*#duplikˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#duplekˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#duplekˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#duplekˈɑ#
-Proto-Romanian I stage form : *#duplekˈɑ#
-Proto-Romanian II stage form : *#duplekˈɑ#
-Common Romanian stage form : *#duplekˈɑ#
-Old Romanian stage form : *#duplekˈɑ#
-Final form : *#duplekˈɑ#
+#dˌomˈestikum# >>> *#dumˈestek# ( GOLD : #dumˈestek#) :
+d ˌo m ˈe s t i k u m 
+*#domˈestikum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#domˈestiku# | 35 : m > ∅ / [-stres] __ #
+*#domˈɛstiku# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#domˈɛsteku# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#domˈɛsteku#
+Proto-Romanian I stage form : *#domˈɛsteku#
+*#domjˈɛsteku# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#domjˈesteku# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dumjˈesteku# | 171 : o > u / __ [+lab,+cont,+cons]
+*#dumjˈɛsteku# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dumjˈɛɑsteku# | 200 : ∅ > ɑ / [-tense] __
+*#dumjˈeˈɑsteku# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dumje̯ˈɑsteku# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#dumje̯ˈɑsteku#
+Common Romanian stage form : *#dumje̯ˈɑsteku#
+*#dumjˈesteku# | 267 : e̯ ˈɑ > ˈe / [+lab] j __ ( @ )* [+front]
+*#dumjˈestekw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#dumjˈestek# | 289 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#dumjˈestek#
+*#dumˈestek# | 318 : j > ∅ / m __ ˈe [+cor,+cont,-nas,-lat] [+cor,-cont]
+Final form : *#dumˈestek#

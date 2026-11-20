@@ -1,18 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1845:
-#fˈiːliɑm# >>> *#fˈie# ( GOLD : #fˈie#) :
-f ˈiː l i ɑ m 
-*#fˈiːljɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#fˈiːljɑ# | 35 : m > ∅ / [-stres] __ #
-*#fˈiljɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fˈiljɑ#
-Proto-Romanian I stage form : *#fˈiljɑ#
-*#fˈilʲjɑ# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#fˈilʲɑ# | 192 : j > ∅ / [+cons,+front] __
-*#fˈiʎɑ# | 197 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Proto-Romanian II stage form : *#fˈiʎɑ#
-*#fˈiʎə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#fˈiʎə#
-*#fˈiʎe# | 259 : ə > e / [+cons,+front,+son] __
-*#fˈie# | 269 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
-Old Romanian stage form : *#fˈie#
-Final form : *#fˈie#
+#fˌiːliˈɑːnum# >>> *#fiˈin# ( GOLD : #fˈin#) :
+f ˌiː l i ˈɑː n u m 
+*#fˌiːljˈɑːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#fiːljˈɑːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#fiːljˈɑːnu# | 35 : m > ∅ / [-stres] __ #
+*#filjˈɑnu# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#filjˈɑnu#
+Proto-Romanian I stage form : *#filjˈɑnu#
+*#filʲjˈɑnu# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#filʲˈɑnu# | 192 : j > ∅ / [+cons,+front] __
+*#fiʎˈɑnu# | 197 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#fiʎˈɨnu# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#fiʎˈɨnu#
+Common Romanian stage form : *#fiʎˈɨnu#
+*#fiʎˈɨnw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#fiʎˈɨn# | 289 : w̥ > ∅ / [-syl] __ #
+*#fijˈɨn# | 292 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#fijˈɨn#
+*#fijˈin# | 312 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
+*#fiˈin# | 329 : j > ∅ / __ [+front,+hi]
+Final form : *#fiˈin#

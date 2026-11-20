@@ -1,18 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1410:
-#rˌepˌɑwsˈɑː# >>> *#rəposˈɑ# ( GOLD : #rəposˈɑ#) :
-r ˌe p ˌɑ w s ˈɑː 
-*#repɑwsˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#reposˈɑː# | 17 : ɑ w > o / [+cons] __ [+cons,+cont]
-*#reposˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#reposˈɑ#
-*#ɾeposˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
-*#rɾeposˈɑ# | 155 : ∅ > r / # __ ɾ
-Proto-Romanian I stage form : *#rɾeposˈɑ#
-*#rɾepusˈɑ# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#rɾepusˈɑ#
-*#repusˈɑ# | 229 : {ɾ;r} > {∅;∅} / r __
-*#rəpusˈɑ# | 230 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Common Romanian stage form : *#rəpusˈɑ#
-*#rəposˈɑ# | 265 : u > o / # ( ( @ )* [+lab] ) __ [+cor,+cont] ˈɑ
-Old Romanian stage form : *#rəposˈɑ#
-Final form : *#rəposˈɑ#
+... >>> *#rupuʃtˈi# ( GOLD : #rəpʃtˈi#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+*#rupustˈi# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#rupustjˈi# | 188 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#rupustʲjˈi# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rupustʲˈi# | 192 : j > ∅ / [+cons,+front] __
+Proto-Romanian II stage form : *#rupustʲˈi#
+*#rupuʃtˈi# | 247 : [+cont,+strid,+cor] [lcont,llat,+front] > [-ant,+distr,+front,+cor] [+ant,+cor,-back,-hi,-front,-strid,-distr,-delrel,-cont,+cons,0tense]
+Common Romanian stage form : *#rupuʃtˈi#
+Old Romanian stage form : *#rupuʃtˈi#
+Final form : *#rupuʃtˈi#

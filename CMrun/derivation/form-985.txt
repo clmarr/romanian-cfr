@@ -1,13 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 985:
-#sˌɑppˈɑː# >>> *#səpˈɑ# ( GOLD : #səpˈɑ#) :
-s ˌɑ p p ˈɑː 
-*#sɑppˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#sɑpˈɑː# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#sɑpˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#sɑpˈɑ#
-Proto-Romanian I stage form : *#sɑpˈɑ#
-Proto-Romanian II stage form : *#sɑpˈɑ#
-*#səpˈɑ# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#səpˈɑ#
-Old Romanian stage form : *#səpˈɑ#
-Final form : *#səpˈɑ#
+#septimˈɑːnɑm# >>> *#səptəmˈɨnə# ( GOLD : #səptəmˈɨnə#) :
+s e p t i m ˈɑː n ɑ m 
+*#septimˈɑːnɑ# | 35 : m > ∅ / [-stres] __ #
+*#septemˈɑːnɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#septemˈɑnɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#septemˈɑnɑ#
+Proto-Romanian I stage form : *#septemˈɑnɑ#
+*#septemˈɨnɑ# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#septemˈɨnɑ#
+*#septemˈɨnə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#septemˈɨnə#
+Old Romanian stage form : *#septemˈɨnə#
+*#səptemˈɨnə# | 326 : e > ə / s __ [+cons,αson,αlat] [+cons]
+*#səptəmˈɨnə# | 332 : e > ə / ə ( [-syl] )* __ ( [-syl] )* [+syl,+hi]
+Final form : *#səptəmˈɨnə#

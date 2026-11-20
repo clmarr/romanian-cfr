@@ -1,21 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1255:
-#ˌɑnimˈɑːliɑm# >>> *#nemˈɑje# ( GOLD : #nəmˈɑje#) :
-ˌɑ n i m ˈɑː l i ɑ m 
-*#ˌɑnimˈɑːljɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ɑnimˈɑːljɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#nimˈɑːljɑm# | 31 : [+syl,-prim] > ∅ / # __ [+son] i
-*#nimˈɑːljɑ# | 35 : m > ∅ / [-stres] __ #
-*#nemˈɑːljɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#nemˈɑljɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#nemˈɑljɑ#
-Proto-Romanian I stage form : *#nemˈɑljɑ#
-*#nemˈɑlʲjɑ# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#nemˈɑlʲɑ# | 192 : j > ∅ / [+cons,+front] __
-*#nemˈɑʎɑ# | 197 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Proto-Romanian II stage form : *#nemˈɑʎɑ#
-*#nemˈɑʎə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#nemˈɑʎə#
-*#nemˈɑʎe# | 259 : ə > e / [+cons,+front,+son] __
-*#nemˈɑje# | 292 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#nemˈɑje#
-Final form : *#nemˈɑje#
+... >>> *#nənˈɨnkit͡sə# ( GOLD : #nɑrˈɑklit͡sə#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+Proto-Romanian II stage form : ...
+*#nɑrˈẽkit͡sɑ# | 218 : [+lab,+strid] > ∅ / [-son,+back] __ [+hi]
+*#nɑrˈẽnkit͡sɑ# | 221 : ∅ > n / [+syl,+nas] __ [-nas]
+*#nɑrˈenkit͡sɑ# | 222 : [+syl] > [-nas] 
+*#nərˈenkit͡sə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#nərˈənkit͡sə# | 230 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+*#nərˈɨnkit͡sə# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#nərˈɨnkit͡sə#
+Old Romanian stage form : *#nərˈɨnkit͡sə#
+*#nənˈɨnkit͡sə# | 351 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Final form : *#nənˈɨnkit͡sə#

@@ -1,27 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 717:
-#ɡˈeminum# >>> *#d͡ʒe̯ˈɑmən# ( GOLD : #d͡ʒe̯ˈɑmən#) :
-ɡ ˈe m i n u m 
-*#ɡˈeminu# | 35 : m > ∅ / [-stres] __ #
-*#ɡˈɛminu# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#ɡˈɛmenu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#ɡʲˈɛmenu# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-Balkan Romance stage form : *#ɡʲˈɛmenu#
-Proto-Romanian I stage form : *#ɡʲˈɛmenu#
-*#ɡʲjˈɛmenu# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#ɡʲjˈemenu# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ɡʲjˈɛmenu# | 181 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ m [+syl,-hi,-round]
-*#ɡʲˈɛmenu# | 192 : j > ∅ / [+cons,+front] __
-*#ɡʲˈɛɑmenu# | 200 : ∅ > ɑ / [-tense] __
-*#ɡʲˈeˈɑmenu# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ɡʲe̯ˈɑmenu# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#ɡʲe̯ˈɑmenu#
-*#ɟ͡ʑe̯ˈɑmenu# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#d͡ʒe̯ˈɑmenu# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#d͡ʒe̯ˈɑmenu#
-*#d͡ʒe̯ˈɑmənu# | 270 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#d͡ʒe̯ˈɑmɨnu# | 280 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#d͡ʒe̯ˈɑmənu# | 284 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
-*#d͡ʒe̯ˈɑmənw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#d͡ʒe̯ˈɑmən# | 289 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#d͡ʒe̯ˈɑmən#
-Final form : *#d͡ʒe̯ˈɑmən#
+#ɡˌenˈukulum# >>> *#d͡ʒenˈunkj# ( GOLD : #d͡ʒenˈunkj#) :
+ɡ ˌe n ˈu k u l u m 
+*#ɡenˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ɡenˈukulu# | 35 : m > ∅ / [-stres] __ #
+*#ɡenˈuklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#ɡʲenˈuklu# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
+Balkan Romance stage form : *#ɡʲenˈuklu#
+Proto-Romanian I stage form : *#ɡʲenˈuklu#
+*#ɡʲenˈukʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#ɡʲenˈukʎu#
+*#ɡʲenˈunkʎu# | 240 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
+*#ɟ͡ʑenˈunkʎu# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#d͡ʒenˈunkʎu# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#d͡ʒenˈunkʎu#
+*#d͡ʒenˈunkʎw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#d͡ʒenˈunkʎu# | 287 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+*#d͡ʒenˈunkju# | 292 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#d͡ʒenˈunkju#
+*#d͡ʒenˈunkji# | 312 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
+*#d͡ʒenˈunkj# | 320 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
+Final form : *#d͡ʒenˈunkj#

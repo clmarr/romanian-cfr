@@ -1,16 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1560:
-... >>> *#pˈeʃterə# ( GOLD : #pˈeʃterə#) :
-... 
-Balkan Romance stage form : ...
-Proto-Romanian I stage form : ...
-*#pˈɛst͡ʃerɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#pˈɛɑst͡ʃerɑ# | 200 : ∅ > ɑ / [-tense] __
-*#pˈeˈɑst͡ʃerɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#pe̯ˈɑst͡ʃerɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#pe̯ˈɑst͡ʃerɑ#
-*#pe̯ˈɑst͡ʃerə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#pe̯ˈɑʃterə# | 247 : [+cont,+strid,+cor] [lcont,llat,+front] > [-ant,+distr,+front,+cor] [+ant,+cor,-back,-hi,-front,-strid,-distr,-delrel,-cont,+cons,0tense]
-Common Romanian stage form : *#pe̯ˈɑʃterə#
-Old Romanian stage form : *#pe̯ˈɑʃterə#
-*#pˈeʃterə# | 317 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-Final form : *#pˈeʃterə#
+#pˈetrɑm# >>> *#pjˈɑtrə# ( GOLD : #pjˈɑtrə#) :
+p ˈe t r ɑ m 
+*#pˈetrɑ# | 35 : m > ∅ / [-stres] __ #
+*#pˈɛtrɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#pˈɛtrɑ#
+*#pˈɛtɾɑ# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#pˈɛtɾɑ#
+*#pjˈɛtɾɑ# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#pjˈetɾɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#pjˈɛtɾɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#pjˈɛɑtɾɑ# | 200 : ∅ > ɑ / [-tense] __
+*#pjˈeˈɑtɾɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#pje̯ˈɑtɾɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#pje̯ˈɑtɾɑ#
+*#pje̯ˈɑtɾə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#pje̯ˈɑtɾə#
+*#pje̯ˈɑtrə# | 277 : ɾ > r 
+Old Romanian stage form : *#pje̯ˈɑtrə#
+*#pjˈɑtrə# | 322 : e̯ > ∅ / [+lab] ( j ) __ [+syl,+lo] [+cor] ( [+cor] )* [+syl]
+Final form : *#pjˈɑtrə#

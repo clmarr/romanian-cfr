@@ -1,28 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1047:
-#skˌɑntˈiliɑm# >>> *#skɨntˈeje# ( GOLD : #skɨntˈeje#) :
-s k ˌɑ n t ˈi l i ɑ m 
-*#skˌɑntˈiljɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#skɑntˈiljɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#skɑntˈiljɑ# | 35 : m > ∅ / [-stres] __ #
-*#iskɑntˈiljɑ# | 102 : ∅ > i / # __ s [+cons,-son]
-*#eskɑntˈeljɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#skɑntˈeljɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#skɑntˈeljɑ#
-Proto-Romanian I stage form : *#skɑntˈeljɑ#
-*#skɑntˈɛljɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#skɑntˈɛlʲjɑ# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#skɑntˈɛlʲɑ# | 192 : j > ∅ / [+cons,+front] __
-*#skɑntˈɛʎɑ# | 197 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#skɑntˈɛɑʎɑ# | 200 : ∅ > ɑ / [-tense] __
-*#skəntˈɛɑʎɑ# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#skəntˈeˈɑʎɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#skənte̯ˈɑʎɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#skənte̯ˈɑʎɑ#
-*#skənte̯ˈɑʎə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#skɨnte̯ˈɑʎə# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#skɨnte̯ˈɑʎə#
-*#skɨnte̯ˈɑʎe# | 259 : ə > e / [+cons,+front,+son] __
-*#skɨnte̯ˈɑje# | 292 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#skɨnte̯ˈɑje#
-*#skɨntˈeje# | 317 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-Final form : *#skɨntˈeje#
+#skɑndˈulɑm# >>> *#skɨndˈurə# ( GOLD : #skɨndˈurə#) :
+s k ɑ n d ˈu l ɑ m 
+*#skɑndˈulɑ# | 35 : m > ∅ / [-stres] __ #
+*#iskɑndˈulɑ# | 102 : ∅ > i / # __ s [+cons,-son]
+*#eskɑndˈulɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#skɑndˈulɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#skɑndˈulɑ#
+*#skɑndˈuɾɑ# | 158 : l > ɾ / [+syl] __ [+syl]
+Proto-Romanian I stage form : *#skɑndˈuɾɑ#
+*#skəndˈuɾɑ# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#skəndˈuɾɑ#
+*#skəndˈuɾə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#skɨndˈuɾə# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#skɨndˈuɾə#
+*#skɨndˈurə# | 277 : ɾ > r 
+Old Romanian stage form : *#skɨndˈurə#
+Final form : *#skɨndˈurə#

@@ -1,29 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1408:
-#rˌɑːnˈukulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
-r ˌɑː n ˈu k u l u m 
-*#rɑːnˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#rɑːnˈukulu# | 35 : m > ∅ / [-stres] __ #
-*#rɑːnˈuklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#rɑnˈuklu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#rɑnˈuklu#
-*#ɾɑnˈuklu# | 154 : r > ɾ / __ [nnas,ncons]
-*#rɾɑnˈuklu# | 155 : ∅ > r / # __ ɾ
-Proto-Romanian I stage form : *#rɾɑnˈuklu#
-*#rɾənˈuklu# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#rɾənˈukʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
-Proto-Romanian II stage form : *#rɾənˈukʎu#
-*#rənˈukʎu# | 229 : {ɾ;r} > {∅;∅} / r __
-*#rənˈunkʎu# | 240 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
-Common Romanian stage form : *#rənˈunkʎu#
-*#rɨnˈunkʎu# | 280 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#rənˈunkʎu# | 283 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
-*#rənˈunkʎw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#rənˈunkʎu# | 287 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
-*#rənˈunkju# | 292 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#rənˈunkju#
-*#rənˈunkji# | 312 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
-*#rənˈunkj# | 320 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
-*#rərˈunkj# | 350 : n > r / ə __ [+syl,+hi] [+nas]
-*#rənˈunkj# | 351 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
-*#rərˈunkj# | 352 : n > r / r [+syl] __ [+syl] n
-Final form : *#rərˈunkj#
+#rˌepˌɑwsˈɑː# >>> *#rəposˈɑ# ( GOLD : #rəposˈɑ#) :
+r ˌe p ˌɑ w s ˈɑː 
+*#repɑwsˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#reposˈɑː# | 17 : ɑ w > o / [+cons] __ [+cons,+cont]
+*#reposˈɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#reposˈɑ#
+*#ɾeposˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
+*#rɾeposˈɑ# | 155 : ∅ > r / # __ ɾ
+Proto-Romanian I stage form : *#rɾeposˈɑ#
+*#rɾepusˈɑ# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#rɾepusˈɑ#
+*#repusˈɑ# | 229 : {ɾ;r} > {∅;∅} / r __
+*#rəpusˈɑ# | 230 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Common Romanian stage form : *#rəpusˈɑ#
+*#rəposˈɑ# | 265 : u > o / # ( ( @ )* [+lab] ) __ [+cor,+cont] ˈɑ
+Old Romanian stage form : *#rəposˈɑ#
+Final form : *#rəposˈɑ#

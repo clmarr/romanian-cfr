@@ -1,10 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 2006:
-... >>> *#məslˈinə# ( GOLD : #məslˈinə#) :
-... 
-Balkan Romance stage form : ...
-Proto-Romanian I stage form : ...
-Proto-Romanian II stage form : ...
-*#məslˈinə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#məslˈinə#
-Old Romanian stage form : *#məslˈinə#
-Final form : *#məslˈinə#
+#mɑnˈukulum# >>> *#mənˈunkj# ( GOLD : #mənˈunkj#) :
+m ɑ n ˈu k u l u m 
+*#mɑnˈukulu# | 35 : m > ∅ / [-stres] __ #
+*#mɑnˈuklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+Balkan Romance stage form : *#mɑnˈuklu#
+Proto-Romanian I stage form : *#mɑnˈuklu#
+*#mənˈuklu# | 203 : {ɑ;ˈɑ;o;ˈo} > {ə;ˈɨ;u;ˈu} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#mənˈukʎu# | 216 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#mənˈukʎu#
+*#mənˈunkʎu# | 240 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
+Common Romanian stage form : *#mənˈunkʎu#
+*#mɨnˈunkʎu# | 280 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#mənˈunkʎu# | 283 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+*#mənˈunkʎw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#mənˈunkʎu# | 287 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+*#mənˈunkju# | 292 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#mənˈunkju#
+*#mənˈunkji# | 312 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
+*#mənˈunkj# | 320 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
+*#mərˈunkj# | 350 : n > r / ə __ [+syl,+hi] [+nas]
+*#mənˈunkj# | 351 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+Final form : *#mənˈunkj#

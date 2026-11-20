@@ -1,15 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1299:
-#nˌoːn# >>> *#nu# ( GOLD : #nu#) :
-n ˌoː n 
-*#noːn# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#noː# | 75 : [+nas] > ∅ / @ [-cons] __ #
-*#no# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#no#
-Proto-Romanian I stage form : *#no#
-*#nu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#nu#
-Common Romanian stage form : *#nu#
-*#nw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#nu# | 288 : {w̥;j̊} > {u;i} / # ( [-prim] ) ( [-syl] ) __ #
-Old Romanian stage form : *#nu#
-Final form : *#nu#
+#nowˈerkɑ# >>> *#nujˈɑrkə# ( GOLD : #nujˈɑrkə#) :
+n o w ˈe r k ɑ 
+*#noβˈerkɑ# | 82 : w > β / __ ( [-cons] ( @ )* ) #
+*#noβˈɛrkɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#noˈɛrkɑ# | 136 : β > ∅ 
+Balkan Romance stage form : *#noˈɛrkɑ#
+Proto-Romanian I stage form : *#noˈɛrkɑ#
+*#nojˈɛrkɑ# | 165 : ∅ > j / [+syl] __ [-cons,-tense,+prim]
+*#nojˈerkɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#nujˈerkɑ# | 172 : o > u / [-lab,nson,nnas] ( [+son,+cor,-nas] ) __ [-cons,-syl]
+*#nujˈɛrkɑ# | 180 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nujˈɛɑrkɑ# | 200 : ∅ > ɑ / [-tense] __
+*#nujˈeˈɑrkɑ# | 210 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#nuje̯ˈɑrkɑ# | 211 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#nuje̯ˈɑrkɑ#
+*#nuje̯ˈɑrkə# | 223 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#nuje̯ˈɑrkə#
+Old Romanian stage form : *#nuje̯ˈɑrkə#
+*#nujˈɑrkə# | 321 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
+Final form : *#nujˈɑrkə#

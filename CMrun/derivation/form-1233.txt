@@ -1,16 +1,12 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1233:
-#eksbˈɑttue# >>> *#zbˈɑte# ( GOLD : #zbˈɑte#) :
-e k s b ˈɑ t t u e 
-*#eksbˈɑttwe# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#eksbˈɑttβe# | 82 : w > β / __ ( [-cons] ( @ )* ) #
-*#esbˈɑttβe# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
-*#ezbˈɑttβe# | 121 : s > z / # e __ [+voi,-son]
-*#ezbˈɑtte# | 136 : β > ∅ 
-*#ezbˈɑte# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#zbˈɑte# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#zbˈɑte#
-Proto-Romanian I stage form : *#zbˈɑte#
-Proto-Romanian II stage form : *#zbˈɑte#
-Common Romanian stage form : *#zbˈɑte#
-Old Romanian stage form : *#zbˈɑte#
-Final form : *#zbˈɑte#
+... >>> *#subˈor# ( GOLD : #zbˈor#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+*#subˈoru# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-Romanian II stage form : *#subˈoru#
+Common Romanian stage form : *#subˈoru#
+*#subˈorw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#subˈor# | 289 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#subˈor#
+Final form : *#subˈor#

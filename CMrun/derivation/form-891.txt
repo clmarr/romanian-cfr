@@ -1,11 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 891:
-#dˌeː# >>> *#de# ( GOLD : #de#) :
-d ˌeː 
-*#deː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#de# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#de#
-Proto-Romanian I stage form : *#de#
-Proto-Romanian II stage form : *#de#
-Common Romanian stage form : *#de#
-Old Romanian stage form : *#de#
-Final form : *#de#
+#dˌeːˌekkeˈinde# >>> *#det͡ʃˈinde# ( GOLD : #det͡ʃˈinde#) :
+d ˌeː ˌe k k e ˈi n d e 
+*#dˌeːkkeˈinde# | 4 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
+*#dˌeːkkjˈinde# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#deːkkjˈinde# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#deːktʲˈinde# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#deːktʲˈende# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#deːttʲˈende# | 118 : [-son,-cont,-lab] > [βvoi,+cor,+ant,-distr,-hi,-back] / __ [-cont,+front,βvoi]
+*#deːtkʲˈende# | 120 : [-cont,+front] > [-cor,-ant,+back,0distr] / # ( ( @ )* [-prim] ) ( [-syl] )* __ [-lo]
+*#deːkʲˈende# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#dekʲˈende# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dekʲˈende#
+Proto-Romanian I stage form : *#dekʲˈende#
+Proto-Romanian II stage form : *#dekʲˈende#
+*#dekʲˈinde# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+*#dec͡ɕˈinde# | 248 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#det͡ʃˈinde# | 249 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#det͡ʃˈinde#
+Old Romanian stage form : *#det͡ʃˈinde#
+Final form : *#det͡ʃˈinde#

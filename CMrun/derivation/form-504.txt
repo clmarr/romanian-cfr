@@ -1,22 +1,17 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 504:
-#kˌoktˈorium# >>> *#kuptˈor# ( GOLD : #kuptˈor#) :
-k ˌo k t ˈo r i u m 
-*#kˌoktˈorjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#koktˈorjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#koktˈorju# | 35 : m > ∅ / [-stres] __ #
-*#koptˈorju# | 96 : k > p / __ t
-Balkan Romance stage form : *#koptˈorju#
-*#koptˈoɾju# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#koptˈoɾju#
-*#kuptˈoɾju# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#kuptˈoɾʲju# | 190 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#kuptˈoɾʲu# | 192 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#kuptˈoɾʲu#
-Common Romanian stage form : *#kuptˈoɾʲu#
-*#kuptˈojɾu# | 261 : ɾʲ > j ɾ 
-*#kuptˈojru# | 277 : ɾ > r 
-*#kuptˈojrw̥# | 286 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#kuptˈojr# | 289 : w̥ > ∅ / [-syl] __ #
-*#kuptˈor# | 294 : j > ∅ / __ r
-Old Romanian stage form : *#kuptˈor#
-Final form : *#kuptˈor#
+#kˌomprˈende# >>> *#kuprˈinde# ( GOLD : #kuprˈinde#) :
+k ˌo m p r ˈe n d e 
+*#komprˈende# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#koprˈende# | 67 : [+cons,+son] > ∅ / [+cons,-cor] [+syl,-prim] __ [-cont,-voi] [+cons,+son]
+*#koprˈɛnde# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#koprˈɛnde#
+*#kopɾˈɛnde# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#kopɾˈɛnde#
+*#kopɾˈende# | 164 : [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+*#kupɾˈende# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#kupɾˈende#
+*#kupɾˈinde# | 243 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#kupɾˈinde#
+*#kuprˈinde# | 277 : ɾ > r 
+Old Romanian stage form : *#kuprˈinde#
+Final form : *#kuprˈinde#
