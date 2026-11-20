@@ -2041,12 +2041,13 @@ $ R43 Palatalization of [l] after a velar consonant
 	$ For compatibility:
 		l > ʎ / [-cont,-ant,-cor] __
 
+$ CM 11.20.26.h -- first progressive devoicing. xvala > xfala > xofala > hofală; etc. No progressive voicing: subțire, subți etc. 
+[-son] > [-voi] / [-voi] __ 
+
 ~Proto-Romanian II
 
 $ CM 11.20.26.e deletion of v in back obstruent __ hi vowel: smokvina > smochină, skvirna : scârnă
-v > ∅ / [-son,+back] __ [+hi]
-
-
+[+lab,+strid] > ∅ / [-son,+back] __ [+hi]
 
 $ PR II consonant cluster simplifications
 	$ s-stop-obstruent *skvara > ... > sfară, *bratri-stv-å > breaslă
@@ -2498,12 +2499,13 @@ x > f / [+ant,-strid] [+syl,+round] __
 
 ~Old Romanian
 
-$ CM insertion 11.16.26.k tonic o > oa under influence of following a -- again
-ˈo > o̯ ˈɑ / __ ([-syl])* ɑ
 
 $ CM 11.20.26.b a (second) round of devoicing of v after voiceless obstruents. After attested Old Romanian in the case of certain Slavic loanwords, and items where the C-voi v cluster emerged later due to syncope. No evidence that other voiced obstruents don't also devoice -- so written as a general progressive obstruent devoicing rule. 
 	$ latest wave after attested Old Romanian: Slavic *sǔvada > Old Rom svadă > modern sfadă 'squabble', *sǔvětǔ > sveat > sfat "counsel", svẽtǔ > svent, svănt > sfînt "saint" 
-[-son] > [-voi] / [-voi] __ 
+[-son] > [-voi] / [-voi] __
+
+$ CM insertion 11.20.26.g tf > ft intervocalically. *litva > liftă and *molitva to moliftă, but later loaned *molitva to molitvă [-ft-]
+t f > f t / [-cons] __ [-cons] 
 
 $ Initial cluster simplification for fsat>sat
 	$ Probably should postdate Old Romanian given that fsat is attested.
@@ -2522,9 +2524,6 @@ $ CM 11.20.26.c deletion of s/ʃ before in initial sf-, ʃf-, when next obstruen
 $ CM insertion 11.17.26.d #sr- to #str- 
 ∅ > t / # s __ [+cor,+son,-nas,-lat] 
 
-$ CM insertion 11.16.26.a -- weak -a and -a- to -ə (again?). Handles -a in Slavic etc. vocab. At auslaut, or with non-front consonants on either side.
-ɑ > ə / [+cons,-front] __ ([+cons,-front] (@)*) #
-
 $ CM insertion 11.16.26.m final yers deleted. They might not really have existed to begin with.
 [-tense,-stres,+hi] > ∅ / __ #
 
@@ -2533,6 +2532,10 @@ x > k / [+back,-lo,-cons] __
 
 $ CM insertion 11.16.26.i *x > h elsewhere 
 x > h
+
+
+$ CM insertion 11.16.26.k tonic o > oa under influence of following a -- again
+ˈo > o̯ ˈɑ / __ ([-syl])* ɑ
 
 $ CM FIX 11.17.26.e : final -k > -g under the influence of earlier sonorants, across non-high vowels -- apricum>aprig and vitricus>vitreg, now supported by Slavic loans: *bošnʲakʊ > boșneag "Bosniak", *počinokǔ > pocinog, *kyslʲak > chișleag, *kutornoxy > cotonog. 
 		$ not after high: greașnic, ceasornic, ceașnic, etc. 
@@ -2550,8 +2553,22 @@ $ CM FIX 11.16.26.j j (soon to become e̯) emitted before a/ˈa if after... (i) 
 $ CM FIX 11.16.26.k ja > e̯a after coronal consonant, or g (glacia > gheață etc.), but not k. UNNATURAL CLASS.
 j > e̯ / {[+cor];ɡ} __ [+lo]
 
+$ NEW RULE: Assimilation of high vowels to [j]
+	$ CM FIX 11.20.26.i extended to all palatal sonorants
+	[+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
 
+	$assimiliations of non-high vowels other than a after palatlized sonorants.. .
+		$ *boʎarɪ > boier, 
+		$ *lijat > leit 
+		$ javi > ivi , jaremciuk > iremciuc, jasli > jesle , jasenovets > Isnovăț -- only initial cases it seesm? 
+	$ CM 11.20.26.k -- initial ja : je stressed, ji unstressed
+{ˈɑ;ɑ} > {ˈe;i} / # j __
 
+$ CM FIX 11.20.26.j coronalization of all non-labial sonorants
+[+son,+cons,-lab,-cor] > [-front,-hi,-back,+ant,+cor,-distr] 
+
+$ CM insertion 11.16.26.a -- weak -a and -a- to -ə (again?). Handles -a in Slavic etc. vocab. At auslaut, or with non-front consonants on either side.
+ɑ > ə / [+cons,-front] __ ([+cons,-front] (@)*) #
 
 $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of [e̯a] before a syllable containinɡ [e]}
 		$ at least R53B is bled by R46A; 
@@ -2634,11 +2651,6 @@ $ R58 Assimilation: word-final [ə] > [e] after [i]
 	$ EDIT: need to capture [j] as a potential context as well:
 			$ CM edit 11.16.26.b -- hits all unround unfront unstressed vowels
 		[-round,-front,-prim] > e / [+front,+hi] __ #
-
-
-
-$ NEW RULE: Assimilation of high vowels to [j]
-	[+syl,+hi] > [+front,-back,-round,-lab] / j __
 
 
 $ R56 Loss of yod before [i]
