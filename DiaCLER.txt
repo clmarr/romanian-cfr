@@ -1925,6 +1925,8 @@ $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
 $ NEW RULE: Vowel tensing between Cj (NOT Cʲ) and two nonnasal sonorant consonants
 	[-tense] > [+tense] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
 
+$ NEW RULE CM 11.2o.26.a final VwV́ > uV́ if there is a syllable before, affecting first Slavic wave and a few Latin times [adcellare > aciua]. May only operate if first vowel is round; if so, fed by w-coloring. 
+[+syl] [+lab,+cont,-nas,-syl,+voi] > u / [+syl] (@)* __ [+prim] #
 
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
@@ -1971,7 +1973,7 @@ $ CM 9/23 w-coloring -- 4+ Latin etyma, 7+ Slavic etyma.
 			$ prior must be j or strident -- not ʎ ː sclavus > șchiau , not șchiou etc. 
 		$ fed by R27B 
 		$ bled by CM 11.19.26.b
-		$ counterbled by CM 9/23 w-deletion before r 
+		$ counterbled by CM 9/23 w-deletion before r   
 		$ counterbled by R45. 
 		$ not in quasi-monosyllables -- not eu, cep etc. 
 		$ counterbled by CM 11.16.26.f
