@@ -1,19 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1627:
-#pˌorkˈiːnɑm# >>> *#purt͡ʃˈinə# ( GOLD : #purt͡ʃˈinə#) :
-p ˌo r k ˈiː n ɑ m 
-*#porkˈiːnɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#porkˈiːnɑ# | 35 : m > ∅ / [-stres] __ #
-*#porkʲˈiːnɑ# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#porkʲˈinɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#porkʲˈinɑ#
-Proto-Romanian I stage form : *#porkʲˈinɑ#
-*#purkʲˈinɑ# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#purkʲjˈinɑ# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#purkʲˈinɑ# | 197 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#purkʲˈinɑ#
-*#purkʲˈinə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#purc͡ɕˈinə# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#purt͡ʃˈinə# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#purt͡ʃˈinə#
-Old Romanian stage form : *#purt͡ʃˈinə#
-Final form : *#purt͡ʃˈinə#
+#proːkˈeːde# >>> *#purt͡ʃˈede# ( GOLD : #purt͡ʃˈede#) :
+p r oː k ˈeː d e 
+*#poːrkˈeːde# | 86 : r [+round,+syl] ∅ > ∅ [+syl,+son] r/ [-delrel,βback,!βlab] __ [-delrel,!βback,βlab]
+*#poːrkʲˈeːde# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
+*#porkʲˈede# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#porkʲˈede#
+Proto-Romanian I stage form : *#porkʲˈede#
+*#purkʲˈede# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#purkʲˈɛde# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#purkʲˈɛɑde# | 204 : ∅ > ɑ / [-tense] __
+*#purkʲˈeˈɑde# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#purkʲe̯ˈɑde# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#purkʲe̯ˈɑde#
+*#purc͡ɕe̯ˈɑde# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#purt͡ʃe̯ˈɑde# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#purt͡ʃe̯ˈɑde#
+Old Romanian stage form : *#purt͡ʃe̯ˈɑde#
+*#purt͡ʃˈede# | 321 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Final form : *#purt͡ʃˈede#

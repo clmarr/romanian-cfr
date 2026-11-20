@@ -1,16 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1480:
-#pˌɑːɡˈɑːnum# >>> *#pəɡˈɨn# ( GOLD : #pəɡˈɨn#) :
-p ˌɑː ɡ ˈɑː n u m 
-*#pɑːɡˈɑːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pɑːɡˈɑːnu# | 35 : m > ∅ / [-stres] __ #
-*#pɑɡˈɑnu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pɑɡˈɑnu#
-Proto-Romanian I stage form : *#pɑɡˈɑnu#
-*#pɑɡˈɨnu# | 207 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#pɑɡˈɨnu#
-*#pəɡˈɨnu# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#pəɡˈɨnu#
-*#pəɡˈɨnw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#pəɡˈɨn# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pəɡˈɨn#
-Final form : *#pəɡˈɨn#
+#pˌekuwˈiːnɑm# >>> *#pəkˈujnə# ( GOLD : #pəkˈujnə#) :
+p ˌe k u w ˈiː n ɑ m 
+*#pekuwˈiːnɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#pekˈuwiːnɑm# | 24 : [+syl,+hi,aback] [-cons,-syl,+hi,aback] [+syl,+prim,+front] > [+prim,+stres,+syl,+son] [-cons,-syl,-lat,+cont,0stres,0prim,0delrel] [-stres,-prim,+syl,+son]
+*#pekˈuwiːnɑ# | 35 : m > ∅ / [-stres] __ #
+*#pekˈuβiːnɑ# | 82 : w > β / __ ( [-cons] ( @ )* ) #
+*#pekˈuiːnɑ# | 136 : β > ∅ 
+*#pekˈuinɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#pekˈuinɑ#
+Proto-Romanian I stage form : *#pekˈuinɑ#
+*#pekˈujnɑ# | 176 : [+hi,-stres] > [-syl,0stres,0prim] / [+syl] __
+Proto-Romanian II stage form : *#pekˈujnɑ#
+*#pekˈujnə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#pekˈujnə#
+*#pəkˈujnə# | 274 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+Old Romanian stage form : *#pəkˈujnə#
+Final form : *#pəkˈujnə#

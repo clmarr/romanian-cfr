@@ -1,22 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 913:
-#dˌeːmˌɑːnˈitiɑ# >>> *#demine̯ˈɑt͡sə# ( GOLD : #dimine̯ˈɑt͡sə#) :
-d ˌeː m ˌɑː n ˈi t i ɑ 
-*#dˌeːmˌɑːnˈitjɑ# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#deːmɑːnˈitjɑ# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#deːmɑːnˈitʲɑ# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#deːmɑːnˈetʲɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#demɑnˈetʲɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#demɑnˈetʲɑ#
-Proto-Romanian I stage form : *#demɑnˈetʲɑ#
-*#deminˈetʲɑ# | 162 : [+lo,aprim] > [-lo,+hi,-back,+front] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,!aprim]
-*#deminˈɛtʲɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#deminˈɛɑtʲɑ# | 204 : ∅ > ɑ / [-tense] __
-*#deminˈeˈɑtʲɑ# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#demine̯ˈɑtʲɑ# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#demine̯ˈɑtʲɑ#
-*#demine̯ˈɑtʲə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#demine̯ˈɑt͡sʲə# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#demine̯ˈɑt͡sə# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#demine̯ˈɑt͡sə#
-Old Romanian stage form : *#demine̯ˈɑt͡sə#
-Final form : *#demine̯ˈɑt͡sə#
+#dˌeːˌintroː# >>> *#dintru# ( GOLD : #dintru#) :
+d ˌeː ˌi n t r oː 
+*#dˌeːntroː# | 4 : [+syl,-long] > ∅ / [+syl,+long] __ [+cons]
+*#deːntroː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#dentro# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#dentro#
+*#dentɾo# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#dentɾo#
+*#dentɾu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#dentɾu#
+*#dintɾu# | 247 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#dintɾu#
+*#dintru# | 281 : ɾ > r 
+*#dintrw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#dintru# | 291 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
+Old Romanian stage form : *#dintru#
+Final form : *#dintru#

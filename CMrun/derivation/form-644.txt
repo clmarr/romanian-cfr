@@ -1,12 +1,18 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 644:
-#ˌurulˈɑː# >>> *#urlˈɑ# ( GOLD : #urlˈɑ#) :
-ˌu r u l ˈɑː 
-*#urulˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#urlˈɑː# | 55 : [+syl,+hi,-long,-stres] > ∅ / [+syl] r __ [+cons,+voi] [+syl]
-*#urlˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#urlˈɑ#
-Proto-Romanian I stage form : *#urlˈɑ#
-Proto-Romanian II stage form : *#urlˈɑ#
-Common Romanian stage form : *#urlˈɑ#
-Old Romanian stage form : *#urlˈɑ#
-Final form : *#urlˈɑ#
+#urtˈiːkɑm# >>> *#urt͡sˈɨkə# ( GOLD : #urzˈikə#) :
+u r t ˈiː k ɑ m 
+*#urtˈiːkɑ# | 35 : m > ∅ / [-stres] __ #
+*#urtˈikɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#urtˈikɑ#
+Proto-Romanian I stage form : *#urtˈikɑ#
+*#urtjˈikɑ# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#urtʲjˈikɑ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#urtʲˈikɑ# | 197 : j > ∅ / [+cons,+front] __
+Proto-Romanian II stage form : *#urtʲˈikɑ#
+*#urtʲˈikə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#urt͡sʲˈikə# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#urt͡sˈikə# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#urt͡sˈikə#
+Old Romanian stage form : *#urt͡sˈikə#
+*#urt͡sˈɨkə# | 347 : [+syl,+front,+hi] > [-front] / t͡s __ ( [+cons] )* [+syl,-front]
+Final form : *#urt͡sˈɨkə#

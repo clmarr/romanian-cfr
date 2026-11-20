@@ -1,15 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1751:
-... >>> *#bo̯ˈɑlə# ( GOLD : #bo̯ˈɑlə#) :
-... 
-Balkan Romance stage form : ...
-Proto-Romanian I stage form : ...
-*#bˈolɑ# | 183 : [+round,+lo,nnas] > [-lo,nhi] 
-*#bˈɔlɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#bˈɔɑlɑ# | 204 : ∅ > ɑ / [-tense] __
-*#bˈoˈɑlɑ# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#bo̯ˈɑlɑ# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#bo̯ˈɑlɑ#
-*#bo̯ˈɑlə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#bo̯ˈɑlə#
-Old Romanian stage form : *#bo̯ˈɑlə#
-Final form : *#bo̯ˈɑlə#
+#bˈene# >>> *#bˈine# ( GOLD : #bˈine#) :
+b ˈe n e 
+*#bˈɛne# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#bˈɛne#
+Proto-Romanian I stage form : *#bˈɛne#
+*#bjˈɛne# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#bjˈene# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-Romanian II stage form : *#bjˈene#
+Common Romanian stage form : *#bjˈene#
+*#bˈene# | 273 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+*#bˈine# | 279 : [+syl,+front] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#bˈine#
+Final form : *#bˈine#

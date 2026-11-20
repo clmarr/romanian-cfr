@@ -1,11 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 593:
-#ɡˌustˈɑː# >>> *#ɡustˈɑ# ( GOLD : #ɡustˈɑ#) :
-ɡ ˌu s t ˈɑː 
-*#ɡustˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#ɡustˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#ɡustˈɑ#
-Proto-Romanian I stage form : *#ɡustˈɑ#
-Proto-Romanian II stage form : *#ɡustˈɑ#
-Common Romanian stage form : *#ɡustˈɑ#
-Old Romanian stage form : *#ɡustˈɑ#
-Final form : *#ɡustˈɑ#
+#kotˈoːneɑ# >>> *#ɡutˈuje# ( GOLD : #ɡutˈuje#) :
+k o t ˈoː n e ɑ 
+*#kotˈoːnjɑ# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kotˈonjɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kotˈonjɑ#
+*#ɡotˈonjɑ# | 156 : k > ɡ / __ [+round,-stres] [+cor,-cont] [+prim] [+son] [-syl]
+Proto-Romanian I stage form : *#ɡotˈonjɑ#
+*#ɡutˈonjɑ# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ɡutˈonʲjɑ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ɡutˈonʲɑ# | 197 : j > ∅ / [+cons,+front] __
+*#ɡutˈoɲɑ# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#ɡutˈuɲɑ# | 207 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#ɡutˈuɲɑ#
+*#ɡutˈuɲə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#ɡutˈuɲə#
+*#ɡutˈuɲe# | 263 : ə > e / [+cons,+front,+son] __
+*#ɡutˈuje# | 296 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#ɡutˈuje#
+Final form : *#ɡutˈuje#

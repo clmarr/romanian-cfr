@@ -1,15 +1,21 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1043:
-#ekskɑpitˈɑː# >>> *#skəpətˈɑ# ( GOLD : #skəpətˈɑ#) :
-e k s k ɑ p i t ˈɑː 
-*#eskɑpitˈɑː# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
-*#eskɑpetˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#eskɑpetˈɑ# | 147 : [+syl] > [-long,-splng] 
-*#skɑpetˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
-Balkan Romance stage form : *#skɑpetˈɑ#
-Proto-Romanian I stage form : *#skɑpetˈɑ#
-Proto-Romanian II stage form : *#skɑpetˈɑ#
-*#skəpetˈɑ# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#skəpetˈɑ#
-*#skəpətˈɑ# | 274 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-Old Romanian stage form : *#skəpətˈɑ#
-Final form : *#skəpətˈɑ#
+#ekskˌɑrminˈɑː# >>> *#skərmənˈɑ# ( GOLD : #skərmənˈɑ#) :
+e k s k ˌɑ r m i n ˈɑː 
+*#ekskɑrminˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#eskɑrminˈɑː# | 92 : [-cont] > ∅ / __ [+strid] [+cons]
+*#eskɑrmenˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#eskɑrmenˈɑ# | 147 : [+syl] > [-long,-splng] 
+*#skɑrmenˈɑ# | 148 : e > ∅ / # __ [+ant,-nas] [-cont]
+Balkan Romance stage form : *#skɑrmenˈɑ#
+*#skɑɾmenˈɑ# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#skɑɾmenˈɑ#
+*#skɑɾminˈɑ# | 189 : [+syl,+front,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
+Proto-Romanian II stage form : *#skɑɾminˈɑ#
+*#skəɾminˈɑ# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#skəɾminˈɑ#
+*#skəɾmənˈɑ# | 272 : [+front,+syl] > [-hi,-front,0tense] / # ( ( @ )* [+syl,-round] ( ɾ ) ) [+lab,+cons] ( t ) __ n [+syl,-round,-hi]
+*#skərmənˈɑ# | 281 : ɾ > r 
+*#skərmɨnˈɑ# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#skərmənˈɑ# | 288 : ɨ > ə / [-strid] [+cons,-strid,mson,mvoi] __ n [+syl,-front]
+Old Romanian stage form : *#skərmənˈɑ#
+Final form : *#skərmənˈɑ#

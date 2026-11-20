@@ -1,23 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1748:
-#bˌɑsˈilikɑm# >>> *#bisˈerikə# ( GOLD : #bisˈerikə#) :
-b ˌɑ s ˈi l i k ɑ m 
-*#bɑsˈilikɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#bɑsˈilikɑ# | 35 : m > ∅ / [-stres] __ #
-*#bɑsˈelekɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#bɑsˈelekɑ#
-*#bɑsˈeɾekɑ# | 158 : l > ɾ / [+syl] __ [+syl]
-Proto-Romanian I stage form : *#bɑsˈeɾekɑ#
-*#bɑsˈɛɾekɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#bɑsˈɛɑɾekɑ# | 204 : ∅ > ɑ / [-tense] __
-*#bɑsˈeˈɑɾekɑ# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#bɑse̯ˈɑɾekɑ# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#bɑse̯ˈɑɾekɑ#
-*#bəse̯ˈɑɾekə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#bəse̯ˈɑɾekə#
-*#bəse̯ˈɑrekə# | 281 : ɾ > r 
-Old Romanian stage form : *#bəse̯ˈɑrekə#
-*#bəsˈerekə# | 321 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#bəsˈerikə# | 335 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-*#besˈerikə# | 338 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi] [-strid]
-*#bisˈerikə# | 340 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Final form : *#bisˈerikə#
+#bˌerbˈeːkem# >>> *#berbˈet͡ʃe# ( GOLD : #berbˈet͡ʃe#) :
+b ˌe r b ˈeː k e m 
+*#berbˈeːkem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#berbˈeːke# | 35 : m > ∅ / [-stres] __ #
+*#berbˈeːkʲe# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
+*#berbˈekʲe# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#berbˈekʲe#
+Proto-Romanian I stage form : *#berbˈekʲe#
+*#berbˈɛkʲe# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#berbˈɛɑkʲe# | 204 : ∅ > ɑ / [-tense] __
+*#berbˈeˈɑkʲe# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#berbe̯ˈɑkʲe# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#berbe̯ˈɑkʲe#
+*#berbe̯ˈɑc͡ɕe# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#berbe̯ˈɑt͡ʃe# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#berbe̯ˈɑt͡ʃe#
+Old Romanian stage form : *#berbe̯ˈɑt͡ʃe#
+*#berbˈet͡ʃe# | 321 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Final form : *#berbˈet͡ʃe#

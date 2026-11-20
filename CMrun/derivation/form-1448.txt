@@ -1,25 +1,24 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1448:
-#rˌeːnˈikulum# >>> *#rɨnˈekj# ( GOLD : #rinˈikj#) :
-r ˌeː n ˈi k u l u m 
-*#reːnˈikulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#reːnˈikulu# | 35 : m > ∅ / [-stres] __ #
-*#reːnˈiklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#reːnˈeklu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#renˈeklu# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#renˈeklu#
-*#ɾenˈeklu# | 154 : r > ɾ / __ [nnas,ncons]
-*#rɾenˈeklu# | 155 : ∅ > r / # __ ɾ
-Proto-Romanian I stage form : *#rɾenˈeklu#
-*#rɾinˈeklu# | 189 : [+syl,+front,-lo] > [+hi] / __ n ( [-cons,-syl] ) [+syl,+stres,-hi]
-*#rɾinˈekʎu# | 220 : l > ʎ / [-cont,-ant,-cor] __
-Proto-Romanian II stage form : *#rɾinˈekʎu#
-*#rinˈekʎu# | 233 : {ɾ;r} > {∅;∅} / r __
-*#rɨnˈekʎu# | 234 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Common Romanian stage form : *#rɨnˈekʎu#
-*#rɨnˈekʎw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#rɨnˈekʎu# | 291 : {w̥;j̊} > {u;i} / [+cons] [-syl,+son,-nas] __ #
-*#rɨnˈekju# | 296 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#rɨnˈekju#
-*#rɨnˈekji# | 316 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
-*#rɨnˈekj# | 324 : [+hi,-stres] > ∅ / [-cons,-syl] __ #
-Final form : *#rɨnˈekj#
+#rɑːdˈiːkulɑ# >>> *#rəzˈikje# ( GOLD : #ridˈikje#) :
+r ɑː d ˈiː k u l ɑ 
+*#rɑːdˈiːklɑ# | 50 : [+syl,+hi,-long,-stres] > ∅ / [+cons,+voi,-son] ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#rɑdˈiklɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rɑdˈiklɑ#
+*#ɾɑdˈiklɑ# | 154 : r > ɾ / __ [nnas,ncons]
+*#rɾɑdˈiklɑ# | 155 : ∅ > r / # __ ɾ
+Proto-Romanian I stage form : *#rɾɑdˈiklɑ#
+*#rɾɑdjˈiklɑ# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#rɾɑdʲjˈiklɑ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#rɾɑdʲˈiklɑ# | 197 : j > ∅ / [+cons,+front] __
+*#rɾɑdʲˈikʎɑ# | 220 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#rɾɑdʲˈikʎɑ#
+*#rɾədʲˈikʎə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#rədʲˈikʎə# | 233 : {ɾ;r} > {∅;∅} / r __
+*#rəd͡zʲˈikʎə# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#rəd͡zˈikʎə# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#rəd͡zˈikʎə#
+*#rəd͡zˈikʎe# | 263 : ə > e / [+cons,+front,+son] __
+*#rəd͡zˈikje# | 296 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#rəd͡zˈikje#
+*#rəzˈikje# | 351 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#rəzˈikje#

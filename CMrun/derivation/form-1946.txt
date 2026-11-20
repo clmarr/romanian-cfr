@@ -1,18 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1946:
-#wˈidet# >>> *#vˈede# ( GOLD : #vˈede#) :
-w ˈi d e t 
-*#wˈide# | 74 : [+cons,-cont] > ∅ / __ #
-*#βˈide# | 82 : w > β / __ ( [-cons] ( @ )* ) #
-*#βˈede# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#vˈede# | 123 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-Balkan Romance stage form : *#vˈede#
-Proto-Romanian I stage form : *#vˈede#
-*#vˈɛde# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#vˈɛɑde# | 204 : ∅ > ɑ / [-tense] __
-*#vˈeˈɑde# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#ve̯ˈɑde# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#ve̯ˈɑde#
-Common Romanian stage form : *#ve̯ˈɑde#
-Old Romanian stage form : *#ve̯ˈɑde#
-*#vˈede# | 321 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-Final form : *#vˈede#
+#wˈiskidum# >>> *#vˈeʃted# ( GOLD : #vˈeʃted#) :
+w ˈi s k i d u m 
+*#wˈiskidu# | 35 : m > ∅ / [-stres] __ #
+*#βˈiskidu# | 82 : w > β / __ ( [-cons] ( @ )* ) #
+*#βˈeskedu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+*#vˈeskedu# | 123 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
+*#vˈeskʲedu# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
+Balkan Romance stage form : *#vˈeskʲedu#
+Proto-Romanian I stage form : *#vˈeskʲedu#
+*#vˈɛskʲedu# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#vˈɛɑskʲedu# | 204 : ∅ > ɑ / [-tense] __
+*#vˈeˈɑskʲedu# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#ve̯ˈɑskʲedu# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#ve̯ˈɑskʲedu#
+*#ve̯ˈɑʃtedu# | 251 : [+cont,+strid,+cor] [lcont,llat,+front] > [-ant,+distr,+front,+cor] [+ant,+cor,-back,-hi,-front,-strid,-distr,-delrel,-cont,+cons,0tense]
+Common Romanian stage form : *#ve̯ˈɑʃtedu#
+*#ve̯ˈɑʃtedw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#ve̯ˈɑʃted# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ve̯ˈɑʃted#
+*#vˈeʃted# | 321 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
+Final form : *#vˈeʃted#

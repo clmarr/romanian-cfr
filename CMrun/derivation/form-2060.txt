@@ -1,20 +1,23 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 2060:
-#mˈedium# >>> *#mjˈez# ( GOLD : #mjˈez#) :
-m ˈe d i u m 
-*#mˈedjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mˈedju# | 35 : m > ∅ / [-stres] __ #
-*#mˈedʲu# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#mˈɛdʲu# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#mˈɛdʲu#
-Proto-Romanian I stage form : *#mˈɛdʲu#
-*#mjˈɛdʲu# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
-*#mjˈedʲu# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-Proto-Romanian II stage form : *#mjˈedʲu#
-*#mjˈed͡zʲu# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#mjˈed͡zu# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#mjˈed͡zu#
-*#mjˈed͡zw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#mjˈed͡z# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#mjˈed͡z#
-*#mjˈez# | 351 : [+delrel,+ant,+voi] > [0delrel,+cont] 
-Final form : *#mjˈez#
+#mˈediɑ# >>> *#mjˈɑzə# ( GOLD : #mjˈɑzə#) :
+m ˈe d i ɑ 
+*#mˈedjɑ# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˈedʲɑ# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#mˈɛdʲɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#mˈɛdʲɑ#
+Proto-Romanian I stage form : *#mˈɛdʲɑ#
+*#mjˈɛdʲɑ# | 166 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#mjˈedʲɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#mjˈɛdʲɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#mjˈɛɑdʲɑ# | 204 : ∅ > ɑ / [-tense] __
+*#mjˈeˈɑdʲɑ# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#mje̯ˈɑdʲɑ# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#mje̯ˈɑdʲɑ#
+*#mje̯ˈɑdʲə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#mje̯ˈɑd͡zʲə# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#mje̯ˈɑd͡zə# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#mje̯ˈɑd͡zə#
+Old Romanian stage form : *#mje̯ˈɑd͡zə#
+*#mjˈɑd͡zə# | 326 : e̯ > ∅ / [+lab] ( j ) __ [+syl,+lo] [+cor] ( [+cor] )* [+syl]
+*#mjˈɑzə# | 351 : [+delrel,+ant,+voi] > [0delrel,+cont] 
+Final form : *#mjˈɑzə#

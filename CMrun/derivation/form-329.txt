@@ -1,13 +1,20 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 329:
-... >>> *#osfintˈi# ( GOLD : #osfintˈi#) :
-... 
-Balkan Romance stage form : ...
-Proto-Romanian I stage form : ...
-Proto-Romanian II stage form : ...
-*#osvẽntˈi# | 225 : ∅ > n / [+syl,+nas] __ [-nas]
-*#osventˈi# | 226 : [+syl] > [-nas] 
-*#osvintˈi# | 247 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-Common Romanian stage form : *#osvintˈi#
-Old Romanian stage form : *#osvintˈi#
-*#osfintˈi# | 301 : [-son] > [-voi] / [-voi] __
-Final form : *#osfintˈi#
+#hˌospˈitium# >>> *#ospˈət͡s# ( GOLD : #ospˈət͡s#) :
+h ˌo s p ˈi t i u m 
+*#hˌospˈitjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#hospˈitjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#ospˈitjum# | 32 : [-son,-cons] > ∅ 
+*#ospˈitju# | 35 : m > ∅ / [-stres] __ #
+*#ospˈitʲu# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
+*#ospˈetʲu# | 114 : [+syl,-long,+hi,-back] > [-hi] 
+Balkan Romance stage form : *#ospˈetʲu#
+Proto-Romanian I stage form : *#ospˈetʲu#
+Proto-Romanian II stage form : *#ospˈetʲu#
+*#ospˈet͡sʲu# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ospˈet͡su# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#ospˈet͡su#
+*#ospˈət͡su# | 274 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#ospˈət͡sw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#ospˈət͡s# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ospˈət͡s#
+Final form : *#ospˈət͡s#

@@ -1,24 +1,19 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1806:
-#fˌeːnˈikeɑ# >>> *#fɨne̯ˈɑt͡sə# ( GOLD : #fɨne̯ˈɑt͡sə#) :
-f ˌeː n ˈi k e ɑ 
-*#fˌeːnˈikjɑ# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#feːnˈikjɑ# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#feːnˈitʲɑ# | 47 : [-cont,-lab] j > [+hi,+front,-back,+cor,+ant,-distr] ∅
-*#feːnˈetʲɑ# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#fenˈetʲɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#fenˈetʲɑ#
-Proto-Romanian I stage form : *#fenˈetʲɑ#
-*#fɑnˈetʲɑ# | 161 : [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / f ( [+cor] ) __ n
-*#fɑnˈɛtʲɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#fɑnˈɛɑtʲɑ# | 204 : ∅ > ɑ / [-tense] __
-*#fənˈɛɑtʲɑ# | 207 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-*#fənˈeˈɑtʲɑ# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#fəne̯ˈɑtʲɑ# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#fəne̯ˈɑtʲɑ#
-*#fəne̯ˈɑtʲə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#fɨne̯ˈɑtʲə# | 248 : ə > ɨ / # ( [-syl] )* [+cons,-cor] __ n ( @ )* ˈɑ
-*#fɨne̯ˈɑt͡sʲə# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#fɨne̯ˈɑt͡sə# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#fɨne̯ˈɑt͡sə#
-Old Romanian stage form : *#fɨne̯ˈɑt͡sə#
-Final form : *#fɨne̯ˈɑt͡sə#
+... >>> *#fijkˈɑv# ( GOLD : #fɨjkˈɑv#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+*#filikˈɑvu# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#filjikˈɑvu# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#filʲjikˈɑvu# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#filʲikˈɑvu# | 197 : j > ∅ / [+cons,+front] __
+*#fiʎikˈɑvu# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Proto-Romanian II stage form : *#fiʎikˈɑvu#
+Common Romanian stage form : *#fiʎikˈɑvu#
+*#fiʎikˈɑvw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#fiʎikˈɑv# | 293 : w̥ > ∅ / [-syl] __ #
+*#fijikˈɑv# | 296 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#fijikˈɑv#
+*#fiikˈɑv# | 333 : j > ∅ / __ [+front,+hi]
+*#fijkˈɑv# | 344 : i > j / [+syl] __
+Final form : *#fijkˈɑv#

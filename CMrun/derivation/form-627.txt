@@ -1,18 +1,22 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 627:
-#ˌokkˈiːde# >>> *#ut͡ʃˈide# ( GOLD : #ut͡ʃˈide#) :
-ˌo k k ˈiː d e 
-*#okkˈiːde# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#okˈiːde# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#okʲˈiːde# | 144 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#okʲˈide# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#okʲˈide#
-Proto-Romanian I stage form : *#okʲˈide#
-*#ukʲˈide# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#ukʲjˈide# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ukʲˈide# | 197 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#ukʲˈide#
-*#uc͡ɕˈide# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ut͡ʃˈide# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#ut͡ʃˈide#
-Old Romanian stage form : *#ut͡ʃˈide#
-Final form : *#ut͡ʃˈide#
+#ˌoblˌiːtˈɑː# >>> *#ujtˈɑ# ( GOLD : #ujtˈɑ#) :
+ˌo b l ˌiː t ˈɑː 
+*#obliːtˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#oβliːtˈɑː# | 113 : b > β / [-cons] __ [+cont]
+*#owliːtˈɑː# | 133 : β > w / [-cons] __ [+son,-syl]
+*#owlitˈɑ# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#owlitˈɑ#
+Proto-Romanian I stage form : *#owlitˈɑ#
+*#uwlitˈɑ# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+*#ulitˈɑ# | 177 : w > ∅ / [+syl,+hi,+back] __ @
+*#uljitˈɑ# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#ulʲjitˈɑ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ulʲitˈɑ# | 197 : j > ∅ / [+cons,+front] __
+*#uʎitˈɑ# | 202 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+Proto-Romanian II stage form : *#uʎitˈɑ#
+Common Romanian stage form : *#uʎitˈɑ#
+*#ujitˈɑ# | 296 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#ujitˈɑ#
+*#uitˈɑ# | 333 : j > ∅ / __ [+front,+hi]
+*#ujtˈɑ# | 344 : i > j / [+syl] __
+Final form : *#ujtˈɑ#

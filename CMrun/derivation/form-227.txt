@@ -1,14 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 227:
-#ˈɑbiɑ# >>> *#ˈɑjbə# ( GOLD : #ˈɑjbə#) :
-ˈɑ b i ɑ 
-*#ˈɑbjɑ# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#ˈɑbbjɑ# | 112 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#ˈɑbjɑ# | 137 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
-*#ˈɑjbɑ# | 139 : b j > j b / [+stres] __
-Balkan Romance stage form : *#ˈɑjbɑ#
-Proto-Romanian I stage form : *#ˈɑjbɑ#
-Proto-Romanian II stage form : *#ˈɑjbɑ#
-*#ˈɑjbə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#ˈɑjbə#
-Old Romanian stage form : *#ˈɑjbə#
-Final form : *#ˈɑjbə#
+#ˈɑːeːrum# >>> *#ˈɑjer# ( GOLD : #ˈɑjer#) :
+ˈɑː eː r u m 
+*#ˈɑːeːru# | 35 : m > ∅ / [-stres] __ #
+*#ˈɑːjeːru# | 143 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
+*#ˈɑjeru# | 147 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#ˈɑjeru#
+*#ˈɑjeɾu# | 154 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#ˈɑjeɾu#
+Proto-Romanian II stage form : *#ˈɑjeɾu#
+Common Romanian stage form : *#ˈɑjeɾu#
+*#ˈɑjeru# | 281 : ɾ > r 
+*#ˈɑjerw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#ˈɑjer# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#ˈɑjer#
+Final form : *#ˈɑjer#

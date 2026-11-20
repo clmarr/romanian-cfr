@@ -1,18 +1,14 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 1936:
-#wˌiɡilˈɑː# >>> *#veɡe̯ˈɑ# ( GOLD : #veɡe̯ˈɑ#) :
-w ˌi ɡ i l ˈɑː 
-*#wiɡilˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wiɡlˈɑː# | 49 : [+syl,+hi,-long,-stres] > ∅ / # ( [+son] ) [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#βiɡlˈɑː# | 82 : w > β / __ ( [-cons] ( @ )* ) #
-*#βeɡlˈɑː# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#veɡlˈɑː# | 123 : β > v / # ( e n ) ( k oː ) ( r e ) ( p r e ) __
-*#veɡlˈɑ# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#veɡlˈɑ#
-Proto-Romanian I stage form : *#veɡlˈɑ#
-*#veɡʎˈɑ# | 220 : l > ʎ / [-cont,-ant,-cor] __
-Proto-Romanian II stage form : *#veɡʎˈɑ#
-Common Romanian stage form : *#veɡʎˈɑ#
-*#veɡjˈɑ# | 296 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#veɡjˈɑ#
-*#veɡe̯ˈɑ# | 315 : j > e̯ / ɡ __ [+lo]
-Final form : *#veɡe̯ˈɑ#
+... >>> *#vˈɑk# ( GOLD : #ve̯ˈɑk#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+Proto-Romanian II stage form : ...
+*#ve̯ˈɑkʊ# | 229 : ∅ [+lo,+front] > e̯ [+tense,-front,+back,-cons,-lat,+cont,0delrel]
+Common Romanian stage form : *#ve̯ˈɑkʊ#
+*#və̯ˈɑkʊ# | 274 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#vˈɑkʊ# | 277 : ə̯ > ∅ / __ [+syl,+lo]
+*#vˈɑkw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#vˈɑk# | 293 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#vˈɑk#
+Final form : *#vˈɑk#

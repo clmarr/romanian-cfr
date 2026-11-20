@@ -1,18 +1,16 @@
 Derivation file for run '../romanian-cfr/CMrun'; form ID 528:
-#kˈompˌɑroː# >>> *#kˈumpər# ( GOLD : #kˈumpər#) :
-k ˈo m p ˌɑ r oː 
-*#kˈompɑroː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kˈompɑro# | 147 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kˈompɑro#
-*#kˈompɑɾo# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#kˈompɑɾo#
-*#kˈompɑɾu# | 170 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#kˈumpɑɾu# | 208 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ m [-nas,-syl] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#kˈumpɑɾu#
-*#kˈumpəɾu# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#kˈumpəɾu#
-*#kˈumpəru# | 281 : ɾ > r 
-*#kˈumpərw̥# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#kˈumpər# | 293 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kˈumpər#
-Final form : *#kˈumpər#
+... >>> *#kˈumpunə# ( GOLD : #kˈumpənə#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+*#kˈũpɒnɑ# | 180 : [+round,+stres,+lo,nnas] > [-lo,nhi] / __ [-delrel]
+*#kˈũponɑ# | 183 : [+round,+lo,nnas] > [-lo,nhi] 
+*#kˈũpunɑ# | 207 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#kˈũpunɑ#
+*#kˈũnpunɑ# | 225 : ∅ > n / [+syl,+nas] __ [-nas]
+*#kˈunpunɑ# | 226 : [+syl] > [-nas] 
+*#kˈunpunə# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#kˈumpunə# | 256 : n > m / __ [-cont,+lab]
+Common Romanian stage form : *#kˈumpunə#
+Old Romanian stage form : *#kˈumpunə#
+Final form : *#kˈumpunə#
