@@ -60,7 +60,6 @@ j [+front,+round] > ∅ [-round,-lab]/ __ l
 [+syl,+hi,-long,-stres] > ∅ / [+syl] [-son,+cont] __ [-son] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+hi] [-son,+cont] [-cont,avoi] __ [-son,avoi] [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+round] [+cons,+son] [-delrel,-front] __ [-delrel,-front] [+prim]
-ɑ > ∅ / [+syl] p __ n [+syl]
 [+syl,+hi,-long,-stres] > ∅ / [+syl,+round] b __ t [+syl]
 t > k / __ l
 p l [+syl] [+son,+cons] t ∅ > p ∅ [+syl,+son] [+son,+cons,0tense] t l/ # __
@@ -168,6 +167,7 @@ l > ɾ / [-stres] __ [-stres] #
 ∅ > j / m n __ [-cons,-tense,+prim]
 ∅ > j / s t __ [-cons,-tense,+prim]
 [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+[-stres,+hi] > ∅ / [+syl] [+strid] __ [+cor,+son,+cont] [+syl]
 o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
 o > u / __ [+lab,+cont,+cons]
 o > u / [-lab,nson,nnas] ( [+son,+cor,-nas] ) __ [-cons,-syl]
@@ -299,6 +299,7 @@ w̥ > ∅ / [-syl] __ #
 j > ∅ / __ r
 [+syl,+round,-prim,-long] > ∅ / f __ [avoi,alat] [+syl]
 x > f / [+ant,-strid] [+syl,+round] __
+[+lab,+cons,+voi] > m / [-lab] __ n
 [-son] > [-voi] / [-voi] __
 t f > f t / [-cons] __ [-cons]
 [-son,flab,fstrid] > ∅ / # __ [-son]

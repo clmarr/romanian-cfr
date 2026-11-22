@@ -1,14 +1,14 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 16:
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 16:
 #ˌinˌɑbˈinte# >>> *#ɨnəˈinte# ( GOLD : #ɨnɑˈinte#) :
 ˌi n ˌɑ b ˈi n t e 
 *#inɑbˈinte# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#inɑβˈinte# | 113 : b > β / [-cons] __ [+cont]
-*#enɑβˈente# | 114 : [+syl,-long,+hi,-back] > [-hi] 
-*#enɑˈente# | 136 : β > ∅ 
-*#enɑjˈente# | 143 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
+*#inɑβˈinte# | 112 : b > β / [-cons] __ [+cont]
+*#enɑβˈente# | 113 : [+syl,-long,+hi,-back] > [-hi] 
+*#enɑˈente# | 135 : β > ∅ 
+*#enɑjˈente# | 142 : ∅ > j / [+syl,-front] __ [+front,-hi,+tense]
 Balkan Romance stage form : *#enɑjˈente#
 Proto-Romanian I stage form : *#enɑjˈente#
-*#ɑnɑjˈente# | 160 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
+*#ɑnɑjˈente# | 159 : [+syl,+front] > [-hi,+lo,+back,-front] / # __ [+nas]
 *#ənɑjˈente# | 207 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
 Proto-Romanian II stage form : *#ənɑjˈente#
 *#ənəjˈente# | 227 : [-cons,+lo,-stres,-long] > ə / [+cons] __
@@ -16,5 +16,5 @@ Proto-Romanian II stage form : *#ənɑjˈente#
 Common Romanian stage form : *#ənəjˈinte#
 *#ɨnəjˈinte# | 284 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
 Old Romanian stage form : *#ɨnəjˈinte#
-*#ɨnəˈinte# | 333 : j > ∅ / __ [+front,+hi]
+*#ɨnəˈinte# | 334 : j > ∅ / __ [+front,+hi]
 Final form : *#ɨnəˈinte#

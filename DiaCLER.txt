@@ -1068,7 +1068,8 @@ $ There seems to be an oddball syncope in monticellus>muncel. We can condition a
 		$ The now cluster-medial [t] is then deleted--incorporating this into later [nkt]>[nt] rule.
 	
 $ Another oddball syncope in drepanellam>drepnea. FLAG -- reexamine later.
-	ɑ > ∅ / [+syl] p __ n [+syl]
+	$ SUPPRESSED. handled much later in Old Romanian.
+	$ɑ > ∅ / [+syl] p __ n [+syl]
 		$ Also, this should probably take place after a>ă, since schwa is a much more likely target for syncope.
 	
 $ Yet another oddball syncope in cubitum>cot. FLAG -- reexamine later.
@@ -1716,7 +1717,8 @@ $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 		$ [ɛ] always tenses regardless of [j]-insertion:
 			[-cons,-tense] > [+tense]
 
-
+$ CM fix 11.22.26.a -- loss of unstressed medial high vowels -- both yer and not yer -- between intervocalic strident and coronal sonornat continuant. Before raising of unstressed e in these positions -- frăsinet, frasin, cuveni, cuviință, asin. Hits cneajnă, Șimișna arguably, nasilovati to năslui, Neajlov, Ramna, bârnă, voscreasnă. Bleeds s > ʃ in năslui.
+[-stres,+hi] > ∅ / [+syl] [+strid] __ [+cor,+son,+cont] [+syl]
 
 $ R28 Unstressed [o] > [u]
 	$ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
@@ -2519,6 +2521,9 @@ $ NEW RULE: Round vowel syncope after [f]
 
 $ CM 11.16.26.e Slavic *x > f after non-strident coronal + round. 
 x > f / [+ant,-strid] [+syl,+round] __ 
+
+$ CM 11.22.26.b vn, bn > mn after non-labials
+[+lab,+cons,+voi] > m / [-lab] __ n
 
 ~Old Romanian
 

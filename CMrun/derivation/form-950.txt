@@ -1,24 +1,29 @@
-Derivation file for run '../romanian-cfr/CMrun'; form ID 950:
-#drˌepɑnˈellɑm# >>> *#drepne̯ˈɑ# ( GOLD : #drepne̯ˈɑ#) :
+Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 950:
+#drˌepɑnˈellɑm# >>> *#drepene̯ˈɑ# ( GOLD : #drepne̯ˈɑ#) :
 d r ˌe p ɑ n ˈe l l ɑ m 
 *#drepɑnˈellɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
 *#drepɑnˈellɑ# | 35 : m > ∅ / [-stres] __ #
-*#drepnˈellɑ# | 62 : ɑ > ∅ / [+syl] p __ n [+syl]
-*#drepnˈɛllɑ# | 110 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-Balkan Romance stage form : *#drepnˈɛllɑ#
-*#dɾepnˈɛllɑ# | 154 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#dɾepnˈɛllɑ#
-*#dɾepnˈellɑ# | 169 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#dɾepnˈɛllɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#dɾepnˈɛwɑ# | 190 : l l > w / # ( @ )* [-lab] ( @ )* __ [+lo] #
-*#dɾepnˈɛɑwɑ# | 204 : ∅ > ɑ / [-tense] __
-*#dɾepnˈeˈɑwɑ# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#dɾepne̯ˈɑwɑ# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#dɾepne̯ˈɑwɑ#
-*#dɾepne̯ˈɑwə# | 228 : [-cons,+lo,-stres,-long] > ə / [-cons,-front] __
-Common Romanian stage form : *#dɾepne̯ˈɑwə#
-*#dɾepne̯ˈɑw# | 267 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
-*#dɾepne̯ˈɑ# | 268 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
-*#drepne̯ˈɑ# | 281 : ɾ > r 
-Old Romanian stage form : *#drepne̯ˈɑ#
-Final form : *#drepne̯ˈɑ#
+*#drepɑnˈɛllɑ# | 109 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#drepɑnˈɛllɑ#
+*#dɾepɑnˈɛllɑ# | 153 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#dɾepɑnˈɛllɑ#
+*#dɾepɑnjˈɛllɑ# | 165 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
+*#dɾepɑnjˈellɑ# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
+*#dɾepɑnjˈɛllɑ# | 185 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#dɾepɑnjˈɛwɑ# | 190 : l l > w / # ( @ )* [-lab] ( @ )* __ [+lo] #
+*#dɾepɑnʲjˈɛwɑ# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#dɾepɑnʲˈɛwɑ# | 197 : j > ∅ / [+cons,+front] __
+*#dɾepɑnˈɛwɑ# | 198 : nʲ > n / # ( ( @ )* [-nas] ) __ [+front] [-nas]
+*#dɾepɑnˈɛɑwɑ# | 204 : ∅ > ɑ / [-tense] __
+*#dɾepənˈɛɑwɑ# | 207 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#dɾepənˈeˈɑwɑ# | 214 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#dɾepəne̯ˈɑwɑ# | 215 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#dɾepəne̯ˈɑwɑ#
+*#dɾepəne̯ˈɑwə# | 228 : [-cons,+lo,-stres,-long] > ə / [-cons,-front] __
+Common Romanian stage form : *#dɾepəne̯ˈɑwə#
+*#dɾepəne̯ˈɑw# | 267 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#dɾepəne̯ˈɑ# | 268 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
+*#dɾepene̯ˈɑ# | 280 : ə > e / [+lab] __ n [+front,-hi,+tense]
+*#drepene̯ˈɑ# | 281 : ɾ > r 
+Old Romanian stage form : *#drepene̯ˈɑ#
+Final form : *#drepene̯ˈɑ#
