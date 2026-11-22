@@ -161,13 +161,17 @@ l > ɾ / [-stres] __ [-stres] #
 [+front,-hi] > [+lo,+tense,+back,-front,-cons,-lat,+cont,0delrel] / f ( [+cor] ) __ n
 [+lo,aprim] > [-lo,+hi,-back,+front] / # ( ( @ )* [-lab] [+son,+cons] ) __ [+nas] ( [-cont,+voi,-hi] ) [+front,-hi,!aprim]
 [+syl,+nas] > [-nas,-tense,-cons,-lat,+cont,0delrel] / __ [+front,+strid] ( [-stres] ) [+nas]
+[-stres,+hi] > ∅ / [+syl] [+strid] __ [+cor,+son,+cont] [+syl]
+ɪ > e / [+front,+cons] ( [+cor] ) __
+[+hi,-tense] > [+tense,-back,-front,-lab,-round,-cons,-lat,+cont,0delrel] / __ [+cor,+son] [-syl]
+ɪ > i / [+prim] ( [-syl] )* __ ( s k @ ) #
+[+hi,-tense,-stres] > ∅ 
 [-cons] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
 ∅ > j / [+syl] __ [-cons,-tense,+prim]
 ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-cons,-tense,+prim]
 ∅ > j / m n __ [-cons,-tense,+prim]
 ∅ > j / s t __ [-cons,-tense,+prim]
 [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-[-stres,+hi] > ∅ / [+syl] [+strid] __ [+cor,+son,+cont] [+syl]
 o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
 o > u / __ [+lab,+cont,+cons]
 o > u / [-lab,nson,nnas] ( [+son,+cor,-nas] ) __ [-cons,-syl]

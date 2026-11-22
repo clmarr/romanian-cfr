@@ -1701,6 +1701,24 @@ $ CM 11.17.26.d *ẽ in early Slavic loans denasalize before ʒ(V̯)N, and they 
 
 
 
+$ CM fix 11.22.26.a -- loss of unstressed medial high vowels -- both yer and not yer -- between intervocalic strident and coronal sonorant continuant. Before raising of unstressed e in these positions -- frăsinet, frasin, cuveni, cuviință, asin. Hits cneajnă, Șimișna arguably, nasilovati to năslui, Neajlov, Ramna, bârnă, voscreasnă. Bleeds s > ʃ in năslui.
+[-stres,+hi] > ∅ / [+syl] [+strid] __ [+cor,+son,+cont] [+syl]
+
+$ CM 11.22.26.c  ɪ > e after front consonants
+ɪ > e / [+front,+cons]  ([+cor]) __
+
+$ CM 11.22.26.g yers, stressed or unstressed, to ɨ before l/r C. Bled by 11.22.26.c
+[+hi,-tense] > [+tense,-back,-front,-lab,-round] / __ [+cor,+son]  [-syl] 
+
+$ CM 11.22.26.d ɪ > i posttonic, final or before -sk [likely bc sk was suffixal] 
+ɪ > i / [+prim] ( [-syl] )* __ (s k @) #
+
+$ CM 11.22.26.g final back yer assimilated to u
+$ʊ > u / __ #
+
+$ CM 11.22.26.e deletion of unstressed yers
+[+hi,-tense,-stres] > ∅
+
 $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 	$ R27A Tensinɡ of [ɛ] before nasal + oral consonant
 		[-cons] > [+tense] / __ [+nas] [+cons,-nas]
@@ -1717,8 +1735,6 @@ $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
 		$ [ɛ] always tenses regardless of [j]-insertion:
 			[-cons,-tense] > [+tense]
 
-$ CM fix 11.22.26.a -- loss of unstressed medial high vowels -- both yer and not yer -- between intervocalic strident and coronal sonornat continuant. Before raising of unstressed e in these positions -- frăsinet, frasin, cuveni, cuviință, asin. Hits cneajnă, Șimișna arguably, nasilovati to năslui, Neajlov, Ramna, bârnă, voscreasnă. Bleeds s > ʃ in năslui.
-[-stres,+hi] > ∅ / [+syl] [+strid] __ [+cor,+son,+cont] [+syl]
 
 $ R28 Unstressed [o] > [u]
 	$ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
@@ -1995,8 +2011,6 @@ $ NEW RULE: Fronting of non-final [(ˈ)u] after palatals
 			$ counterfeeds CM 9/23 w-coloring
 			$ fed by R33
 		[+syl,+hi,+back] > [-back,+front,-lab,-round] / [+cor] [+syl] [+front,+hi,-back] __ @
-
-
 
 $ CM 11.19.26.b -- wj > j if under influence of prior sonorant consonant. Bleeds CM 9/23 w-coloring for 2 etyma
 	$etyma: lixīva > *lešiwja > leșie (not **leșuie), inclāviāre > *ɨnkʎəwjá > închieia (not **inchioia), creier not *creuier, treiera not *triuiera 

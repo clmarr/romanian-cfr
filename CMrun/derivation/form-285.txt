@@ -3,18 +3,18 @@ Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 285:
 ... 
 Balkan Romance stage form : ...
 Proto-Romanian I stage form : ...
-*#ʎˈuti# | 168 : [-cons,-tense] > [+tense,-cons,-lat,+cont,0delrel] 
-*#ʎˈutji# | 193 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
-*#ʎˈutʲji# | 195 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#ʎˈutʲi# | 197 : j > ∅ / [+cons,+front] __
+*#ʎˈuti# | 166 : ɪ > i / [+prim] ( [-syl] )* __ ( s k @ ) #
+*#ʎˈutji# | 197 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#ʎˈutʲji# | 199 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#ʎˈutʲi# | 201 : j > ∅ / [+cons,+front] __
 Proto-Romanian II stage form : *#ʎˈutʲi#
-*#ʎˈut͡sʲi# | 252 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#ʎˈut͡si# | 253 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+*#ʎˈut͡sʲi# | 256 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
+*#ʎˈut͡si# | 257 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
 Common Romanian stage form : *#ʎˈut͡si#
-*#ʎˈut͡sj̊# | 290 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#ʎˈut͡sj# | 294 : {w̥;j̊} > {w;j} 
-*#jˈut͡sj# | 296 : [+son,+cons,+front,-cor] > j 
+*#ʎˈut͡sj̊# | 294 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#ʎˈut͡sj# | 298 : {w̥;j̊} > {w;j} 
+*#jˈut͡sj# | 300 : [+son,+cons,+front,-cor] > j 
 Old Romanian stage form : *#jˈut͡sj#
-*#jˈit͡sj# | 317 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
-*#ˈit͡sj# | 334 : j > ∅ / __ [+front,+hi]
+*#jˈit͡sj# | 321 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
+*#ˈit͡sj# | 338 : j > ∅ / __ [+front,+hi]
 Final form : *#ˈit͡sj#
