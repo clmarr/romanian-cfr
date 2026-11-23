@@ -2125,8 +2125,9 @@ $ R37 {Raisinɡ of non-initial, non-ɡeminate, unstressed [a], Deɡemination of 
 $ CM 11.22.26.g yers, stressed or unstressed, to ɨ before l/r C. Bled by 11.22.26.c. Counterbled by 11.23.26c.
 [+hi,-tense] > [+tense,-back,-front,-lab,-round] / __ [+cor,+son] (ɪ) [+cons] 
 
-$ CM 11.23.26.u -- final hard yer to u after CR
-ʊ > u / [+cons] [+cor,+son] __ #
+$ CM 11.23.26.u -- final hard yer to u after sonorants
+	$feeds common Romanian effacement -- pustiu like filu [ʎ effaced]; jiu [l]; iudeu, zmeu [j]; sibiu [n]
+ʊ > u / [-syl,+voi,vlab,-vson] __ #
 
 $ other  yers deleted
 [+hi,-tense,-stres] > ∅
@@ -2247,8 +2248,8 @@ $ NEW RULE: Forward spreading of [n] to following occlusive
 	$ Only occurs across a [+hi] vowel. Does not occur before labial stops. Common Romanian
 				$ not before t though (minut, cărut) -- and this doesn't feed the u > ɨ rule in those positions.
 					$ RULE CROSSING
-		$fed by ˈəN > ˈɨN
-		∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
+		$fed by ˈəN > ˈɨN in second iteration
+		∅ > n / [+syl] n [+syl,+hi] __ [-delrel,-son,-ant]
 			$ This ought to occur in adminacia(re)>amenința, but amenința doesn't have the right vowel here under our current cascade.
 			$ Since we also have attested amenița, it is clear that the vowel ought to be [i] at the time of this change.
 
@@ -2319,7 +2320,7 @@ $ (11TH CENTURY TO THE PRESENT)
 
 
 	$ OCT 2026 : forward spreading of [n] continues to before t, not in Aromanian, and not feeding u > ɨ
-		∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+		∅ > n / [+syl] n [+syl,+hi] __ [-delrel,-son,-lab]
 
 
 
@@ -2402,13 +2403,22 @@ $ CM 10/21 nasal vowel retractions in lab __ n V-round,-hi
 	$counterfeeds R53B
 [+front,+syl] > [-hi,-front,0tense] / # ((@)* [+syl,-round] (ɾ)) [+lab,+cons] (t) __ n [+syl,-round,-hi]
 
+$ CM 11.23.26.d l > w in +hi,-round __ Vround,-stres #: oreavu , Jiu etc.
+l > w / [+hi,-round] __ [+round,-stres] #
 
+$ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ/v/l  after labial [can see thru coronals] then i/ˈi. For -j-, happens after ˈe too.
+	$ -j- : [Slavic] d͡zmˈeju > zmeu, ijudˈeju > iudeu, govˈoʒdije > găvojdie? 
+		$ also deleted immediately post-labial : vânăt etc. 
+	$ -ɲ- ː [Latin] kuviɲˈint͡sə > cuviință, vˈiɲe > vie; [Slavic] Sibiu?
+	$ -ʎ- ː [Slavic] pust'iʎʊ > pustiu, [Latin] mˈiːliɑm > mˈiʎe > mie, fˈiːlium > fˈiʎu > fiu
+		$ not -eʎ- like -ej- etc. -- milium > meʎu > mei, themelion > temei, xmeʎu > hemei, etc. 
+	$ -v- : [Slavic] zʊlobˈivu > zglobˈivu > zglobiu; loss of -v- in Latin etyma appears to be otherwise explain but would be relevant for timpuriu, viu; certain -l- cases may have become v via CM 11.23.26 d -- [Slavic] dolʒilu > Doljiu > Dolj; gorʒilu > Gorjiu > gorj; ʒilu > Jiu
 
-$ NEW RULE CM 9/21 -- loss of j/ʎ/ɲ in certain post labial contexts (mediated by /i/), before V(N) or # 
-	$ vie, vie, mie, fie -- -ie not -ije endings
 	$ necessary for filium > fiu, vânăt, fân, pe, abi 
 		$ posterior syllable cannot be -a, or -ă -- todo use =lo when can, but using efront,-eback for now because ə is treated as ə at this stage not ɐ as it perhaps should be.
-[+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ([+hi,+front,+syl]) __ ([+syl,-lo,efront,-eback] ([+nas] (@)*)) #
+$pre 11/23 vsn: [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ([+hi,+front,+syl]) __ ([+syl,-lo,efront,-eback] ([+nas] (@)*)) #
+[+cont,+voi,-cor,-back,-syl] > ∅ / [+lab] ( [+cor] )* [+front,+hi,+syl] __ [+syl,-lo,efront,!eback] ( [+nas] ( @ )* )  #
+j > ∅ / [+lab,+cons] ( [+cor] )* ([+front,+syl]) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
 
 
 	$ R46 {e/ə ɡlidinɡ, unstressed a monophthonɡization}. 
@@ -2612,8 +2622,9 @@ $ CM FIX 11.16.26.j j (soon to become e̯) emitted before a/ˈa if after... (i) 
 [+ant,+front,+cons] ∅ > [-front,-hi] j / __ [+lo]
 ∅ > j / {[-cont,+front];@ [+cont,+front,-son]} __ [+lo]
 
-$ CM FIX 11.16.26.k ja > e̯a after coronal consonant, or g (glacia > gheață etc.), but not k. UNNATURAL CLASS.
-j > e̯ / {[+cor];ɡ} __ [+lo]
+$ CM FIX 11.16.26.k ja > e̯a after coronal consonant, or g (glacia > gheață etc.), or k [cheag, șcheau, etc.] 
+j > e̯ / [+cons,-lab] __ [+lo]
+
 
 $ NEW RULE: Assimilation of high vowels to [j]
 	$ CM FIX 11.20.26.i extended to all palatal sonorants
@@ -2622,7 +2633,7 @@ $ NEW RULE: Assimilation of high vowels to [j]
 	$assimiliations of non-high vowels other than a after palatlized sonorants.. .
 		$ *boʎarɪ > boier, 
 		$ *lijat > leit 
-		$ javi > ivi , jaremciuk > iremciuc, jasli > jesle , jasenovets > Isnovăț -- only initial cases it seesm? 
+		$ javi > ivi , jaremciuk > iremciuc, jasli > jesle , jasenovets > Isnovăț -- only initial cases it seem? 
 	$ CM 11.20.26.k -- initial ja : je stressed, ji unstressed
 {ˈɑ;ɑ} > {ˈe;i} / # j __
 
@@ -2641,6 +2652,17 @@ $ R53 {Monophthonɡization of [e̯a] after [š] or [ts], Monophthonɡization of
 
 	$ R53B Monophthonɡization of [e̯a] before a syllable containinɡ [e]
 		e̯ ˈɑ > ˈe / __ ([-syl])* [+syl,+front,-hi]
+
+$CM FIX 11.23.26.f eaj > e if followed by vocoid, preserving stress -- so eaje > eje, eajj > ej, eaja > ea
+	$ eaja > ea -- [Latin] curea, [Slavic] oceanie, 
+	$ eaji > ei -- [Latin] ulei, [Slavic] cristei,
+	$ eaje > eje -- [Latin] creier, greier, femeie, scânteie, [Slavic] nedeie
+[+lo,aprim] j [+lo,-aprim] > ˈɑ / e̯ __
+e̯ [+lo,bprim,cstres] > [+syl,bprim,cstres] ∅ / __ j ([-cons] (@)*) #
+
+
+$CM FIX 11.23.26.e ea > e pretonic: stretenie, ceuaș, conceni
+e̯ ɑ > e / __ ([-syl])* [+prim]
 
 $ R54 Delateralization of [ʎ] $ʎ > j $ CM 9/18/26 -- consolidated 
 
@@ -2763,7 +2785,7 @@ $ NEW RULE: [e] raises to [i] between a voiced consonant and a voiceless coronal
 
 $ NEW RULE: Partial assimilation of [j] to following low vowel after singleton velar stops
 	$j > e̯ / {#;[+syl]} [-cont,+back] __ [+lo] -- CONSOLIDATED CM 9/16/26
-	j > e̯ / # ((@)* [+syl]) [-cont,+back] __ [+lo]
+	$j > e̯ / # ((@)* [+syl]) [-cont,+back] __ [+lo] -- CONSOLIDATED.
 
 $ Yod deletion -- CM EDIT 9/16/26 -- NOW REDUNDANT GIVEN je > e rule earlier added 9/16/26
 	$j > ∅ / [+cons,+voi,-nas] __ [+prim,-hi] [-cont]
