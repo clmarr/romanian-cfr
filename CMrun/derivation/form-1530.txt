@@ -1,17 +1,17 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1530:
-#pˈɑleɑm# >>> *#pˈɑje# ( GOLD : #pˈɑje#) :
-p ˈɑ l e ɑ m 
-*#pˈɑljɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#pˈɑljɑ# | 35 : m > ∅ / [-stres] __ #
-Balkan Romance stage form : *#pˈɑljɑ#
-Proto-Romanian I stage form : *#pˈɑljɑ#
-*#pˈɑlʲjɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#pˈɑlʲɑ# | 199 : j > ∅ / [+cons,+front] __
-*#pˈɑʎɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Proto-Romanian II stage form : *#pˈɑʎɑ#
-*#pˈɑʎə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#pˈɑʎə#
-*#pˈɑʎe# | 272 : ə > e / [+cons,+front,+son] __
-*#pˈɑje# | 305 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#pˈɑje#
-Final form : *#pˈɑje#
+... >>> *#pˈɨnɡ# ( GOLD : #pˈɑinɡ#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+*#pˈɑɑ̃ɡu# | 183 : [+lo,+round,+nas] > [-round,-lab] / [-cor,-son] ( [+son] ) __ [-cor,-son]
+*#pˈɨɑ̃ɡu# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#pˈɨɑ̃ɡu#
+*#pˈɨɑ̃nɡu# | 233 : ∅ > n / [+syl,+nas] __ [-nas]
+*#pˈɨɑnɡu# | 234 : [+syl] > [-nas] 
+*#pˈɨənɡu# | 236 : [-cons,+lo,-stres,-long] > ə / [-cons,-front] __
+*#pˈɨnɡu# | 251 : ə > ∅ / [+syl] __ [anas,acont]
+Common Romanian stage form : *#pˈɨnɡu#
+*#pˈɨnɡw̥# | 300 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#pˈɨnɡ# | 303 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#pˈɨnɡ#
+Final form : *#pˈɨnɡ#

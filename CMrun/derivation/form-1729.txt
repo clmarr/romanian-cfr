@@ -1,20 +1,15 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1729:
-#wˌetrˈɑːnum# >>> *#bətrˈɨn# ( GOLD : #bətrˈɨn#) :
-w ˌe t r ˈɑː n u m 
-*#wetrˈɑːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#wetrˈɑːnu# | 35 : m > ∅ / [-stres] __ #
-*#βetrˈɑːnu# | 81 : w > β / __ ( [-cons] ( @ )* ) #
-*#betrˈɑːnu# | 121 : β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
-*#betrˈɑnu# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#betrˈɑnu#
-*#betɾˈɑnu# | 153 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#betɾˈɑnu#
-*#betɾˈɨnu# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#betɾˈɨnu#
-Common Romanian stage form : *#betɾˈɨnu#
-*#bətɾˈɨnu# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#bətrˈɨnu# | 290 : ɾ > r 
-*#bətrˈɨnw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#bətrˈɨn# | 302 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#bətrˈɨn#
-Final form : *#bətrˈɨn#
+#bˌɑrbˈɑːtum# >>> *#bərbˈɑt# ( GOLD : #bərbˈɑt#) :
+b ˌɑ r b ˈɑː t u m 
+*#bɑrbˈɑːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#bɑrbˈɑːtu# | 35 : m > ∅ / [-stres] __ #
+*#bɑrbˈɑtu# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#bɑrbˈɑtu#
+Proto-Romanian I stage form : *#bɑrbˈɑtu#
+Proto-Romanian II stage form : *#bɑrbˈɑtu#
+*#bərbˈɑtu# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#bərbˈɑtu#
+*#bərbˈɑtw̥# | 300 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#bərbˈɑt# | 303 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#bərbˈɑt#
+Final form : *#bərbˈɑt#

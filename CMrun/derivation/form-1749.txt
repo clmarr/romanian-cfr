@@ -1,23 +1,14 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1749:
-#bˌɑsˈilikɑm# >>> *#bisˈerikə# ( GOLD : #bisˈerikə#) :
-b ˌɑ s ˈi l i k ɑ m 
-*#bɑsˈilikɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#bɑsˈilikɑ# | 35 : m > ∅ / [-stres] __ #
-*#bɑsˈelekɑ# | 113 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#bɑsˈelekɑ#
-*#bɑsˈeɾekɑ# | 157 : l > ɾ / [+syl] __ [+syl]
-Proto-Romanian I stage form : *#bɑsˈeɾekɑ#
-*#bɑsˈɛɾekɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#bɑsˈɛɑɾekɑ# | 206 : ∅ > ɑ / [-tense,-hi] __
-*#bɑsˈeˈɑɾekɑ# | 216 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#bɑse̯ˈɑɾekɑ# | 217 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#bɑse̯ˈɑɾekɑ#
-*#bəse̯ˈɑɾekə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#bəse̯ˈɑɾekə#
-*#bəse̯ˈɑrekə# | 290 : ɾ > r 
-Old Romanian stage form : *#bəse̯ˈɑrekə#
-*#bəsˈerekə# | 331 : e̯ ˈɑ > ˈe / __ ( [-syl] )* [+syl,+front,-hi]
-*#bəsˈerikə# | 345 : e > i / [+prim] ( [-syl] )* __ [+cons,-cor] @
-*#besˈerikə# | 348 : ə > e / [+lab,+cons] __ ( [-syl] )* [+syl,+front,-hi] [-strid]
-*#bisˈerikə# | 350 : e > i / [+cons,+voi,-front,+lab] __ [+cor,-voi] [+syl,-hi]
-Final form : *#bisˈerikə#
+#bˈene# >>> *#bˈine# ( GOLD : #bˈine#) :
+b ˈe n e 
+*#bˈɛne# | 109 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#bˈɛne#
+Proto-Romanian I stage form : *#bˈɛne#
+*#bjˈɛne# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-tense,-hi,+prim]
+*#bjˈene# | 171 : [-cons,-hi,+front] > [+tense,-cons,-lat,+cont,0delrel] 
+Proto-Romanian II stage form : *#bjˈene#
+Common Romanian stage form : *#bjˈene#
+*#bˈene# | 283 : [+front,+hi,+son,-syl] > ∅ / [+lab,+cons] ( [+hi,+front,+syl] ) __ ( [+syl,-lo,efront,!eback] ( [+nas] ( @ )* ) ) #
+*#bˈine# | 289 : [+syl,+front] > [+hi] / __ n [-stres]
+Old Romanian stage form : *#bˈine#
+Final form : *#bˈine#

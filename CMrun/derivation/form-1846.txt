@@ -1,22 +1,15 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1846:
-#fˌiːliˈɑːnum# >>> *#fiˈin# ( GOLD : #fˈin#) :
-f ˌiː l i ˈɑː n u m 
-*#fˌiːljˈɑːnum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#fiːljˈɑːnum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#fiːljˈɑːnu# | 35 : m > ∅ / [-stres] __ #
-*#filjˈɑnu# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#filjˈɑnu#
-Proto-Romanian I stage form : *#filjˈɑnu#
-*#filʲjˈɑnu# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#filʲˈɑnu# | 199 : j > ∅ / [+cons,+front] __
-*#fiʎˈɑnu# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#fiʎˈɨnu# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#fiʎˈɨnu#
-Common Romanian stage form : *#fiʎˈɨnu#
-*#fiʎˈɨnw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#fiʎˈɨn# | 302 : w̥ > ∅ / [-syl] __ #
-*#fijˈɨn# | 305 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#fijˈɨn#
-*#fijˈin# | 326 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
-*#fiˈin# | 343 : j > ∅ / __ [+front,+hi]
-Final form : *#fiˈin#
+#fˈiːlum# >>> *#fˈir# ( GOLD : #fˈir#) :
+f ˈiː l u m 
+*#fˈiːlu# | 35 : m > ∅ / [-stres] __ #
+*#fˈilu# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#fˈilu#
+*#fˈiɾu# | 157 : l > ɾ / [+syl] __ [+syl]
+Proto-Romanian I stage form : *#fˈiɾu#
+Proto-Romanian II stage form : *#fˈiɾu#
+Common Romanian stage form : *#fˈiɾu#
+*#fˈiru# | 291 : ɾ > r 
+*#fˈirw̥# | 300 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#fˈir# | 303 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#fˈir#
+Final form : *#fˈir#

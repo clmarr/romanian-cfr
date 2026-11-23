@@ -1,19 +1,23 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1999:
-#ɑmitˈusiɑm# >>> *#mətˈuʃə# ( GOLD : #mətˈuʃə#) :
-ɑ m i t ˈu s i ɑ m 
-*#ɑmitˈusjɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#mitˈusjɑm# | 31 : [+syl,-prim] > ∅ / # __ [+son] i
-*#mitˈusjɑ# | 35 : m > ∅ / [-stres] __ #
-*#metˈusjɑ# | 113 : [+syl,-long,+hi,-back] > [-hi] 
-Balkan Romance stage form : *#metˈusjɑ#
-Proto-Romanian I stage form : *#metˈusjɑ#
-*#metˈusʲjɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#metˈusʲɑ# | 199 : j > ∅ / [+cons,+front] __
-*#metˈuɕɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Proto-Romanian II stage form : *#metˈuɕɑ#
-*#metˈuɕə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#metˈuʃə# | 264 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#metˈuʃə#
-*#mətˈuʃə# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-Old Romanian stage form : *#mətˈuʃə#
-Final form : *#mətˈuʃə#
+#mˌedullˈɑːrium# >>> *#mədulˈɑr# ( GOLD : #mədulˈɑr#) :
+m ˌe d u l l ˈɑː r i u m 
+*#mˌedullˈɑːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#medullˈɑːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#medullˈɑːrju# | 35 : m > ∅ / [-stres] __ #
+*#medullˈɑrju# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#medullˈɑrju#
+*#medullˈɑɾju# | 153 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#medullˈɑɾju#
+*#medulˈɑɾju# | 196 : {l l;m m} > {l;m} 
+*#medulˈɑɾʲju# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#medulˈɑɾʲu# | 199 : j > ∅ / [+cons,+front] __
+Proto-Romanian II stage form : *#medulˈɑɾʲu#
+Common Romanian stage form : *#medulˈɑɾʲu#
+*#medulˈɑjɾu# | 275 : ɾʲ > j ɾ 
+*#mədulˈɑjɾu# | 284 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#mədulˈɑjru# | 291 : ɾ > r 
+*#mədulˈɑjrw̥# | 300 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#mədulˈɑjr# | 303 : w̥ > ∅ / [-syl] __ #
+*#mədulˈɑr# | 308 : j > ∅ / __ r
+Old Romanian stage form : *#mədulˈɑr#
+Final form : *#mədulˈɑr#
