@@ -1,14 +1,17 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1234:
-... >>> *#sʊbərˈɨsk# ( GOLD : ...) :
+... >>> *#sperˈɨsk# ( GOLD : ...) :
 ... 
 Balkan Romance stage form : ...
 Proto-Romanian I stage form : ...
 Proto-Romanian II stage form : ...
-*#sʊbərˈesku# | 231 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#sʊbərˈəsku# | 238 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
-Common Romanian stage form : *#sʊbərˈəsku#
-*#sʊbərˈɨsku# | 280 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback,-lo]
-*#sʊbərˈɨskw̥# | 294 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#sʊbərˈɨsk# | 297 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#sʊbərˈɨsk#
-Final form : *#sʊbərˈɨsk#
+*#sʊbərˈesku# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#sbərˈesku# | 238 : [+hi,-tense,-stres] > ∅ 
+*#sbərˈəsku# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+Common Romanian stage form : *#sbərˈəsku#
+*#sbərˈɨsku# | 285 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+cons,+cont,-son,αant,βfront] [-cont,!αant,ɣback] [+syl,βfront,ɣback,-lo]
+*#sberˈɨsku# | 292 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,ifront,!iback] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+*#sberˈɨskw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#sberˈɨsk# | 302 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#sberˈɨsk#
+*#sperˈɨsk# | 311 : [-son] > [-voi] / [-voi] __
+Final form : *#sperˈɨsk#

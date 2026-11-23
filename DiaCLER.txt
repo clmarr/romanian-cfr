@@ -1699,42 +1699,33 @@ $ CM 10/1 -- raising of a in feet bearing stress initially and after (non-post-l
 $ CM 11.17.26.d *ẽ in early Slavic loans denasalize before ʒ(V̯)N, and they also lax, early enough to feed ɛ > ja phenomena and nj > ɲ > j : kunẽʒina > chiajnă. 
 [+syl,+nas] > [-nas,-tense] / __ [+front,+strid] ([-stres]) [+nas] 
 
-
-
 $ CM fix 11.22.26.a -- loss of unstressed medial high vowels -- both yer and not yer -- between intervocalic strident and coronal sonorant continuant. Before raising of unstressed e in these positions -- frăsinet, frasin, cuveni, cuviință, asin. Hits cneajnă, Șimișna arguably, nasilovati to năslui, Neajlov, Ramna, bârnă, voscreasnă. Bleeds s > ʃ in năslui.
 [-stres,+hi] > ∅ / [+syl] [+strid] __ [+cor,+son,+cont] [+syl]
 
-$ CM 11.22.26.c  ɪ > e after front consonants
+$ CM 11.22.26.c unstressed  ɪ > e after front consonants
 ɪ > e / [+front,+cons]  ([+cor]) __
-
-$ CM 11.22.26.g yers, stressed or unstressed, to ɨ before l/r C. Bled by 11.22.26.c
-[+hi,-tense] > [+tense,-back,-front,-lab,-round] / __ [+cor,+son]  [-syl] 
 
 $ CM 11.22.26.d ɪ > i posttonic, final or before -sk [likely bc sk was suffixal] 
 ɪ > i / [+prim] ( [-syl] )* __ (s k @) #
 
-$ CM 11.22.26.g final back yer assimilated to u
-$ʊ > u / __ #
-
-$ CM 11.22.26.e deletion of unstressed yers
-[+hi,-tense,-stres] > ∅
 
 $ R27 {ɛ-tensinɡ pre-NC, Diphthonɡization of [ɛ]}
-	$ R27A Tensinɡ of [ɛ] before nasal + oral consonant
-		[-cons] > [+tense] / __ [+nas] [+cons,-nas]
+	$ R27A Tensinɡ of [ɛ] before nasal + oral consonant. 
+		[-cons,-hi] > [+tense] / __ [+nas] [+cons,-nas]
 	
 	$ R27B Diphthonɡization of [ɛ]: [ɛ] > [ye]
 		$ Pardess: ∅ > j / __ [-cons,-tense]
 		$ Pardess' rule does not tense the lax e here althouɡh title suɡɡests it.
 		$ EDIT: [j]-insertion only allowed after consonant cluster if cluster is [mn] (only attested with one word... FLAG -- reexamine later) or [st].
 		$ EDIT: [j]-insertion only occurs before the stressed variant of this vowel, not the unstressed outcomes of R2A.
-			∅ > j / [+syl] __ [-cons,-tense,+prim]
-			∅ > j / # ((@)* [-cons]) [+cons] __ [-cons,-tense,+prim]
-			∅ > j / m n __ [-cons,-tense,+prim]
-			∅ > j / s t __ [-cons,-tense,+prim]
+			∅ > j / [+syl] __ [-tense,-hi,+prim]
+			∅ > j / # ((@)* [-cons]) [+cons] __ [-tense,-hi,+prim]
+			∅ > j / m n __ [-hi,-tense,+prim]
+			∅ > j / s t __ [-hi,-tense,+prim]
 		$ [ɛ] always tenses regardless of [j]-insertion:
-			[-cons,-tense] > [+tense]
-
+			[-cons,-hi,+front] > [+tense]
+			
+			
 
 $ R28 Unstressed [o] > [u]
 	$ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
@@ -1746,7 +1737,8 @@ $ R28 Unstressed [o] > [u]
 		$o > u / __ {r;l l;n n;m m} $ geminate handling
 			$ Now that we have [p]-deletion and know that it has to precede k>p, vocalism in baptidza(re)>boteza and baptidionem>botejune is no longer accurately explained by this conditioning... FLAG -- reexamine later
 		
-		$ CM 9/23 consolidation back to u > o -- preserved old rules above in comments.  
+		
+$ CM 9/23 consolidation back to u > o -- preserved old rules above in comments.  
 			$ instead having general raising rule finally, or if the onset of next syllable (seeing through j -- case of apropia etc) is not labial-final, then sweeping up exceptions 
 			$ non-occurrence before sylls with labial onsets -- examples: sorbi, oină, ospăț, ospăta, a ploua, bo(u)ar, schiopa, coperământ, coperi, descoperi 
 				$ but OCCURENCE before labials if the next syllable is not labial initial: cuprinde, uita, etc. 
@@ -1761,9 +1753,8 @@ $ R28 Unstressed [o] > [u]
 		o > u / __ [+lab,+cont,+cons]
 
 			$ before approximants j and w if not post-labial (prior l and r seen through) 
-		o > u / [-lab,nson,nnas] ([+son,+cor,-nas]) __ [-cons,-syl]
-
-			
+		o > u / [-lab,nson,nnas] ([+son,+cor,-nas]) __ [-cons,-syl]$ CM 9/23 consolidation back to u > o -- preserved old rules above in comments.  
+					
 
 $ R29 {ELLU-related chanɡes (Not reɡular)
 	$ R29A Loss of stress in the postposed forms of 'ellu
@@ -1966,7 +1957,7 @@ $ NEW RULE: Vowel tensing between Cj (NOT Cʲ) and two nonnasal sonorant consona
 
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
-		∅ > ɑ / [-tense] __
+		∅ > ɑ / [-tense,-hi] __
 
 		$ɑ > ˈɑ / [-tense,+stres] __
 		$[-cons,-tense] > [-syl] / __ [+syl] $ Doesn't happen when no a-insertion occurs (hence / __ [+syl]).
@@ -2035,8 +2026,10 @@ $ CM 9/23 w-coloring -- 4+ Latin etyma, 7+ Slavic etyma.
 	$ if not for counterbleeding by R45, would appear to be actually after Common Romanian (?) : cībrum > *čiwru > Romanian ciur vs. Aromanian tsir
 [+syl] > [+round,+lab,-front,+back] / [+front,-syl] __ w @ 
 		$ somewhat different rule for occurrence not before w. Since this also divides Slavic etyma from Latinate etyma, maybe they should be treated separately...
-[+syl] > [+round,+lab,-front,+back] / @ [+front,-voi,-ant] __  ( [-cont,-cor] ) [+lab,+cont,whi,wsyl,!wcons]
+			$ second rule always creates u
+[+syl] > [+round,+lab,-front,+back,+hi,+tense] / @ [+front,-voi,-ant] __  ( [-cont,-cor] ) [+lab,+cont,whi,wsyl,!wcons]
 [+syl] > [+round,+lab,-front,+back] / [+front,-voi,-ant] __ ( [-cont,-cor] ) [+lab,+cont,whi,wsyl,!wcons] @
+
 
 
 $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
@@ -2080,8 +2073,27 @@ $ CM 11.20.26.h -- first progressive devoicing. xvala > xfala > xofala > hofală
 
 ~Proto-Romanian II
 
+$ CM 11.23.26.a final soft yer to e if after stressed low vowel then stop or sonorant continuant [not tapped ɾ]: iesle, poveste, pecete, rogace, lene, jale
+ɪ > e / [+lo,+stres] ( @ ) [+cor,nson,ncont] __ #
+
+$ CM 11.23.26.b ʊnʊ ɪnʊ ɪnɪ > enʊ enʊ enɪ; feeds e > ə post-labial. Not if stressed: opincă . Not in ɪna -- bucoavnă, boznă. Not non-yers: harnic, Slimnic, mraniță. Effected: șumen, prieten, stânjen, sprinten, zdravăn, reavăn, scămen
+[-stres,+hi,-tense] > e / __ n [-tense,+syl] 
+
+$ CM 11.16.26.c -- handling of Slavic x; x > f under influence of following v, before high vowel, if so RV allowed: firov, Ilfov, Ilfoveț...
+x > f / __ ([+hi,+syl] ([+cor,+son] ([+syl]))) v 
+	$ CM 11.16.26..d -- and same context, without need for prior vowel being high, as prior conditioning
+x > f / v ([+syl]) ([+cor,+son]) ([+syl]) __
+
+$ CM 11.23.26.c ʊ > o after labial [can see thru coronals] if followed by labial; can see thru a single posterior consonant: moșnă, vifor, boz, bolovan -- twice, hârtop, hârtoapă.
+[+hi,+round,-tense] > [+tense,-hi] / [+lab] ( [+cor] )* __ ( [-syl] ) [+lab]
+
+$ CM 11.23.26.d ʊ, ɪ > o after initial coronal stridents, before stops..followed by o? sobor, soroc, corogârla, șopot, șopti. Iffy? 
+[+hi,+round,-tense] > [+tense,-hi] / # [+strid] __ [-cont] [+round,-hi,-lo]
+
+
 $ CM 11.20.26.e deletion of v in back obstruent __ hi vowel: smokvina > smochină, skvirna : scârnă
 [+lab,+strid] > ∅ / [-son,+back] __ [+hi]
+
 
 $ PR II consonant cluster simplifications
 	$ s-stop-obstruent *skvara > ... > sfară, *bratri-stv-å > breaslă
@@ -2102,12 +2114,22 @@ $ CM 11.17.26.a nasal unpacking, except (11.17.26.b) at auslaut or before a nasa
 ∅ > n / [+syl,+nas] __ [-nas]
 [+syl] > [-nas]
 
+
 $ R37 {Raisinɡ of non-initial, non-ɡeminate, unstressed [a], Deɡemination of ɡeminate vowels}
 	$ R37A Raisinɡ of non-initial, non-ɡeminate, unstressed [a]
 		$ Pardess: [-cons,+lo,-stres,-long] > ə / [+cons] __
 		$ Looks like he intended to write ə but forɡot.
 		$ EDIT: Occurs after high vowels. 
 			[-cons,+lo,-stres,-long] > ə / {[+cons];[-cons,-front]} __
+
+$ CM 11.22.26.g yers, stressed or unstressed, to ɨ before l/r C. Bled by 11.22.26.c. Counterbled by 11.23.26c.
+[+hi,-tense] > [+tense,-back,-front,-lab,-round] / __ [+cor,+son] (ɪ) [+cons] 
+
+$ other  yers deleted
+[+hi,-tense,-stres] > ∅
+
+$ CM  11.22.26.i remaining back yer to u , front yer to e
+[-tense,+hi,uback,+syl] > [uhi,+tense] 
 
 
 	$ R37B Deɡemination of ɡeminate vowels
@@ -2246,7 +2268,7 @@ x > [-delrel,afront] / [+strid,+cor,+cont] ([+syl,-lo]) __ [afront]
 	$ CM 11.19.26.c -- palatals alveolarized after a labial obstruent, if there is nothing but labials beforehand, with an optional initial ʃ-. 
 			$ this is VERY idiosyncratic but note there is a CURIOUSLY similar conditioning is recurrent in Albanian: see rules A2.CIL, A2.CXVI, A2.III, A1.VII, arguably A2.CXXI, 
 			$ fed by CM 9/23 w-coloring
-[+cons,+hi,+front] > [+cor,+ant,-distr,-hi,-front,-back] / # (ʃ) ([+lab]) [+lab,-son] __ 
+[+cons,+hi,+front] > [+cor,+ant,-distr,-hi,-front,-back] / # ([+front,+strid]) ([+lab]) [+lab,-son] __ 
 
 	$CM 9/18/26 -- consolidated R45 to single rule, without dependence on +delrel but rather palatality it refers to. 
 		$ move to before second palatalization resolution, which counterbleeds this. 
@@ -2295,11 +2317,6 @@ $ (11TH CENTURY TO THE PRESENT)
 
 	$ OCT 2026 : forward spreading of [n] continues to before t, not in Aromanian, and not feeding u > ɨ
 		∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-
-$ CM 11.16.26.c -- handling of Slavic x; x > f under influence of following v, before high vowel, if so RV allowed: firov, Ilfov, Ilfoveț...
-x > f / __ ([+hi,+syl] ([+cor,+son] ([+syl]))) v 
-	$ CM 11.16.26..d -- and same context, without need for prior vowel being high, as prior conditioning
-x > f / v ([+syl]) ([+cor,+son]) ([+syl]) __
 
 
 
@@ -2566,8 +2583,8 @@ $ CM 11.20.26.c deletion of s/ʃ before in initial sf-, ʃf-, when next obstruen
 $ CM insertion 11.17.26.d #sr- to #str- 
 ∅ > t / # s __ [+cor,+son,-nas,-lat] 
 
-$ CM insertion 11.16.26.m final yers deleted. They might not really have existed to begin with.
-[-tense,-stres,+hi] > ∅ / __ #
+$ CM insertion 11.16.26.m unstressed final ɨ deleted. Final yers don't exist at this stage. Final u treated as normal
+ɨ > ∅ / __ #
 
 $ CM insertion 11.16.26.h PSlav *x > k after non-low back vocoids
 x > k / [+back,-lo,-cons] __ 
