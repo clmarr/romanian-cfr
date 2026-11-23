@@ -1,19 +1,16 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1504:
-#pˌɑːnˈiːkum# >>> *#pərˈink# ( GOLD : #pərˈink#) :
-p ˌɑː n ˈiː k u m 
-*#pɑːnˈiːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#pɑːnˈiːku# | 35 : m > ∅ / [-stres] __ #
-*#pɑnˈiku# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#pɑnˈiku#
-Proto-Romanian I stage form : *#pɑnˈiku#
-*#pənˈiku# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#pənˈiku#
-*#pənˈinku# | 255 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
-Common Romanian stage form : *#pənˈinku#
-*#pɨnˈinku# | 293 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#pənˈinku# | 295 : [+syl,+hi,+tense,-back,-front] > [-hi,0tense] / p __ n [+syl,alo,!ahi]
-*#pənˈinkw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#pənˈink# | 302 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#pənˈink#
-*#pərˈink# | 364 : n > r / ə __ [+syl,+hi] [+nas]
-Final form : *#pərˈink#
+#pɑrˈentem# >>> *#pərˈinte# ( GOLD : #pərˈinte#) :
+p ɑ r ˈe n t e m 
+*#pɑrˈente# | 35 : m > ∅ / [-stres] __ #
+*#pɑrˈɛnte# | 109 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+Balkan Romance stage form : *#pɑrˈɛnte#
+*#pɑɾˈɛnte# | 153 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#pɑɾˈɛnte#
+*#pɑɾˈente# | 166 : [-cons,-hi] > [+tense,-cons,-lat,+cont,0delrel] / __ [+nas] [+cons,-nas]
+Proto-Romanian II stage form : *#pɑɾˈente#
+*#pəɾˈente# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#pəɾˈinte# | 258 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#pəɾˈinte#
+*#pərˈinte# | 290 : ɾ > r 
+Old Romanian stage form : *#pərˈinte#
+Final form : *#pərˈinte#

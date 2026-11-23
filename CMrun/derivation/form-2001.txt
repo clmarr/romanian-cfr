@@ -1,23 +1,15 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 2001:
-#mˌedullˈɑːrium# >>> *#mədulˈɑr# ( GOLD : #mədulˈɑr#) :
-m ˌe d u l l ˈɑː r i u m 
-*#mˌedullˈɑːrjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#medullˈɑːrjum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#medullˈɑːrju# | 35 : m > ∅ / [-stres] __ #
-*#medullˈɑrju# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#medullˈɑrju#
-*#medullˈɑɾju# | 153 : r > ɾ / __ [nnas,ncons]
-Proto-Romanian I stage form : *#medullˈɑɾju#
-*#medulˈɑɾju# | 196 : {l l;m m} > {l;m} 
-*#medulˈɑɾʲju# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#medulˈɑɾʲu# | 199 : j > ∅ / [+cons,+front] __
-Proto-Romanian II stage form : *#medulˈɑɾʲu#
-Common Romanian stage form : *#medulˈɑɾʲu#
-*#medulˈɑjɾu# | 274 : ɾʲ > j ɾ 
-*#mədulˈɑjɾu# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#mədulˈɑjru# | 290 : ɾ > r 
-*#mədulˈɑjrw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#mədulˈɑjr# | 302 : w̥ > ∅ / [-syl] __ #
-*#mədulˈɑr# | 307 : j > ∅ / __ r
-Old Romanian stage form : *#mədulˈɑr#
-Final form : *#mədulˈɑr#
+#mˌedˈullɑm# >>> *#mədˈuvə# ( GOLD : #mədˈuvə#) :
+m ˌe d ˈu l l ɑ m 
+*#medˈullɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#medˈullɑ# | 35 : m > ∅ / [-stres] __ #
+Balkan Romance stage form : *#medˈullɑ#
+Proto-Romanian I stage form : *#medˈullɑ#
+*#medˈuwɑ# | 192 : l l > w / # ( @ )* [-lab] ( @ )* __ [+lo] #
+*#medˈuvɑ# | 207 : [-cons,-syl,+back,+hi] > v / [+syl,+hi,+round] __
+Proto-Romanian II stage form : *#medˈuvɑ#
+*#medˈuvə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#medˈuvə#
+*#mədˈuvə# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+Old Romanian stage form : *#mədˈuvə#
+Final form : *#mədˈuvə#

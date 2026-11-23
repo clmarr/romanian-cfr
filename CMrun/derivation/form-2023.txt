@@ -1,17 +1,19 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 2023:
-#mˌɑnuːkˈɑː# >>> *#mənunkˈɑ# ( GOLD : #mɨnkˈɑ#) :
-m ˌɑ n uː k ˈɑː 
-*#mɑnuːkˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#mɑnukˈɑ# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#mɑnukˈɑ#
-Proto-Romanian I stage form : *#mɑnukˈɑ#
-*#mənukˈɑ# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#mənukˈɑ#
-*#mənunkˈɑ# | 255 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
-*#mɨnunkˈɑ# | 259 : ə > ɨ / # ( [-syl] )* [+cons,-cor] __ n ( @ )* ˈɑ
-Common Romanian stage form : *#mɨnunkˈɑ#
-*#mənunkˈɑ# | 296 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
-Old Romanian stage form : *#mənunkˈɑ#
-*#mərunkˈɑ# | 364 : n > r / ə __ [+syl,+hi] [+nas]
-*#mənunkˈɑ# | 365 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
-Final form : *#mənunkˈɑ#
+#mˌɑnɡɑneˈɑː# >>> *#mɨnɡɨjˈɑ# ( GOLD : #mɨnɡɨjˈɑ#) :
+m ˌɑ n ɡ ɑ n e ˈɑː 
+*#mˌɑnɡɑnjˈɑː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mɑnɡɑnjˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#mɑnɡɑnjˈɑ# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#mɑnɡɑnjˈɑ#
+Proto-Romanian I stage form : *#mɑnɡɑnjˈɑ#
+*#mɑnɡɑnʲjˈɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#mɑnɡɑnʲˈɑ# | 199 : j > ∅ / [+cons,+front] __
+*#mɑnɡɑɲˈɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#mənɡəɲˈɑ# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#mənɡəɲˈɑ#
+*#mɨnɡəɲˈɑ# | 258 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
+Common Romanian stage form : *#mɨnɡəɲˈɑ#
+*#mɨnɡɨɲˈɑ# | 293 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#mɨnɡɨjˈɑ# | 305 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#mɨnɡɨjˈɑ#
+Final form : *#mɨnɡɨjˈɑ#

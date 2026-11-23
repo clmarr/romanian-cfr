@@ -1,20 +1,18 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 386:
-#kˌɑlˈoːrem# >>> *#kəro̯ˈɑre# ( GOLD : #kəro̯ˈɑre#) :
-k ˌɑ l ˈoː r e m 
-*#kɑlˈoːrem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kɑlˈoːre# | 35 : m > ∅ / [-stres] __ #
-*#kɑlˈore# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kɑlˈore#
-*#kɑlˈoɾe# | 153 : r > ɾ / __ [nnas,ncons]
-*#kɑɾˈoɾe# | 157 : l > ɾ / [+syl] __ [+syl]
-Proto-Romanian I stage form : *#kɑɾˈoɾe#
-*#kɑɾˈɔɾe# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kɑɾˈɔɑɾe# | 206 : ∅ > ɑ / [-tense,-hi] __
-*#kɑɾˈoˈɑɾe# | 216 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kɑɾo̯ˈɑɾe# | 217 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#kɑɾo̯ˈɑɾe#
-*#kəɾo̯ˈɑɾe# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#kəɾo̯ˈɑɾe#
-*#kəro̯ˈɑre# | 290 : ɾ > r 
-Old Romanian stage form : *#kəro̯ˈɑre#
-Final form : *#kəro̯ˈɑre#
+#kɑːnˈuːtum# >>> *#kərˈunt# ( GOLD : #kərˈunt#) :
+k ɑː n ˈuː t u m 
+*#kɑːnˈuːtu# | 35 : m > ∅ / [-stres] __ #
+*#kɑnˈutu# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kɑnˈutu#
+Proto-Romanian I stage form : *#kɑnˈutu#
+*#kənˈutu# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#kənˈutu#
+Common Romanian stage form : *#kənˈutu#
+*#kənˈuntu# | 269 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#kɨnˈuntu# | 293 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#kənˈuntu# | 296 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+*#kənˈuntw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#kənˈunt# | 302 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#kənˈunt#
+*#kərˈunt# | 364 : n > r / ə __ [+syl,+hi] [+nas]
+Final form : *#kərˈunt#

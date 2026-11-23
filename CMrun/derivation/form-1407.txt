@@ -1,18 +1,19 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1407:
-#rˌeːnˈunkulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
-r ˌeː n ˈu n k u l u m 
-*#reːnˈunkulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#reːnˈunkulu# | 35 : m > ∅ / [-stres] __ #
-*#reːnˈunklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
-*#renˈunklu# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#renˈunklu#
-*#ɾenˈunklu# | 153 : r > ɾ / __ [nnas,ncons]
-*#rɾenˈunklu# | 154 : ∅ > r / # __ ɾ
-Proto-Romanian I stage form : *#rɾenˈunklu#
-*#rɾenˈunkʎu# | 222 : l > ʎ / [-cont,-ant,-cor] __
-Proto-Romanian II stage form : *#rɾenˈunkʎu#
-*#renˈunkʎu# | 244 : {ɾ;r} > {∅;∅} / r __
-*#rənˈunkʎu# | 245 : {e;ˈe;i;ˈi} > {ə;ˈə;ɨ;ˈɨ} / r __
+#rˌɑːnˈukulum# >>> *#rərˈunkj# ( GOLD : #rərˈunkj#) :
+r ˌɑː n ˈu k u l u m 
+*#rɑːnˈukulum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#rɑːnˈukulu# | 35 : m > ∅ / [-stres] __ #
+*#rɑːnˈuklu# | 52 : [+syl,+hi,-long,-stres] > ∅ / [+syl] [+son] ( [+son] )* [+syl] ( [+cons,+cont,-lat] ) [+back,-cont] __ l [+syl,-front]
+*#rɑnˈuklu# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#rɑnˈuklu#
+*#ɾɑnˈuklu# | 153 : r > ɾ / __ [nnas,ncons]
+*#rɾɑnˈuklu# | 154 : ∅ > r / # __ ɾ
+Proto-Romanian I stage form : *#rɾɑnˈuklu#
+*#rɾənˈuklu# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+*#rɾənˈukʎu# | 222 : l > ʎ / [-cont,-ant,-cor] __
+Proto-Romanian II stage form : *#rɾənˈukʎu#
+*#rənˈukʎu# | 244 : {ɾ;r} > {∅;∅} / r __
+*#rənˈunkʎu# | 255 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-ant]
 Common Romanian stage form : *#rənˈunkʎu#
 *#rɨnˈunkʎu# | 293 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
 *#rənˈunkʎu# | 296 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @

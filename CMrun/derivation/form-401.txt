@@ -1,24 +1,14 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 401:
-#kˌɑntikˈellum# >>> *#kɨntet͡ʃˈel# ( GOLD : #kɨntet͡ʃˈel#) :
-k ˌɑ n t i k ˈe l l u m 
-*#kɑntikˈellum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kɑntikˈellu# | 35 : m > ∅ / [-stres] __ #
-*#kɑntikˈɛllu# | 109 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
-*#kɑntekˈɛllu# | 113 : [+syl,-long,+hi,-back] > [-hi] 
-*#kɑntekʲˈɛllu# | 143 : [-cont,+back] > [+front] / __ [-cons,+front]
-Balkan Romance stage form : *#kɑntekʲˈɛllu#
-Proto-Romanian I stage form : *#kɑntekʲˈɛllu#
-*#kɑntekʲjˈɛllu# | 168 : ∅ > j / # ( ( @ )* [-cons] ) [+cons] __ [-tense,-hi,+prim]
-*#kɑntekʲjˈellu# | 171 : [-cons,-hi,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-*#kɑntekʲjˈelu# | 196 : {l l;m m} > {l;m} 
-*#kɑntekʲˈelu# | 199 : j > ∅ / [+cons,+front] __
-*#kəntekʲˈelu# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#kəntekʲˈelu#
-*#kɨntekʲˈelu# | 258 : [+syl,-round,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / __ n [+cons]
-*#kɨntec͡ɕˈelu# | 263 : [-cont,-son,+front] > [+delrel,+strid,-back,-cont,+cons,0tense] 
-*#kɨntet͡ʃˈelu# | 264 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#kɨntet͡ʃˈelu#
-*#kɨntet͡ʃˈelw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#kɨntet͡ʃˈel# | 302 : w̥ > ∅ / [-syl] __ #
-Old Romanian stage form : *#kɨntet͡ʃˈel#
-Final form : *#kɨntet͡ʃˈel#
+... >>> *#kɨrt͡ʃˈumə# ( GOLD : #kɨrt͡ʃˈumə#) :
+... 
+Balkan Romance stage form : ...
+Proto-Romanian I stage form : ...
+*#kʊrt͡ʃjˈɪmɑ# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#kʊrt͡ʃˈɪmɑ# | 199 : j > ∅ / [+cons,+front] __
+*#kʊrt͡ʃˈumɑ# | 214 : [+syl] > [+round,+lab,-front,+back,+hi,+tense,-cons,-lat,+cont,0delrel] / @ [+front,-voi,-ant] __ ( [-cont,-cor] ) [+lab,+cont,whi,wsyl,!wcons]
+Proto-Romanian II stage form : *#kʊrt͡ʃˈumɑ#
+*#kʊrt͡ʃˈumə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#kɨrt͡ʃˈumə# | 237 : [+hi,-tense] > [+tense,-back,-front,-lab,-round,-cons,-lat,+cont,0delrel] / __ [+cor,+son] ( ɪ ) [+cons]
+Common Romanian stage form : *#kɨrt͡ʃˈumə#
+Old Romanian stage form : *#kɨrt͡ʃˈumə#
+Final form : *#kɨrt͡ʃˈumə#

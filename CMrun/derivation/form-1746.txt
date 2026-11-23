@@ -1,11 +1,16 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1746:
-... >>> *#bezde̯ˈɑd# ( GOLD : #bezde̯ˈɑd#) :
-... 
-Balkan Romance stage form : ...
-Proto-Romanian I stage form : ...
-Proto-Romanian II stage form : ...
-*#bezdˈæd# | 238 : [+hi,-tense,-stres] > ∅ 
-*#bezde̯ˈɑd# | 240 : ∅ [+lo,+front] > e̯ [+tense,-front,+back,-cons,-lat,+cont,0delrel]
-Common Romanian stage form : *#bezde̯ˈɑd#
-Old Romanian stage form : *#bezde̯ˈɑd#
-Final form : *#bezde̯ˈɑd#
+#bˌerbˈeːkum# >>> *#berbˈek# ( GOLD : #berbˈek#) :
+b ˌe r b ˈeː k u m 
+*#berbˈeːkum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#berbˈeːku# | 35 : m > ∅ / [-stres] __ #
+*#berbˈeku# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#berbˈeku#
+Proto-Romanian I stage form : *#berbˈeku#
+Proto-Romanian II stage form : *#berbˈeku#
+Common Romanian stage form : *#berbˈeku#
+*#berbˈəku# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#berbˈeku# | 292 : [+syl,-front,-back,-hi] > [+front,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+syl,uround,uhi,ifront,!iback] ) [+cor] [+lab,-strid,+cons] __ [nson,ncont,nvoi,-lat] [+syl]
+*#berbˈekw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#berbˈek# | 302 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#berbˈek#
+Final form : *#berbˈek#

@@ -1,15 +1,25 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1299:
-#nˌoːn# >>> *#nu# ( GOLD : #nu#) :
-n ˌoː n 
-*#noːn# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#noː# | 74 : [+nas] > ∅ / @ [-cons] __ #
-*#no# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#no#
-Proto-Romanian I stage form : *#no#
-*#nu# | 172 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#nu#
-Common Romanian stage form : *#nu#
-*#nw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
-*#nu# | 301 : {w̥;j̊} > {u;i} / # ( [-prim] ) ( [-syl] ) __ #
-Old Romanian stage form : *#nu#
-Final form : *#nu#
+#nowˈellɑm# >>> *#nujˈɑ# ( GOLD : #nujˈɑ#) :
+n o w ˈe l l ɑ m 
+*#nowˈellɑ# | 35 : m > ∅ / [-stres] __ #
+*#noβˈellɑ# | 81 : w > β / __ ( [-cons] ( @ )* ) #
+*#noβˈɛllɑ# | 109 : [-cons,-long,-hi,+front,+stres] > [-tense,-cons,-lat,+cont,0delrel] 
+*#noˈɛllɑ# | 135 : β > ∅ 
+Balkan Romance stage form : *#noˈɛllɑ#
+Proto-Romanian I stage form : *#noˈɛllɑ#
+*#nojˈɛllɑ# | 167 : ∅ > j / [+syl] __ [-tense,-hi,+prim]
+*#nojˈellɑ# | 171 : [-cons,-hi,+front] > [+tense,-cons,-lat,+cont,0delrel] 
+*#nujˈellɑ# | 174 : o > u / [-lab,nson,nnas] ( [+son,+cor,-nas] ) __ [-cons,-syl]
+*#nujˈɛllɑ# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
+*#nujˈɛwɑ# | 192 : l l > w / # ( @ )* [-lab] ( @ )* __ [+lo] #
+*#nujˈɛɑwɑ# | 206 : ∅ > ɑ / [-tense,-hi] __
+*#nujˈeˈɑwɑ# | 216 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
+*#nuje̯ˈɑwɑ# | 217 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
+Proto-Romanian II stage form : *#nuje̯ˈɑwɑ#
+*#nuje̯ˈɑwə# | 236 : [-cons,+lo,-stres,-long] > ə / [-cons,-front] __
+Common Romanian stage form : *#nuje̯ˈɑwə#
+*#nuje̯ˈɑw# | 276 : ə > ∅ / [-cons,-syl] ˈɑ [-cons,-syl] __
+*#nuje̯ˈɑ# | 277 : [-cons,-syl] > ∅ / [-cons,-syl] ˈɑ __ ( [-son] ( @ )* ) #
+Old Romanian stage form : *#nuje̯ˈɑ#
+*#nujˈɑ# | 335 : e̯ > ∅ / # ( ( @ )* u ) j __ [+syl,+lo]
+Final form : *#nujˈɑ#

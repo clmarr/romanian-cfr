@@ -1,21 +1,25 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1346:
-#lˌae̯sionˈɑː# >>> *#leʃinˈɑ# ( GOLD : #leʃinˈɑ#) :
-l ˌa e̯ s i o n ˈɑː 
-*#lˌae̯sjonˈɑː# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#lˌajsjonˈɑː# | 11 : e̯ > j 
-*#lajsjonˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#lɛːsjonˈɑː# | 33 : [+syl,+lo] j > [-lo,-tense,+long,+front,-back,-cons,-lat,+cont,0delrel] ∅/ __ ( [-syl] ( @ )* ) #
-*#lɛsjonˈɑ# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#lɛsjonˈɑ#
-Proto-Romanian I stage form : *#lɛsjonˈɑ#
-*#lesjonˈɑ# | 171 : [-cons,-hi,+front] > [+tense,-cons,-lat,+cont,0delrel] 
-*#lesjunˈɑ# | 172 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#lesʲjunˈɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#lesʲunˈɑ# | 199 : j > ∅ / [+cons,+front] __
-*#leɕunˈɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#leɕinˈɑ# | 211 : [+syl,+hi,+back] > [-back,+front,-lab,-round] / [+cor] [+syl] [+front,+hi,-back] __ @
-Proto-Romanian II stage form : *#leɕinˈɑ#
-*#leʃinˈɑ# | 264 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#leʃinˈɑ#
-Old Romanian stage form : *#leʃinˈɑ#
-Final form : *#leʃinˈɑ#
+#liksˈiːwiɑm# >>> *#leʃˈie# ( GOLD : #leʃˈie#) :
+l i k s ˈiː w i ɑ m 
+*#liksˈiːwjɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#liksˈiːwjɑ# | 35 : m > ∅ / [-stres] __ #
+*#liksˈiːβjɑ# | 81 : w > β / __ ( [-cons] ( @ )* ) #
+*#lissˈiːβjɑ# | 97 : k > s / __ s
+*#lessˈiːβjɑ# | 113 : [+syl,-long,+hi,-back] > [-hi] 
+*#lessˈiːwjɑ# | 132 : β > w / [-cons] __ [+son,-syl]
+*#lesˈiːwjɑ# | 136 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
+*#lesˈiwjɑ# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#lesˈiwjɑ#
+Proto-Romanian I stage form : *#lesˈiwjɑ#
+*#lesjˈiwjɑ# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#lesʲjˈiwjɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#lesʲˈiwjɑ# | 199 : j > ∅ / [+cons,+front] __
+*#leɕˈiwjɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#leɕˈijɑ# | 212 : w > ∅ / [+son,-syl] [+syl] ( @ )* __ j
+Proto-Romanian II stage form : *#leɕˈijɑ#
+*#leʃˈijɑ# | 264 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#leʃˈijɑ#
+Old Romanian stage form : *#leʃˈijɑ#
+*#leʃˈije# | 342 : [-round,-front,-prim] > e / [+front,+hi] __ #
+*#leʃˈie# | 371 : j > ∅ / [+hi,+front] __ e
+Final form : *#leʃˈie#

@@ -1,14 +1,22 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 388:
-#kˌɑrbˈoːnem# >>> *#kərbˈune# ( GOLD : #kərbˈune#) :
-k ˌɑ r b ˈoː n e m 
-*#kɑrbˈoːnem# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#kɑrbˈoːne# | 35 : m > ∅ / [-stres] __ #
-*#kɑrbˈone# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#kɑrbˈone#
-Proto-Romanian I stage form : *#kɑrbˈone#
-*#kɑrbˈune# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
-Proto-Romanian II stage form : *#kɑrbˈune#
-*#kərbˈune# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#kərbˈune#
-Old Romanian stage form : *#kərbˈune#
-Final form : *#kərbˈune#
+#kɑpitˈɑːneum# >>> *#kəpətˈɨj# ( GOLD : #kəpətˈɨj#) :
+k ɑ p i t ˈɑː n e u m 
+*#kɑpitˈɑːnjum# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kɑpitˈɑːnju# | 35 : m > ∅ / [-stres] __ #
+*#kɑpetˈɑːnju# | 113 : [+syl,-long,+hi,-back] > [-hi] 
+*#kɑpetˈɑnju# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#kɑpetˈɑnju#
+Proto-Romanian I stage form : *#kɑpetˈɑnju#
+*#kɑpetˈɑnʲju# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#kɑpetˈɑnʲu# | 199 : j > ∅ / [+cons,+front] __
+*#kɑpetˈɑɲu# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#kɑpetˈɨɲu# | 209 : {ɑ;ˈɑ;ɑ̃;ˈɑ̃;o;ˈo;õ;ˈõ} > {ə;ˈɨ;ə̃;ˈɨ̃;u;ˈu;ũ;ˈũ} / __ [+nas,-lab] ( [-syl,-nas] )* ( [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#kɑpetˈɨɲu#
+*#kəpetˈɨɲu# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+Common Romanian stage form : *#kəpetˈɨɲu#
+*#kəpətˈɨɲu# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#kəpətˈɨɲw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#kəpətˈɨɲ# | 302 : w̥ > ∅ / [-syl] __ #
+*#kəpətˈɨj# | 305 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#kəpətˈɨj#
+Final form : *#kəpətˈɨj#

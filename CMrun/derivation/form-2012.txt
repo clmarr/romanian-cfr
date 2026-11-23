@@ -1,25 +1,20 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 2012:
-#mˌinuːtˈɑliɑm# >>> *#məruntˈɑje# ( GOLD : #məruntˈɑje#) :
-m ˌi n uː t ˈɑ l i ɑ m 
-*#mˌinuːtˈɑljɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#minuːtˈɑljɑm# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#minuːtˈɑljɑ# | 35 : m > ∅ / [-stres] __ #
-*#menuːtˈɑljɑ# | 113 : [+syl,-long,+hi,-back] > [-hi] 
-*#menutˈɑljɑ# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#menutˈɑljɑ#
-Proto-Romanian I stage form : *#menutˈɑljɑ#
-*#menutˈɑlʲjɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
-*#menutˈɑlʲɑ# | 199 : j > ∅ / [+cons,+front] __
-*#menutˈɑʎɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-Proto-Romanian II stage form : *#menutˈɑʎɑ#
-*#menutˈɑʎə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-Common Romanian stage form : *#menutˈɑʎə#
-*#menuntˈɑʎə# | 269 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
-*#menuntˈɑʎe# | 272 : ə > e / [+cons,+front,+son] __
-*#mənuntˈɑʎe# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
-*#mɨnuntˈɑʎe# | 293 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
-*#mənuntˈɑʎe# | 296 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
-*#mənuntˈɑje# | 305 : [+son,+cons,+front,-cor] > j 
-Old Romanian stage form : *#mənuntˈɑje#
-*#məruntˈɑje# | 364 : n > r / ə __ [+syl,+hi] [+nas]
-Final form : *#məruntˈɑje#
+#mˌinˈuːtum# >>> *#mərˈunt# ( GOLD : #mərˈunt#) :
+m ˌi n ˈuː t u m 
+*#minˈuːtum# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#minˈuːtu# | 35 : m > ∅ / [-stres] __ #
+*#menˈuːtu# | 113 : [+syl,-long,+hi,-back] > [-hi] 
+*#menˈutu# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#menˈutu#
+Proto-Romanian I stage form : *#menˈutu#
+Proto-Romanian II stage form : *#menˈutu#
+Common Romanian stage form : *#menˈutu#
+*#menˈuntu# | 269 : ∅ > n / [+syl] n [+syl,+hi] __ [-cont,-son,-lab]
+*#mənˈuntu# | 283 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+*#mɨnˈuntu# | 293 : [+syl,-back,-front,-hi,-lo] > [+hi,+tense,-cons,-lat,+cont,0delrel] / # ( ( @ )* [+cons] ) __ [+nas,-lab]
+*#mənˈuntu# | 296 : ɨ > ə / # [+cons,-strid,mson,mvoi] __ n [+syl,-front] @
+*#mənˈuntw̥# | 299 : [+syl,+hi,-stres] > [-voi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ #
+*#mənˈunt# | 302 : w̥ > ∅ / [-syl] __ #
+Old Romanian stage form : *#mənˈunt#
+*#mərˈunt# | 364 : n > r / ə __ [+syl,+hi] [+nas]
+Final form : *#mərˈunt#

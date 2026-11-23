@@ -1,18 +1,17 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 494:
-#kˌonˈoːske# >>> *#kuno̯ˈɑʃte# ( GOLD : #kuno̯ˈɑʃte#) :
-k ˌo n ˈoː s k e 
-*#konˈoːske# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
-*#konˈoːskʲe# | 143 : [-cont,+back] > [+front] / __ [-cons,+front]
-*#konˈoskʲe# | 146 : [+syl] > [-long,-splng] 
-Balkan Romance stage form : *#konˈoskʲe#
-Proto-Romanian I stage form : *#konˈoskʲe#
-*#kunˈoskʲe# | 172 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
-*#kunˈɔskʲe# | 187 : [-hi,-lo,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ ( [-nas,-syl] ( [-syl] )* ) [+syl,-hi,-round]
-*#kunˈɔɑskʲe# | 206 : ∅ > ɑ / [-tense,-hi] __
-*#kunˈoˈɑskʲe# | 216 : [-hi,-lo,+prim] ɑ > [+tense,-cons,-lat,+cont,0delrel] [+prim,+stres,+syl,+son]
-*#kuno̯ˈɑskʲe# | 217 : [-hi,-lo,+syl] > [-syl,0stres,0prim] / __ [+lo]
-Proto-Romanian II stage form : *#kuno̯ˈɑskʲe#
-*#kuno̯ˈɑʃte# | 262 : [+cont,+strid,+cor] [lcont,llat,+front] > [-ant,+distr,+front,+cor] [+ant,+cor,-back,-hi,-front,-strid,-distr,-delrel,-cont,+cons,0tense]
-Common Romanian stage form : *#kuno̯ˈɑʃte#
-Old Romanian stage form : *#kuno̯ˈɑʃte#
-Final form : *#kuno̯ˈɑʃte#
+#kˌoroːnˈɑː# >>> *#kununˈɑ# ( GOLD : #kununˈɑ#) :
+k ˌo r oː n ˈɑː 
+*#koroːnˈɑː# | 15 : [+stres,-prim] > [-stres,-prim,+syl,+son] 
+*#koronˈɑ# | 146 : [+syl] > [-long,-splng] 
+Balkan Romance stage form : *#koronˈɑ#
+*#koɾonˈɑ# | 153 : r > ɾ / __ [nnas,ncons]
+Proto-Romanian I stage form : *#koɾonˈɑ#
+*#kuɾunˈɑ# | 172 : o > u / __ ( ( [-syl] )* [-lab,+cons] ( j ) [+syl] ( @ )* ) #
+Proto-Romanian II stage form : *#kuɾunˈɑ#
+*#koɾunˈɑ# | 266 : u > o / [+cons,-cor] __ ɾ ( [-prim] ) [+nas] [+prim]
+Common Romanian stage form : *#koɾunˈɑ#
+*#korunˈɑ# | 290 : ɾ > r 
+Old Romanian stage form : *#korunˈɑ#
+*#konunˈɑ# | 365 : r > n / [αant,αcont] [+syl,-lo] __ [+syl] n ( [-ant] ( @ )* ) #
+*#kununˈɑ# | 369 : o > u / # ( ( [-prim] ) [+nas] ) ( [-cont,-cor] ) __ [nnas,nvoi,+ant] ( [nnas,nvoi,+cor] )* ( ( [-prim] ) [+son,+cor] ) ( [-syl,-hi,-cons] ) [+prim]
+Final form : *#kununˈɑ#
