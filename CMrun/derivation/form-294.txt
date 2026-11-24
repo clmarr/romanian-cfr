@@ -1,17 +1,22 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 294:
-... >>> *#jeleʃe̯ˈaʲvə# ( GOLD : #iliʃˈuɑ#) :
+... >>> *#jejʃe̯ˈaʲvə# ( GOLD : #iliʃˈuɑ#) :
 ... 
 Balkan Romance stage form : ...
 Proto-Romanian I stage form : ...
-*#jeleʃˈɑvɑ# | 194 : i > e / [+cons] __ [+cons,+front]
-*#jeleɕˈɑvɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
-*#jeleɕˈʉˤvɑ# | 214 : [+syl] > [+round,+lab,-front,+back,+hi,+tense,-cons,-lat,+cont,0delrel] / @ [+front,-voi,-ant] __ ( [-cont,-cor] ) [+lab,+cont,whi,wsyl,!wcons]
-Proto-Romanian II stage form : *#jeleɕˈʉˤvɑ#
-*#jeleɕˈʉˤvə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
-*#jeleʃˈʉˤvə# | 267 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
-Common Romanian stage form : *#jeleʃˈʉˤvə#
-Old Romanian stage form : *#jeleʃˈʉˤvə#
-*#jeleʃjˈʉˤvə# | 328 : ∅ > j / @ [+cont,+front,-son] __ [+lo]
-*#jeleʃe̯ˈʉˤvə# | 329 : j > e̯ / [+cons,-lab] __ [+lo]
-*#jeleʃe̯ˈaʲvə# | 330 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
-Final form : *#jeleʃe̯ˈaʲvə#
+*#jeljiʃˈɑvɑ# | 195 : ∅ > j / [ʎlat,ʎson,-lab] __ [+syl,+front,+hi]
+*#jelʲjiʃˈɑvɑ# | 197 : [+cor,+ant] > [+front,+hi] / # ( ( @ )* [-lat] ) __ j
+*#jelʲiʃˈɑvɑ# | 199 : j > ∅ / [+cons,+front] __
+*#jeʎiɕˈɑvɑ# | 204 : [+front,+cons,+cont] > [-cor,-ant,+hi,0distr] 
+*#jeʎiɕˈʉˤvɑ# | 214 : [+syl] > [+round,+lab,-front,+back,+hi,+tense,-cons,-lat,+cont,0delrel] / @ [+front,-voi,-ant] __ ( [-cont,-cor] ) [+lab,+cont,whi,wsyl,!wcons]
+Proto-Romanian II stage form : *#jeʎiɕˈʉˤvɑ#
+*#jeʎiɕˈʉˤvə# | 235 : [-cons,+lo,-stres,-long] > ə / [+cons] __
+*#jeʎiʃˈʉˤvə# | 267 : [-son,+front,ðant] > [+cor,-hi,!ðfront,!ðdistr] 
+Common Romanian stage form : *#jeʎiʃˈʉˤvə#
+*#jejiʃˈʉˤvə# | 313 : [+son,+cons,+front,-cor] > j 
+Old Romanian stage form : *#jejiʃˈʉˤvə#
+*#jejiʃjˈʉˤvə# | 331 : ∅ > j / @ [+cont,+front,-son] __ [+lo]
+*#jejiʃe̯ˈʉˤvə# | 332 : j > e̯ / [+cons,-lab] __ [+lo]
+*#jejiʃe̯ˈaʲvə# | 333 : [+syl,+hi] > [+front,-back,-round,-lab] / [+son,+front,-syl] __
+*#jeiʃe̯ˈaʲvə# | 353 : j > ∅ / __ [+front,+hi]
+*#jejʃe̯ˈaʲvə# | 363 : i > j / [+syl] __
+Final form : *#jejʃe̯ˈaʲvə#

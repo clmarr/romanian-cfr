@@ -1860,9 +1860,10 @@ $ R35 {[ll] > [w] before unstressed [a], Deɡemination of [ll]}
 n > l / l __
 
 	$ CM 9/18/26 -- moved R39 and R40 before R31B, in order to enable new depalatalization rule. 
-$ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tăciune 
-		$ CM 9/18/26 -- now before palatals proper, not before affricates per se.
-	i > e / [+cons] __ [+cons,+front]
+$ R39 Lowerinɡ of unstressed internal [i] before affricates. Bleeds R40 for tăciune
+		$ tītiōnem > tăciune, rādīcīna > rădăcină, vīcīnum > vecin 
+		$ CM 9/18/26 -- now before palatalized dorsals [ which tītiōnem] now is proper, not before affricates per se, nor palatoalveolars -- not Ilișua, scrijea -- tho this could be a sign of pre-Slavic application too given the vocab involved. 
+	i > e / [+cons] __ [+cons,+front,+hi]
 
 	$ CM 9/22/26 -- final -dV lost if V is unstressed and is after unstressed
 
@@ -1956,7 +1957,7 @@ $ NEW RULE: Vowel tensing between Cj (NOT Cʲ) and two nonnasal sonorant consona
 	[-tense] > [+tense] / [+cons] j __ [+cons,+son,-nas] [+cons,+son,-nas]
 
 $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
-	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point) 
+	$ EDIT: a-insertion only after primary stressed lax V. CM EDIT 9/16 simplified  ~ -tense implies +prim here at this point so +prim can be excluded- TODO change this if this ever changes (i.e. non-tonic lax vowels come to be at this point). 
 		∅ > ɑ / [-tense,-hi] __
 
 		$ɑ > ˈɑ / [-tense,+stres] __
@@ -1964,8 +1965,6 @@ $ R31B Diphthonɡization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
 	$ Also, Pardess appears to also imply tensinɡ...
 		$[-syl,-tense] > [+tense]
 	$ CM 9/16/26 edit R31B RESOLUTION -- consolidation of the three above, as well as R32 below, into one rule; 
-
-
 
 	$ R36C ['uwa] > ['uva]
 		$ Pardess: w > v / u __ ɑ Appears to have forɡotten to mark stress.
@@ -2031,14 +2030,13 @@ $ CM 9/23 w-coloring -- 4+ Latin etyma, 7+ Slavic etyma.
 [+syl] > [+round,+lab,-front,+back] / [+front,-voi,-ant] __ ( [-cont,-cor] ) [+lab,+cont,whi,wsyl,!wcons] @
 
 
-
 $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
 		$CM EDIT 9/16 -- consolidated into R31B RESOLUTION 
 	$ˈe a > e ˈɑ
 	$ Implied by rule nameː
 		$ e > e̯ / __ [-cons,+lo] DEACTIVATED: This happens later in R38.
-	$ CM 9/16/26 edit R31B + R32 RESOLUTION -- ˈɛa ˈea ˈɔa become rising sonority diphthongs e̯a e̯a o̯a. Single rule for 3 rules in R31B + 1 as R32. 
-	[-hi,-lo,+prim] ɑ > [+tense] [+prim] 
+	$ CM 9/16/26 edit R31B + R32 RESOLUTION -- ˈɛa ˈea ˈɔa become rising sonority diphthongs e̯a e̯a o̯a. Single rule for 3 rules in R31B + 1 as R32. Unrounds ɒ as well
+	[-hi,-lo,+prim] [+lo] > [+tense] [+prim,-lab,-round] 
 	[-hi,-lo,+syl] > [-syl] / __ [+lo]
 
 
@@ -2129,8 +2127,8 @@ $ CM 11.23.26.u -- final hard yer to u after sonorants
 	$feeds common Romanian effacement -- pustiu like filu [ʎ effaced]; jiu [l]; iudeu, zmeu [j]; sibiu [n]
 ʊ > u / [-syl,+voi,vlab,-vson] __ #
 
-$ other  yers deleted
-[+hi,-tense,-stres] > ∅
+$ other  yers deleted unless followed by three or more consonants in a row. 
+[+hi,-tense,-stres] > ∅ / __ (([+cons]) ([+cons]) [-cons] (@)*) #
 
 $ CM 11.23.26.h fricatives -- or at least s and probably z, maybe v-- assimilates to voicing of following [obstruent] stop
 [-son,+cont] > [avoi] / __ [-son,-cont,avoi] 
@@ -2317,6 +2315,9 @@ $ Nasal assimilation. CM 10/26 -- shared across Common Romanian, moved to before
 $ CM 11.16.26.c -- ɯ, ɤ > ɨ, ə 
 [+syl,-lo,-round] > [-back]
 
+$ CM 11.23.26.i -- schwa inserted in #rC, CrC
+∅ > ə / # ( ( @ )* [-syl] ) [+cor,+son,-lat,-nas] __ [+cons] 
+
 
 ~Common Romanian
 
@@ -2328,7 +2329,11 @@ $ (11TH CENTURY TO THE PRESENT)
 	$ OCT 2026 : forward spreading of [n] continues to before t, not in Aromanian, and not feeding u > ɨ
 		∅ > n / [+syl] n [+syl,+hi] __ [-delrel,-son,-lab]
 
+	$ CM 11.23.26.k deletion of sonorants in T ɨ __ t/s {C;#}: atât,cât, gâscă, gât
+[+son,+cons] > ∅ / [-cont] [+hi,-back,-front] __ [+cor,-voi] ( [+cons] ( @ )* ) #
 
+	$CM 11.23.26.l insertion of ɨ in monosyllables ending in rɨ 
+∅ > ɨ / # ([-syl])* __ r ˈɨ #
 
 	$ CM 9/23 w-deletion before ɾ followed by front and non-low elements: fawrekˈɑ > fereca, fjˈowri > fjor, kʲuwri > ciur, excavVriat > zgawrje > zgârje , etc.
 		$ not before back: lăuruscă, graur < grawru, aurarium > awrarju > aurar, taur, laur, etc. 
@@ -2338,7 +2343,8 @@ w > ∅ / __ [-cont,+son] [+front]
 $ Pardess mentions a dissimilation occurring near here in R22C. The following appears to be the correct formulation.
 	$ CM 9/23 -- moved to after k voicing, which it counterfeeds; 10/21 -- moved to after common Romanian -- not shared with Arom.
 		$ now needs to come after cons (cons before a/ə)-- not amnar, doamna
-	m > w / [+cons] [-round,-front] __ n
+		$ not after sonorant: Slâmnă
+	m > w / [-son] [-round,-front] __ n
 
 	$ CM oct '26 -- moved R44 and palatal r unpacking to after Common Romanian, given different outcomes:
 		$ different outcomes : excavoriare > Romanian zgâria vs. Megl zgaira

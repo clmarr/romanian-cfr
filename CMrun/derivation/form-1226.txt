@@ -1,11 +1,10 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1226:
-#skˈɑbiɑm# >>> *#skˈɑjbə# ( GOLD : #zɡˈɑjbə#) :
-s k ˈɑ b i ɑ m 
-*#skˈɑbjɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
-*#skˈɑbjɑ# | 35 : m > ∅ / [-stres] __ #
-*#iskˈɑbjɑ# | 101 : ∅ > i / # __ s [+cons,-son]
-*#iskˈɑbbjɑ# | 111 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
-*#eskˈɑbbjɑ# | 113 : [+syl,-long,+hi,-back] > [-hi] 
+#eksskˈɑbiɑm# >>> *#skˈɑjbə# ( GOLD : #zɡˈɑjbə#) :
+e k s s k ˈɑ b i ɑ m 
+*#eksskˈɑbjɑm# | 8 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#eksskˈɑbjɑ# | 35 : m > ∅ / [-stres] __ #
+*#esskˈɑbjɑ# | 91 : [-cont] > ∅ / __ [+strid] [+cons]
+*#esskˈɑbbjɑ# | 111 : {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
 *#eskˈɑbjɑ# | 136 : [-son,scont,blab] > ∅ / __ [-son,scont,blab]
 *#eskˈɑjbɑ# | 138 : b j > j b / [+stres] __
 *#skˈɑjbɑ# | 147 : e > ∅ / # __ [+ant,-nas] [-cont]

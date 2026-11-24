@@ -1,11 +1,14 @@
 Derivation file for run '../Romanian/romanian-cfr/CMrun'; form ID 1511:
-... >>> *#pˈestrv# ( GOLD : #pˈəstrəv#) :
+... >>> *#pˈəstrəɡ# ( GOLD : #pˈəstrəv#) :
 ... 
 Balkan Romance stage form : ...
 Proto-Romanian I stage form : ...
 Proto-Romanian II stage form : ...
-*#pˈɪstrv# | 239 : [+hi,-tense,-stres] > ∅ 
+*#pˈɪstrv# | 239 : [+hi,-tense,-stres] > ∅ / __ ( ( [+cons] ) ( [+cons] ) [-cons] ( @ )* ) #
 *#pˈestrv# | 242 : [-tense,+hi,uback,+syl] > [uhi,+tense,-cons,-lat,+cont,0delrel] 
-Common Romanian stage form : *#pˈestrv#
-Old Romanian stage form : *#pˈestrv#
-Final form : *#pˈestrv#
+*#pˈestrəv# | 272 : ∅ > ə / # ( ( @ )* [-syl] ) [+cor,+son,-lat,-nas] __ [+cons]
+Common Romanian stage form : *#pˈestrəv#
+*#pˈəstrəv# | 291 : [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ( [+syl] ) ( [-syl,-front] )* [+cons,-front] ( [-syl,-front] )* [+syl,-front]
+Old Romanian stage form : *#pˈəstrəv#
+*#pˈəstrəɡ# | 328 : {k;v} > {ɡ;ɡ} / [+syl] [-voi] ( [+syl] ) ( [+cons] ) [+son,+cons] [+syl,-hi] __ #
+Final form : *#pˈəstrəɡ#
